@@ -1,6 +1,5 @@
 # Lesson 32 — Transcript
 
-
 T: The word for boring or bored is aburrido. Aburrido.
 
 S: Aburrido.
@@ -9,8 +8,7 @@ T: A-b-u-r-r-i-d-o. Aburrido.
 
 S: Aburrido.
 
-T: Now this is boring or bored. One of these words in English is a characteristic and the other one is
-   a state. Which is which? Boring, if I say you are boring, is it a state or a characteristic?
+T: Now this is boring or bored. One of these words in English is a characteristic and the other one is a state. Which is which? Boring, if I say you are boring, is it a state or a characteristic?
 
 S: Characteristic.
 
@@ -18,9 +16,7 @@ T: And if I say you are bored, is it a state or a characteristic?
 
 S: A state.
 
-T: A state. So in English we have two different words to express this difference whereas in Spanish
-   you will just decide whether you are going to use ser or estar. So, you will have to think about it.
-   How will you say, it is boring?
+T: A state. So in English we have two different words to express this difference whereas in Spanish you will just decide whether you are going to use ser or estar. So, you will have to think about it. How will you say, it is boring?
 
 S: Es aburrido.
 
@@ -41,7 +37,8 @@ T: Good. And she is boring:
 S: Es aburrido. Oh sorry, ella es aburrido.
 
 T: Spanish is more subtle than that.
-S: Es aburrida.
+
+S: Es aburrida.
 
 T: Es aburrida. They are boring:
 
@@ -51,62 +48,41 @@ T: Son aburridos. They are bored:
 
 S: Están aburridos.
 
-T: Good. Están aburridos. So with some adjectives we get a different meaning depending on whether
-   we use ser or estar. The word for from in Spanish is de. From or of, de. De.
+T: Good. Están aburridos. So with some adjectives we get a different meaning depending on whether we use ser or estar. The word for from in Spanish is de. From or of, de. De.
 
 S: De.
 
-T: We get this forming part of many Latin-English words, for example, deliver. The de- of deliver is
-   actually from. -liver is to do with freedom, like liberation, liberación. How would you say to
-   liberate?
+T: We get this forming part of many Latin-English words, for example, deliver. The de- of deliver is actually from. -liver is to do with freedom, like liberation, liberación. How would you say to liberate?
 
 S: Liberar.
 
-T: Good. Libre is free in Spanish. So again we see this grey area between v and b, between English
-   and Spanish, between libre and -liver in deliver just as we did between savvy and saber for
-   example, so deliver is like from or of freeing, which has much more sense if you look at the original
-   meanings of deliver, like to deliver a baby, deliver me from evil, rather than to deliver a package,
-   which is a much more modern meaning. You can see much more the ideology in the vocabulary
-   with the older uses. Another interesting word that we can see this de in, in English, is decipher for
-   example. Decipher is actually a combination of Arabic and Latin. You have de meaning of or from,
-   and “cipher” from “sifr” which means zero in Arabic. So to decipher is to go from zero, or
-   something like this. So anyway we have de for from or of. Now, if I want to ask, where is he from?
-   Is it a characteristic or a state, where you are from?
+T: Good. Libre is free in Spanish. So again we see this grey area between v and b, between English and Spanish, between libre and -liver in deliver just as we did between savvy and saber for example, so deliver is like from or of freeing, which has much more sense if you look at the original meanings of deliver, like to deliver a baby, deliver me from evil, rather than to deliver a package, which is a much more modern meaning. You can see much more the ideology in the vocabulary with the older uses. Another interesting word that we can see this de in, in English, is decipher for example. Decipher is actually a combination of Arabic and Latin. You have de meaning of or from, and “cipher” from “sifr” which means zero in Arabic. So to decipher is to go from zero, or something like this. So anyway we have de for from or of. Now, if I want to ask, where is he from? Is it a characteristic or a state, where you are from?
 
 S: A characteristic.
 
-T: Yes, it's not where you are, it's where you are from, this is characteristic of you. So in Spanish we
-   are going to say, from where are you, from where is he, from where is she? This is the word order.
+T: Yes, it's not where you are, it's where you are from, this is characteristic of you. So in Spanish we are going to say, from where are you, from where is he, from where is she? This is the word order.
 
-   So, from where is what?
-S: De dónde.
+So, from where is what?
+
+S: De dónde.
 
 T: De dónde. From where is he? From where are you (formal)? et cetera?
 
 S: ¿De dónde es?
 
-T: ¿De dónde es? And you informal. You remember how was you are, you informal. It's kind of
-   similar to es:
+T: ¿De dónde es? And you informal. You remember how was you are, you informal. It's kind of similar to es:
 
 S: ¿De dónde eres?
 
-T: ¿De dónde eres? So this sentence actually will help you remember this kind of irregular form eres
-   because you will hear it all the time. ¿De dónde eres? From where are you, where are you from?
-   How would you say, where are they from?:
+T: ¿De dónde eres? So this sentence actually will help you remember this kind of irregular form eres because you will hear it all the time. ¿De dónde eres? From where are you, where are you from? How would you say, where are they from?:
 
 S: ¿De dónde son?
 
-T: ¿De dónde son? But if you want to ask, where are they? Their location, where are they? How
-   would you ask?
+T: ¿De dónde son? But if you want to ask, where are they? Their location, where are they? How would you ask?
 
 S: ¿Dónde están?
 
-T: Good, ¿Donde están? Because now we refer to a state. Good. So, we have this adjective as well,
-   libre, like in deliver and liberation, libre, which means free. Again, we might mean a state or we
-   might mean a characteristic. Now sometimes, to show the difference, we might not just use ser
-   and estar, we might actually also change the way we say it. So for example, if you want to say I
-   am free, and you mean from your exams, from work, do you think you mean a state or a
-   characteristic?
+T: Good, ¿Donde están? Because now we refer to a state. Good. So, we have this adjective as well, libre, like in deliver and liberation, libre, which means free. Again, we might mean a state or we might mean a characteristic. Now sometimes, to show the difference, we might not just use ser and estar, we might actually also change the way we say it. So for example, if you want to say I am free, and you mean from your exams, from work, do you think you mean a state or a characteristic?
 
 S: A state.
 
@@ -114,13 +90,11 @@ T: A state. So how would you say that, I am free?
 
 S: Estoy libre.
 
-T: Good. Estoy libre. And libre does not change for masculine and feminine because it ends e. Only
-   adjectives ending o will change. Estoy libre. Good. Now if you mean as a characteristic, as a
-   characteristic of your personality, you are a free person, then you might say:
+T: Good. Estoy libre. And libre does not change for masculine and feminine because it ends e. Only adjectives ending o will change. Estoy libre. Good. Now if you mean as a characteristic, as a characteristic of your personality, you are a free person, then you might say:
 
 S: Soy libre.
-T: Soy libre. You might also say, I am a free person. So person is persona, and you could say, I am
-  a - what's a person?
+
+T: Soy libre. You might also say, I am a free person. So person is persona, and you could say, I am a - what's a person?
 
 S: Una persona.
 
@@ -128,22 +102,7 @@ T: Good. I am a free person:
 
 S: Soy una persona libre.
 
-T: Good. Soy una persona libre. Persona is feminine, not because of you, because the word is
-  feminine. So I, as a male, would also say, soy una persona libre. So it's the noun in itself, persona,
-  that is feminine. So in this case, with libre, there's no problem to move between ser and estar.
-  You can use libre with ser or with estar to give slightly different meanings. So some adjectives
-  you will be able to move between ser and estar and others you won't. If you want to get around
-  that uncertainty, instead of trying out soy libre you could just say soy una persona libre, and then
-  because persona is going with soy, because what you are saying in fact is, I am a person, soy una
-  persona, then you know you are safe. Also, different Spanish dialects can have different ideas
-  about what should go with ser and what should go with estar. So for example, casado, which
-  means married, not cansado, casado, comes from casa, which literally means housed. When you
-  are married you are housed. Casado, in some places they use with ser and in some places they use
-  with estar. They can't agree on whether being married is a characteristic or a state. If you want to
-  avoid this insecurity about it you can say, soy una persona casada, and then you know that
-  persona is going with soy, so whatever then describes persona is not important. Persona goes
-  with soy. When you say I am a person, then that is characteristic. Let's explore this idea a little
-  more. Busy in Spanish is occupied, ocupado. Ocupado.
+T: Good. Soy una persona libre. Persona is feminine, not because of you, because the word is feminine. So I, as a male, would also say, soy una persona libre. So it's the noun in itself, persona, that is feminine. So in this case, with libre, there's no problem to move between ser and estar. You can use libre with ser or with estar to give slightly different meanings. So some adjectives you will be able to move between ser and estar and others you won't. If you want to get around that uncertainty, instead of trying out soy libre you could just say soy una persona libre, and then because persona is going with soy, because what you are saying in fact is, I am a person, soy una persona, then you know you are safe. Also, different Spanish dialects can have different ideas about what should go with ser and what should go with estar. So for example, casado, which means married, not cansado, casado, comes from casa, which literally means housed. When you are married you are housed. Casado, in some places they use with ser and in some places they use with estar. They can't agree on whether being married is a characteristic or a state. If you want to avoid this insecurity about it you can say, soy una persona casada, and then you know that persona is going with soy, so whatever then describes persona is not important. Persona goes with soy. When you say I am a person, then that is characteristic. Let's explore this idea a little more. Busy in Spanish is occupied, ocupado. Ocupado.
 
 S: Ocupado.
 
@@ -151,19 +110,13 @@ T: Good. How do you say, I am busy?
 
 S: Estoy ocupada.
 
-T: Estoy ocupada. Or I would say, estoy ocupado. Now, if I want to say, I am a busy person, then
-  with this adjective, actually, I can't switch to soy, and say soy ocupado. That's bad Spanish. But
-  you as a Spanish learner, how are you supposed to know that? So, you can use persona as a safety
-   net, in the sense of I am a busy person, and then you're sure it's perfect Spanish. So how would
-   you say I am a busy person?
+T: Estoy ocupada. Or I would say, estoy ocupado. Now, if I want to say, I am a busy person, then with this adjective, actually, I can't switch to soy, and say soy ocupado. That's bad Spanish. But you as a Spanish learner, how are you supposed to know that? So, you can use persona as a safety
+
+net, in the sense of I am a busy person, and then you're sure it's perfect Spanish. So how would you say I am a busy person?
 
 S: Soy una persona ocupada.
 
-T: Good. Soy una persona ocupada. So that's a characteristic, because what you are actually saying
-   is, I am a person, and much more characteristic than that you can't get. So, estoy ocupado, as a
-   state, and then soy una persona ocupada, characteristic, males or females would say persona
-   ocupada. Ocupada refers to persona, not to the speaker, so I would also say, soy una persona
-   ocupada. How would you say, we are busy?
+T: Good. Soy una persona ocupada. So that's a characteristic, because what you are actually saying is, I am a person, and much more characteristic than that you can't get. So, estoy ocupado, as a state, and then soy una persona ocupada, characteristic, males or females would say persona ocupada. Ocupada refers to persona, not to the speaker, so I would also say, soy una persona ocupada. How would you say, we are busy?
 
 S: Estamos ocupados.
 
@@ -171,8 +124,7 @@ T: Estamos ocupados. But if you wanted to say, we are busy people:
 
 S: Somos personas ocupadas.
 
-T: Good. Somos personas ocupadas. To be worried is to be preoccupied. So how do you think that
-   would sound?
+T: Good. Somos personas ocupadas. To be worried is to be preoccupied. So how do you think that would sound?
 
 S: Preocupado.
 
@@ -189,4 +141,3 @@ T: Good. He is a worried person. He is worried as a characteristic. He is worryf
 S: Es una persona preocupada.
 
 T: Good. Es una persona preocupada.
-

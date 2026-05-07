@@ -1,6 +1,5 @@
 # Lesson 26 — Transcript
 
-
 T: So again, You're staying here. Let's make that. You're staying here, informal.
 
 S: Te quedas aquí.
@@ -25,11 +24,7 @@ T: Voy. Good. So, how do you think you would say I'm going to stay, I'm going to
 
 S: Voy a quedarme.
 
-T: Good. Until seven, until seven o'clock. Seven is siete, similar to the beginning of September.
-   September in Spanish actually is either Septiembre or Setiembre. You have two versions of it in
-   Spanish, Septiembre with the p, or without the p, Setiembre. And you can see how siete is like
-   the beginning “set” with the split of the e. So, I'm going to stay, I'm going to remain myself until
-   seven o'clock. I'm going to stay until seven o'clock:
+T: Good. Until seven, until seven o'clock. Seven is siete, similar to the beginning of September. September in Spanish actually is either Septiembre or Setiembre. You have two versions of it in Spanish, Septiembre with the p, or without the p, Setiembre. And you can see how siete is like the beginning “set” with the split of the e. So, I'm going to stay, I'm going to remain myself until seven o'clock. I'm going to stay until seven o'clock:
 
 S: Voy a quedarme hasta las siete.
 
@@ -40,8 +35,8 @@ S: Quiero quedarme.
 T: Good. Quiero quedarme. Do you want to stay? Let's talk informally. Do you want to stay?:
 
 S: ¿Quieres quedarte?
-T: Good. Very good. ¿Quieres quedarte? Do you want to remain yourself? What was I must or I
-  owe?
+
+T: Good. Very good. ¿Quieres quedarte? Do you want to remain yourself? What was I must or I owe?
 
 S: Debo.
 
@@ -53,17 +48,13 @@ T: Good. We must stay. So, We owe to remain ourselves. We must stay:
 
 S: Debemos quedarme, quedarnos.
 
-T: Good. Debemos quedarnos. Of course this nos or me or te can come at the beginning as well.
-  Nos debemos quedar, debemos quedarnos. Good. What was I have, in the sense of possession?
+T: Good. Debemos quedarnos. Of course this nos or me or te can come at the beginning as well. Nos debemos quedar, debemos quedarnos. Good. What was I have, in the sense of possession?
 
-  So not haber, the other "have"?
+So not haber, the other "have"?
 
 S: Tengo.
 
-T: Tengo. So, if we add on que to tengo, we get the meaning of have to, which is just like debo, but
-  less serious sounding. Just like in English. I must stay sounds a little bit more serious than I have
-  to stay. And that difference in register, how it feels, is the same in Spanish. So how do you say I
-  have to stay?
+T: Tengo. So, if we add on que to tengo, we get the meaning of have to, which is just like debo, but less serious sounding. Just like in English. I must stay sounds a little bit more serious than I have to stay. And that difference in register, how it feels, is the same in Spanish. So how do you say I have to stay?
 
 S: Tengo que quedarme.
 
@@ -75,20 +66,19 @@ T: Tienes que quedarte. Good. You have to stay here, informally still:
 
 S: Tienes que quedarte aquí.
 
-T: Good. I want to know why you have to stay here. I want to know. First bit: don't think about the
-  whole sentence, just think of I want:
+T: Good. I want to know why you have to stay here. I want to know. First bit: don't think about the whole sentence, just think of I want:
 
 S: Quiero saber.
 
 T: Good. Quiero saber. Now forget that bit. Why:
-S: Por qué.
+
+S: Por qué.
 
 T: You have to stay here:
 
 S: Tienes que quedarte aquí.
 
-T: Good. Very good. Quiero saber por qué tienes que quedarte aquí. Good. What was I can, or I
-  have the power to?
+T: Good. Very good. Quiero saber por qué tienes que quedarte aquí. Good. What was I can, or I have the power to?
 
 S: Puedo.
 
@@ -108,8 +98,7 @@ T: Esta noche. Good. I can't stay tonight:
 
 S: No puedo quedarme esta noche.
 
-T: Good. No puedo quedarme esta noche. The "to" form of can is poder, poder. And this o is
-  splitting when we stress it and say puedo. Poder. So how would you say we can or we are able?
+T: Good. No puedo quedarme esta noche. The "to" form of can is poder, poder. And this o is splitting when we stress it and say puedo. Poder. So how would you say we can or we are able?
 
 S: Podemos.
 
@@ -124,7 +113,8 @@ S: No podemos quedarnos esta noche.
 T: Good. No podemos quedarnos esta noche. What was to think or to be pensive? To think:
 
 S: Pensar.
-T: Good. Pensar. We think:
+
+T: Good. Pensar. We think:
 
 S: Pensamos.
 
@@ -140,21 +130,17 @@ T: Good. Piensas. What do you think?:
 
 S: ¿Qué piensas?
 
-T: ¿Qué piensas? Good. Now, if we want to say Do you plan on staying here tonight? we can just
-   say Do you think to stay here tonight? Ah? Do you think to stay here tonight? So how would we
-   say this, informally?
+T: ¿Qué piensas? Good. Now, if we want to say Do you plan on staying here tonight? we can just say Do you think to stay here tonight? Ah? Do you think to stay here tonight? So how would we say this, informally?
 
 S: ¿Piensas quedarte aquí esta noche?
 
 T: Good. ¿Piensas quedarte aquí esta noche? Very good. Now how would you say I have stayed?
 
-   I have stayed, or I have remained myself, I have stayed:
+I have stayed, or I have remained myself, I have stayed:
 
 S: He quedado me, He me quedado
 
-T: I don't want you to guess and see what feels good. So with logic you want to place it. And if you're
-   wrong, it's fine, because if you got there through a fault of logic, you'll change the logic through
-   that mistake. So tell me the rule about where that me can go.
+T: I don't want you to guess and see what feels good. So with logic you want to place it. And if you're wrong, it's fine, because if you got there through a fault of logic, you'll change the logic through that mistake. So tell me the rule about where that me can go.
 
 S: It goes after the "to" form.
 
@@ -162,10 +148,9 @@ T: Mmm.
 
 S: And before everything else.
 
-T: Before the changed verb. It's very important the way we instruct ourselves. Now I'm giving you
-   always the simplest way that we can instruct ourselves accurately. If I tell you "before the verb"
-   and you tell yourself "at the beginning", you lose something. Ah, you lose a certain clarity.
-S: Because nouns might come into the sentence and then-
+T: Before the changed verb. It's very important the way we instruct ourselves. Now I'm giving you always the simplest way that we can instruct ourselves accurately. If I tell you "before the verb" and you tell yourself "at the beginning", you lose something. Ah, you lose a certain clarity.
+
+S: Because nouns might come into the sentence and then-
 
 T: Exactly. We have stayed, we have remained ourselves:
 
@@ -191,8 +176,7 @@ T: Good. ¿Tú te has quedado? Let's make it negative now. Haven't you stayed?:
 
 S: ¿Tú no te has quedado?
 
-T: Good. ¿Tú no te has quedado? Good. Llamar, in Spanish, is to call, or to phone, to telephone,
-  llamar. l-l, which we said is pronounced like y in most of the Spanish speaking world. To call.
+T: Good. ¿Tú no te has quedado? Good. Llamar, in Spanish, is to call, or to phone, to telephone, llamar. l-l, which we said is pronounced like y in most of the Spanish speaking world. To call.
 
 S: Llamar.
 
@@ -200,17 +184,15 @@ T: How do you say I call?
 
 S: Llamo.
 
-T: Llamo. If you want to introduce yourself, instead of saying My name is, in Spanish it's much more
-  common to say I call myself.
+T: Llamo. If you want to introduce yourself, instead of saying My name is, in Spanish it's much more common to say I call myself.
 
 S: Me llamo.
 
-T: Me llamo. And then you can introduce yourself. Me llamo Mihalis, for example. How would you
-  say You call yourself (informal)?
-S: Te llamas.
+T: Me llamo. And then you can introduce yourself. Me llamo Mihalis, for example. How would you say You call yourself (informal)?
 
-T: Good. Te llamas. If you want to ask the name, you will say How do you call yourself? And the
-  word for how is cómo. Cómo.
+S: Te llamas.
+
+T: Good. Te llamas. If you want to ask the name, you will say How do you call yourself? And the word for how is cómo. Cómo.
 
 S: Cómo.
 
@@ -218,6 +200,4 @@ T: So how do you say How do you call yourself?:
 
 S: ¿Cómo te llamas?
 
-T: Good. ¿Cómo te llamas? You might have heard this around and not understood actually how it's
-  being constructed. Now we understand it. It's How do you call yourself? ¿Cómo te llamas?
-
+T: Good. ¿Cómo te llamas? You might have heard this around and not understood actually how it's being constructed. Now we understand it. It's How do you call yourself? ¿Cómo te llamas?

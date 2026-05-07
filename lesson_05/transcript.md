@@ -1,13 +1,10 @@
 # Lesson 05 — Transcript
 
-
-T: You might have noticed we are not using the word for I. Quiero by itself means I want. There is a
-   word for I, the word for I is yo. Y-o.
+T: You might have noticed we are not using the word for I. Quiero by itself means I want. There is a word for I, the word for I is yo. Y-o.
 
 S: Yo.
 
-T: You only use it if you want to be emphatic. So if you want to say “I want”, to show that emphasis,
-   how would you do it?
+T: You only use it if you want to be emphatic. So if you want to say “I want”, to show that emphasis, how would you do it?
 
 S: Yo quiero.
 
@@ -39,11 +36,9 @@ T: Quiero celebrar, good. What would it mean if I say: Quiero ilustrar. Quiero i
 
 S: I want to illustrate.
 
-T: Yes! I want to illustrate. This is an interesting word as well, actually. The lus inside of ilustrar
-   means light, and the word luz, l-u-z, (so actually this z would be pronounced /th/ in most of Spain
-   - /looth/ - but in the rest of Spanish-speaking world /loos/) means light so you can use that word
-   as well. How would you say I want to find out? Now in Spanish you will say something like I want
-   to inform myself. I want to inform myself:
+T: Yes! I want to illustrate. This is an interesting word as well, actually. The lus inside of ilustrar means light, and the word luz, l-u-z, (so actually this z would be pronounced /th/ in most of Spain
+
+- /looth/ - but in the rest of Spanish-speaking world /loos/) means light so you can use that word as well. How would you say I want to find out? Now in Spanish you will say something like I want to inform myself. I want to inform myself:
 
 S: Quiero informarme.
 
@@ -55,16 +50,13 @@ T: Información, very good. What was you, in the sense of I love you, I want you
 
 S: Te.
 
-T: And this is informal you, this is used informally. How would you say then I don’t want to oblige
-   you? You might think “I don’t know this!” It’s very important, sentences that we think we don’t
-   know, to take them block by block. And in this way we will realise we can say so much in Spanish
-   that we would have assumed that we don’t know how to say. So the first bit is I don’t want.
+T: And this is informal you, this is used informally. How would you say then I don’t want to oblige you? You might think “I don’t know this!” It’s very important, sentences that we think we don’t know, to take them block by block. And in this way we will realise we can say so much in Spanish that we would have assumed that we don’t know how to say. So the first bit is I don’t want.
 
 S: No quiero.
 
 T: No quiero. To oblige? So we look to see if we have obligation in English: we have it, it’s a word.
 
-   It’s legal, so how is that?
+It’s legal, so how is that?
 
 S: Obligación.
 
@@ -72,16 +64,13 @@ T: Obligación. And to oblige then?
 
 S: Obligar.
 
-T: Obligar. So we don’t want to jump from oblige to sticking -ar on it. We want to take that long
-   route. Obligation, obligación, obligar. And then we find the word in Spanish. So, I don’t want,
-   no quiero, to oblige you:
+T: Obligar. So we don’t want to jump from oblige to sticking -ar on it. We want to take that long route. Obligation, obligación, obligar. And then we find the word in Spanish. So, I don’t want, no quiero, to oblige you:
 
 S: No quiero obligarte.
 
 T: Good, no quiero obligarte. I don’t want to oblige you. I don’t want to make you do it. So in
-   English we would say make you, maybe. Maybe oblige sounds a little bit too formal, but in Spanish
-   it's everyday language. How would you say I don’t want to provoke you? I don’t want to provoke
-   you:
+
+English we would say make you, maybe. Maybe oblige sounds a little bit too formal, but in Spanish it's everyday language. How would you say I don’t want to provoke you? I don’t want to provoke you:
 
 S: No quiero provocarte.
 
@@ -97,39 +86,23 @@ T: Good, quiero cancelarlo. How would you say I want to regulate it?
 
 S: Quiero regularlo.
 
-T: Good. I want to talk about this r. An initial r, like in regular in most Spanish dialects, it's a rolling
-   r. You get this flick of the tongue, regular. Real, we saw this as well in real, real. Now, if you
-   can’t make that sound, I don’t want you to worry about it yet, it’s something that I couldn’t
-   pronounce it actually, I couldn’t pronounce it for a long time, and it was really frustrating, and I
-   was trying to pronounce it, and when you are trying to pronounce it your mouth gets tense and
-   actually you need a very relaxed mouth to pronounce this r because you are kind of lifting your
-   tongue up a little bit and letting the air flap it. Now that’s a muscle. If it’s tense the air can’t flap
-   it. So I tried a very long time, I got very frustrated and I gave up and then I was practising Spanish
-   in Peru, one day I started speaking about rice, which is arroz and the r came out all by itself and I
-   was so excited that I was jumping up and down saying arroz arroz arroz and then I heard “the
-   gringo is hungry”. My advice if you can’t pronounce this sound is just to let it come. The more
-   you hear, just because you want to pronounce it it’s going to come. So initial r or two r's together
-   inside the word is going to pronounce this double r. So, the word for but in Spanish is pero.
+T: Good. I want to talk about this r. An initial r, like in regular in most Spanish dialects, it's a rolling r. You get this flick of the tongue, regular. Real, we saw this as well in real, real. Now, if you can’t make that sound, I don’t want you to worry about it yet, it’s something that I couldn’t pronounce it actually, I couldn’t pronounce it for a long time, and it was really frustrating, and I was trying to pronounce it, and when you are trying to pronounce it your mouth gets tense and actually you need a very relaxed mouth to pronounce this r because you are kind of lifting your tongue up a little bit and letting the air flap it. Now that’s a muscle. If it’s tense the air can’t flap it. So I tried a very long time, I got very frustrated and I gave up and then I was practising Spanish in Peru, one day I started speaking about rice, which is arroz and the r came out all by itself and I was so excited that I was jumping up and down saying arroz arroz arroz and then I heard “the gringo is hungry”. My advice if you can’t pronounce this sound is just to let it come. The more you hear, just because you want to pronounce it it’s going to come. So initial r or two r's together inside the word is going to pronounce this double r. So, the word for but in Spanish is pero.
 
 S: Pero.
 
 T: P-e-r-o. And the word for dog is perro. P-e-r-r-o.
 
 S: Perro.
-T: So that’s the difference. You have normal r: pero.
+
+T: So that’s the difference. You have normal r: pero.
 
 S: Pero.
 
-T: And it’s a bit different to English because it’s still kind of more pronounced. You know you are
-   still using your tongue more there. Pero. And then perro, you keep that in the same position that
-   you are using to make that Spanish r which is kind of a little bit more pronounced than the /r-r-r/
-   English sound, but you pass a little bit of air over it and you let that flick it. Perro.
+T: And it’s a bit different to English because it’s still kind of more pronounced. You know you are still using your tongue more there. Pero. And then perro, you keep that in the same position that you are using to make that Spanish r which is kind of a little bit more pronounced than the /r-r-r/ English sound, but you pass a little bit of air over it and you let that flick it. Perro.
 
 S: Perro.
 
-T: Now, like I said, I don’t want you to worry about if you can’t pronounce this, there are even native
-   Spanish speakers that can’t pronounce this, so it’s really something I don’t want to inhibit anybody.
-   How do you think is salvation in Spanish?
+T: Now, like I said, I don’t want you to worry about if you can’t pronounce this, there are even native Spanish speakers that can’t pronounce this, so it’s really something I don’t want to inhibit anybody. How do you think is salvation in Spanish?
 
 S: Salvación.
 
@@ -137,8 +110,7 @@ T: Salvación. So how do you think would be to save?
 
 S: Salvar.
 
-T: Salvar. This word that we used for it, lo, can also mean him. So how would you say I want to save
-   him?
+T: Salvar. This word that we used for it, lo, can also mean him. So how would you say I want to save him?
 
 S: Quiero salvarlo.
 
@@ -146,8 +118,7 @@ T: Good, quiero salvarlo. I want to save him. How would you say situation?
 
 S: Situación.
 
-T: Situación. Good, now if you turn that into a verb you actually get to situate, to place, to put
-   somewhere. So how would that be?
+T: Situación. Good, now if you turn that into a verb you actually get to situate, to place, to put somewhere. So how would that be?
 
 S: Situar.
 
@@ -156,10 +127,10 @@ T: Situar. Good, participation:
 S: Participación.
 
 T: Participación. To participate:
-S: Partipi…
 
-T: So, take it syllable by syllable. This is very important, so it doesn’t become like a salad. You want
-   to take it syllable by syllable.
+S: Partipi…
+
+T: So, take it syllable by syllable. This is very important, so it doesn’t become like a salad. You want to take it syllable by syllable.
 
 S: Participation-participación-partipisar.
 
@@ -167,12 +138,7 @@ T: Slower.
 
 S: Participar.
 
-T: Participar. So we must take it slowly, sometimes you don’t need to take it slowly, but we want to
-   get in the habit of taking it slowly, dividing up syllable by syllable. We want to install the correct
-   process slowly. We don’t want to jump from participate to participar because maybe we end up
-   putting some extra sound “participatar” or something like this and we don’t want to do this. We
-   want to take the long route. So for example, if you want to work out how to say to create in Spanish
-   you want to go through the long way, you want to go through creation.
+T: Participar. So we must take it slowly, sometimes you don’t need to take it slowly, but we want to get in the habit of taking it slowly, dividing up syllable by syllable. We want to install the correct process slowly. We don’t want to jump from participate to participar because maybe we end up putting some extra sound “participatar” or something like this and we don’t want to do this. We want to take the long route. So for example, if you want to work out how to say to create in Spanish you want to go through the long way, you want to go through creation.
 
 S: Creación.
 
@@ -184,16 +150,9 @@ T: Yeah. And that’s it, that’s the verb in Spanish. Crear, to create. How is
 
 S: So it’s experimentation. Experimentación-experimentar.
 
-T: Yeah, that’s it. Experimentar. And this also means to experience. To experiment and to
-   experience, which is a little bit of wisdom that I really like there from Spanish because your
-   experience is like an experiment. If you think that your relationship with experience is scientific,
-   you look what happens and you learn from it, or at least you should. So in Spanish, there is a
-   suggestion of that in the fact that these words are the same, to experience and to experiment is the
-   same verb, experimentar. The nouns are different. Experience is experiencia, experiment is
-   experimento. But the verb, the act, is the same verb, experimentar. Actually this gives us another
-   nice rule: experience, experiencia. If we have a word that ends in –ence or –ance, we can change
-   –ence to –encia and –ance to –ancia, and we will get the word in Spanish. Difference?
-S: Diferencia.
+T: Yeah, that’s it. Experimentar. And this also means to experience. To experiment and to experience, which is a little bit of wisdom that I really like there from Spanish because your experience is like an experiment. If you think that your relationship with experience is scientific, you look what happens and you learn from it, or at least you should. So in Spanish, there is a suggestion of that in the fact that these words are the same, to experience and to experiment is the same verb, experimentar. The nouns are different. Experience is experiencia, experiment is experimento. But the verb, the act, is the same verb, experimentar. Actually this gives us another nice rule: experience, experiencia. If we have a word that ends in –ence or –ance, we can change –ence to –encia and –ance to –ancia, and we will get the word in Spanish. Difference?
+
+S: Diferencia.
 
 T: Good. Influence:
 
@@ -216,4 +175,3 @@ T: Good, Incongruence:
 S: Incongruencia.
 
 T: Yes.
-

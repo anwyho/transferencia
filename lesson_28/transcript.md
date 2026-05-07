@@ -1,13 +1,6 @@
 # Lesson 28 — Transcript
 
-
-T: Spanish dialects don't change very much. Slang changes a lot, but Spanish is pretty standard. It's
-   not like Arabic for example, where you have such a different Arabic in Morocco to Egypt, for
-   example. All of the different Spanishes are completely mutually intelligible. But in slang, you get
-   many different terms and words and car is one of these words that have different versions. Money
-   is another one. You might hear dinero, which is like the standard word; you might hear plata,
-   which actually means silver; pasta you might hear pasta, that's one they use that in Spain. So we
-   had a few words for car. Do you remember any of them?
+T: Spanish dialects don't change very much. Slang changes a lot, but Spanish is pretty standard. It's not like Arabic for example, where you have such a different Arabic in Morocco to Egypt, for example. All of the different Spanishes are completely mutually intelligible. But in slang, you get many different terms and words and car is one of these words that have different versions. Money is another one. You might hear dinero, which is like the standard word; you might hear plata, which actually means silver; pasta you might hear pasta, that's one they use that in Spain. So we had a few words for car. Do you remember any of them?
 
 S: Máquina, auto, caro.
 
@@ -19,44 +12,35 @@ T: El carro. And how would you say, a car?
 
 S: Un carro.
 
-T: Un carro. Good. So it's a masculine word, and we use el for the, and un for a. What if we say, the
-   cars?
+T: Un carro. Good. So it's a masculine word, and we use el for the, and un for a. What if we say, the cars?
 
 S: Los carros.
 
-T: Good. Los carros. So the plural of el is los. It's a little bit different, el to los. The word for expensive
-   is caro. So it's like carro, but with one r. Caro.
+T: Good. Los carros. So the plural of el is los. It's a little bit different, el to los. The word for expensive is caro. So it's like carro, but with one r. Caro.
 
 S: Caro.
 
-T: So again it's a nice bit to feel the difference between having the single r and the double r, just as
-   we saw in pero, meaning but and perro meaning dog. So how would you say, the car is expensive?
+T: So again it's a nice bit to feel the difference between having the single r and the double r, just as we saw in pero, meaning but and perro meaning dog. So how would you say, the car is expensive?
 
 S: El carro es caro.
 
-T: Good. El carro es caro. Good. So es we said was it is, she is, he is or just is. Or you are, talking
-   to usted. Talking formally. So if you just wanted to say it is expensive:
+T: Good. El carro es caro. Good. So es we said was it is, she is, he is or just is. Or you are, talking to usted. Talking formally. So if you just wanted to say it is expensive:
 
 S: Es caro.
-T: Good. And what if you were talking about a feminine thing?
+
+T: Good. And what if you were talking about a feminine thing?
 
 S: Es cara.
 
-T: Es cara. And when I say feminine thing I really mean a feminine noun. If you're referring in your
-  mind to a feminine noun, because if you, in your country, call cars máquinas, then you're going
-  to say es cara. But if you call them autos, then you're going to say es caro. So it refers to the word
-  more than the object, to the noun, the gender of the noun. So es we have for is, and for they are,
-  or you guys are - we know they always come together - we have son. Son. S-o-n.
+T: Es cara. And when I say feminine thing I really mean a feminine noun. If you're referring in your mind to a feminine noun, because if you, in your country, call cars máquinas, then you're going to say es cara. But if you call them autos, then you're going to say es caro. So it refers to the word more than the object, to the noun, the gender of the noun. So es we have for is, and for they are, or you guys are - we know they always come together - we have son. Son. S-o-n.
 
 S: Son.
 
-T: Son. So if you want to say the cars are expensive, and we will use carro again. So the cars are
-  expensive:
+T: Son. So if you want to say the cars are expensive, and we will use carro again. So the cars are expensive:
 
 S: Los carros son caro- caros.
 
-T: Good. Los carros son caros. Good. What if you use a feminine word like máquina, how's it going
-  to be? The cars are expensive:
+T: Good. Los carros son caros. Good. What if you use a feminine word like máquina, how's it going to be? The cars are expensive:
 
 S: Las máquinas son caras.
 
@@ -68,24 +52,21 @@ T: Good. La máquina es cara. The word teacher in Spanish is professor. Profesor
 
 S: Profesor.
 
-T: Profesor. So how would you say, he is a professor? And we don't need to say “a”, we can just say
-  he is professor.
+T: Profesor. So how would you say, he is a professor? And we don't need to say “a”, we can just say he is professor.
 
 S: Es profesor.
 
-T: Good. Es profesor. What if you wanted to say, she is a professor? What do you think might
-  happen?
+T: Good. Es profesor. What if you wanted to say, she is a professor? What do you think might happen?
 
 S: Es profesora?
-T: Good. Es profesora. What if you wanted to say, they are teachers, and you mean a group of
-   females?
+
+T: Good. Es profesora. What if you wanted to say, they are teachers, and you mean a group of females?
 
 S: Son profesoras.
 
-T: Son profesoras. Good. So, this is a noun, profesor. It's a word you can put the or a in front of.
-   Now, we said that adjectives, they change for gender if they end in -o. If they don't, they don't.
+T: Son profesoras. Good. So, this is a noun, profesor. It's a word you can put the or a in front of. Now, we said that adjectives, they change for gender if they end in -o. If they don't, they don't.
 
-   For example, the global situation was:
+For example, the global situation was:
 
 S: La global situación.
 
@@ -93,14 +74,7 @@ T: Where does that global go?
 
 S: La situación global.
 
-T: La situación global. So situación is feminine, but we're not saying “globala”. Adjectives, these
-   describing words that we can put is in front of, they only change if they end in -o. But nouns, they
-   can change to feminine like profesor/profesora to differentiate. So this is why it's important to
-   know what type of word we're dealing with. We're doing this already, but we don't even realize it.
-   The moment we come in contact with a verb, we know exactly what to do. We know it's a verb,
-   and we know how to manage it. We don't start trying to make a verb masculine or feminine, for
-   example. So we are already making this differentiation, but we want to do it more consciously to
-   get more control. So this is a noun. Doctor, what do you think that means?
+T: La situación global. So situación is feminine, but we're not saying “globala”. Adjectives, these describing words that we can put is in front of, they only change if they end in -o. But nouns, they can change to feminine like profesor/profesora to differentiate. So this is why it's important to know what type of word we're dealing with. We're doing this already, but we don't even realize it. The moment we come in contact with a verb, we know exactly what to do. We know it's a verb, and we know how to manage it. We don't start trying to make a verb masculine or feminine, for example. So we are already making this differentiation, but we want to do it more consciously to get more control. So this is a noun. Doctor, what do you think that means?
 
 S: Doctor.
 
@@ -117,11 +91,10 @@ T: Good. Doctora. We just stick an a. Good. So how would you say he is a doctor?
 S: Es doctor.
 
 T: Good. She is a doctor:
-S: Es doctora.
 
-T: Good. Now, if you want to get the plural of professor, profesor, or doctor, doctor, or any other
-   word in Spanish that ends in a consonant, you don't add s; you add -es. so how do you think it
-   would sound, the plural of profesor?
+S: Es doctora.
+
+T: Good. Now, if you want to get the plural of professor, profesor, or doctor, doctor, or any other word in Spanish that ends in a consonant, you don't add s; you add -es. so how do you think it would sound, the plural of profesor?
 
 S: Profesores.
 
@@ -145,24 +118,17 @@ T: Good. Son doctores. What if they were females?
 
 S: Son doctoras.
 
-T: Good. Son doctoras. Good. Words ending -ive in English, i-v-e, tend to become -ivo, i-v-o for
-   masculine singular. This is the one we always start from though and build from, this masculine
-   singular, or neuter let's say. So for example addictive becomes adictivo. Now when I say neuter,
-   we don't really have a neuter in Spanish, we have masculine and feminine. But the concept of
-   neuter exists. For example, if I say it's addictive, and I'm referring to living in the mountains, is
-   addictive; eating healthily is addictive or something like this, then I use the masculine singular.
+T: Good. Son doctoras. Good. Words ending -ive in English, i-v-e, tend to become -ivo, i-v-o for masculine singular. This is the one we always start from though and build from, this masculine singular, or neuter let's say. So for example addictive becomes adictivo. Now when I say neuter, we don't really have a neuter in Spanish, we have masculine and feminine. But the concept of neuter exists. For example, if I say it's addictive, and I'm referring to living in the mountains, is addictive; eating healthily is addictive or something like this, then I use the masculine singular.
 
-   So how would you say it's addictive?
+So how would you say it's addictive?
 
 S: Es adictivo.
 
 T: Good. Es adictivo. How would you say he is positive?
-S: Es positivo.
 
-T: Good. And you pronounced an s where most English speakers will probably find themselves
-   pronouncing a z there because in English we have positive, so that would probably transfer into
-   Spanish to /pozitivo/ and we want to be careful not to do that. Positivo with an s. Positivo. She is
-   positive:
+S: Es positivo.
+
+T: Good. And you pronounced an s where most English speakers will probably find themselves pronouncing a z there because in English we have positive, so that would probably transfer into Spanish to /pozitivo/ and we want to be careful not to do that. Positivo with an s. Positivo. She is positive:
 
 S: Es positiva.
 
@@ -180,7 +146,7 @@ S: Intuitivas.
 
 T: Good. Son intuitivas. She is very attractive: The word for very is muy, and it's spelled m-u-y.
 
-   The y you can imagine it like an i. Muy.
+The y you can imagine it like an i. Muy.
 
 S: Muy.
 
@@ -192,13 +158,11 @@ T: Atractiva.
 
 S: Es muy atractiva.
 
-T: Good. Atractiva is showing us that it refers to a female. So this would probably help us work out
-   who we are talking about. But, maybe we would want to say, to clarify or to emphasize or to
-   contrast. So how would you say that, using the word for she? She is very attractive:
+T: Good. Atractiva is showing us that it refers to a female. So this would probably help us work out who we are talking about. But, maybe we would want to say, to clarify or to emphasize or to contrast. So how would you say that, using the word for she? She is very attractive:
 
 S: I always get confused on that, if it's el or if it's la or ella.
-T: So I want you to spend some time to think about it, and not guess. Think about which is which,
-   make a decision.
+
+T: So I want you to spend some time to think about it, and not guess. Think about which is which, make a decision.
 
 S: Her is la.
 
@@ -214,16 +178,13 @@ T: But, she's aggressive:
 
 S: Pero, es, is it “aggressiva”? I was thinking of the double g, does it stay?
 
-T: Well these random double letters that we don't need in English really, they just become single
-   letters in Spanish. So I think there's a double s there as well in English, well that would also become
-   singular. The only double letters that cross over are the r's and the n's. Like connotación.
+T: Well these random double letters that we don't need in English really, they just become single letters in Spanish. So I think there's a double s there as well in English, well that would also become singular. The only double letters that cross over are the r's and the n's. Like connotación.
 
 S: Oh double n's.
 
-T: “Con-notación”. If you get a double f, double s, double g, these random double letters you get in
-   English; they don't cross over into Spanish.
+T: “Con-notación”. If you get a double f, double s, double g, these random double letters you get in English; they don't cross over into Spanish.
 
-   How would you say, they are aggressive, talking about a masculine or mixed group?
+How would you say, they are aggressive, talking about a masculine or mixed group?
 
 S: Son agresivos.
 
@@ -240,14 +201,14 @@ T: Good, and if you use the word for he?
 S: Él es negativo.
 
 T: Good. He is very negative:
-S: Es muy negativo.
+
+S: Es muy negativo.
 
 T: How would you say, It's intensive?
 
 S: Es intensivo.
 
-T: Good. So we use the neuter there, we don't know what we're talking about. So we can just use the
-  masculine singular, which is also like neuter. Es intensivo. How would you say, they are natives?
+T: Good. So we use the neuter there, we don't know what we're talking about. So we can just use the masculine singular, which is also like neuter. Es intensivo. How would you say, they are natives?
 
 S: Son nativos.
 
@@ -256,4 +217,3 @@ T: Good. Son nativos. And what if it was a female group?
 S: Son nativas.
 
 T: Very good.
-

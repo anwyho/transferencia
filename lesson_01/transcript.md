@@ -1,76 +1,29 @@
 # Lesson 01 — Transcript
 
+Hello and welcome to Complete Spanish. We’re really excited about this new material, Language Transfer's first complete course, which is all you need to become a master self-directed language learner and steer yourself to fluency through practice of, and exposure to, Spanish; enjoying the fascinating journey of delving into language.
 
-   Hello and welcome to Complete Spanish. We’re really excited about this new material, Language
-Transfer's first complete course, which is all you need to become a master self-directed language
-learner and steer yourself to fluency through practice of, and exposure to, Spanish; enjoying the
-fascinating journey of delving into language.
+Right after the first hour, you will be and feel like a Spanish speaker. With the thinking method, we are not just interested in teaching you Spanish in record time, but also about exploring the thinking processes, abilities, and habits which make us effective and confident language learners in control of our own learning process. This will give you a more intimate relationship with your new language and the greater ability to express yourself through the mechanisms that language offers.
 
-   Right after the first hour, you will be and feel like a Spanish speaker. With the thinking method,
-we are not just interested in teaching you Spanish in record time, but also about exploring the thinking
-processes, abilities, and habits which make us effective and confident language learners in control of
-our own learning process. This will give you a more intimate relationship with your new language
-and the greater ability to express yourself through the mechanisms that language offers.
+We will reconstruct the language together in a way that will give you all of the know-how to overcome your technical difficulties in that language, so that you can concentrate on achieving and enjoying a freedom in your new language.
 
-   We will reconstruct the language together in a way that will give you all of the know-how to
-overcome your technical difficulties in that language, so that you can concentrate on achieving and
-enjoying a freedom in your new language.
+The course has been recorded with a volunteer student and is a genuine real life learning experience. The volunteer student does not have a script, and she’s not acting. Recording in this way has allowed us to capture the essence of the learning experience with the thinking method. During the length of the course, I will be asking the volunteer student to perform various mental exercises, resulting in the construction of sentences. When I do so, you will pause the audio and complete the task yourself, and then continue listening to see how our volunteer student answered. It is important to understand that these are exercises and not tests.
 
-   The course has been recorded with a volunteer student and is a genuine real life learning
-experience. The volunteer student does not have a script, and she’s not acting. Recording in this way
-has allowed us to capture the essence of the learning experience with the thinking method. During the
-length of the course, I will be asking the volunteer student to perform various mental exercises,
-resulting in the construction of sentences. When I do so, you will pause the audio and complete the
-task yourself, and then continue listening to see how our volunteer student answered. It is important
-to understand that these are exercises and not tests.
+Do not rush to answer. Take your time to think through your answer at your own pace, building it up piece by piece with the instructions you received during the audio, which are as much about the language as they are about the mental processes.
 
-   Do not rush to answer. Take your time to think through your answer at your own pace, building it
-up piece by piece with the instructions you received during the audio, which are as much about the
-language as they are about the mental processes.
+It is very important that you don’t try to memorize anything. Memorization is an extremely distracting process, and I need you 100% here with us. If you need help getting over any anxiety about forgetting or the possibility of forgetting, then just remind yourself that you can always repeat the course at the end. So relax.
 
-   It is very important that you don’t try to memorize anything. Memorization is an extremely
-distracting process, and I need you 100% here with us. If you need help getting over any anxiety about
-forgetting or the possibility of forgetting, then just remind yourself that you can always repeat the
-course at the end. So relax.
-   It’s also important that you don't write anything down. You will carry around your new language
-in your head, not in a notebook. Some of the content you may forget, and that’s ok. That’s part of the
-design. Don’t worry about that, and just concentrate on understanding (not memorizing) the
-explanations and building the sentences we give you.
+It’s also important that you don't write anything down. You will carry around your new language in your head, not in a notebook. Some of the content you may forget, and that’s ok. That’s part of the design. Don’t worry about that, and just concentrate on understanding (not memorizing) the explanations and building the sentences we give you.
 
-   Find the time and place to do the audios where you are calm, undisturbed and can concentrate
-solely on your language learning experience. Using headphones should help you to tune out from the
-outside world and concentrate on this experience.
+Find the time and place to do the audios where you are calm, undisturbed and can concentrate solely on your language learning experience. Using headphones should help you to tune out from the outside world and concentrate on this experience.
 
-   Try to be well rested when you do the courses. The tired mind makes all kinds of unproductive
-short cuts and careless mistakes. It is of the utmost importance that you don’t just listen to the audios,
-even if you’re listening and understanding the process, but that you pause every time I ask our
-volunteer student a question and work it out for yourself before hearing her response.
+Try to be well rested when you do the courses. The tired mind makes all kinds of unproductive short cuts and careless mistakes. It is of the utmost importance that you don’t just listen to the audios, even if you’re listening and understanding the process, but that you pause every time I ask our volunteer student a question and work it out for yourself before hearing her response.
 
-   Otherwise you will not have your own language learning experience - you will just be witnessing
-somebody else’s. If you do not pause and work out the answer for yourself before continuing, you
-will finish knowing a lot about Spanish but not speaking Spanish.
+Otherwise you will not have your own language learning experience - you will just be witnessing somebody else’s. If you do not pause and work out the answer for yourself before continuing, you will finish knowing a lot about Spanish but not speaking Spanish.
 
-   Sometimes our student takes one second to reply; sometimes 30 seconds or more. What we’ve
-done in the editing process is to leave a short pause for you to hit the pause button and then embark
-on your own mental journey before replying out loud and continuing with us.
+Sometimes our student takes one second to reply; sometimes 30 seconds or more. What we’ve done in the editing process is to leave a short pause for you to hit the pause button and then embark on your own mental journey before replying out loud and continuing with us.
 
-   The more energy you have, the more information you will naturally assimilate. If you find yourself
-tuning out during the explanations due to tiredness, then take a break and go back to it later. It’s better
-to do little often than a lot all at once. So 20 minutes a day you will find much more effective than a
-few hours crammed in over the weekend. But of course you will find your own balance with other
-commitments and how quickly you wish to learn Spanish.
+The more energy you have, the more information you will naturally assimilate. If you find yourself tuning out during the explanations due to tiredness, then take a break and go back to it later. It’s better to do little often than a lot all at once. So 20 minutes a day you will find much more effective than a few hours crammed in over the weekend. But of course you will find your own balance with other commitments and how quickly you wish to learn Spanish.
 
-   If it’s been awhile since you’ve had to concentrate, then don’t worry. You will notice your
-concentration span increase very rapidly. And remember: think slowly to learn quickly. This isn’t at
-school where we expect your hand to go up straight away with the correct answer through
-memorization; this is a different process where you are expected to take the time to think your answer
-through and to appreciate and understand that it’s those very processes of taking that time and thinking
-those answers through which makes us assimilate this new knowledge. You don’t even have to worry
-about memorizing this advice, because it will be revisited many times during the course.
-   Not only are all the courses at Language Transfer available for free download, but we are also an
-unfunded and independent project. This allows us to create the best courses we can create, without
-external monetary or publicity pressures. Now, to maintain this freedom and to continue with the
-many plans we have in the pipeline for more audio courses and also textbooks, we really do need help
-with donations. So if you love the course and are in a position to donate, then please do. Many thanks
-for joining us, and let’s begin.
-
+If it’s been awhile since you’ve had to concentrate, then don’t worry. You will notice your concentration span increase very rapidly. And remember: think slowly to learn quickly. This isn’t at school where we expect your hand to go up straight away with the correct answer through memorization; this is a different process where you are expected to take the time to think your answer through and to appreciate and understand that it’s those very processes of taking that time and thinking those answers through which makes us assimilate this new knowledge. You don’t even have to worry about memorizing this advice, because it will be revisited many times during the course.
+
+Not only are all the courses at Language Transfer available for free download, but we are also an unfunded and independent project. This allows us to create the best courses we can create, without external monetary or publicity pressures. Now, to maintain this freedom and to continue with the many plans we have in the pipeline for more audio courses and also textbooks, we really do need help with donations. So if you love the course and are in a position to donate, then please do. Many thanks for joining us, and let’s begin.

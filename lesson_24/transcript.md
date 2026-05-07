@@ -1,6 +1,5 @@
 # Lesson 24 — Transcript
 
-
 T: The word to give in Spanish is dar. D-a-r, dar.
 
 S: Dar.
@@ -42,10 +41,10 @@ T: Good! Ellos dan or ellas for feminine. Ellas dan. Good. You (informal) give?
 S: Das.
 
 T: Das. And if you wanted to emphasize this you?
-S: Tú das.
 
-T: Good. The word for something we said was algo. Algo. So how would you say he is giving me
-   something? He is giving me something:
+S: Tú das.
+
+T: Good. The word for something we said was algo. Algo. So how would you say he is giving me something? He is giving me something:
 
 S: Él me da algo.
 
@@ -53,10 +52,7 @@ T: Good! Él me da algo. They give me something:
 
 S: Me dan algo.
 
-T: Good. Me dan algo. Now if you want to say they give it to me, they give it to me, in Spanish you
-   would just say they give me it. The personal word me is going to come first and then it is going to
-   come and the position where they go we know this already. So how would you say they give me
-   it? They give it to me:
+T: Good. Me dan algo. Now if you want to say they give it to me, they give it to me, in Spanish you would just say they give me it. The personal word me is going to come first and then it is going to come and the position where they go we know this already. So how would you say they give me it? They give it to me:
 
 S: Me lo dan.
 
@@ -64,23 +60,15 @@ T: Very good. Me lo dan. Now emphasize or clarify.
 
 S: Ellos me lo dan.
 
-T: Ellos me lo dan. Good. Or ellas if they were female they. Ellas me lo dan. Good. We said that
-   with some future context we don’t need to use the future. So if you want to say I will give it to you
-   tomorrow, you could just say I give it to you tomorrow. Lets talk informally, so informally how
-   will you say I give you it tomorrow?
+T: Ellos me lo dan. Good. Or ellas if they were female they. Ellas me lo dan. Good. We said that with some future context we don’t need to use the future. So if you want to say I will give it to you tomorrow, you could just say I give it to you tomorrow. Lets talk informally, so informally how will you say I give you it tomorrow?
 
 S: Te lo doy mañana.
 
-T: Te lo doy mañana. Very common, very Spanish sounding sentence. Te lo doy mañana, I give
-   you it tomorrow, sounds strange in English but perfect Spanish. Te lo doy mañana. How would
-   you say are you giving it to me tomorrow? And let’s speak formally, so complicated sentence in
-   English. Are you giving it to me tomorrow? What we have to do in Spanish is just work out who
-   is doing what. You work out who is doing what and to who and we build that, it's very simple in
-   Spanish. Complicated sentence in English but not in Spanish. Talking formally, are you giving it
-   to me tomorrow?:
+T: Te lo doy mañana. Very common, very Spanish sounding sentence. Te lo doy mañana, I give you it tomorrow, sounds strange in English but perfect Spanish. Te lo doy mañana. How would you say are you giving it to me tomorrow? And let’s speak formally, so complicated sentence in English. Are you giving it to me tomorrow? What we have to do in Spanish is just work out who is doing what. You work out who is doing what and to who and we build that, it's very simple in Spanish. Complicated sentence in English but not in Spanish. Talking formally, are you giving it to me tomorrow?:
 
 S: Well it’s da.
-T: That’s the first thing you should work out, good.
+
+T: That’s the first thing you should work out, good.
 
 S: ¿Me lo da mañana?
 
@@ -92,19 +80,11 @@ T: Yeah.
 
 S: So ¿usted me lo da mañana?
 
-T: ¿Usted me lo da mañana? ¿Me lo da usted mañana? ¿Me lo da mañana usted? These words
-   usted, yo, él, ella are extremely flexible for different emphasis. Again it’s not something we want
-   to teach here, because those nuances of emphasis change depending on the dialect, and it’s
-   something that you pick up in real life because where people move it around is accompanied with
-   a change in the voice and hand expressions and you understand in this case intuitively which is
-   emphatic. You guys is usted but plural. Now if the word ends in a consonant in Spanish, you don’t
-   just add –s, you add –es. So how would it sound, you guys?
+T: ¿Usted me lo da mañana? ¿Me lo da usted mañana? ¿Me lo da mañana usted? These words usted, yo, él, ella are extremely flexible for different emphasis. Again it’s not something we want to teach here, because those nuances of emphasis change depending on the dialect, and it’s something that you pick up in real life because where people move it around is accompanied with a change in the voice and hand expressions and you understand in this case intuitively which is emphatic. You guys is usted but plural. Now if the word ends in a consonant in Spanish, you don’t just add –s, you add –es. So how would it sound, you guys?
 
 S: Ustedes.
 
-T: Ustedes. Good. So now let’s say will you guys give it to us tomorrow? So again we just wanna
-   work out who is doing and to who or to what are they doing and then we can construct it. So, are
-   you guys giving it to us tomorrow?:
+T: Ustedes. Good. So now let’s say will you guys give it to us tomorrow? So again we just wanna work out who is doing and to who or to what are they doing and then we can construct it. So, are you guys giving it to us tomorrow?:
 
 S: So it’s dan.
 
@@ -116,12 +96,11 @@ T: Good.
 
 S: ¿Nos lo dan mañana?
 
-T: Good. Now this could mean you guys or they give it to us tomorrow. Now what if you wanted to
-   clarify that it was you guys?
+T: Good. Now this could mean you guys or they give it to us tomorrow. Now what if you wanted to clarify that it was you guys?
 
 S: ¿Ustedes nos lo dan mañana?
-T: Good. ¿Ustedes nos lo dan mañana? ¿Nos lo dan mañana ustedes? ¿Nos lo dan ustedes
-   mañana? How do you say I want to give? I want to give:
+
+T: Good. ¿Ustedes nos lo dan mañana? ¿Nos lo dan mañana ustedes? ¿Nos lo dan ustedes mañana? How do you say I want to give? I want to give:
 
 S: Quiero dar.
 
@@ -142,4 +121,3 @@ T: Good. And in what order do they come?
 S: It's te lo quiero dar.
 
 T: Good.
-

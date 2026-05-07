@@ -1,8 +1,6 @@
 # Lesson 20 — Transcript
 
-
-T: We mentioned that with future context we can talk about the future using the present. For example,
-   we had tomorrow which was:
+T: We mentioned that with future context we can talk about the future using the present. For example, we had tomorrow which was:
 
 S: Mañana.
 
@@ -22,8 +20,7 @@ T: Ahora was now, no?
 
 S: Soon?
 
-T: Soon. Yeah. You hear in English sometimes get here pronto. It's get here soon. So pronto is also
-   future context. What was the verb to see, or to view?
+T: Soon. Yeah. You hear in English sometimes get here pronto. It's get here soon. So pronto is also future context. What was the verb to see, or to view?
 
 S: Ver.
 
@@ -42,8 +39,8 @@ S: Ves.
 T: We:
 
 S: Vemos.
-T: Very good. The I version is a tiny bit irregular, it's veo. So you have v-e-o. So it's not vo as it
-   should be, or /bo/. It was too short; it became veo.
+
+T: Very good. The I version is a tiny bit irregular, it's veo. So you have v-e-o. So it's not vo as it should be, or /bo/. It was too short; it became veo.
 
 S: Veo.
 
@@ -79,12 +76,11 @@ T: Yes. So no guessing. No guessing at all. It's the only rule.
 
 S: La vemos pronto.
 
-T: Good. La vemos pronto. What if we say we're seeing, we will see, them soon but with this them
-   we mean a female group? We're seeing them soon:
+T: Good. La vemos pronto. What if we say we're seeing, we will see, them soon but with this them we mean a female group? We're seeing them soon:
 
 S: Las vemos pronto.
-T: Good. Las vemos pronto. He is seeing them soon. And this them, they are still females. He is
-  seeing them soon:
+
+T: Good. Las vemos pronto. He is seeing them soon. And this them, they are still females. He is seeing them soon:
 
 S: Las ve pronto.
 
@@ -108,22 +104,17 @@ T: ¿No las ves pronto? Why aren't you seeing them soon?:
 
 S: ¿Por qué no las ves pronto?
 
-T: Good. ¿Por qué no las ves pronto? Very good. So we saw that with future context, we don't need
-  the future. If we don't have future context, we can still use the present to talk about the future using
-  this I go or I'm going, which is present, but we can use it to talk about the future in Spanish as we
-  do in English. I'm going to see her, and you're talking about the future. We're going to see her. So
-  let's practice that - how would you say: we're going to see her?
+T: Good. ¿Por qué no las ves pronto? Very good. So we saw that with future context, we don't need the future. If we don't have future context, we can still use the present to talk about the future using this I go or I'm going, which is present, but we can use it to talk about the future in Spanish as we do in English. I'm going to see her, and you're talking about the future. We're going to see her. So let's practice that - how would you say: we're going to see her?
 
 S: Vamos a verla.
 
-T: Are you going to see him soon? Speaking informally. Are you going to see him soon? So you can't
-  work with ir, which is to go. You should probably work with vamos and work backwards.
+T: Are you going to see him soon? Speaking informally. Are you going to see him soon? So you can't work with ir, which is to go. You should probably work with vamos and work backwards.
 
 S: Vas. ¿Vas a verlo pronto?
 
-T: Good. ¿Vas a verlo pronto? The word for us is nos. Nos. So how would you say are you going to
-  see us soon? Are you going to see us soon? And we're still speaking informally.
-S: ¿Vas a vernos pronto?
+T: Good. ¿Vas a verlo pronto? The word for us is nos. Nos. So how would you say are you going to see us soon? Are you going to see us soon? And we're still speaking informally.
+
+S: ¿Vas a vernos pronto?
 
 T: Very good. ¿Vas a vernos pronto? Where else could that nos go?
 
@@ -137,40 +128,31 @@ T: Very good. ¿Nos vas a ver pronto? Aren't you going to see us soon?
 
 S: ¿No vas a ver pronto- nos pronto?
 
-T: Good. ¿No vas a vernos pronto? Or ¿No nos vas a ver pronto? Either way. Why aren't you
-   going to see us soon?
+T: Good. ¿No vas a vernos pronto? Or ¿No nos vas a ver pronto? Either way. Why aren't you going to see us soon?
 
 S: ¿Por qué no vas a vernos pronto?
 
-T: Good. So we've seen that we can use the present to talk about the future using “going to”, or also
-   using future context. A word like tomorrow, next week; next week is “the week that comes". And
-   the week is la semana. La semana. How would you say the week that comes? So what is the word
-   for that, which is the same as what?
+T: Good. So we've seen that we can use the present to talk about the future using “going to”, or also using future context. A word like tomorrow, next week; next week is “the week that comes". And the week is la semana. La semana. How would you say the week that comes? So what is the word for that, which is the same as what?
 
 S: Que.
 
-T: Que. La semana que, the week that, the week which, comes. And here we mean the week comes.
-   So it's it comes. So what is: it comes?
+T: Que. La semana que, the week that, the week which, comes. And here we mean the week comes. So it's it comes. So what is: it comes?
 
 S: Vene. Viene.
 
-T: Good. So next week is la semana que viene. The week that comes. La semana que viene. So you
-   could say let's speak, and to say let's speak we know from vamos you can just use the “we” form.
-   So to speak is:
+T: Good. So next week is la semana que viene. The week that comes. La semana que viene. So you could say let's speak, and to say let's speak we know from vamos you can just use the “we” form. So to speak is:
 
 S: Hablar.
 
 T: Hablar. We speak:
 
 S: Hablamos.
-T: Let's speak next week. Let's speak the week that comes.
+
+T: Let's speak next week. Let's speak the week that comes.
 
 S: Hablamos la semana que- And now I've forgotten come.
 
-T: It's okay. Okay. If we forgot it, we need to find it again. That's not any problem. Every time we do
-   find it, we strengthen that process. And that's what we need, not to remember the word. The process
-   we need to strengthen. I want you to know how to find to come and then to go from there. It comes.
-   Take your time to find it comes.
+T: It's okay. Okay. If we forgot it, we need to find it again. That's not any problem. Every time we do find it, we strengthen that process. And that's what we need, not to remember the word. The process we need to strengthen. I want you to know how to find to come and then to go from there. It comes. Take your time to find it comes.
 
 S: Vene.
 
@@ -182,10 +164,7 @@ T: Let's speak the coming week:
 
 S: Hablamos que-
 
-T: At the moment you have the whole sentence in your mind and you want to translate it. Now this
-   process works when you're memorizing. But we're not memorizing. We're doing something else;
-   we're building. So we must reduce it down to the smallest piece we could possibly think about,
-   think about that piece, get it out, and then forget it. So the first bit is we speak/let's speak:
+T: At the moment you have the whole sentence in your mind and you want to translate it. Now this process works when you're memorizing. But we're not memorizing. We're doing something else; we're building. So we must reduce it down to the smallest piece we could possibly think about, think about that piece, get it out, and then forget it. So the first bit is we speak/let's speak:
 
 S: Hablamos.
 
@@ -204,20 +183,12 @@ S: Ver.
 T: Ver. What is we see?
 
 S: Vemos.
-T: Vemos. If you want to say we see each other, you say we see us. Nos can mean us, ourselves, each
-  other, it can mean all of that. Nos. So how do you say: we see ourselves?
+
+T: Vemos. If you want to say we see each other, you say we see us. Nos can mean us, ourselves, each other, it can mean all of that. Nos. So how do you say: we see ourselves?
 
 S: Nos vemos.
 
-T: Nos vemos. This is a way of saying goodbye in Spanish. Nos vemos, we see each other. Now the
-  future context here is the fact that you're saying goodbye. But we're using present because we
-  know when we say nos vemos we don't mean we're seeing each other right now, we mean we will
-  see each other again. We're not even mentioning that future context, but it's working. It's allowing
-  us to use the present there. Nos vemos, ciao. Or you might want to say, we will see each other next
-  week. How would you say that? So piece by piece. We see each other. I want all of your mental
-  energy on that, and not thinking yet about next week, how you will say that. What you're worried
-  about right now in this moment is how you're going to say we see ourselves. And even before that,
-  just we see:
+T: Nos vemos. This is a way of saying goodbye in Spanish. Nos vemos, we see each other. Now the future context here is the fact that you're saying goodbye. But we're using present because we know when we say nos vemos we don't mean we're seeing each other right now, we mean we will see each other again. We're not even mentioning that future context, but it's working. It's allowing us to use the present there. Nos vemos, ciao. Or you might want to say, we will see each other next week. How would you say that? So piece by piece. We see each other. I want all of your mental energy on that, and not thinking yet about next week, how you will say that. What you're worried about right now in this moment is how you're going to say we see ourselves. And even before that, just we see:
 
 S: So it's vemos. And it's nos vemos.
 
@@ -225,9 +196,4 @@ T: Good. The week that comes. So the week:
 
 S: La semana que viene.
 
-T: Good. Nos vemos la semana que viene. So you see it's not important to remember viene. We don't
-  want to remember viene, this is useless. In fact, if we memorize viene, we're just going to be
-  glazing over the problem. What we want to internalize is the process of “how do I find this". So,
-  we've seen that we can use the present to talk about the future using either ir a: to go to; voy a,
-  vamos a, va a; or using some future context.
-
+T: Good. Nos vemos la semana que viene. So you see it's not important to remember viene. We don't want to remember viene, this is useless. In fact, if we memorize viene, we're just going to be glazing over the problem. What we want to internalize is the process of “how do I find this". So, we've seen that we can use the present to talk about the future using either ir a: to go to; voy a, vamos a, va a; or using some future context.

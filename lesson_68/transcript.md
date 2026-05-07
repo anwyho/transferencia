@@ -1,13 +1,10 @@
 # Lesson 68 — Transcript
 
-
 T: What was tonight in Spanish, tonight?
 
 S: Esta noche.
 
-T: Esta noche. Good, “this night”. And we can use this as a hook to work out the other this’s and
-   that’s and these and those that we might need. So, esta noche, which tells us that noche is what
-   kind of noun, what gender?
+T: Esta noche. Good, “this night”. And we can use this as a hook to work out the other this’s and that’s and these and those that we might need. So, esta noche, which tells us that noche is what kind of noun, what gender?
 
 S: Feminine.
 
@@ -39,36 +36,25 @@ T: Este hombre. Good. That man:
 
 S: Ese hombre.
 
-T: Good. You can also say el hombre este, el hombre ese, to say this man or that man in Spanish,
-   which might be a structure taken from Arabic, because in Arabic you don’t really have to be in the
-  present tense, so you can’t say this man, because you would understand from it that this is a man,
-  so in Arabic it’s the same: alrajul hdha - el hombre este. As I mentioned before when languages
-  come into contact, like the eight hundred years between Spanish and Arabic, they don’t just share
-  vocabulary. How would you say these men?
+T: Good. You can also say el hombre este, el hombre ese, to say this man or that man in Spanish, which might be a structure taken from Arabic, because in Arabic you don’t really have to be in the
+
+present tense, so you can’t say this man, because you would understand from it that this is a man, so in Arabic it’s the same: alrajul hdha - el hombre este. As I mentioned before when languages come into contact, like the eight hundred years between Spanish and Arabic, they don’t just share vocabulary. How would you say these men?
 
 S: Estos hombres.
 
-T: Good. Estos hombres. So, with este we have the /e/ of el, el hombre, este hombre, and with estos
-  we have the -os of los, los hombres, estos hombres, these men. How about those men?
+T: Good. Estos hombres. So, with este we have the /e/ of el, el hombre, este hombre, and with estos we have the -os of los, los hombres, estos hombres, these men. How about those men?
 
 S: Esos hombres.
 
-T: Esos hombres. Good. So, this means that we have este and esta for this, when we are referring to
-  a masculine noun or a feminine noun. But sometimes we say this just generally, oh, I can’t believe
-  this, we don’t mean a specific noun when we say I can’t believe this, so we have like a neuter this,
-  that is not masculine or feminine, and that one is esto. So, creer is to believe, creer, with two e’s.
-  How would you say I don’t believe this?
+T: Esos hombres. Good. So, this means that we have este and esta for this, when we are referring to a masculine noun or a feminine noun. But sometimes we say this just generally, oh, I can’t believe this, we don’t mean a specific noun when we say I can’t believe this, so we have like a neuter this, that is not masculine or feminine, and that one is esto. So, creer is to believe, creer, with two e’s. How would you say I don’t believe this?
 
 S: No creo esto.
 
-T: Good. No creo esto. Good. I don't believe this. How would you say I don’t like anything more than
-  this? In Spanish we will say nothing pleases me more than this, nothing pleases me more than this,
-  I don’t like anything more than this:
+T: Good. No creo esto. Good. I don't believe this. How would you say I don’t like anything more than this? In Spanish we will say nothing pleases me more than this, nothing pleases me more than this, I don’t like anything more than this:
 
 S: Nada me gusta más que esto.
 
-T: Good. Nada me gusta más que esto. How would you say nothing pleased me more than that? I
-  didn’t like anything more than that, nothing pleased me more than that:
+T: Good. Nada me gusta más que esto. How would you say nothing pleased me more than that? I didn’t like anything more than that, nothing pleased me more than that:
 
 S: Nada me gusta-
 
@@ -76,10 +62,9 @@ T: Nothing pleased me:
 
 S: Nada me gustó más que eso.
 
-T: Good. Nada me gustó más que eso. Nothing pleased me more than that, I didn’t like anything
-  more than that. Nada me gustó más que eso. Tan, tan, in Spanish means so, like in the sense of
-  so tired, tan. T-a-n. How would you say so tired?
-S: Tan cansado.
+T: Good. Nada me gustó más que eso. Nothing pleased me more than that, I didn’t like anything more than that. Nada me gustó más que eso. Tan, tan, in Spanish means so, like in the sense of so tired, tan. T-a-n. How would you say so tired?
+
+S: Tan cansado.
 
 T: Good. So, how would you say I was so tired, and we mean a line in time?
 
@@ -89,8 +74,7 @@ T: And you being feminine?
 
 S: Cansada.
 
-T: Good. Estaba tan cansada. What if you wanted to say we were so tired that we slept all day? So,
-   first bit is we were so tired, let’s be a masculine or mixed group, we were so tired:
+T: Good. Estaba tan cansada. What if you wanted to say we were so tired that we slept all day? So, first bit is we were so tired, let’s be a masculine or mixed group, we were so tired:
 
 S: Estábamos tan cansado- cansados.
 
@@ -98,8 +82,7 @@ T: Good. Estábamos tan cansados, that we slept all day. So what is this that?
 
 S: Que.
 
-T: Que. Estábamos tan cansados que we slept all day. Now, all day is “all the day”, you remember
-   how is day?
+T: Que. Estábamos tan cansados que we slept all day. Now, all day is “all the day”, you remember how is day?
 
 S: Día.
 
@@ -122,11 +105,8 @@ S: Todo el día.
 T: We were so tired that we slept all day, we were so tired that we slept all day:
 
 S: Estábamos tan cansados que dormimos todo el día.
-T: Very good. Estábamos tan cansados que dormimos todo el día. So dormimos could be we slept
-   or we sleep, we know it’s the same in the present, but estábamos tan cansados gives us our
-   context, so we understand that of course it refers to past, estábamos tan cansados que dormimos
-   todo el día. How would you say we were so tired when we arrived that we slept all day? So, we
-   were so tired:
+
+T: Very good. Estábamos tan cansados que dormimos todo el día. So dormimos could be we slept or we sleep, we know it’s the same in the present, but estábamos tan cansados gives us our context, so we understand that of course it refers to past, estábamos tan cansados que dormimos todo el día. How would you say we were so tired when we arrived that we slept all day? So, we were so tired:
 
 S: Estábamos tan cansados.
 
@@ -138,10 +118,7 @@ T: That we slept all day:
 
 S: Que dormimos todo el día.
 
-T: Good. Estábamos tan cansados cuando llegamos que dormimos todo el día. So, here in this
-   sentence we have llegamos and dormimos that could be past or present, but estábamos brings us
-   into the context right from the beginning, estábamos tan cansados cuando llegamos que
-   dormimos todo el día. So, we said that when was:
+T: Good. Estábamos tan cansados cuando llegamos que dormimos todo el día. So, here in this sentence we have llegamos and dormimos that could be past or present, but estábamos brings us into the context right from the beginning, estábamos tan cansados cuando llegamos que dormimos todo el día. So, we said that when was:
 
 S: Cuándo.
 
@@ -157,25 +134,20 @@ T: Otra vez. Good. So, you could say how many times, how would that be? How many
 
 S: Cuántos veces- Cuántas veces?
 
-T: Cuántas veces. Good. We know it’s feminine, because we said otra vez, and not otro vez. So, we
-   can, if we have a word like vez where it’s not obvious what is the gender, we need to look back to
-   somewhere that we used it – otra vez, oh, ok, it’s feminine, cuántas veces, good. How would you
-   say I don’t know how many times I visited him? I don’t know how many times I visited him:
-S: No sé cuántas veces.
+T: Cuántas veces. Good. We know it’s feminine, because we said otra vez, and not otro vez. So, we can, if we have a word like vez where it’s not obvious what is the gender, we need to look back to somewhere that we used it – otra vez, oh, ok, it’s feminine, cuántas veces, good. How would you say I don’t know how many times I visited him? I don’t know how many times I visited him:
+
+S: No sé cuántas veces.
 
 T: I visited him:
 
 S: Lo visité.
 
-T: No sé cuántas veces lo visité. I don’t know how many times they visited him, I don’t know how
-   many times they visited him:
+T: No sé cuántas veces lo visité. I don’t know how many times they visited him, I don’t know how many times they visited him:
 
 S: No sé cuántas veces los visitaron- oh, him- lo visitaron.
 
-T: Good. No sé cuántas veces lo visitaron. And what if you wanted to say I don’t know how many
-   times they visited her?
+T: Good. No sé cuántas veces lo visitaron. And what if you wanted to say I don’t know how many times they visited her?
 
 S: No sé cuántas veces la visitaron.
 
 T: Good. No sé cuántas veces la visitaron.
-

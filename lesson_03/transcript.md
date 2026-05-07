@@ -1,21 +1,16 @@
 # Lesson 03 — Transcript
 
-
 T: So what was is or he is, she is, it is?
 
 S: Es.
 
-T: Es. Good, we can use this with some other convertible words as well to make sentences. Another
-   rule for these convertible words is that words in English that end -ant or -ent, most of them we can
-   just stick an e on the end and they become Spanish. So for example, important becomes
-   importante. Importante. Where is the stress there?
+T: Es. Good, we can use this with some other convertible words as well to make sentences. Another rule for these convertible words is that words in English that end -ant or -ent, most of them we can just stick an e on the end and they become Spanish. So for example, important becomes importante. Importante. Where is the stress there?
 
 S: In the second last.
 
-T: Good. The stress is as much part of the word as the sounds, which is why we want to get into the
-   habit of just processing where is the accent, not trying to memorize it, just looking where it is.
+T: Good. The stress is as much part of the word as the sounds, which is why we want to get into the habit of just processing where is the accent, not trying to memorize it, just looking where it is.
 
-   Not trying to memorize it, just oberserving it. How would you say it is important?
+Not trying to memorize it, just oberserving it. How would you say it is important?
 
 S: Es importante.
 
@@ -39,9 +34,9 @@ T: Yeah, constante. How would you say it is constant?
 
 S: Es constante.
 
-T: Es constante. If you add on -mente, -mente, this sound you get: -ly in English. If you want to say
-   constantly you can say constantemente, and it's one word, constantemente.
-S: Constantemente.
+T: Es constante. If you add on -mente, -mente, this sound you get: -ly in English. If you want to say constantly you can say constantemente, and it's one word, constantemente.
+
+S: Constantemente.
 
 T: Good, so how would you say legally?
 
@@ -55,34 +50,27 @@ T: Ilegalmente. How do you think you say real in Spanish? Real:
 
 S: Real.
 
-T: Real. Good, when we have an r at the beginning you might hear it like a rolling r. Real. How do
-   you think you would say really?
+T: Real. Good, when we have an r at the beginning you might hear it like a rolling r. Real. How do you think you would say really?
 
 S: Realmente.
 
-T: Realmente. Real also means royal. Like Real Madrid is not, you know, real Madrid, it's Royal
-   Madrid. How would you say normally?
+T: Realmente. Real also means royal. Like Real Madrid is not, you know, real Madrid, it's Royal Madrid. How would you say normally?
 
 S: Normalmente.
 
 T: Good, normalmente. So what would it mean if I said to you normalmente es importante?
 
-   Normalmente es importante, what does that mean?
+Normalmente es importante, what does that mean?
 
 S: Normally, as in usually, it's important.
 
-T: Very good, this is true. You actually use normally like usually. Normalmente es importante.
-   Now if we have a /j/ sound, a /j/ sound, in a convertible word so we're not working with the letter
-   g, we're working with the sound here, we're thinking about the sound. If we have a /j/ sound in a
-   convertible word, this /j/ is going to become /kh/ in Spanish. Now if you know how to say
-   Argentina for example in Spanish, Argentina, if you've heard that anywhere, this is a good hook
-   to remember this rule. If we have a /j/ sound it's going to become /kh/ as a sound. This doesn't
-   mean any g. For example how would you say global?
+T: Very good, this is true. You actually use normally like usually. Normalmente es importante. Now if we have a /j/ sound, a /j/ sound, in a convertible word so we're not working with the letter g, we're working with the sound here, we're thinking about the sound. If we have a /j/ sound in a convertible word, this /j/ is going to become /kh/ in Spanish. Now if you know how to say Argentina for example in Spanish, Argentina, if you've heard that anywhere, this is a good hook to remember this rule. If we have a /j/ sound it's going to become /kh/ as a sound. This doesn't mean any g. For example how would you say global?
 
 S: Global.
 
 T: Global. Globally:
-S: Globalmente.
+
+S: Globalmente.
 
 T: Globalmente. So it's not a g, it's the /j/ sound. General is going to become?
 
@@ -112,9 +100,7 @@ T: Good. How would you say naturally it's original?
 
 S: Naturalmente es original.
 
-T: Good. So naturalmente, you can also use it a little bit like obviously, something like that. Words
-   ending -ible or -able, we can also convert many of them. We just have to pronounce them syllable
-   by syllable and put the accent second from the end. So possible becomes posible.
+T: Good. So naturalmente, you can also use it a little bit like obviously, something like that. Words ending -ible or -able, we can also convert many of them. We just have to pronounce them syllable by syllable and put the accent second from the end. So possible becomes posible.
 
 S: Posible.
 
@@ -125,7 +111,8 @@ S: Probable?
 T: Yeah, probable. How would you say probably?
 
 S: Probablemente.
-T: Yeah, probablemente. Possibly:
+
+T: Yeah, probablemente. Possibly:
 
 S: Posiblemente.
 
@@ -137,15 +124,6 @@ T: Good. Posiblemente es original. Flexible:
 
 S: Flexible.
 
-T: Flexible. Good. So you can't do this - like if you say doable for example, you know. It's when the
-   -able or -ible is really part of the word you will probably be able to do this. Some of these rules
-   are more useful than others, some of these rules have more exceptions than others. We want to just
-   get in the habit of identifying them and then getting this sense of what words in English are from
-   Latin, and which ones we can experiment with converting over to Spanish. Now, this gives us over
-   3,000 words, and there are enough words to be very conversational. So we want to feel free to
-   experiment with the vocabulary, but at the same time we don't want to feel restricted by the fact
-   that we might find an exception or we might use one that doesn't work. And feeling comfortable
-   about that possibility of making that error is what really allows you to learn quickly.
+T: Flexible. Good. So you can't do this - like if you say doable for example, you know. It's when the -able or -ible is really part of the word you will probably be able to do this. Some of these rules are more useful than others, some of these rules have more exceptions than others. We want to just get in the habit of identifying them and then getting this sense of what words in English are from Latin, and which ones we can experiment with converting over to Spanish. Now, this gives us over 3,000 words, and there are enough words to be very conversational. So we want to feel free to experiment with the vocabulary, but at the same time we don't want to feel restricted by the fact that we might find an exception or we might use one that doesn't work. And feeling comfortable about that possibility of making that error is what really allows you to learn quickly.
 
-   Because with this experimentation, you find very quickly the words that you can use.
-
+Because with this experimentation, you find very quickly the words that you can use.

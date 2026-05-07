@@ -1,6 +1,5 @@
 # Lesson 65 — Transcript
 
-
 T: What was the word for nothing?
 
 S: Nada.
@@ -17,10 +16,9 @@ T: Más.
 
 S: Más tarde.
 
-T: Good. So if you add más to nada or nadie you get else. So más can also mean else, like nadie
-   más.
+T: Good. So if you add más to nada or nadie you get else. So más can also mean else, like nadie más.
 
-   What does that mean? Nadie más:
+What does that mean? Nadie más:
 
 S: Nobody else.
 
@@ -38,15 +36,15 @@ S: No comí nada más.
 
 T: Good. No comí nada más. I didn’t eat anything else. Good. Didn’t you eat anything else?
 
-   (speaking informally) Didn’t you eat anything else?:
+(speaking informally) Didn’t you eat anything else?:
 
 S: I forgot the informal for past.
-T: You have the s in there which relates to you informal. And you also have the t in there,
+
+T: You have the s in there which relates to you informal. And you also have the t in there,
 
 S: Ah, comiste.
 
-T: Good. Which also relates to you informal, that t, but in a different way. But they’re both in there
-   and they will help you remember that ending, comiste. Didn’t you eat anything else?:
+T: Good. Which also relates to you informal, that t, but in a different way. But they’re both in there and they will help you remember that ending, comiste. Didn’t you eat anything else?:
 
 S: ¿No comiste nada más?
 
@@ -80,12 +78,11 @@ S: The accent’s on the /e/.
 
 T: Yes, vieron. So that’s our set. Vi, vio, vimos, viste, vieron. Good. Didn’t you see me last night?
 
-   (speaking informally) Didn’t you see me last night?:
+(speaking informally) Didn’t you see me last night?:
 
 S: ¿No me viste anoche?
-T: Good. ¿No me viste anoche? Time in the sense of occasion, no? - like when we say once we mean
-  one time. Or when we say again we mean another time - is vez. Vez. V-e-z. So in Spain this would
-  sound like /bes/. Vez.
+
+T: Good. ¿No me viste anoche? Time in the sense of occasion, no? - like when we say once we mean one time. Or when we say again we mean another time - is vez. Vez. V-e-z. So in Spain this would sound like /bes/. Vez.
 
 S: Vez.
 
@@ -105,30 +102,23 @@ T: Good. Los vi una vez. They saw them once:
 
 S: Los vieron una vez.
 
-T: Good. Los vieron una vez. How do you think you would say one more time, one more time, how
-  do you think you would say that?
+T: Good. Los vieron una vez. How do you think you would say one more time, one more time, how do you think you would say that?
 
 S: Una vez más.
 
-T: Yes, una vez más. Good. So you could say something like I want to see them one more time. I
-  want to see them one more time. How would you say that?
+T: Yes, una vez más. Good. So you could say something like I want to see them one more time. I want to see them one more time. How would you say that?
 
 S: Quiero verlos una vez más.
 
-T: Good. Quiero verlos una vez más. I want to see them one more time. Once more. What was the
-  word for we? The word for we:
+T: Good. Quiero verlos una vez más. I want to see them one more time. Once more. What was the word for we? The word for we:
 
 S: Nosotros.
 
-T: Nosotros. Good. Now nosotros is actually the combination of nos, like how we have in us, and
-  otros which means others. So we is kind of like us others. How would you say another time? And
-  you don’t say an other time in Spanish, you just say other time. So you don’t need an. So another
-  time:
-S: Otra vez.
+T: Nosotros. Good. Now nosotros is actually the combination of nos, like how we have in us, and otros which means others. So we is kind of like us others. How would you say another time? And you don’t say an other time in Spanish, you just say other time. So you don’t need an. So another time:
 
-T: Otra vez. Good. We can take this otros, we can work backwards to get otra, otra vez. So you can
-   use this like again. Otra vez. Another time. So you could say I want to see them again. I want to
-   see them again:
+S: Otra vez.
+
+T: Otra vez. Good. We can take this otros, we can work backwards to get otra, otra vez. So you can use this like again. Otra vez. Another time. So you could say I want to see them again. I want to see them again:
 
 S: Quiero verlos otra vez.
 
@@ -140,13 +130,11 @@ T: Salir. Good. And what was to dance, related to ballerina?
 
 S: Bailar.
 
-T: Bailar. So how would you ask informally, did you go out to dance again? Did you go out to dance
-   again (speaking informally)?
+T: Bailar. So how would you ask informally, did you go out to dance again? Did you go out to dance again (speaking informally)?
 
 S: ¿Saliste a bailar otra vez?
 
-T: Very good. Saliste a, because we have this verb of motion of coming and going. ¿Saliste a bailar
-   otra vez? Good. What was to speak?
+T: Very good. Saliste a, because we have this verb of motion of coming and going. ¿Saliste a bailar otra vez? Good. What was to speak?
 
 S: Hablar.
 
@@ -167,7 +155,8 @@ T: Hablamos. You (informal):
 S: Hablaste.
 
 T: Hablaste. And they:
-S: Hablaron.
+
+S: Hablaron.
 
 T: Hablaron. Well done. To arrive, to arrive was llegar.
 
@@ -185,14 +174,11 @@ T: Good. ¿Llegaste tarde otra vez? Did you arrive late again? Good. What was my
 
 S: Mi casa.
 
-T: Mi casa. How would you say he arrived late to my house again? So he arrived late to my house
-   again:
+T: Mi casa. How would you say he arrived late to my house again? So he arrived late to my house again:
 
 S: Llegó tarde a mi casa otra vez.
 
-T: Good. Llegó tarde a mi casa otra vez. Or llegó a mi casa tarde otra vez. This is ah, flexible.
-   How would you say he arrived at my house again, wanting to speak with me. He arrived at my
-   house, to my house, again, wanting to speak with me:
+T: Good. Llegó tarde a mi casa otra vez. Or llegó a mi casa tarde otra vez. This is ah, flexible. How would you say he arrived at my house again, wanting to speak with me. He arrived at my house, to my house, again, wanting to speak with me:
 
 S: Llegó a mi casa otra vez,
 
@@ -204,11 +190,9 @@ T: Yes.
 
 S: So, queriendo. Queriendo hablar conmigo.
 
-T: Good. Llegó a mi casa otra vez queriendo hablar conmigo. So we saw that we don’t use the -ing
-   in Spanish nearly half as much as we do in English. In English we really overuse the -ing, but this
-   is one situation where we do want it, in structures like this. He arrived at my house again, wanting
-  to speak with me. Llegó a mi casa otra vez queriendo hablar conmigo. Good. So my house is
-  mi casa, your house, speaking informally, is tu casa. Tu casa.
+T: Good. Llegó a mi casa otra vez queriendo hablar conmigo. So we saw that we don’t use the -ing in Spanish nearly half as much as we do in English. In English we really overuse the -ing, but this is one situation where we do want it, in structures like this. He arrived at my house again, wanting
+
+to speak with me. Llegó a mi casa otra vez queriendo hablar conmigo. Good. So my house is mi casa, your house, speaking informally, is tu casa. Tu casa.
 
 S: Tu casa.
 
@@ -220,47 +204,37 @@ T: If you want to say at what time, you say at what hour. How would that be?
 
 S: ¿A qué hora?
 
-T: Hora. Here we use hora. ¿A qué hora? Good. So how would you say at what time did they arrive
-  at your house? To your house? At what time did they arrive at your house?:
+T: Hora. Here we use hora. ¿A qué hora? Good. So how would you say at what time did they arrive at your house? To your house? At what time did they arrive at your house?:
 
 S: ¿A qué hora llegaron a tu casa?
 
-T: Good. ¿A qué hora llegaron a tu casa? Very good. At what time did they arrive at your house or
-  to your house? Good. If you say a la vez, a la vez, it means at the same time, like in English when
-  we say at a time. A la vez. Two at a time, we can say in English. This is at the time, at the same
-  time. A la vez. So you might want to say everybody arrived at my house at the same time.
+T: Good. ¿A qué hora llegaron a tu casa? Very good. At what time did they arrive at your house or to your house? Good. If you say a la vez, a la vez, it means at the same time, like in English when we say at a time. A la vez. Two at a time, we can say in English. This is at the time, at the same time. A la vez. So you might want to say everybody arrived at my house at the same time.
 
-  What was the word for all?
+What was the word for all?
 
 S: Todo.
 
-T: Todo. Good. If you make this plural, todos, you get everybody. Everybody, or you might also hear
-  in Spanish todo el mundo. “All the world” to say everybody, but todos is very common. So
-  everybody arrived at my house at the same time:
+T: Todo. Good. If you make this plural, todos, you get everybody. Everybody, or you might also hear in Spanish todo el mundo. “All the world” to say everybody, but todos is very common. So everybody arrived at my house at the same time:
 
 S: Todos llegaron a mi casa a la vez.
 
-T: Good. Todos llegaron a mi casa a la vez. Todos llegaron a la vez a mi casa. Flexible. What was
-  to find or to encounter?
+T: Good. Todos llegaron a mi casa a la vez. Todos llegaron a la vez a mi casa. Flexible. What was to find or to encounter?
 
 S: Encontrar.
 
 T: Encontrar. And I found:
 
 S: Encontré.
-T: Encontré. I didn’t find anything else in your house. What was your house again?
+
+T: Encontré. I didn’t find anything else in your house. What was your house again?
 
 S: Tu casa.
 
-T: Tu casa. Good. I didn’t find anything else, nothing more, in your house. I didn’t find anything else
-   in your house:
+T: Tu casa. Good. I didn’t find anything else, nothing more, in your house. I didn’t find anything else in your house:
 
 S: No encontré nada más en tu casa.
 
-T: Good. I didn’t find anything else in your house. No encontré nada más en tu casa. Good. So we
-   have mi casa, tu casa. Now the word for our is nuestro. Our house is nuestra casa. Nuestra
-   casa. We can see the o splitting of nosotros there in nuestro, nuestra. So that’s our. So how
-   would you say did you visit our house? What is to visit? Visitation:
+T: Good. I didn’t find anything else in your house. No encontré nada más en tu casa. Good. So we have mi casa, tu casa. Now the word for our is nuestro. Our house is nuestra casa. Nuestra casa. We can see the o splitting of nosotros there in nuestro, nuestra. So that’s our. So how would you say did you visit our house? What is to visit? Visitation:
 
 S: Visitación. Visitar.
 
@@ -268,9 +242,7 @@ T: Good. So did you visit our house, speaking informally:
 
 S: ¿Visitaste nuestra casa?
 
-T: Good. ¿Visitaste nuestra casa? Did you visit our house? How would you say we are with our
-   friends - how do you think you would say that, we are with our friends? We are with, what to be
-   do you think we will use?
+T: Good. ¿Visitaste nuestra casa? Did you visit our house? How would you say we are with our friends - how do you think you would say that, we are with our friends? We are with, what to be do you think we will use?
 
 S: Estar.
 
@@ -280,19 +252,15 @@ S: Estamos con nuestros amigos.
 
 T: Good. Nuestros amigos. Good, you make it plural to match amigos. We are with our friends.
 
-   What if we meant all female friends?
+What if we meant all female friends?
 
 S: Estamos con nuestras amigas.
 
-T: Good. Estamos con nuestras amigas. How would you say I am with my friends? I am with my
-   friends:
+T: Good. Estamos con nuestras amigas. How would you say I am with my friends? I am with my friends:
 
 S: Estoy con, is it mis amigos?
-T: Yes. Estoy con mis amigos. So the words for possession, mi, tu, nuestro can change for number
-   to match the number: mi amigo, mis amigos. And if it ends in -o like nuestro, it can change for
-   gender as well. Nuestro amigo, nuestra amiga. So we have mi/my, tu/your, nuestro or
-   nuestra/our. For his/her/their/your (speaking formally), for all of that, we have the same word
-   which is su. Su. S-u.
+
+T: Yes. Estoy con mis amigos. So the words for possession, mi, tu, nuestro can change for number to match the number: mi amigo, mis amigos. And if it ends in -o like nuestro, it can change for gender as well. Nuestro amigo, nuestra amiga. So we have mi/my, tu/your, nuestro or nuestra/our. For his/her/their/your (speaking formally), for all of that, we have the same word which is su. Su. S-u.
 
 S: Su.
 
@@ -300,15 +268,11 @@ T: Su. So how would you say I want to go to his house? I want to go to his house
 
 S: Quiero ir a su casa.
 
-T: Good. Quiero ir a su casa. I want to go to his house. How would you say I want to go to their
-   house?
+T: Good. Quiero ir a su casa. I want to go to his house. How would you say I want to go to their house?
 
 S: Quiero ir a su casa.
 
-T: Good. Quiero ir a su casa. So it’s the same. If you put it in plural or not refers to the things that
-   are possessed, not the possessors. So avoid any temptation to say sus, because you mean they. You
-   are only going to say sus if you are saying houses, for example. So if you were to say I want to go
-   to their houses, there you can put it in plural. How would that be?
+T: Good. Quiero ir a su casa. So it’s the same. If you put it in plural or not refers to the things that are possessed, not the possessors. So avoid any temptation to say sus, because you mean they. You are only going to say sus if you are saying houses, for example. So if you were to say I want to go to their houses, there you can put it in plural. How would that be?
 
 S: Quiero ir a sus casas.
 
@@ -316,18 +280,15 @@ T: Good. Quiero ir a sus casas. And I want to go to his houses, I want to go to 
 
 S: Quiero ir a sus casas.
 
-T: Exactly. The same. Quiero ir a sus casas. So these possessive words mi, tu, nuestro, su, they
-   refer to the thing being possessed, rather than the possessor when they’re changing. If you want to
-   say my own house, if you want to say my own house or my very own house, you can say mi propia
-   casa. Like property. Mi propia casa.
+T: Exactly. The same. Quiero ir a sus casas. So these possessive words mi, tu, nuestro, su, they refer to the thing being possessed, rather than the possessor when they’re changing. If you want to say my own house, if you want to say my own house or my very own house, you can say mi propia casa. Like property. Mi propia casa.
 
 S: Mi propia casa.
 
 T: Good. How would you say my own car?
 
 S: Mi propio auto.
-T: Good. Mi propio auto. The word for eye in Spanish - not I as in your, eye as in the two things in
-  your head, is ojo. Ojo. O-j-o. Ojo.
+
+T: Good. Mi propio auto. The word for eye in Spanish - not I as in your, eye as in the two things in your head, is ojo. Ojo. O-j-o. Ojo.
 
 S: Ojo.
 
@@ -343,10 +304,8 @@ T: Good. So, I saw it with my own eyes. I saw it with my own eyes:
 
 S: Lo vi con mis propios ojos.
 
-T: Good. Lo vi con mis propios ojos. Very good. How would you say I want to live in my own house?
-  I want to live in my own house:
+T: Good. Lo vi con mis propios ojos. Very good. How would you say I want to live in my own house? I want to live in my own house:
 
 S: Quiero vivir en mi propio casa, mi propia casa.
 
 T: Good. Quiero vivir en mi propia casa. Good. I want to live in my own house. Good.
-

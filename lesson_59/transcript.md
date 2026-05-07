@@ -1,11 +1,6 @@
 # Lesson 59 — Transcript
 
-
-T: So, for –ar verbs we have /e/ for I: hablar - to speak, hablé – I spoke, and /o/ for he/she/it/you
-   formal and we are accenting our endings - hablé, habló. For –er/-ir verbs we have an /i/ sound, so
-   an i, an i, for I, and /ió/, i-o, for he/she/it. So we have /i/ and /ió/. So, if you go to comer – to eat,
-   I ate is comí, and he ate/she ate/it ate/you (formal) ate is comió. We are accenting the endings
-   again, the i and the o. Comí, comió.
+T: So, for –ar verbs we have /e/ for I: hablar - to speak, hablé – I spoke, and /o/ for he/she/it/you formal and we are accenting our endings - hablé, habló. For –er/-ir verbs we have an /i/ sound, so an i, an i, for I, and /ió/, i-o, for he/she/it. So we have /i/ and /ió/. So, if you go to comer – to eat, I ate is comí, and he ate/she ate/it ate/you (formal) ate is comió. We are accenting the endings again, the i and the o. Comí, comió.
 
 S: Comí, comió.
 
@@ -25,8 +20,7 @@ T: Salió. Good. She didn’t go out yet, she didn’t leave yet:
 
 S: No salió todavía.
 
-T: Good. No salió todavía. I don’t know why she didn’t leave yet. I don’t know why she didn’t leave
-   yet:
+T: Good. No salió todavía. I don’t know why she didn’t leave yet. I don’t know why she didn’t leave yet:
 
 S: No sé por qué no salió todavía.
 
@@ -37,9 +31,8 @@ S: What.
 T: Yes, what, and what else does it mean?
 
 S: That.
-T: That. In, like, I hope that, espero que, good. So, apart from what and that, que also means than,
-   than. So, you can use it like this, so you could say, for example, I ate more than him. I ate is the
-   first bit:
+
+T: That. In, like, I hope that, espero que, good. So, apart from what and that, que also means than, than. So, you can use it like this, so you could say, for example, I ate more than him. I ate is the first bit:
 
 S: Comé?
 
@@ -51,15 +44,11 @@ T: Good. I ate more than him:
 
 S: Comí más que él.
 
-T: Good. Not him, than he. More than he ate. Comí más que él – I ate more than him, or more than
-   he ate. Good. He ate more than me:
+T: Good. Not him, than he. More than he ate. Comí más que él – I ate more than him, or more than he ate. Good. He ate more than me:
 
 S: Comió más que … and I’m not sure if it’s “mi” or “migo”.
 
-T: When we said comí más que él, we put él there because whilst in English we say him, what we
-   really mean is he. I ate more than he ate. It’s quite peculiar in English, that we say him and not he,
-   so in Spanish we are being more literal: comí más que él – I ate more than he. So, he ate more
-   than me - Comió más que:
+T: When we said comí más que él, we put él there because whilst in English we say him, what we really mean is he. I ate more than he ate. It’s quite peculiar in English, that we say him and not he, so in Spanish we are being more literal: comí más que él – I ate more than he. So, he ate more than me - Comió más que:
 
 S: Yo.
 
@@ -67,16 +56,11 @@ T: Exactly. So, he ate more than I, he ate more than I ate. So, how would that b
 
 S: Comió más que yo.
 
-T: Good. Comió más que yo. It’s actually quite peculiar in English that we say me. In fact, the way
-   we use words like me instead of I is really peculiar in English, and it’s a negative language transfer,
-   that could influence other languages that you are learning. For example, if I say who wants to go
-   to the park, you might say me! This doesn’t make any sense. It’s I, I want to go to the park, what
-   is this me? So, there is some strange use of these words in English that might influence our Spanish,
-   so we need to cut that negative language transfer when we identify it popping up. So, comió más
-   que yo, he ate more than I, he ate more than I ate. What was to see?
+T: Good. Comió más que yo. It’s actually quite peculiar in English that we say me. In fact, the way we use words like me instead of I is really peculiar in English, and it’s a negative language transfer, that could influence other languages that you are learning. For example, if I say who wants to go to the park, you might say me! This doesn’t make any sense. It’s I, I want to go to the park, what is this me? So, there is some strange use of these words in English that might influence our Spanish, so we need to cut that negative language transfer when we identify it popping up. So, comió más que yo, he ate more than I, he ate more than I ate. What was to see?
 
 S: Ver.
-T: Ver. Good. I saw? Ver is regular here, so I saw. So, go back to comer, use that as your hook.
+
+T: Ver. Good. I saw? Ver is regular here, so I saw. So, go back to comer, use that as your hook.
 
 S: Vi.
 
@@ -88,10 +72,7 @@ T: Good. Lo vi. I didn’t see him:
 
 S: No lo vi.
 
-T: No lo vi. I saw him, but he didn’t see me. And, as we are contrasting we will probably use one or
-   both of the words for I and he, those words we don’t need to use, we will probably use one or both
-   of them here as we’re contrasting, although you don’t need to, so it’s up to you. I saw him, but he
-   didn’t see me. First bit is I saw him:
+T: No lo vi. I saw him, but he didn’t see me. And, as we are contrasting we will probably use one or both of the words for I and he, those words we don’t need to use, we will probably use one or both of them here as we’re contrasting, although you don’t need to, so it’s up to you. I saw him, but he didn’t see me. First bit is I saw him:
 
 S: Lo vi.
 
@@ -99,11 +80,7 @@ T: But, he didn’t see me:
 
 S: Pero no me vio.
 
-T: Good. Lo vi, pero no me vio. And like I said, as we are contrasting we might feel an urge to say
-   the word for él: lo vi, pero él no me vio or yo lo vi, pero él no me vio, depends on the context,
-   even if you have context and you know who you are talking about, you might feel yourself wanting
-   to say these words because you are contrasting. The word for nothing, nothing, in Spanish is nada,
-   nada.
+T: Good. Lo vi, pero no me vio. And like I said, as we are contrasting we might feel an urge to say the word for él: lo vi, pero él no me vio or yo lo vi, pero él no me vio, depends on the context, even if you have context and you know who you are talking about, you might feel yourself wanting to say these words because you are contrasting. The word for nothing, nothing, in Spanish is nada, nada.
 
 S: Nada.
 
@@ -116,7 +93,8 @@ T: And we have double negative in Spanish, which means you can say I didn’t se
 S: No vi nada.
 
 T: Good. No vi nada. I didn’t eat anything:
-S: No comí nada.
+
+S: No comí nada.
 
 T: No comí nada. Didn’t you eat anything (speaking formally)? Didn’t you eat anything?:
 
@@ -146,23 +124,15 @@ T: We have endure in English.
 
 S: Duration?
 
-T: Duration, and you even get like corporate names, that use these Latin roots and kind of appeal to
-   your understanding without you realizing that you understand it. So, for example, you have
-   Duracell batteries, you know what that means, but you don’t know why you know what it means,
-   so you can identify this kind of use of Latin in industry and how it’s appealing to your subconscious
-   understanding of the message that they want to give you about the products. So, look out for that.
-   So, durar, to last. Minute in Spanish is minuto. So, how would you say it lasted two minutes? It
-   lasted two minutes:
+T: Duration, and you even get like corporate names, that use these Latin roots and kind of appeal to your understanding without you realizing that you understand it. So, for example, you have Duracell batteries, you know what that means, but you don’t know why you know what it means, so you can identify this kind of use of Latin in industry and how it’s appealing to your subconscious understanding of the message that they want to give you about the products. So, look out for that. So, durar, to last. Minute in Spanish is minuto. So, how would you say it lasted two minutes? It lasted two minutes:
 
 S: Duró dos minutos.
 
 T: Very good. Duró dos minutos. I lasted two minutes:
-S: Duré dos minutos.
 
-T: Good. Duré dos minutos. We looked at before how you can get this -ing adjective. So, the
-   adjective that we have for -ing, like interesting, using -ante or -iente. So, interesting was
-   interesante. So, during is not an adjective, but it’s formed in the same way, so how do you think
-   you say during in Spanish?
+S: Duré dos minutos.
+
+T: Good. Duré dos minutos. We looked at before how you can get this -ing adjective. So, the adjective that we have for -ing, like interesting, using -ante or -iente. So, interesting was interesante. So, during is not an adjective, but it’s formed in the same way, so how do you think you say during in Spanish?
 
 S: Durante?
 
@@ -170,9 +140,7 @@ T: Yes, durante. So you could say during two minutes:
 
 S: Durante dos minutos.
 
-T: Good. And you can use that like for, as well. So, we said that with time you can say por dos
-   minutos, but you can also say durante, you will hear that as well in Spanish, durante dos
-   minutos, during two minutes, for two minutes. What was to eat?
+T: Good. And you can use that like for, as well. So, we said that with time you can say por dos minutos, but you can also say durante, you will hear that as well in Spanish, durante dos minutos, during two minutes, for two minutes. What was to eat?
 
 S: Comer.
 
@@ -180,8 +148,7 @@ T: Comer. Good. And he ate:
 
 S: Comió.
 
-T: Comió. How would you say he ate for half an hour, or he ate during half an hour - half an hour
-   is media, half, and what was hour?
+T: Comió. How would you say he ate for half an hour, or he ate during half an hour - half an hour is media, half, and what was hour?
 
 S: Hora.
 
@@ -198,26 +165,15 @@ T: Habló durante media hora. What was with in Spanish?
 S: Con.
 
 T: Con. Without in Spanish is sin. S-i-n, sin.
-S: Sin.
+
+S: Sin.
 
 T: Sin. And to stop, to stop, is parar, parar. P-a-r-a-r, parar.
 
 S: Parar.
 
-T: So you could say he spoke for half an hour without stopping. He spoke for half an hour without
-   stopping:
+T: So you could say he spoke for half an hour without stopping. He spoke for half an hour without stopping:
 
 S: Habló durante media hora sin parar.
 
-T: Good. Habló durante media hora sin parar. And we said that after prepositions, so sin is a
-   preposition, we are not saying stoppING, we are saying to stop – sin parar, “without to stop”.
-   Habló durante media hora sin parar. Parar is interesting, because par, par, in Spanish means
-   pair, so un par is a pair. So, like a pair of shoes, un par de zapatos, un par de zapatos. So,
-   parar, to stop, might be “the pairing”, you can imagine this kind of time and space notion of two
-   things pairing, reaching each other and then stopping. And then comparar, to compare, is “with
-   pairing”. So, even though this is an m here, it’s con, the n has been softened by that p, which is
-   why we say compare. So, “with pairing” is to compare. Prepare, of course, is “pre-pairing”, we
-   can see this in English as well. Repair, to repair is to “re-pair”, to pair up again. Separar is to
-   separate in Spanish, separation, separación, separar; and this se- means apart, so to separate is
-   to “pair apart”, to “pair apart”.
-
+T: Good. Habló durante media hora sin parar. And we said that after prepositions, so sin is a preposition, we are not saying stoppING, we are saying to stop – sin parar, “without to stop”. Habló durante media hora sin parar. Parar is interesting, because par, par, in Spanish means pair, so un par is a pair. So, like a pair of shoes, un par de zapatos, un par de zapatos. So, parar, to stop, might be “the pairing”, you can imagine this kind of time and space notion of two things pairing, reaching each other and then stopping. And then comparar, to compare, is “with pairing”. So, even though this is an m here, it’s con, the n has been softened by that p, which is why we say compare. So, “with pairing” is to compare. Prepare, of course, is “pre-pairing”, we can see this in English as well. Repair, to repair is to “re-pair”, to pair up again. Separar is to separate in Spanish, separation, separación, separar; and this se- means apart, so to separate is to “pair apart”, to “pair apart”.

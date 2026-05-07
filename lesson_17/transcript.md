@@ -1,14 +1,10 @@
 # Lesson 17 — Transcript
 
-
-T: So we've seen how two sounds in the verbs in the present tense might split when we put pressure
-   on them. We’ve seen how e might become ie, so for example we have querer which means to
-   want, but I want is:
+T: So we've seen how two sounds in the verbs in the present tense might split when we put pressure on them. We’ve seen how e might become ie, so for example we have querer which means to want, but I want is:
 
 S: Quiero.
 
-T: Quiero. So we stress down on that e and it splits into ie. And this will happen for the other versions
-   that we learned as well. So how do you say he wants or she wants or you (formal) want?
+T: Quiero. So we stress down on that e and it splits into ie. And this will happen for the other versions that we learned as well. So how do you say he wants or she wants or you (formal) want?
 
 S: Quiere.
 
@@ -24,8 +20,7 @@ T: Good. What do you want?:
 
 S: ¿Qué quieres?
 
-T: Yeah. ¿Qué quieres? Good. So another example where this will happen is with the verb perder,
-   which means to lose. It's related to perish. So how would you say: I lose?
+T: Yeah. ¿Qué quieres? Good. So another example where this will happen is with the verb perder, which means to lose. It's related to perish. So how would you say: I lose?
 
 S: Pierdo.
 
@@ -40,9 +35,8 @@ S: Pierden.
 T: Good. And you (informal):
 
 S: Pierdes.
-T: Pierdes. Good. So we saw that the e can split into ie, and we also saw that an o in the base of the
-   verb can split into ue. So we saw, for example, poder is to be able. And then we have puedo, I
-   can, I am able. We had dormir, what did dormir mean?
+
+T: Pierdes. Good. So we saw that the e can split into ie, and we also saw that an o in the base of the verb can split into ue. So we saw, for example, poder is to be able. And then we have puedo, I can, I am able. We had dormir, what did dormir mean?
 
 S: To sleep.
 
@@ -56,7 +50,7 @@ S: I think it's I fall asleep.
 
 T: Yes. I sleep myself, I fall asleep. Good. So we can expect to see these o's split, but not always.
 
-   For example, to eat was? To eat:
+For example, to eat was? To eat:
 
 S: Comer.
 
@@ -64,10 +58,7 @@ T: Comer. And I eat:
 
 S: Como.
 
-T: Como. So it didn't split there. So there's no way to know where it will, where it won't. Most of the
-   time it will and you just have to kind of experiment and see what happens. And you will always
-   get the feedback when you try to see if it splits or not. You'll also develop an intuition of where
-   you should do it. So colgar, for example, is to hang. So if you want to say I hang:
+T: Como. So it didn't split there. So there's no way to know where it will, where it won't. Most of the time it will and you just have to kind of experiment and see what happens. And you will always get the feedback when you try to see if it splits or not. You'll also develop an intuition of where you should do it. So colgar, for example, is to hang. So if you want to say I hang:
 
 S: Cuelgo.
 
@@ -77,10 +68,9 @@ S: Cuelge, no it's colgar, so it's cuelga.
 
 T: Cuelga. Why do you think you said cuelge first?
 
-S: Well the reason you explained before with the- because it has an /e/ sound before, it seems to go
-   more.
-T: Exactly, it fits more. So you will find yourself doing that. How do you get out of doing that, how
-   do you stop that happening?
+S: Well the reason you explained before with the- because it has an /e/ sound before, it seems to go more.
+
+T: Exactly, it fits more. So you will find yourself doing that. How do you get out of doing that, how do you stop that happening?
 
 S: By going back to the “to” version of the verb.
 
@@ -100,17 +90,11 @@ T: Good. She hangs them:
 
 S: Los cuelga.
 
-T: Good. Los cuelga. Words in English that begin al-, so not end -al like normal, normal, metal,
-   metal, they begin al-, they come from Arabic. This al- means the in Arabic. And in Arabic it's
-   written with the word. It's written as one word. It's all stuck together. So when words came in from
-   Arabic they kind of came in most of the time with this al-, which meant the. So for example,
-   alcohol, and when we say the alcohol, we are actually saying something like “the the alcohol”,
-   something like this. The verb to take is tomar. Tomar. T-o-m-a-r.
+T: Good. Los cuelga. Words in English that begin al-, so not end -al like normal, normal, metal, metal, they begin al-, they come from Arabic. This al- means the in Arabic. And in Arabic it's written with the word. It's written as one word. It's all stuck together. So when words came in from Arabic they kind of came in most of the time with this al-, which meant the. So for example, alcohol, and when we say the alcohol, we are actually saying something like “the the alcohol”, something like this. The verb to take is tomar. Tomar. T-o-m-a-r.
 
 S: Tomar.
 
-T: Tomar. And this is also used like to drink. So it's used like take generically, generally, but also to
-   drink. How would you say: I don't drink alcohol, I don't take alcohol?
+T: Tomar. And this is also used like to drink. So it's used like take generically, generally, but also to drink. How would you say: I don't drink alcohol, I don't take alcohol?
 
 S: No tomo alcohol.
 
@@ -118,20 +102,13 @@ T: Good. No tomo alcohol. Sugar in Spanish is azucar.
 
 S: Azucar.
 
-T: Azucar. Or in Spain because we have a z here, it will be /athucar/ in most of Spain. Now, this is
-   also an Arabic word, and it's the same word as sugar in English. Might not look like it. What's
-   happened here? In Arabic, the l of al - the word for the - assimilates, changes to match the next
-   letter if the next letter is kind of close to it. It does this with about half the letters. So in Arabic
-   actually, instead of alzucar, you say azucar. And this passed into Spanish. But in English we got
-   the word without the the at the beginning this time. This time sugar came in without the the at the
-   beginning. So they look kind of different, and sound rather different: sugar, azucar. But again
-   they're the same word. So how would you say: I don't take sugar?
+T: Azucar. Or in Spain because we have a z here, it will be /athucar/ in most of Spain. Now, this is also an Arabic word, and it's the same word as sugar in English. Might not look like it. What's
+
+happened here? In Arabic, the l of al - the word for the - assimilates, changes to match the next letter if the next letter is kind of close to it. It does this with about half the letters. So in Arabic actually, instead of alzucar, you say azucar. And this passed into Spanish. But in English we got the word without the the at the beginning this time. This time sugar came in without the the at the beginning. So they look kind of different, and sound rather different: sugar, azucar. But again they're the same word. So how would you say: I don't take sugar?
 
 S: No tomo azucar.
 
-T: Good. No tomo azucar. Arroz, rice, is also an Arabic word. It's actually al ruz, the rice. But again
-   in Spanish, the l assimilated to the next r, as it does in Arabic and instead of al ruz like in arabic,
-   arruz, we ended up with arroz.
+T: Good. No tomo azucar. Arroz, rice, is also an Arabic word. It's actually al ruz, the rice. But again in Spanish, the l assimilated to the next r, as it does in Arabic and instead of al ruz like in arabic, arruz, we ended up with arroz.
 
 S: So it's two r's?
 
@@ -139,30 +116,19 @@ T: Two r's.
 
 S: So is azucar with two s's?
 
-T: Nope. It's with a z here because two s's are not a combination you find in Spanish. So for example,
-   in the word possible, we have two s's there in English. But in Spanish when we write posible, we
-   write one s. The same with passion; we write one s in Spanish, pasión. So you don't get two s's
-   together in Spanish. But you do get two r's together to differentiate between the normal r and the
-   rolling r. So in Spanish we have a-r-r-o-z. It's just assimilation of al ruz: arruz, to Spanish arroz.
-   And it's the same word that's in English, rice. So how do you say: I want rice?
+T: Nope. It's with a z here because two s's are not a combination you find in Spanish. So for example, in the word possible, we have two s's there in English. But in Spanish when we write posible, we write one s. The same with passion; we write one s in Spanish, pasión. So you don't get two s's together in Spanish. But you do get two r's together to differentiate between the normal r and the rolling r. So in Spanish we have a-r-r-o-z. It's just assimilation of al ruz: arruz, to Spanish arroz. And it's the same word that's in English, rice. So how do you say: I want rice?
 
 S: Quiero arroz.
 
 T: Quiero arroz. Good. Algebra. How would that be in Spanish?
 
-S: Alguebra?
-   T: /Al-juh-
-   bra/ S:
-   Algebra.
+S: Alguebra? T: /Al-juh- bra/ S: Algebra.
 
-T: Algebra. Good. Spanish has a lot more Arabic than English. The south of Spain was part of the
-   Muslim world for 800 years, so the languages had a lot of contact. And you get more words in
-   Spanish that you don't have in English that are from Arabic. So for example, aceite, oil. In Arabic
-   this is zet. Aceite. Aceituna, olive, zetun in Arabic. Alfombra, which means carpet, almohada,
-   which means pillow, all of these words they came in from Arabic. When you find al- at the
-   beginning, with maybe a couple of exceptions, it's from Arabic. So we said I take is tomo.
+T: Algebra. Good. Spanish has a lot more Arabic than English. The south of Spain was part of the Muslim world for 800 years, so the languages had a lot of contact. And you get more words in
 
-   How is: he takes, she takes, it takes, you (formal) take?
+Spanish that you don't have in English that are from Arabic. So for example, aceite, oil. In Arabic this is zet. Aceite. Aceituna, olive, zetun in Arabic. Alfombra, which means carpet, almohada, which means pillow, all of these words they came in from Arabic. When you find al- at the beginning, with maybe a couple of exceptions, it's from Arabic. So we said I take is tomo.
+
+How is: he takes, she takes, it takes, you (formal) take?
 
 S: Toma.
 
@@ -170,20 +136,15 @@ T: Toma. Good. You (informal)? Talking to a friend:
 
 S: Tomas.
 
-T: Good. How would you say what are you taking? This could be a way to ask what do you want to
-   drink?
+T: Good. How would you say what are you taking? This could be a way to ask what do you want to drink?
 
 S: ¿Qué tomas?
 
-T: ¿Qué tomas? To drink exists. It's beber, beber. And the word drink, the noun: una bebida, a
-   drink. Una, we have a for feminine words - una bebida or la bebida, the drink, comes from beber.
-   But tomar, to take, is extremely common. They take:
+T: ¿Qué tomas? To drink exists. It's beber, beber. And the word drink, the noun: una bebida, a drink. Una, we have a for feminine words - una bebida or la bebida, the drink, comes from beber. But tomar, to take, is extremely common. They take:
 
 S: Toman.
 
-T: Toman. Good. Now there's one more version of the verbs that we didn't learn yet, which was the
-   “we” version. We didn't learn how to say we want or we have. Now we take is tomamos. Explain
-   to me what I did then to get we take. If I go from tomar to tomamos what am I doing?
+T: Toman. Good. Now there's one more version of the verbs that we didn't learn yet, which was the “we” version. We didn't learn how to say we want or we have. Now we take is tomamos. Explain to me what I did then to get we take. If I go from tomar to tomamos what am I doing?
 
 S: You took out the -r and put a -mos at the end.
 
@@ -191,18 +152,15 @@ T: But to make it fit in with your-
 
 S: Well you took out the -ar, the -ar sound, and you put in the -amos sound.
 
-T: Good. This is very nice to think about it this way because then you fit it in with what you've been
-   doing up until now. Taking off the -ar, a-r, and putting in your ending. So you take off -ar and
-   you put on -amos and you get the “we” form. So, how is: to speak?
+T: Good. This is very nice to think about it this way because then you fit it in with what you've been doing up until now. Taking off the -ar, a-r, and putting in your ending. So you take off -ar and you put on -amos and you get the “we” form. So, how is: to speak?
 
 S: Hablar.
-T: Hablar. And we speak:
+
+T: Hablar. And we speak:
 
 S: Hablamos.
 
-T: Hablamos. Good. So with -amos we're adding on two syllables, and the accent is going on the
-   second last syllable. So it's in a different position, that accent, to the other versions. If we look at
-   tomo, toma, toman, tomas, tomamos, the accent is moving. Again, to speak:
+T: Hablamos. Good. So with -amos we're adding on two syllables, and the accent is going on the second last syllable. So it's in a different position, that accent, to the other versions. If we look at tomo, toma, toman, tomas, tomamos, the accent is moving. Again, to speak:
 
 S: Hablar.
 
@@ -226,9 +184,7 @@ T: We:
 
 S: Hablamos.
 
-T: Hablamos. Good. So this affects the split of the e or the o in the root of the verb. Because we said
-   that it splits because you stress it. But in the “we” form we don't actually stress it. So let's look at
-   this. What was to find or to encounter?
+T: Hablamos. Good. So this affects the split of the e or the o in the root of the verb. Because we said that it splits because you stress it. But in the “we” form we don't actually stress it. So let's look at this. What was to find or to encounter?
 
 S: Encontrar.
 
@@ -239,7 +195,8 @@ S: Encuentro.
 T: Encuentro. I find or I’m finding. He finds:
 
 S: Encuentra.
-T: Encuentra. Good. You went back to the “to" form, right?
+
+T: Encuentra. Good. You went back to the “to" form, right?
 
 S: Yep.
 
@@ -263,8 +220,7 @@ T: Demostración. So how would you say: to demonstrate?
 
 S: Demostrar.
 
-T: Demostrar. If you take away this de-, which actually means of in Spanish. If you get rid of it
-   you're left with mostrar and what does mostrar mean?
+T: Demostrar. If you take away this de-, which actually means of in Spanish. If you get rid of it you're left with mostrar and what does mostrar mean?
 
 S: To show.
 
@@ -283,7 +239,8 @@ S: Muestra.
 T: Good. They or you guys:
 
 S: Muestran.
-T: Muestran. You (informal):
+
+T: Muestran. You (informal):
 
 S: Muestras.
 
@@ -293,7 +250,7 @@ S: Mostramos.
 
 T: Very good. Mostramos. You're not accenting anymore that o, so it doesn't split. Mostramos.
 
-   How do you say to think? And we said it's related to the word pensive.
+How do you say to think? And we said it's related to the word pensive.
 
 S: Pensar.
 
@@ -301,8 +258,7 @@ T: Pensar. Good. I think:
 
 S: Pienso.
 
-T: Pienso. There the e splits when we stress it. If you want to say I think so, you can just say I think
-   that yes. I think that yes. That is the same as what?
+T: Pienso. There the e splits when we stress it. If you want to say I think so, you can just say I think that yes. I think that yes. That is the same as what?
 
 S: Que. Pienso que sí.
 
@@ -322,10 +278,9 @@ T: What do you think?:
 
 S: ¿Qué piensas?
 
-T: Good. If you say what do you think to do, we said that this means what do you plan on doing. You
-   can just say what do you think to do. What was to do? To do or to make which begins with a silent
-   h:
-S: Hacer.
+T: Good. If you say what do you think to do, we said that this means what do you plan on doing. You can just say what do you think to do. What was to do? To do or to make which begins with a silent h:
+
+S: Hacer.
 
 T: Hacer. Good. So what do you think to do, what do you plan on doing?:
 
@@ -335,8 +290,7 @@ T: Good. Qué piensas hacer. Now how would you say: we think?
 
 S: Pensamos.
 
-T: Good. Pensamos. So you’re not splitting there. Pensamos. The verb to close, to close, is cerrar.
-   c-e-r-r-a-r. Cerrar.
+T: Good. Pensamos. So you’re not splitting there. Pensamos. The verb to close, to close, is cerrar. c-e-r-r-a-r. Cerrar.
 
 S: Cerrar.
 
@@ -352,7 +306,4 @@ T: Cierra. Good. So how would you say: we close?
 
 S: Cerramos.
 
-T: Good. So we're seeing that really this issue of the e's and the o's splitting is an issue about stress,
-   and it’s only when we stress them down that they split under that pressure. When we don’t, they
-   are intact.
-
+T: Good. So we're seeing that really this issue of the e's and the o's splitting is an issue about stress, and it’s only when we stress them down that they split under that pressure. When we don’t, they are intact.

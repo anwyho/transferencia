@@ -1,6 +1,5 @@
 # Lesson 30 — Transcript
 
-
 T: The word for how in Spanish is cómo.
 
 S: Cómo.
@@ -9,8 +8,7 @@ T: Cómo. How do you think you would say, how are you?, talking informally?
 
 S: ¿Cómo estás?
 
-T: ¿Cómo estás? Because when you ask somebody how they are, you're referring to their state.
-  ¿Cómo estás? And formally, how would you ask?
+T: ¿Cómo estás? Because when you ask somebody how they are, you're referring to their state. ¿Cómo estás? And formally, how would you ask?
 
 S: ¿Cómo está?
 
@@ -18,8 +16,7 @@ T: Good. And if you're asking more than one person?
 
 S: ¿Cómo están?
 
-T: Very nice. The word for where is dónde. So how would you say, where are you?, talking
-  informally?
+T: Very nice. The word for where is dónde. So how would you say, where are you?, talking informally?
 
 S: ¿Dónde estás?
 
@@ -39,9 +36,9 @@ T: Estoy aquí, Estoy acá. How would you say, I want to be here?
 
 S: Quiero estar aquí.
 
-T: Good. Quiero estar aquí. Good. How would you say, I'm going to be here later? What was the
-  word for late?
-S: Tarde.
+T: Good. Quiero estar aquí. Good. How would you say, I'm going to be here later? What was the word for late?
+
+S: Tarde.
 
 T: Tarde. Good. And later or more late?
 
@@ -51,18 +48,15 @@ T: Good. So I'm going to be here later:
 
 S: Voy a estar aquí más tarde.
 
-T: Good. Voy a estar aquí más tarde. Voy is I go or I'm going. How do you say you go or you are
-   going, speaking informally?
+T: Good. Voy a estar aquí más tarde. Voy is I go or I'm going. How do you say you go or you are going, speaking informally?
 
 S: Vas.
 
-T: Vas. Good. So how would you say, where are you going to be? So break it up: where are you
-   going to be?:
+T: Vas. Good. So how would you say, where are you going to be? So break it up: where are you going to be?:
 
 S: ¿Dónde vas a estar?
 
-T: Yes. ¿Dónde vas a estar? Where are you going to be? Good. So let's run through the forms again,
-   and let's use the words for emphasis just to practice them. So I am is:
+T: Yes. ¿Dónde vas a estar? Where are you going to be? Good. So let's run through the forms again, and let's use the words for emphasis just to practice them. So I am is:
 
 S: Yo estoy.
 
@@ -83,7 +77,8 @@ T: Usted está. Good. They are, using the word for they:
 S: Ellos están.
 
 T: Ellos están. Or for feminine:
-S: Ellas están.
+
+S: Ellas están.
 
 T: Good. What is we are?
 
@@ -101,19 +96,15 @@ T: Good. And if we used the word for you:
 
 S: Tú estás.
 
-T: Good. Tú estás. Tú estás. Good. How would you ask more than one person, where do you have
-   to be later? So the first bit is where.
+T: Good. Tú estás. Tú estás. Good. How would you ask more than one person, where do you have to be later? So the first bit is where.
 
 S: Dónde.
 
-T: Do you have?, and we are talking to you (plural), which is the same as they. Do you have? Yeah,
-   what's to have?
+T: Do you have?, and we are talking to you (plural), which is the same as they. Do you have? Yeah, what's to have?
 
 S: Tener.
 
-T: Tener. Good. And we have it as -tain in words like maintain-mantener, contain-contener,
-   sustain-sostener, entertain-entretener, obtain-obtener. That will help us. So first we want to
-   build you guys have from tener.
+T: Tener. Good. And we have it as -tain in words like maintain-mantener, contain-contener, sustain-sostener, entertain-entretener, obtain-obtener. That will help us. So first we want to build you guys have from tener.
 
 S: Tienen.
 
@@ -126,10 +117,10 @@ T: Slower.
 S: Oh sorry, to be, it's in the, yes. Dónde, and I’ve forgotten the other one now.
 
 T: It's okay, work it out again.
-S: Dónde tienen estar.
 
-T: There is something we need to add to tienen to get this meaning of have to, and it's not a
-   comfortable translation.
+S: Dónde tienen estar.
+
+T: There is something we need to add to tienen to get this meaning of have to, and it's not a comfortable translation.
 
 S: Dónde tienen que estar.
 
@@ -137,10 +128,7 @@ T: Later:
 
 S: Más tarde.
 
-T: ¿Dónde tienen que estar más tarde? Good. You might want to say, he must be here, and you can
-   use this in the same way as you do in English, to refer to probability. Oh, he must be here by now,
-   or something like this. You have the same use in Spanish. And must is the same as to owe, which
-   is related to debt. So what was to owe?
+T: ¿Dónde tienen que estar más tarde? Good. You might want to say, he must be here, and you can use this in the same way as you do in English, to refer to probability. Oh, he must be here by now, or something like this. You have the same use in Spanish. And must is the same as to owe, which is related to debt. So what was to owe?
 
 S: Deber.
 
@@ -169,10 +157,10 @@ T: All together. Don't miss the fun.
 S: Deben estar cansadas.
 
 T: Good. Deben estar cansadas. To remain was quedar. Quedar.
-S: Quedar.
 
-T: And to get the meaning of I stay, we say, I remain myself. So how would that sound? I remain
-  myself:
+S: Quedar.
+
+T: And to get the meaning of I stay, we say, I remain myself. So how would that sound? I remain myself:
 
 S: Me quedo.
 
@@ -180,8 +168,7 @@ T: Me quedo. I am staying. How would we are staying, or we remain ourselves, be?
 
 S: Nos quedamos.
 
-T: Good. We are not going to stay, because we are very tired. We are not going to stay, because we
-  are very tired. So the first bit that needs to command all of our attention is we are not going:
+T: Good. We are not going to stay, because we are very tired. We are not going to stay, because we are very tired. So the first bit that needs to command all of our attention is we are not going:
 
 S: No vamos.
 
@@ -189,8 +176,7 @@ T: No vamos. We are not going to stay, so we are not going to remain ourselves:
 
 S: No vamos a quedarnos.
 
-T: Good. No vamos a quedarnos or no nos vamos a quedar. You can have this as well. No nos
-  vamos a quedar. Because, same as why:
+T: Good. No vamos a quedarnos or no nos vamos a quedar. You can have this as well. No nos vamos a quedar. Because, same as why:
 
 S: Porque.
 
@@ -198,9 +184,7 @@ T: Porque. We are very tired. And let's be a masculine or a mixed group. We are 
 
 S: Estamos muy cansados.
 
-T: Good, now all together and not from memory. Thinking about it again, block by block. If you rush
-  it, you will trip and tripping is very time-consuming. So, we are not going to remain ourselves. To
-  stay:
+T: Good, now all together and not from memory. Thinking about it again, block by block. If you rush it, you will trip and tripping is very time-consuming. So, we are not going to remain ourselves. To stay:
 
 S: No vamos a quedarnos.
 
@@ -208,6 +192,4 @@ T: Good. Because we are very tired.
 
 S: Porque estamos muy cansados.
 
-T: Well done. No vamos a quedarnos, no nos vamos a quedar porque, estamos muy cansados.
-  Very good.
-
+T: Well done. No vamos a quedarnos, no nos vamos a quedar porque, estamos muy cansados. Very good.

@@ -1,18 +1,8 @@
 # Lesson 02 — Transcript
 
+Teacher: English and Spanish are two related languages. English is considered a Germanic language, but it’s kind of half Latin. We have a huge amount of Latin vocabulary in English and this Latin vocabulary we can convert it over to Spanish really easily because Spanish is practically Modern Latin.
 
-Teacher: English and Spanish are two related languages. English is considered a Germanic language,
-   but it’s kind of half Latin. We have a huge amount of Latin vocabulary in English and this Latin
-   vocabulary we can convert it over to Spanish really easily because Spanish is practically Modern
-   Latin.
-
-   Whoever said Latin is a dead language lied. Just in the same way that Greek is a modern version
-   of ancient Greek, Spanish is like a modern version of Latin. It's actually a street Latin that became
-   Spanish. So we can identify Latin words in English, and we can, with just some rule or other,
-   convert them over to Spanish, and this will give us around 3,000 words, I didn't count them, but
-   there are around 3,000 words. So for example, one of these rules is that words ending in -al tend
-   to come from Latin, so we can make them Spanish. So to give you an example, normal in Spanish
-   is normal.
+Whoever said Latin is a dead language lied. Just in the same way that Greek is a modern version of ancient Greek, Spanish is like a modern version of Latin. It's actually a street Latin that became Spanish. So we can identify Latin words in English, and we can, with just some rule or other, convert them over to Spanish, and this will give us around 3,000 words, I didn't count them, but there are around 3,000 words. So for example, one of these rules is that words ending in -al tend to come from Latin, so we can make them Spanish. So to give you an example, normal in Spanish is normal.
 
 Student: Normal.
 
@@ -28,39 +18,29 @@ Teacher: Where’s it stressed in English?
 
 Student: On the o.
 
-Teacher: Good. At the beginning, right? NORmal, NORmal, and in Spanish we’re stressing the end,
-   right? NorMAL.
+Teacher: Good. At the beginning, right? NORmal, NORmal, and in Spanish we’re stressing the end, right? NorMAL.
 
 Student: NorMAL.
 
 Teacher: So if we assume the same happens with other words, how do you think you would say metal?
 
-   Metal:
+Metal:
 
 Student: Metal.
-Teacher: Metal. To get a perfect accent in Spanish we just need to pronounce all of the vowels exactly
-   as they are written so a, e, i, o, u in Spanish is /ah/, /eh/, /ee/, /oh/, /oo/, where in English the vowel,
-   it can have many different sounds. Like if you look at the a sound in apple or in mare, it's a very
-   different sound. But a in Spanish is always going to be /ah/, e is always going to be /eh/. So if you
-   pronounce the vowels as they're written, not this kind of uh-uh-uh English vowels that we get, then
-   we get a perfect Spanish accent.
+
+Teacher: Metal. To get a perfect accent in Spanish we just need to pronounce all of the vowels exactly as they are written so a, e, i, o, u in Spanish is /ah/, /eh/, /ee/, /oh/, /oo/, where in English the vowel, it can have many different sounds. Like if you look at the a sound in apple or in mare, it's a very different sound. But a in Spanish is always going to be /ah/, e is always going to be /eh/. So if you pronounce the vowels as they're written, not this kind of uh-uh-uh English vowels that we get, then we get a perfect Spanish accent.
 
 Student: NorMAL, MeTAL.
 
-Teacher: Perfect. So we can begin to make sentences with this already. The word for is in Spanish is
-   es, e-s.
+Teacher: Perfect. So we can begin to make sentences with this already. The word for is in Spanish is es, e-s.
 
 Student: Es.
 
-Teacher: Es. And this also means it is, she is, he is, or even you are, talking to somebody formally.
-   So now we can say he is normal, she is normal:
+Teacher: Es. And this also means it is, she is, he is, or even you are, talking to somebody formally. So now we can say he is normal, she is normal:
 
 Student: Es normal.
 
-Teacher: Yeah, Es normal. And you pronounced an s which is excellent. English speakers should
-   beware that maybe they feel themselves pronouncing a z, because many times we have an s in
-   English like in the word is, and we pronounce a z. So you might find slipping out a /z/, but this is
-   incorrect--you should be careful to pronounce an s. S. Es normal. Good, how would you say legal?
+Teacher: Yeah, Es normal. And you pronounced an s which is excellent. English speakers should beware that maybe they feel themselves pronouncing a z, because many times we have an s in English like in the word is, and we pronounce a z. So you might find slipping out a /z/, but this is incorrect--you should be careful to pronounce an s. S. Es normal. Good, how would you say legal?
 
 Student: Legal.
 
@@ -74,39 +54,27 @@ Student: Ilegal.
 
 Teacher: Ilegal, good. So here in English we have an i and an e producing the same sound, “illegal”.
 
-   The i and the e are producing the same sound, so this is really confusing if you want to learn
-   English. But in Spanish you're not going to have this problem. The i is like in ink and the e is like
-   in elephant. Ilegal. Ilegal. So, it is illegal:
-Student: Es ilegal.
+The i and the e are producing the same sound, so this is really confusing if you want to learn English. But in Spanish you're not going to have this problem. The i is like in ink and the e is like in elephant. Ilegal. Ilegal. So, it is illegal:
 
-Teacher: Good. Es ilegal. What if you wanted to say he is liberal? You don't need the word for he if
-   you know who you’re talking about, you can just use es.
+Student: Es ilegal.
+
+Teacher: Good. Es ilegal. What if you wanted to say he is liberal? You don't need the word for he if you know who you’re talking about, you can just use es.
 
 Student: Es liberal.
 
-Teacher: Yeah, es liberal. Now Spanish is much more phonetic than English; what that means is that
-   the letters are going to represent the same sound, where English has a million rules and a million
-   exceptions to those rules. I mean it's really hard even for native English speakers often to
-   understand how to pronounce a new word when they see it written; but you're not going to have
-   that problem in Spanish. So you know natural and you don't just want to just change the accent
-   and say natuRAL; this is not Spanish. You want to think “how is it written?” and pronounce the
-   letters as they are. So how do you think you would say natural in Spanish?
+Teacher: Yeah, es liberal. Now Spanish is much more phonetic than English; what that means is that the letters are going to represent the same sound, where English has a million rules and a million exceptions to those rules. I mean it's really hard even for native English speakers often to understand how to pronounce a new word when they see it written; but you're not going to have that problem in Spanish. So you know natural and you don't just want to just change the accent and say natuRAL; this is not Spanish. You want to think “how is it written?” and pronounce the letters as they are. So how do you think you would say natural in Spanish?
 
 Student: Natural.
 
-Teacher: Natural, good. That’s a t, so you pronounce a t. A is like /ah/, u is like /oo/: natural. Very
-   good, and the accent on the end as well. It's natural?
+Teacher: Natural, good. That’s a t, so you pronounce a t. A is like /ah/, u is like /oo/: natural. Very good, and the accent on the end as well. It's natural?
 
 Student: Es natural.
 
-Teacher: Es Natural. If you want to say it isn't or it’s not, the word for not or don't is the same as the
-   word for no. And the word for no in Spanish is the same as the word for no in English, but you
-   pronounce it like in Spanish. So how do you think you say no in Spanish?
+Teacher: Es Natural. If you want to say it isn't or it’s not, the word for not or don't is the same as the word for no. And the word for no in Spanish is the same as the word for no in English, but you pronounce it like in Spanish. So how do you think you say no in Spanish?
 
 Student: No.
 
-Teacher: No. Good. And you put this before is if you want to say it is not, he is not, she is not, you
-   (formal) are not. So how would that sound, it is not?
+Teacher: No. Good. And you put this before is if you want to say it is not, he is not, she is not, you (formal) are not. So how would that sound, it is not?
 
 Student: No es.
 
@@ -114,9 +82,9 @@ Teacher: No es, good. So now we can say things like it's not normal:
 
 Student: No es normal.
 
-Teacher: No es normal. How would you say ideal? So really think about how it's spelled and try and
-   pronounce each of those vowels as they're written. I like ink, e like elephant, a like apple.
-Student: Ideal.
+Teacher: No es normal. How would you say ideal? So really think about how it's spelled and try and pronounce each of those vowels as they're written. I like ink, e like elephant, a like apple.
+
+Student: Ideal.
 
 Teacher: Good. Ideal. How would you say it’s ideal?
 
@@ -150,17 +118,15 @@ Teacher: Yes and perfect Spanish accent there. Cultural, very nice. Annual:
 
 Student: Anual.
 
-Teacher: Anual. And you cut this y sound that comes in English ann-y-ual. This y sound comes from
-   nowhere in English and you cut it out ’cause you focused on how it’s written. Anual. Very nice.
+Teacher: Anual. And you cut this y sound that comes in English ann-y-ual. This y sound comes from nowhere in English and you cut it out ’cause you focused on how it’s written. Anual. Very nice.
 
-   Dental:
+Dental:
 
 Student: Dental.
 
-Teacher: Tooth in Spanish is diente. So this is coming from dental. So if you look up tooth in the
-   dictionary and you find diente, rather than treating it as a random piece of vocabulary that you
-   have to memorize, you can relate it back to dental. Oh okay, like dental it comes from there. And
-   this is useful for memory. A couple more: festival:
+Teacher: Tooth in Spanish is diente. So this is coming from dental. So if you look up tooth in the dictionary and you find diente, rather than treating it as a random piece of vocabulary that you
+
+have to memorize, you can relate it back to dental. Oh okay, like dental it comes from there. And this is useful for memory. A couple more: festival:
 
 Student: Festival.
 
@@ -176,17 +142,8 @@ Teacher: Total. Good, verbal:
 
 Student: Verbal.
 
-Teacher: Verbal. So if we wanted to say verb, we might not have a rule to convert that word over.
-   But if we know verbal is verbal, we can guess that the verb is probably going to be the same in
-   Spanish. And most of the time words are either the same that we don’t have a rule, maybe we need
-   to stick an o or an e or an a on the end. So we can make a guess. How do you think you say verb
-   in Spanish?
+Teacher: Verbal. So if we wanted to say verb, we might not have a rule to convert that word over. But if we know verbal is verbal, we can guess that the verb is probably going to be the same in Spanish. And most of the time words are either the same that we don’t have a rule, maybe we need to stick an o or an e or an a on the end. So we can make a guess. How do you think you say verb in Spanish?
 
 Student: Verbo?
 
-Teacher: Yeah, that’s right. So with structure, with the building, when we’re going to be making
-   sentences with these words, we don’t ever want to guess. We want to take our time and think it
-   through. But with vocabulary, we can happily guess and try. Imagine we said verba for example,
-   and they would look at us funny and they would go “ah verbo” and when that person says “ah,
-   verbo” then we learn “oh ok this is the right word”. And it’s the best way to learn quickly.
-
+Teacher: Yeah, that’s right. So with structure, with the building, when we’re going to be making sentences with these words, we don’t ever want to guess. We want to take our time and think it through. But with vocabulary, we can happily guess and try. Imagine we said verba for example, and they would look at us funny and they would go “ah verbo” and when that person says “ah, verbo” then we learn “oh ok this is the right word”. And it’s the best way to learn quickly.

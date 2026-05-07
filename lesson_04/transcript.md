@@ -1,6 +1,5 @@
 # Lesson 04 — Transcript
 
-
 T: How would you say urgent?
 
 S: Urgente.
@@ -9,10 +8,7 @@ T: Good, Urgente. Urgente. How would you say urgently?
 
 S: Urgentemente.
 
-T: Urgentemente. I love you in Spanish is te quiero, literally I want you. You might have also heard
-  te amo. You should be wary of this difference. Te quiero you can use with friends, you can use
-  with lovers very soon. Te amo is much much more serious but te quiero is very common and it
-  literally means I want you. So te is you, we can get rid of this and here we are left with I want.
+T: Urgentemente. I love you in Spanish is te quiero, literally I want you. You might have also heard te amo. You should be wary of this difference. Te quiero you can use with friends, you can use with lovers very soon. Te amo is much much more serious but te quiero is very common and it literally means I want you. So te is you, we can get rid of this and here we are left with I want.
 
 S: Quiero.
 
@@ -20,11 +16,7 @@ T: Quiero. Good, how would you say I don’t want?
 
 S: No quiero.
 
-T: No quiero. Good, we just put no before. One of my favourite rules for convertible words is the
-  rule for words ending -ion. This is an extremely useful rule. Words ending -ion are the same in
-  English and Spanish, just in Spanish they have the accent on the end. So for example, in English
-  we have opinion, and in Spanish you are going to pronounce syllable by syllable, making sure that
-  you are pronouncing the vowels as they are written and you are going to put the accent on the end.
+T: No quiero. Good, we just put no before. One of my favourite rules for convertible words is the rule for words ending -ion. This is an extremely useful rule. Words ending -ion are the same in English and Spanish, just in Spanish they have the accent on the end. So for example, in English we have opinion, and in Spanish you are going to pronounce syllable by syllable, making sure that you are pronouncing the vowels as they are written and you are going to put the accent on the end.
 
 S: Opinión.
 
@@ -32,17 +24,9 @@ T: Opinión. Good, passion?
 
 S: Pasión.
 
-T: Pasión. Good! And you pronounced an s because we don’t want /sh/. Preparation? Now if
-  it’s -tion, t-i-o-n, if we have -tion, it’s going to be c-i-o-n in Spanish. And this c-i-o-n is pronounced
-  /ción/ like an s in most of the Spanish-speaking world, or in most of Spain it's pronounced /thion/.
-  So you can choose, if you have a particular affiliation for Spain you can make this /th/. If not, I
-  suggest using the /s/ sound because the majority of Spanish speakers are using this sound and it’s
-   also much easier. It doesn’t appear difficult here: preparación, but if you want to ask for a beer
-   for example with the /s/ sound you are going to ask for a /cervesa/, if you are going to ask using
-   the /th/ sound you are going to ask for a /cervetha/. So, I would suggest unless you have a particular
-   affiliation with Spain or you particularly want to be practicing with some Spanish friends or
-   whatever to use the /s/ sound. So you have a word like organization, that z as well is going to sound
-   like an s or a /th/. /Or-ga-ni-tha-thión/, so you see, much easier, then this is /or-ga-ni-sa-ción/.
+T: Pasión. Good! And you pronounced an s because we don’t want /sh/. Preparation? Now if it’s -tion, t-i-o-n, if we have -tion, it’s going to be c-i-o-n in Spanish. And this c-i-o-n is pronounced /ción/ like an s in most of the Spanish-speaking world, or in most of Spain it's pronounced /thion/. So you can choose, if you have a particular affiliation for Spain you can make this /th/. If not, I suggest using the /s/ sound because the majority of Spanish speakers are using this sound and it’s
+
+also much easier. It doesn’t appear difficult here: preparación, but if you want to ask for a beer for example with the /s/ sound you are going to ask for a /cervesa/, if you are going to ask using the /th/ sound you are going to ask for a /cervetha/. So, I would suggest unless you have a particular affiliation with Spain or you particularly want to be practicing with some Spanish friends or whatever to use the /s/ sound. So you have a word like organization, that z as well is going to sound like an s or a /th/. /Or-ga-ni-tha-thión/, so you see, much easier, then this is /or-ga-ni-sa-ción/.
 
 S: Organización.
 
@@ -58,8 +42,7 @@ T: Generación.
 
 S: Generación.
 
-T: Good. We had a little bit slipping in from English, one of the vowels there, but if you take it syllable
-   by syllable we get every vowel perfect. Generación:
+T: Good. We had a little bit slipping in from English, one of the vowels there, but if you take it syllable by syllable we get every vowel perfect. Generación:
 
 S: Generación.
 
@@ -71,16 +54,9 @@ T: Confirmación.
 
 S: I was tempted to say confermación.
 
-T: Ah! But you thought “no, I, like ink.” This is actually called “language transfer”, so this is negative
-   language transfer. Things that come from English affecting your Spanish which are not part of
-   Spanish, are negative language transfer. And what is useful from English like these convertible
-   words that we are using, as far as language learning is concerned, this is positive language transfer.
-   So part of our journey here is to identify what is negative language transfer and what is positive
-   language transfer and using both to our advantage. And English becomes more interesting when
-  we learn Spanish because we start to see where some words come from, where is the inherent
-  wisdom in the vocabulary. So confirmation for example means with signing. Con is with in
-  Spanish and firma is signature. So when you confirm you are doing it “with signature”.
-  Conversation:
+T: Ah! But you thought “no, I, like ink.” This is actually called “language transfer”, so this is negative language transfer. Things that come from English affecting your Spanish which are not part of Spanish, are negative language transfer. And what is useful from English like these convertible words that we are using, as far as language learning is concerned, this is positive language transfer. So part of our journey here is to identify what is negative language transfer and what is positive language transfer and using both to our advantage. And English becomes more interesting when
+
+we learn Spanish because we start to see where some words come from, where is the inherent wisdom in the vocabulary. So confirmation for example means with signing. Con is with in Spanish and firma is signature. So when you confirm you are doing it “with signature”. Conversation:
 
 S: Conversación.
 
@@ -90,20 +66,15 @@ S: Confrontación.
 
 T: Confrontación. And front actually, like in frontación, comes from frente which means forehead.
 
-  So it’s “with the forehead”, when you confront you go forward with the forehead. Complication:
+So it’s “with the forehead”, when you confront you go forward with the forehead. Complication:
 
 S: Complicación.
 
-T: Complicación. Here com- is also con- but it changes to an m because of that p. It happens the
-  same in English and Spanish. Complicación. But this is “with folding” from Latin, plicare, to
-  fold. You know when you fold stuff up I guess it gets more complicated or something like that.
-  The reason why this is my favourite rule is because out of these words ending -ion, if you take the
-  words that end –ation, if you take those words and you get rid of the –tion and you put an r on the
-  end you get the verb. Let me give you an example. Preparation, preparación, preparar.
+T: Complicación. Here com- is also con- but it changes to an m because of that p. It happens the same in English and Spanish. Complicación. But this is “with folding” from Latin, plicare, to fold. You know when you fold stuff up I guess it gets more complicated or something like that. The reason why this is my favourite rule is because out of these words ending -ion, if you take the words that end –ation, if you take those words and you get rid of the –tion and you put an r on the end you get the verb. Let me give you an example. Preparation, preparación, preparar.
 
-  And there you get the verb to prepare. So there is like 1,000 verbs now we know in Spanish.
+And there you get the verb to prepare. So there is like 1,000 verbs now we know in Spanish.
 
-  What was generation?
+What was generation?
 
 S: Generación.
 
@@ -118,8 +89,8 @@ S: Confirmación… Confirmación.
 T: Good. What is to confirm?
 
 S: Confirmar.
-T: Yes, Confirmar. So if you had to guess, how do you think you would say to sign? If to confirm is
-  “with signing”:
+
+T: Yes, Confirmar. So if you had to guess, how do you think you would say to sign? If to confirm is “with signing”:
 
 S: Oh, firmar.
 
@@ -131,8 +102,7 @@ T: To complicate:
 
 S: Complicar.
 
-T: Good. So now we can make some sentences with these. What was again I want? And if we forget
-  that we can think of I love you in Spanish and then take away the you.
+T: Good. So now we can make some sentences with these. What was again I want? And if we forget that we can think of I love you in Spanish and then take away the you.
 
 S: Quiero.
 
@@ -144,8 +114,7 @@ T: Good, quiero preparar. How do you say cooperation?
 
 S: Cooperación.
 
-T: Good, cooperación. Good, you pronounced both o's, that was correct. Cooperación. It just sounds
-  a tiny bit longer, cooperación. To cooperate:
+T: Good, cooperación. Good, you pronounced both o's, that was correct. Cooperación. It just sounds a tiny bit longer, cooperación. To cooperate:
 
 S: Cooperar.
 
@@ -160,7 +129,8 @@ S: Cancelación.
 T: And to cancel:
 
 S: Cancelar.
-T: I want to cancel:
+
+T: I want to cancel:
 
 S: Quiero cancelar.
 
@@ -180,25 +150,14 @@ T: Good. I want to explore:
 
 S: Quiero explorar.
 
-T: Perfect. The word for me in Spanish is the same as English. You are just going to pronounce it how
-   it’s written.
+T: Perfect. The word for me in Spanish is the same as English. You are just going to pronounce it how it’s written.
 
 S: Me.
 
-T: Me, good. How would you say I want to prepare myself? Myself is the same as me. So you would
-   say I want to prepare me.
+T: Me, good. How would you say I want to prepare myself? Myself is the same as me. So you would say I want to prepare me.
 
 S: Quiero prepararme.
 
-T: Good, quiero prepararme. I want to prepare me. I want to prepare myself and this means I want
-   to get ready and you can use this like I want to get ready. Quiero prepararme. Now this probably
-   sounds quite formal in English: I want to prepare myself, but we should be aware that in English,
-   Latin words sound especially formal. Not always: cancel doesn’t sound formal because it’s the
-   only word we use to say cancel. But most of the time we have two words with similar meanings,
-   like for example you might have to find and then to encounter, which sounds a little bit more
-   formal or a little bit more literary or flowery. And these ones that have these different feelings in
-   English are generally Latin words. And the Germanic words like find, which in German is Finden
-   (same word), sound more everyday, colloquial. Now we should bear in mind that that’s in English,
-and Latin words in Spanish, which is more Latin, of course don’t sound formal, they just sound
-normal.
-
+T: Good, quiero prepararme. I want to prepare me. I want to prepare myself and this means I want to get ready and you can use this like I want to get ready. Quiero prepararme. Now this probably sounds quite formal in English: I want to prepare myself, but we should be aware that in English, Latin words sound especially formal. Not always: cancel doesn’t sound formal because it’s the only word we use to say cancel. But most of the time we have two words with similar meanings, like for example you might have to find and then to encounter, which sounds a little bit more formal or a little bit more literary or flowery. And these ones that have these different feelings in English are generally Latin words. And the Germanic words like find, which in German is Finden (same word), sound more everyday, colloquial. Now we should bear in mind that that’s in English,
+
+and Latin words in Spanish, which is more Latin, of course don’t sound formal, they just sound normal.

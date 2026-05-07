@@ -1,6 +1,5 @@
 # Lesson 64 — Transcript
 
-
 T: What was to do or to make in Spanish?
 
 S: Hacer.
@@ -9,9 +8,7 @@ T: Hacer. Good. How would you say it does or it makes?
 
 S: Hace.
 
-T: Hace. Good. Now hace, you can use like ago. Like in English when you say two weeks ago, you
-   can say it makes two weeks in Spanish, and you get that meaning. So week is semana. Two is - do
-   you remember two?
+T: Hace. Good. Now hace, you can use like ago. Like in English when you say two weeks ago, you can say it makes two weeks in Spanish, and you get that meaning. So week is semana. Two is - do you remember two?
 
 S: Dos.
 
@@ -23,8 +20,7 @@ T: Hace dos semanas. I saw him two weeks ago:
 
 S: Lo vi hace dos semanas.
 
-T: Good. Lo vi hace dos semanas. Good. To respond is responder. Responder. How would you say
-   I responded?
+T: Good. Lo vi hace dos semanas. Good. To respond is responder. Responder. How would you say I responded?
 
 S: Respondí.
 
@@ -32,27 +28,19 @@ T: Respondí. How would you say I responded to her?
 
 S: La respondí. Le. Le respondí.
 
-T: Good. Le respondí. I responded to her. I responded to her seven weeks ago. Do you remember
-   how to say seven? Related to September:
+T: Good. Le respondí. I responded to her. I responded to her seven weeks ago. Do you remember how to say seven? Related to September:
 
 S: Siete.
 
 T: Siete. Good. So I responded to her seven weeks ago:
 
 S: Le respondí hace siete semanas.
-T: Good. Le respondí hace siete semanas. Now in Spanish, you can say I responded her it. For
-   example, I responded to her letter or I responded to her mail. Instead of saying it this way, to her
-   mail, in Spanish you can just say I responded him the mail. I responded her the mail. Or if you
-   know what you are talking about, I responded him it. I responded her it. This is because, and
-   something we’ll look at again later, Spanish does not use possessive words as much as English
-   does. So, it would be much more natural in Spanish, I responded her the mail. I responded him the
-   mail, instead of I responded to her mail. So how would you say I responded her it, which isn’t
-   great English, but it’s perfect Spanish?
+
+T: Good. Le respondí hace siete semanas. Now in Spanish, you can say I responded her it. For example, I responded to her letter or I responded to her mail. Instead of saying it this way, to her mail, in Spanish you can just say I responded him the mail. I responded her the mail. Or if you know what you are talking about, I responded him it. I responded her it. This is because, and something we’ll look at again later, Spanish does not use possessive words as much as English does. So, it would be much more natural in Spanish, I responded her the mail. I responded him the mail, instead of I responded to her mail. So how would you say I responded her it, which isn’t great English, but it’s perfect Spanish?
 
 S: Se lo respondí.
 
-T: Good. Se lo respondí. So the se is actually le, to her. The lo is el mail and you get se lo respondí.
-   I responded to her the mail. Good. Month is mes. Mes. M-e-s.
+T: Good. Se lo respondí. So the se is actually le, to her. The lo is el mail and you get se lo respondí. I responded to her the mail. Good. Month is mes. Mes. M-e-s.
 
 S: Mes.
 
@@ -64,13 +52,11 @@ T: Good, and how would you say a month or one month?
 
 S: Un mes.
 
-T: Un mes. So un mes can be a month or one month. So how would you say I responded it to her one
-   month ago? I responded to her mail, I responded her it one month ago:
+T: Un mes. So un mes can be a month or one month. So how would you say I responded it to her one month ago? I responded to her mail, I responded her it one month ago:
 
 S: Se lo respondí hace un mes.
 
-T: Good. Se lo respondí hace un mes. Good. So we have respondí. I responded. How would you
-   say he, she, it, you (formal) responded?
+T: Good. Se lo respondí hace un mes. Good. So we have respondí. I responded. How would you say he, she, it, you (formal) responded?
 
 S: Respondió.
 
@@ -78,9 +64,9 @@ T: Good. Respondió. And we responded:
 
 S: Respondimos.
 
-T: Good. Respondimos. So respondí, respondió, respondimos. Let’s make a quick recap with an -ar
-   verb. How would you say discrimination?
-S: Descriminación.
+T: Good. Respondimos. So respondí, respondió, respondimos. Let’s make a quick recap with an -ar verb. How would you say discrimination?
+
+S: Descriminación.
 
 T: Again?
 
@@ -110,10 +96,7 @@ T: Good. And we discriminated:
 
 S: Discriminamos.
 
-T: Good. So we have two more people to learn for the point in the past. They and you informal. Let’s
-   begin with you informal. For you informal, in the point in the past we have -aste for -ar verbs and
-   -iste for -er/-ir verbs. -aste for -ar verbs and -iste for -er/-ir verbs. So how would you say you
-   spoke, speaking informally?
+T: Good. So we have two more people to learn for the point in the past. They and you informal. Let’s begin with you informal. For you informal, in the point in the past we have -aste for -ar verbs and -iste for -er/-ir verbs. -aste for -ar verbs and -iste for -er/-ir verbs. So how would you say you spoke, speaking informally?
 
 S: Hablaste.
 
@@ -122,7 +105,8 @@ T: Hablaste. And you ate, speaking informally:
 S: Comiste.
 
 T: Good. Comiste. Did you eat?:
-S: ¿Comiste?
+
+S: ¿Comiste?
 
 T: ¿Comiste? Didn’t you eat?:
 
@@ -144,13 +128,11 @@ T: ¿Saliste? Good. You didn’t go out last night? Last night is anoche. Anoche
 
 S: Anoche.
 
-T: Now if you translate tonight directly, what you will come up with is anoche. So you must be
-   careful not to get confused here. How do you say tonight in Spanish?
+T: Now if you translate tonight directly, what you will come up with is anoche. So you must be careful not to get confused here. How do you say tonight in Spanish?
 
 S: Esta noche.
 
-T: Esta noche. “This night”. So anoche is last night, not tonight. So how would you say did you go
-   out last night (speaking informally)?
+T: Esta noche. “This night”. So anoche is last night, not tonight. So how would you say did you go out last night (speaking informally)?
 
 S: ¿Saliste anoche?
 
@@ -165,7 +147,8 @@ S: Vivir.
 T: Vivir. And how do you say where?
 
 S: Donde.
-T: Donde. Where did you live?:
+
+T: Donde. Where did you live?:
 
 S: ¿Dónde viviste?
 
@@ -173,18 +156,13 @@ T: ¿Dónde viviste? Where were you living?:
 
 S: So that’s the line. ¿Dónde vivías?
 
-T: Good. ¿Dónde vivías? So in many cases both line and point are perfectly fine. ¿Dónde viviste?
-   ¿Dónde vivías? All that means is that the speaker has two different ideas in their mind. Maybe
-   you go abroad to study and I’ll tell you ¿dónde viviste? Or maybe I’ll tell you ¿dónde vivías?
+T: Good. ¿Dónde vivías? So in many cases both line and point are perfectly fine. ¿Dónde viviste? ¿Dónde vivías? All that means is that the speaker has two different ideas in their mind. Maybe you go abroad to study and I’ll tell you ¿dónde viviste? Or maybe I’ll tell you ¿dónde vivías?
 
-   ¿Dónde viviste? Where did you live? And this idea in my mind which is this closed amount of
-   time. Where were you living? just means the idea in my mind is an ongoing idea of time. So many
-   times it is completely interchangeable. What was to wait?
+¿Dónde viviste? Where did you live? And this idea in my mind which is this closed amount of time. Where were you living? just means the idea in my mind is an ongoing idea of time. So many times it is completely interchangeable. What was to wait?
 
 S: Esperar.
 
-T: Esperar. Esperar. So for you informal, we have -aste for the point in the past. So how would you
-   say you waited, speaking informally?
+T: Esperar. Esperar. So for you informal, we have -aste for the point in the past. So how would you say you waited, speaking informally?
 
 S: Esperaste.
 
@@ -207,11 +185,8 @@ S: Llegar.
 T: Llegar. Good. How do you say when did you arrive? When did you arrive? (informally):
 
 S: ¿Cuándo llegaste?
-T: Good. ¿Cuándo llegaste? This is an example of when you would need the point, because you
-  probably wouldn’t want to say when were you arriving, no? So here’s very strongly the point in
-  time. When did you arrive? ¿Cuándo llegaste? So we have -aste and -iste for you informal. For
-  they, we have -aron for -ar verbs and -ieron for -er/-ir verbs. So, how would you say they spoke?
-  They spoke:
+
+T: Good. ¿Cuándo llegaste? This is an example of when you would need the point, because you probably wouldn’t want to say when were you arriving, no? So here’s very strongly the point in time. When did you arrive? ¿Cuándo llegaste? So we have -aste and -iste for you informal. For they, we have -aron for -ar verbs and -ieron for -er/-ir verbs. So, how would you say they spoke? They spoke:
 
 S: Hablaron.
 
@@ -223,8 +198,7 @@ T: Good. They prepared it:
 
 S: Lo prepararon.
 
-T: Lo prepararon. Good. We have -aron for -ar verbs and -ieron, i-e-r-o-n, for -er/-ir verbs. How
-  would you say they ate?
+T: Lo prepararon. Good. We have -aron for -ar verbs and -ieron, i-e-r-o-n, for -er/-ir verbs. How would you say they ate?
 
 S: Comieron.
 
@@ -236,9 +210,7 @@ T: Salieron. They sold them:
 
 S: Los vendieron.
 
-T: Good. Los vendieron. Good. So let’s have a quick review of the panorama of this point in the past
-  with hablar and comer which we might want to use as our hooks. So we’ll begin with hablar.
-  How do you say I spoke?
+T: Good. Los vendieron. Good. So let’s have a quick review of the panorama of this point in the past with hablar and comer which we might want to use as our hooks. So we’ll begin with hablar. How do you say I spoke?
 
 S: Hablé.
 
@@ -247,7 +219,8 @@ T: Hablé. He spoke:
 S: Habló.
 
 T: Habló. We spoke:
-S: Hablamos.
+
+S: Hablamos.
 
 T: Hablamos. You spoke (informal):
 
@@ -257,8 +230,7 @@ T: Hablaste. And they spoke:
 
 S: Hablaron.
 
-T: Hablaron. Good. Hablé, habló, hablamos, hablaste, hablaron. Now let’s do the same for comer,
-   so for -er/-ir verbs. How do you say I ate?
+T: Hablaron. Good. Hablé, habló, hablamos, hablaste, hablaron. Now let’s do the same for comer, so for -er/-ir verbs. How do you say I ate?
 
 S: Comí.
 
@@ -282,14 +254,9 @@ T: Comiste. And they ate:
 
 S: Comieron.
 
-T: Comieron. So what’s very interesting here is that for -er/-ir verbs in the present, we had /e/ popping
-   up everywhere. Vive, viven, vives and just one /i/. Just one /i/ sound. Just one i popping up,
-   vivimos. But everything else was /e/ for -er/-ir verbs in the present, but in the past for -er/-ir verbs
-   we have i dominating the stage. We have the i, /i/ sound everywhere and this time the letter e, the
-   /e/ sound, occupying only one space. Popping up in only one place which is -ieron. Comí, comió,
-   comiste, comimos, comieron, which is the exact inverse of what happens in the present tense. We
-   can see also a logic that crosses over between the -ar group and the -er/-ir group. For example, we
-   have I spoke, how is it?
+T: Comieron. So what’s very interesting here is that for -er/-ir verbs in the present, we had /e/ popping up everywhere. Vive, viven, vives and just one /i/. Just one /i/ sound. Just one i popping up, vivimos. But everything else was /e/ for -er/-ir verbs in the present, but in the past for -er/-ir verbs we have i dominating the stage. We have the i, /i/ sound everywhere and this time the letter e, the /e/ sound, occupying only one space. Popping up in only one place which is -ieron. Comí, comió, comiste, comimos, comieron, which is the exact inverse of what happens in the present tense. We
+
+can see also a logic that crosses over between the -ar group and the -er/-ir group. For example, we have I spoke, how is it?
 
 S: Hablé.
 
@@ -297,19 +264,15 @@ T: Hablé. And he spoke:
 
 S: Habló.
 
-T: Habló. We saw the -er/-ir in this past point has a special affiliation to the /i/ sound, the i, the letter
-   i. So whilst we have hablé for -ar verbs, for -er/-ir verbs what do we have? How would we say I
-   ate?
+T: Habló. We saw the -er/-ir in this past point has a special affiliation to the /i/ sound, the i, the letter i. So whilst we have hablé for -ar verbs, for -er/-ir verbs what do we have? How would we say I ate?
 
 S: Comí.
 
-T: Comí. And whilst we have habló for -ar verbs, what do we have for -er/-ir verbs? How would you
-   say he ate?
+T: Comí. And whilst we have habló for -ar verbs, what do we have for -er/-ir verbs? How would you say he ate?
 
 S: Comió.
 
-T: Comió. So it’s like the -ar version, but with that important /i/ popping up again. We have, for we
-   spoke, what do we have?
+T: Comió. So it’s like the -ar version, but with that important /i/ popping up again. We have, for we spoke, what do we have?
 
 S: Hablamos.
 
@@ -330,9 +293,7 @@ T: Comiste. You remembered the importance of that i. Comiste. They spoke:
 S: Hablaron.
 
 T: Hablaron. And they ate:
-S: Comieron.
 
-T: Comieron. Again that important i and that e getting just one small look in, in that dot in the past
-   to remind us that this is -er/-ir group, not just -ir. Just as what happened the other way around in
-   the present. Good.
-
+S: Comieron.
+
+T: Comieron. Again that important i and that e getting just one small look in, in that dot in the past to remind us that this is -er/-ir group, not just -ir. Just as what happened the other way around in the present. Good.

@@ -1,13 +1,10 @@
 # Lesson 39 — Transcript
 
-
 T: What was the word for with in Spanish? And we have it in words like convenient, confirm -
 
 S: Oh, con.
 
-T: So con is with and we have it as like a Latin building block in many Latin/English words.
-   Consequence: with sequence. Now in Spanish you don’t say with her, with him, with them, you
-   actually just say with he, with she, with they. So how would you say with him or with he?
+T: So con is with and we have it as like a Latin building block in many Latin/English words. Consequence: with sequence. Now in Spanish you don’t say with her, with him, with them, you actually just say with he, with she, with they. So how would you say with him or with he?
 
 S: Con él.
 
@@ -42,17 +39,14 @@ S: Con usted.
 T: Con usted. And with you guys:
 
 S: Con ustedes.
-T: Con ustedes. The word for for is para. So how would you say for him?
+
+T: Con ustedes. The word for for is para. So how would you say for him?
 
 S: Para él.
 
 T: Para él. Good. So when you decided that it was para él, you put para and con in the same group.
 
-   And they are in the same group. They’re in a group of words which are called prepositions. Now
-   prepositions show some kind of movement or position; and they’re very important and interesting
-   words so it’s useful for us to identify them as we did with verbs and adjectives and nouns. So we
-   are going to investigate now a little more about prepositions and how they behave in Spanish. So
-   for him, para él. For her:
+And they are in the same group. They’re in a group of words which are called prepositions. Now prepositions show some kind of movement or position; and they’re very important and interesting words so it’s useful for us to identify them as we did with verbs and adjectives and nouns. So we are going to investigate now a little more about prepositions and how they behave in Spanish. So for him, para él. For her:
 
 S: Para ella.
 
@@ -72,16 +66,11 @@ T: Para nosotros. Or?
 
 S: Nosotras.
 
-T: Good. Para nosotras if it’s an all feminine group. Good. Like I said, we don’t say for him, but for
-   he and we don’t say for her, but for she, with the exception of me and you informal, we get two
-   different versions of the words for me and you. So for me is para mí. Para mí. And you informal
-   becomes ti. So for you, speaking informally, is para ti. So this is just after prepositions we get this
-   mí and ti. M-i and t-i. So we can find another preposition that we learned already. The word for of
-   or from. So again this is a small word which is showing movement, direction or position; these are
-   prepositions. So what was of or from?
+T: Good. Para nosotras if it’s an all feminine group. Good. Like I said, we don’t say for him, but for he and we don’t say for her, but for she, with the exception of me and you informal, we get two different versions of the words for me and you. So for me is para mí. Para mí. And you informal becomes ti. So for you, speaking informally, is para ti. So this is just after prepositions we get this mí and ti. M-i and t-i. So we can find another preposition that we learned already. The word for of or from. So again this is a small word which is showing movement, direction or position; these are prepositions. So what was of or from?
 
 S: De.
-T: De. Good. So how would you say from him?
+
+T: De. Good. So how would you say from him?
 
 S: De él.
 
@@ -124,11 +113,8 @@ S: Es para ustedes.
 T: Good. Es para ustedes. Good. How do you say it is with you guys?
 
 S: Es con ustedes.
-T: Now something to me doesn’t feel right here. When we say es de ustedes, it’s from you guys and
-   es para ustedes, it’s for you guys: we are speaking about things are quite characteristic of whatever
-   this thing is, whatever this it is. It’s for you guys. It’s from you guys. But, when we say it’s with
-   you guys, we are speaking about a state because we are speaking about the location of something.
-   So how do you think it would be - it is with you guys?
+
+T: Now something to me doesn’t feel right here. When we say es de ustedes, it’s from you guys and es para ustedes, it’s for you guys: we are speaking about things are quite characteristic of whatever this thing is, whatever this it is. It’s for you guys. It’s from you guys. But, when we say it’s with you guys, we are speaking about a state because we are speaking about the location of something. So how do you think it would be - it is with you guys?
 
 S: Está con ustedes.
 
@@ -144,8 +130,7 @@ T: This is from haber, but well thought out. [Laughter]
 
 S: So it’s hace.
 
-T: Hace. Good. A favor is un favor. Un favor. So how would you say he’s doing me a favor? He’s
-   doing me a favor:
+T: Hace. Good. A favor is un favor. Un favor. So how would you say he’s doing me a favor? He’s doing me a favor:
 
 S: Me hace un favor.
 
@@ -153,19 +138,17 @@ T: Good. Me hace un favor. Good. How do you say he’s doing her a favor?
 
 S: La hace un favor.
 
-T: Now if you say la hace, it sounds like he’s making it - a feminine thing. If you want to say he’s
-   doing her a favor, for her. So what does la turn to to become to her, for her?
+T: Now if you say la hace, it sounds like he’s making it - a feminine thing. If you want to say he’s doing her a favor, for her. So what does la turn to to become to her, for her?
 
 S: Le hace un favor.
 
-T: Good. Le hace un favor. Good. Decir is to tell. No? So we have hablar to speak or to talk and
-   decir is to say or to tell. D-e-c-i-r. So /dethir/ in most of Spain. Decir. So how do you say I want
-   to tell, I want to say? I want, just think of I want.
+T: Good. Le hace un favor. Good. Decir is to tell. No? So we have hablar to speak or to talk and decir is to say or to tell. D-e-c-i-r. So /dethir/ in most of Spain. Decir. So how do you say I want to tell, I want to say? I want, just think of I want.
 
 S: Quiero.
 
 T: To say or to tell:
-S: Decir.
+
+S: Decir.
 
 T: Ah, all together.
 
@@ -179,15 +162,11 @@ T: Le quiero decir or?
 
 S: Quiero decirle.
 
-T: Good. You have the option there of where you can put the le, before the changed verb or after the
-   complete verb. Le quiero decir. Quiero decirle. But if you want to say, I want to say it:
+T: Good. You have the option there of where you can put the le, before the changed verb or after the complete verb. Le quiero decir. Quiero decirle. But if you want to say, I want to say it:
 
 S: Lo quiero decir.
 
-T: Lo quiero decir. So we see actually with this le, we are kind of replacing a preposition with le and
-   les, an imaginary preposition: to, for, from. For example, comprar. Comprar means to buy. I can
-   say I buy you something. Now this you is actually replacing for you. I buy something for you. So
-   what is I buy from comprar?
+T: Lo quiero decir. So we see actually with this le, we are kind of replacing a preposition with le and les, an imaginary preposition: to, for, from. For example, comprar. Comprar means to buy. I can say I buy you something. Now this you is actually replacing for you. I buy something for you. So what is I buy from comprar?
 
 S: Compro.
 
@@ -199,15 +178,11 @@ T: Los compro. But, if you say I buy them and you mean I buy for them:
 
 S: Les compro.
 
-T: Les compro. So this is the most natural Spanish structure. Les compro. You use les instead of for
-   them. But, you could say I buy for them. You could do that if you wanted to, using for them literally.
-   So how would you say I buy or I’m buying for them?
+T: Les compro. So this is the most natural Spanish structure. Les compro. You use les instead of for them. But, you could say I buy for them. You could do that if you wanted to, using for them literally. So how would you say I buy or I’m buying for them?
 
 S: Compro para ellos.
-T: Compro para ellos. Good. So in an everyday situation, I’m buying something for them, les
-   compro. Mostly we are going to be avoiding these prepositions, so he buys it for me. I’m just
-   going to say he buys me it rather than he buys it for me. So how would you say that? He buys me
-   it:
+
+T: Compro para ellos. Good. So in an everyday situation, I’m buying something for them, les compro. Mostly we are going to be avoiding these prepositions, so he buys it for me. I’m just going to say he buys me it rather than he buys it for me. So how would you say that? He buys me it:
 
 S: Me compra. Me lo compra.
 
@@ -219,17 +194,8 @@ T: Good. Me lo compran. They buy them for me. They buy them for me:
 
 S: Me los compran.
 
-T: Good. Me los compran. Good. Now, we said that these small words me, nos, te, le, les, most of
-   the time what we are replacing with them is to, but sometimes it’s like for, like to do a favor for,
-   but they also might be replacing other prepositions like de. For example, if I want to say he buys
-   it from me, I don’t really need the from there either. I could just say he buys me it. So how would
-   I say that? He buys it from me. He buys me it:
+T: Good. Me los compran. Good. Now, we said that these small words me, nos, te, le, les, most of the time what we are replacing with them is to, but sometimes it’s like for, like to do a favor for, but they also might be replacing other prepositions like de. For example, if I want to say he buys it from me, I don’t really need the from there either. I could just say he buys me it. So how would I say that? He buys it from me. He buys me it:
 
 S: Me lo compra.
 
-T: Me lo compra. So this is totally ambiguous. No? It could mean he buys it for me or he buys it from
-   me, but it’s something that we’ll understand from the context. So the key point to take away from
-   here is that we probably use prepositions much more in English than in Spanish and you just want
-   to kind of like listen out for this and then you will start shedding them. You will start shedding
-   your prepositions the more you listen to Spanish.
-
+T: Me lo compra. So this is totally ambiguous. No? It could mean he buys it for me or he buys it from me, but it’s something that we’ll understand from the context. So the key point to take away from here is that we probably use prepositions much more in English than in Spanish and you just want to kind of like listen out for this and then you will start shedding them. You will start shedding your prepositions the more you listen to Spanish.

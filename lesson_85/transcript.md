@@ -1,8 +1,6 @@
 # Lesson 85 — Transcript
 
-
-T: We can identify this group of -go verbs and expect them to go to -ga when they are in the
-   subjunctive or the mood tense. So I leave from salir is:
+T: We can identify this group of -go verbs and expect them to go to -ga when they are in the subjunctive or the mood tense. So I leave from salir is:
 
 S: Salgo.
 
@@ -34,13 +32,9 @@ T: Good. Póngalo aquí. But don't put it here:
 
 S: No lo ponga aquí.
 
-T: Very good. No lo ponga aquí. We saw with regular verbs that we have a shortcut where we don't
-   use the mood tense for informal positive commands. So if I want to tell you to eat I can just say
-   come, I go to comes and I drop the s, come. If I want to tell you to find it I can go to encontrar,
-   encuentras, I can drop the s, encuéntralo. That’s our shortcut for informal positive commands
-   where we don't use the mood tense. With these -go verbs, to make that shortcut you just drop the
-   -go, so for example, how do you say I have from tener?
-S: Tengo.
+T: Very good. No lo ponga aquí. We saw with regular verbs that we have a shortcut where we don't use the mood tense for informal positive commands. So if I want to tell you to eat I can just say come, I go to comes and I drop the s, come. If I want to tell you to find it I can go to encontrar, encuentras, I can drop the s, encuéntralo. That’s our shortcut for informal positive commands where we don't use the mood tense. With these -go verbs, to make that shortcut you just drop the -go, so for example, how do you say I have from tener?
+
+S: Tengo.
 
 T: Tengo. If you want to tell somebody informally have, you just drop the -go:
 
@@ -54,15 +48,11 @@ T: Yes. Tenlo.
 
 S: So we don't see tenga?
 
-T: For formal, but we are now looking at the shortcut that we have for informal, so how would you
-   say have it, speaking formally?
+T: For formal, but we are now looking at the shortcut that we have for informal, so how would you say have it, speaking formally?
 
 S: Téngalo.
 
-T: Téngalo. But informally we are not using the mood tense, we have a short cut, it's just different to
-   the short cut we learnt before, the short cut is just dropping the -go, tenlo. A nice way to remember
-   this is how you will see people in many Spanish speaking countries answering the phone, either
-   dígame, formally, or dime informally. What is I come?
+T: Téngalo. But informally we are not using the mood tense, we have a short cut, it's just different to the short cut we learnt before, the short cut is just dropping the -go, tenlo. A nice way to remember this is how you will see people in many Spanish speaking countries answering the phone, either dígame, formally, or dime informally. What is I come?
 
 S: Vengo.
 
@@ -74,13 +64,11 @@ T: Venga. Now how would you make it informal?
 
 S: Ven.
 
-T: Ven. Good. So I should mention that the venga that you hear in Spain as come on is not necessarily
-   formal, it’s lost that feeling of formality because its like a fixed expression, so venga, venga you
-   hear all the time, and then ven will sound much more like come, physically come, rather than come
-   on; venga, venga, venga is used like come on. What was to leave or to go out?
+T: Ven. Good. So I should mention that the venga that you hear in Spain as come on is not necessarily formal, it’s lost that feeling of formality because its like a fixed expression, so venga, venga you hear all the time, and then ven will sound much more like come, physically come, rather than come on; venga, venga, venga is used like come on. What was to leave or to go out?
 
 S: Salir.
-T: Salir. I leave or I go out:
+
+T: Salir. I leave or I go out:
 
 S: Salgo.
 
@@ -96,19 +84,12 @@ T: Dígame. If you want to make that same command informally, how will it be?
 
 S: Dime.
 
-T: Dime. Good. So both things you hear when people answer the phone in Spain - dime, dígame -
-   and in other countries, in other Spanish speaking countries as well. So for -go verbs they will go
-   to -ga to form the mood tense and for the orders, the short cut for the informal positive order they
-   will just drop this -go. So if you want to say tell me when you come, speaking informally, how
-   would that be?
+T: Dime. Good. So both things you hear when people answer the phone in Spain - dime, dígame - and in other countries, in other Spanish speaking countries as well. So for -go verbs they will go to -ga to form the mood tense and for the orders, the short cut for the informal positive order they will just drop this -go. So if you want to say tell me when you come, speaking informally, how would that be?
 
 S: Dime cuando vengas.
 
-T: Good. After cuando we are using the mood tense because we are referring to the future. Dime
-   cuando vengas. Tell me when you come. How would you say tell me when you do it - and lets
-   speak formally now? Tell me when you do it, speaking formally:
+T: Good. After cuando we are using the mood tense because we are referring to the future. Dime cuando vengas. Tell me when you come. How would you say tell me when you do it - and lets speak formally now? Tell me when you do it, speaking formally:
 
 S: Dígame cuando lo haga.
 
 T: Very good. Dígame cuando lo haga. Good.
-

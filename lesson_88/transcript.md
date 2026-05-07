@@ -1,6 +1,5 @@
 # Lesson 88 — Transcript
 
-
 T: What was to put?
 
 S: Poner.
@@ -9,11 +8,9 @@ T: Poner. I was putting, the line in the past:
 
 S: Ponía.
 
-T: Ponía. Good. Now if you want to say I put, the point in the past, I put in the past of course in
-   English it doesn’t change. I put. Present. I put. Past. I put for the past, our base is pus-, pus-. P-u-
-   s.
+T: Ponía. Good. Now if you want to say I put, the point in the past, I put in the past of course in English it doesn’t change. I put. Present. I put. Past. I put for the past, our base is pus-, pus-. P-u- s.
 
-   So how would you say I put?
+So how would you say I put?
 
 S: Pusé.
 
@@ -29,10 +26,7 @@ T: Where did you put it?:
 
 S: ¿Dónde lo pusiste?
 
-T: ¿Dónde lo pusiste? Good. And now we can see where that poner -pose was coming from. We
-   said that when we have poner as part of a verb in Spanish, it’s -pose in English. Componer,
-   compose. Exponer, expose. Oponer, oppose. And now we hear this -pose sound coming out in
-   the dot in the past: puse, pusiste. What was to do or to make?
+T: ¿Dónde lo pusiste? Good. And now we can see where that poner -pose was coming from. We said that when we have poner as part of a verb in Spanish, it’s -pose in English. Componer, compose. Exponer, expose. Oponer, oppose. And now we hear this -pose sound coming out in the dot in the past: puse, pusiste. What was to do or to make?
 
 S: Hacer.
 
@@ -41,18 +35,14 @@ T: The base here in this point in the past is hic-. H-i-c. So if you want to say
 S: Hice.
 
 T: And he made or he did:
-S: Hizo.
 
-T: Hizo. Here it would be h-i-z-o. We can’t keep the c, because it would spell “hico”. Hizo. They
-  made or you guys made:
+S: Hizo.
+
+T: Hizo. Here it would be h-i-z-o. We can’t keep the c, because it would spell “hico”. Hizo. They made or you guys made:
 
 S: Hicieron.
 
-T: Good. Whenever you identify one of these irregular verbs in the point in the past where the base
-  of the verb has changed, then you know what to do with it. That end -o is coming from -ar and
-  then you have -imos, -iste, ieron from -er/-ir. Sometimes the change is subtle. We saw that pod-
-  of poder became pud-. We saw in another lesson that hab- of haber became hub-. Ven- of venir,
-  becomes vin-. So how would you say I came?
+T: Good. Whenever you identify one of these irregular verbs in the point in the past where the base of the verb has changed, then you know what to do with it. That end -o is coming from -ar and then you have -imos, -iste, ieron from -er/-ir. Sometimes the change is subtle. We saw that pod- of poder became pud-. We saw in another lesson that hab- of haber became hub-. Ven- of venir, becomes vin-. So how would you say I came?
 
 S: Vine.
 
@@ -80,21 +70,15 @@ T: Trajimos. And I brought again:
 
 S: Traje.
 
-T: And traje also means suit like the kind you wear. And it’s masculine. So I brought a suit would
-  be:
-S: Traje un traje.
+T: And traje also means suit like the kind you wear. And it’s masculine. So I brought a suit would be:
 
-T: Traje un traje. Vino con vino. Traje un traje. There’s one extra irregular past point to look at.
-   It’s extra irregular because it doesn’t really follow these rules about what groups it’s taking the
-   sounds from, and it’s also extra irregular because it is the past for both ser and ir. It is the past for
-   both I was and I went. And this is fui. F-u-i. Fui.
+S: Traje un traje.
+
+T: Traje un traje. Vino con vino. Traje un traje. There’s one extra irregular past point to look at. It’s extra irregular because it doesn’t really follow these rules about what groups it’s taking the sounds from, and it’s also extra irregular because it is the past for both ser and ir. It is the past for both I was and I went. And this is fui. F-u-i. Fui.
 
 S: Fui.
 
-T: Fui. So fui means I was from ser, point in the past, and it also means I went. So ser and ir in the
-   point in the past, they share a past. Fui means I was or I went. And fue means he was, she was, it
-   was, you were or went. So we see that it’s extremely irregular. Fui. I was or I went. How would
-   you say I didn’t go?
+T: Fui. So fui means I was from ser, point in the past, and it also means I went. So ser and ir in the point in the past, they share a past. Fui means I was or I went. And fue means he was, she was, it was, you were or went. So we see that it’s extremely irregular. Fui. I was or I went. How would you say I didn’t go?
 
 S: No fui.
 
@@ -110,24 +94,13 @@ T: Good. And you (informal):
 
 S: Fuiste.
 
-T: Fuiste. Now to make they or you (plural) was or went, we would add on -ieron, but we will find it
-   very difficult to pronounce “fuieron”, “fuieron”. So the /i/ sound, the i fell away. So how would
-   that sound?
+T: Fuiste. Now to make they or you (plural) was or went, we would add on -ieron, but we will find it very difficult to pronounce “fuieron”, “fuieron”. So the /i/ sound, the i fell away. So how would that sound?
 
 S: Fueron.
 
-T: Fueron. So the i, the /i/ sound, falls away. Fueron. The same thing happens in a couple of other
-   cases too. We have trajeron from traer, to bring. They brought, you guys brought, trajeron.
-   Dijeron, they or you guys said. So a couple of other examples there of that i falling away, just for
-   sound reasons. “Trajieron”, “dijieron” is kind of difficult to say so it fell away for efficiency:
-   dijeron, trajeron, fueron. So now that we have fueron, we can make the past mood tense. We
-   can say something like if I were you because we always go from the they form of the point in the
-   past. So if they went or they were is fueron, we can say if I were you and of course we’re using the
-   mood tense here because we have if going into the past hypothetically. So this is a mood tense that
-   is quite specific for the past. We are not putting the mood tense after si, after if in the present. But
-   for this hypothetical past, if I were you, there we have it in English as well as in Spanish. We said
-   that if I were you instead of “if I was you” is mood tense in English. So how would that be? If I
-   were you:
+T: Fueron. So the i, the /i/ sound, falls away. Fueron. The same thing happens in a couple of other cases too. We have trajeron from traer, to bring. They brought, you guys brought, trajeron. Dijeron, they or you guys said. So a couple of other examples there of that i falling away, just for sound reasons. “Trajieron”, “dijieron” is kind of difficult to say so it fell away for efficiency: dijeron, trajeron, fueron. So now that we have fueron, we can make the past mood tense. We
+
+can say something like if I were you because we always go from the they form of the point in the past. So if they went or they were is fueron, we can say if I were you and of course we’re using the mood tense here because we have if going into the past hypothetically. So this is a mood tense that is quite specific for the past. We are not putting the mood tense after si, after if in the present. But for this hypothetical past, if I were you, there we have it in English as well as in Spanish. We said that if I were you instead of “if I was you” is mood tense in English. So how would that be? If I were you:
 
 S: Fueron becomes fueran.
 
@@ -143,29 +116,19 @@ T: Now it’s just the word for you.
 
 S: Tú.
 
-T: Tú or usted depending on who we’re talking to. So si yo fuera tú. Si fuera tú or si yo fuera tú,
-   si yo fuera usted, if I were you. Now we are understanding why we went from the they version to
-   find the mood tense in the past. Because going from the they version instead of the to form means
-   that if there is some irregularity, we will transfer that irregularity over into the mood tense. So we
-   went from fueron to fuera and we will go from, for example, dijeron, they spoke, to dijera so we
-   carry over that irregularity of having lost that i. Trajeron, they brought and then trajera for the
-   mood tense. I had was tuve. What was they had or you guys had?
+T: Tú or usted depending on who we’re talking to. So si yo fuera tú. Si fuera tú or si yo fuera tú, si yo fuera usted, if I were you. Now we are understanding why we went from the they version to find the mood tense in the past. Because going from the they version instead of the to form means that if there is some irregularity, we will transfer that irregularity over into the mood tense. So we went from fueron to fuera and we will go from, for example, dijeron, they spoke, to dijera so we carry over that irregularity of having lost that i. Trajeron, they brought and then trajera for the mood tense. I had was tuve. What was they had or you guys had?
 
 S: Tuvieron.
 
 T: Tuvieron. So now we can say if I had it, I would tell you. If I had it, I would tell you:
 
 S: Si lo tuviera.
-T: I would tell you. You can use contar. Decir is very irregular for would. So if you don’t want to
-   deal with that now, imagine you’re in a real life context, you can just go to the more regular verb,
-   which is contar. I would tell you, informally:
+
+T: I would tell you. You can use contar. Decir is very irregular for would. So if you don’t want to deal with that now, imagine you’re in a real life context, you can just go to the more regular verb, which is contar. I would tell you, informally:
 
 S: Te contaría.
 
-T: Good. Si lo tuviera, te contaría, or te lo contaría. I would tell you it. We like to close with this it
-   in Spanish a lot. Si lo tuvieria, te lo contaría, I would tell you it. So we have to do or to make
-   which is hacer, and we said that the root for the point in the past is hic-. H-i-c for the I version. So
-   how would you say I made or I did?
+T: Good. Si lo tuviera, te contaría, or te lo contaría. I would tell you it. We like to close with this it in Spanish a lot. Si lo tuvieria, te lo contaría, I would tell you it. So we have to do or to make which is hacer, and we said that the root for the point in the past is hic-. H-i-c for the I version. So how would you say I made or I did?
 
 S: Hice.
 
@@ -177,15 +140,8 @@ T: Hicieron. Good. So you could say I wanted for them to do it. I wanted that th
 
 S: Quería que lo hicieran.
 
-T: Good. I wanted them to do it. I wanted that they do it. Quería que lo hicieran. How would you
-   say I wanted for us to do it, I wanted that we do it, that we did it?
+T: Good. I wanted them to do it. I wanted that they do it. Quería que lo hicieran. How would you say I wanted for us to do it, I wanted that we do it, that we did it?
 
 S: Quería que lo hiciéramos.
 
-T: Good. Well done. Quería que lo hiciéramos. Good. I’m not as interested here in installing, let’s
-   say, all of this content, all of these irregular verbs. All I want to give you is an exposure to how
-   they might work. The irregular verbs that you can come across, so that practicing, you can manage
-   them. So you should not be afraid of making mistakes. You should build the verbs how you are
-   used to and if you suspect that this one might be irregular, check. Check with the person that you
-   are speaking to.
-
+T: Good. Well done. Quería que lo hiciéramos. Good. I’m not as interested here in installing, let’s say, all of this content, all of these irregular verbs. All I want to give you is an exposure to how they might work. The irregular verbs that you can come across, so that practicing, you can manage them. So you should not be afraid of making mistakes. You should build the verbs how you are used to and if you suspect that this one might be irregular, check. Check with the person that you are speaking to.

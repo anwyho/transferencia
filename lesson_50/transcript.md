@@ -1,14 +1,12 @@
 # Lesson 50 — Transcript
 
-
 T: Gracias por venir. Gracias por venir in Spanish means thanks for coming. Gracias por venir.
 
 S: Gracias por venir.
 
-T: So there’s two things that we can see in this sentence. We can use this sentence like a hook to
-   remember two important things about Spanish. The first thing is that we have two words for for.
+T: So there’s two things that we can see in this sentence. We can use this sentence like a hook to remember two important things about Spanish. The first thing is that we have two words for for.
 
-   We already saw another word for for. For example, how were we saying for me?
+We already saw another word for for. For example, how were we saying for me?
 
 S: Para mí.
 
@@ -16,9 +14,7 @@ T: Para mí. Good. And for you, speaking informally:
 
 S: Para ti.
 
-T: Para ti. So we had mí and ti coming with prepositions. Para mí, para ti, de mí, from me, de ti,
-   from you, but then for the other people we just say for he, for example. So how is for him or for he
-   in Spanish?
+T: Para ti. So we had mí and ti coming with prepositions. Para mí, para ti, de mí, from me, de ti, from you, but then for the other people we just say for he, for example. So how is for him or for he in Spanish?
 
 S: Para él.
 
@@ -26,9 +22,7 @@ T: Good. And for her:
 
 S: Para ella.
 
-T: Good. So this para is when something is for somebody. No? For example, if you want to say this
-   is for you, speaking informally, let’s say it’s a masculine object. This, this one, is for you. How
-   would you say that?
+T: Good. So this para is when something is for somebody. No? For example, if you want to say this is for you, speaking informally, let’s say it’s a masculine object. This, this one, is for you. How would you say that?
 
 S: Ello-
 
@@ -41,12 +35,10 @@ T: Good. So that’s your hook and you go from there. Esta noche. But, I want a 
 S: Esto-
 
 T: What you should do is look at somewhere that you’ve used it. So you should look at this car.
-S: Este.
 
-T: And then you find it. These are the processes that we’re learning and this is half of the method.
-   You can take yourself through those processes when you need to find it. Then it comes to your
-   memory. Then you know it after that. But, the first few times, you need to have a look around,
-   let’s say, and seek to find it. So this or this one, masculine thing:
+S: Este.
+
+T: And then you find it. These are the processes that we’re learning and this is half of the method. You can take yourself through those processes when you need to find it. Then it comes to your memory. Then you know it after that. But, the first few times, you need to have a look around, let’s say, and seek to find it. So this or this one, masculine thing:
 
 S: Este.
 
@@ -54,37 +46,27 @@ T: Este. So this one is for you (speaking informally):
 
 S: Este es para ti.
 
-T: Good. Este es para ti if we mean a masculine thing. What if you meant these are for you
-   (masculine or mixed things)?
+T: Good. Este es para ti if we mean a masculine thing. What if you meant these are for you (masculine or mixed things)?
 
 S: Estos son para ti.
 
-T: Well done. Estos son para ti. So we saw that actually for this and these we have este and estos.
-   In este we have the /e/ of el and in estos we have the /os/ of los. Estos son para ti. So this is the
-   for that we learned until now, no? Then we have por which is much more flexible. It has many
-   more meanings. Let’s investigate some of them. Por. You can use it like because of. No?
-   Sometimes when we say for in English, we mean because of. For example, if you say for this
-   reason. What you mean is because of this reason. So you don’t mean para, you mean por. So por
-   also means for in the sense of because of. And actually in the words because and why, which were?
+T: Well done. Estos son para ti. So we saw that actually for this and these we have este and estos. In este we have the /e/ of el and in estos we have the /os/ of los. Estos son para ti. So this is the for that we learned until now, no? Then we have por which is much more flexible. It has many more meanings. Let’s investigate some of them. Por. You can use it like because of. No? Sometimes when we say for in English, we mean because of. For example, if you say for this reason. What you mean is because of this reason. So you don’t mean para, you mean por. So por also means for in the sense of because of. And actually in the words because and why, which were?
 
 S: Por qué?
 
-T: Por qué. Here in why, we see that it is because of. Por qué, why, actually means because of what.
-   Because of what? And then porque as because. We said that we have the same word for why and
-   because. Porque as because means because of that. So in both cases you have por, meaning
-   because of. So reason in Spanish is razón. Razón.
+T: Por qué. Here in why, we see that it is because of. Por qué, why, actually means because of what. Because of what? And then porque as because. We said that we have the same word for why and because. Porque as because means because of that. So in both cases you have por, meaning because of. So reason in Spanish is razón. Razón.
 
 S: Razón.
 
 T: Or /rathón/ in most of Spain. /Rathón/. But in most of the Spanish speaking world /rasón/.
 
 S: Razón.
-T: Razón is feminine. So how would you say this reason?
+
+T: Razón is feminine. So how would you say this reason?
 
 S: Esta razón.
 
-T: Good. So how would you say because of this reason, I don’t want to go? Because of this reason, I
-   don’t want to go:
+T: Good. So how would you say because of this reason, I don’t want to go? Because of this reason, I don’t want to go:
 
 S: Por esta razón, no quiero ir.
 
@@ -92,32 +74,21 @@ T: Por esta razón, no quiero ir. Let’s contrast the two. What was to buy? Do 
 
 S: Comprer- comprer- comprar?
 
-T: Comprar. Good. Comprar. You can say I’m buying it for you. How would you say that? Let’s
-   keep it informal. I’m buying it for you:
+T: Comprar. Good. Comprar. You can say I’m buying it for you. How would you say that? Let’s keep it informal. I’m buying it for you:
 
 S: Lo compro para ti.
 
-T: Good. Lo compro para ti. That means, you know, this thing I’m buying it for you. But maybe, in
-   some contexts you want to say I’m buying it because of you. How would you say that?
+T: Good. Lo compro para ti. That means, you know, this thing I’m buying it for you. But maybe, in some contexts you want to say I’m buying it because of you. How would you say that?
 
 S: Lo compro por ti.
 
-T: Good. Lo compro por ti. So it doesn’t mean necessarily that this thing is for that person, just that
-   you’ve bought it because of that person. So maybe you buy an ashtray in your house and your one
-   friend that smokes comes and you say lo he comprado por ti. I have bought it because of you. If
-   you say lo he comprado para ti, for you, then he’ll run to take the ashtray home. Another use for
-   por is when we’re talking about time. When you are talking about periods of time, for two weeks,
-   for two days, you will not say para. You will say por. This is another place where you use por.
-   The word for day is día. Día.
+T: Good. Lo compro por ti. So it doesn’t mean necessarily that this thing is for that person, just that you’ve bought it because of that person. So maybe you buy an ashtray in your house and your one friend that smokes comes and you say lo he comprado por ti. I have bought it because of you. If you say lo he comprado para ti, for you, then he’ll run to take the ashtray home. Another use for por is when we’re talking about time. When you are talking about periods of time, for two weeks, for two days, you will not say para. You will say por. This is another place where you use por. The word for day is día. Día.
 
 S: Día.
 
-T: Día. It’s actually related to an Indo-European root which just means a very old root meaning light.
-   And deity in English comes from the same root. Or the ju- of Jupiter is actually also from this root.
-   Jupiter means something like the father of the gods. You have -piter like paternal there and ju-
-   from this same root as día and deity. And of course you have Jupiter which is the biggest planet,
-   so the father of the gods, Jupiter. Día is a word that looks feminine and it’s one of those few words
-   that end in -a, that look feminine, but are masculine. So the day is:
+T: Día. It’s actually related to an Indo-European root which just means a very old root meaning light. And deity in English comes from the same root. Or the ju- of Jupiter is actually also from this root. Jupiter means something like the father of the gods. You have -piter like paternal there and ju- from this same root as día and deity. And of course you have Jupiter which is the biggest planet,
+
+so the father of the gods, Jupiter. Día is a word that looks feminine and it’s one of those few words that end in -a, that look feminine, but are masculine. So the day is:
 
 S: El día.
 
@@ -125,21 +96,15 @@ T: El día. And the days:
 
 S: Los días.
 
-T: Los días. And every day is all the days. Before we said todo el tiempo to say all the time. If you
-   want to say every day, you say all the days. How do you think that would sound?
+T: Los días. And every day is all the days. Before we said todo el tiempo to say all the time. If you want to say every day, you say all the days. How do you think that would sound?
 
 S: Todos los días.
 
-T: Good. Todos in plural. Todos los días. Good. If you wanted to say I’m staying for three days,
-   three is tres. Tres. I’m staying for three days, I remain myself for three days, so how would you
-   say that? I’m staying for three days:
+T: Good. Todos in plural. Todos los días. Good. If you wanted to say I’m staying for three days, three is tres. Tres. I’m staying for three days, I remain myself for three days, so how would you say that? I’m staying for three days:
 
 S: Me quedo por tres días.
 
-T: Very good. Me quedo por tres días. I’m staying for three days. How would you say I will stay for
-   three days, I will stay for three days. You don’t really need- you don’t need the will here. The fact
-   that you say for three days is already some kind of a future context. The days didn’t happen yet,
-   but let’s practice the future. So I will stay for three days:
+T: Very good. Me quedo por tres días. I’m staying for three days. How would you say I will stay for three days, I will stay for three days. You don’t really need- you don’t need the will here. The fact that you say for three days is already some kind of a future context. The days didn’t happen yet, but let’s practice the future. So I will stay for three days:
 
 S: So it’s quedé?
 
@@ -151,14 +116,11 @@ T: Yes, we are pushing it into the future. So I will stay for three days:
 
 S: Me quedaré por tres días.
 
-T: Good. Me quedaré por tres días. So this sounds a little bit more certain, you know, when you use
-   the future. Me quedo por tres días. I’m staying for three days. Me quedaré por tres días. I will
-   stay for three days. How would you say I would stay for three days? I would stay for three days.
-   A nice hook to remember would is I would like or it would please me. This is a nice hook.
-S: Me gustaría.
+T: Good. Me quedaré por tres días. So this sounds a little bit more certain, you know, when you use the future. Me quedo por tres días. I’m staying for three days. Me quedaré por tres días. I will stay for three days. How would you say I would stay for three days? I would stay for three days. A nice hook to remember would is I would like or it would please me. This is a nice hook.
 
-T: So this is a nice hook to remember would, because it is something that is very common that you
-   will use a lot. So what is that little bit you need for would that you can pluck out of me gustaría?
+S: Me gustaría.
+
+T: So this is a nice hook to remember would, because it is something that is very common that you will use a lot. So what is that little bit you need for would that you can pluck out of me gustaría?
 
 S: The -ía ending.
 
@@ -166,23 +128,19 @@ T: Perfect. So I would stay for three days:
 
 S: Me quedaría por tres días.
 
-T: Good. Me quedaría por tres días. But, I have to work. Do you remember what is to work? We
-   saw it very briefly?
+T: Good. Me quedaría por tres días. But, I have to work. Do you remember what is to work? We saw it very briefly?
 
 S: Trabajar.
 
-T: Trabajar. Good. Trabajar is t-r-a-b-a-j-a-r and that -jar makes /har/. Trabajar. So, but I have
-   to work:
+T: Trabajar. Good. Trabajar is t-r-a-b-a-j-a-r and that -jar makes /har/. Trabajar. So, but I have to work:
 
 S: Pero tengo que trabajar.
 
-T: Yes, now all together. I would stay for three days, but I have to work. And not from memory, but
-   thinking it through.
+T: Yes, now all together. I would stay for three days, but I have to work. And not from memory, but thinking it through.
 
 S: I know because I’ve already forgotten it.
 
-T: Good. So, thinking it through again. Taking that time to think it through again. I would stay is the
-   first bit:
+T: Good. So, thinking it through again. Taking that time to think it through again. I would stay is the first bit:
 
 S: Me quedaría.
 
@@ -195,4 +153,3 @@ T: But, I have to work:
 S: Pero tengo que trabajar.
 
 T: Perfect. Me quedaría por tres días, pero tengo que trabajar. Perfect. Very good.
-

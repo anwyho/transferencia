@@ -1,6 +1,5 @@
 # Lesson 57 — Transcript
 
-
 T: What is to speak?
 
 S: Hablar.
@@ -13,11 +12,7 @@ T: Comer. -er verb, and to live:
 
 S: Vivir.
 
-T: Vivir. -ir verb. Good, so there we have an –ar, -er and –ir verb, and we saw –ar verbs form one
-   group, and –er/-ir verbs form another group. But, we have one time in the entire Spanish language,
-   where there is a difference between –er and –ir verbs, otherwise they are always forming one
-   group. But just one occasion in the whole Spanish language, where there is a difference between
-   them. How do you say we speak or we are speaking?
+T: Vivir. -ir verb. Good, so there we have an –ar, -er and –ir verb, and we saw –ar verbs form one group, and –er/-ir verbs form another group. But, we have one time in the entire Spanish language, where there is a difference between –er and –ir verbs, otherwise they are always forming one group. But just one occasion in the whole Spanish language, where there is a difference between them. How do you say we speak or we are speaking?
 
 S: Hablamos.
 
@@ -29,9 +24,7 @@ T: Comemos. Good, and how is we live?
 
 S: Vivimos.
 
-T: Vivimos. Good. So, for -er verbs we use -emos for we in the present, and for -ir verbs we use -imos
-   for we in the present. But of course for the other versions they are using the same endings, for
-   example, he eats is:
+T: Vivimos. Good. So, for -er verbs we use -emos for we in the present, and for -ir verbs we use -imos for we in the present. But of course for the other versions they are using the same endings, for example, he eats is:
 
 S: Come.
 
@@ -40,7 +33,8 @@ T: Come. We use /e/. He lives:
 S: Vive.
 
 T: Vive. Again we are using an e. They eat, or you guys eat:
-S: Comen.
+
+S: Comen.
 
 T: Good. They live or you guys live:
 
@@ -54,24 +48,15 @@ T: ¿Dónde viven? Very good. What was the word for it? Not eat, but it, i-t:
 
 S: Lo.
 
-T: Lo. Good. There’s a couple of interesting and useful things we can do with lo, it, in Spanish, which
-   we can’t do in English. For example, when you want to say the interesting thing, the complicated
-   thing is, the interesting thing is, the difficult thing about that is, instead of saying the word for
-   thing, in Spanish you can just say, for example, lo interesante. Lo interesante means the
-   interesting thing. So, you get the structure the interesting thing with lo interesante. So, how would
-   you say, for example, the interesting thing is that they live here? The interesting thing is that they
-   live here:
+T: Lo. Good. There’s a couple of interesting and useful things we can do with lo, it, in Spanish, which we can’t do in English. For example, when you want to say the interesting thing, the complicated thing is, the interesting thing is, the difficult thing about that is, instead of saying the word for thing, in Spanish you can just say, for example, lo interesante. Lo interesante means the interesting thing. So, you get the structure the interesting thing with lo interesante. So, how would you say, for example, the interesting thing is that they live here? The interesting thing is that they live here:
 
 S: Lo interesante es que viven aquí.
 
-T: Very good. Lo interesante es que viven aquí. Very good. How would you say the interesting
-   thing is that they live together? Now, the word for together in Spanish is junto, junto.
+T: Very good. Lo interesante es que viven aquí. Very good. How would you say the interesting thing is that they live together? Now, the word for together in Spanish is junto, junto.
 
 S: Junto.
 
-T: This is the singular masculine version. J-u-n-t-o. Now, it’s related to junction, it doesn’t sound like
-   it, but when you realize that junto is with j, then you can see how it’s related to junction in English
-   and join. The interesting thing is that they live together:
+T: This is the singular masculine version. J-u-n-t-o. Now, it’s related to junction, it doesn’t sound like it, but when you realize that junto is with j, then you can see how it’s related to junction in English and join. The interesting thing is that they live together:
 
 S: Lo interesante es que viven junto?
 
@@ -80,10 +65,10 @@ T: Good, but it’s them, no? They, viven:
 S: Juntos.
 
 T: Good. Lo interesante es que viven juntos. Or, if they were two females, you would say:
-S: Juntas.
 
-T: Good. Lo interesante es que viven juntas. The interesting thing is that they live together. What
-   do you think fácil means? Fácil:
+S: Juntas.
+
+T: Good. Lo interesante es que viven juntas. The interesting thing is that they live together. What do you think fácil means? Fácil:
 
 S: Easy.
 
@@ -91,13 +76,11 @@ T: Easy. Why?
 
 S: Facilitate.
 
-T: Facilitate. Good. To facilitate is to make easy, so, we have fácil, easy. So, if you wanted to say the
-   easy thing, how would you say that?
+T: Facilitate. Good. To facilitate is to make easy, so, we have fácil, easy. So, if you wanted to say the easy thing, how would you say that?
 
 S: Lo fácil.
 
-T: Lo fácil, and then you will carry on, so we can say the easy thing is that they come together. The
-   easy thing is that they come together:
+T: Lo fácil, and then you will carry on, so we can say the easy thing is that they come together. The easy thing is that they come together:
 
 S: Lo fácil es que, venir is irregular, right?
 
@@ -109,30 +92,19 @@ T: But you are going for the “they” version, so don’t go from venir to “
 
 S: But I might as well remember it.
 
-T: Why? That’s how you get lost, right? What you want to do is focus your thoughts on just what you
-   have in front of you, which is going from venir to the “they” form, and try to build it as it should
-   be, and then when you get that result, then have a look at maybe if it’s irregular, if it doesn’t feel
-   right -
+T: Why? That’s how you get lost, right? What you want to do is focus your thoughts on just what you have in front of you, which is going from venir to the “they” form, and try to build it as it should be, and then when you get that result, then have a look at maybe if it’s irregular, if it doesn’t feel right -
 
 S: So, is it vienen?
 
 T: Of course! You see?
 
 S: Yeah. The “I” one though! My mind is trying to remember.
-T: Vengo. But it’s not important, if you don’t need it now it shouldn’t be important for you, because
-   with everything you will remember, you will remember something similar that you don’t
-   remember. If you let that occupy your thoughts then you are gonna block. You need to be
-   comfortable with a level of uncertainty to learn a language. If you want to have the whole panorama
-   of the whole language before you start speaking, you will never start speaking. And sooner or later
-   we are gonna come across again that thought that distracted us cause we are gonna want to say it,
-   and in that moment we will sort it out. So, the more we do that, the more you are gonna control
-   this panorama of Spanish, that makes you a little bit insecure right now, because you know so
-   much and you feel like it’s all floating around. The easy thing is that they come together:
+
+T: Vengo. But it’s not important, if you don’t need it now it shouldn’t be important for you, because with everything you will remember, you will remember something similar that you don’t remember. If you let that occupy your thoughts then you are gonna block. You need to be comfortable with a level of uncertainty to learn a language. If you want to have the whole panorama of the whole language before you start speaking, you will never start speaking. And sooner or later we are gonna come across again that thought that distracted us cause we are gonna want to say it, and in that moment we will sort it out. So, the more we do that, the more you are gonna control this panorama of Spanish, that makes you a little bit insecure right now, because you know so much and you feel like it’s all floating around. The easy thing is that they come together:
 
 S: Lo fácil es que vienen juntos.
 
-T: Good. Lo fácil es que vienen juntos. Very good. How would you say the complicated thing is
-   that they come together:
+T: Good. Lo fácil es que vienen juntos. Very good. How would you say the complicated thing is that they come together:
 
 S: Complicación – complicar – complicado?
 
@@ -140,44 +112,29 @@ T: Yeah.
 
 S: So, lo complicado es que vienen juntos.
 
-T: Lo complicado es que vienen juntos. Good. So we can say lo bueno, the good thing; lo malo,
-   the bad thing. Malo is bad, like in malnutritioned, that means badly nutritioned, so that’s a useful
-   structure. Before we said de esta forma, in this way, de esta forma. We could also say de esta
-   manera, in this manner, but very very common in Spanish when we want to say like this, like that,
-   is the word así, a-s-i, así.
+T: Lo complicado es que vienen juntos. Good. So we can say lo bueno, the good thing; lo malo, the bad thing. Malo is bad, like in malnutritioned, that means badly nutritioned, so that’s a useful structure. Before we said de esta forma, in this way, de esta forma. We could also say de esta manera, in this manner, but very very common in Spanish when we want to say like this, like that, is the word así, a-s-i, así.
 
 S: Así.
 
-T: Así means like this or like that. So, if you want to say something like we don’t speak like this, we
-   don’t speak in that way, you don’t really need to say de esa manera or de esa forma, you can just
-   take this wonderful shortcut for like this or like that, which is así. So, like this, like that, así.
+T: Así means like this or like that. So, if you want to say something like we don’t speak like this, we don’t speak in that way, you don’t really need to say de esa manera or de esa forma, you can just take this wonderful shortcut for like this or like that, which is así. So, like this, like that, así.
 
-   So, we don’t speak like that, we don’t speak in that way:
+So, we don’t speak like that, we don’t speak in that way:
 
 S: No hablamos así.
 
 T: No hablamos así. We don’t eat like that:
-S: No comemos así.
+
+S: No comemos así.
 
 T: No comemos así. We don’t live like that:
 
 S: No vivimos así.
 
-T: No vivimos así. Good. Another interesting thing that we can do with lo, a useful structure we can
-   make with lo, is lo de. The combination of lo and de means like the thing about. So we see how
-   lo can sometimes replace thing, lo interesante, the interesting thing, and lo de is like the thing
-   about. So, for example, if you wanted to say the thing about the party, you just say lo de la fiesta.
-   So if you want to say we are speaking about the thing about the party - not we are speaking about
-   the party, but we are speaking about that issue of the party, that thing we know what we are
-   referring to, we are speaking about that business about the party, hablamos lo de la fiesta. Or
-   hablamos sobre, about, you could say that as well, hablamos sobre lo de la fiesta. You can even
-   say de, we speak of, hablamos de lo de la fiesta. You can say that business about Juan, that thing
-   about Juan, how would you say that?
+T: No vivimos así. Good. Another interesting thing that we can do with lo, a useful structure we can make with lo, is lo de. The combination of lo and de means like the thing about. So we see how lo can sometimes replace thing, lo interesante, the interesting thing, and lo de is like the thing about. So, for example, if you wanted to say the thing about the party, you just say lo de la fiesta. So if you want to say we are speaking about the thing about the party - not we are speaking about the party, but we are speaking about that issue of the party, that thing we know what we are referring to, we are speaking about that business about the party, hablamos lo de la fiesta. Or hablamos sobre, about, you could say that as well, hablamos sobre lo de la fiesta. You can even say de, we speak of, hablamos de lo de la fiesta. You can say that business about Juan, that thing about Juan, how would you say that?
 
 S: Lo de Juan.
 
-T: Lo de Juan. Good. So, you could say I don’t want to speak about Juan’s business like this, I don’t
-   want to speak about Juan’s business like this. And for Juan’s business you will just say:
+T: Lo de Juan. Good. So, you could say I don’t want to speak about Juan’s business like this, I don’t want to speak about Juan’s business like this. And for Juan’s business you will just say:
 
 S: Lo de Juan.
 
@@ -185,24 +142,19 @@ T: Good. So, I don’t want to speak about Juan’s business like this:
 
 S: No quiero hablar de lo de Juan así.
 
-T: Good. No quiero hablar de lo de Juan así. Or we could say no quiero hablar sobre lo de Juan
-   así, or just no quiero hablar lo de Juan así. So, lo de we kinda wanna see as a unit, meaning that
-   thing about. And we’ve seen already that de can mean about, so it’s just it about, that thing about.
-   It’s used very often in Spanish and you will find it very useful. So, you could say, for example, I
-   want to organize that thing tomorrow. That thing tomorrow, that thing about tomorrow. I want to
-   organize, what’s to organize?
+T: Good. No quiero hablar de lo de Juan así. Or we could say no quiero hablar sobre lo de Juan así, or just no quiero hablar lo de Juan así. So, lo de we kinda wanna see as a unit, meaning that thing about. And we’ve seen already that de can mean about, so it’s just it about, that thing about. It’s used very often in Spanish and you will find it very useful. So, you could say, for example, I want to organize that thing tomorrow. That thing tomorrow, that thing about tomorrow. I want to organize, what’s to organize?
 
 S: Organizar.
 
 T: Good. So, I want to organize that thing about tomorrow:
-S: Quiero organizar lo de la mañana?
+
+S: Quiero organizar lo de la mañana?
 
 T: La mañana is the morning.
 
 S: Oh, sorry, tomorrow.
 
-T: Yes, so morning and tomorrow are the same word in Spanish, mañana. If you say la mañana we
-   are going to understand the morning.
+T: Yes, so morning and tomorrow are the same word in Spanish, mañana. If you say la mañana we are going to understand the morning.
 
 S: So it’s just mañana.
 
@@ -210,13 +162,8 @@ T: Good, so all together:
 
 S: Quiero organizar lo de mañana.
 
-T: Very good. Quiero organizar lo de mañana. It about tomorrow, the thing about tomorrow.
-   Quiero organizar lo de mañana. But I don’t want to organize it like this, but I don’t want to
-   organize it like this:
+T: Very good. Quiero organizar lo de mañana. It about tomorrow, the thing about tomorrow. Quiero organizar lo de mañana. But I don’t want to organize it like this, but I don’t want to organize it like this:
 
 S: Pero no quiero organizarlo así.
 
-T: Good. Pero no quiero organizarlo así. Good. But I don't want to organize it like this. Or, if you
-   wanted to be more emphatic, you could replace así with de esta manera, de esta forma, of this
-   way, of this form, but así is the most common, you will be hearing it all the time.
-
+T: Good. Pero no quiero organizarlo así. Good. But I don't want to organize it like this. Or, if you wanted to be more emphatic, you could replace así with de esta manera, de esta forma, of this way, of this form, but así is the most common, you will be hearing it all the time.

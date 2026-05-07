@@ -1,10 +1,6 @@
 # Lesson 42 — Transcript
 
-
-T: So we saw for would, the future tense of would, we have our key sound -ía, we have the key sound
-   -ía which we are adding on to the end of the verb, and this gives you the version for I, he, she, it,
-   and you formal. So, for this one we have I jumping in with he, she, it, you formal. So, we can take
-   a verb like hablar and we can say I would speak. Hablar is to speak, and I would speak:
+T: So we saw for would, the future tense of would, we have our key sound -ía, we have the key sound -ía which we are adding on to the end of the verb, and this gives you the version for I, he, she, it, and you formal. So, for this one we have I jumping in with he, she, it, you formal. So, we can take a verb like hablar and we can say I would speak. Hablar is to speak, and I would speak:
 
 S: Hablaría.
 
@@ -24,11 +20,7 @@ T: No hablarían. Good. The verb to like in Spanish is gustar.
 
 S: Gustar.
 
-T: Gustar. So, to like is gustar, but it works differently in Spanish, and the way it works in Spanish
-   renders the translation to like as kind of complicated. It would be much better to translate gustar
-   as to be pleasing. So, when you say I like it, what we want to say in Spanish is it is pleasing to me.
-   That’s the way we say I like it in Spanish, it is pleasing to me. So, if you take gustar to mean to
-   be pleasing or to please, how would you make it is pleasing or it pleases?
+T: Gustar. So, to like is gustar, but it works differently in Spanish, and the way it works in Spanish renders the translation to like as kind of complicated. It would be much better to translate gustar as to be pleasing. So, when you say I like it, what we want to say in Spanish is it is pleasing to me. That’s the way we say I like it in Spanish, it is pleasing to me. So, if you take gustar to mean to be pleasing or to please, how would you make it is pleasing or it pleases?
 
 S: Gusta.
 
@@ -36,19 +28,13 @@ T: Gusta. Good, so that’s it is pleasing or it pleases. Now, if you want to sa
 
 S: Me gusta.
 
-T: Me gusta. And this is how you say I like it in Spanish, me gusta. So, a very common error that
-   Spanish learners make is to say me gusto, to translate it like from English literally, I like, and they
-   say gusto, but what does that mean then actually, if you say me gusto, what does it mean if gustar
-   means to be pleasing?
+T: Me gusta. And this is how you say I like it in Spanish, me gusta. So, a very common error that Spanish learners make is to say me gusto, to translate it like from English literally, I like, and they
+
+say gusto, but what does that mean then actually, if you say me gusto, what does it mean if gustar means to be pleasing?
 
 S: It means I please myself.
 
-T: Yes, it means I please myself, I like myself. So you want to be careful there, you don’t want to be
-   walking around telling everybody how much you like yourself, me gusto mucho. No. Me gusta
-   mucho, it pleases me. So, if you are saying I like them, then of course what you are saying is they
-   please me, so we must take this inter step, this Spanglish step, to think about it literally, to think it
-   through literally, so we are sure that we are getting the meaning that we want. So, how would you
-   say I like them or they please me or they are pleasing to me?
+T: Yes, it means I please myself, I like myself. So you want to be careful there, you don’t want to be walking around telling everybody how much you like yourself, me gusto mucho. No. Me gusta mucho, it pleases me. So, if you are saying I like them, then of course what you are saying is they please me, so we must take this inter step, this Spanglish step, to think about it literally, to think it through literally, so we are sure that we are getting the meaning that we want. So, how would you say I like them or they please me or they are pleasing to me?
 
 S: Me gustan.
 
@@ -56,8 +42,7 @@ T: Good. Me gustan. Good. So how do you think you would say I would like, it wou
 
 S: Me gustaría.
 
-T: Good. Me gustaría. So, just like in English, you use this a lot in Spanish. Me gustaría, to eat now,
-   I would like to eat now:
+T: Good. Me gustaría. So, just like in English, you use this a lot in Spanish. Me gustaría, to eat now, I would like to eat now:
 
 S: Me gustaría comer ahora.
 
@@ -69,15 +54,13 @@ T: It, it would please us, to eat now. So, you have this…
 
 S: Is nos gustarían correct?
 
-T: No, because you have this idea of nos, you have this plural idea and it’s manifesting itself in the
-   verb, so you are not totally in control of your building process at the moment, you are letting some
-   guess work come in, and you need to cut it, you need to start with the verb. It would please us. So,
-   it would please:
+T: No, because you have this idea of nos, you have this plural idea and it’s manifesting itself in the verb, so you are not totally in control of your building process at the moment, you are letting some guess work come in, and you need to cut it, you need to start with the verb. It would please us. So, it would please:
 
 S: Gustaría.
 
 T: Exactly. So when you start with the verb you are in control.
-S: Right.
+
+S: Right.
 
 T: Now you can say it would please us:
 
@@ -95,18 +78,11 @@ T: Good. Ver. Good. I would like to see you, let’s speak informally, I would l
 
 S: Me gustaría verte.
 
-T: Good. Me gustaría verte. A couple of verbs, they contract a little bit when we add on our future
-   endings. So when I say our future endings, I refer to both futures: will and would. For example, we
-   have poder – to be able, and would be able is could: I would be able to go, I could go. So we have
-   poder – to be able or can, and then we add -ía for would, and it would be podería, but this is a
-   very common verb, and common verbs are much more subject to change and irregularities, so
-   many years of podería-podería-podería-podería-podería – the /e/ got lost, the /e/ fell away, the
-   /e/ of poder. So, I could, he could, she could, it could, you (formal) could is podría.
+T: Good. Me gustaría verte. A couple of verbs, they contract a little bit when we add on our future endings. So when I say our future endings, I refer to both futures: will and would. For example, we have poder – to be able, and would be able is could: I would be able to go, I could go. So we have poder – to be able or can, and then we add -ía for would, and it would be podería, but this is a very common verb, and common verbs are much more subject to change and irregularities, so many years of podería-podería-podería-podería-podería – the /e/ got lost, the /e/ fell away, the /e/ of poder. So, I could, he could, she could, it could, you (formal) could is podría.
 
 S: Podría.
 
-T: Podría. You can give me the other versions of course. How would you say they could or you guys
-   could?
+T: Podría. You can give me the other versions of course. How would you say they could or you guys could?
 
 S: Podrían.
 
@@ -117,7 +93,8 @@ S: Podrías.
 T: Good. And we:
 
 S: Podríamos.
-T: Good. What was to come?
+
+T: Good. What was to come?
 
 S: Venir.
 
@@ -125,23 +102,18 @@ T: Venir. Could you come to my house? How was my house?
 
 S: Mi casa.
 
-T: Mi casa. Good. So, how would you say Could you come? And this is to come, we don’t say to here
-  in English, but it’s a second verb, will be in the “to” form, Could you come to my house?
+T: Mi casa. Good. So, how would you say Could you come? And this is to come, we don’t say to here in English, but it’s a second verb, will be in the “to” form, Could you come to my house?
 
-  Let’s speak informally.
+Let’s speak informally.
 
 S: ¿Podrías venir a mi casa?
 
-T: Good. ¿Podrías venir a mi casa? To say or to tell is decir. So we have hablar, which is to speak
-  or to talk, but to say or to tell is decir. Could you tell me something? Could you tell me something?
-  And we are speaking informally still.
+T: Good. ¿Podrías venir a mi casa? To say or to tell is decir. So we have hablar, which is to speak or to talk, but to say or to tell is decir. Could you tell me something? Could you tell me something? And we are speaking informally still.
 
 S: ¿Me podrías decir algo?
 
-T: Good. ¿Me podrías decir algo? or ¿Podrías decirme algo? Could you tell me if you want to
-  come? So, let’s start with could you tell me if, and I remind you that if is the same as yes.
+T: Good. ¿Me podrías decir algo? or ¿Podrías decirme algo? Could you tell me if you want to come? So, let’s start with could you tell me if, and I remind you that if is the same as yes.
 
 S: ¿Podrías decirme si quieres venir?
 
 T: Okay.
-

@@ -1,25 +1,6 @@
 # Lesson 84 — Transcript
 
-
-T: So now we really do have the panorama of all times and moods in Spanish. So now that's
-   everything. That's every tense including both the idea of time and the idea of mood. We've learned
-   how to construct them all, and we should really listen actively to refresh any knowledge that we
-   might need to refresh through our exposure to Spanish. Analyzing always what we hear, and if
-   you're listening to a song or a movie maybe you just hear the endings of the verbs at the beginning.
-   But if you can identify what that ending means, that's the important bit. In the same way this course
-   has been focused equally on the process that we go through in building our structures in Spanish,
-   as it has been focused on content. So half of the point of this course has been content, has been
-   teaching you Spanish; and the other half has been how to manage Spanish, how to manage these
-   elements that we've learned. How to think about this information and how to relate to information
-   generally in a new way. How to find things that you think you might have forgotten. We've also
-   looked now and then at some irregularities in Spanish. Verbs or other words that don't follow the
-   rules that we learned. Now the older the language, the more irregularities it tends to have. Spanish,
-   effectively being modern Latin, is quite prone to irregularities. But the irregularities can be made
-   sense of within themselves. You can group together irregularities. So whilst throughout the course
-   we were looking at the odd irregularity as it popped up, now at the end of the course we are going
-   to tidy up the irregular verbs. So there are a group of verbs, which we can call the “go verbs".
-   These are the verbs that use -go instead of -o for the I form. For example, how do you say to have,
-   to have, for possession?
+T: So now we really do have the panorama of all times and moods in Spanish. So now that's everything. That's every tense including both the idea of time and the idea of mood. We've learned how to construct them all, and we should really listen actively to refresh any knowledge that we might need to refresh through our exposure to Spanish. Analyzing always what we hear, and if you're listening to a song or a movie maybe you just hear the endings of the verbs at the beginning. But if you can identify what that ending means, that's the important bit. In the same way this course has been focused equally on the process that we go through in building our structures in Spanish, as it has been focused on content. So half of the point of this course has been content, has been teaching you Spanish; and the other half has been how to manage Spanish, how to manage these elements that we've learned. How to think about this information and how to relate to information generally in a new way. How to find things that you think you might have forgotten. We've also looked now and then at some irregularities in Spanish. Verbs or other words that don't follow the rules that we learned. Now the older the language, the more irregularities it tends to have. Spanish, effectively being modern Latin, is quite prone to irregularities. But the irregularities can be made sense of within themselves. You can group together irregularities. So whilst throughout the course we were looking at the odd irregularity as it popped up, now at the end of the course we are going to tidy up the irregular verbs. So there are a group of verbs, which we can call the “go verbs". These are the verbs that use -go instead of -o for the I form. For example, how do you say to have, to have, for possession?
 
 S: Tener.
 
@@ -27,13 +8,13 @@ T: Tener. And I have:
 
 S: Tengo.
 
-T: Tengo. So this -go pops up for the I version, but only for the I version. How do you say he has, or
-   she has, you (formal) have?
+T: Tengo. So this -go pops up for the I version, but only for the I version. How do you say he has, or she has, you (formal) have?
 
 S: Tiene.
 
 T: Tiene. And you (informal):
-S: Tienes.
+
+S: Tienes.
 
 T: And they:
 
@@ -67,8 +48,7 @@ T: We:
 
 S: Venemos- venimos.
 
-T: Venimos. Good. So we have this -go popping up just for the I form. We've seen other verbs like
-   this. What was to go out or to leave?
+T: Venimos. Good. So we have this -go popping up just for the I form. We've seen other verbs like this. What was to go out or to leave?
 
 S: Salir.
 
@@ -77,18 +57,14 @@ T: Salir. And I go out or I leave:
 S: Salgo.
 
 T: Salgo. To put:
-S: Poner.
+
+S: Poner.
 
 T: Poner. And I put:
 
 S: Pongo.
 
-T: Pongo. Good. We have decir, to say or to tell and we get digo, which is even more irregular but
-   we see the -go. We have hacer, to make or to do, and we get hago. Oír, which means to hear, oír.
-   And we have oigo, I hear. Traer, traer means to bring. And I bring is traigo. So, to bring is t-r-
-   a-e-r, traer, and then I is traigo. It takes an extra i. So here we get traigo. Traer is interesting
-   because traer means to bring. But when it forms part of another verb, we can translate it like -tract.
-   For example, extraer means:
+T: Pongo. Good. We have decir, to say or to tell and we get digo, which is even more irregular but we see the -go. We have hacer, to make or to do, and we get hago. Oír, which means to hear, oír. And we have oigo, I hear. Traer, traer means to bring. And I bring is traigo. So, to bring is t-r- a-e-r, traer, and then I is traigo. It takes an extra i. So here we get traigo. Traer is interesting because traer means to bring. But when it forms part of another verb, we can translate it like -tract. For example, extraer means:
 
 S: Extract.
 
@@ -108,38 +84,23 @@ T: Good. I distract:
 
 S: Distraigo.
 
-T: Distraigo. I distract. Or you could say I get distracted. Me distraigo. Good. So these -go verbs
-   are a little bit special and they behave quite irregularly. But more or less in the same way. One of
-   the things they do in the same way is that in the mood tense, instead of switching vowels like the
-   rest of the verbs do in the mood tense in the present, they go from -go to -ga. So whilst in the
-   normal present this -go only pops up for I, we have tengo/tiene/tienes/tienen/tenemos, the -ga for
-   the mood sense is for everybody. So we get tenga for I, he/she/it and you formal. How would you
-   make it informal?
+T: Distraigo. I distract. Or you could say I get distracted. Me distraigo. Good. So these -go verbs are a little bit special and they behave quite irregularly. But more or less in the same way. One of the things they do in the same way is that in the mood tense, instead of switching vowels like the rest of the verbs do in the mood tense in the present, they go from -go to -ga. So whilst in the normal present this -go only pops up for I, we have tengo/tiene/tienes/tienen/tenemos, the -ga for the mood sense is for everybody. So we get tenga for I, he/she/it and you formal. How would you make it informal?
 
 S: Tengas.
-T: Exactly. So if you were to say I want you to come, I want that you come, speaking informally - so
-   I want that:
+
+T: Exactly. So if you were to say I want you to come, I want that you come, speaking informally - so I want that:
 
 S: Quiero que.
 
-T: Good. Now we want you come and we want the mood tense version. So it's a -go verb, so our base
-   for the mood tense is venga. So if you want to speak informally and say I want that you come, I
-   want you to come:
+T: Good. Now we want you come and we want the mood tense version. So it's a -go verb, so our base for the mood tense is venga. So if you want to speak informally and say I want that you come, I want you to come:
 
 S: Quiero que vengas.
 
-T: Very good. Quiero que vengas. And you will hear actually in Spain venga, venga, venga. They
-   use it all the time, meaning come on, come on. Venga vale. They say vale as well in Spain. Venga
-   vale. You will hear this all the time. When a Spanish person is hanging up the telephone you can
-   hear fifteen of them, venga vale, vale venga, venga vale. So this venga that you will hear around
-   a lot will be a nice hook to remember that this -go goes to -ga. Actually, when somebody is
-   answering the phone in Spain, you might hear diga or dígame. What does that mean, dígame?
+T: Very good. Quiero que vengas. And you will hear actually in Spain venga, venga, venga. They use it all the time, meaning come on, come on. Venga vale. They say vale as well in Spain. Venga vale. You will hear this all the time. When a Spanish person is hanging up the telephone you can hear fifteen of them, venga vale, vale venga, venga vale. So this venga that you will hear around a lot will be a nice hook to remember that this -go goes to -ga. Actually, when somebody is answering the phone in Spain, you might hear diga or dígame. What does that mean, dígame?
 
 S: Tell me.
 
-T: Yes. The mood tense by itself is an order. For a positive order then we have the me after the verb,
-   dígame. So you will hear people answering the phone like this in Spain. Tell me. Dígame. So
-   traer was to bring. What is I bring?
+T: Yes. The mood tense by itself is an order. For a positive order then we have the me after the verb, dígame. So you will hear people answering the phone like this in Spain. Tell me. Dígame. So traer was to bring. What is I bring?
 
 S: Traigo.
 
@@ -151,14 +112,12 @@ T: This is the mood tense. But we don't want the mood tense, we just want you br
 
 S: Traes.
 
-T: Traes. Good. But if you say I want you to bring it, how would you say that? I want you to bring
-   it, informally:
+T: Traes. Good. But if you say I want you to bring it, how would you say that? I want you to bring it, informally:
 
 S: Quiero que lo traigas.
-T: Very good. Quiero que lo traigas. I don't want you to distract me, I don't want you to distract me,
-   still informal:
+
+T: Very good. Quiero que lo traigas. I don't want you to distract me, I don't want you to distract me, still informal:
 
 S: No quiero que me distraigas.
 
 T: Very good. No quiero que me distraigas. I don't want you to distract me. Very good.
-

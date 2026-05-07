@@ -1,8 +1,6 @@
 # Lesson 45 — Transcript
 
-
-T: So how was to like, or we said that the translation that we would give it in Spanish was to please
-   or to be pleasing to?
+T: So how was to like, or we said that the translation that we would give it in Spanish was to please or to be pleasing to?
 
 S: Me gusta.
 
@@ -10,8 +8,7 @@ T: So, the "to" version?
 
 S: Gustar.
 
-T: Gustar. Good. So how would you say we like it, and we want to take the route of the literal
-   translation, so it is pleasing to us?
+T: Gustar. Good. So how would you say we like it, and we want to take the route of the literal translation, so it is pleasing to us?
 
 S: Nos gustamos.
 
@@ -27,26 +24,19 @@ T: Yes.
 
 S: Nos gusta.
 
-T: Nos gusta. We were saying that gustar, we can translate as to please or to be pleasing. Now it
-   would probably make more sense for us to store it as to be pleasing. Because, if we want to say
-   something like she likes it, what we will say is it is pleasing to her. So we have the to her with
-   gustar, so that's why it makes more sense to translate it as it is pleasing to her rather than it pleases
-   her. This way we store this idea of to. So what is to her?
+T: Nos gusta. We were saying that gustar, we can translate as to please or to be pleasing. Now it would probably make more sense for us to store it as to be pleasing. Because, if we want to say something like she likes it, what we will say is it is pleasing to her. So we have the to her with gustar, so that's why it makes more sense to translate it as it is pleasing to her rather than it pleases her. This way we store this idea of to. So what is to her?
 
 S: Le.
 
-T: Le. Good. So we have la for her, and to her, le. So if you want to say it is pleasing to her, or she
-   likes it, how would it be?
+T: Le. Good. So we have la for her, and to her, le. So if you want to say it is pleasing to her, or she likes it, how would it be?
 
 S: Le gusta.
-T: Le gusta. And it is pleasing to them, or they like it:
+
+T: Le gusta. And it is pleasing to them, or they like it:
 
 S: Les gusta.
 
-T: Good. Les gusta. You had a little battle there, right, with whether it was gustan or not. Good. And
-   you take control of that going it is pleasing, gusta. It is pleasing to them, les gusta. So with gustar,
-   we're not using lo and la and los and las. We're using le and les. They like it, it is pleasing to them.
-   Les gusta. How would you say they like them, or they are pleasing to them?
+T: Good. Les gusta. You had a little battle there, right, with whether it was gustan or not. Good. And you take control of that going it is pleasing, gusta. It is pleasing to them, les gusta. So with gustar, we're not using lo and la and los and las. We're using le and les. They like it, it is pleasing to them. Les gusta. How would you say they like them, or they are pleasing to them?
 
 S: Les gustan.
 
@@ -54,13 +44,11 @@ T: Good. Les gustan. He likes them, or they are pleasing to him:
 
 S: Le gustan.
 
-T: Very good. So there are a couple of other verbs as well that we would prefer to give this kind of
-   translation to. What do you think interesar means? Interesar:
+T: Very good. So there are a couple of other verbs as well that we would prefer to give this kind of translation to. What do you think interesar means? Interesar:
 
 S: Interesting.
 
-T: Interesante is interesting. What does interesar look like? It might not be, but what does it look
-   like? Interesar. What type of word does it look like?
+T: Interesante is interesting. What does interesar look like? It might not be, but what does it look like? Interesar. What type of word does it look like?
 
 S: It's a verb.
 
@@ -68,17 +56,13 @@ T: Ah.
 
 S: So it's to interest.
 
-T: Good. To interest. Good. So this helps us with comprehension as well, understanding what are our
-   types of words and what they tend to look like. So we could translate it as to interest, or we could
-   translate it as to be interesting to. And here in this case, it's another verb like gustar, in that it
-   makes more sense to translate it for ourselves as to be interesting to, because it goes with le and
-   not lo. So in our minds this fits then in the Spanish structure if we save that translation as to be
-   interesting to rather than to interest. So how would you say it interests me, it is interesting to me?
+T: Good. To interest. Good. So this helps us with comprehension as well, understanding what are our types of words and what they tend to look like. So we could translate it as to interest, or we could translate it as to be interesting to. And here in this case, it's another verb like gustar, in that it makes more sense to translate it for ourselves as to be interesting to, because it goes with le and not lo. So in our minds this fits then in the Spanish structure if we save that translation as to be interesting to rather than to interest. So how would you say it interests me, it is interesting to me?
 
 S: Me interesa.
 
 T: Good. Me interesa. Does it interest you? Let's speak informally. Does it interest you?:
-S: ¿Te interesa?
+
+S: ¿Te interesa?
 
 T: ¿Te interesa? Doesn't it interest you?:
 
@@ -88,9 +72,7 @@ T: ¿No te interesa? Why doesn't it interest you?:
 
 S: ¿Por qué no te interesa?
 
-T: Good. ¿Por qué no te interesa? So if we want to say it interests him, what we're really saying is
-   it is interesting to him. So we want to him here. So how would you say that? It interests him or it's
-   interesting to him:
+T: Good. ¿Por qué no te interesa? So if we want to say it interests him, what we're really saying is it is interesting to him. So we want to him here. So how would you say that? It interests him or it's interesting to him:
 
 S: Le interesa.
 
@@ -102,26 +84,21 @@ T: Good. Les interesa. You remember how was to dance, related to ballerina?
 
 S: Bailar.
 
-T: Bailar. Good. So you can ask does it interest her to dance tonight? Does it interest her to dance
-   tonight?:
+T: Bailar. Good. So you can ask does it interest her to dance tonight? Does it interest her to dance tonight?:
 
 S: ¿Le interesa bailar esta noche?
 
-T: Good. ¿Le interesa bailar esta noche? Good. Salir, salir is to leave or to go out. To leave or to
-   go out. So you can say does it interest her, is it interesting to her to go out to dance tonight? Does
-   it interest her to go out to dance tonight? So let's go from the beginning, does it interest her?:
+T: Good. ¿Le interesa bailar esta noche? Good. Salir, salir is to leave or to go out. To leave or to go out. So you can say does it interest her, is it interesting to her to go out to dance tonight? Does it interest her to go out to dance tonight? So let's go from the beginning, does it interest her?:
 
 S: ¿Le interesa?
 
-T: Good. ¿Le interesa? And of course le interesa could mean does it interest her, does it interest
-   him, does it interest you (formal). We don't know by the le. Le interesa, to go out to dance tonight:
+T: Good. ¿Le interesa? And of course le interesa could mean does it interest her, does it interest him, does it interest you (formal). We don't know by the le. Le interesa, to go out to dance tonight:
 
 S: Salir a bailar esta noche.
-T: Good. So here we have a because salir is a verb of coming and going. ¿Le interesa salir a bailar
-   esta noche? Now what if you wanted to ask would it interest you, would it be interesting to you,
-   informally? So what was our sound for would, that we add on to the “to” form of the verb?
 
-   What's our key sound for would?
+T: Good. So here we have a because salir is a verb of coming and going. ¿Le interesa salir a bailar esta noche? Now what if you wanted to ask would it interest you, would it be interesting to you, informally? So what was our sound for would, that we add on to the “to” form of the verb?
+
+What's our key sound for would?
 
 S: -ía
 
@@ -133,9 +110,7 @@ T: Slower.
 
 S: Interesar, interesaría. ¿Te interesaría?
 
-T: Good. Another verb like this is parecer. Parecer, which is to seem. But, in English we already put
-   to. It seems to me. It seems to him. So how do you say it seems to me? Parecer is to seem. It seems
-   to me:
+T: Good. Another verb like this is parecer. Parecer, which is to seem. But, in English we already put to. It seems to me. It seems to him. So how do you say it seems to me? Parecer is to seem. It seems to me:
 
 S: Me paresa.
 
@@ -145,7 +120,7 @@ S: It's an -er, not an -ar.
 
 T: Yes. You must go back to your takeoff point, which is the "to" form, and make a quick check.
 
-   Parecer, -er verb. Ok, I know where I am, I know what I'm doing.
+Parecer, -er verb. Ok, I know where I am, I know what I'm doing.
 
 S: Me parece.
 
@@ -153,12 +128,9 @@ T: Me parece. It seems to me. It seems to me that. What is this that that we put
 
 S: Que.
 
-T: Que. Spanish kind of highlights for you that what is the question version of that. It kinds of shows
-   you that much more clearly than English does. But English shows you as well. If you think, in
-   English if you take the word that and you get rid of the t and you replace it with a w, you get what.
-   In the same way that if you take the word there and you get rid of the t and you replace it with w,
-   you get where. Or if you take the word then and get rid of the t and replace it with w, you get when.
-   So you have que for that, and then qué for what. Same word. So, it seems to me that:
+T: Que. Spanish kind of highlights for you that what is the question version of that. It kinds of shows you that much more clearly than English does. But English shows you as well. If you think, in English if you take the word that and you get rid of the t and you replace it with a w, you get what. In the same way that if you take the word there and you get rid of the t and you replace it with w,
+
+you get where. Or if you take the word then and get rid of the t and replace it with w, you get when. So you have que for that, and then qué for what. Same word. So, it seems to me that:
 
 S: Me parece que.
 
@@ -166,20 +138,13 @@ T: He doesn't want to go out tonight. He doesn't want to go out tonight:
 
 S: No quiere salir esta noche.
 
-T: Good. Me parece que no quiere salir esta noche. Good. How would you say it seems to me that
-   he doesn't like it? It seems to me that he doesn't like it. Now in English, this that is optional. No?
+T: Good. Me parece que no quiere salir esta noche. Good. How would you say it seems to me that he doesn't like it? It seems to me that he doesn't like it. Now in English, this that is optional. No?
 
-   It seems to me he doesn't like it. It seems to me that he doesn't like it. It's optional. But in Spanish,
-   it's obligatory. You want to put this that. And actually, it's really gonna help you think out your
-   sentences to put that always. So, it seems to me that he doesn't like it:
+It seems to me he doesn't like it. It seems to me that he doesn't like it. It's optional. But in Spanish, it's obligatory. You want to put this that. And actually, it's really gonna help you think out your sentences to put that always. So, it seems to me that he doesn't like it:
 
 S: Me parece que no lo gusta. Le. No le gusta.
 
-T: Good. You might want to say me parece bien. That would mean it seems good to me, it seems fine
-   to me. But we're not using the word good, we're using the word well. Bien. Me parece bien. It
-   seems to me well. You'll find a little gray area between English and Spanish about when we say
-   good, bueno, and when we say well, bien. But it's something you'll pick up listening. So here you
-   would say well, it seems well to me, it seems good to me:
+T: Good. You might want to say me parece bien. That would mean it seems good to me, it seems fine to me. But we're not using the word good, we're using the word well. Bien. Me parece bien. It seems to me well. You'll find a little gray area between English and Spanish about when we say good, bueno, and when we say well, bien. But it's something you'll pick up listening. So here you would say well, it seems well to me, it seems good to me:
 
 S: Me parece bien.
 
@@ -198,7 +163,8 @@ S: ¿No le parece bien?
 T: Good. ¿No le parece bien? What was to interest?
 
 S: Interesar.
-T: Interesar. How would you say it would interest me, it would interest me?
+
+T: Interesar. How would you say it would interest me, it would interest me?
 
 S: Me interesaría.
 
@@ -210,11 +176,7 @@ T: Good. To put, we said was poner. Poner.
 
 S: Poner.
 
-T: Poner. And we said that it's an interesting verb because when we have -pose inside a verb in
-   English, we can change that -pose to poner and we get the verb in Spanish. So for example, to
-   compose in Spanish is componer. And this com- is actually con-. The n changes next to the p, so
-   it literally means “with putting”. To compose is “with putting”, putting together. Compose,
-   componer. To suppose:
+T: Poner. And we said that it's an interesting verb because when we have -pose inside a verb in English, we can change that -pose to poner and we get the verb in Spanish. So for example, to compose in Spanish is componer. And this com- is actually con-. The n changes next to the p, so it literally means “with putting”. To compose is “with putting”, putting together. Compose, componer. To suppose:
 
 S: Suponer.
 
@@ -234,12 +196,11 @@ T: Good. Quiero ponerlo aquí. I would like to put it here. It would please me:
 
 S: Me gustaría ponerlo aquí.
 
-T: Good. Now if you want to say I want to put salt on it, you don't need to say on. What do you think
-   you can replace this on it with? So instead of saying on it, what do you think you might be able to
-   say in Spanish? What is the word for it:
+T: Good. Now if you want to say I want to put salt on it, you don't need to say on. What do you think you can replace this on it with? So instead of saying on it, what do you think you might be able to say in Spanish? What is the word for it:
 
 S: Lo.
-T: And what do you think you could to do that to make it like on it? How do you say to it:
+
+T: And what do you think you could to do that to make it like on it? How do you say to it:
 
 S: Ah, lo.
 
@@ -251,8 +212,7 @@ T: Ah, so how do you say to it, for it, from it:
 
 S: Le.
 
-T: Le. So, if you want to say I want to put salt on it, you don't say on it, you just say le. Salt is sal,
-   sal. So how would you say I want to put it salt, and with this it we mean on it.
+T: Le. So, if you want to say I want to put salt on it, you don't say on it, you just say le. Salt is sal, sal. So how would you say I want to put it salt, and with this it we mean on it.
 
 S: Quiero ponerle sal.
 
@@ -264,8 +224,7 @@ T: Good. Me gustaría ponerle sal. A little, a little is un poco. Un poco. Liter
 
 S: Un poco.
 
-T: Good. So you could say I would like to put it a little more, what was the word for more, like in
-   more late?
+T: Good. So you could say I would like to put it a little more, what was the word for more, like in more late?
 
 S: Más.
 
@@ -273,11 +232,8 @@ T: I would like to put it a little more salt, I would like to put on it a little
 
 S: Me gustaría ponerle un poco más sal.
 
-T: Very good. Me gustaría ponerle un poco más sal. What if you wanted to say I would like to put
-   on them a little more salt? You know maybe you mean las papas fritas. The chips, the french
-   fries. I would like to put on them a little more salt:
+T: Very good. Me gustaría ponerle un poco más sal. What if you wanted to say I would like to put on them a little more salt? You know maybe you mean las papas fritas. The chips, the french fries. I would like to put on them a little more salt:
 
 S: Me gustaría ponerles un poco más sal.
 
 T: Very good. Me gustaría ponerles un poco más sal.
-

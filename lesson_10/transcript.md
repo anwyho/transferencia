@@ -1,6 +1,5 @@
 # Lesson 10 — Transcript
 
-
 T: How would you say to ventilate?
 
 S: Ventilar.
@@ -9,9 +8,7 @@ T: Yeah. Ventilación-ventilar. How would you say to separate?
 
 S: Separar.
 
-T: Good. Separar. So in English what we pronounce as separate, maybe like an e sound, but if you
-   look at how it’s written, it’s an a. Separar. Good. So how was to know, something to do with
-   savvy?
+T: Good. Separar. So in English what we pronounce as separate, maybe like an e sound, but if you look at how it’s written, it’s an a. Separar. Good. So how was to know, something to do with savvy?
 
 S: Saber.
 
@@ -21,14 +18,11 @@ S: Saber.
 
 T: With a b.
 
-T: Another way to remember this is Homo sapien, there’s that connection there. The Homo sapien is
-   the wise creature. Supposedly. And how was to come? Convenient?
+T: Another way to remember this is Homo sapien, there’s that connection there. The Homo sapien is the wise creature. Supposedly. And how was to come? Convenient?
 
 S: Venir.
 
-T: Venir. Good. So we can remember that convenient is “with coming”, when things come together,
-   they are convenient. We’ve seen the “to” forms of the verb end in r and the “I” forms most of the
-   time end in o. For example, I want, how was that?
+T: Venir. Good. So we can remember that convenient is “with coming”, when things come together, they are convenient. We’ve seen the “to” forms of the verb end in r and the “I” forms most of the time end in o. For example, I want, how was that?
 
 S: Quiero.
 
@@ -39,28 +33,20 @@ S: Debo.
 T: Debo. I try:
 
 S: Intento.
-T: Intento. Unless the verb is irregular, and we know some irregular verbs already. We saw I am
-   going.
+
+T: Intento. Unless the verb is irregular, and we know some irregular verbs already. We saw I am going.
 
 S: Voy.
 
-T: Voy. So that doesn’t end in o, or in /o/. Voy. It’s an irregular verb. So how does this work? Now
-   all “to” verbs, all verbs in the “to” form, when we say to go, to want, to segregate, how would you
-   say to segregate?
+T: Voy. So that doesn’t end in o, or in /o/. Voy. It’s an irregular verb. So how does this work? Now all “to” verbs, all verbs in the “to” form, when we say to go, to want, to segregate, how would you say to segregate?
 
 S: Segregation-segregación-segregar.
 
-T: There you are. All of them in the “to” form end in the letter r. They either end in -ar, -er, or -ir.
-   We have an example of each. We have like a thousand examples of the ones that end in -ar because
-   this is the one that we’re using to build these from, for example, simulation-simulación-simular.
-   Revelation-revelación-revelar. Respiration-respiración-respirar. What do you think respirar
-   means?
+T: There you are. All of them in the “to” form end in the letter r. They either end in -ar, -er, or -ir. We have an example of each. We have like a thousand examples of the ones that end in -ar because this is the one that we’re using to build these from, for example, simulation-simulación-simular. Revelation-revelación-revelar. Respiration-respiración-respirar. What do you think respirar means?
 
 S: To breathe.
 
-T: Yes. To breathe. So we could say to respire literally and we go, oh of course, this would be how I
-   would say breathe in Spanish. Respirar. Good. So we have many examples of -ar verbs. We have
-   one example of an -er verb, in its “to” form, which is to know. How was that? To know:
+T: Yes. To breathe. So we could say to respire literally and we go, oh of course, this would be how I would say breathe in Spanish. Respirar. Good. So we have many examples of -ar verbs. We have one example of an -er verb, in its “to” form, which is to know. How was that? To know:
 
 S: Saber.
 
@@ -68,16 +54,9 @@ T: Saber. And we have the example of the verb ending -ir, ir, which is to come.
 
 S: Venir.
 
-T: Venir. Good. So all “to” forms are going to end in an r. And it’s either going to be -ar, -er, or -ir.
-   a-r, e-r, i-r. In fact, and talking about “to” forms, it’s actually with this “to” that we identify what
-   is a verb. Now it’s good to talk about this because at school we learn that verbs are doing words,
-   which is really kind of unhelpful, because to be for example is, there’s nothing, you’re not doing
-   anything. If you say is, he is here, what is he doing? But is is a verb. Is is a verb because it comes
-   from to be. We don’t say He be here. We say He is here. So the way we identify what is a verb, is
-   that you can put to in front of it. To be, to stay, to go. These are verbs. And in Spanish, these are
-   going to end in r. Either -ar, -er, or -ir. Now the way we get the “I” version, is we take off this
-  ending, we chop off this -ar, -er, or -ir and we put -o. We have an example already. We know how
-  is to try. What was to try?
+T: Venir. Good. So all “to” forms are going to end in an r. And it’s either going to be -ar, -er, or -ir. a-r, e-r, i-r. In fact, and talking about “to” forms, it’s actually with this “to” that we identify what is a verb. Now it’s good to talk about this because at school we learn that verbs are doing words, which is really kind of unhelpful, because to be for example is, there’s nothing, you’re not doing anything. If you say is, he is here, what is he doing? But is is a verb. Is is a verb because it comes from to be. We don’t say He be here. We say He is here. So the way we identify what is a verb, is that you can put to in front of it. To be, to stay, to go. These are verbs. And in Spanish, these are going to end in r. Either -ar, -er, or -ir. Now the way we get the “I” version, is we take off this
+
+ending, we chop off this -ar, -er, or -ir and we put -o. We have an example already. We know how is to try. What was to try?
 
 S: Intentar.
 
@@ -87,17 +66,11 @@ S: Intento.
 
 T: Intento. Good. So we take off -ar and we put on -o. But something else is happening as well.
 
-  Intentar. Intento.
+Intentar. Intento.
 
 S: The accent.
 
-T: Good. The accent. Intentar, we have the accent on the end. When we put the -o, the accent is just
-  before it. InTENto. Now this is extremely important. If I say intentO, if I put the accent on the
-  end, it means something else. It means he tried. Which is going to be useful for us later when we
-  learn the past. For now, we need to think that the accent in the present tense is going on the
-  penultimate syllable. The second to last syllable. Intentar is not present tense. It has no tense. It’s
-  the “to” form. To try. Part of the present tense, other than putting this -o for I, is also moving the
-  accent: intento. How would you say to donate?
+T: Good. The accent. Intentar, we have the accent on the end. When we put the -o, the accent is just before it. InTENto. Now this is extremely important. If I say intentO, if I put the accent on the end, it means something else. It means he tried. Which is going to be useful for us later when we learn the past. For now, we need to think that the accent in the present tense is going on the penultimate syllable. The second to last syllable. Intentar is not present tense. It has no tense. It’s the “to” form. To try. Part of the present tense, other than putting this -o for I, is also moving the accent: intento. How would you say to donate?
 
 S: Donation-donación-donar.
 
@@ -116,7 +89,8 @@ S: Crear.
 T: Good. Crear-creación-crear. I create:
 
 S: Creo.
-T: Creo. Good. Comer, comer means to eat. So how do you say I eat or I’m eating?
+
+T: Creo. Good. Comer, comer means to eat. So how do you say I eat or I’m eating?
 
 S: Como.
 
@@ -124,9 +98,7 @@ T: Como. Good. I’m going to eat:
 
 S: Voy a comer.
 
-T: Good. Voy a comer. The word for late in Spanish is tarde. Tarde. We know this from English as
-  well because we have this slang in English, in British English at least, tardy. Have you ever heard
-  that?
+T: Good. Voy a comer. The word for late in Spanish is tarde. Tarde. We know this from English as well because we have this slang in English, in British English at least, tardy. Have you ever heard that?
 
 S: Yes.
 
@@ -136,28 +108,23 @@ S: Voy a comer tarde.
 
 T: Good. Voy a comer tarde. You might have heard the word for tomorrow as well in Spanish.
 
-  Mañana. So how would you say I’m going to eat tomorrow?
+Mañana. So how would you say I’m going to eat tomorrow?
 
 S: Voy a comer mañana.
 
-T: Voy a comer mañana. Now in Spanish, if you have some kind of future context, something that’s
-  showing you that you’re talking about the future, you can just use the present. You can say Voy a
-  comer mañana or you could just say I eat tomorrow because you have tomorrow showing you
-  that you’re talking about the future. It’s absolutely perfect Spanish, even though it sounds a bit odd
-  in English. It’s perfect Spanish to say I eat tomorrow. There’s no problem there. So how would
-  you say that?
+T: Voy a comer mañana. Now in Spanish, if you have some kind of future context, something that’s showing you that you’re talking about the future, you can just use the present. You can say Voy a comer mañana or you could just say I eat tomorrow because you have tomorrow showing you that you’re talking about the future. It’s absolutely perfect Spanish, even though it sounds a bit odd in English. It’s perfect Spanish to say I eat tomorrow. There’s no problem there. So how would you say that?
 
 S: Como mañana.
 
-T: Como mañana. So if you want to say I’m eating with Pablo tomorrow. I’m eating with Pablo
-  tomorrow. You just say I eat with Pablo tomorrow.
+T: Como mañana. So if you want to say I’m eating with Pablo tomorrow. I’m eating with Pablo tomorrow. You just say I eat with Pablo tomorrow.
 
 S: How do you say with?
 
 T: Do you remember how to say to confirm?
 
 S: Confirmación-confirmar.
-T: Good. And what did that mean literally? Confirm?
+
+T: Good. And what did that mean literally? Confirm?
 
 S: Ah! “With signature”.
 
@@ -169,14 +136,11 @@ T: Con. Good. So, I’m eating with Pablo tomorrow:
 
 S: Como con Pablo mañana.
 
-T: Good. Como con Pablo mañana. So we can just use the present or we can say I’m going to eat
-   with Pablo tomorrow and it’s the same.
+T: Good. Como con Pablo mañana. So we can just use the present or we can say I’m going to eat with Pablo tomorrow and it’s the same.
 
 S: Voy a comer con Pablo mañana.
 
-T: Good. Voy a comer con Pablo mañana. Very good. So we are taking off our ending. We’re taking
-   off our -ar, -er or -ir and we’re adding -o to get the “I” version. We are also accenting the
-   penultimate syllable. The syllable that comes before the last. What is to organize?
+T: Good. Voy a comer con Pablo mañana. Very good. So we are taking off our ending. We’re taking off our -ar, -er or -ir and we’re adding -o to get the “I” version. We are also accenting the penultimate syllable. The syllable that comes before the last. What is to organize?
 
 S: Organización-Organizar.
 
@@ -184,9 +148,7 @@ T: Good. Now how do you say I organize or I’m organizing?
 
 S: Organizo?
 
-T: Organizo. Good. I will just mention for anybody trying to keep up with the Spanish pronunciation
-   that that z there is going to be pronounced /th/. /Organitho/ in Spain. Organizo. To have in Spanish
-   is tener. Tener.
+T: Organizo. Good. I will just mention for anybody trying to keep up with the Spanish pronunciation that that z there is going to be pronounced /th/. /Organitho/ in Spain. Organizo. To have in Spanish is tener. Tener.
 
 S: Tener.
 
@@ -199,10 +161,10 @@ T: Good. I’m going to have it:
 S: Voy a tenerlo.
 
 T: Good. I’m going to have it late:
-S: Voy a tenerlo tarde.
 
-T: Good! Voy a tenerlo tarde. If you want to say later, you can say more late and the word for more
-   is más, m-a-s.
+S: Voy a tenerlo tarde.
+
+T: Good! Voy a tenerlo tarde. If you want to say later, you can say more late and the word for more is más, m-a-s.
 
 S: Más.
 
@@ -214,9 +176,7 @@ T: Más tarde. Good. I’m going to have it later:
 
 S: Voy a tenerlo mas tarde.
 
-T: Good. I will tell you something that’s going to help you remember tener. Tener is a very
-   interesting verb, because other than to have, we can also translate it as -tain. Contain is contener.
-   Obtain, this -tain is tener. So how would you say obtain in Spanish, if contain becomes contener?
+T: Good. I will tell you something that’s going to help you remember tener. Tener is a very interesting verb, because other than to have, we can also translate it as -tain. Contain is contener. Obtain, this -tain is tener. So how would you say obtain in Spanish, if contain becomes contener?
 
 S: Obtener.
 
@@ -224,8 +184,7 @@ T: Yes! Obtener. Sustain, this one changes a little bit. Sus-, which is s-u-s, b
 
 S: Sostener.
 
-T: Sostener. Sustain. Maintain. Maintain, this main becomes man- in Spanish. So how would you
-   say maintain?
+T: Sostener. Sustain. Maintain. Maintain, this main becomes man- in Spanish. So how would you say maintain?
 
 S: Mantener.
 
@@ -233,38 +192,23 @@ T: Mantener. And if you heard entretener, what would you think it means? Entrete
 
 S: Entertain.
 
-T: Yes. So it changes a little bit, but you can recognize it. Entretener. And entre in Spanish means
-   between. You might hear in Spanish entre tu y yo. Between you and I. Entre tu y yo. Many
-   languages express this idea of possession in different ways. In English and in Spanish, we have a
-   simple verb: Have, tener, to express possession. But Arabic for example, you would say “at me”
-   or “with me” instead of “I have.” So it’s not a straightforward concept that all languages express
-   in the same way, this concept of possession. In Turkish, for example, if you want to say “I have a
-   car” you say “My car there is.” So it’s not such a straightforward concept that we are expressing
-   in all languages in the same way, this concept of possession. Something that Spanish is alluding
-   to here is kind of the symbiotic relationship in ownership. When you own something, you also
-   belong to it. You must maintain it. You must sustain it. You must contain it. It’s a symbiotic
-   relationship. You don’t just own things. You are also owned by them. To have is tener. And you
-   also get these other verbs that you can use. Obtener, contener, mantener, sostener, entretener.
+T: Yes. So it changes a little bit, but you can recognize it. Entretener. And entre in Spanish means between. You might hear in Spanish entre tu y yo. Between you and I. Entre tu y yo. Many languages express this idea of possession in different ways. In English and in Spanish, we have a simple verb: Have, tener, to express possession. But Arabic for example, you would say “at me” or “with me” instead of “I have.” So it’s not a straightforward concept that all languages express in the same way, this concept of possession. In Turkish, for example, if you want to say “I have a
 
-   I have is tengo. What happened here? What should it be?
+car” you say “My car there is.” So it’s not such a straightforward concept that we are expressing in all languages in the same way, this concept of possession. Something that Spanish is alluding to here is kind of the symbiotic relationship in ownership. When you own something, you also belong to it. You must maintain it. You must sustain it. You must contain it. It’s a symbiotic relationship. You don’t just own things. You are also owned by them. To have is tener. And you also get these other verbs that you can use. Obtener, contener, mantener, sostener, entretener.
+
+I have is tengo. What happened here? What should it be?
 
 S: Teno.
 
-T: Yes. That’s what it should be. But it’s irregular. It has a g popping up. But the nice thing about the
-   irregular verbs in Spanish is that we can group them together. There’s always a little group of verbs
-   that do things in the same way. For example, what was to come?
+T: Yes. That’s what it should be. But it’s irregular. It has a g popping up. But the nice thing about the irregular verbs in Spanish is that we can group them together. There’s always a little group of verbs that do things in the same way. For example, what was to come?
 
 S: Venir.
 
-T: Venir. Very good. Now venir behaves like tener when it makes the I form. So if tener becomes
-   tengo, venir might become…
+T: Venir. Very good. Now venir behaves like tener when it makes the I form. So if tener becomes tengo, venir might become…
 
 S: Vengo.
 
-T: Vengo! Good. So I come is vengo. It’s irregular. But we’ve already noticed two verbs that have
-   this same pattern of irregularity. And to think of them together helps us. Now if you want to say I
-   will come tomorrow, we don’t know the word for will, but we don’t need it. Because tomorrow is
-   our future context. What is the word for tomorrow?
+T: Vengo! Good. So I come is vengo. It’s irregular. But we’ve already noticed two verbs that have this same pattern of irregularity. And to think of them together helps us. Now if you want to say I will come tomorrow, we don’t know the word for will, but we don’t need it. Because tomorrow is our future context. What is the word for tomorrow?
 
 S: Mañana.
 
@@ -273,4 +217,3 @@ T: Good. So I’m coming tomorrow:
 S: Vengo mañana.
 
 T: Vengo mañana. Very good.
-

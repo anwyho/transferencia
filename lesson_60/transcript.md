@@ -1,6 +1,5 @@
 # Lesson 60 — Transcript
 
-
 T: What was to speak in Spanish?
 
 S: Hablar.
@@ -13,12 +12,7 @@ T: Hablé. And he spoke/she spoke/you (formal) spoke:
 
 S: Habló.
 
-T: Habló. Good. We spoke is hablamos, which, I’m sure you’ve noticed, is exactly the same as the
-  present, we speak. So, hablamos means we speak or we spoke, which, for one side is wonderful
-  because it means you get another version of this very irregular tense without having to remember
-  a new one. But, of course, it can cause some ambiguity, and in real life it can cause some ambiguity,
-  not often, mind, because most of the time you have some context showing that you are talking
-  about the past. For example, the word for when is cuando.
+T: Habló. Good. We spoke is hablamos, which, I’m sure you’ve noticed, is exactly the same as the present, we speak. So, hablamos means we speak or we spoke, which, for one side is wonderful because it means you get another version of this very irregular tense without having to remember a new one. But, of course, it can cause some ambiguity, and in real life it can cause some ambiguity, not often, mind, because most of the time you have some context showing that you are talking about the past. For example, the word for when is cuando.
 
 S: Cuando.
 
@@ -30,28 +24,21 @@ T: Comprender. So, when we speak, I understand everything:
 
 S: Cuando hablamos, comprendo todo.
 
-T: Good. Cuando hablamos, comprendo todo. So, cuando hablamos, that bit could be when we
-  speak, generally, or when we spoke, so that second half brings us into the context and we
-  understand that when we speak, generally speaking, I understand everything. Cuando hablamos,
-  comprendo todo. But, if you wanted to say when we spoke I understood everything, then, of
-  course, the first bit is going to be the same, but that second bit, I understood everything, is going
-  to give you that context. So, let’s practice that one - when we spoke I understood everything:
+T: Good. Cuando hablamos, comprendo todo. So, cuando hablamos, that bit could be when we speak, generally, or when we spoke, so that second half brings us into the context and we understand that when we speak, generally speaking, I understand everything. Cuando hablamos, comprendo todo. But, if you wanted to say when we spoke I understood everything, then, of course, the first bit is going to be the same, but that second bit, I understood everything, is going to give you that context. So, let’s practice that one - when we spoke I understood everything:
 
 S: Cuando hablamos, comprendí todo.
-T: Very good. Cuando hablamos, comprendí todo. So again, the second part of that sentence is
-  making it clear whether this hablamos is the present or the past. Cuando hablamos, comprendo
-  todo; cuando hablamos, comprendí todo. We spoke yesterday. We spoke yesterday:
+
+T: Very good. Cuando hablamos, comprendí todo. So again, the second part of that sentence is making it clear whether this hablamos is the present or the past. Cuando hablamos, comprendo todo; cuando hablamos, comprendí todo. We spoke yesterday. We spoke yesterday:
 
 S: Hablamos ayer.
 
 T: Hablamos ayer. Good. And we know that we can use the present with future context in Spanish.
 
-  So, if you wanted to say we will speak tomorrow:
+So, if you wanted to say we will speak tomorrow:
 
 S: Hablamos mañana.
 
-T: Hablamos mañana. So, hablamos ayer, we spoke yesterday; hablamos mañana, we will speak
-   tomorrow. How would you say we wait a lot, we wait a lot, generally? What is a lot in Spanish?
+T: Hablamos mañana. So, hablamos ayer, we spoke yesterday; hablamos mañana, we will speak tomorrow. How would you say we wait a lot, we wait a lot, generally? What is a lot in Spanish?
 
 S: Mucho.
 
@@ -59,25 +46,17 @@ T: Good. To wait or to hope:
 
 S: Esperar.
 
-T: Esperar. If you forget this one you can think of desperate, which means “un-hoped”. Desesperado
-  in Spanish, again one of these -ado/-ido adjectives from the version that comes after haber. You
-  can see desesperar – desesperado, which made desperate. And it’s desesperado in Spanish, not
-  “desperado”, like we have some spanishisms, let’s say, that have entered English, but they can
-  enter incorrectly, like “desperado” is desesperado in Spanish; or in English you might hear “no
-  problemo”, this is loosely based on Spanish, but of course, problem in Spanish is problema, not
-  “problemo”, and actually you would say ningun problema, not “no problema”. So, esperar, to
-  wait or to hope. So, talking generally, we wait a lot, we wait around a lot:
+T: Esperar. If you forget this one you can think of desperate, which means “un-hoped”. Desesperado in Spanish, again one of these -ado/-ido adjectives from the version that comes after haber. You can see desesperar – desesperado, which made desperate. And it’s desesperado in Spanish, not “desperado”, like we have some spanishisms, let’s say, that have entered English, but they can enter incorrectly, like “desperado” is desesperado in Spanish; or in English you might hear “no problemo”, this is loosely based on Spanish, but of course, problem in Spanish is problema, not “problemo”, and actually you would say ningun problema, not “no problema”. So, esperar, to wait or to hope. So, talking generally, we wait a lot, we wait around a lot:
 
 S: Esperamos mucho.
 
-T: Esperamos mucho. Maybe you meant yesterday, here it might be ambiguous, unless the context
-  is clear. So, if you want to clarify, you might want to say the word yesterday. How would you say
-  we waited a lot yesterday?
+T: Esperamos mucho. Maybe you meant yesterday, here it might be ambiguous, unless the context is clear. So, if you want to clarify, you might want to say the word yesterday. How would you say we waited a lot yesterday?
 
 S: Esperamos mucho ayer.
 
 T: Good. Esperamos mucho ayer. What was to eat?
-S: Comer.
+
+S: Comer.
 
 T: Comer. And what is we eat?
 
@@ -103,10 +82,7 @@ T: And we lived:
 
 S: Vivimos.
 
-T: Vivimos. So, what this means is that because of this one difference we have in the entire language
-   between -er and -ir verbs, in the present we have -emos for -er and -imos for -ir, what that means
-   is that when we go into the past, -ir verbs stay the same, vivimos-vivimos, but –er verbs are
-   different: comemos-comimos. So, what was to see?
+T: Vivimos. So, what this means is that because of this one difference we have in the entire language between -er and -ir verbs, in the present we have -emos for -er and -imos for -ir, what that means is that when we go into the past, -ir verbs stay the same, vivimos-vivimos, but –er verbs are different: comemos-comimos. So, what was to see?
 
 S: Ver.
 
@@ -119,7 +95,8 @@ T: Vemos. And we saw:
 S: Vimos.
 
 T: Vimos. Good. What was to go out or to leave?
-S: Salir.
+
+S: Salir.
 
 T: Good. We are going out, or we are leaving:
 
@@ -145,8 +122,7 @@ T: Good. How would you say we got lost or we lost ourselves?
 
 S: Nos perdimos.
 
-T: Nos perdimos. Good. Okay, so how would you say we always get lost, but we didn’t get lost
-   yesterday? First thing - what was the word for always?
+T: Nos perdimos. Good. Okay, so how would you say we always get lost, but we didn’t get lost yesterday? First thing - what was the word for always?
 
 S: Siempre.
 
@@ -161,12 +137,8 @@ S: Pero.
 T: We didn’t get lost yesterday:
 
 S: No perdimos… No nos perdimos ayer.
-T: Good. Nos perdemos siempre, pero no nos perdimos ayer. Very good. There we see in that
-   sentence, perdemos for present and perdimos for past. But, of course, with -ir verbs, they have
-   the same version for both. So, we could say, for example, we don’t go out often, but we went out
-   yesterday. And often is a menudo, a menudo. Menudo is like a literary word that's not used very
-   often for small, related to minute, actually, or miniscule, it’s not used very often in that sense, in
-   the sense of small. But a menudo is used very often to mean often. So, we don’t go out often:
+
+T: Good. Nos perdemos siempre, pero no nos perdimos ayer. Very good. There we see in that sentence, perdemos for present and perdimos for past. But, of course, with -ir verbs, they have the same version for both. So, we could say, for example, we don’t go out often, but we went out yesterday. And often is a menudo, a menudo. Menudo is like a literary word that's not used very often for small, related to minute, actually, or miniscule, it’s not used very often in that sense, in the sense of small. But a menudo is used very often to mean often. So, we don’t go out often:
 
 S: No salimos a menudo.
 
@@ -174,9 +146,7 @@ T: But we went out yesterday:
 
 S: Pero salimos ayer.
 
-T: Good, very good. So, here we have the present and the past in this sentence and we see that both
-   of them are salimos. No salimos a menudo, pero salimos ayer. Let’s make a recap. So, let’s do
-   it with hablar and comer, which we will use as our hook verbs. So, I spoke:
+T: Good, very good. So, here we have the present and the past in this sentence and we see that both of them are salimos. No salimos a menudo, pero salimos ayer. Let’s make a recap. So, let’s do it with hablar and comer, which we will use as our hook verbs. So, I spoke:
 
 S: Hablé.
 
@@ -201,4 +171,3 @@ T: We ate:
 S: Comimos.
 
 T: Very good.
-

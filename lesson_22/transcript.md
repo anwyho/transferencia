@@ -1,10 +1,8 @@
 # Lesson 22 — Transcript
 
+T: So, we were learning how we can use the present to talk about the past, using haber, which is to have, in sentences like I have gone, I have eaten. What do you think terminar means?
 
-T: So, we were learning how we can use the present to talk about the past, using haber, which is to
-   have, in sentences like I have gone, I have eaten. What do you think terminar means?
-
-   Terminar:
+Terminar:
 
 S: To terminate.
 
@@ -12,8 +10,7 @@ T: And what, what verb would we use more commonly in English?
 
 S: Finish?
 
-T: Finish. Terminar is to finish. Do you remember how to say I have from haber? We can look at
-   the two vowels we have in haber, and this will set us off.
+T: Finish. Terminar is to finish. Do you remember how to say I have from haber? We can look at the two vowels we have in haber, and this will set us off.
 
 S: Ah, yes.
 
@@ -29,9 +26,7 @@ T: Good. How do you spell he?
 
 S: H-e.
 
-T: H-e. Good. And that h comes from haber, that silent h that you have there. Good. So, how would
-   you say I have finished? Firstly, how do you make finished? How do you get the word finished
-   from terminar?
+T: H-e. Good. And that h comes from haber, that silent h that you have there. Good. So, how would you say I have finished? Firstly, how do you make finished? How do you get the word finished from terminar?
 
 S: -ado?
 
@@ -40,7 +35,8 @@ T: Good. So, you have all the information, now you can build the sentence. I hav
 S: He terminado.
 
 T: Good. He terminado. And I have finished it? I have finished it:
-S: He lo terminado.
+
+S: He lo terminado.
 
 T: What is the rule about where this lo, la, me, te, can go?
 
@@ -54,15 +50,7 @@ T: So, after the “to” form or:
 
 S: Or before everything, everything else?
 
-T: Before the changed verb. So this is the way you want to think about it. If we simplify the thought
-   to "at the beginning or at the end", when there is other words there, we might be really confused
-   about where we can put it. So, we must think “after the complete verb”, the “to” form, or “before
-   the changed verb”. So if you say he lo terminado, you’ve actually got it after a changed verb, you
-   put it after he. So, this is a very rare situation in Spanish, where we have two changed verbs
-   together: he terminado. We see, usually after a changed verb we get a complete verb: quiero
-   terminar, I want to finish; puedo terminar, I can to finish; debo terminar, I must/I owe to finish.
-   So, here we have two changed verbs together, he terminado, weird situation, which means there
-   is only one place it can go.
+T: Before the changed verb. So this is the way you want to think about it. If we simplify the thought to "at the beginning or at the end", when there is other words there, we might be really confused about where we can put it. So, we must think “after the complete verb”, the “to” form, or “before the changed verb”. So if you say he lo terminado, you’ve actually got it after a changed verb, you put it after he. So, this is a very rare situation in Spanish, where we have two changed verbs together: he terminado. We see, usually after a changed verb we get a complete verb: quiero terminar, I want to finish; puedo terminar, I can to finish; debo terminar, I must/I owe to finish. So, here we have two changed verbs together, he terminado, weird situation, which means there is only one place it can go.
 
 S: Before the he.
 
@@ -74,13 +62,11 @@ T: Good. Lo he terminado. And I have finished them:
 
 S: Los he terminado.
 
-T: Los he terminado. So, with -ar verbs, we take off the -ar and we put -ado. With -er/-ir verbs, we
-   take away the -er or the -ir and we put -ido to get this form of the verb that we need after haber.
+T: Los he terminado. So, with -ar verbs, we take off the -ar and we put -ado. With -er/-ir verbs, we take away the -er or the -ir and we put -ido to get this form of the verb that we need after haber.
 
 S: Whether it is an -e - there is no -edo?
-T: No. Like I said, there is only one difference between -er and -ir verbs, in all of the Spanish
-  language, only one occasion where they are doing things differently and that was in the present for
-  we. So, for example, we have vender, which means to sell, and how do you say we sell?
+
+T: No. Like I said, there is only one difference between -er and -ir verbs, in all of the Spanish language, only one occasion where they are doing things differently and that was in the present for we. So, for example, we have vender, which means to sell, and how do you say we sell?
 
 S: Vendemos.
 
@@ -88,9 +74,7 @@ T: Good. And we had venir, to come, and how do you say we come?
 
 S: Venimos.
 
-T: Venimos. So, we had -emos and -imos. This is the only time in the whole Spanish language that
-  these two verbs are doing something differently. To get this form of the verb that we need after
-  haber everything goes to -ido. So vender becomes?
+T: Venimos. So, we had -emos and -imos. This is the only time in the whole Spanish language that these two verbs are doing something differently. To get this form of the verb that we need after haber everything goes to -ido. So vender becomes?
 
 S: Vendido.
 
@@ -98,8 +82,7 @@ T: Vendido. And venir becomes?
 
 S: Venido.
 
-T: Venido. Now we understand where is bienvenido from, well-come. Perder, which was to lose,
-  becomes?
+T: Venido. Now we understand where is bienvenido from, well-come. Perder, which was to lose, becomes?
 
 S: Perdido.
 
@@ -111,24 +94,21 @@ T: He perdido. What if you wanted to be emphatic and used the word for I to emph
 
 S: Yo he perdido.
 
-T: Good. Yo he perdido. And, we said that there was a connection between I and we, that we is the
-  plural of I, so this can help us remember that there is a little connection between he for I have and
-  we have, which is?
+T: Good. Yo he perdido. And, we said that there was a connection between I and we, that we is the plural of I, so this can help us remember that there is a little connection between he for I have and we have, which is?
 
 S: Hemos.
 
 T: Hemos. They both use /e/: he, hemos. Good. So how do you say we have lost?
-S: Hemos perdido.
 
-T: Hemos perdido. Nosotros. Nosotros is the word for we, for a male or mixed group. If you are just
-   females, what do you think you might say?
+S: Hemos perdido.
+
+T: Hemos perdido. Nosotros. Nosotros is the word for we, for a male or mixed group. If you are just females, what do you think you might say?
 
 S: Nosotras.
 
-T: Nosotras. Good. You pronounced an s there, which was very good, most English speakers find
-   themselves accidentally saying /nozotros/, with a z. Not /nozotros/, but nosotros. It is an s.
+T: Nosotras. Good. You pronounced an s there, which was very good, most English speakers find themselves accidentally saying /nozotros/, with a z. Not /nozotros/, but nosotros. It is an s.
 
-   Nosotros. Or nosotras. So how would you say we have lost, emphasizing?
+Nosotros. Or nosotras. So how would you say we have lost, emphasizing?
 
 S: Nosotras- sorry, nosotros.
 
@@ -136,11 +116,9 @@ T: Well, it could be.
 
 S: Hemos perdido.
 
-T: Good. Nosotros or nosotras (if you are all females) hemos perdido. Good. So, we had he and
-   hemos, and then for the rest of the versions we go to the other vowel which was in this word
-   haber.
+T: Good. Nosotros or nosotras (if you are all females) hemos perdido. Good. So, we had he and hemos, and then for the rest of the versions we go to the other vowel which was in this word haber.
 
-   So, give me the other versions. Firstly he/she/it/you (formal) have/has:
+So, give me the other versions. Firstly he/she/it/you (formal) have/has:
 
 S: Ha.
 
@@ -161,10 +139,10 @@ T: Good.
 S: Él ha perdido.
 
 T: Él ha perdido. And she?
-S: La?
 
-T: So, you must differentiate between she and her, don't just let that feminine idea come in your mind
-   and pick one of these. You must take the time to decide which one is it. Is it she or is it her?
+S: La?
+
+T: So, you must differentiate between she and her, don't just let that feminine idea come in your mind and pick one of these. You must take the time to decide which one is it. Is it she or is it her?
 
 S: Ella.
 
@@ -176,8 +154,7 @@ T: Good. You have lost, informally:
 
 S: Has perdido.
 
-T: Good. Now, if you want to emphasize, if you want to say YOU have lost, the word for you, for
-   informal, is tú (t-ú). Tú.
+T: Good. Now, if you want to emphasize, if you want to say YOU have lost, the word for you, for informal, is tú (t-ú). Tú.
 
 S: Tú has perdido.
 
@@ -185,14 +162,7 @@ T: Good. Tú has perdido. What was I love you?
 
 S: Te quiero.
 
-T: Te quiero. So, what is the difference between tú and te? It is the same as the difference between
-   she and her, and he and him, only in English we don't have two separate words for you and you in
-   those two different positions. He sees, I see him. So, he sees, we use he. Then I see him, we use
-   him. This is very intuitive to us in English, we don't think about it. She sees, I see her. There we
-   have the same change. But you doesn't change, you see, I see you. So, that might confuse us in
-   Spanish because in English it doesn't change, but all we need to understand is that tú goes in the
-   group of él, ella, yo: tú (you); and te is in the group of those little words, lo, la, me: te. So, lets
-   practise this. What was to see or to view?
+T: Te quiero. So, what is the difference between tú and te? It is the same as the difference between she and her, and he and him, only in English we don't have two separate words for you and you in those two different positions. He sees, I see him. So, he sees, we use he. Then I see him, we use him. This is very intuitive to us in English, we don't think about it. She sees, I see her. There we have the same change. But you doesn't change, you see, I see you. So, that might confuse us in Spanish because in English it doesn't change, but all we need to understand is that tú goes in the group of él, ella, yo: tú (you); and te is in the group of those little words, lo, la, me: te. So, lets practise this. What was to see or to view?
 
 S: Ver?
 
@@ -201,14 +171,14 @@ T: Ver. And I see is a little bit irregular, do you remember how it was?
 S: Veo.
 
 T: So, how would you say I see it, I see him or I see you (formal)?
-S: Lo veo.
+
+S: Lo veo.
 
 T: Lo veo. Good. I see her or I see it (feminine thing) or I see you speaking formally to a female?
 
 S: La veo.
 
-T: La veo. Or how would you say I see them (females) or I see you (plural, all females) or I see them
-   (feminine objects)?
+T: La veo. Or how would you say I see them (females) or I see you (plural, all females) or I see them (feminine objects)?
 
 S: Las veo.
 
@@ -216,12 +186,7 @@ T: Good. And what if they were masculine or mixed objects or people?
 
 S: Los veo.
 
-T: Good. One set of words - we have me for me, we have te for you (informal), we have lo for he, for
-   masculine object, you (formal) or even for neuter, which kind of just means when something
-   doesn't have gender, maybe you'd say I want to see it and that it refers to a situation or something
-   like this, you will use a lot, and then from this the other ones come, but building from lo, so you
-   change the o to a, to make it feminine, and you add your -s for plural. Which means one sound is
-   left in this little set which is us, do you remember how is us?
+T: Good. One set of words - we have me for me, we have te for you (informal), we have lo for he, for masculine object, you (formal) or even for neuter, which kind of just means when something doesn't have gender, maybe you'd say I want to see it and that it refers to a situation or something like this, you will use a lot, and then from this the other ones come, but building from lo, so you change the o to a, to make it feminine, and you add your -s for plural. Which means one sound is left in this little set which is us, do you remember how is us?
 
 S: Nos.
 
@@ -242,17 +207,16 @@ T: Ella ve. Good. I see:
 S: Yo veo.
 
 T: Good. Now we said the word for we is nosotros, not us, us is nos. We is nosotros. So we see:
-S: Nosotros vemos.
+
+S: Nosotros vemos.
 
 T: Nosotros vemos. Good. We said that you (informal) was tú. Tú. The you in you see, tú ves.
 
-   Which means that we have also the formal you to learn, which is usted. Usted.
+Which means that we have also the formal you to learn, which is usted. Usted.
 
 S: Usted.
 
-T: Usted. Which is the formal you, it is actually a contraction of vuestra merced, which means your
-   honour. Something like this contracted to usted. So this is the formal you. So how would you say
-   you see talking formally?
+T: Usted. Which is the formal you, it is actually a contraction of vuestra merced, which means your honour. Something like this contracted to usted. So this is the formal you. So how would you say you see talking formally?
 
 S: Usted ve.
 
@@ -260,9 +224,7 @@ T: Good. You see it (talking formally):
 
 S: Lo ve usted?
 
-T: Or usted lo ve. It can be either way. The word order in Spanish is much more flexible than in
-   English. Lo ve usted. Usted lo ve. Either way. How would you say you see them (still talking
-   formally)?
+T: Or usted lo ve. It can be either way. The word order in Spanish is much more flexible than in English. Lo ve usted. Usted lo ve. Either way. How would you say you see them (still talking formally)?
 
 S: Usted ve los.
 
@@ -270,30 +232,22 @@ T: Ok..
 
 S: Sorry! Los ve.
 
-T: Good. Usted los ve. Good. So, usted is flexible. Los is not flexible. Usted los ve. Los ve usted.
-   Now, the word for they, the word for they is ellos (e-l-l-o-s, and this l-l in most Spanish dialects
-   makes a /y/ sound. You might hear /ezhos/ around Río de la Plata in Buenos Aires of Argentina;
-   Montevideo, Uruguay. You might hear like a /j/ kind of sound in Colombia /ejos/. But in the great
-   majority of the Spanish speaking world double l and y make /y/: /eyos/ or /eyas/. I am sure you can
-   work out the difference between the two. What is the difference between ellos and ellas?
+T: Good. Usted los ve. Good. So, usted is flexible. Los is not flexible. Usted los ve. Los ve usted. Now, the word for they, the word for they is ellos (e-l-l-o-s, and this l-l in most Spanish dialects makes a /y/ sound. You might hear /ezhos/ around Río de la Plata in Buenos Aires of Argentina; Montevideo, Uruguay. You might hear like a /j/ kind of sound in Colombia /ejos/. But in the great majority of the Spanish speaking world double l and y make /y/: /eyos/ or /eyas/. I am sure you can work out the difference between the two. What is the difference between ellos and ellas?
 
 S: Ellos is for males, or mixed group, and ellas is for females.
 
 T: Good. So, how would you say they see emphasizing or clarifying that it's they?
 
 S: Ellos is it ven?
-T: Yes! Ellos ven. They see them:
+
+T: Yes! Ellos ven. They see them:
 
 S: Ellos los ven.
 
-T: Ellos los ven. Good. Or we could have had any combination of gender: ellas los ven, ellas las ven,
-   ellos las ven, etc. How would you say: they see me?
+T: Ellos los ven. Good. Or we could have had any combination of gender: ellas los ven, ellas las ven, ellos las ven, etc. How would you say: they see me?
 
 S: Ellos me ven.
 
 T: Good. Ellos me ven. So we are understanding that we have two separate groups of very
 
-   important words. The set of: yo, él, ella, ellos, ellas, nosotros, tú, and usted. Yo veo. Tú ves.
-   Usted/él/ella ve. Ellos or ellas ven. And nosotros vemos. Then we have the other set of words -
-   me, lo, la, los, las, nos, te.
-
+important words. The set of: yo, él, ella, ellos, ellas, nosotros, tú, and usted. Yo veo. Tú ves. Usted/él/ella ve. Ellos or ellas ven. And nosotros vemos. Then we have the other set of words - me, lo, la, los, las, nos, te.

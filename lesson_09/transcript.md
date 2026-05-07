@@ -1,19 +1,14 @@
 # Lesson 09 — Transcript
 
-
 T: To know in Spanish is saber. Saber.
 
 S: Saber.
 
-T: Saber. You may have heard in British slang He's got savvy, she's got savvy. Have you ever heard
-   that?
+T: Saber. You may have heard in British slang He's got savvy, she's got savvy. Have you ever heard that?
 
 S: Yeah.
 
-T: And that comes from Latin actually. That slang is coming from Latin. Saber is to know. He's got
-   saber. He's got savvy. Saber is spelt with a b, but in English we're saying savvy with a /v/. So
-   we're seeing even that connection between the sounds of v and b crossing between English and
-   Spanish. Saber, savvy. So saber is to know. So if you want to say I want to know?
+T: And that comes from Latin actually. That slang is coming from Latin. Saber is to know. He's got saber. He's got savvy. Saber is spelt with a b, but in English we're saying savvy with a /v/. So we're seeing even that connection between the sounds of v and b crossing between English and Spanish. Saber, savvy. So saber is to know. So if you want to say I want to know?
 
 S: Quiero saber.
 
@@ -40,17 +35,16 @@ S: Quiero saber por qué no quiere saber.
 T: Very good. Quiero saber por qué no quiere saber. Very good. The word for yes in Spanish is sí.
 
 S: Sí.
-T: This is also the word for if. So how do you say if?
+
+T: This is also the word for if. So how do you say if?
 
 S: Si.
 
-T: Good. I want to know if you want to know. Of course we're speaking formally. This is the one we've
-   learned so far. I want to know if you want to know:
+T: Good. I want to know if you want to know. Of course we're speaking formally. This is the one we've learned so far. I want to know if you want to know:
 
 S: Quiero saber si quiere saber.
 
-T: Good. Quiero saber si quiere saber. I want to know if he wants to invite me. So the first bit is I
-   want to know:
+T: Good. Quiero saber si quiere saber. I want to know if he wants to invite me. So the first bit is I want to know:
 
 S: Quiero saber.
 
@@ -66,8 +60,7 @@ T: He wants to invite me:
 
 S: Quiere invitarme.
 
-T: So you see if you think about it block by block, it's very simple. If we think slowly, we learn very
-   quickly and the process gets much faster. How do you say imagination?
+T: So you see if you think about it block by block, it's very simple. If we think slowly, we learn very quickly and the process gets much faster. How do you say imagination?
 
 S: Imaginación.
 
@@ -75,13 +68,11 @@ T: Good. I don't want to imagine. I don't want to imagine it:
 
 S: No quiero imaginarlo.
 
-T: Good. And what was to come? And we said that we could remember it if we look at convenient,
-   conveniente, which is like “with coming”.
+T: Good. And what was to come? And we said that we could remember it if we look at convenient, conveniente, which is like “with coming”.
 
 S: Venir.
-T: Venir. Good. I want to know if she wants to come to the house to visit me. I want to know if she
-   wants to come to the house to visit me. So again it might be something that looks overwhelming
-   that we can't say. But if we divide it up: I want to know:
+
+T: Venir. Good. I want to know if she wants to come to the house to visit me. I want to know if she wants to come to the house to visit me. So again it might be something that looks overwhelming that we can't say. But if we divide it up: I want to know:
 
 S: Quiero saber.
 
@@ -101,10 +92,7 @@ T: Good. To visit me:
 
 S: A visitarme.
 
-T: Good! You put a there. Because even though we have a la casa, there in between, you stayed with
-   the feeling of venir and you wanted to connect it to the next verb. And you are 100% correct to do
-   that. I want to know why she doesn't want to come to the house to visit me. I want to know why she
-   doesn't want to come to the house to visit me. I want to know:
+T: Good! You put a there. Because even though we have a la casa, there in between, you stayed with the feeling of venir and you wanted to connect it to the next verb. And you are 100% correct to do that. I want to know why she doesn't want to come to the house to visit me. I want to know why she doesn't want to come to the house to visit me. I want to know:
 
 S: Quiero saber.
 
@@ -121,20 +109,16 @@ T: She doesn't want:
 S: No quiere.
 
 T: To come to the house:
-S: Venir a la casa.
+
+S: Venir a la casa.
 
 T: To visit me:
 
 S: A visitarme.
 
-T: Good. Very good. Well done. Quiero saber por qué no quiere venir a la casa a visitarme. Very
-   good. So what we most want to take away from this is the confidence to try to say what we are
-   almost sure we cannot say. Because we have this wonderful advantage as English speakers, that
-   we have so much vocabulary that we can convert over to Spanish that we won't realize we can
-   convert over to Spanish until we try it. I'll just give you now a couple of sentences for listening
-   practice. What does it mean if I say Voy a invitarlo, pero no voy a invitarlo ahora?
+T: Good. Very good. Well done. Quiero saber por qué no quiere venir a la casa a visitarme. Very good. So what we most want to take away from this is the confidence to try to say what we are almost sure we cannot say. Because we have this wonderful advantage as English speakers, that we have so much vocabulary that we can convert over to Spanish that we won't realize we can convert over to Spanish until we try it. I'll just give you now a couple of sentences for listening practice. What does it mean if I say Voy a invitarlo, pero no voy a invitarlo ahora?
 
-   What did I say? First bit is Voy a invitarlo:
+What did I say? First bit is Voy a invitarlo:
 
 S: I'm going to invite them.
 
@@ -163,7 +147,8 @@ T: Very good. Quiero iniciarlo ahora. Quiero iniciarlo ahora:
 S: I want to start now.
 
 T: Good. And something missing though. Quiero iniciarlo ahora:
-S: Ah. I want to start it now.
+
+S: Ah. I want to start it now.
 
 T: Good. Quiere iniciarlo ahora. Quiere iniciarlo ahora:
 
@@ -177,9 +162,7 @@ T: ¿Por qué no quiere informarme? Por qué no quiere informarme?:
 
 S: Why doesn't he want to let me know? To inform me?
 
-T: Yeah. Perfect. But this is perfect what you did. You found the meaning, but you said it how it's
-   comfortable for you in English. Exactly. Why doesn't he want to inform me? Why doesn't he want
-   to let me know? Perfect. How is justification in Spanish?
+T: Yeah. Perfect. But this is perfect what you did. You found the meaning, but you said it how it's comfortable for you in English. Exactly. Why doesn't he want to inform me? Why doesn't he want to let me know? Perfect. How is justification in Spanish?
 
 S: Is it a /kh/ sound?
 
@@ -191,8 +174,7 @@ T: Justificación. To justify:
 
 S: Justificar.
 
-T: Justificar. I'm not trying to justify myself. I'm not trying to justify myself. What is myself in
-   Spanish?
+T: Justificar. I'm not trying to justify myself. I'm not trying to justify myself. What is myself in Spanish?
 
 S: Me.
 
@@ -200,14 +182,11 @@ T: Yes. Same as me. Same as me. So, I'm not trying:
 
 S: No intento justificarlo. No. Justificarme.
 
-T: Good. No intento justificarme. But I want to explain. Now explain is an exception. We have
-   explanation in English. But this in Spanish is explicación. It changes, so it's an exception. We
-   don't say explanación, but explicación. We have this in English as well. We have in English
-   inexplicable. How do you say that in Spanish?
-S: Inexplicable.
+T: Good. No intento justificarme. But I want to explain. Now explain is an exception. We have explanation in English. But this in Spanish is explicación. It changes, so it's an exception. We don't say explanación, but explicación. We have this in English as well. We have in English inexplicable. How do you say that in Spanish?
 
-T: Yes. We have it in English this root of the c sound with explain. We say explain, but then we say
-   inexplicable. So explanation is explicación in Spanish. So how is to explain?
+S: Inexplicable.
+
+T: Yes. We have it in English this root of the c sound with explain. We say explain, but then we say inexplicable. So explanation is explicación in Spanish. So how is to explain?
 
 S: Explicar.
 
@@ -219,10 +198,7 @@ T: Good. Do you remember how to say something?
 
 S: Algo.
 
-T: Algo. Well done. But I want to explain you something. In English maybe it's more common we
-   would say I want to explain something to you. But in Spanish we can just say But I want to explain
-   you something. And let's say it informally. So what was the word for you, for informal? We can
-   remember it from I love you.
+T: Algo. Well done. But I want to explain you something. In English maybe it's more common we would say I want to explain something to you. But in Spanish we can just say But I want to explain you something. And let's say it informally. So what was the word for you, for informal? We can remember it from I love you.
 
 S: Te.
 
@@ -230,10 +206,7 @@ T: Yes. Te. Te quiero. So but I want to explain you something.
 
 S: Pero quiero explicarte algo.
 
-T: Very good. Pero quiero explicarte algo. Let's say it all together. I'm not trying to justify myself,
-   but I want to explain something to you. So I'm not trying is the first bit. Now I want 100% of your
-   mental energy on I'm not trying. All of your attention on I'm not trying then we look at the next bit
-   and we forget I'm not trying. Once we've said it, we don't need to hold it. I'm not trying:
+T: Very good. Pero quiero explicarte algo. Let's say it all together. I'm not trying to justify myself, but I want to explain something to you. So I'm not trying is the first bit. Now I want 100% of your mental energy on I'm not trying. All of your attention on I'm not trying then we look at the next bit and we forget I'm not trying. Once we've said it, we don't need to hold it. I'm not trying:
 
 S: No intento.
 
@@ -244,7 +217,8 @@ S: Justificarme.
 T: Good. We can forget that bit. But:
 
 S: Pero.
-T: I want:
+
+T: I want:
 
 S: Quiero.
 
@@ -257,4 +231,3 @@ T: Something:
 S: Algo.
 
 T: Very good. No intento justificarme, pero quiero explicarte algo. Very good. Well done.
-

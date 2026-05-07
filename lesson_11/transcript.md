@@ -1,21 +1,14 @@
 # Lesson 11 — Transcript
 
-
 T: So we saw how our “to" form of the verb: to come, to eat, to tolerate. How would to tolerate be?
 
 S: Toleration-toleración-tolerar.
 
-T: Exactly, tolerar. Good. So our “to” form ends with an r and it's always going to be -ar, -er or -ir.
-   And we had an example of each. And we notice that for -ar, -ir and -er verbs, unless the verb is
-   irregular, we will take off that ending and put on an -o to get the “I” version, to say I tolerate for
-   example. So how would you say I tolerate?
+T: Exactly, tolerar. Good. So our “to” form ends with an r and it's always going to be -ar, -er or -ir. And we had an example of each. And we notice that for -ar, -ir and -er verbs, unless the verb is irregular, we will take off that ending and put on an -o to get the “I” version, to say I tolerate for example. So how would you say I tolerate?
 
 S: Tolero?
 
-T: Good. And you moved the accent back as well, which is essential for the present tense. Very good.
-   If you said toleró, it would mean he tolerated, which as I mentioned, will be useful for us later
-   when we learn this tense. But it's important in the present tense to have the accent on the
-   penultimate syllable. Tolero. What was to eat?
+T: Good. And you moved the accent back as well, which is essential for the present tense. Very good. If you said toleró, it would mean he tolerated, which as I mentioned, will be useful for us later when we learn this tense. But it's important in the present tense to have the accent on the penultimate syllable. Tolero. What was to eat?
 
 S: Comer.
 
@@ -27,44 +20,27 @@ T: So you don't add on the o, you take off the ending – and then you put:
 
 S: Oh yes, como.
 
-T: Como. Good. This also means how or like, by coincidence. You might have heard cómo estás? -
-   How are you? But como is also I eat. So for all verbs, we take off the ending and we add -o and
-   we get the “I” version. But for the rest of the versions, for he, she, it, you (formal), for we, etc., the
-   verbs split into two groups. Although we have three different endings, we have two groups. Now
-   most verbs in Spanish are -ar verbs. This is the biggest group. The group of -ar verbs, the verbs
-   that end -ar. In fact any new verb that comes into Spanish will become, will be crowned, as an -ar
-   verb. So to give you some examples - tuitear. What do you think that means?
+T: Como. Good. This also means how or like, by coincidence. You might have heard cómo estás? - How are you? But como is also I eat. So for all verbs, we take off the ending and we add -o and we get the “I” version. But for the rest of the versions, for he, she, it, you (formal), for we, etc., the verbs split into two groups. Although we have three different endings, we have two groups. Now most verbs in Spanish are -ar verbs. This is the biggest group. The group of -ar verbs, the verbs that end -ar. In fact any new verb that comes into Spanish will become, will be crowned, as an -ar verb. So to give you some examples - tuitear. What do you think that means?
 
 S: To Twitter.
-T: To tweet, yes, tuitear. Facebookear, yes this exists. Googlear.
+
+T: To tweet, yes, tuitear. Facebookear, yes this exists. Googlear.
 
 S: Excellent.
 
-T: So there is something in the mental lexicon, in the mental dictionary that is saying there can be no
-   more -er/-ir verbs. These are a historic group, the door is closed. So we have two groups. So for -ar,
-   -er, -ir, if the verb is regular we take off the ending -ar, -er, -ir, and we put -o and we get the “I”
-   version. Now for the others, the other versions, there's a slight difference between -ar verbs and -
-   er/-ir verbs. Now -ar verbs have the vowel /ah/ as a principle sound, as a sound that keeps popping
-   up. So, for example, to eliminate. How is to eliminate?
+T: So there is something in the mental lexicon, in the mental dictionary that is saying there can be no more -er/-ir verbs. These are a historic group, the door is closed. So we have two groups. So for -ar, -er, -ir, if the verb is regular we take off the ending -ar, -er, -ir, and we put -o and we get the “I” version. Now for the others, the other versions, there's a slight difference between -ar verbs and - er/-ir verbs. Now -ar verbs have the vowel /ah/ as a principle sound, as a sound that keeps popping up. So, for example, to eliminate. How is to eliminate?
 
 S: Elimination-eliminación-eliminar.
 
-T: Good. Eliminar. So if you want to say I eliminate or I delete, how would it be? Think syllable by
-   syllable. If you think of it all together it's quite confusing here because you have quite a few vowels.
+T: Good. Eliminar. So if you want to say I eliminate or I delete, how would it be? Think syllable by syllable. If you think of it all together it's quite confusing here because you have quite a few vowels.
 
 S: Elimino?
 
-T: Good. You see when you take your time to divide actually the word piece by piece, it's much more
-   digestible. Elimino. Good. Now for he, she, it and you (formal) - we have learned that these group
-   together in Spanish - we just use an a on the ending. So how would that be? He deletes or
-   eliminates, she/he/you (formal).
+T: Good. You see when you take your time to divide actually the word piece by piece, it's much more digestible. Elimino. Good. Now for he, she, it and you (formal) - we have learned that these group together in Spanish - we just use an a on the ending. So how would that be? He deletes or eliminates, she/he/you (formal).
 
 S: Elimina.
 
-T: Good. And we still have the accent on the penultimate syllable, elimina. Very good. How do you
-   think you would say to last like “it lasts a long time" or something like this? It's not obvious
-   through the word last, but maybe we find something through Latin that helps us work out how to
-   say that: “a period of time”, sometimes we call it duration, no?
+T: Good. And we still have the accent on the penultimate syllable, elimina. Very good. How do you think you would say to last like “it lasts a long time" or something like this? It's not obvious through the word last, but maybe we find something through Latin that helps us work out how to say that: “a period of time”, sometimes we call it duration, no?
 
 S: Yes.
 
@@ -75,8 +51,8 @@ S: Duración.
 T: So to last might actually come from this. If it did, how would it sound?
 
 S: Durar.
-T: Yes. And this is the verb, durar. A lot is much in Spanish; it's mucho. So if you want to say it lasts
-   a long time you can just say it lasts much.
+
+T: Yes. And this is the verb, durar. A lot is much in Spanish; it's mucho. So if you want to say it lasts a long time you can just say it lasts much.
 
 S: Durar mucho.
 
@@ -119,18 +95,12 @@ S: Yes.
 T: I didn't. I mean this is a word-
 
 S: It’s chewing.
-T: Yes. So how do you think to chew would be?
+
+T: Yes. So how do you think to chew would be?
 
 S: Masticar.
 
-T: Masticar is to chew. Now I didn't know this word actually and this will happen to many English
-  speakers as well. You will be able to work out many English words that you didn't know before
-  through Spanish. So this was the way round it worked for me. Because I found masticar first, and
-  then I saw in English somewhere mastication. So it can work that way round as well which is
-  useful. Another example is morder, which means to bite. I learned this in Spanish, and then I saw
-  in some novel I was reading, mordent. Oh ok that means biting. You can increase your English
-  vocabulary and what you understand in English just through the Latin that you learn in Spanish.
-  So if masticar is to chew, how would you say I chew?
+T: Masticar is to chew. Now I didn't know this word actually and this will happen to many English speakers as well. You will be able to work out many English words that you didn't know before through Spanish. So this was the way round it worked for me. Because I found masticar first, and then I saw in English somewhere mastication. So it can work that way round as well which is useful. Another example is morder, which means to bite. I learned this in Spanish, and then I saw in some novel I was reading, mordent. Oh ok that means biting. You can increase your English vocabulary and what you understand in English just through the Latin that you learn in Spanish. So if masticar is to chew, how would you say I chew?
 
 S: Mastico.
 
@@ -138,9 +108,7 @@ T: Mastico. Good. And he chews or she chews, it chews, you (formal) chew?
 
 S: Mastica.
 
-T: Mastica. Good. Now this is our key sound, this /a/ sound. Now we can add on different sounds to
-  this /a/ to get other versions. So for example, if we add on an n to this /a/, we get they and we get
-  you (plural). So in English like you guys, you all. So how would you say collaboration?
+T: Mastica. Good. Now this is our key sound, this /a/ sound. Now we can add on different sounds to this /a/ to get other versions. So for example, if we add on an n to this /a/, we get they and we get you (plural). So in English like you guys, you all. So how would you say collaboration?
 
 S: Colaboración.
 
@@ -159,8 +127,8 @@ S: Colabora.
 T: Colabora. You can add on to this an n and you get they or you (plural). So how would it be?
 
 S: Colaboran.
-T: Colaboran. Good. Hablar is to speak in Spanish. Hablar. It's spelled h-a-b-l-a-r. What's
-   happening with that h?
+
+T: Colaboran. Good. Hablar is to speak in Spanish. Hablar. It's spelled h-a-b-l-a-r. What's happening with that h?
 
 S: It's silent.
 
@@ -176,8 +144,7 @@ T: Good. You formal. So what would it mean if I said no hablan con Pablo?
 
 S: They're not speaking with Pablo.
 
-T: Good. They're not speaking with Pablo or they don't speak with Pablo. Good. How would you say
-   I want to speak?
+T: Good. They're not speaking with Pablo or they don't speak with Pablo. Good. How would you say I want to speak?
 
 S: Quiero hablar.
 
@@ -191,27 +158,21 @@ S: Yes. Voy hablar.
 
 T: Now I'm not sure, because hablar starts with /a/, I'm not sure if you put the a to connect them.
 
-   Did you?
+Did you?
 
 S: Oh, no I didn't. Voy a hablar.
 
-T: And when you speak quickly, it will kind of blend together. Voy a hablar. Maybe it's a fraction
-   longer, voy a hablar, but it will stick together like this. Good. Now, if we go back to this he/she/it
-   form, habla, and we add an s, we get the you (informal).
+T: And when you speak quickly, it will kind of blend together. Voy a hablar. Maybe it's a fraction longer, voy a hablar, but it will stick together like this. Good. Now, if we go back to this he/she/it form, habla, and we add an s, we get the you (informal).
 
 S: Hablas.
-T: So this is speaking to one person informally. Hablas. When we have one of these little words: te,
-   me, lo, los, la, las, they will come before the changed verb. So the changed verb is the one that
-   isn't ending in r anymore. They will come before this verb. So if we have quiero, I want, and we
-   want to say I want it, that it must come before the verb. So how would it be?
+
+T: So this is speaking to one person informally. Hablas. When we have one of these little words: te, me, lo, los, la, las, they will come before the changed verb. So the changed verb is the one that isn't ending in r anymore. They will come before this verb. So if we have quiero, I want, and we want to say I want it, that it must come before the verb. So how would it be?
 
 S: Lo quiero.
 
-T: But that little word can also go after the complete verb. If we say something like I want to see it,
-   we end up actually having an option where we put that it. But it doesn't matter; there's no change
-   in meaning. It's exactly the same, you just have the option.
+T: But that little word can also go after the complete verb. If we say something like I want to see it, we end up actually having an option where we put that it. But it doesn't matter; there's no change in meaning. It's exactly the same, you just have the option.
 
-   So what was to see, which was related to English view?
+So what was to see, which was related to English view?
 
 S: Ver?
 
@@ -223,11 +184,7 @@ T: Quiero verlo.
 
 S: Or lo quiero ver.
 
-T: Yeah you have the option. Lo quiero ver. But if you have one changed verb all by itself, you don't
-   have the option; it must go before. You might say it's important to speak about it. Now you don't
-   need to say about in Spanish, we're going to say to speak it and that's understood to speak about
-   it. So here, in that clause and that bit, to speak about it is only to speak. So how would you say it's
-   important to speak about it or literally, it's important to speak it?
+T: Yeah you have the option. Lo quiero ver. But if you have one changed verb all by itself, you don't have the option; it must go before. You might say it's important to speak about it. Now you don't need to say about in Spanish, we're going to say to speak it and that's understood to speak about it. So here, in that clause and that bit, to speak about it is only to speak. So how would you say it's important to speak about it or literally, it's important to speak it?
 
 S: Es importante hablarlo.
 
@@ -240,7 +197,7 @@ T: So I must invite him:
 S: Debo invitarlo.
 
 T: Or?
-S: Lo debo invitar.
+
+S: Lo debo invitar.
 
 T: Good. So that's the deal with these little words, where we can put them. Good.
-

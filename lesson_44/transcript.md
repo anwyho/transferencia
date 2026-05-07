@@ -1,6 +1,5 @@
 # Lesson 44 — Transcript
 
-
 T: What was the word for problem in Spanish?
 
 S: Problema.
@@ -9,10 +8,7 @@ T: Problema. And the problem:
 
 S: El problema.
 
-T: El problema. Good. We can see it ends in an a, so we would expect it to be feminine, but we saw
-  that these words ending -ma in Spanish, many of them entered through Greek. And in Greek they're
-  neuter, but they look a bit masculine in Greek, so they came into Spanish as masculine words even
-  though they end in a. So we have el problema. System:
+T: El problema. Good. We can see it ends in an a, so we would expect it to be feminine, but we saw that these words ending -ma in Spanish, many of them entered through Greek. And in Greek they're neuter, but they look a bit masculine in Greek, so they came into Spanish as masculine words even though they end in a. So we have el problema. System:
 
 S: Sistema.
 
@@ -24,8 +20,7 @@ T: Good. The paradigm: how do you think that would be in Spanish?
 
 S: El paradigma.
 
-T: El paradigma. Good. Scheme also came in from Greek. But scheme in Spanish means outline or
-  diagram. How do you think that would be?
+T: El paradigma. Good. Scheme also came in from Greek. But scheme in Spanish means outline or diagram. How do you think that would be?
 
 S: El squima. Squema. El squema.
 
@@ -33,18 +28,15 @@ T: Good, and something else to make it sound a bit more Spanish?
 
 S: El esquema.
 
-T: Very good. El esquema. We said that we cannot start s plus another consonant in Spanish. We
-  have to put an e before, like Spain, España, spaghetti, espagueti. El esquema, so this would be
-  outline or diagram. Diagram is another one of these words. How do you think that would be in
-  Spanish?
+T: Very good. El esquema. We said that we cannot start s plus another consonant in Spanish. We have to put an e before, like Spain, España, spaghetti, espagueti. El esquema, so this would be outline or diagram. Diagram is another one of these words. How do you think that would be in Spanish?
 
 S: Diagrama.
-T: Good. And the diagram:
+
+T: Good. And the diagram:
 
 S: El diagrama.
 
-T: El diagrama. Good. So mostly, words ending /o/ are masculine and words ending /a/ are feminine,
-   but we might find some exceptions. Planeta, for example, what do you think that means? Planeta:
+T: El diagrama. Good. So mostly, words ending /o/ are masculine and words ending /a/ are feminine, but we might find some exceptions. Planeta, for example, what do you think that means? Planeta:
 
 S: Planet.
 
@@ -60,8 +52,7 @@ T: Un planeta, very good. How would you say the planets?
 
 S: Los planetas.
 
-T: Very good, los planetas. Good. So this is a masculine word that looks feminine. How was the
-   word for car? We saw various words.
+T: Very good, los planetas. Good. So this is a masculine word that looks feminine. How was the word for car? We saw various words.
 
 S: Auto.
 
@@ -77,11 +68,11 @@ T: Los autos. Good. If you want to say this car, you say este auto. Este auto.
 
 S: Este auto.
 
-T: Good. We saw esta noche, this night. What do you think is the difference between este and esta,
-   then? If we have este auto and esta noche, what do you think is the difference?
+T: Good. We saw esta noche, this night. What do you think is the difference between este and esta, then? If we have este auto and esta noche, what do you think is the difference?
 
 S: Este is the masculine -
-T: Good.
+
+T: Good.
 
 S: And esta the feminine.
 
@@ -97,8 +88,7 @@ T: Good. But this night, or tonight:
 
 S: Esta noche.
 
-T: Esta noche. Good. If you take this t out of este and esta, the words for this, you get the word for
-   that. So este auto is this car. And that car would be?
+T: Esta noche. Good. If you take this t out of este and esta, the words for this, you get the word for that. So este auto is this car. And that car would be?
 
 S: Ese auto.
 
@@ -122,12 +112,11 @@ T: And how would be that night?
 
 S: Esa noche.
 
-T: Esa noche. We just get rid of the t and then we have the word for that. What if you wanted to say
-   those nights?
-S: Esas noches.
+T: Esa noche. We just get rid of the t and then we have the word for that. What if you wanted to say those nights?
 
-T: Esas noches. Good. There are also a few words that end in o which are feminine. For example,
-   mano. Mano means hand. Ends in o, but it's a feminine word. So how would you say the hand?
+S: Esas noches.
+
+T: Esas noches. Good. There are also a few words that end in o which are feminine. For example, mano. Mano means hand. Ends in o, but it's a feminine word. So how would you say the hand?
 
 S: La mano.
 
@@ -147,28 +136,19 @@ T: Good. These hands:
 
 S: Estas manos.
 
-T: Good. We have this word in English, like in manuscript, manual, as well. Manual, manuscript,
-   that man- bit there means hand. Maintain, which in Spanish is mantener. We have main- or man-
-   means hand. Manage. Manage means to handle. Actually, it has a special use for handling horses,
-   historically. Which is interesting, because to manage, manejar, is used in some Latin American
-   countries to mean to drive. Other than to manage or to handle, it also means to drive, manejar,
-   which is interesting because this verb manage historically had the special use to handle horses,
-   and we see how that's kind of translated over the years to driving. How would you say Can you
-   give me a hand? So this is a literal translation of something idiomatic in English, but it works in
-   Spanish as well. In Spanish you say this. Can you give me a hand? And let's talk informally.
+T: Good. We have this word in English, like in manuscript, manual, as well. Manual, manuscript, that man- bit there means hand. Maintain, which in Spanish is mantener. We have main- or man- means hand. Manage. Manage means to handle. Actually, it has a special use for handling horses, historically. Which is interesting, because to manage, manejar, is used in some Latin American countries to mean to drive. Other than to manage or to handle, it also means to drive, manejar, which is interesting because this verb manage historically had the special use to handle horses, and we see how that's kind of translated over the years to driving. How would you say Can you give me a hand? So this is a literal translation of something idiomatic in English, but it works in Spanish as well. In Spanish you say this. Can you give me a hand? And let's talk informally.
 
 S: ¿Me puedes dar un mano?
 
 T: But it's -
 
 S: Una mano.
-T: Good. ¿Puedes darme?, or ¿me puedes dar?, una mano. How would you say Could you give me
-   a hand? Could you give me a hand? So could is would can.
+
+T: Good. ¿Puedes darme?, or ¿me puedes dar?, una mano. How would you say Could you give me a hand? Could you give me a hand? So could is would can.
 
 S: ¿Me podrías dar una mano?
 
-T: Good. ¿Me podrías dar una mano? ¿Podrías darme una mano? You should give me a hand.
-   You should give me a hand. Should is would owe. Still informal.
+T: Good. ¿Me podrías dar una mano? ¿Podrías darme una mano? You should give me a hand. You should give me a hand. Should is would owe. Still informal.
 
 S: Deber. Debería. You should. Deberías. Me deberías dar una mano.
 
@@ -196,15 +176,13 @@ T: Good. So we said that manejar means to handle or to manage. Manejar.
 
 S: Manejar.
 
-T: And also to drive, in some Latin American countries. How do you say I am managing the problem,
-   or I manage the problem?
+T: And also to drive, in some Latin American countries. How do you say I am managing the problem, or I manage the problem?
 
 S: Manejo el problema.
 
-T: Good. So how would you say I'm managing the problem, and you mean right now. So I remind
-   you that for managing, for -ar verbs to get this -ing, we take away -ar and we put -ando. And for
-   -er/-ir verbs, for this -ing, we take away the -er or the -ir, and we put -iendo. First part is I am
-   managing. I am managing:
+T: Good. So how would you say I'm managing the problem, and you mean right now. So I remind you that for managing, for -ar verbs to get this -ing, we take away -ar and we put -ando. And for
+
+-er/-ir verbs, for this -ing, we take away the -er or the -ir, and we put -iendo. First part is I am managing. I am managing:
 
 S: Estoy manejando.
 
@@ -212,11 +190,7 @@ T: Good. I am managing the problem:
 
 S: Estoy manejando el problema.
 
-T: Good. Estoy manejando el problema. So mano, we said, ends in o and it's feminine. It's actually
-   kind of the only true word that ends in o and is feminine. So, for example we have la foto, the foto.
-   But foto is short for fotografía. So it's actually la fotografía becomes la foto. The same with la
-   moto. The motorbike is actually la motocicleta. No? Then people say moto and foto and it stays
-   with la. To take in Spanish is tomar. Tomar.
+T: Good. Estoy manejando el problema. So mano, we said, ends in o and it's feminine. It's actually kind of the only true word that ends in o and is feminine. So, for example we have la foto, the foto. But foto is short for fotografía. So it's actually la fotografía becomes la foto. The same with la moto. The motorbike is actually la motocicleta. No? Then people say moto and foto and it stays with la. To take in Spanish is tomar. Tomar.
 
 S: Tomar.
 
@@ -224,13 +198,11 @@ T: Good. So how would you say I'm taking a photo, and you mean right now?
 
 S: Estoy tomando una foto.
 
-T: Good. Estoy tomando una foto. You might hear sacar as well, for photo. Sacar or tomar. Estoy
-   tomando una foto. Estoy sacando una foto. Let's use tomar for now. I would take a photo:
+T: Good. Estoy tomando una foto. You might hear sacar as well, for photo. Sacar or tomar. Estoy tomando una foto. Estoy sacando una foto. Let's use tomar for now. I would take a photo:
 
 S: Tomaría una foto.
 
-T: Tomaría una foto. I would like, so it would please me, to take a photo. So what is to please, or
-   like?
+T: Tomaría una foto. I would like, so it would please me, to take a photo. So what is to please, or like?
 
 S: Gustar.
 
@@ -242,13 +214,12 @@ T: Good. Me gustaría tomar una foto. But I don't have my camera. But I don't ha
 
 S: Pero no tengo mi cámara.
 
-T: Good. All together. I would like to take a photo, it would please me to take a photo, but I don't
-   have my camera:
-S: Me gustaría tomar un foto-
+T: Good. All together. I would like to take a photo, it would please me to take a photo, but I don't have my camera:
+
+S: Me gustaría tomar un foto-
 
 T: Fotografía.
 
 S: Una foto, pero no tengo mi cámara.
 
 T: Very good. Me gustaría tomar una foto, pero no tengo mi cámara. Very good.
-
