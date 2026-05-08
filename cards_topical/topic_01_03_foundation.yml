@@ -1,0 +1,390 @@
+topic: "Foundation: vowels, ser, convertible words"
+lessons: [1, 2, 3]
+cards:
+  # ---------------- Adverb (L3 -mente) + es/no es (L2) + -al cognate (L2) ----------------
+  # The genuine cross-lesson drill: L3 manner-adverb modifying an L2 -al copular clause.
+
+  - id: t01_03-001
+    type: sentence
+    tier: extended
+    front_en: "Normally it's legal."
+    back_es: "Normalmente es legal."
+    hint: "-ly→-mente · -al · es"
+    rule_ref: "L3#3, L3#6, L2#2, L2#7"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-002
+    type: sentence
+    tier: extended
+    front_en: "Normally it's not legal."
+    back_es: "Normalmente no es legal."
+    hint: "-mente · -al · no es"
+    rule_ref: "L3#3, L3#6, L2#2, L2#9"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-003
+    type: sentence
+    tier: extended
+    front_en: "Generally it's natural."
+    back_es: "Generalmente es natural."
+    hint: "-mente · -al · /khe-/"
+    rule_ref: "L3#3, L3#7, L2#2, L2#7"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-004
+    type: sentence
+    tier: extended
+    front_en: "Generally it's not natural."
+    back_es: "Generalmente no es natural."
+    hint: "-mente · -al · no es"
+    rule_ref: "L3#3, L3#7, L2#2, L2#9"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-005
+    type: sentence
+    tier: extended
+    front_en: "Naturally it's legal."
+    back_es: "Naturalmente es legal."
+    hint: "-mente · -al · es"
+    rule_ref: "L3#3, L2#2, L2#7"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-006
+    type: sentence
+    tier: extended
+    front_en: "Naturally it's not illegal."
+    back_es: "Naturalmente no es ilegal."
+    hint: "-mente · ilegal · no es"
+    rule_ref: "L3#3, L2#2, L2#9"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-007
+    type: sentence
+    tier: extended
+    front_en: "Really it's ideal."
+    back_es: "Realmente es ideal."
+    hint: "-mente · rolled r · -al · es"
+    rule_ref: "L3#3, L3#4, L2#2, L2#7"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-008
+    type: sentence
+    tier: extended
+    front_en: "Really it's not ideal."
+    back_es: "Realmente no es ideal."
+    hint: "-mente · -al · no es"
+    rule_ref: "L3#3, L3#4, L2#2, L2#9"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-009
+    type: sentence
+    tier: extended
+    front_en: "Probably it's cultural."
+    back_es: "Probablemente es cultural."
+    hint: "-mente · -al · es"
+    rule_ref: "L3#3, L3#8, L2#2, L2#7"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-010
+    type: sentence
+    tier: extended
+    front_en: "Probably it's not cultural."
+    back_es: "Probablemente no es cultural."
+    hint: "-mente · -al · no es"
+    rule_ref: "L3#3, L3#8, L2#2, L2#9"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-011
+    type: sentence
+    tier: extended
+    front_en: "Possibly it's fatal."
+    back_es: "Posiblemente es fatal."
+    hint: "-mente · -al · es"
+    rule_ref: "L3#3, L3#8, L2#2, L2#7"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-012
+    type: sentence
+    tier: extended
+    front_en: "Possibly it's not fatal."
+    back_es: "Posiblemente no es fatal."
+    hint: "-mente · -al · no es"
+    rule_ref: "L3#3, L3#8, L2#2, L2#9"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-013
+    type: sentence
+    tier: extended
+    front_en: "Generally it's personal."
+    back_es: "Generalmente es personal."
+    hint: "-mente · -al · es"
+    rule_ref: "L3#3, L3#7, L2#2, L2#7"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-014
+    type: sentence
+    tier: extended
+    front_en: "Generally it's not personal."
+    back_es: "Generalmente no es personal."
+    hint: "-mente · -al · no es"
+    rule_ref: "L3#3, L3#7, L2#2, L2#9"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-015
+    type: sentence
+    tier: extended
+    front_en: "Normally it's social."
+    back_es: "Normalmente es social."
+    hint: "-mente · -al · es"
+    rule_ref: "L3#3, L3#6, L2#2, L2#7"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-016
+    type: sentence
+    tier: extended
+    front_en: "Normally it's not central."
+    back_es: "Normalmente no es central."
+    hint: "-mente · -al · no es"
+    rule_ref: "L3#3, L3#6, L2#2, L2#9"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-017
+    type: sentence
+    tier: extended
+    front_en: "Globally it's cultural."
+    back_es: "Globalmente es cultural."
+    hint: "-mente · -al · es"
+    rule_ref: "L3#3, L2#2, L2#7"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-018
+    type: sentence
+    tier: extended
+    front_en: "Globally it's not normal."
+    back_es: "Globalmente no es normal."
+    hint: "-mente · -al · no es"
+    rule_ref: "L3#3, L2#2, L2#9"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-019
+    type: sentence
+    tier: extended
+    front_en: "Originally it's colonial."
+    back_es: "Originalmente es colonial."
+    hint: "-mente · -al · /-khi-/"
+    rule_ref: "L3#3, L3#7, L2#2, L2#7"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-020
+    type: sentence
+    tier: extended
+    front_en: "Originally it's not colonial."
+    back_es: "Originalmente no es colonial."
+    hint: "-mente · -al · no es"
+    rule_ref: "L3#3, L3#7, L2#2, L2#9"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  # ---------------- Adverb (L3) + -ante/-ente cognate (L3) — needs L2 es/no es ----------------
+  # Combines L3 manner-adverb with L3 -ante/-ente cognate; cross-lesson because of es/no es from L2.
+
+  - id: t01_03-021
+    type: sentence
+    tier: extended
+    front_en: "Normally it's different."
+    back_es: "Normalmente es diferente."
+    hint: "-mente · -ent→-ente · es"
+    rule_ref: "L3#3, L3#6, L3#1, L2#7"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-022
+    type: sentence
+    tier: extended
+    front_en: "Normally it's not different."
+    back_es: "Normalmente no es diferente."
+    hint: "-mente · -ente · no es"
+    rule_ref: "L3#3, L3#6, L3#1, L2#9"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-023
+    type: sentence
+    tier: extended
+    front_en: "Naturally it's elegant."
+    back_es: "Naturalmente es elegante."
+    hint: "-mente · -ant→-ante · es"
+    rule_ref: "L3#3, L3#1, L2#7"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-024
+    type: sentence
+    tier: extended
+    front_en: "Generally it's evident."
+    back_es: "Generalmente es evidente."
+    hint: "-mente · -ente · /khe-/"
+    rule_ref: "L3#3, L3#7, L3#1, L2#7"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-025
+    type: sentence
+    tier: extended
+    front_en: "Generally it's not evident."
+    back_es: "Generalmente no es evidente."
+    hint: "-mente · -ente · no es"
+    rule_ref: "L3#3, L3#7, L3#1, L2#9"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-026
+    type: sentence
+    tier: extended
+    front_en: "Probably it's permanent."
+    back_es: "Probablemente es permanente."
+    hint: "-mente · -ente · es"
+    rule_ref: "L3#3, L3#8, L3#1, L2#7"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-027
+    type: sentence
+    tier: extended
+    front_en: "Probably it's not permanent."
+    back_es: "Probablemente no es permanente."
+    hint: "-mente · -ente · no es"
+    rule_ref: "L3#3, L3#8, L3#1, L2#9"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-028
+    type: sentence
+    tier: extended
+    front_en: "Really it's urgent."
+    back_es: "Realmente es urgente."
+    hint: "-mente · /-khen-/ · es"
+    rule_ref: "L3#3, L3#4, L3#7, L3#1, L2#7"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-029
+    type: sentence
+    tier: extended
+    front_en: "Really it's not urgent."
+    back_es: "Realmente no es urgente."
+    hint: "-mente · /-khen-/ · no es"
+    rule_ref: "L3#3, L3#4, L3#7, L3#1, L2#9"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-030
+    type: sentence
+    tier: extended
+    front_en: "Possibly it's sufficient."
+    back_es: "Posiblemente es suficiente."
+    hint: "-mente · -ente · es"
+    rule_ref: "L3#3, L3#8, L3#1, L2#7"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  # ---------------- Adverb (L3) + -ible/-able cognate (L3) + es/no es (L2) ----------------
+
+  - id: t01_03-031
+    type: sentence
+    tier: extended
+    front_en: "Generally it's possible."
+    back_es: "Generalmente es posible."
+    hint: "-mente · -ible · /khe-/"
+    rule_ref: "L3#3, L3#7, L3#8, L2#7"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-032
+    type: sentence
+    tier: extended
+    front_en: "Generally it's not possible."
+    back_es: "Generalmente no es posible."
+    hint: "-mente · -ible · no es"
+    rule_ref: "L3#3, L3#7, L3#8, L2#9"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-033
+    type: sentence
+    tier: extended
+    front_en: "Naturally it's flexible."
+    back_es: "Naturalmente es flexible."
+    hint: "-mente · -ible · es"
+    rule_ref: "L3#3, L3#8, L2#7"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-034
+    type: sentence
+    tier: extended
+    front_en: "Really it's terrible."
+    back_es: "Realmente es terrible."
+    hint: "-mente · -ible · rolled r"
+    rule_ref: "L3#3, L3#4, L3#8, L2#7"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-035
+    type: sentence
+    tier: extended
+    front_en: "Really it's not horrible."
+    back_es: "Realmente no es horrible."
+    hint: "-mente · -ible · no es"
+    rule_ref: "L3#3, L3#4, L3#8, L2#9"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-036
+    type: sentence
+    tier: extended
+    front_en: "Probably it's impossible."
+    back_es: "Probablemente es imposible."
+    hint: "-mente · -ible · es"
+    rule_ref: "L3#3, L3#8, L2#7"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-037
+    type: sentence
+    tier: extended
+    front_en: "Possibly it's incredible."
+    back_es: "Posiblemente es increíble."
+    hint: "-mente · -íble · es"
+    rule_ref: "L3#3, L3#8, L2#7"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
+
+  - id: t01_03-038
+    type: sentence
+    tier: extended
+    front_en: "Generally it's responsible."
+    back_es: "Generalmente es responsable."
+    hint: "-mente · -able (not -ible)"
+    rule_ref: "L3#3, L3#7, L3#8, L2#7"
+    lessons: [2, 3]
+    directions: [en_es, es_en, shadow]
