@@ -32,5 +32,8 @@ stories: validate-stories
 all: anki cards-json audio stories
 
 clean:
-	rm -rf dist/*.apkg dist/*.json audio/lesson_*.mp3 audio/stories/*.mp3
-	# preserves audio/.cache/ — costly TTS fragments
+	@# Use `trash` instead of rm -rf — sends files to macOS Trash so deletes are recoverable.
+	@# Preserves audio/.cache/ (costly TTS fragments).
+	@for f in dist/*.apkg dist/*.json audio/lesson_*.mp3 audio/stories/*.mp3; do \
+		[ -e "$$f" ] && trash "$$f" || true; \
+	done

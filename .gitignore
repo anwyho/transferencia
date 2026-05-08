@@ -18,3 +18,6 @@ build/.pytest_cache/
 
 # secrets
 .env
+
+# project-local trash for safe deletes (use `trash` CLI or move-to-.trash/ instead of rm -rf)
+.trash/

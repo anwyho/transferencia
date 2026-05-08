@@ -2,6 +2,15 @@
 
 Notes captured during the initial implementation pass (`feature/flashcards-stories-system`). Anything that deviated from the plan or surprised the runtime ends up here.
 
+## Deletes: use `trash`, not `rm -rf`
+
+We never delete with `rm -rf` in this repo. Two options for getting files out of the way:
+
+1. **`trash <path>`** — system CLI at `/usr/bin/trash` on macOS, sends files to the macOS Trash so they're recoverable. Preferred for files you genuinely want gone.
+2. **`.trash/`** — project-local folder (gitignored) for staging things you might want close at hand. `mv path .trash/$(date +%s)-name` is the idiom. Good for build outputs, caches, half-experiments.
+
+The `Makefile` `clean` target uses `trash` for this reason. Also lets autonomous agents do cleanup without stopping for approval, since `trash` is reversible.
+
 ## Python version
 
 The plan's `Makefile` defaults to `python3.11`. Local development on this Mac happens with Python 3.14, so most of the implementation runs with `make PYTHON=.venv/bin/python <target>` against a `.venv/` virtualenv. Both work — the pin is overridable via the `PYTHON` make variable. If 3.11 is later installed, no changes needed.
