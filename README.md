@@ -33,6 +33,41 @@ Three outputs feeding the same source-of-truth markdown:
 
 The cards live in `lesson_NN/cards.yml` (anchored to one lesson) or `cards_topical/topic_NN_MM_*.yml` (spanning multiple). Stories live in `stories/topic_NN_MM_<theme>/`. Everything feeds the same generators.
 
+## Getting started
+
+```bash
+# Install Python deps
+make install
+
+# Download Piper voices (~100 MB)
+build/scripts/fetch_piper_voices.sh
+
+# Build everything
+make all
+
+# Outputs:
+#   dist/transferencia.apkg                     → import into Anki
+#   dist/cards.json                             → flat dump for Phase 2 / iOS Shortcut
+#   audio/lesson_NN.mp3                         → cumulative drill tracks
+#   audio/stories/topic_*__*.mp3                → story narration tracks
+```
+
+If `python3.11` isn't on your PATH, override with `make PYTHON=python3 install` and use a virtualenv:
+
+```bash
+python3 -m venv .venv
+.venv/bin/pip install -r build/requirements.txt
+make PYTHON=.venv/bin/python install   # or any other make target
+```
+
+Useful targets while iterating:
+
+- `make validate` — parse all card YAML
+- `make validate-stories` — parse and budget-check stories
+- `make anki` — build `dist/transferencia.apkg`
+- `make audio-quick` — build `audio/lesson_03.mp3` via macOS `say` (fast smoke test)
+- `make stories` — build `audio/stories/topic_*__*.mp3`
+
 ## Pedagogy
 
 Following Language Transfer's method:
@@ -48,13 +83,23 @@ See [docs/learning-system.md](docs/learning-system.md) for full design.
 
 - ✅ Lesson rules + transcripts: 90/90
 - ✅ Cross-references map: complete
-- 🚧 Card system: in design (initial scope: lessons 1-22)
-- 🚧 Story system: in design (40 stories: 5 per bundle for L1-22)
-- ⏳ Anki + MP3 generators: not yet built
+- ✅ Card system infrastructure: schema, parser, validator, Anki generator, MP3 generator (cards mode + stories mode), Piper + macOS TTS adapters
+- ✅ Bundle A content: lesson_02/03 cards + topical bundle + 5 stories (lesson 1 has no Spanish content, skipped by design)
+- 🚧 Bundles B-H content (cards): rolling effort
+- 🚧 Bundles B-H content (stories): rolling effort
 
 ## Daily routine
 
 Target: 5-20 min flashcards + 20-40 min audio (drill or story) per day. See [docs/study-routine.md](docs/study-routine.md).
+
+## Sync to phone
+
+For now, the simplest path:
+
+1. Drag `dist/transferencia.apkg` to Anki desktop, then sync to AnkiWeb. AnkiMobile pulls it automatically.
+2. Drag `audio/lesson_*.mp3` and `audio/stories/*.mp3` into an iCloud Drive folder. Open them from Files on iPhone. CarPlay / Bluetooth play directly.
+
+A private podcast feed is a future option for incremental auto-sync.
 
 ## Source
 
