@@ -45,8 +45,7 @@ def main(argv: list[str] | None = None) -> int:
         return 0
 
     if args.stories:
-        print("(story mode lands in Task 22)", file=sys.stderr)
-        return 0
+        return _run_stories_mode(repo, audio_dir, cache_dir, args)
 
     tts = make_tts(
         args.backend, cache_dir=cache_dir,
@@ -75,6 +74,51 @@ def _resolve_card_targets(cards: list, args) -> list[int]:
     if args.all_tracks:
         return list(range(1, max_lesson + 1))
     return [max_lesson] if max_lesson else []
+
+
+def _slug(s: str) -> str:
+    import re as _re
+    return _re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
+
+
+def _run_stories_mode(repo: Path, audio_dir: Path, cache_dir: Path, args) -> int:
+    from build.lib.story import load_story_file
+    from build.lib.audio import render_story_track
+
+    stories_root = repo / "stories"
+    if not stories_root.is_dir():
+        print("No stories/ directory; nothing to do.")
+        return 0
+
+    if args.bundle:
+        bundles = [stories_root / args.bundle]
+        if not bundles[0].is_dir():
+            print(f"No bundle dir: {bundles[0]}", file=sys.stderr)
+            return 1
+    else:
+        bundles = sorted(p for p in stories_root.iterdir() if p.is_dir() and p.name.startswith("topic_"))
+
+    tts = make_tts(
+        args.backend, cache_dir=cache_dir,
+        voice_es=args.voice_es, voice_en=args.voice_en,
+    )
+
+    out_root = audio_dir / "stories"
+    n = 0
+    for bundle_dir in bundles:
+        topic_slug = bundle_dir.name
+        for story_path in sorted(bundle_dir.glob("*.md")):
+            story = load_story_file(story_path)
+            slug = _slug(story.title_en or story.title)
+            out = out_root / f"{topic_slug}__{story.order:02d}_{slug}.mp3"
+            render_story_track(
+                story.spanish_paragraphs, tts=tts, dst=out,
+                pace=max(args.pace, 1.15),  # stories default slower
+            )
+            print(f"Wrote {out}")
+            n += 1
+    print(f"Rendered {n} story tracks")
+    return 0
 
 
 if __name__ == "__main__":

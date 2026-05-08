@@ -116,3 +116,27 @@ def render_card_track(
     dst.parent.mkdir(parents=True, exist_ok=True)
     work.export(str(dst), format="mp3", bitrate="96k")
     return dst
+
+
+def render_story_track(
+    paragraphs: list[list[str]],
+    *,
+    tts,
+    dst: Path,
+    pace: float = 1.15,
+    paragraph_pause: float = 1.5,
+) -> Path:
+    """Render Spanish-only story narration. One TTS call per Spanish line."""
+    work = AudioSegment.empty()
+    for i, paragraph in enumerate(paragraphs):
+        for line in paragraph:
+            line_wav = tts.synth(line, "es", pace=pace)
+            work += AudioSegment.from_file(str(line_wav))
+            work += AudioSegment.silent(duration=300)  # tiny gap between lines
+        if i + 1 < len(paragraphs):
+            work += AudioSegment.silent(duration=int(paragraph_pause * 1000))
+
+    work = work.set_channels(1)
+    dst.parent.mkdir(parents=True, exist_ok=True)
+    work.export(str(dst), format="mp3", bitrate="96k")
+    return dst
