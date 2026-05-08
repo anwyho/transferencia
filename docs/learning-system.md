@@ -94,12 +94,26 @@ Produces `audio/lesson_NN.mp3` (cumulative — track NN includes every card whos
 - TTS adapter defaults to [Piper](https://github.com/rhasspy/piper) — free, on-device, Apache 2.0, with strong Spanish neural voices. Optional paid backends (OpenAI, Azure) plug in via the same adapter interface. macOS `say` kept as offline emergency fallback. See [tts-plan.md](tts-plan.md).
 - Tracks land in `audio/`, gitignored. Sync to iPhone via iCloud Drive / Files / a private podcast feed; play in CarPlay.
 
+### `generate_audio.py --stories`
+
+Same generator, different mode. Produces `audio/stories/<topic_slug>__<NN>_<title-slug>.mp3` from the markdown stories under `stories/<topic_slug>/`. Pure Spanish narration, slower pace (`length_scale=1.15`), 1.5s paragraph gaps.
+
+See [stories.md](stories.md) for the full story system design.
+
 ### Phase 2: interactive mic-based drilling (planned, not initial scope)
 
 An Apple Shortcut consumes a generated `cards.json`, speaks a prompt, opens dictation for your spoken answer, fuzzy-compares (accent-strip + Levenshtein), speaks the correct answer, and loops. CarPlay-runnable via "Hey Siri, Spanish drill". Same source, different consumer.
 
 ChatGPT/Claude voice mode with `cards.md` pasted into a Project / Custom GPT also works as a zero-build escape hatch.
 
+## Stories complement cards
+
+Cards drill production at a fast pace. Stories drill comprehension at a natural pace. Each bundle gets 5 short Spanish stories with a literal-gloss layer that reveals Spanish syntax rather than smoothing it over. See [stories.md](stories.md).
+
+## Daily routine
+
+Target: 5-20 min flashcards + 20-40 min audio (drill or story) per day. See [study-routine.md](study-routine.md) for the suggested weekly rhythm.
+
 ## Initial scope
 
-Lessons 1-22, organized into 8 topical bundles. ~2000-2500 cards total. See [lesson-bundles.md](lesson-bundles.md).
+Lessons 1-22, organized into 8 topical bundles. ~2000-2500 cards + 40 stories total. See [lesson-bundles.md](lesson-bundles.md).
