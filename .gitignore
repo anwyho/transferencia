@@ -1,0 +1,20 @@
+# generated audio
+audio/lesson_*.mp3
+audio/stories/
+audio/.cache/
+audio/eval/
+
+# generated builds
+dist/
+
+# Piper voice models
+build/.piper-voices/
+
+# Python
+build/__pycache__/
+build/**/__pycache__/
+build/.pytest_cache/
+.venv/
+
+# secrets
+.env
