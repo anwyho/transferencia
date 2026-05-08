@@ -1,4 +1,4 @@
-.PHONY: install test validate validate-stories anki cards-json audio audio-quick stories all clean
+.PHONY: install test validate validate-stories anki anki-with-audio cards-json audio audio-quick stories all clean
 
 PYTHON ?= python3.11
 
@@ -16,6 +16,9 @@ validate-stories:
 
 anki: validate
 	$(PYTHON) build/generate_anki.py --out dist/transferencia.apkg
+
+anki-with-audio: validate
+	$(PYTHON) build/generate_anki.py --out dist/transferencia.apkg --with-audio --audio-bitrate 48k
 
 cards-json: validate
 	$(PYTHON) build/generate_anki.py --export-json dist/cards.json

@@ -26,6 +26,14 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--out", default="dist/transferencia.apkg", help="Output .apkg path")
     parser.add_argument("--export-json", default=None, help="Also dump cards.json")
     parser.add_argument("--validate-only", action="store_true", help="Validate only, no output")
+    parser.add_argument("--with-audio", action="store_true",
+                        help="Embed Spanish-answer mp3 audio in en_es cards")
+    parser.add_argument("--audio-bitrate", default="48k",
+                        help="MP3 bitrate for embedded audio (default: 48k)")
+    parser.add_argument("--audio-backend", default=None,
+                        help="TTS backend for embedded audio (piper | mac_say). Defaults to TTS_BACKEND env.")
+    parser.add_argument("--media-dir", default=None,
+                        help="Directory for per-card audio (default: <repo>/audio/.media)")
     args = parser.parse_args(argv)
 
     repo = Path(args.repo).resolve()
@@ -54,10 +62,36 @@ def main(argv: list[str] | None = None) -> int:
     if args.validate_only:
         return 0
 
+    audio_for: dict[str, str] = {}
+    media_paths: list[Path] = []
+    if args.with_audio:
+        from build.lib.audio import encode_card_audio
+        from build.lib.tts.factory import make_tts
+        from build.lib.types import Direction
+
+        media_dir = Path(args.media_dir) if args.media_dir else (repo / "audio" / ".media")
+        media_dir.mkdir(parents=True, exist_ok=True)
+        cache_dir = repo / "audio" / ".cache"
+        tts = make_tts(args.audio_backend, cache_dir=cache_dir)
+        en_es_cards = [c for c in cards if Direction.EN_ES in c.directions]
+        print(f"Generating audio for {len(en_es_cards)} en_es cards "
+              f"({args.audio_bitrate} mp3 via {tts.backend_id.split(':',1)[0]})...")
+        for i, card in enumerate(en_es_cards, start=1):
+            filename = f"card_{card.id}_es.mp3"
+            dst = media_dir / filename
+            encode_card_audio(card.back_es, "es", tts=tts, dst=dst,
+                              bitrate=args.audio_bitrate)
+            audio_for[card.id] = filename
+            media_paths.append(dst)
+            if i % 50 == 0:
+                print(f"  {i}/{len(en_es_cards)}")
+        print(f"Audio: {len(media_paths)} fragments in {media_dir}")
+
     from build.lib.anki import build_package
     out = Path(args.out)
-    build_package(cards, out)
-    print(f"Wrote {out}")
+    build_package(cards, out, audio_for=audio_for or None,
+                  media_paths=media_paths or None)
+    print(f"Wrote {out} ({out.stat().st_size // 1024} KB)")
     return 0
 
 

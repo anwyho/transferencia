@@ -8,8 +8,9 @@ import genanki
 
 from build.lib.types import Card, CardType, Direction, Tier
 
-# Stable id baked once. Never change.
-MODEL_ID = 1735000001
+# Stable id. Bumped from 1735000001 → ...002 when AudioEs field was added
+# (early enough that no real review history existed yet). Never change again.
+MODEL_ID = 1735000002
 DECK_ID_BASE = 1735000100  # subdeck ids derived from base + hash
 
 
@@ -47,6 +48,7 @@ _AFMT_EN_ES = (
     '<div class="english">{{FrontEn}}</div>'
     '<hr>'
     '<div class="spanish">{{BackEs}}</div>'
+    '{{#AudioEs}}{{AudioEs}}{{/AudioEs}}'
     '<div class="rule-ref">{{RuleRef}}</div>'
 )
 _QFMT_ES_EN = (
@@ -73,6 +75,7 @@ MODEL = genanki.Model(
         {"name": "Tier"},
         {"name": "DirEnEs"},
         {"name": "DirEsEn"},
+        {"name": "AudioEs"},
     ],
     templates=[
         _tmpl("EN→ES", "DirEnEs", _QFMT_EN_ES, _AFMT_EN_ES),
@@ -100,9 +103,15 @@ def _rule_tags(rule_ref: str) -> list[str]:
     return out
 
 
-def build_note(card: Card) -> genanki.Note:
-    """Build a single Anki note from a Card."""
+def build_note(card: Card, *, audio_filename: str | None = None) -> genanki.Note:
+    """Build a single Anki note from a Card.
+
+    If `audio_filename` is given, the note's AudioEs field is set to
+    `[sound:filename]` so Anki plays the embedded mp3 when the card flips.
+    Otherwise AudioEs is empty (no audio).
+    """
     dirs = set(d.value for d in card.directions)
+    audio_field = f"[sound:{audio_filename}]" if audio_filename else ""
     fields = [
         card.id,
         card.front_en,
@@ -113,6 +122,7 @@ def build_note(card: Card) -> genanki.Note:
         card.tier.value,
         "1" if "en_es" in dirs else "",
         "1" if "es_en" in dirs else "",
+        audio_field,
     ]
 
     tags: list[str] = []
@@ -174,8 +184,22 @@ def deck_name_for_card(card: Card) -> str:
     return f"Transferencia::Lesson {card.lessons[0]:02d}"
 
 
-def build_package(cards: list[Card], out_path: Path) -> None:
-    """Build the .apkg from a list of Card objects."""
+def build_package(
+    cards: list[Card],
+    out_path: Path,
+    *,
+    audio_for: dict[str, str] | None = None,
+    media_paths: list[Path] | None = None,
+) -> None:
+    """Build the .apkg from a list of Card objects.
+
+    `audio_for` maps card.id → media filename (e.g. {"l3-001": "card_l3-001_es.mp3"}).
+    Cards with an entry get a `[sound:...]` reference embedded in the AudioEs field.
+
+    `media_paths` is the list of actual file paths to bundle into the .apkg's
+    media collection. Should match the filenames in `audio_for.values()`.
+    """
+    audio_for = audio_for or {}
     decks_by_name: dict[str, genanki.Deck] = {}
     for card in cards:
         deck_name = deck_name_for_card(card)
@@ -184,8 +208,12 @@ def build_package(cards: list[Card], out_path: Path) -> None:
                 int(hashlib.sha1(deck_name.encode()).hexdigest()[:8], 16) % 10_000_000
             )
             decks_by_name[deck_name] = genanki.Deck(deck_id, deck_name)
-        decks_by_name[deck_name].add_note(build_note(card))
+        decks_by_name[deck_name].add_note(
+            build_note(card, audio_filename=audio_for.get(card.id))
+        )
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
     pkg = genanki.Package(list(decks_by_name.values()))
+    if media_paths:
+        pkg.media_files = [str(p) for p in media_paths]
     pkg.write_to_file(str(out_path))

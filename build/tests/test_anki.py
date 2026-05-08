@@ -22,7 +22,7 @@ def _sample_card(directions=None, tier=Tier.PRIMARY, type_=CardType.TRANSFORMATI
 def test_model_id_is_stable():
     """Tests that the model id is the constant we baked in. Changing this would
     invalidate every existing user's review history."""
-    assert MODEL_ID == 1735000001
+    assert MODEL_ID == 1735000002
 
 
 def test_build_note_field_count_matches_model():
@@ -36,6 +36,20 @@ def test_build_note_dir_flags_set():
     field_values = dict(zip(field_names, note.fields))
     assert field_values["DirEnEs"] == "1"
     assert field_values["DirEsEn"] == ""
+
+
+def test_build_note_no_audio_field_empty_by_default():
+    note = build_note(_sample_card())
+    field_names = [f["name"] for f in MODEL.fields]
+    field_values = dict(zip(field_names, note.fields))
+    assert field_values["AudioEs"] == ""
+
+
+def test_build_note_with_audio_filename_wraps_in_sound_tag():
+    note = build_note(_sample_card(), audio_filename="card_l3-001_es.mp3")
+    field_names = [f["name"] for f in MODEL.fields]
+    field_values = dict(zip(field_names, note.fields))
+    assert field_values["AudioEs"] == "[sound:card_l3-001_es.mp3]"
 
 
 def test_build_note_tag_set_per_card():
@@ -99,4 +113,25 @@ def test_build_package_writes_apkg(tmp_path):
     cards = [card]
     out = tmp_path / "x.apkg"
     build_package(cards, out)
+    assert out.exists() and out.stat().st_size > 0
+
+
+def test_build_package_with_media_files_embeds_audio(tmp_path):
+    from build.lib.anki import build_package
+    base = _sample_card()
+    card = Card(
+        id=base.id, type=base.type, tier=base.tier,
+        front_en=base.front_en, back_es=base.back_es,
+        rule_ref=base.rule_ref, lessons=base.lessons,
+        directions=base.directions, hint=base.hint,
+        source_file="lesson_03/cards.yml",
+    )
+    fake_audio = tmp_path / "card_l3-001_es.mp3"
+    fake_audio.write_bytes(b"\xff\xfb\x90\x00fake mp3 bytes")
+    out = tmp_path / "with_audio.apkg"
+    build_package(
+        [card], out,
+        audio_for={"l3-001": "card_l3-001_es.mp3"},
+        media_paths=[fake_audio],
+    )
     assert out.exists() and out.stat().st_size > 0

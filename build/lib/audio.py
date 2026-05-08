@@ -32,6 +32,21 @@ def encode_mp3(src_wav: Path, dst_mp3: Path, *, bitrate: str = "96k") -> Path:
     return dst_mp3
 
 
+def encode_card_audio(text: str, lang: str, *, tts, dst: Path, bitrate: str = "48k") -> Path:
+    """Synthesize `text` via `tts`, transcode to mono mp3 at `bitrate`, write to `dst`.
+
+    Idempotent: returns `dst` immediately if it already exists. Used by the Anki
+    pipeline to embed per-card audio without re-rendering on every build.
+    """
+    if dst.exists():
+        return dst
+    wav_path = tts.synth(text, lang)
+    seg = AudioSegment.from_file(str(wav_path)).set_channels(1)
+    dst.parent.mkdir(parents=True, exist_ok=True)
+    seg.export(str(dst), format="mp3", bitrate=bitrate)
+    return dst
+
+
 from dataclasses import dataclass
 
 from build.lib.types import Card, CardType, Direction
