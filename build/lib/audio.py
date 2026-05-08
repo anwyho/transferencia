@@ -79,3 +79,40 @@ def card_segments(card: Card) -> list[Segment]:
                 pause_seconds=max(pause - 1.0, 1.5),
             ))
     return out
+
+
+import random
+from typing import Iterable
+
+
+def render_card_track(
+    segments: Iterable[Segment],
+    *,
+    tts,
+    dst: Path,
+    seed: int,
+    pace: float = 1.0,
+    trailing_gap: float = 0.5,
+) -> Path:
+    """Render a list of segments into a single MP3 track.
+
+    Order is shuffled deterministically by `seed` so two runs of the same
+    track produce the same shuffle but different tracks vary.
+    """
+    seg_list = list(segments)
+    rng = random.Random(seed)
+    rng.shuffle(seg_list)
+
+    work = AudioSegment.empty()
+    for seg in seg_list:
+        prompt_wav = tts.synth(seg.prompt_text, seg.prompt_lang, pace=pace)
+        answer_wav = tts.synth(seg.answer_text, seg.answer_lang, pace=pace)
+        work += AudioSegment.from_file(str(prompt_wav))
+        work += AudioSegment.silent(duration=int(seg.pause_seconds * 1000))
+        work += AudioSegment.from_file(str(answer_wav))
+        work += AudioSegment.silent(duration=int(trailing_gap * 1000))
+
+    work = work.set_channels(1)
+    dst.parent.mkdir(parents=True, exist_ok=True)
+    work.export(str(dst), format="mp3", bitrate="96k")
+    return dst

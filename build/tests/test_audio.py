@@ -53,3 +53,31 @@ def test_card_segments_for_three_directions_emits_three(tmp_path):
     )
     segs = card_segments(card)
     assert {s.direction for s in segs} == {Direction.EN_ES, Direction.ES_EN, Direction.SHADOW}
+
+
+def test_render_track_assembles_segments(tmp_path, monkeypatch):
+    from build.lib.audio import render_card_track, Segment, silence
+    from build.lib.types import Direction
+    from pydub import AudioSegment
+
+    # A fake TTS that produces 0.5s of silence per request.
+    class FakeTTS:
+        backend_id = "fake"
+        def __init__(self):
+            self.calls = 0
+        def synth(self, text, lang, *, voice=None, pace=1.0):
+            self.calls += 1
+            f = tmp_path / f"frag_{self.calls}.wav"
+            return silence(0.5, f)
+
+    tts = FakeTTS()
+    segs = [
+        Segment("a", Direction.EN_ES, "hello", "en", "hola", "es", 1.0),
+        Segment("b", Direction.ES_EN, "hola", "es", "hello", "en", 1.0),
+    ]
+    out = render_card_track(segs, tts=tts, dst=tmp_path / "track.mp3", seed=42)
+    assert out.exists()
+    duration = AudioSegment.from_file(str(out)).duration_seconds
+    # 2 segments × (0.5 prompt + 1.0 pause + 0.5 answer + 0.5 trailing gap) = 5.0s ± slack
+    assert 4.0 < duration < 6.5
+    assert tts.calls == 4  # 2 segments × 2 calls each
