@@ -45,9 +45,8 @@ Every card declares which directions it supports:
 |-----------|-------|------|----------|
 | `en_es` | English prompt | Spanish answer | All cards. The mental-translation core. Production direction. |
 | `es_en` | Spanish prompt | English answer | All sentence + transformation cards. Recognition / listening. |
-| `shadow` | Spanish sentence | (same Spanish sentence) | Sentence cards only. Pronounce it back — pronunciation muscle memory. |
 
-In Anki, each direction is a separate card generated from the same note. In the audio tracks, all three directions get mixed into the same cumulative MP3 for variety.
+In Anki, each direction is a separate card generated from the same note. In the audio tracks, both directions get mixed into the same cumulative MP3 for variety.
 
 Conjugation cards are `en_es`-only (recognition would be trivial).
 
@@ -90,7 +89,7 @@ Produces `dist/transferencia.apkg`:
 Produces `audio/lesson_NN.mp3` (cumulative — track NN includes every card whose `max(lessons) ≤ NN`):
 
 - Per card: TTS English prompt → 4-6 second silent pause → TTS Spanish answer → 0.5s gap → next.
-- Mixes all three directions in a randomized order so you can't pattern-match.
+- Mixes both directions in a randomized order so you can't pattern-match.
 - TTS adapter defaults to [Piper](https://github.com/rhasspy/piper) — free, on-device, Apache 2.0, with strong Spanish neural voices. Optional paid backends (OpenAI, Azure) plug in via the same adapter interface. macOS `say` kept as offline emergency fallback. See [tts-plan.md](tts-plan.md).
 - Tracks land in `audio/`, gitignored. Sync to iPhone via iCloud Drive / Files / a private podcast feed; play in CarPlay.
 

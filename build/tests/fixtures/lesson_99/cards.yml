@@ -17,4 +17,4 @@ cards:
     back_es: "No es diferente."
     rule_ref: "L99#1"
     lessons: [99]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]

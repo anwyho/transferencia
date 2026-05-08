@@ -36,7 +36,7 @@ cards:
     hint: "-ación → -ar; quiero + infinitive"
     rule_ref: "L4#big-rule, L4#quiero"
     lessons: [4]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 ```
 
 ### Field reference
@@ -51,7 +51,7 @@ cards:
 | `hint` | string | no | Minimal nudge pointing at the rule, not giving the answer. Faded on the front. |
 | `rule_ref` | string | yes | Comma-separated `L<N>#<rule>` references into `rules.md`. Powers Anki footers and audio attribution. |
 | `lessons` | int[] | yes | Lessons whose grammar this card uses. Generator validates: cannot exceed the bundle's stated lessons; for extended cards, cannot reach into a later lesson. |
-| `directions` | enum[] | yes | Subset of `[en_es, es_en, shadow]`. Each direction generates one Anki card from the note and one slot in the audio track. |
+| `directions` | enum[] | yes | Subset of `[en_es, es_en]`. Each direction generates one Anki card from the note and one slot in the audio track. |
 | `notes` | string | no | Author commentary. Not rendered. |
 
 ## Card types
@@ -134,13 +134,13 @@ Front phrasing standard:
 |-----------|------------|-----------|----------------|
 | `en_es` | English | Spanish | TTS English prompt → pause → TTS Spanish |
 | `es_en` | Spanish | English | TTS Spanish prompt → pause → TTS English |
-| `shadow` | Spanish (full sentence) | Same Spanish sentence (so you can re-read after speaking) | TTS Spanish → pause → TTS Spanish again |
 
 Defaults:
 - All cards: `en_es`.
 - Sentences + transformations: also `es_en`.
-- Sentences only: also `shadow`.
 - Conjugations: `en_es` only.
+
+(An earlier design also included `shadow` — Spanish prompt repeated as Spanish answer, for pronunciation muscle memory. Removed: in practice it added bloat to the deck without enough learning value over `es_en`. The Spanish utterance already gets heard during `es_en` recognition.)
 
 ## Quality bar
 

@@ -58,14 +58,6 @@ _AFMT_ES_EN = (
     '<div class="english">{{FrontEn}}</div>'
     '<div class="rule-ref">{{RuleRef}}</div>'
 )
-_QFMT_SHADOW = (
-    '<div class="spanish">{{BackEs}}</div>'
-    '<div class="hint">(say it back)</div>'
-)
-_AFMT_SHADOW = (
-    '<div class="spanish">{{BackEs}}</div>'
-    '<div class="rule-ref">{{RuleRef}}</div>'
-)
 
 
 MODEL = genanki.Model(
@@ -81,12 +73,10 @@ MODEL = genanki.Model(
         {"name": "Tier"},
         {"name": "DirEnEs"},
         {"name": "DirEsEn"},
-        {"name": "DirShadow"},
     ],
     templates=[
         _tmpl("EN→ES", "DirEnEs", _QFMT_EN_ES, _AFMT_EN_ES),
         _tmpl("ES→EN", "DirEsEn", _QFMT_ES_EN, _AFMT_ES_EN),
-        _tmpl("Shadow", "DirShadow", _QFMT_SHADOW, _AFMT_SHADOW),
     ],
     css=_CSS,
 )
@@ -123,7 +113,6 @@ def build_note(card: Card) -> genanki.Note:
         card.tier.value,
         "1" if "en_es" in dirs else "",
         "1" if "es_en" in dirs else "",
-        "1" if "shadow" in dirs else "",
     ]
 
     tags: list[str] = []

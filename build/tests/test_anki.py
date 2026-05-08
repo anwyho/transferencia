@@ -36,7 +36,6 @@ def test_build_note_dir_flags_set():
     field_values = dict(zip(field_names, note.fields))
     assert field_values["DirEnEs"] == "1"
     assert field_values["DirEsEn"] == ""
-    assert field_values["DirShadow"] == ""
 
 
 def test_build_note_tag_set_per_card():

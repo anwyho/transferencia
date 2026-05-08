@@ -20,7 +20,6 @@ class Tier(str, Enum):
 class Direction(str, Enum):
     EN_ES = "en_es"
     ES_EN = "es_en"
-    SHADOW = "shadow"
 
 
 @dataclass(frozen=True)

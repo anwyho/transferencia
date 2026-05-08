@@ -52,7 +52,9 @@ These remain on the user's end — the plan can't run them.
 | `audio/lesson_03.mp3` | ~44 MB | cumulative drill, 573 segments via `say` |
 | `audio/stories/*.mp3` | ~1 MB each | 5 Bundle A stories, ~5 min audio each |
 
-The cumulative drill track is large because every L2 + L3 + topical card is expanded into 1-3 segments per direction (en_es / es_en / shadow). That's expected; later bundles' tracks will be longer still. Piper voices at higher quality may produce different sizes.
+The cumulative drill track is large because every L2 + L3 + topical card is expanded into 1-2 segments (en_es and, for sentences/transformations, also es_en). That's expected; later bundles' tracks will be longer still. Piper voices at higher quality may produce different sizes.
+
+A `shadow` direction (Spanish→Spanish repeat) was originally part of the design and shipped briefly. Removed after a first pass through the cards — added bloat without enough learning value. See the deletion in the diff that removed `Direction.SHADOW`.
 
 ## Remaining open items
 

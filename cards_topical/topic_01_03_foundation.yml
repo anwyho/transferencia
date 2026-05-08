@@ -12,7 +12,7 @@ cards:
     hint: "-ly→-mente · -al · es"
     rule_ref: "L3#3, L3#6, L2#2, L2#7"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-002
     type: sentence
@@ -22,7 +22,7 @@ cards:
     hint: "-mente · -al · no es"
     rule_ref: "L3#3, L3#6, L2#2, L2#9"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-003
     type: sentence
@@ -32,7 +32,7 @@ cards:
     hint: "-mente · -al · /khe-/"
     rule_ref: "L3#3, L3#7, L2#2, L2#7"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-004
     type: sentence
@@ -42,7 +42,7 @@ cards:
     hint: "-mente · -al · no es"
     rule_ref: "L3#3, L3#7, L2#2, L2#9"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-005
     type: sentence
@@ -52,7 +52,7 @@ cards:
     hint: "-mente · -al · es"
     rule_ref: "L3#3, L2#2, L2#7"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-006
     type: sentence
@@ -62,7 +62,7 @@ cards:
     hint: "-mente · ilegal · no es"
     rule_ref: "L3#3, L2#2, L2#9"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-007
     type: sentence
@@ -72,7 +72,7 @@ cards:
     hint: "-mente · rolled r · -al · es"
     rule_ref: "L3#3, L3#4, L2#2, L2#7"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-008
     type: sentence
@@ -82,7 +82,7 @@ cards:
     hint: "-mente · -al · no es"
     rule_ref: "L3#3, L3#4, L2#2, L2#9"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-009
     type: sentence
@@ -92,7 +92,7 @@ cards:
     hint: "-mente · -al · es"
     rule_ref: "L3#3, L3#8, L2#2, L2#7"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-010
     type: sentence
@@ -102,7 +102,7 @@ cards:
     hint: "-mente · -al · no es"
     rule_ref: "L3#3, L3#8, L2#2, L2#9"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-011
     type: sentence
@@ -112,7 +112,7 @@ cards:
     hint: "-mente · -al · es"
     rule_ref: "L3#3, L3#8, L2#2, L2#7"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-012
     type: sentence
@@ -122,7 +122,7 @@ cards:
     hint: "-mente · -al · no es"
     rule_ref: "L3#3, L3#8, L2#2, L2#9"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-013
     type: sentence
@@ -132,7 +132,7 @@ cards:
     hint: "-mente · -al · es"
     rule_ref: "L3#3, L3#7, L2#2, L2#7"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-014
     type: sentence
@@ -142,7 +142,7 @@ cards:
     hint: "-mente · -al · no es"
     rule_ref: "L3#3, L3#7, L2#2, L2#9"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-015
     type: sentence
@@ -152,7 +152,7 @@ cards:
     hint: "-mente · -al · es"
     rule_ref: "L3#3, L3#6, L2#2, L2#7"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-016
     type: sentence
@@ -162,7 +162,7 @@ cards:
     hint: "-mente · -al · no es"
     rule_ref: "L3#3, L3#6, L2#2, L2#9"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-017
     type: sentence
@@ -172,7 +172,7 @@ cards:
     hint: "-mente · -al · es"
     rule_ref: "L3#3, L2#2, L2#7"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-018
     type: sentence
@@ -182,7 +182,7 @@ cards:
     hint: "-mente · -al · no es"
     rule_ref: "L3#3, L2#2, L2#9"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-019
     type: sentence
@@ -192,7 +192,7 @@ cards:
     hint: "-mente · -al · /-khi-/"
     rule_ref: "L3#3, L3#7, L2#2, L2#7"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-020
     type: sentence
@@ -202,7 +202,7 @@ cards:
     hint: "-mente · -al · no es"
     rule_ref: "L3#3, L3#7, L2#2, L2#9"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   # ---------------- Adverb (L3) + -ante/-ente cognate (L3) — needs L2 es/no es ----------------
   # Combines L3 manner-adverb with L3 -ante/-ente cognate; cross-lesson because of es/no es from L2.
@@ -215,7 +215,7 @@ cards:
     hint: "-mente · -ent→-ente · es"
     rule_ref: "L3#3, L3#6, L3#1, L2#7"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-022
     type: sentence
@@ -225,7 +225,7 @@ cards:
     hint: "-mente · -ente · no es"
     rule_ref: "L3#3, L3#6, L3#1, L2#9"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-023
     type: sentence
@@ -235,7 +235,7 @@ cards:
     hint: "-mente · -ant→-ante · es"
     rule_ref: "L3#3, L3#1, L2#7"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-024
     type: sentence
@@ -245,7 +245,7 @@ cards:
     hint: "-mente · -ente · /khe-/"
     rule_ref: "L3#3, L3#7, L3#1, L2#7"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-025
     type: sentence
@@ -255,7 +255,7 @@ cards:
     hint: "-mente · -ente · no es"
     rule_ref: "L3#3, L3#7, L3#1, L2#9"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-026
     type: sentence
@@ -265,7 +265,7 @@ cards:
     hint: "-mente · -ente · es"
     rule_ref: "L3#3, L3#8, L3#1, L2#7"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-027
     type: sentence
@@ -275,7 +275,7 @@ cards:
     hint: "-mente · -ente · no es"
     rule_ref: "L3#3, L3#8, L3#1, L2#9"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-028
     type: sentence
@@ -285,7 +285,7 @@ cards:
     hint: "-mente · /-khen-/ · es"
     rule_ref: "L3#3, L3#4, L3#7, L3#1, L2#7"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-029
     type: sentence
@@ -295,7 +295,7 @@ cards:
     hint: "-mente · /-khen-/ · no es"
     rule_ref: "L3#3, L3#4, L3#7, L3#1, L2#9"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-030
     type: sentence
@@ -305,7 +305,7 @@ cards:
     hint: "-mente · -ente · es"
     rule_ref: "L3#3, L3#8, L3#1, L2#7"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   # ---------------- Adverb (L3) + -ible/-able cognate (L3) + es/no es (L2) ----------------
 
@@ -317,7 +317,7 @@ cards:
     hint: "-mente · -ible · /khe-/"
     rule_ref: "L3#3, L3#7, L3#8, L2#7"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-032
     type: sentence
@@ -327,7 +327,7 @@ cards:
     hint: "-mente · -ible · no es"
     rule_ref: "L3#3, L3#7, L3#8, L2#9"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-033
     type: sentence
@@ -337,7 +337,7 @@ cards:
     hint: "-mente · -ible · es"
     rule_ref: "L3#3, L3#8, L2#7"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-034
     type: sentence
@@ -347,7 +347,7 @@ cards:
     hint: "-mente · -ible · rolled r"
     rule_ref: "L3#3, L3#4, L3#8, L2#7"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-035
     type: sentence
@@ -357,7 +357,7 @@ cards:
     hint: "-mente · -ible · no es"
     rule_ref: "L3#3, L3#4, L3#8, L2#9"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-036
     type: sentence
@@ -367,7 +367,7 @@ cards:
     hint: "-mente · -ible · es"
     rule_ref: "L3#3, L3#8, L2#7"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-037
     type: sentence
@@ -377,7 +377,7 @@ cards:
     hint: "-mente · -íble · es"
     rule_ref: "L3#3, L3#8, L2#7"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   - id: t01_03-038
     type: sentence
@@ -387,4 +387,4 @@ cards:
     hint: "-mente · -able (not -ible)"
     rule_ref: "L3#3, L3#7, L3#8, L2#7"
     lessons: [2, 3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]

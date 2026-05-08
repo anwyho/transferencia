@@ -19,7 +19,7 @@ def test_load_lesson_card_file(fixtures_dir):
 
     c2 = cards[1]
     assert c2.type == CardType.SENTENCE
-    assert Direction.SHADOW in c2.directions
+    assert Direction.ES_EN in c2.directions
 
 
 def test_load_card_file_with_missing_required_field_raises(tmp_path):

@@ -71,13 +71,6 @@ def card_segments(card: Card) -> list[Segment]:
                 answer_text=card.front_en, answer_lang="en",
                 pause_seconds=pause,
             ))
-        elif direction == Direction.SHADOW:
-            out.append(Segment(
-                card_id=card.id, direction=direction,
-                prompt_text=card.back_es, prompt_lang="es",
-                answer_text=card.back_es, answer_lang="es",
-                pause_seconds=max(pause - 1.0, 1.5),
-            ))
     return out
 
 

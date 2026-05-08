@@ -209,7 +209,7 @@ cards:
     back_es: "Es importante."
     rule_ref: "L3#1, L2#7"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-024
     type: sentence
     tier: primary
@@ -217,7 +217,7 @@ cards:
     back_es: "No es importante."
     rule_ref: "L3#1, L2#9"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-025
     type: sentence
     tier: primary
@@ -225,7 +225,7 @@ cards:
     back_es: "No es diferente."
     rule_ref: "L3#1, L2#9"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-026
     type: sentence
     tier: primary
@@ -233,7 +233,7 @@ cards:
     back_es: "Es constante."
     rule_ref: "L3#1, L2#7"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-027
     type: sentence
     tier: primary
@@ -241,7 +241,7 @@ cards:
     back_es: "Normalmente es importante."
     rule_ref: "L3#3, L3#6, L2#7"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-028
     type: sentence
     tier: primary
@@ -249,7 +249,7 @@ cards:
     back_es: "Naturalmente es original."
     rule_ref: "L3#3, L3#7, L2#7"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-029
     type: sentence
     tier: primary
@@ -257,7 +257,7 @@ cards:
     back_es: "Posiblemente es original."
     rule_ref: "L3#3, L3#7, L3#8, L2#7"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
 
   # ---------------- EXTENDED: more -ante / -ente cognates ----------------
   - id: l3-030
@@ -653,7 +653,7 @@ cards:
     back_es: "Es posible."
     rule_ref: "L3#8, L2#7"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-073
     type: sentence
     tier: extended
@@ -661,7 +661,7 @@ cards:
     back_es: "No es posible."
     rule_ref: "L3#8, L2#9"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-074
     type: sentence
     tier: extended
@@ -669,7 +669,7 @@ cards:
     back_es: "Es probable."
     rule_ref: "L3#8, L2#7"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-075
     type: sentence
     tier: extended
@@ -677,7 +677,7 @@ cards:
     back_es: "No es probable."
     rule_ref: "L3#8, L2#9"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-076
     type: sentence
     tier: extended
@@ -685,7 +685,7 @@ cards:
     back_es: "Es flexible."
     rule_ref: "L3#8, L2#7"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-077
     type: sentence
     tier: extended
@@ -693,7 +693,7 @@ cards:
     back_es: "Es terrible."
     rule_ref: "L3#8, L2#7"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-078
     type: sentence
     tier: extended
@@ -701,7 +701,7 @@ cards:
     back_es: "Es horrible."
     rule_ref: "L3#8, L2#7"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-079
     type: sentence
     tier: extended
@@ -709,7 +709,7 @@ cards:
     back_es: "Es increíble."
     rule_ref: "L3#8, L2#7"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-080
     type: sentence
     tier: extended
@@ -717,7 +717,7 @@ cards:
     back_es: "No es visible."
     rule_ref: "L3#8, L2#9"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-081
     type: sentence
     tier: extended
@@ -725,7 +725,7 @@ cards:
     back_es: "Es evidente."
     rule_ref: "L3#1, L2#7"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-082
     type: sentence
     tier: extended
@@ -733,7 +733,7 @@ cards:
     back_es: "No es evidente."
     rule_ref: "L3#1, L2#9"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-083
     type: sentence
     tier: extended
@@ -741,7 +741,7 @@ cards:
     back_es: "Es permanente."
     rule_ref: "L3#1, L2#7"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-084
     type: sentence
     tier: extended
@@ -749,7 +749,7 @@ cards:
     back_es: "No es permanente."
     rule_ref: "L3#1, L2#9"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-085
     type: sentence
     tier: extended
@@ -757,7 +757,7 @@ cards:
     back_es: "Es elegante."
     rule_ref: "L3#1, L2#7"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-086
     type: sentence
     tier: extended
@@ -765,7 +765,7 @@ cards:
     back_es: "Es interesante."
     rule_ref: "L3#1, L2#7"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-087
     type: sentence
     tier: extended
@@ -773,7 +773,7 @@ cards:
     back_es: "No es interesante."
     rule_ref: "L3#1, L2#9"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-088
     type: sentence
     tier: extended
@@ -781,7 +781,7 @@ cards:
     back_es: "Es urgente."
     rule_ref: "L3#1, L3#7, L2#7"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-089
     type: sentence
     tier: extended
@@ -789,7 +789,7 @@ cards:
     back_es: "No es urgente."
     rule_ref: "L3#1, L3#7, L2#9"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-090
     type: sentence
     tier: extended
@@ -797,7 +797,7 @@ cards:
     back_es: "Es inteligente."
     rule_ref: "L3#1, L3#7, L2#7"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-091
     type: sentence
     tier: extended
@@ -805,7 +805,7 @@ cards:
     back_es: "Es excelente."
     rule_ref: "L3#1, L2#7"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-092
     type: sentence
     tier: extended
@@ -813,7 +813,7 @@ cards:
     back_es: "Es suficiente."
     rule_ref: "L3#1, L2#7"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-093
     type: sentence
     tier: extended
@@ -821,7 +821,7 @@ cards:
     back_es: "No es suficiente."
     rule_ref: "L3#1, L2#9"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-094
     type: sentence
     tier: extended
@@ -829,7 +829,7 @@ cards:
     back_es: "Es general."
     rule_ref: "L3#7, L2#7"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-095
     type: sentence
     tier: extended
@@ -837,7 +837,7 @@ cards:
     back_es: "Es digital."
     rule_ref: "L3#7, L2#7"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-096
     type: sentence
     tier: extended
@@ -845,7 +845,7 @@ cards:
     back_es: "Es original."
     rule_ref: "L3#7, L2#7"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-097
     type: sentence
     tier: extended
@@ -853,7 +853,7 @@ cards:
     back_es: "No es original."
     rule_ref: "L3#7, L2#9"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-098
     type: sentence
     tier: extended
@@ -861,7 +861,7 @@ cards:
     back_es: "Generalmente es importante."
     rule_ref: "L3#3, L3#7, L3#1"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-099
     type: sentence
     tier: extended
@@ -869,7 +869,7 @@ cards:
     back_es: "Generalmente no es importante."
     rule_ref: "L3#3, L3#7, L2#9"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-100
     type: sentence
     tier: extended
@@ -877,7 +877,7 @@ cards:
     back_es: "Probablemente es legal."
     rule_ref: "L3#3, L3#8, L2#2"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-101
     type: sentence
     tier: extended
@@ -885,7 +885,7 @@ cards:
     back_es: "Probablemente no es legal."
     rule_ref: "L3#3, L3#8, L2#9"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-102
     type: sentence
     tier: extended
@@ -893,7 +893,7 @@ cards:
     back_es: "Posiblemente es importante."
     rule_ref: "L3#3, L3#8, L3#1"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-103
     type: sentence
     tier: extended
@@ -901,7 +901,7 @@ cards:
     back_es: "Realmente es normal."
     rule_ref: "L3#3, L3#4, L2#2"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-104
     type: sentence
     tier: extended
@@ -909,7 +909,7 @@ cards:
     back_es: "Naturalmente es natural."
     rule_ref: "L3#3, L2#2"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-105
     type: sentence
     tier: extended
@@ -917,7 +917,7 @@ cards:
     back_es: "Constantemente es diferente."
     rule_ref: "L3#3, L3#1"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-106
     type: sentence
     tier: extended
@@ -925,7 +925,7 @@ cards:
     back_es: "Normalmente es posible."
     rule_ref: "L3#3, L3#6, L3#8"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-107
     type: sentence
     tier: extended
@@ -933,7 +933,7 @@ cards:
     back_es: "Normalmente es flexible."
     rule_ref: "L3#6, L3#8"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]
   - id: l3-108
     type: sentence
     tier: extended
@@ -941,4 +941,4 @@ cards:
     back_es: "Globalmente es importante."
     rule_ref: "L3#3, L3#1"
     lessons: [3]
-    directions: [en_es, es_en, shadow]
+    directions: [en_es, es_en]

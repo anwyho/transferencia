@@ -41,7 +41,7 @@ def test_card_segments_for_en_es_only_emits_one_segment(tmp_path):
     assert segs[0].direction == Direction.EN_ES
 
 
-def test_card_segments_for_three_directions_emits_three(tmp_path):
+def test_card_segments_for_two_directions_emits_two(tmp_path):
     from build.lib.audio import card_segments
     from build.lib.types import Card, CardType, Direction, Tier
 
@@ -49,10 +49,10 @@ def test_card_segments_for_three_directions_emits_three(tmp_path):
         id="x", type=CardType.SENTENCE, tier=Tier.PRIMARY,
         front_en="It's important.", back_es="Es importante.",
         rule_ref="L3#1", lessons=[3],
-        directions=[Direction.EN_ES, Direction.ES_EN, Direction.SHADOW],
+        directions=[Direction.EN_ES, Direction.ES_EN],
     )
     segs = card_segments(card)
-    assert {s.direction for s in segs} == {Direction.EN_ES, Direction.ES_EN, Direction.SHADOW}
+    assert {s.direction for s in segs} == {Direction.EN_ES, Direction.ES_EN}
 
 
 def test_render_track_assembles_segments(tmp_path, monkeypatch):
