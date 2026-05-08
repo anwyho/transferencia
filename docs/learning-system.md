@@ -91,7 +91,7 @@ Produces `audio/lesson_NN.mp3` (cumulative — track NN includes every card whos
 
 - Per card: TTS English prompt → 4-6 second silent pause → TTS Spanish answer → 0.5s gap → next.
 - Mixes all three directions in a randomized order so you can't pattern-match.
-- TTS adapter supports OpenAI `tts-1` (Spanish voice: `nova` or `shimmer`), ElevenLabs (premium), or macOS `say -v Mónica` (free fallback).
+- TTS adapter defaults to [Piper](https://github.com/rhasspy/piper) — free, on-device, Apache 2.0, with strong Spanish neural voices. Optional paid backends (OpenAI, Azure) plug in via the same adapter interface. macOS `say` kept as offline emergency fallback. See [tts-plan.md](tts-plan.md).
 - Tracks land in `audio/`, gitignored. Sync to iPhone via iCloud Drive / Files / a private podcast feed; play in CarPlay.
 
 ### Phase 2: interactive mic-based drilling (planned, not initial scope)
