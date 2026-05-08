@@ -40,12 +40,40 @@ def main(argv: list[str] | None = None) -> int:
         return 2
 
     print(f"Loaded {len(cards)} cards from {repo}")
+
+    # JSON export (independent of validate-only / .apkg generation)
+    if args.export_json:
+        import json
+        export_path = Path(args.export_json)
+        export_path.parent.mkdir(parents=True, exist_ok=True)
+        export_path.write_text(
+            json.dumps([_card_to_dict(c) for c in cards], ensure_ascii=False, indent=2)
+        )
+        print(f"Wrote {export_path}")
+
     if args.validate_only:
         return 0
 
-    # .apkg generation lives in Task 11.
-    print("(.apkg generation not yet implemented - see Task 11)", file=sys.stderr)
+    from build.lib.anki import build_package
+    out = Path(args.out)
+    build_package(cards, out)
+    print(f"Wrote {out}")
     return 0
+
+
+def _card_to_dict(c) -> dict:
+    return {
+        "id": c.id,
+        "type": c.type.value,
+        "tier": c.tier.value,
+        "front_en": c.front_en,
+        "back_es": c.back_es,
+        "hint": c.hint,
+        "rule_ref": c.rule_ref,
+        "lessons": c.lessons,
+        "directions": [d.value for d in c.directions],
+        "notes": c.notes,
+    }
 
 
 if __name__ == "__main__":
