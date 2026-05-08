@@ -28,7 +28,7 @@ class PiperTTS:
         self.voice_es = voice_es
         self.voice_en = voice_en
         if not shutil.which("piper"):
-            raise RuntimeError("piper binary not on PATH; install via `brew install piper-tts`")
+            raise RuntimeError("piper binary not on PATH; install via `pip install piper-tts`")
         self.backend_id = f"piper:es={voice_es}|en={voice_en}"
 
     def _voice_path(self, voice_id: str) -> Path:
@@ -55,8 +55,8 @@ class PiperTTS:
             cmd = [
                 "piper",
                 "--model", str(self._voice_path(chosen)),
-                "--output_file", str(dst),
-                "--length_scale", f"{length_scale:.3f}",
+                "--output-file", str(dst),
+                "--length-scale", f"{length_scale:.3f}",
             ]
             subprocess.run(cmd, input=t, text=True, check=True, capture_output=True)
             return dst

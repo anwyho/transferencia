@@ -6,6 +6,20 @@ Notes captured during the initial implementation pass (`feature/flashcards-stori
 
 The plan's `Makefile` defaults to `python3.11`. Local development on this Mac happens with Python 3.14, so most of the implementation runs with `make PYTHON=.venv/bin/python <target>` against a `.venv/` virtualenv. Both work — the pin is overridable via the `PYTHON` make variable. If 3.11 is later installed, no changes needed.
 
+## Piper install
+
+Piper is **not** on Homebrew (despite the README's earlier hint). Install via pip instead:
+
+```bash
+.venv/bin/pip install piper-tts
+```
+
+The Piper binary lands at `.venv/bin/piper`. To pick it up via the adapter (which uses `shutil.which("piper")`), either activate the venv or prepend `.venv/bin` to `PATH`. The included `build/scripts/fetch_piper_voices.sh` then downloads the two default voices (`es_MX-claude-high`, `en_US-amy-medium`) from HuggingFace into `build/.piper-voices/` (~120 MB on disk).
+
+CLI flag note: Piper 1.4.x accepts `--output-file` and `--length-scale` (hyphenated). The original adapter used the underscored form for `--length_scale`; only the hyphenated form is recognized. Adapter updated to use `--output-file` and `--length-scale`.
+
+`piper-tts>=1.4` is now in `build/requirements.txt`.
+
 ## audioop-lts shim
 
 Python 3.14 removed `audioop` from the stdlib. `pydub` still imports it, so `build/requirements.txt` includes:
