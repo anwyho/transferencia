@@ -56,3 +56,26 @@ cards:
 """)
     with pytest.raises(ParseError, match="lessons"):
         load_card_file(bad)
+
+
+def test_extended_card_must_use_max_file_lesson(tmp_path):
+    """An extended card's lessons[] must include the file's max lesson — no reaching forward."""
+    # Topic file says 1-3, extended card claims only lesson 1 → forbidden.
+    topical_dir = tmp_path / "cards_topical"
+    topical_dir.mkdir()
+    bad = topical_dir / "topic_01_03_test.yml"
+    bad.write_text("""
+topic: "test"
+lessons: [1, 2, 3]
+cards:
+  - id: tx-001
+    type: sentence
+    tier: extended
+    front_en: "X"
+    back_es: "Y"
+    rule_ref: "L1#1"
+    lessons: [1]
+    directions: [en_es]
+""")
+    with pytest.raises(ParseError, match="extended"):
+        load_card_file(bad)

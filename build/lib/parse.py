@@ -54,10 +54,18 @@ def load_card_file(path: Path) -> List[Card]:
             raise ParseError(f"{path}: cards[{i}] 'lessons' must be a list of ints")
 
         # Lessons-context check
-        if file_lessons is not None and not all(L in file_lessons for L in lessons):
-            raise ParseError(
-                f"{path}: cards[{i}] lessons {lessons} not in file context {sorted(file_lessons)}"
-            )
+        if file_lessons is not None:
+            if not all(L in file_lessons for L in lessons):
+                raise ParseError(
+                    f"{path}: cards[{i}] lessons {lessons} not in file context {sorted(file_lessons)}"
+                )
+            # Extended cards must reach the file's max lesson — no claiming
+            # to use only earlier-lesson grammar inside a multi-lesson bundle.
+            if tier == Tier.EXTENDED and max(file_lessons) not in lessons:
+                raise ParseError(
+                    f"{path}: cards[{i}] is tier=extended but lessons {lessons} "
+                    f"don't reach the file's max lesson {max(file_lessons)}"
+                )
 
         out.append(Card(
             id=str(c["id"]),
