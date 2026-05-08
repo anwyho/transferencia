@@ -78,7 +78,8 @@ def _resolve_card_targets(cards: list, args) -> list[int]:
 
 def _slug(s: str) -> str:
     import re as _re
-    return _re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
+    from build.lib.normalize import strip_accents
+    return _re.sub(r"[^a-z0-9]+", "-", strip_accents(s).lower()).strip("-")
 
 
 def _run_stories_mode(repo: Path, audio_dir: Path, cache_dir: Path, args) -> int:
