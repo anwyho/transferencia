@@ -23,6 +23,14 @@ _TOPIC_FILE_RE = re.compile(r"^topic_(\d+)_(\d+)_.*\.yml$")
 _LESSON_DIR_RE = re.compile(r"^lesson_(\d+)$")
 
 
+def _word_count(text: str) -> int:
+    return len(re.findall(r"\b\w+\b", text))
+
+
+def _sentence_word_cap(max_lesson: int) -> int:
+    return 8 if max_lesson <= 10 else 12
+
+
 def load_card_file(path: Path) -> List[Card]:
     """Load and validate a single card YAML file. Returns the parsed cards."""
     raw = yaml.safe_load(path.read_text(encoding="utf-8"))
@@ -65,6 +73,16 @@ def load_card_file(path: Path) -> List[Card]:
                 raise ParseError(
                     f"{path}: cards[{i}] is tier=extended but lessons {lessons} "
                     f"don't reach the file's max lesson {max(file_lessons)}"
+                )
+
+        if ctype == CardType.SENTENCE:
+            cap = _sentence_word_cap(max(lessons))
+            wc_en = _word_count(c["front_en"])
+            wc_es = _word_count(c["back_es"])
+            if wc_en > cap or wc_es > cap:
+                raise ParseError(
+                    f"{path}: cards[{i}] sentence exceeds {cap}-word cap "
+                    f"(en={wc_en}, es={wc_es})"
                 )
 
         out.append(Card(

@@ -79,3 +79,40 @@ cards:
 """)
     with pytest.raises(ParseError, match="extended"):
         load_card_file(bad)
+
+
+def test_sentence_length_cap_l1_10_is_8_words(tmp_path):
+    bad = tmp_path / "bad.yml"
+    bad.write_text("""
+lesson: 1
+cards:
+  - id: l1-100
+    type: sentence
+    tier: primary
+    front_en: "This is a very long sentence with way too many words."
+    back_es: "Esta es una frase muy larga con muchas palabras y más."
+    rule_ref: "L1#1"
+    lessons: [1]
+    directions: [en_es]
+""")
+    with pytest.raises(ParseError, match="word"):
+        load_card_file(bad)
+
+
+def test_sentence_length_cap_l11_22_is_12_words(tmp_path):
+    """A 12-word sentence in lesson 11 is fine; a 13-word one isn't."""
+    ok = tmp_path / "ok.yml"
+    ok.write_text("""
+lesson: 11
+cards:
+  - id: l11-001
+    type: sentence
+    tier: primary
+    front_en: "One two three four five six seven eight nine ten eleven twelve."
+    back_es: "Uno dos tres cuatro cinco seis siete ocho nueve diez once doce."
+    rule_ref: "L11#1"
+    lessons: [11]
+    directions: [en_es]
+""")
+    cards = load_card_file(ok)
+    assert len(cards) == 1
