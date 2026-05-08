@@ -155,3 +155,48 @@ def _format_rule_ref(rule_ref: str) -> str:
     if not lessons:
         return ""
     return "→ " + " · ".join(sorted(set(lessons), key=lambda s: int(s[1:])))
+
+
+import re as _re
+
+from pathlib import Path
+
+_TOPIC_FILE_RE = _re.compile(r"^topic_(\d+)_(\d+)_(.+)\.yml$")
+
+
+def deck_name_for_card(card: Card) -> str:
+    """Return the subdeck name a card belongs to.
+
+    - lesson_NN/cards.yml → 'Transferencia::Lesson NN'
+    - cards_topical/topic_AA_BB_<theme>.yml → 'Transferencia::Topic::AA-BB <Theme Title>'
+    """
+    src = Path(card.source_file)
+    if src.parent.name.startswith("lesson_"):
+        m = _re.match(r"lesson_(\d+)", src.parent.name)
+        if m:
+            return f"Transferencia::Lesson {int(m.group(1)):02d}"
+    if src.parent.name == "cards_topical":
+        m = _TOPIC_FILE_RE.match(src.name)
+        if m:
+            lo, hi = int(m.group(1)), int(m.group(2))
+            theme = m.group(3).replace("_", " ").title()
+            return f"Transferencia::Topic::{lo:02d}-{hi:02d} {theme}"
+    # Fallback: synthesize from lessons[]
+    return f"Transferencia::Lesson {card.lessons[0]:02d}"
+
+
+def build_package(cards: list[Card], out_path: Path) -> None:
+    """Build the .apkg from a list of Card objects."""
+    decks_by_name: dict[str, genanki.Deck] = {}
+    for card in cards:
+        deck_name = deck_name_for_card(card)
+        if deck_name not in decks_by_name:
+            deck_id = DECK_ID_BASE + (
+                int(hashlib.sha1(deck_name.encode()).hexdigest()[:8], 16) % 10_000_000
+            )
+            decks_by_name[deck_name] = genanki.Deck(deck_id, deck_name)
+        decks_by_name[deck_name].add_note(build_note(card))
+
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    pkg = genanki.Package(list(decks_by_name.values()))
+    pkg.write_to_file(str(out_path))

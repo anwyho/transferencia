@@ -54,3 +54,50 @@ def test_build_note_id_stable_across_runs():
     a = build_note(_sample_card())
     b = build_note(_sample_card())
     assert a.guid == b.guid
+
+
+def test_subdeck_for_lesson_card():
+    from build.lib.anki import deck_name_for_card
+    card = _sample_card()  # lesson 3, no topical
+    # The _sample_card factory currently doesn't set source_file, so simulate:
+    card = Card(
+        id=card.id, type=card.type, tier=card.tier,
+        front_en=card.front_en, back_es=card.back_es,
+        rule_ref=card.rule_ref, lessons=card.lessons,
+        directions=card.directions, hint=card.hint,
+        source_file="lesson_03/cards.yml",
+    )
+    assert deck_name_for_card(card) == "Transferencia::Lesson 03"
+
+
+def test_subdeck_for_topical_card():
+    from build.lib.anki import deck_name_for_card
+    card = Card(
+        id="t04_05-001",
+        type=CardType.SENTENCE,
+        tier=Tier.PRIMARY,
+        front_en="X",
+        back_es="Y",
+        rule_ref="L4#1",
+        lessons=[4, 5],
+        directions=[Direction.EN_ES],
+        source_file="cards_topical/topic_04_05_verb_unlock.yml",
+    )
+    assert deck_name_for_card(card) == "Transferencia::Topic::04-05 Verb Unlock"
+
+
+def test_build_package_writes_apkg(tmp_path):
+    from build.lib.anki import build_package
+    # Use _sample_card and override source_file so subdeck assignment works
+    base = _sample_card()
+    card = Card(
+        id=base.id, type=base.type, tier=base.tier,
+        front_en=base.front_en, back_es=base.back_es,
+        rule_ref=base.rule_ref, lessons=base.lessons,
+        directions=base.directions, hint=base.hint,
+        source_file="lesson_03/cards.yml",
+    )
+    cards = [card]
+    out = tmp_path / "x.apkg"
+    build_package(cards, out)
+    assert out.exists() and out.stat().st_size > 0
