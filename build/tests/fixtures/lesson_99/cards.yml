@@ -1,0 +1,20 @@
+lesson: 99
+title: "Test fixture lesson"
+cards:
+  - id: l99-001
+    type: transformation
+    tier: primary
+    front_en: "important"
+    back_es: "importante"
+    hint: "-ant → -ante"
+    rule_ref: "L99#1"
+    lessons: [99]
+    directions: [en_es, es_en]
+  - id: l99-002
+    type: sentence
+    tier: primary
+    front_en: "It's not different."
+    back_es: "No es diferente."
+    rule_ref: "L99#1"
+    lessons: [99]
+    directions: [en_es, es_en, shadow]
