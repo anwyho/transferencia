@@ -31,6 +31,17 @@ DEFAULT_STOPWORDS: Set[str] = {
     "es", "no", "se", "que", "de", "del", "al", "a", "en",
 }
 
+# Recurring character names used across the story corpus. These are proper
+# nouns, not vocab — keeping them in a separate set makes the extension
+# auditable. Cast bible: stories/_world.md.
+PROPER_NOUNS: Set[str] = {
+    "maría", "daniel", "lina",
+}
+
+# Combined default for the validator entry point. Tests can still pass
+# their own stopwords explicitly.
+DEFAULT_STOPWORDS = DEFAULT_STOPWORDS | PROPER_NOUNS
+
 
 class StoryValidationError(ValueError):
     pass
