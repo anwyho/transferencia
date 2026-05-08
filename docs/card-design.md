@@ -142,6 +142,16 @@ Defaults:
 
 (An earlier design also included `shadow` — Spanish prompt repeated as Spanish answer, for pronunciation muscle memory. Removed: in practice it added bloat to the deck without enough learning value over `es_en`. The Spanish utterance already gets heard during `es_en` recognition.)
 
+## Embedded audio (optional)
+
+Build the deck with `make anki-with-audio` (or `--with-audio` on the generator) to embed Spanish answer audio in every card with the `en_es` direction. The audio plays automatically when the card flips. Encoded once at 48 kbps mono mp3 via the configured TTS backend (Piper by default), then bundled into the `.apkg`.
+
+Per-card cost ~12–30 KB. ~3 MB extra for Bundle A (226 cards), ~75 MB at full 90-lesson scale. Files cached at `audio/.media/card_<id>_es.mp3` so re-runs are free.
+
+Skipped for:
+- `es_en` cards: the Spanish is already on the prompt side, no need to play it on flip.
+- Conjugation cards: front is `"I form of hacer"` → audible answer adds nothing over reading `hago`.
+
 ## Quality bar
 
 Hard rules the generator validates:

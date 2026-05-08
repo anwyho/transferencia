@@ -15,6 +15,20 @@ The `Makefile` `clean` target uses `trash` for this reason. Also lets autonomous
 
 The plan's `Makefile` defaults to `python3.11`. Local development on this Mac happens with Python 3.14, so most of the implementation runs with `make PYTHON=.venv/bin/python <target>` against a `.venv/` virtualenv. Both work — the pin is overridable via the `PYTHON` make variable. If 3.11 is later installed, no changes needed.
 
+## Audio embed (--with-audio) and the MODEL_ID bump
+
+Adding the `AudioEs` field to the Anki note model required bumping
+`MODEL_ID` (`1735000001 → 1735000002`). Anki keys per-card review history
+on a `(model_id, note_guid)` pair, so changing `model_id` invalidates
+existing review state. We did this once early enough that no real review
+history existed; downstream we should treat `MODEL_ID` as locked.
+
+The `--with-audio` flag synthesizes one Spanish answer mp3 per card with
+the `en_es` direction (Strategy A from the embed tradeoff). 48 kbps mono
+mp3 hits ~12–30 KB per card; ~3 MB Bundle A; ~75 MB at full course scale.
+Files land in `audio/.media/` (gitignored, idempotent) and ship as
+`Package.media_files` inside the `.apkg`.
+
 ## Piper install
 
 Piper is **not** on Homebrew (despite the README's earlier hint). Install via pip instead:
