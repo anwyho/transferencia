@@ -1,0 +1,466 @@
+topic: "Pronunciation closeout + spine verbs (intento, voy a, quiere, debo, saber)"
+lessons: [6, 7, 8, 9]
+cards:
+  # ---------------- Spine roll-call: chaining helper verbs across lessons ----------------
+  # Each extended card must reach lesson 9 (the file's max).
+
+  - id: t06_09-001
+    type: sentence
+    tier: extended
+    front_en: "I want to know now."
+    back_es: "Quiero saber ahora."
+    hint: "saber (L9) + ahora (L6)"
+    rule_ref: "L9#1, L6#7"
+    lessons: [6, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-002
+    type: sentence
+    tier: extended
+    front_en: "I don't want to know now."
+    back_es: "No quiero saber ahora."
+    hint: "saber (L9) + ahora (L6)"
+    rule_ref: "L9#1, L6#7"
+    lessons: [6, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-003
+    type: sentence
+    tier: extended
+    front_en: "I'm going to know."
+    back_es: "Voy a saber."
+    hint: "voy a (L7) + saber (L9)"
+    rule_ref: "L7#2, L9#1"
+    lessons: [7, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-004
+    type: sentence
+    tier: extended
+    front_en: "I must know."
+    back_es: "Debo saber."
+    hint: "debo (L8) + saber (L9)"
+    rule_ref: "L8#15, L9#1"
+    lessons: [8, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-005
+    type: sentence
+    tier: extended
+    front_en: "I'm trying to know."
+    back_es: "Intento saber."
+    hint: "intento (L6) + saber (L9)"
+    rule_ref: "L6#1, L9#1"
+    lessons: [6, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-006
+    type: sentence
+    tier: extended
+    front_en: "She wants to know."
+    back_es: "Quiere saber."
+    hint: "quiere (L8) + saber (L9)"
+    rule_ref: "L8#4, L9#1"
+    lessons: [8, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-007
+    type: sentence
+    tier: extended
+    front_en: "She doesn't want to know."
+    back_es: "No quiere saber."
+    rule_ref: "L8#4, L9#1"
+    lessons: [8, 9]
+    directions: [en_es, es_en]
+
+  # ---------------- voy a + L9 verbs (motion-verb a + new vocab) ----------------
+  - id: t06_09-008
+    type: sentence
+    tier: extended
+    front_en: "I'm going to invite him."
+    back_es: "Voy a invitarlo."
+    hint: "voy a (L7) + invitarlo (L9)"
+    rule_ref: "L7#2, L9#1"
+    lessons: [7, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-009
+    type: sentence
+    tier: extended
+    front_en: "I'm going to invite them (masc.)."
+    back_es: "Voy a invitarlos."
+    hint: "voy a + los (L7)"
+    rule_ref: "L7#2, L7#9, L9#1"
+    lessons: [7, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-010
+    type: sentence
+    tier: extended
+    front_en: "I'm going to invite her."
+    back_es: "Voy a invitarla."
+    hint: "voy a + la (L8)"
+    rule_ref: "L7#2, L8#1, L9#1"
+    lessons: [7, 8, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-011
+    type: sentence
+    tier: extended
+    front_en: "I'm going to invite them (fem.)."
+    back_es: "Voy a invitarlas."
+    hint: "voy a + las (L8)"
+    rule_ref: "L7#2, L8#16, L9#1"
+    lessons: [7, 8, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-012
+    type: sentence
+    tier: extended
+    front_en: "I'm going to imagine it."
+    back_es: "Voy a imaginarlo."
+    rule_ref: "L7#2, L9#1"
+    lessons: [7, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-013
+    type: sentence
+    tier: extended
+    front_en: "I'm going to start it now."
+    back_es: "Voy a iniciarlo ahora."
+    hint: "voy a + ahora"
+    rule_ref: "L6#7, L7#2, L9#10"
+    lessons: [6, 7, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-014
+    type: sentence
+    tier: extended
+    front_en: "I'm going to explain it."
+    back_es: "Voy a explicarlo."
+    rule_ref: "L7#2, L9#12"
+    lessons: [7, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-015
+    type: sentence
+    tier: extended
+    front_en: "I'm going to explain something to you."
+    back_es: "Voy a explicarte algo."
+    hint: "voy a + explicarte (L9) + algo (L7)"
+    rule_ref: "L7#2, L7#6, L9#13"
+    lessons: [7, 9]
+    directions: [en_es, es_en]
+
+  # ---------------- debo (L8) + L6/L7/L9 verbs ----------------
+  - id: t06_09-016
+    type: sentence
+    tier: extended
+    front_en: "I must visit him."
+    back_es: "Debo visitarlo."
+    hint: "debo (L8) + visitarlo (L6)"
+    rule_ref: "L6#14, L8#15, L9#1"
+    lessons: [6, 8, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-017
+    type: sentence
+    tier: extended
+    front_en: "I must visit her."
+    back_es: "Debo visitarla."
+    rule_ref: "L8#1, L8#15, L9#1"
+    lessons: [8, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-018
+    type: sentence
+    tier: extended
+    front_en: "I must invite him now."
+    back_es: "Debo invitarlo ahora."
+    hint: "debo + ahora (L6)"
+    rule_ref: "L6#7, L8#15, L9#1"
+    lessons: [6, 8, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-019
+    type: sentence
+    tier: extended
+    front_en: "I must explain it."
+    back_es: "Debo explicarlo."
+    rule_ref: "L8#15, L9#12"
+    lessons: [8, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-020
+    type: sentence
+    tier: extended
+    front_en: "I must continue now."
+    back_es: "Debo continuar ahora."
+    hint: "debo (L8) + continuar (L7) + ahora (L6)"
+    rule_ref: "L6#7, L7#1, L8#15, L9#1"
+    lessons: [6, 7, 8, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-021
+    type: sentence
+    tier: extended
+    front_en: "I must come now."
+    back_es: "Debo venir ahora."
+    rule_ref: "L6#7, L8#11, L8#15, L9#1"
+    lessons: [6, 8, 9]
+    directions: [en_es, es_en]
+
+  # ---------------- intento (L6) + L7/L8/L9 verbs ----------------
+  - id: t06_09-022
+    type: sentence
+    tier: extended
+    front_en: "I'm trying to invite him."
+    back_es: "Intento invitarlo."
+    rule_ref: "L6#1, L9#1"
+    lessons: [6, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-023
+    type: sentence
+    tier: extended
+    front_en: "I'm trying to imagine it."
+    back_es: "Intento imaginarlo."
+    rule_ref: "L6#1, L9#1"
+    lessons: [6, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-024
+    type: sentence
+    tier: extended
+    front_en: "I'm trying to explain."
+    back_es: "Intento explicar."
+    rule_ref: "L6#1, L9#12"
+    lessons: [6, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-025
+    type: sentence
+    tier: extended
+    front_en: "I'm trying to continue now."
+    back_es: "Intento continuar ahora."
+    rule_ref: "L6#1, L6#7, L7#1, L9#1"
+    lessons: [6, 7, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-026
+    type: sentence
+    tier: extended
+    front_en: "I'm not trying to justify myself."
+    back_es: "No intento justificarme."
+    hint: "intento (L6) + justificarme (L9)"
+    rule_ref: "L6#1, L9#11"
+    lessons: [6, 9]
+    directions: [en_es, es_en]
+
+  # ---------------- quiere (L8) + saber/explicar/imaginar (L9) and questions ----------------
+  - id: t06_09-027
+    type: sentence
+    tier: extended
+    front_en: "Does he want to know?"
+    back_es: "¿Quiere saber?"
+    hint: "quiere question (L8) + saber (L9)"
+    rule_ref: "L8#4, L8#8, L9#1"
+    lessons: [8, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-028
+    type: sentence
+    tier: extended
+    front_en: "Doesn't she want to know?"
+    back_es: "¿No quiere saber?"
+    rule_ref: "L8#9, L9#1"
+    lessons: [8, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-029
+    type: sentence
+    tier: extended
+    front_en: "Why doesn't he want to know?"
+    back_es: "¿Por qué no quiere saber?"
+    rule_ref: "L8#10, L9#1"
+    lessons: [8, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-030
+    type: sentence
+    tier: extended
+    front_en: "Does he want to explain?"
+    back_es: "¿Quiere explicar?"
+    rule_ref: "L8#8, L9#12"
+    lessons: [8, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-031
+    type: sentence
+    tier: extended
+    front_en: "Does she want to invite me?"
+    back_es: "¿Quiere invitarme?"
+    rule_ref: "L8#8, L9#1"
+    lessons: [8, 9]
+    directions: [en_es, es_en]
+
+  # ---------------- venir + motion-a (L7-8) feeding L9 stitches ----------------
+  - id: t06_09-032
+    type: sentence
+    tier: extended
+    front_en: "She's coming to invite me."
+    back_es: "Viene a invitarme."
+    notes: "viene = he/she form of venir, parallel to quiere; motion-verb a."
+    rule_ref: "L7#15, L9#1"
+    lessons: [7, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-033
+    type: sentence
+    tier: extended
+    front_en: "I want to come to invite him."
+    back_es: "Quiero venir a invitarlo."
+    hint: "venir → a (motion); invitarlo (L9)"
+    rule_ref: "L8#11, L8#14, L9#1"
+    lessons: [8, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-034
+    type: sentence
+    tier: extended
+    front_en: "I'm going to come to invite him."
+    back_es: "Voy a venir a invitarlo."
+    hint: "two motion a's: voy + venir"
+    rule_ref: "L7#2, L7#15, L8#11, L9#1"
+    lessons: [7, 8, 9]
+    directions: [en_es, es_en]
+
+  # ---------------- la / las with L9 verbs ----------------
+  - id: t06_09-035
+    type: sentence
+    tier: extended
+    front_en: "I want to invite her."
+    back_es: "Quiero invitarla."
+    rule_ref: "L8#1, L9#1"
+    lessons: [8, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-036
+    type: sentence
+    tier: extended
+    front_en: "I want to invite them (fem.)."
+    back_es: "Quiero invitarlas."
+    rule_ref: "L8#16, L9#1"
+    lessons: [8, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-037
+    type: sentence
+    tier: extended
+    front_en: "I'm trying to imagine her."
+    back_es: "Intento imaginarla."
+    rule_ref: "L6#1, L8#1, L9#1"
+    lessons: [6, 8, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-038
+    type: sentence
+    tier: extended
+    front_en: "I'm going to explain it to her."
+    back_es: "Voy a explicarle."
+    notes: "le = indirect-object her/him; bridges L8 la/lo to L9 explicar."
+    rule_ref: "L7#2, L9#13"
+    lessons: [7, 9]
+    directions: [en_es]
+
+  # ---------------- Spine summary card: helper verbs in one cluster ----------------
+  - id: t06_09-039
+    type: transformation
+    tier: extended
+    front_en: "spine: try, go, want, must, know"
+    back_es: "intento, voy a, quiero, debo, saber"
+    notes: "Spine roll-call — chant the five helpers."
+    hint: "L6/L7/L4/L8/L9"
+    rule_ref: "L6#1, L7#2, L8#15, L9#1"
+    lessons: [6, 7, 8, 9]
+    directions: [en_es]
+
+  - id: t06_09-040
+    type: sentence
+    tier: extended
+    front_en: "Yes, but not now."
+    back_es: "Sí, pero no ahora."
+    hint: "sí (L9) + pero + ahora (L6)"
+    rule_ref: "L6#7, L9#3, L9#15"
+    lessons: [6, 9]
+    directions: [en_es, es_en]
+
+  # ---------------- Pronunciation spotlight: silent-h + v=b + qu=/k/ together ----------------
+  - id: t06_09-041
+    type: sentence
+    tier: extended
+    front_en: "It's horrible, but visible."
+    back_es: "Es horrible, pero visible."
+    hint: "silent h, rolled rr (L6); v=soft b (L6); pero (L5)"
+    rule_ref: "L6#4, L6#6, L6#10, L9#15"
+    lessons: [6, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-042
+    type: sentence
+    tier: extended
+    front_en: "It's not visible now."
+    back_es: "No es visible ahora."
+    rule_ref: "L6#7, L6#10, L9#1"
+    lessons: [6, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-043
+    type: sentence
+    tier: extended
+    front_en: "I want to verify it."
+    back_es: "Quiero verificarlo."
+    hint: "v=soft b (L6) + qu=/k/ (L9)"
+    rule_ref: "L6#10, L9#1"
+    lessons: [6, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-044
+    type: sentence
+    tier: extended
+    front_en: "I must verify it."
+    back_es: "Debo verificarlo."
+    hint: "debo (L8) + verificarlo (L6)"
+    rule_ref: "L6#10, L8#15, L9#1"
+    lessons: [6, 8, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-045
+    type: sentence
+    tier: extended
+    front_en: "I must know if she's coming."
+    back_es: "Debo saber si viene."
+    hint: "debo (L8) + saber (L9) + si (L9)"
+    rule_ref: "L8#11, L8#15, L9#3"
+    lessons: [8, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-046
+    type: sentence
+    tier: extended
+    front_en: "I want to know if she wants."
+    back_es: "Quiero saber si quiere."
+    hint: "quiero saber + si (L9) + quiere (L8)"
+    rule_ref: "L8#4, L9#3, L9#4"
+    lessons: [8, 9]
+    directions: [en_es, es_en]
+
+  - id: t06_09-047
+    type: sentence
+    tier: extended
+    front_en: "I want to know if he must."
+    back_es: "Quiero saber si debe."
+    notes: "debe = he-form of debo, parallel to quiere/quiero."
+    rule_ref: "L8#15, L9#3, L9#4"
+    lessons: [8, 9]
+    directions: [en_es, es_en]

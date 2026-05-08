@@ -1,0 +1,532 @@
+lesson: 7
+title: "voy a + verb (informal future), motion-verb a, los"
+cards:
+  # ---------------- PRIMARY: Vocabulary ----------------
+  - id: l7-001
+    type: transformation
+    tier: primary
+    front_en: "continuation"
+    back_es: "continuación"
+    hint: "-tion → -ción"
+    rule_ref: "L7#1"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-002
+    type: transformation
+    tier: primary
+    front_en: "to continue"
+    back_es: "continuar"
+    hint: "-ación → -ar"
+    rule_ref: "L7#1"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-003
+    type: transformation
+    tier: primary
+    front_en: "to continue it"
+    back_es: "continuarlo"
+    hint: "-ar + lo"
+    rule_ref: "L7#1"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-004
+    type: transformation
+    tier: primary
+    front_en: "demonstration"
+    back_es: "demostración"
+    hint: "no n: demos- not demons-"
+    rule_ref: "L7#5"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-005
+    type: transformation
+    tier: primary
+    front_en: "to demonstrate"
+    back_es: "demostrar"
+    hint: "no n in Spanish"
+    rule_ref: "L7#5"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-006
+    type: transformation
+    tier: primary
+    front_en: "to show"
+    back_es: "mostrar"
+    hint: "drop the de- from demostrar"
+    rule_ref: "L7#5"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-007
+    type: transformation
+    tier: primary
+    front_en: "to show you"
+    back_es: "mostrarte"
+    hint: "-r + te"
+    rule_ref: "L7#5, L7#8"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-008
+    type: transformation
+    tier: primary
+    front_en: "something"
+    back_es: "algo"
+    hint: "/AL-go/"
+    rule_ref: "L7#6"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-009
+    type: transformation
+    tier: primary
+    front_en: "to see"
+    back_es: "ver"
+    hint: "memory: view"
+    rule_ref: "L7#7"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-010
+    type: transformation
+    tier: primary
+    front_en: "to see them"
+    back_es: "verlos"
+    hint: "ver + los"
+    rule_ref: "L7#9"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-011
+    type: transformation
+    tier: primary
+    front_en: "to try"
+    back_es: "intentar"
+    hint: "to-form of intento"
+    rule_ref: "L7#11"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-012
+    type: transformation
+    tier: primary
+    front_en: "them (plural of lo)"
+    back_es: "los"
+    hint: "lo + s"
+    rule_ref: "L7#9"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-013
+    type: transformation
+    tier: primary
+    front_en: "to pass / pass by"
+    back_es: "pasar"
+    hint: "verb of motion"
+    rule_ref: "L7#13"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-014
+    type: transformation
+    tier: primary
+    front_en: "to confiscate it"
+    back_es: "confiscarlo"
+    hint: "-ación → -arlo"
+    rule_ref: "L7#4"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-015
+    type: transformation
+    tier: primary
+    front_en: "to examine it"
+    back_es: "examinarlo"
+    hint: "-ación → -arlo"
+    rule_ref: "L7#4"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-016
+    type: transformation
+    tier: primary
+    front_en: "to visit you (informal)"
+    back_es: "visitarte"
+    hint: "-r + te"
+    rule_ref: "L7#8"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-017
+    type: transformation
+    tier: primary
+    front_en: "to visit him / formal you"
+    back_es: "visitarlo"
+    hint: "-r + lo"
+    rule_ref: "L7#14"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-018
+    type: transformation
+    tier: primary
+    front_en: "formal"
+    back_es: "formal"
+    hint: "-al → -al"
+    rule_ref: "L7#1"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-019
+    type: transformation
+    tier: primary
+    front_en: "formally"
+    back_es: "formalmente"
+    hint: "-ly → -mente"
+    rule_ref: "L7#1"
+    lessons: [7]
+    directions: [en_es, es_en]
+
+  # ---------------- PRIMARY: Examples / Sentences ----------------
+  - id: l7-020
+    type: sentence
+    tier: primary
+    front_en: "I want to continue."
+    back_es: "Quiero continuar."
+    rule_ref: "L7#1"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-021
+    type: sentence
+    tier: primary
+    front_en: "I want to continue it."
+    back_es: "Quiero continuarlo."
+    rule_ref: "L7#1"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-022
+    type: sentence
+    tier: primary
+    front_en: "I'm trying to continue."
+    back_es: "Intento continuar."
+    rule_ref: "L7#1"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-023
+    type: sentence
+    tier: primary
+    front_en: "I'm going to continue."
+    back_es: "Voy a continuar."
+    hint: "voy a + verb (motion-verb a)"
+    rule_ref: "L7#2, L7#3"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-024
+    type: sentence
+    tier: primary
+    front_en: "I'm going to confiscate it."
+    back_es: "Voy a confiscarlo."
+    rule_ref: "L7#2, L7#4"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-025
+    type: sentence
+    tier: primary
+    front_en: "I'm going to examine it."
+    back_es: "Voy a examinarlo."
+    rule_ref: "L7#2, L7#4"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-026
+    type: sentence
+    tier: primary
+    front_en: "I want to see them."
+    back_es: "Quiero verlos."
+    hint: "no a (intento/quiero not motion)"
+    rule_ref: "L7#10"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-027
+    type: sentence
+    tier: primary
+    front_en: "I'm going to see them."
+    back_es: "Voy a verlos."
+    hint: "voy → a"
+    rule_ref: "L7#2, L7#9"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-028
+    type: sentence
+    tier: primary
+    front_en: "I'm trying to see them."
+    back_es: "Intento verlos."
+    hint: "no a after intento"
+    rule_ref: "L7#10"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-029
+    type: sentence
+    tier: primary
+    front_en: "I'm going to try to see them."
+    back_es: "Voy a intentar verlos."
+    hint: "stack motion: only voy needs a"
+    rule_ref: "L7#12"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-030
+    type: sentence
+    tier: primary
+    front_en: "I'll pass by to visit you."
+    back_es: "Voy a pasar a visitarte."
+    hint: "two a's: voy + pasar (both motion)"
+    rule_ref: "L7#13, L7#15"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-031
+    type: sentence
+    tier: primary
+    front_en: "I want to show you something."
+    back_es: "Quiero mostrarte algo."
+    rule_ref: "L7#6, L7#8"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-032
+    type: sentence
+    tier: primary
+    front_en: "I want to pass by to show you."
+    back_es: "Quiero pasar a mostrarte."
+    hint: "pasar (motion) → a"
+    rule_ref: "L7#13, L7#15"
+    lessons: [7]
+    directions: [en_es, es_en]
+
+  # ---------------- EXTENDED: more voy a sentences ----------------
+  - id: l7-033
+    type: sentence
+    tier: extended
+    front_en: "I'm going to visit him."
+    back_es: "Voy a visitarlo."
+    rule_ref: "L7#2"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-034
+    type: sentence
+    tier: extended
+    front_en: "I'm going to visit you."
+    back_es: "Voy a visitarte."
+    rule_ref: "L7#2, L7#8"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-035
+    type: sentence
+    tier: extended
+    front_en: "I'm not going to visit him."
+    back_es: "No voy a visitarlo."
+    hint: "no + voy a"
+    rule_ref: "L7#2"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-036
+    type: sentence
+    tier: extended
+    front_en: "I'm not going to continue."
+    back_es: "No voy a continuar."
+    rule_ref: "L7#2"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-037
+    type: sentence
+    tier: extended
+    front_en: "I'm going to demonstrate it."
+    back_es: "Voy a demostrarlo."
+    rule_ref: "L7#2, L7#5"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-038
+    type: sentence
+    tier: extended
+    front_en: "I'm going to show you."
+    back_es: "Voy a mostrarte."
+    rule_ref: "L7#2, L7#6, L7#8"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-039
+    type: sentence
+    tier: extended
+    front_en: "I'm going to show you something."
+    back_es: "Voy a mostrarte algo."
+    rule_ref: "L7#2, L7#6"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-040
+    type: sentence
+    tier: extended
+    front_en: "I'm going to try."
+    back_es: "Voy a intentar."
+    rule_ref: "L7#2, L7#11"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-041
+    type: sentence
+    tier: extended
+    front_en: "I'm going to try to continue."
+    back_es: "Voy a intentar continuar."
+    rule_ref: "L7#11, L7#12"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-042
+    type: sentence
+    tier: extended
+    front_en: "I won't try to see them."
+    back_es: "No voy a intentar verlos."
+    notes: "EN paraphrase to fit cap; ES uses no voy a + intentar."
+    rule_ref: "L7#11, L7#12"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-043
+    type: sentence
+    tier: extended
+    front_en: "I'm going to try to visit you."
+    back_es: "Voy a intentar visitarte."
+    hint: "stack: only voy needs a"
+    rule_ref: "L7#12"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-044
+    type: sentence
+    tier: extended
+    front_en: "I'll pass by to visit him."
+    back_es: "Voy a pasar a visitarlo."
+    rule_ref: "L7#13, L7#14"
+    lessons: [7]
+    directions: [en_es, es_en]
+
+  # ---------------- EXTENDED: lo vs los contrasts ----------------
+  - id: l7-045
+    type: sentence
+    tier: extended
+    front_en: "I want to visit him."
+    back_es: "Quiero visitarlo."
+    rule_ref: "L7#10"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-046
+    type: sentence
+    tier: extended
+    front_en: "I want to visit them."
+    back_es: "Quiero visitarlos."
+    hint: "los = plural lo"
+    rule_ref: "L7#9"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-047
+    type: sentence
+    tier: extended
+    front_en: "I'm going to visit them."
+    back_es: "Voy a visitarlos."
+    rule_ref: "L7#2, L7#9"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-048
+    type: sentence
+    tier: extended
+    front_en: "I'm trying to confiscate them."
+    back_es: "Intento confiscarlos."
+    rule_ref: "L7#9, L7#10"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-049
+    type: sentence
+    tier: extended
+    front_en: "I'm going to examine them."
+    back_es: "Voy a examinarlos."
+    rule_ref: "L7#2, L7#9"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-050
+    type: sentence
+    tier: extended
+    front_en: "I want to see it."
+    back_es: "Quiero verlo."
+    rule_ref: "L7#7"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-051
+    type: sentence
+    tier: extended
+    front_en: "I'm not going to see them."
+    back_es: "No voy a verlos."
+    rule_ref: "L7#2, L7#9"
+    lessons: [7]
+    directions: [en_es, es_en]
+
+  # ---------------- EXTENDED: more cognates ----------------
+  - id: l7-052
+    type: transformation
+    tier: extended
+    front_en: "investigation"
+    back_es: "investigación"
+    hint: "v=soft b; -tion→-ción"
+    rule_ref: "L7#1"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-053
+    type: transformation
+    tier: extended
+    front_en: "to investigate"
+    back_es: "investigar"
+    hint: "-ación → -ar"
+    rule_ref: "L7#1"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-054
+    type: transformation
+    tier: extended
+    front_en: "to investigate it"
+    back_es: "investigarlo"
+    rule_ref: "L7#1"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-055
+    type: transformation
+    tier: extended
+    front_en: "observation"
+    back_es: "observación"
+    rule_ref: "L7#1"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-056
+    type: transformation
+    tier: extended
+    front_en: "to observe it"
+    back_es: "observarlo"
+    rule_ref: "L7#1"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-057
+    type: sentence
+    tier: extended
+    front_en: "I'm going to investigate it."
+    back_es: "Voy a investigarlo."
+    rule_ref: "L7#2"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-058
+    type: sentence
+    tier: extended
+    front_en: "I'm going to observe them."
+    back_es: "Voy a observarlos."
+    rule_ref: "L7#2, L7#9"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-059
+    type: sentence
+    tier: extended
+    front_en: "I'm not going to confiscate it."
+    back_es: "No voy a confiscarlo."
+    rule_ref: "L7#2"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-060
+    type: sentence
+    tier: extended
+    front_en: "I'm trying to examine them."
+    back_es: "Intento examinarlos."
+    rule_ref: "L7#9, L7#10"
+    lessons: [7]
+    directions: [en_es, es_en]
+  - id: l7-061
+    type: sentence
+    tier: extended
+    front_en: "I'm going to demonstrate them."
+    back_es: "Voy a demostrarlos."
+    rule_ref: "L7#2, L7#5, L7#9"
+    lessons: [7]
+    directions: [en_es, es_en]
