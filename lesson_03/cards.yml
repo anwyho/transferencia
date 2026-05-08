@@ -1,0 +1,944 @@
+lesson: 3
+title: "Convertible words: -ante/-ente, -mente, -ible/-able, /j/→/kh/"
+cards:
+  # ---------------- PRIMARY: Vocabulary (every entry from rules.md) ----------------
+  - id: l3-001
+    type: transformation
+    tier: primary
+    front_en: "important"
+    back_es: "importante"
+    hint: "-ant → -ante"
+    rule_ref: "L3#1"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-002
+    type: transformation
+    tier: primary
+    front_en: "different"
+    back_es: "diferente"
+    hint: "-ent → -ente"
+    rule_ref: "L3#1"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-003
+    type: transformation
+    tier: primary
+    front_en: "constant"
+    back_es: "constante"
+    hint: "-ant → -ante"
+    rule_ref: "L3#1"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-004
+    type: transformation
+    tier: primary
+    front_en: "constantly"
+    back_es: "constantemente"
+    hint: "-ly → -mente"
+    rule_ref: "L3#3"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-005
+    type: transformation
+    tier: primary
+    front_en: "legally"
+    back_es: "legalmente"
+    hint: "-ly → -mente"
+    rule_ref: "L3#3"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-006
+    type: transformation
+    tier: primary
+    front_en: "illegally"
+    back_es: "ilegalmente"
+    hint: "-ly → -mente"
+    rule_ref: "L3#3"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-007
+    type: transformation
+    tier: primary
+    front_en: "real / royal"
+    back_es: "real"
+    hint: "rolled r"
+    rule_ref: "L3#4, L3#5"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-008
+    type: transformation
+    tier: primary
+    front_en: "really"
+    back_es: "realmente"
+    hint: "-ly → -mente"
+    rule_ref: "L3#3, L3#4"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-009
+    type: transformation
+    tier: primary
+    front_en: "normally / usually"
+    back_es: "normalmente"
+    hint: "-ly → -mente"
+    rule_ref: "L3#3, L3#6"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-010
+    type: transformation
+    tier: primary
+    front_en: "global"
+    back_es: "global"
+    hint: "-al → -al"
+    rule_ref: "L2#2"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-011
+    type: transformation
+    tier: primary
+    front_en: "globally"
+    back_es: "globalmente"
+    hint: "-ly → -mente"
+    rule_ref: "L3#3"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-012
+    type: transformation
+    tier: primary
+    front_en: "general"
+    back_es: "general"
+    hint: "/khe-/ for ge-"
+    rule_ref: "L3#7"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-013
+    type: transformation
+    tier: primary
+    front_en: "generally"
+    back_es: "generalmente"
+    hint: "-ly → -mente; /khe-/"
+    rule_ref: "L3#3, L3#7"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-014
+    type: transformation
+    tier: primary
+    front_en: "original"
+    back_es: "original"
+    hint: "/o-ri-khi-NAL/"
+    rule_ref: "L3#7"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-015
+    type: transformation
+    tier: primary
+    front_en: "originally"
+    back_es: "originalmente"
+    hint: "-ly → -mente"
+    rule_ref: "L3#3, L3#7"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-016
+    type: transformation
+    tier: primary
+    front_en: "digital"
+    back_es: "digital"
+    hint: "/di-khi-TAL/"
+    rule_ref: "L3#7"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-017
+    type: transformation
+    tier: primary
+    front_en: "naturally / obviously"
+    back_es: "naturalmente"
+    hint: "-ly → -mente"
+    rule_ref: "L3#3"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-018
+    type: transformation
+    tier: primary
+    front_en: "possible"
+    back_es: "posible"
+    hint: "-ible → -ible (drop double s)"
+    rule_ref: "L3#8"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-019
+    type: transformation
+    tier: primary
+    front_en: "probable"
+    back_es: "probable"
+    hint: "-able → -able"
+    rule_ref: "L3#8"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-020
+    type: transformation
+    tier: primary
+    front_en: "probably"
+    back_es: "probablemente"
+    hint: "-ly → -mente"
+    rule_ref: "L3#3, L3#8"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-021
+    type: transformation
+    tier: primary
+    front_en: "possibly"
+    back_es: "posiblemente"
+    hint: "-ly → -mente"
+    rule_ref: "L3#3, L3#8"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-022
+    type: transformation
+    tier: primary
+    front_en: "flexible"
+    back_es: "flexible"
+    hint: "-ible → -ible"
+    rule_ref: "L3#8"
+    lessons: [3]
+    directions: [en_es, es_en]
+
+  # ---------------- PRIMARY: Examples / Sentences (every entry from rules.md) ----------------
+  - id: l3-023
+    type: sentence
+    tier: primary
+    front_en: "It's important."
+    back_es: "Es importante."
+    rule_ref: "L3#1, L2#7"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-024
+    type: sentence
+    tier: primary
+    front_en: "It's not important."
+    back_es: "No es importante."
+    rule_ref: "L3#1, L2#9"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-025
+    type: sentence
+    tier: primary
+    front_en: "It's not different."
+    back_es: "No es diferente."
+    rule_ref: "L3#1, L2#9"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-026
+    type: sentence
+    tier: primary
+    front_en: "It is constant."
+    back_es: "Es constante."
+    rule_ref: "L3#1, L2#7"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-027
+    type: sentence
+    tier: primary
+    front_en: "Normally it's important."
+    back_es: "Normalmente es importante."
+    rule_ref: "L3#3, L3#6, L2#7"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-028
+    type: sentence
+    tier: primary
+    front_en: "Naturally it's original."
+    back_es: "Naturalmente es original."
+    rule_ref: "L3#3, L3#7, L2#7"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-029
+    type: sentence
+    tier: primary
+    front_en: "Possibly it's original."
+    back_es: "Posiblemente es original."
+    rule_ref: "L3#3, L3#7, L3#8, L2#7"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+
+  # ---------------- EXTENDED: more -ante / -ente cognates ----------------
+  - id: l3-030
+    type: transformation
+    tier: extended
+    front_en: "elegant"
+    back_es: "elegante"
+    hint: "-ant → -ante"
+    rule_ref: "L3#1"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-031
+    type: transformation
+    tier: extended
+    front_en: "interesting"
+    back_es: "interesante"
+    hint: "-ing → -ante (interest+ant)"
+    rule_ref: "L3#1"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-032
+    type: transformation
+    tier: extended
+    front_en: "abundant"
+    back_es: "abundante"
+    hint: "-ant → -ante"
+    rule_ref: "L3#1"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-033
+    type: transformation
+    tier: extended
+    front_en: "ignorant"
+    back_es: "ignorante"
+    hint: "-ant → -ante"
+    rule_ref: "L3#1"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-034
+    type: transformation
+    tier: extended
+    front_en: "tolerant"
+    back_es: "tolerante"
+    hint: "-ant → -ante"
+    rule_ref: "L3#1"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-035
+    type: transformation
+    tier: extended
+    front_en: "instant"
+    back_es: "instante"
+    hint: "-ant → -ante"
+    rule_ref: "L3#1"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-036
+    type: transformation
+    tier: extended
+    front_en: "evident"
+    back_es: "evidente"
+    hint: "-ent → -ente"
+    rule_ref: "L3#1"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-037
+    type: transformation
+    tier: extended
+    front_en: "sufficient"
+    back_es: "suficiente"
+    hint: "-ent → -ente; drop double f"
+    rule_ref: "L3#1"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-038
+    type: transformation
+    tier: extended
+    front_en: "permanent"
+    back_es: "permanente"
+    hint: "-ent → -ente"
+    rule_ref: "L3#1"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-039
+    type: transformation
+    tier: extended
+    front_en: "urgent"
+    back_es: "urgente"
+    hint: "-ent → -ente; /ur-KHEN-te/"
+    rule_ref: "L3#1, L3#7"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-040
+    type: transformation
+    tier: extended
+    front_en: "intelligent"
+    back_es: "inteligente"
+    hint: "-ent → -ente; one l; /-khen-/"
+    rule_ref: "L3#1, L3#7"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-041
+    type: transformation
+    tier: extended
+    front_en: "excellent"
+    back_es: "excelente"
+    hint: "-ent → -ente; one l"
+    rule_ref: "L3#1"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-042
+    type: transformation
+    tier: extended
+    front_en: "frequent"
+    back_es: "frecuente"
+    hint: "-ent → -ente"
+    rule_ref: "L3#1"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-043
+    type: transformation
+    tier: extended
+    front_en: "decent"
+    back_es: "decente"
+    hint: "-ent → -ente"
+    rule_ref: "L3#1"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-044
+    type: transformation
+    tier: extended
+    front_en: "patient"
+    back_es: "paciente"
+    hint: "-ent → -ente"
+    rule_ref: "L3#1"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-045
+    type: transformation
+    tier: extended
+    front_en: "recent"
+    back_es: "reciente"
+    hint: "-ent → -ente"
+    rule_ref: "L3#1"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-046
+    type: transformation
+    tier: extended
+    front_en: "transparent"
+    back_es: "transparente"
+    hint: "-ent → -ente"
+    rule_ref: "L3#1"
+    lessons: [3]
+    directions: [en_es, es_en]
+
+  # ---------------- EXTENDED: more -mente adverbs ----------------
+  - id: l3-047
+    type: transformation
+    tier: extended
+    front_en: "totally"
+    back_es: "totalmente"
+    hint: "-ly → -mente"
+    rule_ref: "L3#3"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-048
+    type: transformation
+    tier: extended
+    front_en: "personally"
+    back_es: "personalmente"
+    hint: "-ly → -mente"
+    rule_ref: "L3#3"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-049
+    type: transformation
+    tier: extended
+    front_en: "culturally"
+    back_es: "culturalmente"
+    hint: "-ly → -mente"
+    rule_ref: "L3#3"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-050
+    type: transformation
+    tier: extended
+    front_en: "socially"
+    back_es: "socialmente"
+    hint: "-ly → -mente"
+    rule_ref: "L3#3"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-051
+    type: transformation
+    tier: extended
+    front_en: "centrally"
+    back_es: "centralmente"
+    hint: "-ly → -mente"
+    rule_ref: "L3#3"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-052
+    type: transformation
+    tier: extended
+    front_en: "morally"
+    back_es: "moralmente"
+    hint: "-ly → -mente"
+    rule_ref: "L3#3"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-053
+    type: transformation
+    tier: extended
+    front_en: "verbally"
+    back_es: "verbalmente"
+    hint: "-ly → -mente"
+    rule_ref: "L3#3"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-054
+    type: transformation
+    tier: extended
+    front_en: "annually"
+    back_es: "anualmente"
+    hint: "-ly → -mente"
+    rule_ref: "L3#3, L2#10"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-055
+    type: transformation
+    tier: extended
+    front_en: "frequently"
+    back_es: "frecuentemente"
+    hint: "-ly → -mente"
+    rule_ref: "L3#3"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-056
+    type: transformation
+    tier: extended
+    front_en: "recently"
+    back_es: "recientemente"
+    hint: "-ly → -mente"
+    rule_ref: "L3#3"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-057
+    type: transformation
+    tier: extended
+    front_en: "evidently"
+    back_es: "evidentemente"
+    hint: "-ly → -mente"
+    rule_ref: "L3#3"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-058
+    type: transformation
+    tier: extended
+    front_en: "urgently"
+    back_es: "urgentemente"
+    hint: "-ly → -mente; /-khen-/"
+    rule_ref: "L3#3, L3#7"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-059
+    type: transformation
+    tier: extended
+    front_en: "elegantly"
+    back_es: "elegantemente"
+    hint: "-ly → -mente"
+    rule_ref: "L3#3"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-060
+    type: transformation
+    tier: extended
+    front_en: "patiently"
+    back_es: "pacientemente"
+    hint: "-ly → -mente"
+    rule_ref: "L3#3"
+    lessons: [3]
+    directions: [en_es, es_en]
+
+  # ---------------- EXTENDED: more -ible / -able cognates ----------------
+  - id: l3-061
+    type: transformation
+    tier: extended
+    front_en: "terrible"
+    back_es: "terrible"
+    hint: "-ible → -ible"
+    rule_ref: "L3#8"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-062
+    type: transformation
+    tier: extended
+    front_en: "horrible"
+    back_es: "horrible"
+    hint: "-ible → -ible"
+    rule_ref: "L3#8"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-063
+    type: transformation
+    tier: extended
+    front_en: "visible"
+    back_es: "visible"
+    hint: "-ible → -ible"
+    rule_ref: "L3#8"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-064
+    type: transformation
+    tier: extended
+    front_en: "incredible"
+    back_es: "increíble"
+    hint: "-ible → -íble (accent on í)"
+    rule_ref: "L3#8"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-065
+    type: transformation
+    tier: extended
+    front_en: "responsible"
+    back_es: "responsable"
+    hint: "Spanish uses -able here"
+    rule_ref: "L3#8"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-066
+    type: transformation
+    tier: extended
+    front_en: "impossible"
+    back_es: "imposible"
+    hint: "-ible → -ible; one s"
+    rule_ref: "L3#8"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-067
+    type: transformation
+    tier: extended
+    front_en: "improbable"
+    back_es: "improbable"
+    hint: "-able → -able"
+    rule_ref: "L3#8"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-068
+    type: transformation
+    tier: extended
+    front_en: "notable"
+    back_es: "notable"
+    hint: "-able → -able"
+    rule_ref: "L3#8"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-069
+    type: transformation
+    tier: extended
+    front_en: "adorable"
+    back_es: "adorable"
+    hint: "-able → -able"
+    rule_ref: "L3#8"
+    lessons: [3]
+    directions: [en_es, es_en]
+  - id: l3-070
+    type: transformation
+    tier: extended
+    front_en: "inevitable"
+    back_es: "inevitable"
+    hint: "-able → -able"
+    rule_ref: "L3#8"
+    lessons: [3]
+    directions: [en_es, es_en]
+
+  # ---------------- EXTENDED: /j/ → /kh/ cognates ----------------
+  - id: l3-071
+    type: transformation
+    tier: extended
+    front_en: "energetic"
+    back_es: "energético"
+    hint: "/-khe-/ for ge-"
+    rule_ref: "L3#7"
+    lessons: [3]
+    directions: [en_es, es_en]
+
+  # ---------------- EXTENDED: sentence variants combining the rules ----------------
+  - id: l3-072
+    type: sentence
+    tier: extended
+    front_en: "It's possible."
+    back_es: "Es posible."
+    rule_ref: "L3#8, L2#7"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-073
+    type: sentence
+    tier: extended
+    front_en: "It's not possible."
+    back_es: "No es posible."
+    rule_ref: "L3#8, L2#9"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-074
+    type: sentence
+    tier: extended
+    front_en: "It's probable."
+    back_es: "Es probable."
+    rule_ref: "L3#8, L2#7"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-075
+    type: sentence
+    tier: extended
+    front_en: "It's not probable."
+    back_es: "No es probable."
+    rule_ref: "L3#8, L2#9"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-076
+    type: sentence
+    tier: extended
+    front_en: "It's flexible."
+    back_es: "Es flexible."
+    rule_ref: "L3#8, L2#7"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-077
+    type: sentence
+    tier: extended
+    front_en: "It's terrible."
+    back_es: "Es terrible."
+    rule_ref: "L3#8, L2#7"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-078
+    type: sentence
+    tier: extended
+    front_en: "It's horrible."
+    back_es: "Es horrible."
+    rule_ref: "L3#8, L2#7"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-079
+    type: sentence
+    tier: extended
+    front_en: "It's incredible."
+    back_es: "Es increíble."
+    rule_ref: "L3#8, L2#7"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-080
+    type: sentence
+    tier: extended
+    front_en: "It's not visible."
+    back_es: "No es visible."
+    rule_ref: "L3#8, L2#9"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-081
+    type: sentence
+    tier: extended
+    front_en: "It's evident."
+    back_es: "Es evidente."
+    rule_ref: "L3#1, L2#7"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-082
+    type: sentence
+    tier: extended
+    front_en: "It's not evident."
+    back_es: "No es evidente."
+    rule_ref: "L3#1, L2#9"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-083
+    type: sentence
+    tier: extended
+    front_en: "It's permanent."
+    back_es: "Es permanente."
+    rule_ref: "L3#1, L2#7"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-084
+    type: sentence
+    tier: extended
+    front_en: "It's not permanent."
+    back_es: "No es permanente."
+    rule_ref: "L3#1, L2#9"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-085
+    type: sentence
+    tier: extended
+    front_en: "It's elegant."
+    back_es: "Es elegante."
+    rule_ref: "L3#1, L2#7"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-086
+    type: sentence
+    tier: extended
+    front_en: "It's interesting."
+    back_es: "Es interesante."
+    rule_ref: "L3#1, L2#7"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-087
+    type: sentence
+    tier: extended
+    front_en: "It's not interesting."
+    back_es: "No es interesante."
+    rule_ref: "L3#1, L2#9"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-088
+    type: sentence
+    tier: extended
+    front_en: "It's urgent."
+    back_es: "Es urgente."
+    rule_ref: "L3#1, L3#7, L2#7"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-089
+    type: sentence
+    tier: extended
+    front_en: "It's not urgent."
+    back_es: "No es urgente."
+    rule_ref: "L3#1, L3#7, L2#9"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-090
+    type: sentence
+    tier: extended
+    front_en: "It's intelligent."
+    back_es: "Es inteligente."
+    rule_ref: "L3#1, L3#7, L2#7"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-091
+    type: sentence
+    tier: extended
+    front_en: "It's excellent."
+    back_es: "Es excelente."
+    rule_ref: "L3#1, L2#7"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-092
+    type: sentence
+    tier: extended
+    front_en: "It's sufficient."
+    back_es: "Es suficiente."
+    rule_ref: "L3#1, L2#7"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-093
+    type: sentence
+    tier: extended
+    front_en: "It's not sufficient."
+    back_es: "No es suficiente."
+    rule_ref: "L3#1, L2#9"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-094
+    type: sentence
+    tier: extended
+    front_en: "It's general."
+    back_es: "Es general."
+    rule_ref: "L3#7, L2#7"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-095
+    type: sentence
+    tier: extended
+    front_en: "It's digital."
+    back_es: "Es digital."
+    rule_ref: "L3#7, L2#7"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-096
+    type: sentence
+    tier: extended
+    front_en: "It's original."
+    back_es: "Es original."
+    rule_ref: "L3#7, L2#7"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-097
+    type: sentence
+    tier: extended
+    front_en: "It's not original."
+    back_es: "No es original."
+    rule_ref: "L3#7, L2#9"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-098
+    type: sentence
+    tier: extended
+    front_en: "Generally it's important."
+    back_es: "Generalmente es importante."
+    rule_ref: "L3#3, L3#7, L3#1"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-099
+    type: sentence
+    tier: extended
+    front_en: "Generally it's not important."
+    back_es: "Generalmente no es importante."
+    rule_ref: "L3#3, L3#7, L2#9"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-100
+    type: sentence
+    tier: extended
+    front_en: "Probably it's legal."
+    back_es: "Probablemente es legal."
+    rule_ref: "L3#3, L3#8, L2#2"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-101
+    type: sentence
+    tier: extended
+    front_en: "Probably it's not legal."
+    back_es: "Probablemente no es legal."
+    rule_ref: "L3#3, L3#8, L2#9"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-102
+    type: sentence
+    tier: extended
+    front_en: "Possibly it's important."
+    back_es: "Posiblemente es importante."
+    rule_ref: "L3#3, L3#8, L3#1"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-103
+    type: sentence
+    tier: extended
+    front_en: "Really it's normal."
+    back_es: "Realmente es normal."
+    rule_ref: "L3#3, L3#4, L2#2"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-104
+    type: sentence
+    tier: extended
+    front_en: "Naturally it's natural."
+    back_es: "Naturalmente es natural."
+    rule_ref: "L3#3, L2#2"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-105
+    type: sentence
+    tier: extended
+    front_en: "Constantly it's different."
+    back_es: "Constantemente es diferente."
+    rule_ref: "L3#3, L3#1"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-106
+    type: sentence
+    tier: extended
+    front_en: "Normally it's possible."
+    back_es: "Normalmente es posible."
+    rule_ref: "L3#3, L3#6, L3#8"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-107
+    type: sentence
+    tier: extended
+    front_en: "Usually it's flexible."
+    back_es: "Normalmente es flexible."
+    rule_ref: "L3#6, L3#8"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
+  - id: l3-108
+    type: sentence
+    tier: extended
+    front_en: "Globally it's important."
+    back_es: "Globalmente es importante."
+    rule_ref: "L3#3, L3#1"
+    lessons: [3]
+    directions: [en_es, es_en, shadow]
