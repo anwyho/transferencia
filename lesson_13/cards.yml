@@ -1,0 +1,749 @@
+lesson: 13
+title: "hacer / poder / esperar; -go family (tengo, vengo, salgo)"
+cards:
+  # ---------------- PRIMARY: Vocabulary (every entry from rules.md) ----------------
+  - id: l13-001
+    type: transformation
+    tier: primary
+    front_en: "to do / to make"
+    back_es: "hacer"
+    hint: "silent h"
+    rule_ref: "L13#2"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-002
+    type: transformation
+    tier: primary
+    front_en: "he/she does"
+    back_es: "hace"
+    hint: "/ase/ or /athe/"
+    rule_ref: "L13#2"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-003
+    type: transformation
+    tier: primary
+    front_en: "they do"
+    back_es: "hacen"
+    hint: "+ n"
+    rule_ref: "L13#3"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-004
+    type: transformation
+    tier: primary
+    front_en: "you (informal) do"
+    back_es: "haces"
+    hint: "+ s"
+    rule_ref: "L13#3"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-005
+    type: transformation
+    tier: primary
+    front_en: "what"
+    back_es: "qué"
+    hint: "accent"
+    rule_ref: "L13#vocab"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-006
+    type: transformation
+    tier: primary
+    front_en: "I can"
+    back_es: "puedo"
+    hint: "poder, soft d"
+    rule_ref: "L13#5"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-007
+    type: transformation
+    tier: primary
+    front_en: "he/she can"
+    back_es: "puede"
+    hint: "key vowel /e/"
+    rule_ref: "L13#5"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-008
+    type: transformation
+    tier: primary
+    front_en: "you (informal) can"
+    back_es: "puedes"
+    hint: "+ s"
+    rule_ref: "L13#5"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-009
+    type: transformation
+    tier: primary
+    front_en: "to sell"
+    back_es: "vender"
+    hint: "vending machine"
+    rule_ref: "L13#8"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-010
+    type: transformation
+    tier: primary
+    front_en: "I sell"
+    back_es: "vendo"
+    hint: "chop -er, add -o"
+    rule_ref: "L13#8"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-011
+    type: transformation
+    tier: primary
+    front_en: "to buy"
+    back_es: "comprar"
+    hint: "comprar"
+    rule_ref: "L13#8"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-012
+    type: transformation
+    tier: primary
+    front_en: "I buy"
+    back_es: "compro"
+    hint: "chop -ar, add -o"
+    rule_ref: "L13#8"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-013
+    type: transformation
+    tier: primary
+    front_en: "to arrive"
+    back_es: "llegar"
+    hint: "ll = /y/"
+    rule_ref: "L13#8"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-014
+    type: transformation
+    tier: primary
+    front_en: "I arrive"
+    back_es: "llego"
+    hint: "chop -ar, add -o"
+    rule_ref: "L13#8"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-015
+    type: transformation
+    tier: primary
+    front_en: "to leave / go out"
+    back_es: "salir"
+    hint: "-ir verb"
+    rule_ref: "L13#9"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-016
+    type: transformation
+    tier: primary
+    front_en: "I leave / go out"
+    back_es: "salgo"
+    hint: "-go family"
+    rule_ref: "L13#9"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-017
+    type: transformation
+    tier: primary
+    front_en: "to have"
+    back_es: "tener"
+    hint: "possess"
+    rule_ref: "L13#9"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-018
+    type: transformation
+    tier: primary
+    front_en: "I have"
+    back_es: "tengo"
+    hint: "-go family"
+    rule_ref: "L13#9"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-019
+    type: transformation
+    tier: primary
+    front_en: "to come"
+    back_es: "venir"
+    hint: "-ir verb"
+    rule_ref: "L13#9"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-020
+    type: transformation
+    tier: primary
+    front_en: "I come"
+    back_es: "vengo"
+    hint: "-go family"
+    rule_ref: "L13#9"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-021
+    type: transformation
+    tier: primary
+    front_en: "to wait / to hope"
+    back_es: "esperar"
+    hint: "des-perate = without hope"
+    rule_ref: "L13#12"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-022
+    type: transformation
+    tier: primary
+    front_en: "I wait / I hope"
+    back_es: "espero"
+    hint: "chop -ar, add -o"
+    rule_ref: "L13#12"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-023
+    type: transformation
+    tier: primary
+    front_en: "he/she waits"
+    back_es: "espera"
+    hint: "key vowel /a/"
+    rule_ref: "L13#12"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-024
+    type: transformation
+    tier: primary
+    front_en: "to know"
+    back_es: "saber"
+    hint: "with b — savvy"
+    rule_ref: "L13#14"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-025
+    type: transformation
+    tier: primary
+    front_en: "vocabulary"
+    back_es: "vocabulario"
+    hint: "-ary → -ario"
+    rule_ref: "L13#15"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-026
+    type: transformation
+    tier: primary
+    front_en: "mouth"
+    back_es: "boca"
+    hint: "with b"
+    rule_ref: "L13#14"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-027
+    type: transformation
+    tier: primary
+    front_en: "necessary"
+    back_es: "necesario"
+    hint: "-ary → -ario"
+    rule_ref: "L13#15"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-028
+    type: transformation
+    tier: primary
+    front_en: "contrary"
+    back_es: "contrario"
+    hint: "-ary → -ario"
+    rule_ref: "L13#15"
+    lessons: [13]
+    directions: [en_es, es_en]
+
+  # ---------------- PRIMARY: Conjugations ----------------
+  - id: l13-029
+    type: conjugation
+    tier: primary
+    front_en: "I form of hacer"
+    back_es: "hago"
+    hint: "-go family"
+    rule_ref: "L13#9"
+    lessons: [13]
+    directions: [en_es]
+  - id: l13-030
+    type: conjugation
+    tier: primary
+    front_en: "she form of hacer"
+    back_es: "hace"
+    rule_ref: "L13#2"
+    lessons: [13]
+    directions: [en_es]
+  - id: l13-031
+    type: conjugation
+    tier: primary
+    front_en: "they form of hacer"
+    back_es: "hacen"
+    rule_ref: "L13#3"
+    lessons: [13]
+    directions: [en_es]
+  - id: l13-032
+    type: conjugation
+    tier: primary
+    front_en: "you (informal) form of hacer"
+    back_es: "haces"
+    rule_ref: "L13#3"
+    lessons: [13]
+    directions: [en_es]
+  - id: l13-033
+    type: conjugation
+    tier: primary
+    front_en: "I form of poder"
+    back_es: "puedo"
+    hint: "irregular"
+    rule_ref: "L13#5"
+    lessons: [13]
+    directions: [en_es]
+  - id: l13-034
+    type: conjugation
+    tier: primary
+    front_en: "she form of poder"
+    back_es: "puede"
+    rule_ref: "L13#5"
+    lessons: [13]
+    directions: [en_es]
+  - id: l13-035
+    type: conjugation
+    tier: primary
+    front_en: "you (informal) form of poder"
+    back_es: "puedes"
+    rule_ref: "L13#5"
+    lessons: [13]
+    directions: [en_es]
+  - id: l13-036
+    type: conjugation
+    tier: primary
+    front_en: "I form of salir"
+    back_es: "salgo"
+    hint: "-go family"
+    rule_ref: "L13#9"
+    lessons: [13]
+    directions: [en_es]
+  - id: l13-037
+    type: conjugation
+    tier: primary
+    front_en: "I form of tener"
+    back_es: "tengo"
+    hint: "-go family"
+    rule_ref: "L13#9"
+    lessons: [13]
+    directions: [en_es]
+  - id: l13-038
+    type: conjugation
+    tier: primary
+    front_en: "I form of venir"
+    back_es: "vengo"
+    hint: "-go family"
+    rule_ref: "L13#9"
+    lessons: [13]
+    directions: [en_es]
+  - id: l13-039
+    type: conjugation
+    tier: primary
+    front_en: "I form of esperar"
+    back_es: "espero"
+    hint: "regular"
+    rule_ref: "L13#12"
+    lessons: [13]
+    directions: [en_es]
+  - id: l13-040
+    type: conjugation
+    tier: primary
+    front_en: "she form of esperar"
+    back_es: "espera"
+    rule_ref: "L13#12"
+    lessons: [13]
+    directions: [en_es]
+  - id: l13-041
+    type: conjugation
+    tier: primary
+    front_en: "I form of vender"
+    back_es: "vendo"
+    rule_ref: "L13#8"
+    lessons: [13]
+    directions: [en_es]
+  - id: l13-042
+    type: conjugation
+    tier: primary
+    front_en: "I form of comprar"
+    back_es: "compro"
+    rule_ref: "L13#8"
+    lessons: [13]
+    directions: [en_es]
+  - id: l13-043
+    type: conjugation
+    tier: primary
+    front_en: "I form of llegar"
+    back_es: "llego"
+    rule_ref: "L13#8"
+    lessons: [13]
+    directions: [en_es]
+
+  # ---------------- PRIMARY: Sentences from rules.md ----------------
+  - id: l13-044
+    type: sentence
+    tier: primary
+    front_en: "He's doing it."
+    back_es: "Lo hace."
+    rule_ref: "L13#2"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-045
+    type: sentence
+    tier: primary
+    front_en: "They're doing it."
+    back_es: "Lo hacen."
+    rule_ref: "L13#3"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-046
+    type: sentence
+    tier: primary
+    front_en: "You're doing it."
+    back_es: "Lo haces."
+    rule_ref: "L13#3"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-047
+    type: sentence
+    tier: primary
+    front_en: "What are you doing?"
+    back_es: "¿Qué haces?"
+    hint: "also: how are you?"
+    rule_ref: "L13#3"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-048
+    type: sentence
+    tier: primary
+    front_en: "Can you come?"
+    back_es: "¿Puedes venir?"
+    rule_ref: "L13#6"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-049
+    type: sentence
+    tier: primary
+    front_en: "Can't you come?"
+    back_es: "¿No puedes venir?"
+    rule_ref: "L13#6"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-050
+    type: sentence
+    tier: primary
+    front_en: "Why can't you come?"
+    back_es: "¿Por qué no puedes venir?"
+    rule_ref: "L13#6"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-051
+    type: sentence
+    tier: primary
+    front_en: "I want to know why you can't come."
+    back_es: "Quiero saber por qué no puedes venir."
+    rule_ref: "L13#7"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-052
+    type: sentence
+    tier: primary
+    front_en: "They wait for me."
+    back_es: "Me esperan."
+    hint: "no word for 'for'"
+    rule_ref: "L13#13"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-053
+    type: sentence
+    tier: primary
+    front_en: "They're not waiting for me."
+    back_es: "No me esperan."
+    rule_ref: "L13#13"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-054
+    type: sentence
+    tier: primary
+    front_en: "I want to know."
+    back_es: "Quiero saber."
+    rule_ref: "L13#14"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-055
+    type: sentence
+    tier: primary
+    front_en: "I have to know."
+    back_es: "Tengo que saber."
+    rule_ref: "L13#9, L13#14"
+    lessons: [13]
+    directions: [en_es, es_en]
+
+  # ---------------- EXTENDED: more -go family conjugations + person variants ----------------
+  - id: l13-056
+    type: conjugation
+    tier: extended
+    front_en: "she form of poder"
+    back_es: "puede"
+    rule_ref: "L13#5"
+    lessons: [13]
+    directions: [en_es]
+  - id: l13-057
+    type: sentence
+    tier: extended
+    front_en: "I'm doing it."
+    back_es: "Lo hago."
+    rule_ref: "L13#9"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-058
+    type: sentence
+    tier: extended
+    front_en: "What are they doing?"
+    back_es: "¿Qué hacen?"
+    rule_ref: "L13#3"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-059
+    type: sentence
+    tier: extended
+    front_en: "I can come."
+    back_es: "Puedo venir."
+    rule_ref: "L13#6"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-060
+    type: sentence
+    tier: extended
+    front_en: "He can come."
+    back_es: "Puede venir."
+    rule_ref: "L13#5"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-061
+    type: sentence
+    tier: extended
+    front_en: "We can't come."
+    back_es: "No pueden venir."
+    hint: "they form approximation"
+    rule_ref: "L13#5"
+    lessons: [13]
+    directions: [en_es, es_en]
+    notes: "Strict 'we' (podemos) lands L17-18; using they-form."
+  - id: l13-062
+    type: sentence
+    tier: extended
+    front_en: "I'm leaving now."
+    back_es: "Salgo ahora."
+    rule_ref: "L13#9"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-063
+    type: sentence
+    tier: extended
+    front_en: "He's coming later."
+    back_es: "Viene más tarde."
+    hint: "vowel split foreshadow"
+    rule_ref: "L13#9"
+    lessons: [13]
+    directions: [en_es, es_en]
+    notes: "Vowel split rule lands L15."
+  - id: l13-064
+    type: sentence
+    tier: extended
+    front_en: "I'm waiting for it."
+    back_es: "Lo espero."
+    rule_ref: "L13#13"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-065
+    type: sentence
+    tier: extended
+    front_en: "I hope so."
+    back_es: "Espero que sí."
+    rule_ref: "L13#12"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-066
+    type: sentence
+    tier: extended
+    front_en: "She doesn't sell it."
+    back_es: "No lo vende."
+    rule_ref: "L13#8"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-067
+    type: sentence
+    tier: extended
+    front_en: "I'm not buying it."
+    back_es: "No lo compro."
+    rule_ref: "L13#8"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-068
+    type: sentence
+    tier: extended
+    front_en: "They're arriving later."
+    back_es: "Llegan más tarde."
+    rule_ref: "L13#8"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-069
+    type: sentence
+    tier: extended
+    front_en: "I have it."
+    back_es: "Lo tengo."
+    rule_ref: "L13#9"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-070
+    type: sentence
+    tier: extended
+    front_en: "I have to do it."
+    back_es: "Tengo que hacerlo."
+    rule_ref: "L13#9"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-071
+    type: sentence
+    tier: extended
+    front_en: "I want to do it."
+    back_es: "Quiero hacerlo."
+    rule_ref: "L13#2"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-072
+    type: sentence
+    tier: extended
+    front_en: "I can do it."
+    back_es: "Puedo hacerlo."
+    rule_ref: "L13#5"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-073
+    type: sentence
+    tier: extended
+    front_en: "Why isn't he coming?"
+    back_es: "¿Por qué no viene?"
+    rule_ref: "L13#9"
+    lessons: [13]
+    directions: [en_es, es_en]
+    notes: "viene foreshadow."
+  - id: l13-074
+    type: sentence
+    tier: extended
+    front_en: "What can he do?"
+    back_es: "¿Qué puede hacer?"
+    rule_ref: "L13#5"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-075
+    type: sentence
+    tier: extended
+    front_en: "It's necessary."
+    back_es: "Es necesario."
+    rule_ref: "L13#15"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-076
+    type: sentence
+    tier: extended
+    front_en: "It's the contrary."
+    back_es: "Es lo contrario."
+    rule_ref: "L13#15"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-077
+    type: sentence
+    tier: extended
+    front_en: "I want to sell it."
+    back_es: "Quiero venderlo."
+    rule_ref: "L13#8"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-078
+    type: sentence
+    tier: extended
+    front_en: "I want to buy it."
+    back_es: "Quiero comprarlo."
+    rule_ref: "L13#8"
+    lessons: [13]
+    directions: [en_es, es_en]
+
+  # ---------------- EXTENDED: -ary → -ario transformations ----------------
+  - id: l13-079
+    type: transformation
+    tier: extended
+    front_en: "ordinary"
+    back_es: "ordinario"
+    hint: "-ary → -ario"
+    rule_ref: "L13#15"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-080
+    type: transformation
+    tier: extended
+    front_en: "imaginary"
+    back_es: "imaginario"
+    hint: "-ary → -ario"
+    rule_ref: "L13#15"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-081
+    type: transformation
+    tier: extended
+    front_en: "salary"
+    back_es: "salario"
+    hint: "-ary → -ario"
+    rule_ref: "L13#15"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-082
+    type: transformation
+    tier: extended
+    front_en: "secondary"
+    back_es: "secundario"
+    hint: "-ary → -ario"
+    rule_ref: "L13#15"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-083
+    type: transformation
+    tier: extended
+    front_en: "voluntary"
+    back_es: "voluntario"
+    hint: "-ary → -ario"
+    rule_ref: "L13#15"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-084
+    type: transformation
+    tier: extended
+    front_en: "literary"
+    back_es: "literario"
+    hint: "-ary → -ario"
+    rule_ref: "L13#15"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-085
+    type: transformation
+    tier: extended
+    front_en: "primary"
+    back_es: "primario"
+    hint: "-ary → -ario"
+    rule_ref: "L13#15"
+    lessons: [13]
+    directions: [en_es, es_en]
+  - id: l13-086
+    type: transformation
+    tier: extended
+    front_en: "diary"
+    back_es: "diario"
+    hint: "-ary → -ario"
+    rule_ref: "L13#15"
+    lessons: [13]
+    directions: [en_es, es_en]

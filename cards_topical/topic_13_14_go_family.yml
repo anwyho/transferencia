@@ -1,0 +1,413 @@
+topic: "-go family + spine roll-call"
+lessons: [13, 14]
+cards:
+  # ---------------- -go roll-call across all five members ----------------
+  - id: t13_14-001
+    type: conjugation
+    tier: extended
+    front_en: "I form of hacer"
+    back_es: "hago"
+    hint: "-go family"
+    rule_ref: "L13#9, L14#10"
+    lessons: [13, 14]
+    directions: [en_es]
+  - id: t13_14-002
+    type: conjugation
+    tier: extended
+    front_en: "I form of tener"
+    back_es: "tengo"
+    rule_ref: "L13#9, L14#10"
+    lessons: [13, 14]
+    directions: [en_es]
+  - id: t13_14-003
+    type: conjugation
+    tier: extended
+    front_en: "I form of venir"
+    back_es: "vengo"
+    rule_ref: "L13#9, L14#10"
+    lessons: [13, 14]
+    directions: [en_es]
+  - id: t13_14-004
+    type: conjugation
+    tier: extended
+    front_en: "I form of salir"
+    back_es: "salgo"
+    rule_ref: "L13#9, L14#10"
+    lessons: [13, 14]
+    directions: [en_es]
+  - id: t13_14-005
+    type: conjugation
+    tier: extended
+    front_en: "I form of poner"
+    back_es: "pongo"
+    rule_ref: "L14#13"
+    lessons: [14]
+    directions: [en_es]
+  - id: t13_14-006
+    type: conjugation
+    tier: extended
+    front_en: "I form of suponer"
+    back_es: "supongo"
+    rule_ref: "L14#13"
+    lessons: [14]
+    directions: [en_es]
+  - id: t13_14-007
+    type: conjugation
+    tier: extended
+    front_en: "I form of oponer"
+    back_es: "opongo"
+    rule_ref: "L14#13"
+    lessons: [14]
+    directions: [en_es]
+
+  # ---------------- L13 verbs through L14 persons (yo / él / ella / cuándo) ----------------
+  - id: t13_14-008
+    type: sentence
+    tier: extended
+    front_en: "I'm doing it. (emphatic)"
+    back_es: "Yo lo hago."
+    rule_ref: "L14#7, L13#9"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-009
+    type: sentence
+    tier: extended
+    front_en: "She's doing it."
+    back_es: "Ella lo hace."
+    rule_ref: "L14#4, L13#2"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-010
+    type: sentence
+    tier: extended
+    front_en: "He's doing it. (emphatic)"
+    back_es: "Él lo hace."
+    rule_ref: "L14#4, L13#2"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-011
+    type: sentence
+    tier: extended
+    front_en: "When can he come?"
+    back_es: "¿Cuándo puede venir?"
+    rule_ref: "L14#17, L13#5"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-012
+    type: sentence
+    tier: extended
+    front_en: "When are you coming to do it?"
+    back_es: "¿Cuándo vienes a hacerlo?"
+    rule_ref: "L14#17, L13#9"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-013
+    type: sentence
+    tier: extended
+    front_en: "She's waiting for you."
+    back_es: "Ella te espera."
+    rule_ref: "L14#4, L13#13"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-014
+    type: sentence
+    tier: extended
+    front_en: "I want to wait."
+    back_es: "Quiero esperar."
+    rule_ref: "L13#12"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-015
+    type: sentence
+    tier: extended
+    front_en: "He's waiting for them."
+    back_es: "Los espera."
+    rule_ref: "L13#13"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+
+  # ---------------- Spine roll-call: quiero / voy a / tengo que / puedo / debo + verb ----------------
+  - id: t13_14-016
+    type: sentence
+    tier: extended
+    front_en: "I want to come."
+    back_es: "Quiero venir."
+    rule_ref: "L14#19"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-017
+    type: sentence
+    tier: extended
+    front_en: "I'm going to come."
+    back_es: "Voy a venir."
+    rule_ref: "L14#19"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-018
+    type: sentence
+    tier: extended
+    front_en: "I have to come."
+    back_es: "Tengo que venir."
+    rule_ref: "L14#12, L14#19"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-019
+    type: sentence
+    tier: extended
+    front_en: "I can come."
+    back_es: "Puedo venir."
+    rule_ref: "L13#6, L14#19"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-020
+    type: sentence
+    tier: extended
+    front_en: "I must come."
+    back_es: "Debo venir."
+    rule_ref: "L14#18, L14#19"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-021
+    type: sentence
+    tier: extended
+    front_en: "I want to do it."
+    back_es: "Quiero hacerlo."
+    rule_ref: "L14#19, L13#9"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-022
+    type: sentence
+    tier: extended
+    front_en: "I'm going to do it."
+    back_es: "Voy a hacerlo."
+    rule_ref: "L14#19, L13#9"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-023
+    type: sentence
+    tier: extended
+    front_en: "I have to do it."
+    back_es: "Tengo que hacerlo."
+    rule_ref: "L14#12, L13#9"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-024
+    type: sentence
+    tier: extended
+    front_en: "I can do it."
+    back_es: "Puedo hacerlo."
+    rule_ref: "L13#5, L13#9"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-025
+    type: sentence
+    tier: extended
+    front_en: "I must do it."
+    back_es: "Debo hacerlo."
+    rule_ref: "L14#18, L13#9"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-026
+    type: sentence
+    tier: extended
+    front_en: "I want to leave."
+    back_es: "Quiero salir."
+    rule_ref: "L14#19, L13#9"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-027
+    type: sentence
+    tier: extended
+    front_en: "I have to leave."
+    back_es: "Tengo que salir."
+    rule_ref: "L14#12, L13#9"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-028
+    type: sentence
+    tier: extended
+    front_en: "I can leave."
+    back_es: "Puedo salir."
+    rule_ref: "L13#5, L13#9"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-029
+    type: sentence
+    tier: extended
+    front_en: "I want to put it here."
+    back_es: "Quiero ponerlo."
+    rule_ref: "L14#19, L14#13"
+    lessons: [14]
+    directions: [en_es, es_en]
+  - id: t13_14-030
+    type: sentence
+    tier: extended
+    front_en: "I have to put it here."
+    back_es: "Tengo que ponerlo."
+    rule_ref: "L14#12, L14#13"
+    lessons: [14]
+    directions: [en_es, es_en]
+  - id: t13_14-031
+    type: sentence
+    tier: extended
+    front_en: "I want to oppose it."
+    back_es: "Quiero oponerlo."
+    rule_ref: "L14#19, L14#13"
+    lessons: [14]
+    directions: [en_es, es_en]
+  - id: t13_14-032
+    type: sentence
+    tier: extended
+    front_en: "I have to suppose it."
+    back_es: "Tengo que suponerlo."
+    rule_ref: "L14#12, L14#13"
+    lessons: [14]
+    directions: [en_es, es_en]
+
+  # ---------------- Question stitching ----------------
+  - id: t13_14-033
+    type: sentence
+    tier: extended
+    front_en: "What does he do?"
+    back_es: "¿Qué hace?"
+    rule_ref: "L13#2"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-034
+    type: sentence
+    tier: extended
+    front_en: "What can she do?"
+    back_es: "¿Qué puede hacer?"
+    rule_ref: "L13#5, L13#2"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-035
+    type: sentence
+    tier: extended
+    front_en: "What do you have?"
+    back_es: "¿Qué tienes?"
+    rule_ref: "L14#11"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-036
+    type: sentence
+    tier: extended
+    front_en: "I want to know what they have."
+    back_es: "Quiero saber qué tienen."
+    rule_ref: "L14#11, L13#7"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-037
+    type: sentence
+    tier: extended
+    front_en: "Why doesn't he want to come?"
+    back_es: "¿Por qué no quiere venir?"
+    rule_ref: "L14#3, L13#9"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-038
+    type: sentence
+    tier: extended
+    front_en: "I want to know why she's leaving."
+    back_es: "Quiero saber por qué sale."
+    rule_ref: "L13#7, L14#8"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-039
+    type: sentence
+    tier: extended
+    front_en: "When are they arriving?"
+    back_es: "¿Cuándo llegan?"
+    rule_ref: "L14#17, L13#8"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-040
+    type: sentence
+    tier: extended
+    front_en: "I have to arrive later."
+    back_es: "Tengo que llegar más tarde."
+    rule_ref: "L14#12, L13#8"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+
+  # ---------------- vocab + spine + -go combos ----------------
+  - id: t13_14-041
+    type: sentence
+    tier: extended
+    front_en: "He has it."
+    back_es: "Lo tiene."
+    rule_ref: "L14#11"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-042
+    type: sentence
+    tier: extended
+    front_en: "They have it."
+    back_es: "Lo tienen."
+    rule_ref: "L14#11"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-043
+    type: sentence
+    tier: extended
+    front_en: "He's coming later."
+    back_es: "Viene más tarde."
+    rule_ref: "L14#15"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-044
+    type: sentence
+    tier: extended
+    front_en: "They're coming now."
+    back_es: "Vienen ahora."
+    rule_ref: "L14#15"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-045
+    type: sentence
+    tier: extended
+    front_en: "He's leaving to eat."
+    back_es: "Sale a comer."
+    rule_ref: "L14#9, L14#8"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-046
+    type: sentence
+    tier: extended
+    front_en: "I'm going to leave to eat."
+    back_es: "Voy a salir a comer."
+    rule_ref: "L14#9, L14#19"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-047
+    type: sentence
+    tier: extended
+    front_en: "He has to leave."
+    back_es: "Tiene que salir."
+    rule_ref: "L14#12, L14#11"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-048
+    type: sentence
+    tier: extended
+    front_en: "I have to wait."
+    back_es: "Tengo que esperar."
+    rule_ref: "L14#12, L13#12"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-049
+    type: sentence
+    tier: extended
+    front_en: "I have to wait for them."
+    back_es: "Tengo que esperarlos."
+    rule_ref: "L14#12, L13#13"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
+  - id: t13_14-050
+    type: sentence
+    tier: extended
+    front_en: "I want to wait for her."
+    back_es: "Quiero esperarla."
+    rule_ref: "L14#19, L13#13"
+    lessons: [13, 14]
+    directions: [en_es, es_en]
