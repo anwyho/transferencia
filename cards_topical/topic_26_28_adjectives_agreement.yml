@@ -1,0 +1,422 @@
+topic: "Adjectives go after + full gender/number agreement; quedar with helpers"
+lessons: [26, 27, 28]
+cards:
+  # ---------------- quedar with all helpers (full table) ----------------
+  - id: t26_28-001
+    type: sentence
+    tier: extended
+    front_en: "I'm going to stay here."
+    back_es: "Voy a quedarme aquí."
+    rule_ref: "L26#1"
+    lessons: [26, 27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-002
+    type: sentence
+    tier: extended
+    front_en: "I want to stay here."
+    back_es: "Quiero quedarme aquí."
+    rule_ref: "L26#1"
+    lessons: [26, 27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-003
+    type: sentence
+    tier: extended
+    front_en: "I must stay here."
+    back_es: "Debo quedarme aquí."
+    rule_ref: "L26#1"
+    lessons: [26, 27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-004
+    type: sentence
+    tier: extended
+    front_en: "I have to stay here."
+    back_es: "Tengo que quedarme aquí."
+    rule_ref: "L26#1"
+    lessons: [26, 27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-005
+    type: sentence
+    tier: extended
+    front_en: "I can stay here."
+    back_es: "Puedo quedarme aquí."
+    rule_ref: "L26#1"
+    lessons: [26, 27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-006
+    type: sentence
+    tier: extended
+    front_en: "I'm planning to stay here."
+    back_es: "Pienso quedarme aquí."
+    rule_ref: "L26#10"
+    lessons: [26, 27, 28]
+    directions: [en_es, es_en]
+
+  # ---------------- adjective agreement drills (full grid) ----------------
+  - id: t26_28-007
+    type: sentence
+    tier: extended
+    front_en: "The expensive house."
+    back_es: "La casa cara."
+    rule_ref: "L27#1, L28#5"
+    lessons: [27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-008
+    type: sentence
+    tier: extended
+    front_en: "The expensive houses."
+    back_es: "Las casas caras."
+    rule_ref: "L28#7"
+    lessons: [27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-009
+    type: sentence
+    tier: extended
+    front_en: "The expensive car."
+    back_es: "El carro caro."
+    rule_ref: "L28#5"
+    lessons: [27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-010
+    type: sentence
+    tier: extended
+    front_en: "The expensive cars."
+    back_es: "Los carros caros."
+    rule_ref: "L28#7"
+    lessons: [27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-011
+    type: sentence
+    tier: extended
+    front_en: "The big red car."
+    back_es: "El auto grande rojo."
+    rule_ref: "L27#1, L27#15"
+    lessons: [27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-012
+    type: sentence
+    tier: extended
+    front_en: "The big red cars."
+    back_es: "Los autos grandes rojos."
+    rule_ref: "L27#8, L28#7"
+    lessons: [27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-013
+    type: sentence
+    tier: extended
+    front_en: "She's a creative teacher."
+    back_es: "Es una profesora creativa."
+    rule_ref: "L28#9, L28#13"
+    lessons: [28]
+    directions: [en_es, es_en]
+  - id: t26_28-014
+    type: sentence
+    tier: extended
+    front_en: "He's an aggressive doctor."
+    back_es: "Es un doctor agresivo."
+    rule_ref: "L28#9, L28#18"
+    lessons: [28]
+    directions: [en_es, es_en]
+  - id: t26_28-015
+    type: sentence
+    tier: extended
+    front_en: "They're attractive doctors."
+    back_es: "Son doctores atractivos."
+    rule_ref: "L28#7"
+    lessons: [28]
+    directions: [en_es, es_en]
+  - id: t26_28-016
+    type: sentence
+    tier: extended
+    front_en: "She's a positive person."
+    back_es: "Es una persona positiva."
+    rule_ref: "L28#13"
+    lessons: [28]
+    directions: [en_es, es_en]
+
+  # ---------------- llamar + reflexive + names ----------------
+  - id: t26_28-017
+    type: sentence
+    tier: extended
+    front_en: "What's your name? My name is Pablo."
+    back_es: "¿Cómo te llamas? Me llamo Pablo."
+    rule_ref: "L26#16, L26#17"
+    lessons: [26, 27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-018
+    type: sentence
+    tier: extended
+    front_en: "His name is Carlos."
+    back_es: "Se llama Carlos."
+    rule_ref: "L26#18"
+    lessons: [26, 27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-019
+    type: sentence
+    tier: extended
+    front_en: "Her name is María."
+    back_es: "Se llama María."
+    rule_ref: "L26#18"
+    lessons: [26, 27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-020
+    type: sentence
+    tier: extended
+    front_en: "What are their names?"
+    back_es: "¿Cómo se llaman?"
+    rule_ref: "L26#18"
+    lessons: [26, 27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-021
+    type: sentence
+    tier: extended
+    front_en: "I want to call him."
+    back_es: "Quiero llamarlo."
+    rule_ref: "L26#15"
+    lessons: [26, 27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-022
+    type: sentence
+    tier: extended
+    front_en: "I haven't called him."
+    back_es: "No lo he llamado."
+    rule_ref: "L26#15"
+    lessons: [26, 27, 28]
+    directions: [en_es, es_en]
+
+  # ---------------- son + adjective ----------------
+  - id: t26_28-023
+    type: sentence
+    tier: extended
+    front_en: "The cars are red."
+    back_es: "Los carros son rojos."
+    rule_ref: "L27#15, L28#7"
+    lessons: [27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-024
+    type: sentence
+    tier: extended
+    front_en: "The houses are red."
+    back_es: "Las casas son rojas."
+    rule_ref: "L27#15, L28#7"
+    lessons: [27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-025
+    type: sentence
+    tier: extended
+    front_en: "They are big."
+    back_es: "Son grandes."
+    rule_ref: "L27#7, L28#7"
+    lessons: [27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-026
+    type: sentence
+    tier: extended
+    front_en: "They are very expensive."
+    back_es: "Son muy caros."
+    rule_ref: "L28#16"
+    lessons: [28]
+    directions: [en_es, es_en]
+
+  # ---------------- "I'm staying in the [adj] [noun]" combos ----------------
+  - id: t26_28-027
+    type: sentence
+    tier: extended
+    front_en: "I'm staying in the big red house."
+    back_es: "Me quedo en la casa grande roja."
+    rule_ref: "L27#16"
+    lessons: [27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-028
+    type: sentence
+    tier: extended
+    front_en: "I have stayed in the red house."
+    back_es: "Me he quedado en la casa roja."
+    rule_ref: "L27#17"
+    lessons: [27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-029
+    type: sentence
+    tier: extended
+    front_en: "I want to stay in the big house."
+    back_es: "Quiero quedarme en la casa grande."
+    rule_ref: "L26#1, L27#16"
+    lessons: [26, 27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-030
+    type: sentence
+    tier: extended
+    front_en: "I have to find the red car."
+    back_es: "Tengo que encontrar el auto rojo."
+    rule_ref: "L27#12, L27#15"
+    lessons: [27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-031
+    type: sentence
+    tier: extended
+    front_en: "I have bought a big red car."
+    back_es: "He comprado un auto grande rojo."
+    rule_ref: "L27#18"
+    lessons: [27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-032
+    type: sentence
+    tier: extended
+    front_en: "She's bought herself a red car."
+    back_es: "Se ha comprado un auto rojo."
+    rule_ref: "L27#18"
+    lessons: [27, 28]
+    directions: [en_es, es_en]
+    notes: "se preview."
+
+  # ---------------- pensar + plans + agreements ----------------
+  - id: t26_28-033
+    type: sentence
+    tier: extended
+    front_en: "What do you plan to do?"
+    back_es: "¿Qué piensas hacer?"
+    rule_ref: "L26#10"
+    lessons: [26, 27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-034
+    type: sentence
+    tier: extended
+    front_en: "I plan to call her."
+    back_es: "Pienso llamarla."
+    rule_ref: "L26#10, L26#15"
+    lessons: [26, 27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-035
+    type: sentence
+    tier: extended
+    front_en: "We plan to stay here."
+    back_es: "Pensamos quedarnos aquí."
+    rule_ref: "L26#10"
+    lessons: [26, 27, 28]
+    directions: [en_es, es_en]
+
+  # ---------------- "muy" + adj agreements ----------------
+  - id: t26_28-036
+    type: sentence
+    tier: extended
+    front_en: "She's very intuitive."
+    back_es: "Es muy intuitiva."
+    rule_ref: "L28#16"
+    lessons: [28]
+    directions: [en_es, es_en]
+  - id: t26_28-037
+    type: sentence
+    tier: extended
+    front_en: "They are very negative."
+    back_es: "Son muy negativos."
+    rule_ref: "L28#16"
+    lessons: [28]
+    directions: [en_es, es_en]
+  - id: t26_28-038
+    type: sentence
+    tier: extended
+    front_en: "It's very expensive."
+    back_es: "Es muy caro."
+    rule_ref: "L28#16"
+    lessons: [28]
+    directions: [en_es, es_en]
+  - id: t26_28-039
+    type: sentence
+    tier: extended
+    front_en: "It's not very big."
+    back_es: "No es muy grande."
+    rule_ref: "L28#16"
+    lessons: [28]
+    directions: [en_es, es_en]
+
+  # ---------------- bundle wrap: stitch L26-28 ----------------
+  - id: t26_28-040
+    type: sentence
+    tier: extended
+    front_en: "I have to stay until ten."
+    back_es: "Tengo que quedarme hasta las diez."
+    rule_ref: "L26#1"
+    lessons: [26, 27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-041
+    type: sentence
+    tier: extended
+    front_en: "Why isn't she staying?"
+    back_es: "¿Por qué no se queda?"
+    rule_ref: "L26#5"
+    lessons: [26, 27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-042
+    type: sentence
+    tier: extended
+    front_en: "I have a big aggressive dog."
+    back_es: "Tengo un perro grande agresivo."
+    rule_ref: "L28#2, L28#18"
+    lessons: [27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-043
+    type: sentence
+    tier: extended
+    front_en: "Are they expensive cars?"
+    back_es: "¿Son carros caros?"
+    rule_ref: "L28#7"
+    lessons: [27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-044
+    type: sentence
+    tier: extended
+    front_en: "They're very creative teachers."
+    back_es: "Son profesoras muy creativas."
+    rule_ref: "L28#16"
+    lessons: [28]
+    directions: [en_es, es_en]
+  - id: t26_28-045
+    type: sentence
+    tier: extended
+    front_en: "I want to call the big doctor."
+    back_es: "Quiero llamar al doctor grande."
+    rule_ref: "L26#15"
+    lessons: [26, 27, 28]
+    directions: [en_es, es_en]
+    notes: "al = a + el lands L71."
+  - id: t26_28-046
+    type: sentence
+    tier: extended
+    front_en: "I haven't found the red house."
+    back_es: "No he encontrado la casa roja."
+    rule_ref: "L27#12, L27#15"
+    lessons: [27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-047
+    type: sentence
+    tier: extended
+    front_en: "We must call the doctors."
+    back_es: "Debemos llamar a los doctores."
+    rule_ref: "L26#19"
+    lessons: [26, 27, 28]
+    directions: [en_es, es_en]
+    notes: "personal a lands L71."
+  - id: t26_28-048
+    type: sentence
+    tier: extended
+    front_en: "She has to stay in the big house."
+    back_es: "Tiene que quedarse en la casa grande."
+    rule_ref: "L26#1, L27#16"
+    lessons: [26, 27, 28]
+    directions: [en_es, es_en]
+    notes: "se preview."
+  - id: t26_28-049
+    type: sentence
+    tier: extended
+    front_en: "I'm planning to buy a red car."
+    back_es: "Pienso comprar un auto rojo."
+    rule_ref: "L26#10, L27#15"
+    lessons: [26, 27, 28]
+    directions: [en_es, es_en]
+  - id: t26_28-050
+    type: sentence
+    tier: extended
+    front_en: "What's his name? His name is Pedro."
+    back_es: "¿Cómo se llama? Se llama Pedro."
+    rule_ref: "L26#18"
+    lessons: [26, 27, 28]
+    directions: [en_es, es_en]
