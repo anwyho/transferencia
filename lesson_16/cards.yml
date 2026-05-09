@@ -1,0 +1,738 @@
+lesson: 16
+title: "o → ue splits (poder, dormir, encontrar, mostrar); empezar; noun-vs-verb"
+cards:
+  # ---------------- PRIMARY: Vocab ----------------
+  - id: l16-001
+    type: transformation
+    tier: primary
+    front_en: "to commence / start"
+    back_es: "comenzar"
+    rule_ref: "L16#1"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-002
+    type: transformation
+    tier: primary
+    front_en: "to start"
+    back_es: "empezar"
+    hint: "more common"
+    rule_ref: "L16#1"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-003
+    type: transformation
+    tier: primary
+    front_en: "I start"
+    back_es: "empiezo"
+    hint: "ie split"
+    rule_ref: "L16#2"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-004
+    type: transformation
+    tier: primary
+    front_en: "he/she starts"
+    back_es: "empieza"
+    rule_ref: "L16#2"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-005
+    type: transformation
+    tier: primary
+    front_en: "they start"
+    back_es: "empiezan"
+    rule_ref: "L16#2"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-006
+    type: transformation
+    tier: primary
+    front_en: "you (informal) start"
+    back_es: "empiezas"
+    rule_ref: "L16#2"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-007
+    type: transformation
+    tier: primary
+    front_en: "the (masculine)"
+    back_es: "el"
+    rule_ref: "L16#4"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-008
+    type: transformation
+    tier: primary
+    front_en: "the (feminine)"
+    back_es: "la"
+    rule_ref: "L16#4"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-009
+    type: transformation
+    tier: primary
+    front_en: "the power (noun)"
+    back_es: "el poder"
+    hint: "noun version"
+    rule_ref: "L16#4"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-010
+    type: transformation
+    tier: primary
+    front_en: "to be able / can"
+    back_es: "poder"
+    rule_ref: "L16#5"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-011
+    type: transformation
+    tier: primary
+    front_en: "I can"
+    back_es: "puedo"
+    hint: "ue split"
+    rule_ref: "L16#6"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-012
+    type: transformation
+    tier: primary
+    front_en: "port"
+    back_es: "puerto"
+    hint: "ue split"
+    rule_ref: "L16#7"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-013
+    type: transformation
+    tier: primary
+    front_en: "rich / nice / tasty"
+    back_es: "rico"
+    rule_ref: "L16#7"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-014
+    type: transformation
+    tier: primary
+    front_en: "force"
+    back_es: "fuerza"
+    hint: "ue split"
+    rule_ref: "L16#7"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-015
+    type: transformation
+    tier: primary
+    front_en: "school"
+    back_es: "escuela"
+    hint: "ue split"
+    rule_ref: "L16#7"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-016
+    type: transformation
+    tier: primary
+    front_en: "body"
+    back_es: "cuerpo"
+    hint: "corp- → cuerpo"
+    rule_ref: "L16#7"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-017
+    type: transformation
+    tier: primary
+    front_en: "new"
+    back_es: "nuevo"
+    hint: "innov- → nuevo"
+    rule_ref: "L16#7"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-018
+    type: transformation
+    tier: primary
+    front_en: "village / a people"
+    back_es: "pueblo"
+    rule_ref: "L16#7"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-019
+    type: transformation
+    tier: primary
+    front_en: "population"
+    back_es: "población"
+    hint: "no split (exception)"
+    rule_ref: "L16#7"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-020
+    type: transformation
+    tier: primary
+    front_en: "death"
+    back_es: "la muerte"
+    hint: "ue split; mortgage = death pact"
+    rule_ref: "L16#7"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-021
+    type: transformation
+    tier: primary
+    front_en: "dead (masc)"
+    back_es: "muerto"
+    rule_ref: "L16#8"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-022
+    type: transformation
+    tier: primary
+    front_en: "dead (fem)"
+    back_es: "muerta"
+    rule_ref: "L16#8"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-023
+    type: transformation
+    tier: primary
+    front_en: "to sleep"
+    back_es: "dormir"
+    hint: "dormant"
+    rule_ref: "L16#9"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-024
+    type: transformation
+    tier: primary
+    front_en: "I sleep"
+    back_es: "duermo"
+    hint: "ue split"
+    rule_ref: "L16#9"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-025
+    type: transformation
+    tier: primary
+    front_en: "he/she sleeps"
+    back_es: "duerme"
+    rule_ref: "L16#9"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-026
+    type: transformation
+    tier: primary
+    front_en: "they sleep"
+    back_es: "duermen"
+    rule_ref: "L16#9"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-027
+    type: transformation
+    tier: primary
+    front_en: "I fall asleep"
+    back_es: "me duermo"
+    hint: "reflexive"
+    rule_ref: "L16#10"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-028
+    type: transformation
+    tier: primary
+    front_en: "to find / encounter"
+    back_es: "encontrar"
+    rule_ref: "L16#11"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-029
+    type: transformation
+    tier: primary
+    front_en: "I find"
+    back_es: "encuentro"
+    hint: "ue split"
+    rule_ref: "L16#11"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-030
+    type: transformation
+    tier: primary
+    front_en: "an encounter (noun)"
+    back_es: "un encuentro"
+    hint: "un signals noun"
+    rule_ref: "L16#11"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-031
+    type: transformation
+    tier: primary
+    front_en: "to demonstrate"
+    back_es: "demostrar"
+    hint: "de- (of) + mostrar"
+    rule_ref: "L16#13"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-032
+    type: transformation
+    tier: primary
+    front_en: "to show"
+    back_es: "mostrar"
+    rule_ref: "L16#13"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-033
+    type: transformation
+    tier: primary
+    front_en: "I show"
+    back_es: "muestro"
+    hint: "ue split"
+    rule_ref: "L16#13"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-034
+    type: transformation
+    tier: primary
+    front_en: "he/she shows"
+    back_es: "muestra"
+    rule_ref: "L16#13"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-035
+    type: transformation
+    tier: primary
+    front_en: "they show"
+    back_es: "muestran"
+    rule_ref: "L16#13"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-036
+    type: transformation
+    tier: primary
+    front_en: "a sample (noun)"
+    back_es: "una muestra"
+    hint: "una signals noun"
+    rule_ref: "L16#13"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-037
+    type: transformation
+    tier: primary
+    front_en: "of (Spanish prefix)"
+    back_es: "de-"
+    rule_ref: "L16#13"
+    lessons: [16]
+    directions: [en_es, es_en]
+
+  # ---------------- PRIMARY: Conjugations ----------------
+  - id: l16-038
+    type: conjugation
+    tier: primary
+    front_en: "I form of empezar"
+    back_es: "empiezo"
+    rule_ref: "L16#2"
+    lessons: [16]
+    directions: [en_es]
+  - id: l16-039
+    type: conjugation
+    tier: primary
+    front_en: "she form of empezar"
+    back_es: "empieza"
+    rule_ref: "L16#2"
+    lessons: [16]
+    directions: [en_es]
+  - id: l16-040
+    type: conjugation
+    tier: primary
+    front_en: "they form of empezar"
+    back_es: "empiezan"
+    rule_ref: "L16#2"
+    lessons: [16]
+    directions: [en_es]
+  - id: l16-041
+    type: conjugation
+    tier: primary
+    front_en: "you (informal) form of empezar"
+    back_es: "empiezas"
+    rule_ref: "L16#2"
+    lessons: [16]
+    directions: [en_es]
+  - id: l16-042
+    type: conjugation
+    tier: primary
+    front_en: "I form of poder"
+    back_es: "puedo"
+    rule_ref: "L16#6"
+    lessons: [16]
+    directions: [en_es]
+  - id: l16-043
+    type: conjugation
+    tier: primary
+    front_en: "she form of poder"
+    back_es: "puede"
+    rule_ref: "L16#6"
+    lessons: [16]
+    directions: [en_es]
+  - id: l16-044
+    type: conjugation
+    tier: primary
+    front_en: "they form of poder"
+    back_es: "pueden"
+    rule_ref: "L16#6"
+    lessons: [16]
+    directions: [en_es]
+  - id: l16-045
+    type: conjugation
+    tier: primary
+    front_en: "I form of dormir"
+    back_es: "duermo"
+    rule_ref: "L16#9"
+    lessons: [16]
+    directions: [en_es]
+  - id: l16-046
+    type: conjugation
+    tier: primary
+    front_en: "she form of dormir"
+    back_es: "duerme"
+    rule_ref: "L16#9"
+    lessons: [16]
+    directions: [en_es]
+  - id: l16-047
+    type: conjugation
+    tier: primary
+    front_en: "I form of encontrar"
+    back_es: "encuentro"
+    rule_ref: "L16#11"
+    lessons: [16]
+    directions: [en_es]
+  - id: l16-048
+    type: conjugation
+    tier: primary
+    front_en: "she form of encontrar"
+    back_es: "encuentra"
+    rule_ref: "L16#11"
+    lessons: [16]
+    directions: [en_es]
+  - id: l16-049
+    type: conjugation
+    tier: primary
+    front_en: "I form of mostrar"
+    back_es: "muestro"
+    rule_ref: "L16#13"
+    lessons: [16]
+    directions: [en_es]
+  - id: l16-050
+    type: conjugation
+    tier: primary
+    front_en: "she form of mostrar"
+    back_es: "muestra"
+    rule_ref: "L16#13"
+    lessons: [16]
+    directions: [en_es]
+
+  # ---------------- PRIMARY: Sentences from rules.md ----------------
+  - id: l16-051
+    type: sentence
+    tier: primary
+    front_en: "I start."
+    back_es: "Empiezo."
+    rule_ref: "L16#2"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-052
+    type: sentence
+    tier: primary
+    front_en: "When are you starting?"
+    back_es: "¿Cuándo empiezas?"
+    rule_ref: "L16#2"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-053
+    type: sentence
+    tier: primary
+    front_en: "Body."
+    back_es: "Cuerpo."
+    rule_ref: "L16#7"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-054
+    type: sentence
+    tier: primary
+    front_en: "New."
+    back_es: "Nuevo."
+    rule_ref: "L16#7"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-055
+    type: sentence
+    tier: primary
+    front_en: "Death."
+    back_es: "La muerte."
+    rule_ref: "L16#7"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-056
+    type: sentence
+    tier: primary
+    front_en: "I sleep."
+    back_es: "Duermo."
+    rule_ref: "L16#9"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-057
+    type: sentence
+    tier: primary
+    front_en: "He sleeps."
+    back_es: "Duerme."
+    rule_ref: "L16#9"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-058
+    type: sentence
+    tier: primary
+    front_en: "They sleep."
+    back_es: "Duermen."
+    rule_ref: "L16#9"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-059
+    type: sentence
+    tier: primary
+    front_en: "I'm falling asleep."
+    back_es: "Me duermo."
+    rule_ref: "L16#10"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-060
+    type: sentence
+    tier: primary
+    front_en: "I find it."
+    back_es: "Lo encuentro."
+    rule_ref: "L16#11"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-061
+    type: sentence
+    tier: primary
+    front_en: "An encounter."
+    back_es: "Un encuentro."
+    rule_ref: "L16#11"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-062
+    type: sentence
+    tier: primary
+    front_en: "I show."
+    back_es: "Muestro."
+    rule_ref: "L16#13"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-063
+    type: sentence
+    tier: primary
+    front_en: "She shows."
+    back_es: "Muestra."
+    rule_ref: "L16#13"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-064
+    type: sentence
+    tier: primary
+    front_en: "They show."
+    back_es: "Muestran."
+    rule_ref: "L16#13"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-065
+    type: sentence
+    tier: primary
+    front_en: "A sample."
+    back_es: "Una muestra."
+    rule_ref: "L16#13"
+    lessons: [16]
+    directions: [en_es, es_en]
+
+  # ---------------- EXTENDED ----------------
+  - id: l16-066
+    type: sentence
+    tier: extended
+    front_en: "I want to start now."
+    back_es: "Quiero empezar ahora."
+    rule_ref: "L16#2"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-067
+    type: sentence
+    tier: extended
+    front_en: "When does he start?"
+    back_es: "¿Cuándo empieza?"
+    rule_ref: "L16#2"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-068
+    type: sentence
+    tier: extended
+    front_en: "He has the power."
+    back_es: "Tiene el poder."
+    rule_ref: "L16#4"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-069
+    type: sentence
+    tier: extended
+    front_en: "I have to sleep."
+    back_es: "Tengo que dormir."
+    rule_ref: "L16#9"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-070
+    type: sentence
+    tier: extended
+    front_en: "He's falling asleep."
+    back_es: "Se duerme."
+    hint: "se = himself (preview)"
+    rule_ref: "L16#10"
+    lessons: [16]
+    directions: [en_es, es_en]
+    notes: "se reflexive lands L23+; light foreshadow."
+  - id: l16-071
+    type: sentence
+    tier: extended
+    front_en: "I can't find it."
+    back_es: "No lo encuentro."
+    rule_ref: "L16#11"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-072
+    type: sentence
+    tier: extended
+    front_en: "I want to find it."
+    back_es: "Quiero encontrarlo."
+    rule_ref: "L16#11"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-073
+    type: sentence
+    tier: extended
+    front_en: "Show me."
+    back_es: "Muéstrame."
+    hint: "command preview"
+    rule_ref: "L16#13"
+    lessons: [16]
+    directions: [en_es, es_en]
+    notes: "Commands land L72; conversational drill."
+  - id: l16-074
+    type: sentence
+    tier: extended
+    front_en: "He shows it to me."
+    back_es: "Me lo muestra."
+    rule_ref: "L16#13"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-075
+    type: sentence
+    tier: extended
+    front_en: "I want to show it."
+    back_es: "Quiero mostrarlo."
+    rule_ref: "L16#13"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-076
+    type: sentence
+    tier: extended
+    front_en: "I want to demonstrate it."
+    back_es: "Quiero demostrarlo."
+    rule_ref: "L16#13"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-077
+    type: sentence
+    tier: extended
+    front_en: "We start later."
+    back_es: "Empiezan más tarde."
+    hint: "they form approx"
+    rule_ref: "L16#2"
+    lessons: [16]
+    directions: [en_es, es_en]
+    notes: "Strict 'we' (empezamos) lands L17."
+  - id: l16-078
+    type: sentence
+    tier: extended
+    front_en: "He's a new body."
+    back_es: "Es un cuerpo nuevo."
+    rule_ref: "L16#7, L16#4"
+    lessons: [16]
+    directions: [en_es, es_en]
+    notes: "Adjective-after-noun lands L27; light foreshadow."
+  - id: l16-079
+    type: sentence
+    tier: extended
+    front_en: "I have to find them."
+    back_es: "Tengo que encontrarlos."
+    rule_ref: "L16#11"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-080
+    type: sentence
+    tier: extended
+    front_en: "Why don't you sleep?"
+    back_es: "¿Por qué no duermes?"
+    rule_ref: "L16#9"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-081
+    type: sentence
+    tier: extended
+    front_en: "She wants to sleep."
+    back_es: "Quiere dormir."
+    rule_ref: "L16#9"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-082
+    type: sentence
+    tier: extended
+    front_en: "I have to start."
+    back_es: "Tengo que empezar."
+    rule_ref: "L16#2"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-083
+    type: sentence
+    tier: extended
+    front_en: "I'm going to find it."
+    back_es: "Voy a encontrarlo."
+    rule_ref: "L16#11"
+    lessons: [16]
+    directions: [en_es, es_en]
+
+  # ---------------- EXTENDED: more o-split words ----------------
+  - id: l16-084
+    type: transformation
+    tier: extended
+    front_en: "to count / tell"
+    back_es: "contar"
+    hint: "ue split: cuento"
+    rule_ref: "L16#11"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-085
+    type: transformation
+    tier: extended
+    front_en: "I count / I tell"
+    back_es: "cuento"
+    hint: "ue split"
+    rule_ref: "L16#11"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-086
+    type: transformation
+    tier: extended
+    front_en: "to remember"
+    back_es: "recordar"
+    hint: "cor (heart) — recall"
+    rule_ref: "L16#11"
+    lessons: [16]
+    directions: [en_es, es_en]
+  - id: l16-087
+    type: transformation
+    tier: extended
+    front_en: "I remember"
+    back_es: "recuerdo"
+    hint: "ue split"
+    rule_ref: "L16#11"
+    lessons: [16]
+    directions: [en_es, es_en]

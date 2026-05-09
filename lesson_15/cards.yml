@@ -1,0 +1,697 @@
+lesson: 15
+title: "Vowel split: e → ie, o → ue (querer, tener, venir, pensar, entender, perder)"
+cards:
+  # ---------------- PRIMARY: Vocab ----------------
+  - id: l15-001
+    type: transformation
+    tier: primary
+    front_en: "to pass / to happen"
+    back_es: "pasar"
+    rule_ref: "L15#1"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-002
+    type: transformation
+    tier: primary
+    front_en: "he/she passes; it happens"
+    back_es: "pasa"
+    rule_ref: "L15#1"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-003
+    type: transformation
+    tier: primary
+    front_en: "what's happening?"
+    back_es: "¿qué pasa?"
+    rule_ref: "L15#1"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-004
+    type: transformation
+    tier: primary
+    front_en: "what happened?"
+    back_es: "¿qué pasó?"
+    hint: "stress on last o"
+    rule_ref: "L15#1"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-005
+    type: transformation
+    tier: primary
+    front_en: "to want"
+    back_es: "querer"
+    hint: "qu = /k/"
+    rule_ref: "L15#5"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-006
+    type: transformation
+    tier: primary
+    front_en: "I want"
+    back_es: "quiero"
+    hint: "e splits to ie"
+    rule_ref: "L15#5"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-007
+    type: transformation
+    tier: primary
+    front_en: "he/she wants"
+    back_es: "quiere"
+    hint: "ie split"
+    rule_ref: "L15#5"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-008
+    type: transformation
+    tier: primary
+    front_en: "they want"
+    back_es: "quieren"
+    rule_ref: "L15#5"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-009
+    type: transformation
+    tier: primary
+    front_en: "you (informal) want"
+    back_es: "quieres"
+    rule_ref: "L15#5"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-010
+    type: transformation
+    tier: primary
+    front_en: "to have"
+    back_es: "tener"
+    rule_ref: "L15#6"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-011
+    type: transformation
+    tier: primary
+    front_en: "he/she has"
+    back_es: "tiene"
+    hint: "ie split"
+    rule_ref: "L15#6"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-012
+    type: transformation
+    tier: primary
+    front_en: "they have"
+    back_es: "tienen"
+    rule_ref: "L15#6"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-013
+    type: transformation
+    tier: primary
+    front_en: "you (informal) have"
+    back_es: "tienes"
+    rule_ref: "L15#6"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-014
+    type: transformation
+    tier: primary
+    front_en: "to come"
+    back_es: "venir"
+    rule_ref: "L15#7"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-015
+    type: transformation
+    tier: primary
+    front_en: "he/she comes"
+    back_es: "viene"
+    hint: "ie split"
+    rule_ref: "L15#7"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-016
+    type: transformation
+    tier: primary
+    front_en: "they come"
+    back_es: "vienen"
+    rule_ref: "L15#7"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-017
+    type: transformation
+    tier: primary
+    front_en: "you (informal) come"
+    back_es: "vienes"
+    rule_ref: "L15#7"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-018
+    type: transformation
+    tier: primary
+    front_en: "time / weather"
+    back_es: "tiempo"
+    hint: "e-split from tempo"
+    rule_ref: "L15#8"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-019
+    type: transformation
+    tier: primary
+    front_en: "concert"
+    back_es: "concierto"
+    hint: "e-split from concert"
+    rule_ref: "L15#8"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-020
+    type: transformation
+    tier: primary
+    front_en: "November"
+    back_es: "noviembre"
+    hint: "e-split"
+    rule_ref: "L15#8"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-021
+    type: transformation
+    tier: primary
+    front_en: "to think"
+    back_es: "pensar"
+    hint: "pensive"
+    rule_ref: "L15#9"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-022
+    type: transformation
+    tier: primary
+    front_en: "I think"
+    back_es: "pienso"
+    hint: "ie split"
+    rule_ref: "L15#9"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-023
+    type: transformation
+    tier: primary
+    front_en: "he/she thinks"
+    back_es: "piensa"
+    rule_ref: "L15#9"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-024
+    type: transformation
+    tier: primary
+    front_en: "they think"
+    back_es: "piensan"
+    rule_ref: "L15#9"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-025
+    type: transformation
+    tier: primary
+    front_en: "you (informal) think"
+    back_es: "piensas"
+    rule_ref: "L15#9"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-026
+    type: transformation
+    tier: primary
+    front_en: "later"
+    back_es: "más tarde"
+    rule_ref: "L15#vocab"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-027
+    type: transformation
+    tier: primary
+    front_en: "when"
+    back_es: "cuándo"
+    rule_ref: "L15#2"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-028
+    type: transformation
+    tier: primary
+    front_en: "to understand"
+    back_es: "entender"
+    rule_ref: "L15#13"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-029
+    type: transformation
+    tier: primary
+    front_en: "I understand"
+    back_es: "entiendo"
+    hint: "ie split"
+    rule_ref: "L15#13"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-030
+    type: transformation
+    tier: primary
+    front_en: "he/she understands"
+    back_es: "entiende"
+    rule_ref: "L15#13"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-031
+    type: transformation
+    tier: primary
+    front_en: "they understand"
+    back_es: "entienden"
+    rule_ref: "L15#13"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-032
+    type: transformation
+    tier: primary
+    front_en: "to comprehend"
+    back_es: "comprender"
+    hint: "no split"
+    rule_ref: "L15#14"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-033
+    type: transformation
+    tier: primary
+    front_en: "I comprehend"
+    back_es: "comprendo"
+    hint: "no split (rare)"
+    rule_ref: "L15#14"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-034
+    type: transformation
+    tier: primary
+    front_en: "to lose"
+    back_es: "perder"
+    hint: "perish"
+    rule_ref: "L15#15"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-035
+    type: transformation
+    tier: primary
+    front_en: "I lose"
+    back_es: "pierdo"
+    hint: "ie split"
+    rule_ref: "L15#15"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-036
+    type: transformation
+    tier: primary
+    front_en: "he/she loses"
+    back_es: "pierde"
+    rule_ref: "L15#15"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-037
+    type: transformation
+    tier: primary
+    front_en: "they lose"
+    back_es: "pierden"
+    rule_ref: "L15#15"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-038
+    type: transformation
+    tier: primary
+    front_en: "you (informal) lose"
+    back_es: "pierdes"
+    rule_ref: "L15#15"
+    lessons: [15]
+    directions: [en_es, es_en]
+
+  # ---------------- PRIMARY: Conjugations ----------------
+  - id: l15-039
+    type: conjugation
+    tier: primary
+    front_en: "I form of querer"
+    back_es: "quiero"
+    hint: "ie split"
+    rule_ref: "L15#5"
+    lessons: [15]
+    directions: [en_es]
+  - id: l15-040
+    type: conjugation
+    tier: primary
+    front_en: "she form of querer"
+    back_es: "quiere"
+    rule_ref: "L15#5"
+    lessons: [15]
+    directions: [en_es]
+  - id: l15-041
+    type: conjugation
+    tier: primary
+    front_en: "they form of querer"
+    back_es: "quieren"
+    rule_ref: "L15#5"
+    lessons: [15]
+    directions: [en_es]
+  - id: l15-042
+    type: conjugation
+    tier: primary
+    front_en: "you (informal) form of querer"
+    back_es: "quieres"
+    rule_ref: "L15#5"
+    lessons: [15]
+    directions: [en_es]
+  - id: l15-043
+    type: conjugation
+    tier: primary
+    front_en: "I form of pensar"
+    back_es: "pienso"
+    rule_ref: "L15#9"
+    lessons: [15]
+    directions: [en_es]
+  - id: l15-044
+    type: conjugation
+    tier: primary
+    front_en: "she form of pensar"
+    back_es: "piensa"
+    rule_ref: "L15#9"
+    lessons: [15]
+    directions: [en_es]
+  - id: l15-045
+    type: conjugation
+    tier: primary
+    front_en: "I form of entender"
+    back_es: "entiendo"
+    rule_ref: "L15#13"
+    lessons: [15]
+    directions: [en_es]
+  - id: l15-046
+    type: conjugation
+    tier: primary
+    front_en: "she form of entender"
+    back_es: "entiende"
+    rule_ref: "L15#13"
+    lessons: [15]
+    directions: [en_es]
+  - id: l15-047
+    type: conjugation
+    tier: primary
+    front_en: "I form of perder"
+    back_es: "pierdo"
+    rule_ref: "L15#15"
+    lessons: [15]
+    directions: [en_es]
+  - id: l15-048
+    type: conjugation
+    tier: primary
+    front_en: "she form of perder"
+    back_es: "pierde"
+    rule_ref: "L15#15"
+    lessons: [15]
+    directions: [en_es]
+
+  # ---------------- PRIMARY: Sentences from rules.md ----------------
+  - id: l15-049
+    type: sentence
+    tier: primary
+    front_en: "It happens."
+    back_es: "Pasa."
+    rule_ref: "L15#1"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-050
+    type: sentence
+    tier: primary
+    front_en: "What's happening?"
+    back_es: "¿Qué pasa?"
+    rule_ref: "L15#1"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-051
+    type: sentence
+    tier: primary
+    front_en: "I want to know what's going on."
+    back_es: "Quiero saber qué pasa."
+    rule_ref: "L15#1"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-052
+    type: sentence
+    tier: primary
+    front_en: "I plan on eating."
+    back_es: "Pienso comer."
+    hint: "pensar + to-form = plan"
+    rule_ref: "L15#11"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-053
+    type: sentence
+    tier: primary
+    front_en: "I plan on eating later."
+    back_es: "Pienso comer más tarde."
+    rule_ref: "L15#11"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-054
+    type: sentence
+    tier: primary
+    front_en: "What do you think?"
+    back_es: "¿Qué piensas?"
+    rule_ref: "L15#11"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-055
+    type: sentence
+    tier: primary
+    front_en: "What do you want?"
+    back_es: "¿Qué quieres?"
+    rule_ref: "L15#5"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-056
+    type: sentence
+    tier: primary
+    front_en: "When are you coming?"
+    back_es: "¿Cuándo vienes?"
+    rule_ref: "L15#7"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-057
+    type: sentence
+    tier: primary
+    front_en: "I lose."
+    back_es: "Pierdo."
+    rule_ref: "L15#15"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-058
+    type: sentence
+    tier: primary
+    front_en: "I lose it."
+    back_es: "Lo pierdo."
+    rule_ref: "L15#15"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-059
+    type: sentence
+    tier: primary
+    front_en: "I lose them."
+    back_es: "Los pierdo."
+    rule_ref: "L15#15"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-060
+    type: sentence
+    tier: primary
+    front_en: "I understand."
+    back_es: "Entiendo."
+    rule_ref: "L15#13"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-061
+    type: sentence
+    tier: primary
+    front_en: "He understands."
+    back_es: "Entiende."
+    rule_ref: "L15#13"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-062
+    type: sentence
+    tier: primary
+    front_en: "They understand."
+    back_es: "Entienden."
+    rule_ref: "L15#13"
+    lessons: [15]
+    directions: [en_es, es_en]
+
+  # ---------------- EXTENDED ----------------
+  - id: l15-063
+    type: sentence
+    tier: extended
+    front_en: "She doesn't understand."
+    back_es: "No entiende."
+    rule_ref: "L15#13"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-064
+    type: sentence
+    tier: extended
+    front_en: "I want to know what he thinks."
+    back_es: "Quiero saber qué piensa."
+    rule_ref: "L15#9"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-065
+    type: sentence
+    tier: extended
+    front_en: "He thinks I lose."
+    back_es: "Piensa que pierdo."
+    rule_ref: "L15#9, L15#15"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-066
+    type: sentence
+    tier: extended
+    front_en: "I plan on coming later."
+    back_es: "Pienso venir más tarde."
+    rule_ref: "L15#11, L15#7"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-067
+    type: sentence
+    tier: extended
+    front_en: "What does she want?"
+    back_es: "¿Qué quiere?"
+    rule_ref: "L15#5"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-068
+    type: sentence
+    tier: extended
+    front_en: "They want to come."
+    back_es: "Quieren venir."
+    rule_ref: "L15#5, L15#7"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-069
+    type: sentence
+    tier: extended
+    front_en: "She wants to think about it."
+    back_es: "Quiere pensarlo."
+    rule_ref: "L15#5, L15#11"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-070
+    type: sentence
+    tier: extended
+    front_en: "He has it."
+    back_es: "Lo tiene."
+    rule_ref: "L15#6"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-071
+    type: sentence
+    tier: extended
+    front_en: "Why are they coming?"
+    back_es: "¿Por qué vienen?"
+    rule_ref: "L15#7"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-072
+    type: sentence
+    tier: extended
+    front_en: "Why don't you understand?"
+    back_es: "¿Por qué no entiendes?"
+    rule_ref: "L15#13"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-073
+    type: sentence
+    tier: extended
+    front_en: "I'm losing time."
+    back_es: "Pierdo tiempo."
+    rule_ref: "L15#15, L15#8"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-074
+    type: sentence
+    tier: extended
+    front_en: "He's losing time."
+    back_es: "Pierde tiempo."
+    rule_ref: "L15#15, L15#8"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-075
+    type: sentence
+    tier: extended
+    front_en: "I think so."
+    back_es: "Pienso que sí."
+    rule_ref: "L15#9"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-076
+    type: sentence
+    tier: extended
+    front_en: "I want to comprehend it."
+    back_es: "Quiero comprenderlo."
+    rule_ref: "L15#14"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-077
+    type: sentence
+    tier: extended
+    front_en: "She doesn't think so."
+    back_es: "No piensa que sí."
+    rule_ref: "L15#9"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-078
+    type: sentence
+    tier: extended
+    front_en: "He thinks they're coming."
+    back_es: "Piensa que vienen."
+    rule_ref: "L15#9, L15#7"
+    lessons: [15]
+    directions: [en_es, es_en]
+
+  # ---------------- EXTENDED: more e/o split words from English ----------------
+  - id: l15-079
+    type: transformation
+    tier: extended
+    front_en: "tempo (music)"
+    back_es: "tiempo"
+    hint: "e-split"
+    rule_ref: "L15#8"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-080
+    type: transformation
+    tier: extended
+    front_en: "September"
+    back_es: "septiembre"
+    hint: "e-split"
+    rule_ref: "L15#8"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-081
+    type: transformation
+    tier: extended
+    front_en: "well (adverb)"
+    back_es: "bien"
+    hint: "e-split from bene"
+    rule_ref: "L15#8"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-082
+    type: transformation
+    tier: extended
+    front_en: "to lose (he loses)"
+    back_es: "pierde"
+    rule_ref: "L15#15"
+    lessons: [15]
+    directions: [en_es, es_en]
+  - id: l15-083
+    type: transformation
+    tier: extended
+    front_en: "you (informal) understand"
+    back_es: "entiendes"
+    rule_ref: "L15#13"
+    lessons: [15]
+    directions: [en_es, es_en]
