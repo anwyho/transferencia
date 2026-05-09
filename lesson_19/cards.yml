@@ -1,0 +1,600 @@
+lesson: 19
+title: "ir double-irregularity (voy/vamos/va/vas/van); a dónde; tener que ir; esta noche; carne; y"
+cards:
+  # ---------------- PRIMARY: Vocab ----------------
+  - id: l19-001
+    type: transformation
+    tier: primary
+    front_en: "always"
+    back_es: "siempre"
+    rule_ref: "L19#vocab"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-002
+    type: transformation
+    tier: primary
+    front_en: "good"
+    back_es: "bueno"
+    hint: "ue split from bon/bene"
+    rule_ref: "L19#12"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-003
+    type: transformation
+    tier: primary
+    front_en: "well"
+    back_es: "bien"
+    hint: "ie split"
+    rule_ref: "L19#12"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-004
+    type: transformation
+    tier: primary
+    front_en: "welcome"
+    back_es: "bienvenido"
+    hint: "well-come"
+    rule_ref: "L19#12"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-005
+    type: transformation
+    tier: primary
+    front_en: "we go / let's go"
+    back_es: "vamos"
+    rule_ref: "L19#3"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-006
+    type: transformation
+    tier: primary
+    front_en: "I go / I'm going"
+    back_es: "voy"
+    hint: "voy-age"
+    rule_ref: "L19#3"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-007
+    type: transformation
+    tier: primary
+    front_en: "he/she goes"
+    back_es: "va"
+    rule_ref: "L19#3"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-008
+    type: transformation
+    tier: primary
+    front_en: "you (informal) go"
+    back_es: "vas"
+    rule_ref: "L19#3"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-009
+    type: transformation
+    tier: primary
+    front_en: "they go / you guys go"
+    back_es: "van"
+    rule_ref: "L19#3"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-010
+    type: transformation
+    tier: primary
+    front_en: "to go"
+    back_es: "ir"
+    hint: "two letters"
+    rule_ref: "L19#2"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-011
+    type: transformation
+    tier: primary
+    front_en: "to"
+    back_es: "a"
+    rule_ref: "L19#4"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-012
+    type: transformation
+    tier: primary
+    front_en: "to where? / where to?"
+    back_es: "¿a dónde?"
+    rule_ref: "L19#4"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-013
+    type: transformation
+    tier: primary
+    front_en: "I want to go"
+    back_es: "quiero ir"
+    rule_ref: "L19#5"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-014
+    type: transformation
+    tier: primary
+    front_en: "I can go"
+    back_es: "puedo ir"
+    rule_ref: "L19#5"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-015
+    type: transformation
+    tier: primary
+    front_en: "I must go"
+    back_es: "debo ir"
+    rule_ref: "L19#5"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-016
+    type: transformation
+    tier: primary
+    front_en: "I have to go"
+    back_es: "tengo que ir"
+    rule_ref: "L19#6"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-017
+    type: transformation
+    tier: primary
+    front_en: "now"
+    back_es: "ahora"
+    hint: "silent h"
+    rule_ref: "L19#vocab"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-018
+    type: transformation
+    tier: primary
+    front_en: "tonight"
+    back_es: "esta noche"
+    hint: "this night"
+    rule_ref: "L19#7"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-019
+    type: transformation
+    tier: primary
+    front_en: "the night"
+    back_es: "la noche"
+    hint: "feminine"
+    rule_ref: "L19#7"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-020
+    type: transformation
+    tier: primary
+    front_en: "the meat"
+    back_es: "la carne"
+    hint: "fem despite -e"
+    rule_ref: "L19#9"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-021
+    type: transformation
+    tier: primary
+    front_en: "I eat"
+    back_es: "como"
+    rule_ref: "L19#vocab"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-022
+    type: transformation
+    tier: primary
+    front_en: "to take"
+    back_es: "tomar"
+    rule_ref: "L19#vocab"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-023
+    type: transformation
+    tier: primary
+    front_en: "I take / drink"
+    back_es: "tomo"
+    rule_ref: "L19#vocab"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-024
+    type: transformation
+    tier: primary
+    front_en: "to eat"
+    back_es: "comer"
+    rule_ref: "L19#vocab"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-025
+    type: transformation
+    tier: primary
+    front_en: "and"
+    back_es: "y"
+    hint: "single letter"
+    rule_ref: "L19#10"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-026
+    type: transformation
+    tier: primary
+    front_en: "alcohol"
+    back_es: "alcohol"
+    hint: "silent h even here"
+    rule_ref: "L19#11"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-027
+    type: transformation
+    tier: primary
+    front_en: "the opinion"
+    back_es: "la opinión"
+    rule_ref: "L19#8"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-028
+    type: transformation
+    tier: primary
+    front_en: "the opportunity"
+    back_es: "la oportunidad"
+    rule_ref: "L19#8"
+    lessons: [19]
+    directions: [en_es, es_en]
+
+  # ---------------- PRIMARY: Conjugations of ir ----------------
+  - id: l19-029
+    type: conjugation
+    tier: primary
+    front_en: "I form of ir"
+    back_es: "voy"
+    rule_ref: "L19#3"
+    lessons: [19]
+    directions: [en_es]
+  - id: l19-030
+    type: conjugation
+    tier: primary
+    front_en: "we form of ir"
+    back_es: "vamos"
+    rule_ref: "L19#3"
+    lessons: [19]
+    directions: [en_es]
+  - id: l19-031
+    type: conjugation
+    tier: primary
+    front_en: "she form of ir"
+    back_es: "va"
+    rule_ref: "L19#3"
+    lessons: [19]
+    directions: [en_es]
+  - id: l19-032
+    type: conjugation
+    tier: primary
+    front_en: "you (informal) form of ir"
+    back_es: "vas"
+    rule_ref: "L19#3"
+    lessons: [19]
+    directions: [en_es]
+  - id: l19-033
+    type: conjugation
+    tier: primary
+    front_en: "they form of ir"
+    back_es: "van"
+    rule_ref: "L19#3"
+    lessons: [19]
+    directions: [en_es]
+
+  # ---------------- PRIMARY: Sentences from rules.md ----------------
+  - id: l19-034
+    type: sentence
+    tier: primary
+    front_en: "Where are you going?"
+    back_es: "¿A dónde vas?"
+    rule_ref: "L19#4"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-035
+    type: sentence
+    tier: primary
+    front_en: "I want to go."
+    back_es: "Quiero ir."
+    rule_ref: "L19#5"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-036
+    type: sentence
+    tier: primary
+    front_en: "I can go."
+    back_es: "Puedo ir."
+    rule_ref: "L19#5"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-037
+    type: sentence
+    tier: primary
+    front_en: "I must go."
+    back_es: "Debo ir."
+    rule_ref: "L19#5"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-038
+    type: sentence
+    tier: primary
+    front_en: "I have to go."
+    back_es: "Tengo que ir."
+    rule_ref: "L19#6"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-039
+    type: sentence
+    tier: primary
+    front_en: "I have to go now."
+    back_es: "Tengo que ir ahora."
+    rule_ref: "L19#6"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-040
+    type: sentence
+    tier: primary
+    front_en: "I have to go tonight."
+    back_es: "Tengo que ir esta noche."
+    rule_ref: "L19#7"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-041
+    type: sentence
+    tier: primary
+    front_en: "I don't eat meat."
+    back_es: "No como carne."
+    rule_ref: "L19#9"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-042
+    type: sentence
+    tier: primary
+    front_en: "I don't drink alcohol."
+    back_es: "No tomo alcohol."
+    rule_ref: "L19#11"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-043
+    type: sentence
+    tier: primary
+    front_en: "I don't eat meat and don't drink alcohol."
+    back_es: "No como carne y no tomo alcohol."
+    rule_ref: "L19#10"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-044
+    type: sentence
+    tier: primary
+    front_en: "I eat meat and drink alcohol."
+    back_es: "Como carne y tomo alcohol."
+    rule_ref: "L19#10"
+    lessons: [19]
+    directions: [en_es, es_en]
+
+  # ---------------- EXTENDED ----------------
+  - id: l19-045
+    type: sentence
+    tier: extended
+    front_en: "We're going."
+    back_es: "Vamos."
+    rule_ref: "L19#3"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-046
+    type: sentence
+    tier: extended
+    front_en: "Let's go."
+    back_es: "Vamos."
+    rule_ref: "L19#3"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-047
+    type: sentence
+    tier: extended
+    front_en: "He's going."
+    back_es: "Va."
+    rule_ref: "L19#3"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-048
+    type: sentence
+    tier: extended
+    front_en: "They're going."
+    back_es: "Van."
+    rule_ref: "L19#3"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-049
+    type: sentence
+    tier: extended
+    front_en: "I'm going there."
+    back_es: "Voy allá."
+    hint: "allá = there"
+    rule_ref: "L19#3"
+    lessons: [19]
+    directions: [en_es, es_en]
+    notes: "allá not yet introduced; light extension."
+  - id: l19-050
+    type: sentence
+    tier: extended
+    front_en: "Where is he going?"
+    back_es: "¿A dónde va?"
+    rule_ref: "L19#4"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-051
+    type: sentence
+    tier: extended
+    front_en: "Where are they going?"
+    back_es: "¿A dónde van?"
+    rule_ref: "L19#4"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-052
+    type: sentence
+    tier: extended
+    front_en: "We have to go now."
+    back_es: "Tenemos que ir ahora."
+    rule_ref: "L19#6"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-053
+    type: sentence
+    tier: extended
+    front_en: "We're going tonight."
+    back_es: "Vamos esta noche."
+    rule_ref: "L19#7"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-054
+    type: sentence
+    tier: extended
+    front_en: "I want to go tonight."
+    back_es: "Quiero ir esta noche."
+    rule_ref: "L19#5, L19#7"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-055
+    type: sentence
+    tier: extended
+    front_en: "He has to go tonight."
+    back_es: "Tiene que ir esta noche."
+    rule_ref: "L19#6"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-056
+    type: sentence
+    tier: extended
+    front_en: "She doesn't eat meat."
+    back_es: "No come carne."
+    rule_ref: "L19#9"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-057
+    type: sentence
+    tier: extended
+    front_en: "We don't drink alcohol."
+    back_es: "No tomamos alcohol."
+    rule_ref: "L19#11"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-058
+    type: sentence
+    tier: extended
+    front_en: "I want to eat now."
+    back_es: "Quiero comer ahora."
+    rule_ref: "L19#5"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-059
+    type: sentence
+    tier: extended
+    front_en: "I can go and eat."
+    back_es: "Puedo ir y comer."
+    rule_ref: "L19#10"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-060
+    type: sentence
+    tier: extended
+    front_en: "I prefer to go now."
+    back_es: "Prefiero ir ahora."
+    rule_ref: "L19#5"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-061
+    type: sentence
+    tier: extended
+    front_en: "We can't go tonight."
+    back_es: "No podemos ir esta noche."
+    rule_ref: "L19#7"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-062
+    type: sentence
+    tier: extended
+    front_en: "Why aren't you going?"
+    back_es: "¿Por qué no vas?"
+    rule_ref: "L19#3"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-063
+    type: sentence
+    tier: extended
+    front_en: "When are you going?"
+    back_es: "¿Cuándo vas?"
+    rule_ref: "L19#3"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-064
+    type: sentence
+    tier: extended
+    front_en: "I have to go and eat."
+    back_es: "Tengo que ir a comer."
+    rule_ref: "L19#6"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-065
+    type: sentence
+    tier: extended
+    front_en: "Welcome."
+    back_es: "Bienvenido."
+    rule_ref: "L19#12"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-066
+    type: sentence
+    tier: extended
+    front_en: "It's good."
+    back_es: "Es bueno."
+    rule_ref: "L19#12"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-067
+    type: sentence
+    tier: extended
+    front_en: "Very well."
+    back_es: "Muy bien."
+    rule_ref: "L19#12"
+    lessons: [19]
+    directions: [en_es, es_en]
+    notes: "muy lands L28."
+  - id: l19-068
+    type: sentence
+    tier: extended
+    front_en: "I prefer it."
+    back_es: "Lo prefiero."
+    rule_ref: "L19#5"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-069
+    type: sentence
+    tier: extended
+    front_en: "Where do we go?"
+    back_es: "¿A dónde vamos?"
+    rule_ref: "L19#4"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-070
+    type: sentence
+    tier: extended
+    front_en: "I'm going to eat."
+    back_es: "Voy a comer."
+    rule_ref: "L19#5"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-071
+    type: sentence
+    tier: extended
+    front_en: "We're going to eat now."
+    back_es: "Vamos a comer ahora."
+    rule_ref: "L19#3"
+    lessons: [19]
+    directions: [en_es, es_en]
+  - id: l19-072
+    type: sentence
+    tier: extended
+    front_en: "He always goes."
+    back_es: "Siempre va."
+    rule_ref: "L19#3"
+    lessons: [19]
+    directions: [en_es, es_en]

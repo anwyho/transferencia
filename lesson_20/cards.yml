@@ -1,0 +1,574 @@
+lesson: 20
+title: "Present-as-future via context; ver (veo/ves/ve/vemos/ven); little words before verb; nos vemos"
+cards:
+  # ---------------- PRIMARY: Vocab ----------------
+  - id: l20-001
+    type: transformation
+    tier: primary
+    front_en: "tomorrow"
+    back_es: "mañana"
+    rule_ref: "L20#2"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-002
+    type: transformation
+    tier: primary
+    front_en: "later"
+    back_es: "más tarde"
+    rule_ref: "L20#2"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-003
+    type: transformation
+    tier: primary
+    front_en: "tonight"
+    back_es: "esta noche"
+    rule_ref: "L20#2"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-004
+    type: transformation
+    tier: primary
+    front_en: "soon"
+    back_es: "pronto"
+    rule_ref: "L20#2"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-005
+    type: transformation
+    tier: primary
+    front_en: "to see / view"
+    back_es: "ver"
+    rule_ref: "L20#3"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-006
+    type: transformation
+    tier: primary
+    front_en: "I see"
+    back_es: "veo"
+    hint: "irregular: keep e"
+    rule_ref: "L20#4"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-007
+    type: transformation
+    tier: primary
+    front_en: "you (informal) see"
+    back_es: "ves"
+    rule_ref: "L20#3"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-008
+    type: transformation
+    tier: primary
+    front_en: "he/she sees"
+    back_es: "ve"
+    rule_ref: "L20#3"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-009
+    type: transformation
+    tier: primary
+    front_en: "we see / let's see"
+    back_es: "vemos"
+    rule_ref: "L20#3"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-010
+    type: transformation
+    tier: primary
+    front_en: "they see / you guys see"
+    back_es: "ven"
+    rule_ref: "L20#3"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-011
+    type: transformation
+    tier: primary
+    front_en: "her / it (fem)"
+    back_es: "la"
+    rule_ref: "L20#6"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-012
+    type: transformation
+    tier: primary
+    front_en: "him / it (masc)"
+    back_es: "lo"
+    rule_ref: "L20#6"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-013
+    type: transformation
+    tier: primary
+    front_en: "them (fem)"
+    back_es: "las"
+    rule_ref: "L20#6"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-014
+    type: transformation
+    tier: primary
+    front_en: "them (masc/mixed)"
+    back_es: "los"
+    rule_ref: "L20#6"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-015
+    type: transformation
+    tier: primary
+    front_en: "us / ourselves / each other"
+    back_es: "nos"
+    rule_ref: "L20#15"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-016
+    type: transformation
+    tier: primary
+    front_en: "the week"
+    back_es: "la semana"
+    rule_ref: "L20#11"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-017
+    type: transformation
+    tier: primary
+    front_en: "next week"
+    back_es: "la semana que viene"
+    hint: "the week that comes"
+    rule_ref: "L20#11"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-018
+    type: transformation
+    tier: primary
+    front_en: "see you"
+    back_es: "nos vemos"
+    hint: "we see each other"
+    rule_ref: "L20#15"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-019
+    type: transformation
+    tier: primary
+    front_en: "bye"
+    back_es: "ciao"
+    rule_ref: "L20#16"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-020
+    type: transformation
+    tier: primary
+    front_en: "we are going to / let's"
+    back_es: "vamos a"
+    rule_ref: "L20#8"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-021
+    type: transformation
+    tier: primary
+    front_en: "we speak / let's speak"
+    back_es: "hablamos"
+    rule_ref: "L20#13"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-022
+    type: transformation
+    tier: primary
+    front_en: "it comes"
+    back_es: "viene"
+    rule_ref: "L20#12"
+    lessons: [20]
+    directions: [en_es, es_en]
+
+  # ---------------- PRIMARY: Conjugations ----------------
+  - id: l20-023
+    type: conjugation
+    tier: primary
+    front_en: "I form of ver"
+    back_es: "veo"
+    rule_ref: "L20#4"
+    lessons: [20]
+    directions: [en_es]
+  - id: l20-024
+    type: conjugation
+    tier: primary
+    front_en: "she form of ver"
+    back_es: "ve"
+    rule_ref: "L20#3"
+    lessons: [20]
+    directions: [en_es]
+  - id: l20-025
+    type: conjugation
+    tier: primary
+    front_en: "they form of ver"
+    back_es: "ven"
+    rule_ref: "L20#3"
+    lessons: [20]
+    directions: [en_es]
+  - id: l20-026
+    type: conjugation
+    tier: primary
+    front_en: "you (informal) form of ver"
+    back_es: "ves"
+    rule_ref: "L20#3"
+    lessons: [20]
+    directions: [en_es]
+  - id: l20-027
+    type: conjugation
+    tier: primary
+    front_en: "we form of ver"
+    back_es: "vemos"
+    rule_ref: "L20#3"
+    lessons: [20]
+    directions: [en_es]
+
+  # ---------------- PRIMARY: Sentences from rules.md ----------------
+  - id: l20-028
+    type: sentence
+    tier: primary
+    front_en: "I'm seeing her later."
+    back_es: "La veo más tarde."
+    rule_ref: "L20#5"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-029
+    type: sentence
+    tier: primary
+    front_en: "I'm seeing her tonight."
+    back_es: "La veo esta noche."
+    rule_ref: "L20#1"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-030
+    type: sentence
+    tier: primary
+    front_en: "We're seeing her soon."
+    back_es: "La vemos pronto."
+    rule_ref: "L20#3"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-031
+    type: sentence
+    tier: primary
+    front_en: "We're seeing them soon."
+    back_es: "Las vemos pronto."
+    rule_ref: "L20#6"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-032
+    type: sentence
+    tier: primary
+    front_en: "He's seeing them soon."
+    back_es: "Las ve pronto."
+    rule_ref: "L20#6"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-033
+    type: sentence
+    tier: primary
+    front_en: "You're seeing her soon."
+    back_es: "La ves pronto."
+    rule_ref: "L20#3"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-034
+    type: sentence
+    tier: primary
+    front_en: "Are you seeing them soon?"
+    back_es: "¿Las ves pronto?"
+    rule_ref: "L20#10"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-035
+    type: sentence
+    tier: primary
+    front_en: "Aren't you seeing them soon?"
+    back_es: "¿No las ves pronto?"
+    rule_ref: "L20#10"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-036
+    type: sentence
+    tier: primary
+    front_en: "Why aren't you seeing them soon?"
+    back_es: "¿Por qué no las ves pronto?"
+    rule_ref: "L20#10"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-037
+    type: sentence
+    tier: primary
+    front_en: "We're going to see her."
+    back_es: "Vamos a verla."
+    rule_ref: "L20#8"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-038
+    type: sentence
+    tier: primary
+    front_en: "Are you going to see him soon?"
+    back_es: "¿Vas a verlo pronto?"
+    rule_ref: "L20#8"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-039
+    type: sentence
+    tier: primary
+    front_en: "Are you going to see us soon?"
+    back_es: "¿Vas a vernos pronto?"
+    rule_ref: "L20#9"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-040
+    type: sentence
+    tier: primary
+    front_en: "Are you going to see us soon? (alt)"
+    back_es: "¿Nos vas a ver pronto?"
+    hint: "nos before changed verb"
+    rule_ref: "L20#9"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-041
+    type: sentence
+    tier: primary
+    front_en: "Why aren't you going to see us soon?"
+    back_es: "¿Por qué no vas a vernos pronto?"
+    rule_ref: "L20#10"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-042
+    type: sentence
+    tier: primary
+    front_en: "Next week."
+    back_es: "La semana que viene."
+    rule_ref: "L20#11"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-043
+    type: sentence
+    tier: primary
+    front_en: "Let's speak next week."
+    back_es: "Hablamos la semana que viene."
+    rule_ref: "L20#13"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-044
+    type: sentence
+    tier: primary
+    front_en: "See you."
+    back_es: "Nos vemos."
+    rule_ref: "L20#15"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-045
+    type: sentence
+    tier: primary
+    front_en: "See you next week."
+    back_es: "Nos vemos la semana que viene."
+    rule_ref: "L20#15"
+    lessons: [20]
+    directions: [en_es, es_en]
+
+  # ---------------- EXTENDED ----------------
+  - id: l20-046
+    type: sentence
+    tier: extended
+    front_en: "I see him."
+    back_es: "Lo veo."
+    rule_ref: "L20#5"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-047
+    type: sentence
+    tier: extended
+    front_en: "I see them. (masc)"
+    back_es: "Los veo."
+    rule_ref: "L20#6"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-048
+    type: sentence
+    tier: extended
+    front_en: "He sees us."
+    back_es: "Nos ve."
+    rule_ref: "L20#15"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-049
+    type: sentence
+    tier: extended
+    front_en: "They see me."
+    back_es: "Me ven."
+    rule_ref: "L20#5"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-050
+    type: sentence
+    tier: extended
+    front_en: "I see you. (informal)"
+    back_es: "Te veo."
+    rule_ref: "L20#5"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-051
+    type: sentence
+    tier: extended
+    front_en: "We don't see them."
+    back_es: "No los vemos."
+    rule_ref: "L20#5"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-052
+    type: sentence
+    tier: extended
+    front_en: "I'm going to see her tomorrow."
+    back_es: "Voy a verla mañana."
+    rule_ref: "L20#8, L20#2"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-053
+    type: sentence
+    tier: extended
+    front_en: "She's coming tomorrow."
+    back_es: "Viene mañana."
+    rule_ref: "L20#1, L20#2"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-054
+    type: sentence
+    tier: extended
+    front_en: "They're coming tonight."
+    back_es: "Vienen esta noche."
+    rule_ref: "L20#1, L20#2"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-055
+    type: sentence
+    tier: extended
+    front_en: "I'm seeing him tomorrow."
+    back_es: "Lo veo mañana."
+    rule_ref: "L20#1"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-056
+    type: sentence
+    tier: extended
+    front_en: "We're going next week."
+    back_es: "Vamos la semana que viene."
+    rule_ref: "L20#11"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-057
+    type: sentence
+    tier: extended
+    front_en: "He arrives tomorrow."
+    back_es: "Llega mañana."
+    rule_ref: "L20#1"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-058
+    type: sentence
+    tier: extended
+    front_en: "I'm going to see them."
+    back_es: "Voy a verlos."
+    rule_ref: "L20#8"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-059
+    type: sentence
+    tier: extended
+    front_en: "Why doesn't he see them?"
+    back_es: "¿Por qué no los ve?"
+    rule_ref: "L20#10"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-060
+    type: sentence
+    tier: extended
+    front_en: "I want to see her."
+    back_es: "Quiero verla."
+    rule_ref: "L20#5"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-061
+    type: sentence
+    tier: extended
+    front_en: "She wants to see us."
+    back_es: "Quiere vernos."
+    rule_ref: "L20#15"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-062
+    type: sentence
+    tier: extended
+    front_en: "She wants to see us. (alt)"
+    back_es: "Nos quiere ver."
+    rule_ref: "L20#9"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-063
+    type: sentence
+    tier: extended
+    front_en: "We see each other tomorrow."
+    back_es: "Nos vemos mañana."
+    rule_ref: "L20#15"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-064
+    type: sentence
+    tier: extended
+    front_en: "He's going to come soon."
+    back_es: "Va a venir pronto."
+    rule_ref: "L20#8"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-065
+    type: sentence
+    tier: extended
+    front_en: "I'm going to see them tomorrow."
+    back_es: "Los veo mañana."
+    rule_ref: "L20#1"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-066
+    type: sentence
+    tier: extended
+    front_en: "Can you see her?"
+    back_es: "¿Puedes verla?"
+    rule_ref: "L20#5"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-067
+    type: sentence
+    tier: extended
+    front_en: "I have to see them."
+    back_es: "Tengo que verlos."
+    rule_ref: "L20#5"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-068
+    type: sentence
+    tier: extended
+    front_en: "Why don't you want to see her?"
+    back_es: "¿Por qué no quieres verla?"
+    rule_ref: "L20#10"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-069
+    type: sentence
+    tier: extended
+    front_en: "Let's see."
+    back_es: "Vemos."
+    rule_ref: "L20#13"
+    lessons: [20]
+    directions: [en_es, es_en]
+  - id: l20-070
+    type: sentence
+    tier: extended
+    front_en: "We're going to eat tomorrow."
+    back_es: "Vamos a comer mañana."
+    rule_ref: "L20#8"
+    lessons: [20]
+    directions: [en_es, es_en]

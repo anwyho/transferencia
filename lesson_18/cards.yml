@@ -1,0 +1,609 @@
+lesson: 18
+title: "We form: -er → -emos, -ir → -imos (preferir, venir, vivir); aquí; dónde; siempre"
+cards:
+  # ---------------- PRIMARY: Vocab ----------------
+  - id: l18-001
+    type: transformation
+    tier: primary
+    front_en: "to prefer"
+    back_es: "preferir"
+    hint: "-ir verb"
+    rule_ref: "L18#2"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-002
+    type: transformation
+    tier: primary
+    front_en: "I prefer"
+    back_es: "prefiero"
+    hint: "ie split"
+    rule_ref: "L18#2"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-003
+    type: transformation
+    tier: primary
+    front_en: "he/she prefers"
+    back_es: "prefiere"
+    rule_ref: "L18#2"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-004
+    type: transformation
+    tier: primary
+    front_en: "they prefer"
+    back_es: "prefieren"
+    rule_ref: "L18#2"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-005
+    type: transformation
+    tier: primary
+    front_en: "you (informal) prefer"
+    back_es: "prefieres"
+    rule_ref: "L18#2"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-006
+    type: transformation
+    tier: primary
+    front_en: "we prefer"
+    back_es: "preferimos"
+    hint: "-imos (no split)"
+    rule_ref: "L18#2"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-007
+    type: transformation
+    tier: primary
+    front_en: "we come"
+    back_es: "venimos"
+    hint: "-imos"
+    rule_ref: "L18#3"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-008
+    type: transformation
+    tier: primary
+    front_en: "to live"
+    back_es: "vivir"
+    hint: "viva!"
+    rule_ref: "L18#4"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-009
+    type: transformation
+    tier: primary
+    front_en: "I live"
+    back_es: "vivo"
+    rule_ref: "L18#4"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-010
+    type: transformation
+    tier: primary
+    front_en: "he/she lives"
+    back_es: "vive"
+    rule_ref: "L18#4"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-011
+    type: transformation
+    tier: primary
+    front_en: "they live"
+    back_es: "viven"
+    rule_ref: "L18#4"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-012
+    type: transformation
+    tier: primary
+    front_en: "you (informal) live"
+    back_es: "vives"
+    rule_ref: "L18#4"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-013
+    type: transformation
+    tier: primary
+    front_en: "we live"
+    back_es: "vivimos"
+    hint: "-imos"
+    rule_ref: "L18#4"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-014
+    type: transformation
+    tier: primary
+    front_en: "here (Spain)"
+    back_es: "aquí"
+    rule_ref: "L18#9"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-015
+    type: transformation
+    tier: primary
+    front_en: "here (Latin America)"
+    back_es: "acá"
+    rule_ref: "L18#9"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-016
+    type: transformation
+    tier: primary
+    front_en: "where"
+    back_es: "dónde"
+    hint: "accent"
+    rule_ref: "L18#10"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-017
+    type: transformation
+    tier: primary
+    front_en: "always"
+    back_es: "siempre"
+    rule_ref: "L18#14"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-018
+    type: transformation
+    tier: primary
+    front_en: "long live"
+    back_es: "viva"
+    rule_ref: "L18#vocab"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-019
+    type: transformation
+    tier: primary
+    front_en: "summer"
+    back_es: "verano"
+    hint: "v = soft b"
+    rule_ref: "L18#5"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-020
+    type: transformation
+    tier: primary
+    front_en: "we sell"
+    back_es: "vendemos"
+    hint: "-er → -emos"
+    rule_ref: "L18#13"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-021
+    type: transformation
+    tier: primary
+    front_en: "we lose"
+    back_es: "perdemos"
+    rule_ref: "L18#13"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-022
+    type: transformation
+    tier: primary
+    front_en: "we understand"
+    back_es: "entendemos"
+    rule_ref: "L18#12"
+    lessons: [18]
+    directions: [en_es, es_en]
+
+  # ---------------- PRIMARY: Conjugations ----------------
+  - id: l18-023
+    type: conjugation
+    tier: primary
+    front_en: "we form of preferir"
+    back_es: "preferimos"
+    rule_ref: "L18#2"
+    lessons: [18]
+    directions: [en_es]
+  - id: l18-024
+    type: conjugation
+    tier: primary
+    front_en: "we form of venir"
+    back_es: "venimos"
+    rule_ref: "L18#3"
+    lessons: [18]
+    directions: [en_es]
+  - id: l18-025
+    type: conjugation
+    tier: primary
+    front_en: "we form of vivir"
+    back_es: "vivimos"
+    rule_ref: "L18#4"
+    lessons: [18]
+    directions: [en_es]
+  - id: l18-026
+    type: conjugation
+    tier: primary
+    front_en: "we form of vender"
+    back_es: "vendemos"
+    rule_ref: "L18#13"
+    lessons: [18]
+    directions: [en_es]
+  - id: l18-027
+    type: conjugation
+    tier: primary
+    front_en: "we form of perder"
+    back_es: "perdemos"
+    rule_ref: "L18#13"
+    lessons: [18]
+    directions: [en_es]
+  - id: l18-028
+    type: conjugation
+    tier: primary
+    front_en: "we form of entender"
+    back_es: "entendemos"
+    rule_ref: "L18#12"
+    lessons: [18]
+    directions: [en_es]
+  - id: l18-029
+    type: conjugation
+    tier: primary
+    front_en: "I form of preferir"
+    back_es: "prefiero"
+    rule_ref: "L18#2"
+    lessons: [18]
+    directions: [en_es]
+  - id: l18-030
+    type: conjugation
+    tier: primary
+    front_en: "I form of vivir"
+    back_es: "vivo"
+    rule_ref: "L18#4"
+    lessons: [18]
+    directions: [en_es]
+  - id: l18-031
+    type: conjugation
+    tier: primary
+    front_en: "she form of preferir"
+    back_es: "prefiere"
+    rule_ref: "L18#2"
+    lessons: [18]
+    directions: [en_es]
+  - id: l18-032
+    type: conjugation
+    tier: primary
+    front_en: "she form of vivir"
+    back_es: "vive"
+    rule_ref: "L18#4"
+    lessons: [18]
+    directions: [en_es]
+
+  # ---------------- PRIMARY: Sentences from rules.md ----------------
+  - id: l18-033
+    type: sentence
+    tier: primary
+    front_en: "I prefer."
+    back_es: "Prefiero."
+    rule_ref: "L18#2"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-034
+    type: sentence
+    tier: primary
+    front_en: "We prefer."
+    back_es: "Preferimos."
+    rule_ref: "L18#2"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-035
+    type: sentence
+    tier: primary
+    front_en: "We're coming."
+    back_es: "Venimos."
+    rule_ref: "L18#3"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-036
+    type: sentence
+    tier: primary
+    front_en: "Long live the revolution."
+    back_es: "Viva la revolución."
+    rule_ref: "L18#4"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-037
+    type: sentence
+    tier: primary
+    front_en: "We live."
+    back_es: "Vivimos."
+    rule_ref: "L18#4"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-038
+    type: sentence
+    tier: primary
+    front_en: "I live here."
+    back_es: "Vivo aquí."
+    rule_ref: "L18#9"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-039
+    type: sentence
+    tier: primary
+    front_en: "I don't live here."
+    back_es: "No vivo aquí."
+    rule_ref: "L18#9"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-040
+    type: sentence
+    tier: primary
+    front_en: "But he lives here."
+    back_es: "Pero él vive aquí."
+    rule_ref: "L18#11"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-041
+    type: sentence
+    tier: primary
+    front_en: "They live here."
+    back_es: "Viven aquí."
+    rule_ref: "L18#4"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-042
+    type: sentence
+    tier: primary
+    front_en: "Where do they live?"
+    back_es: "¿Dónde viven?"
+    rule_ref: "L18#10"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-043
+    type: sentence
+    tier: primary
+    front_en: "I want to know where they live."
+    back_es: "Quiero saber dónde viven."
+    rule_ref: "L18#10"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-044
+    type: sentence
+    tier: primary
+    front_en: "He doesn't understand."
+    back_es: "No entiende."
+    rule_ref: "L18#12"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-045
+    type: sentence
+    tier: primary
+    front_en: "Why doesn't he understand?"
+    back_es: "¿Por qué no entiende?"
+    rule_ref: "L18#12"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-046
+    type: sentence
+    tier: primary
+    front_en: "We always lose."
+    back_es: "Siempre perdemos."
+    rule_ref: "L18#14"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-047
+    type: sentence
+    tier: primary
+    front_en: "We always lose. (alt)"
+    back_es: "Perdemos siempre."
+    rule_ref: "L18#14"
+    lessons: [18]
+    directions: [en_es, es_en]
+
+  # ---------------- EXTENDED ----------------
+  - id: l18-048
+    type: sentence
+    tier: extended
+    front_en: "We don't live here."
+    back_es: "No vivimos aquí."
+    rule_ref: "L18#4, L18#9"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-049
+    type: sentence
+    tier: extended
+    front_en: "Do you live here?"
+    back_es: "¿Vives aquí?"
+    rule_ref: "L18#4"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-050
+    type: sentence
+    tier: extended
+    front_en: "Where does he live?"
+    back_es: "¿Dónde vive?"
+    rule_ref: "L18#10"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-051
+    type: sentence
+    tier: extended
+    front_en: "I prefer to come later."
+    back_es: "Prefiero venir más tarde."
+    rule_ref: "L18#2"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-052
+    type: sentence
+    tier: extended
+    front_en: "We prefer to live here."
+    back_es: "Preferimos vivir aquí."
+    rule_ref: "L18#2, L18#4"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-053
+    type: sentence
+    tier: extended
+    front_en: "She always understands."
+    back_es: "Siempre entiende."
+    rule_ref: "L18#14"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-054
+    type: sentence
+    tier: extended
+    front_en: "They always come."
+    back_es: "Siempre vienen."
+    rule_ref: "L18#14"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-055
+    type: sentence
+    tier: extended
+    front_en: "We always understand."
+    back_es: "Siempre entendemos."
+    rule_ref: "L18#14"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-056
+    type: sentence
+    tier: extended
+    front_en: "He always wants more."
+    back_es: "Siempre quiere más."
+    rule_ref: "L18#14"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-057
+    type: sentence
+    tier: extended
+    front_en: "We come here."
+    back_es: "Venimos aquí."
+    rule_ref: "L18#3, L18#9"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-058
+    type: sentence
+    tier: extended
+    front_en: "Where are you coming from?"
+    back_es: "¿De dónde vienes?"
+    rule_ref: "L18#10"
+    lessons: [18]
+    directions: [en_es, es_en]
+    notes: "de = from; preposition use light foreshadow."
+  - id: l18-059
+    type: sentence
+    tier: extended
+    front_en: "I want to live here."
+    back_es: "Quiero vivir aquí."
+    rule_ref: "L18#4"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-060
+    type: sentence
+    tier: extended
+    front_en: "We have to come."
+    back_es: "Tenemos que venir."
+    rule_ref: "L18#3"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-061
+    type: sentence
+    tier: extended
+    front_en: "I prefer summer."
+    back_es: "Prefiero el verano."
+    rule_ref: "L18#5"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-062
+    type: sentence
+    tier: extended
+    front_en: "We don't sell here."
+    back_es: "No vendemos aquí."
+    rule_ref: "L18#13"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-063
+    type: sentence
+    tier: extended
+    front_en: "He prefers to lose."
+    back_es: "Prefiere perder."
+    rule_ref: "L18#2"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-064
+    type: sentence
+    tier: extended
+    front_en: "I want to know where he lives."
+    back_es: "Quiero saber dónde vive."
+    rule_ref: "L18#10"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-065
+    type: sentence
+    tier: extended
+    front_en: "But she lives here."
+    back_es: "Pero ella vive aquí."
+    rule_ref: "L18#11"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-066
+    type: sentence
+    tier: extended
+    front_en: "Don't you understand?"
+    back_es: "¿No entiendes?"
+    rule_ref: "L18#12"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-067
+    type: sentence
+    tier: extended
+    front_en: "We always sell here."
+    back_es: "Siempre vendemos aquí."
+    rule_ref: "L18#13, L18#14"
+    lessons: [18]
+    directions: [en_es, es_en]
+  - id: l18-068
+    type: sentence
+    tier: extended
+    front_en: "Why do you always lose?"
+    back_es: "¿Por qué siempre pierdes?"
+    rule_ref: "L18#14"
+    lessons: [18]
+    directions: [en_es, es_en]
+
+  # ---------------- EXTENDED: more we-form -er/-ir contrast ----------------
+  - id: l18-069
+    type: conjugation
+    tier: extended
+    front_en: "we form of comer"
+    back_es: "comemos"
+    rule_ref: "L18#13"
+    lessons: [18]
+    directions: [en_es]
+  - id: l18-070
+    type: conjugation
+    tier: extended
+    front_en: "we form of subir"
+    back_es: "subimos"
+    hint: "-ir → -imos"
+    rule_ref: "L18#4"
+    lessons: [18]
+    directions: [en_es]
+  - id: l18-071
+    type: conjugation
+    tier: extended
+    front_en: "we form of escribir"
+    back_es: "escribimos"
+    hint: "-ir → -imos"
+    rule_ref: "L18#4"
+    lessons: [18]
+    directions: [en_es]
+  - id: l18-072
+    type: conjugation
+    tier: extended
+    front_en: "we form of beber"
+    back_es: "bebemos"
+    rule_ref: "L18#13"
+    lessons: [18]
+    directions: [en_es]
+  - id: l18-073
+    type: conjugation
+    tier: extended
+    front_en: "we form of decidir"
+    back_es: "decidimos"
+    hint: "-ir"
+    rule_ref: "L18#4"
+    lessons: [18]
+    directions: [en_es]
