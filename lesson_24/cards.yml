@@ -1,0 +1,500 @@
+lesson: 24
+title: "dar (doy/das/da/damos/dan); two-word stacking (te lo doy); ustedes"
+cards:
+  # ---------------- PRIMARY: Vocab ----------------
+  - id: l24-001
+    type: transformation
+    tier: primary
+    front_en: "to give"
+    back_es: "dar"
+    rule_ref: "L24#1"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-002
+    type: transformation
+    tier: primary
+    front_en: "I give"
+    back_es: "doy"
+    hint: "-oy ending"
+    rule_ref: "L24#2"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-003
+    type: transformation
+    tier: primary
+    front_en: "you (informal) give"
+    back_es: "das"
+    rule_ref: "L24#3"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-004
+    type: transformation
+    tier: primary
+    front_en: "he/she gives"
+    back_es: "da"
+    rule_ref: "L24#3"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-005
+    type: transformation
+    tier: primary
+    front_en: "we give"
+    back_es: "damos"
+    rule_ref: "L24#3"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-006
+    type: transformation
+    tier: primary
+    front_en: "they give / you guys give"
+    back_es: "dan"
+    rule_ref: "L24#3"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-007
+    type: transformation
+    tier: primary
+    front_en: "something"
+    back_es: "algo"
+    rule_ref: "L24#7"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-008
+    type: transformation
+    tier: primary
+    front_en: "you guys"
+    back_es: "ustedes"
+    rule_ref: "L24#9"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-009
+    type: transformation
+    tier: primary
+    front_en: "I want to give"
+    back_es: "quiero dar"
+    rule_ref: "L24#11"
+    lessons: [24]
+    directions: [en_es, es_en]
+
+  # ---------------- PRIMARY: Conjugations ----------------
+  - id: l24-010
+    type: conjugation
+    tier: primary
+    front_en: "I form of dar"
+    back_es: "doy"
+    rule_ref: "L24#2"
+    lessons: [24]
+    directions: [en_es]
+  - id: l24-011
+    type: conjugation
+    tier: primary
+    front_en: "she form of dar"
+    back_es: "da"
+    rule_ref: "L24#3"
+    lessons: [24]
+    directions: [en_es]
+  - id: l24-012
+    type: conjugation
+    tier: primary
+    front_en: "they form of dar"
+    back_es: "dan"
+    rule_ref: "L24#3"
+    lessons: [24]
+    directions: [en_es]
+  - id: l24-013
+    type: conjugation
+    tier: primary
+    front_en: "we form of dar"
+    back_es: "damos"
+    rule_ref: "L24#3"
+    lessons: [24]
+    directions: [en_es]
+  - id: l24-014
+    type: conjugation
+    tier: primary
+    front_en: "you (informal) form of dar"
+    back_es: "das"
+    rule_ref: "L24#3"
+    lessons: [24]
+    directions: [en_es]
+
+  # ---------------- PRIMARY: Sentences ----------------
+  - id: l24-015
+    type: sentence
+    tier: primary
+    front_en: "I give."
+    back_es: "Doy."
+    rule_ref: "L24#2"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-016
+    type: sentence
+    tier: primary
+    front_en: "I give it."
+    back_es: "Lo doy."
+    rule_ref: "L24#2"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-017
+    type: sentence
+    tier: primary
+    front_en: "I give them."
+    back_es: "Los doy."
+    rule_ref: "L24#2"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-018
+    type: sentence
+    tier: primary
+    front_en: "I give them. (fem)"
+    back_es: "Las doy."
+    rule_ref: "L24#2"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-019
+    type: sentence
+    tier: primary
+    front_en: "He/she gives."
+    back_es: "Da."
+    rule_ref: "L24#3"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-020
+    type: sentence
+    tier: primary
+    front_en: "HE gives."
+    back_es: "Él da."
+    rule_ref: "L24#8"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-021
+    type: sentence
+    tier: primary
+    front_en: "SHE gives."
+    back_es: "Ella da."
+    rule_ref: "L24#8"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-022
+    type: sentence
+    tier: primary
+    front_en: "They give."
+    back_es: "Ellos dan."
+    rule_ref: "L24#8"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-023
+    type: sentence
+    tier: primary
+    front_en: "You give."
+    back_es: "Das."
+    rule_ref: "L24#3"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-024
+    type: sentence
+    tier: primary
+    front_en: "He's giving me something."
+    back_es: "Él me da algo."
+    rule_ref: "L24#7"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-025
+    type: sentence
+    tier: primary
+    front_en: "They give me something."
+    back_es: "Me dan algo."
+    rule_ref: "L24#7"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-026
+    type: sentence
+    tier: primary
+    front_en: "They give it to me."
+    back_es: "Me lo dan."
+    rule_ref: "L24#4"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-027
+    type: sentence
+    tier: primary
+    front_en: "THEY give it to me."
+    back_es: "Ellos me lo dan."
+    rule_ref: "L24#4"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-028
+    type: sentence
+    tier: primary
+    front_en: "I'll give it to you tomorrow."
+    back_es: "Te lo doy mañana."
+    rule_ref: "L24#6"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-029
+    type: sentence
+    tier: primary
+    front_en: "Are you giving it to me tomorrow?"
+    back_es: "¿Me lo da mañana?"
+    rule_ref: "L24#8"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-030
+    type: sentence
+    tier: primary
+    front_en: "Are YOU giving it to me tomorrow?"
+    back_es: "¿Usted me lo da mañana?"
+    rule_ref: "L24#8"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-031
+    type: sentence
+    tier: primary
+    front_en: "Are they giving it to us tomorrow?"
+    back_es: "¿Nos lo dan mañana?"
+    rule_ref: "L24#4"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-032
+    type: sentence
+    tier: primary
+    front_en: "Are YOU GUYS giving it to us tomorrow?"
+    back_es: "¿Ustedes nos lo dan mañana?"
+    rule_ref: "L24#9"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-033
+    type: sentence
+    tier: primary
+    front_en: "I want to give."
+    back_es: "Quiero dar."
+    rule_ref: "L24#11"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-034
+    type: sentence
+    tier: primary
+    front_en: "I want to give it to you."
+    back_es: "Te lo quiero dar."
+    rule_ref: "L24#11"
+    lessons: [24]
+    directions: [en_es, es_en]
+
+  # ---------------- EXTENDED ----------------
+  - id: l24-035
+    type: sentence
+    tier: extended
+    front_en: "I want to give it to you. (alt)"
+    back_es: "Quiero dártelo."
+    hint: "stacked on to-form"
+    rule_ref: "L24#11"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-036
+    type: sentence
+    tier: extended
+    front_en: "He gives me something."
+    back_es: "Me da algo."
+    rule_ref: "L24#7"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-037
+    type: sentence
+    tier: extended
+    front_en: "Why don't they give it to us?"
+    back_es: "¿Por qué no nos lo dan?"
+    rule_ref: "L24#4"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-038
+    type: sentence
+    tier: extended
+    front_en: "I'll give them to you."
+    back_es: "Te los doy."
+    rule_ref: "L24#4"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-039
+    type: sentence
+    tier: extended
+    front_en: "I'll give them to you tomorrow."
+    back_es: "Te los doy mañana."
+    rule_ref: "L24#6"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-040
+    type: sentence
+    tier: extended
+    front_en: "We give it to him."
+    back_es: "Se lo damos."
+    hint: "se = to him (preview)"
+    rule_ref: "L24#4"
+    lessons: [24]
+    directions: [en_es, es_en]
+    notes: "le → se phonetic fix lands L62; light foreshadow."
+  - id: l24-041
+    type: sentence
+    tier: extended
+    front_en: "She doesn't give it to me."
+    back_es: "No me lo da."
+    rule_ref: "L24#4"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-042
+    type: sentence
+    tier: extended
+    front_en: "Have you given it to her?"
+    back_es: "¿Se lo has dado?"
+    hint: "dado past part."
+    rule_ref: "L24#4"
+    lessons: [24]
+    directions: [en_es, es_en]
+    notes: "dado past part. of dar — light extension."
+  - id: l24-043
+    type: sentence
+    tier: extended
+    front_en: "I have given it."
+    back_es: "Lo he dado."
+    rule_ref: "L24#vocab"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-044
+    type: sentence
+    tier: extended
+    front_en: "We give a lot."
+    back_es: "Damos mucho."
+    rule_ref: "L24#3"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-045
+    type: sentence
+    tier: extended
+    front_en: "I want to give it. (alt)"
+    back_es: "Lo quiero dar."
+    rule_ref: "L24#11"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-046
+    type: sentence
+    tier: extended
+    front_en: "Why don't you (formal) give it to me?"
+    back_es: "¿Por qué no me lo da?"
+    rule_ref: "L24#8"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-047
+    type: sentence
+    tier: extended
+    front_en: "What are you giving me?"
+    back_es: "¿Qué me das?"
+    rule_ref: "L24#3"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-048
+    type: sentence
+    tier: extended
+    front_en: "Give it to me. (informal command)"
+    back_es: "Dámelo."
+    hint: "command preview"
+    rule_ref: "L24#11"
+    lessons: [24]
+    directions: [en_es, es_en]
+    notes: "Commands land L72."
+  - id: l24-049
+    type: sentence
+    tier: extended
+    front_en: "I want to give it to them."
+    back_es: "Se lo quiero dar."
+    rule_ref: "L24#11"
+    lessons: [24]
+    directions: [en_es, es_en]
+    notes: "se preview."
+  - id: l24-050
+    type: sentence
+    tier: extended
+    front_en: "Are you guys giving it to her?"
+    back_es: "¿Se lo dan?"
+    rule_ref: "L24#9"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-051
+    type: sentence
+    tier: extended
+    front_en: "I'll give it to you (formal)."
+    back_es: "Se lo doy."
+    rule_ref: "L24#9"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-052
+    type: sentence
+    tier: extended
+    front_en: "We give it to you."
+    back_es: "Te lo damos."
+    rule_ref: "L24#4"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-053
+    type: sentence
+    tier: extended
+    front_en: "She gives me something every day."
+    back_es: "Me da algo cada día."
+    rule_ref: "L24#7"
+    lessons: [24]
+    directions: [en_es, es_en]
+    notes: "cada día light extension."
+  - id: l24-054
+    type: sentence
+    tier: extended
+    front_en: "Are you (formal) giving it to her?"
+    back_es: "¿Se lo da?"
+    rule_ref: "L24#8"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-055
+    type: sentence
+    tier: extended
+    front_en: "He has given it to us."
+    back_es: "Nos lo ha dado."
+    rule_ref: "L24#vocab"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-056
+    type: sentence
+    tier: extended
+    front_en: "He hasn't given it to me."
+    back_es: "No me lo ha dado."
+    rule_ref: "L24#4"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-057
+    type: sentence
+    tier: extended
+    front_en: "We're giving them tomorrow."
+    back_es: "Damos mañana."
+    rule_ref: "L24#6"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-058
+    type: sentence
+    tier: extended
+    front_en: "I have to give it to you."
+    back_es: "Tengo que dártelo."
+    rule_ref: "L24#11"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-059
+    type: sentence
+    tier: extended
+    front_en: "I have to give it to you. (alt)"
+    back_es: "Te lo tengo que dar."
+    rule_ref: "L24#11"
+    lessons: [24]
+    directions: [en_es, es_en]
+  - id: l24-060
+    type: sentence
+    tier: extended
+    front_en: "Are they coming to give it to us?"
+    back_es: "¿Vienen a dárnoslo?"
+    rule_ref: "L24#11"
+    lessons: [24]
+    directions: [en_es, es_en]

@@ -1,0 +1,425 @@
+topic: "Reflexive intro + dar + numbers + me/te/nos as 'to/for me'"
+lessons: [23, 24, 25]
+cards:
+  # ---------------- reflexive past with all persons + verbs ----------------
+  - id: t23_25-001
+    type: sentence
+    tier: extended
+    front_en: "I have stayed."
+    back_es: "Me he quedado."
+    rule_ref: "L23#9, L25#15"
+    lessons: [23, 24, 25]
+    directions: [en_es, es_en]
+  - id: t23_25-002
+    type: sentence
+    tier: extended
+    front_en: "We have stayed here."
+    back_es: "Nos hemos quedado aquí."
+    rule_ref: "L23#9, L25#15"
+    lessons: [23, 24, 25]
+    directions: [en_es, es_en]
+  - id: t23_25-003
+    type: sentence
+    tier: extended
+    front_en: "Have you stayed here?"
+    back_es: "¿Te has quedado aquí?"
+    rule_ref: "L23#9, L25#15"
+    lessons: [23, 24, 25]
+    directions: [en_es, es_en]
+  - id: t23_25-004
+    type: sentence
+    tier: extended
+    front_en: "I have prepared myself."
+    back_es: "Me he preparado."
+    rule_ref: "L23#9"
+    lessons: [23, 24, 25]
+    directions: [en_es, es_en]
+  - id: t23_25-005
+    type: sentence
+    tier: extended
+    front_en: "We have got lost again."
+    back_es: "Nos hemos perdido."
+    rule_ref: "L23#9"
+    lessons: [23, 24, 25]
+    directions: [en_es, es_en]
+
+  # ---------------- dar + ustedes + stacking ----------------
+  - id: t23_25-006
+    type: sentence
+    tier: extended
+    front_en: "Are you guys giving it to us?"
+    back_es: "¿Ustedes nos lo dan?"
+    rule_ref: "L24#9"
+    lessons: [24, 25]
+    directions: [en_es, es_en]
+  - id: t23_25-007
+    type: sentence
+    tier: extended
+    front_en: "I'll give it to you tomorrow."
+    back_es: "Te lo doy mañana."
+    rule_ref: "L24#6"
+    lessons: [24, 25]
+    directions: [en_es, es_en]
+  - id: t23_25-008
+    type: sentence
+    tier: extended
+    front_en: "I'll give it to you at six."
+    back_es: "Te lo doy a las seis."
+    rule_ref: "L24#6, L25#11"
+    lessons: [24, 25]
+    directions: [en_es, es_en]
+  - id: t23_25-009
+    type: sentence
+    tier: extended
+    front_en: "She gives me something."
+    back_es: "Me da algo."
+    rule_ref: "L24#7"
+    lessons: [24, 25]
+    directions: [en_es, es_en]
+  - id: t23_25-010
+    type: sentence
+    tier: extended
+    front_en: "He gives the program to me."
+    back_es: "Me da el programa."
+    rule_ref: "L24#7, L23#1"
+    lessons: [23, 24, 25]
+    directions: [en_es, es_en]
+
+  # ---------------- "to/for me" usage with various verbs ----------------
+  - id: t23_25-011
+    type: sentence
+    tier: extended
+    front_en: "He cooks for me."
+    back_es: "Me cocina."
+    rule_ref: "L25#1"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: t23_25-012
+    type: sentence
+    tier: extended
+    front_en: "He cooks for me at six."
+    back_es: "Me cocina a las seis."
+    rule_ref: "L25#1, L25#11"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: t23_25-013
+    type: sentence
+    tier: extended
+    front_en: "She buys it for me."
+    back_es: "Me lo compra."
+    rule_ref: "L25#1"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: t23_25-014
+    type: sentence
+    tier: extended
+    front_en: "She buys it for us."
+    back_es: "Nos lo compra."
+    rule_ref: "L25#1"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: t23_25-015
+    type: sentence
+    tier: extended
+    front_en: "He speaks to me about the system."
+    back_es: "Me habla del sistema."
+    rule_ref: "L25#1, L23#1"
+    lessons: [23, 24, 25]
+    directions: [en_es, es_en]
+    notes: "del = de + el; light extension."
+
+  # ---------------- numbers + time ----------------
+  - id: t23_25-016
+    type: sentence
+    tier: extended
+    front_en: "We have eaten at seven."
+    back_es: "Hemos comido a las siete."
+    rule_ref: "L25#11"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: t23_25-017
+    type: sentence
+    tier: extended
+    front_en: "I'm leaving at eight."
+    back_es: "Salgo a las ocho."
+    rule_ref: "L25#11"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: t23_25-018
+    type: sentence
+    tier: extended
+    front_en: "He arrives at nine."
+    back_es: "Llega a las nueve."
+    rule_ref: "L25#11"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: t23_25-019
+    type: sentence
+    tier: extended
+    front_en: "We're staying until ten."
+    back_es: "Nos quedamos hasta las diez."
+    rule_ref: "L25#17"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: t23_25-020
+    type: sentence
+    tier: extended
+    front_en: "Are you guys staying until eight?"
+    back_es: "¿Ustedes se quedan hasta las ocho?"
+    rule_ref: "L24#9, L25#17"
+    lessons: [24, 25]
+    directions: [en_es, es_en]
+    notes: "se for ustedes preview."
+  - id: t23_25-021
+    type: sentence
+    tier: extended
+    front_en: "I want to leave at ten."
+    back_es: "Quiero salir a las diez."
+    rule_ref: "L25#11"
+    lessons: [25]
+    directions: [en_es, es_en]
+
+  # ---------------- combined: ma-words + reflexive + helpers ----------------
+  - id: t23_25-022
+    type: sentence
+    tier: extended
+    front_en: "I want to understand the problem."
+    back_es: "Quiero entender el problema."
+    rule_ref: "L23#1"
+    lessons: [23, 24, 25]
+    directions: [en_es, es_en]
+  - id: t23_25-023
+    type: sentence
+    tier: extended
+    front_en: "We have understood the program."
+    back_es: "Hemos entendido el programa."
+    rule_ref: "L23#1"
+    lessons: [23, 24, 25]
+    directions: [en_es, es_en]
+  - id: t23_25-024
+    type: sentence
+    tier: extended
+    front_en: "He understands the system."
+    back_es: "Entiende el sistema."
+    rule_ref: "L23#1"
+    lessons: [23, 24, 25]
+    directions: [en_es, es_en]
+  - id: t23_25-025
+    type: sentence
+    tier: extended
+    front_en: "It's a good program."
+    back_es: "Es un buen programa."
+    rule_ref: "L23#1"
+    lessons: [23, 24, 25]
+    directions: [en_es, es_en]
+    notes: "buen short form preview."
+  - id: t23_25-026
+    type: sentence
+    tier: extended
+    front_en: "I have lost the program."
+    back_es: "He perdido el programa."
+    rule_ref: "L23#1"
+    lessons: [23, 24, 25]
+    directions: [en_es, es_en]
+
+  # ---------------- bundle wrap: reflexive + dar + numbers in stitched sentences ----------------
+  - id: t23_25-027
+    type: sentence
+    tier: extended
+    front_en: "I'm staying here until eight."
+    back_es: "Me quedo aquí hasta las ocho."
+    rule_ref: "L25#15, L25#17"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: t23_25-028
+    type: sentence
+    tier: extended
+    front_en: "I have to give it to you at six."
+    back_es: "Te lo tengo que dar a las seis."
+    rule_ref: "L24#11, L25#11"
+    lessons: [24, 25]
+    directions: [en_es, es_en]
+  - id: t23_25-029
+    type: sentence
+    tier: extended
+    front_en: "Do you want to stay tonight?"
+    back_es: "¿Quieres quedarte esta noche?"
+    rule_ref: "L25#15"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: t23_25-030
+    type: sentence
+    tier: extended
+    front_en: "We have to leave at nine."
+    back_es: "Tenemos que salir a las nueve."
+    rule_ref: "L25#11"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: t23_25-031
+    type: sentence
+    tier: extended
+    front_en: "I'm going to give it to him at ten."
+    back_es: "Se lo doy a las diez."
+    rule_ref: "L24#4, L25#11"
+    lessons: [24, 25]
+    directions: [en_es, es_en]
+    notes: "se preview."
+  - id: t23_25-032
+    type: sentence
+    tier: extended
+    front_en: "We are giving them tomorrow."
+    back_es: "Los damos mañana."
+    rule_ref: "L24#3, L24#6"
+    lessons: [24, 25]
+    directions: [en_es, es_en]
+  - id: t23_25-033
+    type: sentence
+    tier: extended
+    front_en: "I'm cooking for you tonight."
+    back_es: "Te cocino esta noche."
+    rule_ref: "L25#1"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: t23_25-034
+    type: sentence
+    tier: extended
+    front_en: "We have got lost in the kitchen."
+    back_es: "Nos hemos perdido en la cocina."
+    rule_ref: "L23#9, L25#6"
+    lessons: [23, 24, 25]
+    directions: [en_es, es_en]
+    notes: "en lands L27."
+  - id: t23_25-035
+    type: sentence
+    tier: extended
+    front_en: "He has prepared something for me."
+    back_es: "Me ha preparado algo."
+    rule_ref: "L25#1"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: t23_25-036
+    type: sentence
+    tier: extended
+    front_en: "Have you given it to me?"
+    back_es: "¿Me lo has dado?"
+    rule_ref: "L24#vocab"
+    lessons: [24, 25]
+    directions: [en_es, es_en]
+  - id: t23_25-037
+    type: sentence
+    tier: extended
+    front_en: "We have given them to him."
+    back_es: "Se los hemos dado."
+    rule_ref: "L24#4"
+    lessons: [24, 25]
+    directions: [en_es, es_en]
+    notes: "se preview."
+  - id: t23_25-038
+    type: sentence
+    tier: extended
+    front_en: "I want to give it to you tonight."
+    back_es: "Te lo quiero dar esta noche."
+    rule_ref: "L24#11"
+    lessons: [24, 25]
+    directions: [en_es, es_en]
+  - id: t23_25-039
+    type: sentence
+    tier: extended
+    front_en: "Why don't you stay until ten?"
+    back_es: "¿Por qué no te quedas hasta las diez?"
+    rule_ref: "L25#16, L25#17"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: t23_25-040
+    type: sentence
+    tier: extended
+    front_en: "We have prepared the program."
+    back_es: "Hemos preparado el programa."
+    rule_ref: "L23#1"
+    lessons: [23, 24, 25]
+    directions: [en_es, es_en]
+
+  # ---------------- review: rule-as-sentence ----------------
+  - id: t23_25-041
+    type: sentence
+    tier: extended
+    front_en: "It's the system."
+    back_es: "Es el sistema."
+    rule_ref: "L23#1"
+    lessons: [23, 24, 25]
+    directions: [en_es, es_en]
+  - id: t23_25-042
+    type: sentence
+    tier: extended
+    front_en: "I'll buy it for you at seven."
+    back_es: "Te lo compro a las siete."
+    rule_ref: "L25#1, L25#11"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: t23_25-043
+    type: sentence
+    tier: extended
+    front_en: "I want to give it to her."
+    back_es: "Se lo quiero dar."
+    rule_ref: "L24#11"
+    lessons: [24, 25]
+    directions: [en_es, es_en]
+    notes: "se preview."
+  - id: t23_25-044
+    type: sentence
+    tier: extended
+    front_en: "We have got lost tonight."
+    back_es: "Nos hemos perdido esta noche."
+    rule_ref: "L23#9"
+    lessons: [23, 24, 25]
+    directions: [en_es, es_en]
+  - id: t23_25-045
+    type: sentence
+    tier: extended
+    front_en: "Are they staying until ten?"
+    back_es: "¿Se quedan hasta las diez?"
+    rule_ref: "L25#16"
+    lessons: [24, 25]
+    directions: [en_es, es_en]
+    notes: "se preview."
+  - id: t23_25-046
+    type: sentence
+    tier: extended
+    front_en: "I'm going to give it to them tomorrow."
+    back_es: "Se lo doy mañana."
+    rule_ref: "L24#6"
+    lessons: [24, 25]
+    directions: [en_es, es_en]
+  - id: t23_25-047
+    type: sentence
+    tier: extended
+    front_en: "Have you cooked at six?"
+    back_es: "¿Has cocinado a las seis?"
+    rule_ref: "L25#11"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: t23_25-048
+    type: sentence
+    tier: extended
+    front_en: "I haven't given it to him."
+    back_es: "No se lo he dado."
+    rule_ref: "L24#vocab"
+    lessons: [24, 25]
+    directions: [en_es, es_en]
+    notes: "se preview."
+  - id: t23_25-049
+    type: sentence
+    tier: extended
+    front_en: "I prefer to stay here."
+    back_es: "Prefiero quedarme aquí."
+    rule_ref: "L25#15"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: t23_25-050
+    type: sentence
+    tier: extended
+    front_en: "Until we see each other."
+    back_es: "Hasta la vista."
+    rule_ref: "L25#17"
+    lessons: [25]
+    directions: [en_es, es_en]

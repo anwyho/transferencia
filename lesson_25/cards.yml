@@ -1,0 +1,662 @@
+lesson: 25
+title: "me/te/nos = to/for me; cocinar; numbers 6-10; quedar / me quedo; hasta"
+cards:
+  # ---------------- PRIMARY: Vocab ----------------
+  - id: l25-001
+    type: transformation
+    tier: primary
+    front_en: "to speak"
+    back_es: "hablar"
+    rule_ref: "L25#1"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-002
+    type: transformation
+    tier: primary
+    front_en: "he speaks to me"
+    back_es: "me habla"
+    rule_ref: "L25#1"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-003
+    type: transformation
+    tier: primary
+    front_en: "to buy"
+    back_es: "comprar"
+    rule_ref: "L25#1"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-004
+    type: transformation
+    tier: primary
+    front_en: "he buys it for me"
+    back_es: "me lo compra"
+    hint: "no para needed"
+    rule_ref: "L25#1"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-005
+    type: transformation
+    tier: primary
+    front_en: "I buy it for you"
+    back_es: "te lo compro"
+    rule_ref: "L25#1"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-006
+    type: transformation
+    tier: primary
+    front_en: "to do / make"
+    back_es: "hacer"
+    rule_ref: "L25#5"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-007
+    type: transformation
+    tier: primary
+    front_en: "the kitchen"
+    back_es: "la cocina"
+    hint: "/cosina/ or /cothina/"
+    rule_ref: "L25#6"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-008
+    type: transformation
+    tier: primary
+    front_en: "to cook"
+    back_es: "cocinar"
+    rule_ref: "L25#7"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-009
+    type: transformation
+    tier: primary
+    front_en: "I cook"
+    back_es: "cocino"
+    rule_ref: "L25#8"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-010
+    type: transformation
+    tier: primary
+    front_en: "you (informal) cook"
+    back_es: "cocinas"
+    rule_ref: "L25#8"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-011
+    type: transformation
+    tier: primary
+    front_en: "he/she cooks"
+    back_es: "cocina"
+    rule_ref: "L25#8"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-012
+    type: transformation
+    tier: primary
+    front_en: "we cook"
+    back_es: "cocinamos"
+    rule_ref: "L25#8"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-013
+    type: transformation
+    tier: primary
+    front_en: "they cook"
+    back_es: "cocinan"
+    rule_ref: "L25#8"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-014
+    type: transformation
+    tier: primary
+    front_en: "to be able / can"
+    back_es: "poder"
+    rule_ref: "L25#9"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-015
+    type: transformation
+    tier: primary
+    front_en: "I can"
+    back_es: "puedo"
+    hint: "ue split"
+    rule_ref: "L25#9"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-016
+    type: transformation
+    tier: primary
+    front_en: "we can"
+    back_es: "podemos"
+    rule_ref: "L25#9"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-017
+    type: transformation
+    tier: primary
+    front_en: "something"
+    back_es: "algo"
+    rule_ref: "L25#vocab"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-018
+    type: transformation
+    tier: primary
+    front_en: "six"
+    back_es: "seis"
+    rule_ref: "L25#12"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-019
+    type: transformation
+    tier: primary
+    front_en: "seven"
+    back_es: "siete"
+    hint: "e-split from set-"
+    rule_ref: "L25#12"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-020
+    type: transformation
+    tier: primary
+    front_en: "eight"
+    back_es: "ocho"
+    hint: "octo-"
+    rule_ref: "L25#12"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-021
+    type: transformation
+    tier: primary
+    front_en: "nine"
+    back_es: "nueve"
+    hint: "ue split: Nov-"
+    rule_ref: "L25#12"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-022
+    type: transformation
+    tier: primary
+    front_en: "ten"
+    back_es: "diez"
+    hint: "Dec-"
+    rule_ref: "L25#12"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-023
+    type: transformation
+    tier: primary
+    front_en: "to remain"
+    back_es: "quedar"
+    hint: "qu = /k/"
+    rule_ref: "L25#14"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-024
+    type: transformation
+    tier: primary
+    front_en: "I stay"
+    back_es: "me quedo"
+    hint: "I remain myself"
+    rule_ref: "L25#15"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-025
+    type: transformation
+    tier: primary
+    front_en: "you stay"
+    back_es: "te quedas"
+    rule_ref: "L25#16"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-026
+    type: transformation
+    tier: primary
+    front_en: "we stay"
+    back_es: "nos quedamos"
+    rule_ref: "L25#16"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-027
+    type: transformation
+    tier: primary
+    front_en: "until"
+    back_es: "hasta"
+    hint: "silent h"
+    rule_ref: "L25#17"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-028
+    type: transformation
+    tier: primary
+    front_en: "see you / until we see each other"
+    back_es: "hasta la vista"
+    rule_ref: "L25#17"
+    lessons: [25]
+    directions: [en_es, es_en]
+
+  # ---------------- PRIMARY: Sentences ----------------
+  - id: l25-029
+    type: sentence
+    tier: primary
+    front_en: "He speaks to me."
+    back_es: "Me habla."
+    rule_ref: "L25#1"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-030
+    type: sentence
+    tier: primary
+    front_en: "They speak to me."
+    back_es: "Me hablan."
+    rule_ref: "L25#1"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-031
+    type: sentence
+    tier: primary
+    front_en: "He's speaking to me about it."
+    back_es: "Me lo habla."
+    rule_ref: "L25#1"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-032
+    type: sentence
+    tier: primary
+    front_en: "He buys it for me."
+    back_es: "Me lo compra."
+    rule_ref: "L25#1"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-033
+    type: sentence
+    tier: primary
+    front_en: "I buy it for you."
+    back_es: "Te lo compro."
+    rule_ref: "L25#1"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-034
+    type: sentence
+    tier: primary
+    front_en: "Shall I buy it for you?"
+    back_es: "¿Te lo compro?"
+    rule_ref: "L25#3"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-035
+    type: sentence
+    tier: primary
+    front_en: "Do you want to do?"
+    back_es: "¿Quieres hacer?"
+    rule_ref: "L25#5"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-036
+    type: sentence
+    tier: primary
+    front_en: "Do you want to do it?"
+    back_es: "¿Quieres hacerlo?"
+    rule_ref: "L25#5"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-037
+    type: sentence
+    tier: primary
+    front_en: "Do you want to do it for me?"
+    back_es: "¿Me lo quieres hacer?"
+    rule_ref: "L25#5"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-038
+    type: sentence
+    tier: primary
+    front_en: "Do you want to do it for me? (alt)"
+    back_es: "¿Quieres hacérmelo?"
+    rule_ref: "L25#5"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-039
+    type: sentence
+    tier: primary
+    front_en: "I cook."
+    back_es: "Cocino."
+    rule_ref: "L25#8"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-040
+    type: sentence
+    tier: primary
+    front_en: "You cook."
+    back_es: "Tú cocinas."
+    rule_ref: "L25#8"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-041
+    type: sentence
+    tier: primary
+    front_en: "We cook."
+    back_es: "Nosotros cocinamos."
+    rule_ref: "L25#8"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-042
+    type: sentence
+    tier: primary
+    front_en: "Can you cook?"
+    back_es: "¿Puedes cocinar?"
+    rule_ref: "L25#9"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-043
+    type: sentence
+    tier: primary
+    front_en: "Can you cook something for me?"
+    back_es: "¿Me puedes cocinar algo?"
+    rule_ref: "L25#10"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-044
+    type: sentence
+    tier: primary
+    front_en: "I have cooked."
+    back_es: "He cocinado."
+    rule_ref: "L25#vocab"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-045
+    type: sentence
+    tier: primary
+    front_en: "I have cooked at six o'clock."
+    back_es: "He cocinado a las seis."
+    rule_ref: "L25#11"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-046
+    type: sentence
+    tier: primary
+    front_en: "We have cooked at eight o'clock."
+    back_es: "Hemos cocinado a las ocho."
+    rule_ref: "L25#11"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-047
+    type: sentence
+    tier: primary
+    front_en: "I'm staying."
+    back_es: "Me quedo."
+    rule_ref: "L25#15"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-048
+    type: sentence
+    tier: primary
+    front_en: "I'm staying here."
+    back_es: "Me quedo aquí."
+    rule_ref: "L25#18"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-049
+    type: sentence
+    tier: primary
+    front_en: "I'm staying here until ten."
+    back_es: "Me quedo aquí hasta las diez."
+    rule_ref: "L25#17"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-050
+    type: sentence
+    tier: primary
+    front_en: "We're staying until nine."
+    back_es: "Nos quedamos hasta las nueve."
+    rule_ref: "L25#17"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-051
+    type: sentence
+    tier: primary
+    front_en: "You're staying."
+    back_es: "Te quedas."
+    rule_ref: "L25#16"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-052
+    type: sentence
+    tier: primary
+    front_en: "You're staying here."
+    back_es: "Te quedas aquí."
+    rule_ref: "L25#16"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-053
+    type: sentence
+    tier: primary
+    front_en: "Are you staying here?"
+    back_es: "¿Te quedas aquí?"
+    rule_ref: "L25#16"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-054
+    type: sentence
+    tier: primary
+    front_en: "I (emph) am staying."
+    back_es: "Yo me quedo."
+    rule_ref: "L25#19"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-055
+    type: sentence
+    tier: primary
+    front_en: "WE are staying."
+    back_es: "Nosotros nos quedamos."
+    rule_ref: "L25#19"
+    lessons: [25]
+    directions: [en_es, es_en]
+
+  # ---------------- EXTENDED ----------------
+  - id: l25-056
+    type: sentence
+    tier: extended
+    front_en: "He speaks to us."
+    back_es: "Nos habla."
+    rule_ref: "L25#1"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-057
+    type: sentence
+    tier: extended
+    front_en: "He buys it for us."
+    back_es: "Nos lo compra."
+    rule_ref: "L25#1"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-058
+    type: sentence
+    tier: extended
+    front_en: "I buy it for them."
+    back_es: "Lo compro para ellos."
+    hint: "para needed for 'them'"
+    rule_ref: "L25#1"
+    lessons: [25]
+    directions: [en_es, es_en]
+    notes: "para preposition lands L39."
+  - id: l25-059
+    type: sentence
+    tier: extended
+    front_en: "He cooks for me."
+    back_es: "Me cocina."
+    rule_ref: "L25#1"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-060
+    type: sentence
+    tier: extended
+    front_en: "Why don't you cook for us?"
+    back_es: "¿Por qué no nos cocinas?"
+    rule_ref: "L25#1"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-061
+    type: sentence
+    tier: extended
+    front_en: "I want to do it for you."
+    back_es: "Te lo quiero hacer."
+    rule_ref: "L25#5"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-062
+    type: sentence
+    tier: extended
+    front_en: "I want to do it for you. (alt)"
+    back_es: "Quiero hacértelo."
+    rule_ref: "L25#5"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-063
+    type: sentence
+    tier: extended
+    front_en: "We're staying here tonight."
+    back_es: "Nos quedamos aquí esta noche."
+    rule_ref: "L25#16"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-064
+    type: sentence
+    tier: extended
+    front_en: "I have cooked at seven."
+    back_es: "He cocinado a las siete."
+    rule_ref: "L25#11"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-065
+    type: sentence
+    tier: extended
+    front_en: "We can stay here."
+    back_es: "Podemos quedarnos aquí."
+    rule_ref: "L25#9"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-066
+    type: sentence
+    tier: extended
+    front_en: "I want to stay here."
+    back_es: "Quiero quedarme aquí."
+    rule_ref: "L25#15"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-067
+    type: sentence
+    tier: extended
+    front_en: "I have stayed here until ten."
+    back_es: "Me he quedado aquí hasta las diez."
+    rule_ref: "L25#15"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-068
+    type: sentence
+    tier: extended
+    front_en: "Until later."
+    back_es: "Hasta más tarde."
+    rule_ref: "L25#17"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-069
+    type: sentence
+    tier: extended
+    front_en: "Until tomorrow."
+    back_es: "Hasta mañana."
+    rule_ref: "L25#17"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-070
+    type: sentence
+    tier: extended
+    front_en: "Until tonight."
+    back_es: "Hasta esta noche."
+    rule_ref: "L25#17"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-071
+    type: sentence
+    tier: extended
+    front_en: "He's been speaking to me about it."
+    back_es: "Me lo ha hablado."
+    rule_ref: "L25#1"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-072
+    type: sentence
+    tier: extended
+    front_en: "Have you cooked something for me?"
+    back_es: "¿Me has cocinado algo?"
+    rule_ref: "L25#10"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-073
+    type: sentence
+    tier: extended
+    front_en: "We're staying for a long time."
+    back_es: "Nos quedamos por mucho tiempo."
+    rule_ref: "L25#16"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-074
+    type: sentence
+    tier: extended
+    front_en: "What do you want to cook?"
+    back_es: "¿Qué quieres cocinar?"
+    rule_ref: "L25#7"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-075
+    type: sentence
+    tier: extended
+    front_en: "I want to buy it for you."
+    back_es: "Te lo quiero comprar."
+    rule_ref: "L25#1"
+    lessons: [25]
+    directions: [en_es, es_en]
+
+  # ---------------- EXTENDED: number drills ----------------
+  - id: l25-076
+    type: sentence
+    tier: extended
+    front_en: "At six o'clock."
+    back_es: "A las seis."
+    rule_ref: "L25#11"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-077
+    type: sentence
+    tier: extended
+    front_en: "At nine o'clock."
+    back_es: "A las nueve."
+    rule_ref: "L25#11"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-078
+    type: sentence
+    tier: extended
+    front_en: "At ten o'clock."
+    back_es: "A las diez."
+    rule_ref: "L25#11"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-079
+    type: sentence
+    tier: extended
+    front_en: "Until eight o'clock."
+    back_es: "Hasta las ocho."
+    rule_ref: "L25#17"
+    lessons: [25]
+    directions: [en_es, es_en]
+  - id: l25-080
+    type: sentence
+    tier: extended
+    front_en: "Until seven o'clock."
+    back_es: "Hasta las siete."
+    rule_ref: "L25#17"
+    lessons: [25]
+    directions: [en_es, es_en]
