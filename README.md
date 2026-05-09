@@ -84,9 +84,9 @@ See [docs/learning-system.md](docs/learning-system.md) for full design.
 - ✅ Lesson rules + transcripts: 90/90
 - ✅ Cross-references map: complete
 - ✅ Card system infrastructure: schema, parser, validator, Anki generator, MP3 generator (cards mode + stories mode), Piper + macOS TTS adapters
-- ✅ Bundle A content: lesson_02/03 cards + topical bundle + 5 stories (lesson 1 has no Spanish content, skipped by design)
-- 🚧 Bundles B-H content (cards): rolling effort
-- 🚧 Bundles B-H content (stories): rolling effort
+- ✅ Bundles A-J cards (L1-28): primary + extended + topical for each lesson, ~2600 cards total
+- 🚧 Bundles B-J stories (L4-28): rolling effort
+- 🚧 Bundles K-T defined (L29-57); content not yet built
 
 ## Daily routine
 

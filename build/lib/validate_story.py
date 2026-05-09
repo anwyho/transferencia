@@ -22,6 +22,8 @@ BUNDLE_BUDGETS = {
     (15, 17): 12.0,
     (18, 20): 15.0,
     (21, 22): 20.0,
+    (23, 25): 22.0,
+    (26, 28): 25.0,
 }
 
 # Common Spanish stop-words used across the corpus that are not in any

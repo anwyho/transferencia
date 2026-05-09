@@ -7,9 +7,12 @@ from typing import Iterable, Set
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 
-# Matches Vocabulary entries:  - *importante* — important
-# Captures the italic Spanish word in the first group.
-_VOCAB_LINE_RE = re.compile(r"^\s*-\s*\*([^*]+)\*\s*[—\-:]", re.MULTILINE)
+# Matches Vocabulary entries (bullet lines):  - *importante* — important
+# Matches every italic Spanish phrase on the line — supports both:
+#   - *importante* — important
+#   - *tener* / *tengo* — to have / I have
+_VOCAB_LINE_RE = re.compile(r"^\s*-\s+(.*)", re.MULTILINE)
+_ITALIC_PHRASE_RE = re.compile(r"\*([^*]+)\*")
 
 
 def extract_lesson_vocab(rules_path: Path) -> Set[str]:
@@ -28,7 +31,27 @@ def extract_lesson_vocab(rules_path: Path) -> Set[str]:
     if not m:
         return set()
     section = m.group(1)
-    return {match.group(1).strip().lower() for match in _VOCAB_LINE_RE.finditer(section)}
+    out: Set[str] = set()
+    for line_match in _VOCAB_LINE_RE.finditer(section):
+        line = line_match.group(1)
+        # Pull every italic phrase on the line. The line format is normally:
+        #   - *infinitive* / *form1* / *form2* — gloss (and *form3* — more gloss)
+        # Vocab lines often have additional Spanish forms after the em-dash —
+        # so we match every italic block, not just the first one before "—".
+        # A few English words appear in italics inside glosses (e.g. *intention*),
+        # but they don't collide with Spanish tokens in stories so it's safe.
+        for phrase_match in _ITALIC_PHRASE_RE.finditer(line):
+            phrase = phrase_match.group(1).strip().lower()
+            # Slash-separated conjugation lists inside one italic block count
+            # as multiple entries: *vengo / viene / vienen* → {vengo, viene, vienen}.
+            if " / " in phrase:
+                for part in phrase.split(" / "):
+                    p = part.strip()
+                    if p:
+                        out.add(p)
+            elif phrase:
+                out.add(phrase)
+    return out
 
 
 def allowed_vocab_through(
