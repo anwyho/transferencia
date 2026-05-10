@@ -101,15 +101,22 @@ def render_card_track(
     seed: int,
     pace: float = 1.0,
     trailing_gap: float = 0.5,
+    separator: AudioSegment | None = None,
+    shuffle: bool = True,
 ) -> Path:
     """Render a list of segments into a single MP3 track.
 
-    Order is shuffled deterministically by `seed` so two runs of the same
-    track produce the same shuffle but different tracks vary.
+    If `shuffle` is True (default, back-compat), order is shuffled
+    deterministically by `seed`. Pass `shuffle=False` when the caller has
+    already ordered the segments (review-set generator does this).
+
+    If `separator` is an AudioSegment (e.g. a 'Siguiente.' marker clip),
+    it is appended after each segment's trailing gap.
     """
     seg_list = list(segments)
-    rng = random.Random(seed)
-    rng.shuffle(seg_list)
+    if shuffle:
+        rng = random.Random(seed)
+        rng.shuffle(seg_list)
 
     work = AudioSegment.empty()
     for seg in seg_list:
@@ -119,6 +126,9 @@ def render_card_track(
         work += AudioSegment.silent(duration=int(seg.pause_seconds * 1000))
         work += AudioSegment.from_file(str(answer_wav))
         work += AudioSegment.silent(duration=int(trailing_gap * 1000))
+        if separator is not None:
+            work += separator
+            work += AudioSegment.silent(duration=int(trailing_gap * 1000))
 
     work = work.set_channels(1)
     dst.parent.mkdir(parents=True, exist_ok=True)
