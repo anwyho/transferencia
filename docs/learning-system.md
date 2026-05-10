@@ -1,6 +1,6 @@
 # Learning System Overview
 
-The card system has one source of truth (YAML per lesson and per topical bundle) feeding two delivery channels (Anki deck for desk study, MP3 tracks for the car). The point is to operationalize Language Transfer's "mental transfer + mental translation" approach with spaced repetition.
+The card system has one source of truth (YAML per topical bundle, one file per Spanish-alphabet letter) feeding two delivery channels (Anki deck for desk study, MP3 tracks for the car). The point is to operationalize Language Transfer's "mental transfer + mental translation" approach with spaced repetition.
 
 ## Why two channels
 
@@ -10,13 +10,13 @@ Anki and audio drills do different jobs.
 
 **Audio drills** are the volume layer. You can't safely look at a screen while driving, but your ears and your mouth are free for 30+ minutes a day. Pre-rendered MP3s play through CarPlay / Bluetooth and force you to produce out loud — no shortcut to flipping a card.
 
-Both consume the same `cards.yml` files. Add a card once, get it on both surfaces.
+Both consume the same `cards/<letter>_<theme>.yml` bundle files. Add a card once, get it on both surfaces.
 
 ## Two tiers of cards
 
 ### Primary
 
-Cards drawn directly from `lesson_NN/rules.md`:
+Cards drawn directly from `lessons/lesson_NN/rules.md`:
 
 - The Vocabulary section becomes vocab and transformation cards.
 - The Examples / Sentences section becomes sentence cards (often verbatim).
@@ -35,7 +35,7 @@ Cards applying the *same rule* to material the lesson didn't cover:
 
 Goal: 2-3× the volume of primary, so the rule is exercised across many real surface forms instead of just the handful the teacher had time for.
 
-**Hard rule for extended cards:** they cannot use grammar introduced in a *later* lesson than the latest one in their `lessons:` array. The generator validates this. If you want to write "Es importante que vengas pronto" the card must live in a topical bundle whose `lessons:` includes the lesson where subjunctive-after-importante shows up.
+**Hard rule for extended cards:** the card's `lessons:` array names every lesson whose grammar the card relies on. The card's *latest* lesson must fall inside the bundle's lesson range — that's the bundle's "home." Earlier lessons in the array can reference prior bundles. If you want to write "Es importante que vengas pronto" the card belongs in the bundle whose range includes the lesson where mood-after-*importante* lands (V, L74–77).
 
 ## Three drill directions
 
@@ -52,11 +52,20 @@ Conjugation cards are `en_es`-only (recognition would be trivial).
 
 ## Topical bundles
 
-Some content doesn't sit cleanly in one lesson. A sentence that combines L2's *es / no es* with L3's *-mente* with L4's *quiero* belongs in a bundle, not in any single lesson's file.
+We group all 90 lessons into 27 bundles, one per Spanish-alphabet letter (A–Z + Ñ). Each bundle is 3 or 4 lessons (9 fours + 18 threes = 90). Boundaries follow the theme threads in `cross-references.md`.
 
-We group lessons into bundles of ≤4 lessons each, drawn from theme threads in `CROSS_REFERENCES.md`. Cards living in `cards_topical/topic_NN_MM_*.yml` carry an explicit `lessons: [N, M]` array and get tagged in Anki under both `lesson::NN` and `topic::NN_MM_<theme>`.
+Each bundle file at `cards/<letter>_<theme>.yml` is the single source of truth for every card whose latest lesson falls inside that bundle. The file frontmatter declares the lesson range:
 
-See [lesson-bundles.md](lesson-bundles.md) for the current bundle table.
+```yaml
+bundle: A
+title: "Foundation: vowels, es / no es, convertible-word rules"
+lessons: [1, 2, 3]
+cards: [...]
+```
+
+A card whose `lessons: [2, 3]` lives in bundle A. A card whose `lessons: [3, 4]` (max=4) lives in bundle B even though it leans on grammar from A. Cards get Anki-tagged with `lesson::NN` for every lesson in their array and `bundle::A` for the home bundle.
+
+See [lesson-bundles.md](lesson-bundles.md) for the full 27-bundle table.
 
 ## Reinforcement, not first exposure
 
@@ -77,9 +86,8 @@ Two scripts under `build/` consume the YAML:
 
 Produces `dist/transferencia.apkg`:
 
-- One subdeck per lesson (`Transferencia::Lesson 03`).
-- One subdeck per topical bundle (`Transferencia::Topic::04-05 Verb Unlock`).
-- Tags: `lesson::03`, `topic::04_05_verb_unlock`, `tier::primary`, `tier::extended`, `type::transformation`, `type::sentence`, `type::conjugation`, `direction::en_es`, etc.
+- One subdeck per bundle (`Transferencia::Bundle B Verb Unlock`).
+- Tags: `lesson::03`, `bundle::a_foundation`, `tier::primary`, `tier::extended`, `type::transformation`, `type::sentence`, `type::conjugation`, `direction::en_es`, etc.
 - Custom card templates render hint + `rule_ref` footer on the back.
 - Uses `genanki` Python library.
 - Stable note IDs derived from the card's `id` field, so re-imports preserve scheduling history.
@@ -91,7 +99,7 @@ Produces `audio/lesson_NN.mp3` (cumulative — track NN includes every card whos
 - Per card: TTS English prompt → 4-6 second silent pause → TTS Spanish answer → 0.5s gap → next.
 - Mixes both directions in a randomized order so you can't pattern-match.
 - TTS adapter defaults to [Piper](https://github.com/rhasspy/piper) — free, on-device, Apache 2.0, with strong Spanish neural voices. Optional paid backends (OpenAI, Azure) plug in via the same adapter interface. macOS `say` kept as offline emergency fallback. See [tts-plan.md](tts-plan.md).
-- Tracks land in `audio/`, gitignored. Sync to iPhone via iCloud Drive / Files / a private podcast feed; play in CarPlay.
+- Tracks land in `audio/`, committed to the repo so they're available offline. Sync to iPhone via iCloud Drive / Files / a private podcast feed; play in CarPlay.
 
 ### `generate_audio.py --stories`
 
@@ -113,6 +121,6 @@ Cards drill production at a fast pace. Stories drill comprehension at a natural 
 
 Target: 5-20 min flashcards + 20-40 min audio (drill or story) per day. See [study-routine.md](study-routine.md) for the suggested weekly rhythm.
 
-## Initial scope
+## Status
 
-Lessons 1-22, organized into 8 topical bundles. ~2000-2500 cards + 40 stories total. See [lesson-bundles.md](lesson-bundles.md).
+Bundles A–I built (lessons 1–28, ~2500 cards). Bundles J–Z (lessons 29–90) defined but cards not yet authored. See [lesson-bundles.md](lesson-bundles.md) for the full 27-bundle table and [cross-references.md](cross-references.md) for theme threads.

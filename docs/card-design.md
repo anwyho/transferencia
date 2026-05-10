@@ -1,15 +1,16 @@
 # Card Design
 
-The schema, types, directions, and quality bar for cards in `lesson_NN/cards.yml` and `cards_topical/topic_NN_MM_*.yml`.
+The schema, types, directions, and quality bar for cards in `cards/<letter>_<theme>.yml`.
 
 ## File schema
 
-Every card file is a YAML document with this shape:
+Every bundle file is a YAML document with this shape:
 
 ```yaml
-# Per-lesson file: lesson_03/cards.yml
-lesson: 3
-title: "Convertible words: -ante/-ente, -mente, /j/→/kh/"
+# cards/a_foundation.yml
+bundle: A
+title: "Foundation: vowels, es / no es, convertible-word rules"
+lessons: [1, 2, 3]
 cards:
   - id: l3-001
     type: transformation
@@ -20,22 +21,15 @@ cards:
     rule_ref: "L3#1"
     lessons: [3]
     directions: [en_es, es_en]
-    notes: ""
-```
 
-```yaml
-# Topical bundle file: cards_topical/topic_04_05_verb_unlock.yml
-topic: "Verb unlock + first object pronouns"
-lessons: [4, 5]
-cards:
-  - id: t04_05-012
+  - id: t01_03-001
     type: sentence
     tier: extended
-    front_en: "I want to cancel the reservation."
-    back_es: "Quiero cancelar la reservación."
-    hint: "-ación → -ar; quiero + infinitive"
-    rule_ref: "L4#big-rule, L4#quiero"
-    lessons: [4]
+    front_en: "Normally it's legal."
+    back_es: "Normalmente es legal."
+    hint: "-ly→-mente · -al · es"
+    rule_ref: "L3#3, L3#6, L2#2, L2#7"
+    lessons: [2, 3]
     directions: [en_es, es_en]
 ```
 
@@ -43,14 +37,14 @@ cards:
 
 | Field | Type | Required | Notes |
 |-------|------|----------|-------|
-| `id` | string | yes | Globally unique. Format: `l<N>-<NNN>` for lesson cards, `t<NN>_<MM>-<NNN>` for topical. Stable across edits — Anki SRS history keys on this. |
+| `id` | string | yes | Globally unique. Format: `l<N>-<NNN>` for cards drawn from one lesson, `t<NN>_<MM>-<NNN>` for cross-lesson cards (legacy). Stable across edits — Anki SRS history keys on this. |
 | `type` | enum | yes | `transformation`, `sentence`, or `conjugation`. |
 | `tier` | enum | yes | `primary` or `extended`. |
 | `front_en` | string | yes | English prompt. |
 | `back_es` | string | yes | Spanish answer. Use accents correctly. |
 | `hint` | string | no | Derivation, mnemonic, or rule pointer. Rendered on the **back** of the card alongside the answer — the front shows only the prompt, so hints can be as explicit as needed without leaking the answer. |
 | `rule_ref` | string | yes | Comma-separated `L<N>#<rule>` references into `rules.md`. Powers Anki footers and audio attribution. |
-| `lessons` | int[] | yes | Lessons whose grammar this card uses. Generator validates: cannot exceed the bundle's stated lessons; for extended cards, cannot reach into a later lesson. |
+| `lessons` | int[] | yes | Lessons whose grammar this card uses. Generator validates: `max(lessons)` must fall inside the bundle's `lessons:` range. Earlier entries can reference prior bundles. |
 | `directions` | enum[] | yes | Subset of `[en_es, es_en]`. Each direction generates one Anki card from the note and one slot in the audio track. |
 | `notes` | string | no | Author commentary. Not rendered. |
 
@@ -166,10 +160,9 @@ Hard rules the generator validates:
 
 1. Every card has `id`, `type`, `tier`, `front_en`, `back_es`, `rule_ref`, `lessons`, `directions`.
 2. `id` is globally unique across all card files.
-3. `lessons` matches the file context — for `lesson_NN/cards.yml`, every entry must equal `NN`. For `cards_topical/topic_AA_BB_*.yml`, every entry must be in `[AA..BB]`.
-4. For extended cards, `max(lessons)` must equal the file's lesson context (no reaching into a future lesson).
-5. Sentence cards under the word-count cap for their lesson range.
-6. `rule_ref` references exist (rule numbers actually present in the referenced `rules.md`).
+3. `max(card.lessons)` must fall inside the bundle's `lessons:` range — that anchors the card to one home bundle. Earlier entries in `card.lessons` can reference prior bundles.
+4. Sentence cards under the word-count cap for their lesson range (≤8 words for L1–10, ≤12 for L11+).
+5. `rule_ref` references exist (rule numbers actually present in the referenced `rules.md`).
 
 Soft conventions:
 - Primary cards aim for 100% coverage of vocab + examples in the lesson.
@@ -179,10 +172,9 @@ Soft conventions:
 
 ## Quantity targets (rough)
 
-| Tier | Per lesson | Per topical bundle | Through L22 |
-|------|-----------|---------------------|-------------|
-| Primary | 20-30 | — | ~500 |
-| Extended | 40-80 | — | ~1300 |
-| Topical | — | 30-50 | ~300 |
+| Tier | Per 3-lesson bundle | Per 4-lesson bundle |
+|------|---------------------|---------------------|
+| Primary | 60-90 | 80-120 |
+| Extended | 120-240 | 160-320 |
 
-Total ~2000-2500 cards through lesson 22.
+Through bundle I (L1–28): ~2500 cards. Full 90-lesson scale: ~7000–9000 cards.

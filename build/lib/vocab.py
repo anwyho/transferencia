@@ -65,7 +65,12 @@ def allowed_vocab_through(
     """
     union: Set[str] = set()
     for n in range(1, max_lesson + 1):
-        for candidate in (f"lesson_{n:02d}", f"lesson_{n}", f"lesson_{n:01d}"):
+        for candidate in (
+            f"lessons/lesson_{n:02d}",
+            f"lessons/lesson_{n}",
+            f"lesson_{n:02d}",  # legacy
+            f"lesson_{n}",
+        ):
             rules = lessons_dir / candidate / "rules.md"
             if rules.exists():
                 union |= extract_lesson_vocab(rules)

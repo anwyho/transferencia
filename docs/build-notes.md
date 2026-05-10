@@ -55,9 +55,7 @@ The `python_version >= "3.13"` marker keeps the install lightweight on older int
 
 ## Lesson 1 has no Spanish content
 
-Bundle A spans lessons 1-3 in the design, but `lesson_01/rules.md` is purely meta-instructional (no Vocabulary, no Examples). We deliberately skip `lesson_01/cards.yml` rather than fabricate cards. The card glob in `parse.py` tolerates the missing file silently.
-
-The Bundle A topical and story files still claim `lessons: [1, 2, 3]` in their frontmatter — that's intentional. They draw on the lesson 1 spirit (tone of the course) even when the surface vocabulary is L2-3 only.
+Bundle A spans lessons 1–3 in the design, but `lessons/lesson_01/rules.md` is purely meta-instructional (no Vocabulary, no Examples). We deliberately have no L1 cards; the bundle file `cards/a_foundation.yml` still claims `lessons: [1, 2, 3]` because L1's framing (no memorizing, pause and answer) is the spirit of the bundle even though no surface vocab comes from L1.
 
 ## Story stretch budget — proper-noun extension
 
@@ -84,21 +82,29 @@ These remain on the user's end — the plan can't run them.
 
 | Output | Size | Notes |
 |--------|------|-------|
-| `dist/transferencia.apkg` | ~180 KB | 226 cards, 3 subdecks |
-| `dist/cards.json` | ~70 KB | flat array, 226 entries |
-| `audio/lesson_03.mp3` | ~44 MB | cumulative drill, 573 segments via `say` |
-| `audio/stories/*.mp3` | ~1 MB each | 5 Bundle A stories, ~5 min audio each |
+| `dist/transferencia.apkg` | ~1.2 MB | ~2500 cards, 9 subdecks (bundles A–I) |
+| `dist/cards.json` | ~700 KB | flat array, ~2500 entries |
+| `audio/lesson_NN.mp3` | varies | cumulative drill |
+| `audio/stories/*.mp3` | ~1 MB each | 5 stories per bundle, ~5 min audio each |
 
 The cumulative drill track is large because every L2 + L3 + topical card is expanded into 1-2 segments (en_es and, for sentences/transformations, also es_en). That's expected; later bundles' tracks will be longer still. Piper voices at higher quality may produce different sizes.
 
 A `shadow` direction (Spanish→Spanish repeat) was originally part of the design and shipped briefly. Removed after a first pass through the cards — added bloat without enough learning value. See the deletion in the diff that removed `Direction.SHADOW`.
 
+## Bundle restructure (2026-05)
+
+Original layout had `lesson_NN/cards.yml` per-lesson plus `cards_topical/topic_NN_MM_*.yml` cross-lesson files. Restructured into a single source of truth: `cards/<letter>_<theme>.yml`, one per Spanish-alphabet bundle (A–Z + Ñ, 27 total). Lesson rules + transcripts moved into `lessons/lesson_NN/`. `CROSS_REFERENCES.md` moved to `docs/cross-references.md`.
+
+The combiner (`/tmp/combine_cards.py` was a one-shot) merged duplicates by `(front_en, back_es, type)`, keeping the union of `directions` and the wider `lessons:` array. Existing per-lesson IDs (`l3-001`, `t01_03-002`) preserved unchanged so Anki review history survives.
+
+Bundle file format adds a `bundle:` letter and `lessons:` array. The validation rule loosened from "extended cards must reach the file's max lesson" to "max(card.lessons) must fall inside the bundle's range" — necessary because combined bundles include cards anchored to multiple lessons.
+
 ## Remaining open items
 
 These weren't completed in the initial pass and are tracked for follow-up:
 
-- **Bundles B-H content**: cards (M5 in spec) and stories (M6.5). Rolling effort.
-- **Manual Anki import test** (M3 acceptance): user gates this.
+- **Bundles J–Z content**: 18 bundles' worth of cards + stories. Rolling effort.
+- **Manual Anki import test**: user gates this.
 - **TTS A/B with Piper**: requires running `build/scripts/fetch_piper_voices.sh` and a drive-test session. See `docs/tts-plan.md`.
 - **Sync to phone documentation**: README has the manual procedure; private podcast feed is a nice-to-have.
 - **`int(x)` accepts `bool` quirk in `parse.py`**: Tier and lesson list type-guards accept `True`/`False` as ints. Edge case unlikely to bite; logged as a nit.

@@ -8,7 +8,7 @@ How to use:
 - **Per-lesson back-links**: a quick lookup of which earlier lessons each lesson directly builds on.
 - **Forward links**: where a small idea planted early gets fully bloomed later.
 
-Each lesson directory `lesson_NN/rules.md` already has its own `## Cross-references` section listing references the teacher said out loud — this document is the bird's-eye view that joins them all.
+Each lesson directory `lessons/lesson_NN/rules.md` already has its own `## Cross-references` section listing references the teacher said out loud — this document is the bird's-eye view that joins them all.
 
 ---
 
@@ -224,4 +224,4 @@ For each lesson, the strongest earlier lessons it builds on (mostly from the exp
 
 The course is built like a Russian doll. **L1–L9** hand you ~1,000 verbs through convertible endings and one helper verb (*quiero*). **L10–L18** crack open the regular verb system and the stem-change rule (e→ie, o→ue). **L19–L23** add the have-past with *haber*. **L24–L28** layer in object pronouns, gender and adjective agreement. **L29–L35** introduce the *ser/estar* split and the gerund. **L36–L45** open up future, conditional, prepositions, and gustar-style verbs. **L46–L55** finish the past system (line-past + irregular participles). **L56–L68** drill point-past, fold in possessives and demonstratives, and lay down the written-accent rules. **L69–L83** install the mood tense (subjunctive) brick by brick. **L84–L88** clean up irregularities (go-verbs, irregular point-past, past mood). **L89–L90** are a rule-discovery puzzle and a closing tour of dialects.
 
-Each new layer leans on the layer below it — almost no rule is taught from scratch. That's why the per-lesson cross-reference sections inside `lesson_NN/rules.md` so often start with "Builds on..." or "Recalls...".
+Each new layer leans on the layer below it — almost no rule is taught from scratch. That's why the per-lesson cross-reference sections inside `lessons/lesson_NN/rules.md` so often start with "Builds on..." or "Recalls...".

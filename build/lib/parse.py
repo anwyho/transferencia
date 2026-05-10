@@ -21,6 +21,7 @@ _REQUIRED_CARD_FIELDS = (
 
 _TOPIC_FILE_RE = re.compile(r"^topic_(\d+)_(\d+)_.*\.yml$")
 _LESSON_DIR_RE = re.compile(r"^lesson_(\d+)$")
+_BUNDLE_FILE_RE = re.compile(r"^[a-zñ]_.+\.yml$")
 
 
 def _word_count(text: str) -> int:
@@ -61,18 +62,13 @@ def load_card_file(path: Path) -> List[Card]:
         if not isinstance(lessons, list) or not all(isinstance(x, int) for x in lessons):
             raise ParseError(f"{path}: cards[{i}] 'lessons' must be a list of ints")
 
-        # Lessons-context check
+        # Lessons-context check: the card's *latest* lesson must be inside the file's
+        # lesson range. Earlier lessons can reference prior bundles (some cards
+        # legitimately combine grammar introduced across multiple bundles).
         if file_lessons is not None:
-            if not all(L in file_lessons for L in lessons):
+            if max(lessons) not in file_lessons:
                 raise ParseError(
-                    f"{path}: cards[{i}] lessons {lessons} not in file context {sorted(file_lessons)}"
-                )
-            # Extended cards must reach the file's max lesson — no claiming
-            # to use only earlier-lesson grammar inside a multi-lesson bundle.
-            if tier == Tier.EXTENDED and max(file_lessons) not in lessons:
-                raise ParseError(
-                    f"{path}: cards[{i}] is tier=extended but lessons {lessons} "
-                    f"don't reach the file's max lesson {max(file_lessons)}"
+                    f"{path}: cards[{i}] max lesson {max(lessons)} not in file context {sorted(file_lessons)}"
                 )
 
         if ctype == CardType.SENTENCE:
@@ -104,10 +100,10 @@ def load_card_file(path: Path) -> List[Card]:
 def _file_lesson_context(path: Path, raw: dict) -> set[int] | None:
     """Determine the set of lessons this file is allowed to reference.
 
-    - lesson_NN/cards.yml → {NN}
-    - cards_topical/topic_AA_BB_*.yml → {AA, AA+1, ..., BB}
-    - Other paths (e.g. test fixtures) → fall back to raw['lessons'] or {raw['lesson']}
-      or None (skip the check).
+    - cards/<letter>_<theme>.yml → set(raw['lessons'])
+    - lessons/lesson_NN/cards.yml → {NN} (legacy / test fixtures)
+    - cards_topical/topic_AA_BB_*.yml → {AA..BB} (legacy)
+    - Other paths → fall back to raw['lessons'] / {raw['lesson']} / None.
     """
     parent = path.parent.name
     m = _LESSON_DIR_RE.match(parent)
@@ -118,7 +114,7 @@ def _file_lesson_context(path: Path, raw: dict) -> set[int] | None:
         if m2:
             lo, hi = int(m2.group(1)), int(m2.group(2))
             return set(range(lo, hi + 1))
-    # Fallback: use frontmatter
+    # Bundle file or fallback frontmatter
     if "lessons" in raw and isinstance(raw["lessons"], list):
         return set(int(x) for x in raw["lessons"])
     if "lesson" in raw:
@@ -127,10 +123,26 @@ def _file_lesson_context(path: Path, raw: dict) -> set[int] | None:
 
 
 def load_all_card_files(repo_root: Path) -> List[Card]:
-    """Load every lesson_NN/cards.yml and cards_topical/topic_*.yml under repo_root."""
+    """Load every cards/*.yml bundle file under repo_root.
+
+    Falls back to legacy lessons/lesson_NN/cards.yml and cards_topical/ paths
+    if those directories still exist (helpful during migration / for tests).
+    """
     out: List[Card] = []
     seen_ids: dict[str, str] = {}
 
+    cards_dir = repo_root / "cards"
+    if cards_dir.is_dir():
+        for cards_path in sorted(cards_dir.glob("*.yml")):
+            for card in load_card_file(cards_path):
+                _check_unique_id(card, seen_ids)
+                out.append(card)
+
+    # Legacy paths
+    for cards_path in sorted(repo_root.glob("lessons/lesson_*/cards.yml")):
+        for card in load_card_file(cards_path):
+            _check_unique_id(card, seen_ids)
+            out.append(card)
     for cards_path in sorted(repo_root.glob("lesson_*/cards.yml")):
         for card in load_card_file(cards_path):
             _check_unique_id(card, seen_ids)

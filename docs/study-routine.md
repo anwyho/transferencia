@@ -71,7 +71,7 @@ Stories aren't one-and-done. A story you understood 70% the first time becomes 9
 
 If unsure what to drill in Anki:
 
-- **In a focused mood?** Filter to current bundle's tag (`tag:topic::04_05_verb_unlock`). Push hard on what's new.
+- **In a focused mood?** Filter to current bundle's tag (`tag:bundle::b_verb_unlock`). Push hard on what's new.
 - **In a maintenance mood?** Whole deck, let SRS pick. Reviews a mix of new and old.
 - **Anxious about a specific rule?** Filter by `tag:rule::L4-big-rule`. Drill that pattern across all cards that touch it.
 - **Stuck on a card type?** Filter `tag:type::transformation` or `tag:type::sentence`.

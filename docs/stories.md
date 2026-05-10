@@ -2,7 +2,7 @@
 
 Each topical bundle gets **5 short Spanish stories** for immersion-style listening practice. Cards drill production; stories drill comprehension at a more natural pace, with a literal-gloss layer that reveals Spanish structure rather than smoothing it over.
 
-Total for L1-22: 8 bundles × 5 stories = **40 stories**, ~10-12 hours of audio.
+Full course target: 27 bundles × 5 stories = **135 stories**, ~30-40 hours of audio.
 
 ## Why 5 per bundle
 
@@ -45,14 +45,16 @@ Stories are not strictly capped to the bundle's allowed vocab. Each bundle has a
 
 | Bundle | Lessons | Stretch budget | Target length | Feel |
 |--------|---------|----------------|---------------|------|
-| A. Foundation | 1-3 | 0% | 5 min | Cat in the Hat. Just *es*, cognates, *-mente*. |
-| B. Verb unlock | 4-5 | ~3% | 6 min | Still very controlled. |
-| C. Pronunciation+spine | 6-9 | ~5% | 8 min | Loosening. |
-| D. I-form+present | 10-12 | ~7% | 10 min | More flow. |
-| E. -go family | 13-14 | ~10% | 11 min | Comfortable. |
-| F. Vowel splitting | 15-17 | ~12% | 13 min | Naturalistic. |
-| G. *We* form + future | 18-20 | ~15% | 15 min | Mostly natural. |
-| H. Haber-past | 21-22 | ~20% | 18 min | Close to native cadence. |
+| A. Foundation | 1–3 | 0% | 5 min | Cat in the Hat. Just *es*, cognates, *-mente*. |
+| B. Verb unlock + voy a | 4–7 | ~3% | 6 min | Still very controlled. |
+| C. Helpers + saber | 8–10 | ~5% | 7 min | First narrative shape. |
+| D. Present + -go start | 11–13 | ~7% | 8 min | Loosening. |
+| E. Spine + vowel splits | 14–17 | ~10% | 10 min | More flow. |
+| F. We-form + future-context | 18–20 | ~12% | 11 min | Comfortable. |
+| G. Haber-past + reflexive | 21–23 | ~15% | 13 min | Naturalistic. |
+| H. Indirect pronouns + dar | 24–27 | ~17% | 15 min | Mostly natural. |
+| I. Agreement + ser/estar | 28–30 | ~20% | 16 min | Close to native cadence. |
+| J–Z | 31–90 | climbs to ~30% by Z | 18–22 min | Native-level by closeout. |
 
 Within a bundle, the 5 stories climb: story 1 uses ~0% of budget, story 5 uses the full budget. So Bundle C's story 1 is tighter than Bundle C's story 5.
 
@@ -135,7 +137,7 @@ build/generate_audio.py --stories --pace 1.2                # slower
 
 ## Generation workflow per story
 
-1. Read `lesson_NN/rules.md` for every lesson up to `max(bundle.lessons)`.
+1. Read `lessons/lesson_NN/rules.md` for every lesson up to `max(bundle.lessons)`.
 2. LLM-draft a Spanish story from the allowed-vocab union, optionally using up to the bundle's stretch budget. Specify recurring cast / setting from `stories/_world.md` if it exists.
 3. Hand-write the literal-gloss layer. **This is the craftsmanship part — LLM can draft glosses but they need careful review.** A clumsy gloss defeats the point of the layer.
 4. Hand-write or LLM-draft the free English translation.
@@ -152,8 +154,13 @@ build/generate_audio.py --stories --pace 1.2                # slower
 4. **Free translation check.** Read the free English translation at the bottom. Confirm comprehension.
 5. **Move on, or queue for re-listen.** Stories are good for re-listening — they encode bundle grammar in a memorable narrative form.
 
+## Story directory naming
+
+Existing story directories under `stories/` use the legacy `topic_NN_MM_<theme>/` slug. These continue to work (the validator and audio generator glob `topic_*`). New stories under the 27-bundle scheme can use the bundle-letter slug `<letter>_<theme>/` (e.g. `stories/a_foundation/`); both naming styles coexist.
+
 ## Status
 
-- 🚧 Story system: in design (this doc)
-- ⏳ Bundle A's 5 stories: not yet drafted
-- ⏳ Bundles B-H stories: not yet drafted
+- ✅ Story system: in production
+- ✅ Bundle A: 5 stories drafted + audio rendered
+- 🚧 Bundle B: 1/5 drafted
+- ⏳ Bundles C–Z: not yet drafted

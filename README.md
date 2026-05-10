@@ -6,20 +6,24 @@ A personal study repository for Mihalis Eleftheriou's free [Language Transfer �
 
 ```
 .
-├── lesson_NN/                  # one directory per lesson, NN = 01..90
-│   ├── rules.md                # the rules and patterns the teacher introduces
-│   └── transcript.md           # verbatim transcript of the audio lesson
-├── cards_topical/              # cards spanning multiple lessons (planned)
-├── build/                      # generators (planned): cards.yml → Anki, → MP3
-├── stories/                    # short Spanish stories per topical bundle (planned)
+├── lessons/                    # one subdir per lesson, lesson_NN/, NN = 01..90
+│   └── lesson_NN/
+│       ├── rules.md            # the rules and patterns the teacher introduces
+│       └── transcript.md       # verbatim transcript of the audio lesson
+├── cards/                      # one yml per bundle, named <letter>_<theme>.yml
+│                               # (a_foundation.yml … z_closeout.yml + ñ_line_past_full.yml)
+├── stories/                    # short Spanish stories per bundle
+├── audio/                      # generated MP3s — drill tracks + story tracks (committed)
+├── build/                      # generators: cards/*.yml → Anki, → MP3
 ├── docs/                       # design + content guidelines
 │   ├── learning-system.md      # overview of the flashcard + audio drill + story system
-│   ├── lesson-bundles.md       # how lessons are grouped into topical bundles
+│   ├── lesson-bundles.md       # the 27-bundle plan (A–Z + Ñ)
 │   ├── card-design.md          # card schema, tiers, directions, quality bar
 │   ├── stories.md              # story system: gloss format, stretch budget, file layout
 │   ├── study-routine.md        # daily flow: flashcards + audio time
-│   └── tts-plan.md             # TTS backend choice and progression plan
-├── CROSS_REFERENCES.md         # bird's-eye map of theme threads across all 90 lessons
+│   ├── tts-plan.md             # TTS backend choice and progression plan
+│   ├── build-notes.md          # implementation surprises and decisions
+│   └── cross-references.md     # bird's-eye map of theme threads across all 90 lessons
 └── Complete+Spanish+transcript+-+2019+final.pdf
 ```
 
@@ -27,11 +31,11 @@ A personal study repository for Mihalis Eleftheriou's free [Language Transfer �
 
 Three outputs feeding the same source-of-truth markdown:
 
-1. **An Anki deck** for desk review, with subdecks per lesson and per topical bundle, tagged so you can drill `lesson:03` or `topic:04_05_verb_unlock` or the whole thing.
-2. **Cumulative MP3 drill tracks** for hands-free practice in the car. Each track plays English prompt → silent pause for you to answer aloud → Spanish answer, mixing all three directions (production, recognition, shadowing).
-3. **Short Spanish stories** (5 per topical bundle, 40 total for L1-22) for immersion-style listening. Pure Spanish narration MP3s plus markdown files with a word-aligned literal English gloss that reveals Spanish syntax. See [docs/stories.md](docs/stories.md).
+1. **An Anki deck** for desk review, with one subdeck per bundle (e.g. `Transferencia::Bundle B Verb Unlock`), tagged so you can drill `lesson::03` or `bundle::b_verb_unlock` or the whole thing.
+2. **Cumulative MP3 drill tracks** for hands-free practice in the car. Each track plays English prompt → silent pause for you to answer aloud → Spanish answer, mixing both directions (production + recognition).
+3. **Short Spanish stories** (5 per bundle, 135 total at full course scale) for immersion-style listening. Pure Spanish narration MP3s plus markdown files with a word-aligned literal English gloss that reveals Spanish syntax. See [docs/stories.md](docs/stories.md).
 
-The cards live in `lesson_NN/cards.yml` (anchored to one lesson) or `cards_topical/topic_NN_MM_*.yml` (spanning multiple). Stories live in `stories/topic_NN_MM_<theme>/`. Everything feeds the same generators.
+Cards live in `cards/<letter>_<theme>.yml` — one bundle per Spanish-alphabet letter (A–Z + Ñ, 27 bundles, 9 fours + 18 threes = 90 lessons). Stories live in `stories/<bundle_slug>/`.
 
 ## Getting started
 
@@ -82,11 +86,12 @@ See [docs/learning-system.md](docs/learning-system.md) for full design.
 ## Status
 
 - ✅ Lesson rules + transcripts: 90/90
-- ✅ Cross-references map: complete
+- ✅ Cross-references map: complete (`docs/cross-references.md`)
 - ✅ Card system infrastructure: schema, parser, validator, Anki generator, MP3 generator (cards mode + stories mode), Piper + macOS TTS adapters
-- ✅ Bundles A-J cards (L1-28): primary + extended + topical for each lesson, ~2600 cards total
-- 🚧 Bundles B-J stories (L4-28): rolling effort
-- 🚧 Bundles K-T defined (L29-57); content not yet built
+- ✅ All 27 bundles (A–Z + Ñ) defined for L1–90 — see `docs/lesson-bundles.md`
+- ✅ Bundles A–I cards built (L1–28): ~2500 cards total
+- 🚧 Bundles A–B stories (L1–7): A done, B in progress
+- ⏳ Bundles J–Z (L29–90): defined; cards + stories not yet built
 
 ## Daily routine
 

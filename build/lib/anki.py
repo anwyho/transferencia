@@ -162,15 +162,23 @@ import re as _re
 from pathlib import Path
 
 _TOPIC_FILE_RE = _re.compile(r"^topic_(\d+)_(\d+)_(.+)\.yml$")
+_BUNDLE_FILE_RE = _re.compile(r"^([a-zñ])_(.+)\.yml$")
 
 
 def deck_name_for_card(card: Card) -> str:
     """Return the subdeck name a card belongs to.
 
-    - lesson_NN/cards.yml → 'Transferencia::Lesson NN'
+    - cards/<letter>_<theme>.yml → 'Transferencia::Bundle <LETTER> <Theme Title>'
+    - lessons/lesson_NN/cards.yml or lesson_NN/cards.yml → 'Transferencia::Lesson NN'
     - cards_topical/topic_AA_BB_<theme>.yml → 'Transferencia::Topic::AA-BB <Theme Title>'
     """
     src = Path(card.source_file)
+    if src.parent.name == "cards":
+        m = _BUNDLE_FILE_RE.match(src.name)
+        if m:
+            letter = m.group(1).upper()
+            theme = m.group(2).replace("_", " ").title()
+            return f"Transferencia::Bundle {letter} {theme}"
     if src.parent.name.startswith("lesson_"):
         m = _re.match(r"lesson_(\d+)", src.parent.name)
         if m:
