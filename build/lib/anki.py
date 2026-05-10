@@ -42,13 +42,13 @@ def _tmpl(name: str, dir_field: str, qfmt: str, afmt: str) -> dict:
 
 _QFMT_EN_ES = (
     '<div class="english">{{FrontEn}}</div>'
-    '{{#Hint}}<div class="hint">({{Hint}})</div>{{/Hint}}'
 )
 _AFMT_EN_ES = (
     '<div class="english">{{FrontEn}}</div>'
     '<hr>'
     '<div class="spanish">{{BackEs}}</div>'
     '{{#AudioEs}}{{AudioEs}}{{/AudioEs}}'
+    '{{#Hint}}<div class="hint">({{Hint}})</div>{{/Hint}}'
     '<div class="rule-ref">{{RuleRef}}</div>'
 )
 _QFMT_ES_EN = (
@@ -58,6 +58,7 @@ _AFMT_ES_EN = (
     '<div class="spanish">{{BackEs}}</div>'
     '<hr>'
     '<div class="english">{{FrontEn}}</div>'
+    '{{#Hint}}<div class="hint">({{Hint}})</div>{{/Hint}}'
     '<div class="rule-ref">{{RuleRef}}</div>'
 )
 

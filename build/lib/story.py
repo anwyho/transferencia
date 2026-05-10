@@ -38,6 +38,7 @@ def load_story_file(path: Path) -> Story:
         spanish_paragraphs=spanish_paragraphs,
         free_translation=free_section,
         source_file=str(path),
+        skip_budget=bool(fm.get("skip_budget", False)),
     )
 
 

@@ -79,6 +79,11 @@ def validate_story(
     stopwords: Set[str] | None = None,
 ) -> StoryValidationReport:
     story = load_story_file(path)
+    if story.skip_budget:
+        return StoryValidationReport(
+            story_path=path, total_tokens=0, unknown_tokens=0,
+            unknown_words=[], budget_pct=0.0, actual_pct=0.0, passed=True,
+        )
     max_lesson = max(story.lessons)
     allowed = allowed_vocab_through(max_lesson, lessons_dir=lessons_dir)
     allowed_normalized = {strip_accents(w) for w in allowed}

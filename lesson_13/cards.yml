@@ -97,7 +97,7 @@ cards:
     tier: primary
     front_en: "to buy"
     back_es: "comprar"
-    hint: "comprar"
+    hint: "regular -ar verb (cf. 'compra' = purchase)"
     rule_ref: "L13#8"
     lessons: [13]
     directions: [en_es, es_en]

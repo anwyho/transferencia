@@ -50,3 +50,4 @@ class Story:
     spanish_paragraphs: List[List[str]]  # paragraphs → list of Spanish lines (gloss stripped)
     free_translation: str
     source_file: str = ""
+    skip_budget: bool = False  # opt out of vocab-budget enforcement (for free-form stories)

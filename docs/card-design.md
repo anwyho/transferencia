@@ -48,7 +48,7 @@ cards:
 | `tier` | enum | yes | `primary` or `extended`. |
 | `front_en` | string | yes | English prompt. |
 | `back_es` | string | yes | Spanish answer. Use accents correctly. |
-| `hint` | string | no | Minimal nudge pointing at the rule, not giving the answer. Faded on the front. |
+| `hint` | string | no | Derivation, mnemonic, or rule pointer. Rendered on the **back** of the card alongside the answer — the front shows only the prompt, so hints can be as explicit as needed without leaking the answer. |
 | `rule_ref` | string | yes | Comma-separated `L<N>#<rule>` references into `rules.md`. Powers Anki footers and audio attribution. |
 | `lessons` | int[] | yes | Lessons whose grammar this card uses. Generator validates: cannot exceed the bundle's stated lessons; for extended cards, cannot reach into a later lesson. |
 | `directions` | enum[] | yes | Subset of `[en_es, es_en]`. Each direction generates one Anki card from the note and one slot in the audio track. |
@@ -76,11 +76,19 @@ Front rendering (Anki, en_es direction):
 
 ```
 different
+```
+
+Back rendering after flip:
+
+```
+different
+─────────
+diferente
 ( -ent → -ente )            ← faded hint, smaller
                             → L3
 ```
 
-Hints reference the rule, never spell out the answer. Once the pattern is internalized, extended cards can omit hints.
+Hints live on the **back** so the recall test on the front is honest. They can spell out derivations, etymologies, or contrasts (`-ent → -ente`, `Arabic 'al-ruz'`, `disambiguate from si='if'`) without leaking the answer to the prompt side. Once the pattern is internalized, extended cards can omit hints.
 
 ### `sentence`
 
