@@ -778,7 +778,7 @@ cards:
 - id: l45-047
   type: sentence
   tier: extended
-  front_en: It seems good to me.
+  front_en: It seems good to me. (Me parece bueno)
   back_es: Me parece bueno.
   hint: bueno here, contrast to bien
   rule_ref: L45#15

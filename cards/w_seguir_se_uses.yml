@@ -1,0 +1,1753 @@
+bundle: W
+title: 'Seguir + ojalá + all uses of se: terminar de, empezar a, se me, all se patterns'
+lessons:
+- 78
+- 79
+- 80
+cards:
+- id: l78-001
+  type: transformation
+  tier: primary
+  front_en: I continue (from seguir)
+  back_es: sigo
+  hint: e→i in I form
+  rule_ref: L78#1
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-002
+  type: transformation
+  tier: primary
+  front_en: he continues / she continues / you (formal) continue
+  back_es: sigue
+  hint: e→i in he form
+  rule_ref: L78#2
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-003
+  type: transformation
+  tier: primary
+  front_en: being (the -ing form of ser)
+  back_es: siendo
+  hint: ser → ... (e→ie+ndo)
+  rule_ref: L78#5
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-004
+  type: transformation
+  tier: primary
+  front_en: free (no money)
+  back_es: gratis
+  hint: source of English *gratuitous*
+  rule_ref: L78#6
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-005
+  type: transformation
+  tier: primary
+  front_en: imperative
+  back_es: imperativo
+  hint: -ive → -ivo
+  rule_ref: L78#7
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-006
+  type: transformation
+  tier: primary
+  front_en: to start (commence cousin)
+  back_es: comenzar
+  hint: cousin of *commence*
+  rule_ref: L78#8
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-007
+  type: transformation
+  tier: primary
+  front_en: to start (more common)
+  back_es: empezar
+  hint: more common than *comenzar*
+  rule_ref: L78#8
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-009
+  type: transformation
+  tier: primary
+  front_en: to finish / to terminate
+  back_es: terminar
+  hint: -ate → -ar
+  rule_ref: L78#13
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-011
+  type: transformation
+  tier: primary
+  front_en: selling them (gerund + them)
+  back_es: vendiéndolos
+  hint: gerund + lo glued · accent on stem vowel
+  rule_ref: L78#15
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-012
+  type: transformation
+  tier: primary
+  front_en: it's probable that
+  back_es: es probable que
+  hint: triggers mood after que
+  rule_ref: L78#3, L78#4
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-013
+  type: transformation
+  tier: primary
+  front_en: it's imperative that
+  back_es: es imperativo que
+  hint: triggers mood after que
+  rule_ref: L78#7
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-014
+  type: transformation
+  tier: primary
+  front_en: it's spectacular that
+  back_es: es espectacular que
+  hint: triggers mood after que
+  rule_ref: L78#10
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-015
+  type: sentence
+  tier: primary
+  front_en: I continue speaking.
+  back_es: Sigo hablando.
+  hint: seguir + gerund
+  rule_ref: L78#1
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-016
+  type: sentence
+  tier: primary
+  front_en: He continues speaking.
+  back_es: Sigue hablando.
+  hint: seguir + gerund
+  rule_ref: L78#2
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-017
+  type: sentence
+  tier: primary
+  front_en: It's probable that he continues speaking.
+  back_es: Es probable que siga hablando.
+  hint: es probable que → mood + gerund
+  rule_ref: L78#3, L78#4
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-018
+  type: sentence
+  tier: primary
+  front_en: It's imperative that it continues being free.
+  back_es: Es imperativo que siga siendo gratis.
+  hint: mood seguir + siendo
+  rule_ref: L78#5, L78#6, L78#7
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-019
+  type: sentence
+  tier: primary
+  front_en: I continue selling.
+  back_es: Sigo vendiendo.
+  hint: seguir + gerund
+  rule_ref: L78#1
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-020
+  type: sentence
+  tier: primary
+  front_en: She continues selling.
+  back_es: Sigue vendiendo.
+  hint: seguir + gerund
+  rule_ref: L78#2
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-021
+  type: sentence
+  tier: primary
+  front_en: It's spectacular that they begin to speak Spanish.
+  back_es: Es espectacular que comiencen a hablar español.
+  hint: comenzar a + INF · mood
+  rule_ref: L78#9, L78#10
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-022
+  type: sentence
+  tier: primary
+  front_en: It's spectacular that they start out speaking Spanish.
+  back_es: Es espectacular que comiencen hablando español.
+  hint: comenzar + gerund = start out
+  rule_ref: L78#11, L78#12
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-023
+  type: sentence
+  tier: primary
+  front_en: I start to speak.
+  back_es: Empiezo a hablar.
+  hint: empezar a + INF
+  rule_ref: L78#9
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-024
+  type: sentence
+  tier: primary
+  front_en: I start out speaking.
+  back_es: Empiezo hablando.
+  hint: empezar + gerund = start out
+  rule_ref: L78#11
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-025
+  type: sentence
+  tier: primary
+  front_en: She begins to sell.
+  back_es: Comienza a vender.
+  hint: comenzar a + INF
+  rule_ref: L78#9
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-026
+  type: sentence
+  tier: primary
+  front_en: She starts out selling.
+  back_es: Comienza vendiendo.
+  hint: comenzar + gerund = start out
+  rule_ref: L78#11
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-027
+  type: sentence
+  tier: primary
+  front_en: I finish selling.
+  back_es: Termino de vender.
+  hint: terminar de + INF
+  rule_ref: L78#14
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-028
+  type: sentence
+  tier: primary
+  front_en: I end up selling them.
+  back_es: Termino vendiéndolos.
+  hint: terminar + gerund = end up
+  rule_ref: L78#15
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-029
+  type: sentence
+  tier: primary
+  front_en: She finishes selling.
+  back_es: Termina de vender.
+  hint: terminar de + INF
+  rule_ref: L78#14
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-030
+  type: sentence
+  tier: primary
+  front_en: She ends up selling them.
+  back_es: Termina vendiéndolos.
+  hint: terminar + gerund = end up
+  rule_ref: L78#15
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-031
+  type: sentence
+  tier: primary
+  front_en: when (in future) you guys finish
+  back_es: cuando terminen
+  hint: cuando + future = mood
+  rule_ref: L78#17
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-032
+  type: sentence
+  tier: primary
+  front_en: when (in future) you finish selling
+  back_es: cuando termines de vender
+  hint: cuando + future · terminar de
+  rule_ref: L78#17, L78#14
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-033
+  type: sentence
+  tier: primary
+  front_en: when (in future) he ends up selling them
+  back_es: cuando termine vendiéndolos
+  hint: cuando + future · terminar + gerund
+  rule_ref: L78#17, L78#15
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-034
+  type: conjugation
+  tier: primary
+  front_en: mood she form of seguir
+  back_es: siga
+  hint: e→i · mood swap to -a
+  rule_ref: L78#3
+  lessons:
+  - 78
+  directions:
+  - en_es
+- id: l78-035
+  type: conjugation
+  tier: primary
+  front_en: mood they form of comenzar
+  back_es: comiencen
+  hint: e→ie · mood swap to -en
+  rule_ref: L78#10
+  lessons:
+  - 78
+  directions:
+  - en_es
+- id: l78-036
+  type: conjugation
+  tier: primary
+  front_en: mood they form of terminar
+  back_es: terminen
+  hint: -ar mood swaps to -en
+  rule_ref: L78#17
+  lessons:
+  - 78
+  directions:
+  - en_es
+- id: l78-037
+  type: conjugation
+  tier: primary
+  front_en: mood they form of empezar
+  back_es: empiecen
+  hint: e→ie · z→c before -en
+  rule_ref: L78#9
+  lessons:
+  - 78
+  directions:
+  - en_es
+- id: l78-038
+  type: sentence
+  tier: primary
+  front_en: It's probable that she continues selling.
+  back_es: Es probable que siga vendiendo.
+  hint: mood seguir + gerund
+  rule_ref: L78#3, L78#1
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-039
+  type: sentence
+  tier: primary
+  front_en: It's imperative that he continues.
+  back_es: Es imperativo que siga.
+  hint: mood seguir
+  rule_ref: L78#7, L78#3
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-040
+  type: sentence
+  tier: primary
+  front_en: I want them to begin to speak.
+  back_es: Quiero que comiencen a hablar.
+  hint: querer que · comenzar a + INF
+  rule_ref: L78#9, L78#10
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-041
+  type: sentence
+  tier: primary
+  front_en: He'll probably speak Spanish.
+  back_es: Es probable que hable español.
+  hint: probably ≈ es probable que + mood
+  rule_ref: L78#4
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-042
+  type: sentence
+  tier: primary
+  front_en: He'll probably continue.
+  back_es: Es probable que siga.
+  hint: probably ≈ es probable que + mood
+  rule_ref: L78#4
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-043
+  type: sentence
+  tier: primary
+  front_en: It continues being free.
+  back_es: Sigue siendo gratis.
+  hint: seguir + siendo
+  rule_ref: L78#5, L78#6
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-044
+  type: sentence
+  tier: extended
+  front_en: I continue eating.
+  back_es: Sigo comiendo.
+  hint: seguir + gerund
+  rule_ref: L78#1
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-045
+  type: sentence
+  tier: extended
+  front_en: We start to eat.
+  back_es: Empezamos a comer.
+  hint: empezar a + INF · we form
+  rule_ref: L78#9
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-046
+  type: sentence
+  tier: extended
+  front_en: They finish eating.
+  back_es: Terminan de comer.
+  hint: terminar de + INF
+  rule_ref: L78#14
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-047
+  type: sentence
+  tier: extended
+  front_en: They end up eating.
+  back_es: Terminan comiendo.
+  hint: terminar + gerund = end up
+  rule_ref: L78#15
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-048
+  type: sentence
+  tier: extended
+  front_en: when (in future) we finish
+  back_es: cuando terminemos
+  hint: cuando + future · we mood
+  rule_ref: L78#17
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-049
+  type: sentence
+  tier: extended
+  front_en: It's probable that they continue selling.
+  back_es: Es probable que sigan vendiendo.
+  hint: mood seguir + gerund
+  rule_ref: L78#3, L78#1
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-050
+  type: sentence
+  tier: extended
+  front_en: I want them to start to sell.
+  back_es: Quiero que empiecen a vender.
+  hint: querer que · empezar a + INF
+  rule_ref: L78#9
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-051
+  type: sentence
+  tier: extended
+  front_en: I want them to start out selling.
+  back_es: Quiero que empiecen vendiendo.
+  hint: empezar + gerund = start out
+  rule_ref: L78#11
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-052
+  type: sentence
+  tier: extended
+  front_en: We end up speaking Spanish.
+  back_es: Terminamos hablando español.
+  hint: terminar + gerund = end up
+  rule_ref: L78#15
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l78-053
+  type: sentence
+  tier: extended
+  front_en: when (in future) you start to sell
+  back_es: cuando empieces a vender
+  hint: cuando + future · empezar a
+  rule_ref: L78#17, L78#9
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: l79-001
+  type: transformation
+  tier: primary
+  front_en: to leave (a thing or message)
+  back_es: dejar
+  hint: not *salir* (go out)
+  rule_ref: L79#1
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-002
+  type: transformation
+  tier: primary
+  front_en: message
+  back_es: mensaje
+  hint: masculine · -aje ending
+  rule_ref: L79#2
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-003
+  type: transformation
+  tier: primary
+  front_en: a message
+  back_es: un mensaje
+  hint: masculine article
+  rule_ref: L79#2
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-004
+  type: transformation
+  tier: primary
+  front_en: leave me (formal command)
+  back_es: déjeme
+  hint: formal command + me glued · accent
+  rule_ref: L79#3
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-005
+  type: transformation
+  tier: primary
+  front_en: call me (informal command)
+  back_es: llámame
+  hint: informal command + me glued · accent
+  rule_ref: L79#8
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-007
+  type: transformation
+  tier: primary
+  front_en: essential
+  back_es: esencial
+  hint: -tial → -cial · sp/st → es-
+  rule_ref: L79#9
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-009
+  type: transformation
+  tier: primary
+  front_en: it's essential that
+  back_es: es esencial que
+  hint: triggers mood after que
+  rule_ref: L79#10
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-010
+  type: transformation
+  tier: primary
+  front_en: hopefully (Arabic origin)
+  back_es: ojalá
+  hint: from Arabic *ojo-Allah* (eye-God) · accent on á
+  rule_ref: L79#12
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-011
+  type: transformation
+  tier: primary
+  front_en: eye / watch out!
+  back_es: ojo
+  hint: also = "be careful"
+  rule_ref: L79#13
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-013
+  type: transformation
+  tier: primary
+  front_en: mood form of ver (he sees)
+  back_es: vea
+  hint: built off irregular *veo* · -ea
+  rule_ref: L79#11
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-014
+  type: transformation
+  tier: primary
+  front_en: mood form of ser (he be)
+  back_es: sea
+  hint: irregular mood root of ser
+  rule_ref: L79#15
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-015
+  type: sentence
+  tier: primary
+  front_en: Leave me a message. (formal)
+  back_es: Déjeme un mensaje.
+  hint: formal command + me
+  rule_ref: L79#3, L79#2
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-016
+  type: sentence
+  tier: primary
+  front_en: I want you to leave me a message.
+  back_es: Quiero que me dejes un mensaje.
+  hint: querer que → mood
+  rule_ref: L79#4
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-017
+  type: sentence
+  tier: primary
+  front_en: I want to tell him to leave me a message.
+  back_es: Quiero decirle que me deje un mensaje.
+  hint: order via mood after que
+  rule_ref: L79#5
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-018
+  type: sentence
+  tier: primary
+  front_en: When he leaves you the message, call me.
+  back_es: Cuando te deje el mensaje, llámame.
+  hint: cuando + future · command + me
+  rule_ref: L79#7, L79#8
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-019
+  type: sentence
+  tier: primary
+  front_en: It's essential that he see my message.
+  back_es: Es esencial que vea mi mensaje.
+  hint: es esencial que → mood ver
+  rule_ref: L79#10, L79#11
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-020
+  type: sentence
+  tier: primary
+  front_en: Hopefully she leaves a message.
+  back_es: Ojalá deje un mensaje.
+  hint: ojalá → mood
+  rule_ref: L79#14
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-021
+  type: sentence
+  tier: primary
+  front_en: Hopefully it'll be soon.
+  back_es: Ojalá sea pronto.
+  hint: ojalá → mood ser
+  rule_ref: L79#14, L79#15, L79#16
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-022
+  type: sentence
+  tier: primary
+  front_en: Hopefully he leaves me a message.
+  back_es: Ojalá me deje un mensaje.
+  hint: ojalá + mood + me
+  rule_ref: L79#14
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-023
+  type: sentence
+  tier: primary
+  front_en: Hopefully you call me.
+  back_es: Ojalá me llames.
+  hint: ojalá + mood + me (informal)
+  rule_ref: L79#14
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-024
+  type: sentence
+  tier: primary
+  front_en: It's essential that you call me.
+  back_es: Es esencial que me llames.
+  hint: es esencial que → mood + me
+  rule_ref: L79#10
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-025
+  type: sentence
+  tier: primary
+  front_en: It's essential that he see it.
+  back_es: Es esencial que lo vea.
+  hint: mood ver + lo
+  rule_ref: L79#10, L79#11
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-026
+  type: sentence
+  tier: primary
+  front_en: I want him to leave it.
+  back_es: Quiero que lo deje.
+  hint: querer que → mood + lo
+  rule_ref: L79#4
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-027
+  type: sentence
+  tier: primary
+  front_en: When he leaves it, call me.
+  back_es: Cuando lo deje, llámame.
+  hint: cuando + future · command + me
+  rule_ref: L79#7, L79#8
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-028
+  type: sentence
+  tier: primary
+  front_en: Watch out!
+  back_es: ¡Ojo!
+  hint: literally *eye*
+  rule_ref: L79#13
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-029
+  type: sentence
+  tier: primary
+  front_en: Hopefully he sees it.
+  back_es: Ojalá lo vea.
+  hint: ojalá + mood ver + lo
+  rule_ref: L79#14, L79#11
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-030
+  type: sentence
+  tier: primary
+  front_en: Hopefully she calls me.
+  back_es: Ojalá me llame.
+  hint: ojalá + mood + me
+  rule_ref: L79#14
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-031
+  type: sentence
+  tier: primary
+  front_en: Leave me the message. (formal)
+  back_es: Déjeme el mensaje.
+  hint: formal command + me
+  rule_ref: L79#3
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-032
+  type: sentence
+  tier: primary
+  front_en: Call me. (informal)
+  back_es: Llámame.
+  hint: informal command + me
+  rule_ref: L79#8
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-033
+  type: sentence
+  tier: primary
+  front_en: I want to tell her to call me.
+  back_es: Quiero decirle que me llame.
+  hint: order via mood after que
+  rule_ref: L79#5
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-034
+  type: conjugation
+  tier: primary
+  front_en: mood you (informal) form of dejar
+  back_es: dejes
+  hint: -ar mood swaps to -es
+  rule_ref: L79#4
+  lessons:
+  - 79
+  directions:
+  - en_es
+- id: l79-035
+  type: conjugation
+  tier: primary
+  front_en: mood she form of dejar
+  back_es: deje
+  hint: -ar mood swaps to -e
+  rule_ref: L79#4
+  lessons:
+  - 79
+  directions:
+  - en_es
+- id: l79-036
+  type: conjugation
+  tier: primary
+  front_en: mood they form of dejar
+  back_es: dejen
+  hint: -ar mood swaps to -en
+  rule_ref: L79#4
+  lessons:
+  - 79
+  directions:
+  - en_es
+- id: l79-037
+  type: sentence
+  tier: extended
+  front_en: Hopefully you guys leave a message.
+  back_es: Ojalá dejen un mensaje.
+  hint: ojalá + they mood
+  rule_ref: L79#14
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-038
+  type: sentence
+  tier: extended
+  front_en: It's essential that you guys see it.
+  back_es: Es esencial que lo vean.
+  hint: es esencial que → they mood ver
+  rule_ref: L79#10, L79#11
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-039
+  type: sentence
+  tier: extended
+  front_en: I want her to see the message.
+  back_es: Quiero que vea el mensaje.
+  hint: querer que → mood ver
+  rule_ref: L79#4, L79#11
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-040
+  type: sentence
+  tier: extended
+  front_en: Hopefully it's essential.
+  back_es: Ojalá sea esencial.
+  hint: ojalá + mood ser
+  rule_ref: L79#14, L79#15
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-041
+  type: sentence
+  tier: extended
+  front_en: When she sees the message, call me.
+  back_es: Cuando vea el mensaje, llámame.
+  hint: cuando + future · mood ver
+  rule_ref: L79#7, L79#11, L79#8
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-042
+  type: sentence
+  tier: extended
+  front_en: I want him to call me.
+  back_es: Quiero que me llame.
+  hint: querer que → mood + me
+  rule_ref: L79#4
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-043
+  type: sentence
+  tier: extended
+  front_en: Hopefully it's the tradition.
+  back_es: Ojalá sea la tradición.
+  hint: ojalá + mood ser
+  rule_ref: L79#14, L79#15, L79#9
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-044
+  type: sentence
+  tier: extended
+  front_en: Hopefully he leaves it soon.
+  back_es: Ojalá lo deje pronto.
+  hint: ojalá + mood + lo + pronto
+  rule_ref: L79#14, L79#16
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l79-045
+  type: sentence
+  tier: extended
+  front_en: It's essential that they leave a message.
+  back_es: Es esencial que dejen un mensaje.
+  hint: es esencial que → they mood
+  rule_ref: L79#10
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: l80-001
+  type: transformation
+  tier: primary
+  front_en: I know (a fact)
+  back_es: sé
+  hint: written accent · from saber
+  rule_ref: L80#1
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-003
+  type: transformation
+  tier: primary
+  front_en: I know (with subject pronoun)
+  back_es: yo sé
+  hint: bare *sé* sounds tiny → add *yo*
+  rule_ref: L80#1
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-004
+  type: transformation
+  tier: primary
+  front_en: he stays / he remains
+  back_es: se queda
+  hint: self-se · *quedar* + se
+  rule_ref: L80#3
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-005
+  type: transformation
+  tier: primary
+  front_en: to stay / to remain
+  back_es: quedar
+  hint: -ar verb
+  rule_ref: L80#3
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-007
+  type: transformation
+  tier: primary
+  front_en: door (cousin of *port*)
+  back_es: puerta
+  hint: o→ue · related to *puerto*
+  rule_ref: L80#8
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-008
+  type: transformation
+  tier: primary
+  front_en: closes itself / closes by itself
+  back_es: se cierra
+  hint: self-se · e→ie
+  rule_ref: L80#6
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-009
+  type: transformation
+  tier: primary
+  front_en: I prepare it for him (phonetic se)
+  back_es: se lo preparo
+  hint: le+lo → se+lo (Spanish dislikes les lo)
+  rule_ref: L80#4
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-011
+  type: transformation
+  tier: primary
+  front_en: I prepare it
+  back_es: lo preparo
+  hint: lo + verb
+  rule_ref: L80#4
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-013
+  type: transformation
+  tier: primary
+  front_en: dinner (the noun)
+  back_es: cena
+  hint: feminine
+  rule_ref: L80#9
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-015
+  type: transformation
+  tier: primary
+  front_en: it burned (point past)
+  back_es: quemó
+  hint: -ó point past
+  rule_ref: L80#17
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-016
+  type: transformation
+  tier: primary
+  front_en: to finish / to run out
+  back_es: acabar
+  hint: -ar verb
+  rule_ref: L80#11
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-017
+  type: transformation
+  tier: primary
+  front_en: battery
+  back_es: batería
+  hint: accent on í
+  rule_ref: L80#12
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-020
+  type: sentence
+  tier: primary
+  front_en: I prepare it for him.
+  back_es: Se lo preparo.
+  hint: phonetic se (le+lo → se+lo)
+  rule_ref: L80#4
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-021
+  type: sentence
+  tier: primary
+  front_en: The door closes (itself).
+  back_es: La puerta se cierra.
+  hint: self-se · e→ie
+  rule_ref: L80#6
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-022
+  type: sentence
+  tier: primary
+  front_en: The door closes on me.
+  back_es: La puerta se me cierra.
+  hint: se + me = on me
+  rule_ref: L80#5, L80#7
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-023
+  type: sentence
+  tier: primary
+  front_en: The door closes on me. (alt order)
+  back_es: Se me cierra la puerta.
+  hint: same meaning · noun moves
+  rule_ref: L80#7
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-024
+  type: sentence
+  tier: primary
+  front_en: The dinner gets burned.
+  back_es: La cena se quema.
+  hint: self-se
+  rule_ref: L80#10
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-025
+  type: sentence
+  tier: primary
+  front_en: The dinner is burning on me.
+  back_es: La cena se me quema.
+  hint: se + me = on me
+  rule_ref: L80#5, L80#10
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-026
+  type: sentence
+  tier: primary
+  front_en: The battery runs out.
+  back_es: La batería se acaba.
+  hint: self-se · *acabar*
+  rule_ref: L80#12
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-027
+  type: sentence
+  tier: primary
+  front_en: The battery runs out on me.
+  back_es: La batería se me acaba.
+  hint: se + me = on me
+  rule_ref: L80#5, L80#12
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-028
+  type: sentence
+  tier: primary
+  front_en: My battery always runs out on me.
+  back_es: La batería siempre se me acaba.
+  hint: siempre + se me + verb
+  rule_ref: L80#13
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-029
+  type: sentence
+  tier: primary
+  front_en: Does the battery run out on you? (informal)
+  back_es: ¿La batería se te acaba?
+  hint: se + te = on you (informal)
+  rule_ref: L80#14
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-030
+  type: sentence
+  tier: primary
+  front_en: Does the battery run out on you? (formal)
+  back_es: ¿La batería se le acaba?
+  hint: se + le = on you (formal)
+  rule_ref: L80#15
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-031
+  type: sentence
+  tier: primary
+  front_en: The battery runs out on them.
+  back_es: La batería se les acaba.
+  hint: se + les = on them
+  rule_ref: L80#16
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-032
+  type: sentence
+  tier: primary
+  front_en: The dinner got burned. (point past)
+  back_es: La cena se quemó.
+  hint: self-se · point past
+  rule_ref: L80#17
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-033
+  type: sentence
+  tier: primary
+  front_en: The dinner got burned on me.
+  back_es: La cena se me quemó.
+  hint: se + me · point past
+  rule_ref: L80#17
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-034
+  type: sentence
+  tier: primary
+  front_en: The dinner got burned on us.
+  back_es: La cena se nos quemó.
+  hint: se + nos · point past
+  rule_ref: L80#17
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-036
+  type: sentence
+  tier: primary
+  front_en: The door closes on us.
+  back_es: La puerta se nos cierra.
+  hint: se + nos = on us
+  rule_ref: L80#5
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-037
+  type: sentence
+  tier: primary
+  front_en: The dinner burns on her.
+  back_es: La cena se le quema.
+  hint: se + le = on her
+  rule_ref: L80#5, L80#10
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-038
+  type: sentence
+  tier: primary
+  front_en: The battery ran out on me.
+  back_es: La batería se me acabó.
+  hint: se + me · point past *acabó*
+  rule_ref: L80#5, L80#17
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-039
+  type: sentence
+  tier: primary
+  front_en: The battery ran out on us.
+  back_es: La batería se nos acabó.
+  hint: se + nos · point past
+  rule_ref: L80#5, L80#17
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-040
+  type: sentence
+  tier: primary
+  front_en: The door always closes on me.
+  back_es: La puerta siempre se me cierra.
+  hint: siempre + se me + verb
+  rule_ref: L80#13
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-041
+  type: conjugation
+  tier: primary
+  front_en: she form of cerrar
+  back_es: cierra
+  hint: e→ie spine
+  rule_ref: L80#8
+  lessons:
+  - 80
+  directions:
+  - en_es
+- id: l80-042
+  type: conjugation
+  tier: primary
+  front_en: she form of quemar
+  back_es: quema
+  hint: -ar verb · qu = /k/
+  rule_ref: L80#10
+  lessons:
+  - 80
+  directions:
+  - en_es
+- id: l80-043
+  type: conjugation
+  tier: primary
+  front_en: point past she form of acabar
+  back_es: acabó
+  hint: -ó point past
+  rule_ref: L80#17
+  lessons:
+  - 80
+  directions:
+  - en_es
+- id: l80-044
+  type: conjugation
+  tier: primary
+  front_en: she form of acabar
+  back_es: acaba
+  hint: -ar verb
+  rule_ref: L80#12
+  lessons:
+  - 80
+  directions:
+  - en_es
+- id: l80-045
+  type: sentence
+  tier: primary
+  front_en: The dinner gets burned on you. (informal)
+  back_es: La cena se te quema.
+  hint: se + te = on you
+  rule_ref: L80#5, L80#10
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-046
+  type: sentence
+  tier: primary
+  front_en: The door closes on her.
+  back_es: La puerta se le cierra.
+  hint: se + le = on her
+  rule_ref: L80#5
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-047
+  type: sentence
+  tier: primary
+  front_en: The door closed on me. (point past)
+  back_es: La puerta se me cerró.
+  hint: se + me · point past *cerró*
+  rule_ref: L80#5, L80#17
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-048
+  type: sentence
+  tier: extended
+  front_en: They prepare it for him.
+  back_es: Se lo preparan.
+  hint: phonetic se · they form
+  rule_ref: L80#4
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-049
+  type: sentence
+  tier: extended
+  front_en: We prepare it for him.
+  back_es: Se lo preparamos.
+  hint: phonetic se · we form
+  rule_ref: L80#4
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-050
+  type: sentence
+  tier: extended
+  front_en: The dinner always burns on me.
+  back_es: La cena siempre se me quema.
+  hint: siempre + se me + verb
+  rule_ref: L80#13
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-051
+  type: sentence
+  tier: extended
+  front_en: The battery ran out on them.
+  back_es: La batería se les acabó.
+  hint: se + les · point past
+  rule_ref: L80#16, L80#17
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-052
+  type: sentence
+  tier: extended
+  front_en: The door closed on us. (point past)
+  back_es: La puerta se nos cerró.
+  hint: se + nos · point past
+  rule_ref: L80#5, L80#17
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-053
+  type: sentence
+  tier: extended
+  front_en: The door closed on you. (informal point past)
+  back_es: La puerta se te cerró.
+  hint: se + te · point past
+  rule_ref: L80#5, L80#17
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-054
+  type: sentence
+  tier: extended
+  front_en: The dinner is burning on you all.
+  back_es: La cena se les quema.
+  hint: se + les = on you all
+  rule_ref: L80#16, L80#10
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-055
+  type: sentence
+  tier: extended
+  front_en: I know that he stays.
+  back_es: Sé que se queda.
+  hint: sé (I know) + self-se queda
+  rule_ref: L80#1, L80#3
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-056
+  type: sentence
+  tier: extended
+  front_en: I know that the battery runs out.
+  back_es: Sé que la batería se acaba.
+  hint: sé + self-se
+  rule_ref: L80#1, L80#12
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-057
+  type: sentence
+  tier: extended
+  front_en: It's probable that the battery runs out on us.
+  back_es: Es probable que se nos acabe la batería.
+  hint: mood acabar · se + nos
+  rule_ref: L80#5, L78#3
+  lessons:
+  - 78
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-058
+  type: sentence
+  tier: extended
+  front_en: Hopefully the dinner doesn't burn on me.
+  back_es: Ojalá no se me queme la cena.
+  hint: ojalá + mood · se + me
+  rule_ref: L79#14, L80#5
+  lessons:
+  - 79
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-059
+  type: sentence
+  tier: extended
+  front_en: It's essential that the door doesn't close on us.
+  back_es: Es esencial que no se nos cierre la puerta.
+  hint: es esencial que → mood · se + nos
+  rule_ref: L79#10, L80#5
+  lessons:
+  - 79
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-060
+  type: sentence
+  tier: extended
+  front_en: when (in future) the dinner burns on us
+  back_es: cuando se nos queme la cena
+  hint: cuando + future mood · se + nos
+  rule_ref: L78#17, L80#5
+  lessons:
+  - 78
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: l80-061
+  type: sentence
+  tier: extended
+  front_en: when (in future) the battery runs out on me
+  back_es: cuando se me acabe la batería
+  hint: cuando + future mood · se + me
+  rule_ref: L78#17, L80#5
+  lessons:
+  - 78
+  - 80
+  directions:
+  - en_es
+  - es_en

@@ -1,0 +1,1765 @@
+bundle: X
+title: 'Past mood tense: hablaran/hablara, si pudiera lo cancelaría, era, -ase/-iese alt'
+lessons:
+- 81
+- 82
+- 83
+cards:
+- id: l81-001
+  type: conjugation
+  tier: primary
+  front_en: past mood they form of hablar
+  back_es: hablaran
+  hint: they-point-past minus -on plus -an
+  rule_ref: L81#10
+  lessons:
+  - 81
+  directions:
+  - en_es
+- id: l81-002
+  type: conjugation
+  tier: primary
+  front_en: past mood I form of hablar
+  back_es: hablara
+  hint: they-mood-past minus n
+  rule_ref: L81#10
+  lessons:
+  - 81
+  directions:
+  - en_es
+- id: l81-003
+  type: conjugation
+  tier: primary
+  front_en: past mood she form of hablar
+  back_es: hablara
+  hint: same as I form
+  rule_ref: L81#10
+  lessons:
+  - 81
+  directions:
+  - en_es
+- id: l81-004
+  type: conjugation
+  tier: primary
+  front_en: past mood you-informal form of hablar
+  back_es: hablaras
+  hint: I-mood plus -s
+  rule_ref: L81#10
+  lessons:
+  - 81
+  directions:
+  - en_es
+- id: l81-005
+  type: conjugation
+  tier: primary
+  front_en: past mood we form of hablar
+  back_es: habláramos
+  hint: -mos with accent on a before it
+  rule_ref: L81#10
+  lessons:
+  - 81
+  directions:
+  - en_es
+- id: l81-006
+  type: conjugation
+  tier: primary
+  front_en: past mood they form of comer
+  back_es: comieran
+  hint: comieron → swap -on for -an
+  rule_ref: L81#10
+  lessons:
+  - 81
+  directions:
+  - en_es
+- id: l81-007
+  type: conjugation
+  tier: primary
+  front_en: past mood I form of comer
+  back_es: comiera
+  hint: drop n from they-mood
+  rule_ref: L81#10
+  lessons:
+  - 81
+  directions:
+  - en_es
+- id: l81-008
+  type: conjugation
+  tier: primary
+  front_en: past mood you-informal form of comer
+  back_es: comieras
+  hint: I-mood plus -s
+  rule_ref: L81#10
+  lessons:
+  - 81
+  directions:
+  - en_es
+- id: l81-009
+  type: conjugation
+  tier: primary
+  front_en: past mood we form of comer
+  back_es: comiéramos
+  hint: accent on the e before -mos
+  rule_ref: L81#10
+  lessons:
+  - 81
+  directions:
+  - en_es
+- id: l81-010
+  type: conjugation
+  tier: primary
+  front_en: past mood they form of organizar
+  back_es: organizaran
+  hint: organizaron → swap to -an
+  rule_ref: L81#10
+  lessons:
+  - 81
+  directions:
+  - en_es
+- id: l81-011
+  type: conjugation
+  tier: primary
+  front_en: past mood we form of organizar
+  back_es: organizáramos
+  hint: -áramos · accent on a
+  rule_ref: L81#10
+  lessons:
+  - 81
+  directions:
+  - en_es
+- id: l81-012
+  type: conjugation
+  tier: primary
+  front_en: past mood she form of llamar
+  back_es: llamara
+  hint: llamaron → llamaran → drop n
+  rule_ref: L81#10
+  lessons:
+  - 81
+  directions:
+  - en_es
+- id: l81-013
+  type: sentence
+  tier: primary
+  front_en: I don't want the door to close on me.
+  back_es: No quiero que la puerta se me cierre.
+  hint: no quiero que → mood · se me = on me
+  rule_ref: L81#1
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-014
+  type: sentence
+  tier: primary
+  front_en: I don't want the door to close on me again.
+  back_es: No quiero que la puerta se me cierre otra vez.
+  hint: otra vez at the end
+  rule_ref: L81#1, L81#2, L81#3
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-015
+  type: sentence
+  tier: primary
+  front_en: I don't want it to close on me.
+  back_es: No quiero que se me cierre.
+  hint: drop subject · keep se me
+  rule_ref: L81#1
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-016
+  type: sentence
+  tier: primary
+  front_en: I don't want the door to close on you.
+  back_es: No quiero que la puerta se te cierre.
+  hint: se te = on you
+  rule_ref: L81#1
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-017
+  type: sentence
+  tier: primary
+  front_en: It closes again.
+  back_es: Vuelve a cerrarse.
+  hint: volver a + infinitive · reflexive ending
+  rule_ref: L81#4
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-018
+  type: sentence
+  tier: primary
+  front_en: I don't want the door to close again.
+  back_es: No quiero que la puerta vuelva a cerrarse.
+  hint: vuelva (mood) a + infinitive
+  rule_ref: L81#1, L81#4, L81#6
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-019
+  type: sentence
+  tier: primary
+  front_en: I don't want it to happen again. (pasar)
+  back_es: No quiero que vuelva a pasar.
+  hint: pasar = to happen
+  rule_ref: L81#7, L81#8
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-020
+  type: sentence
+  tier: primary
+  front_en: I don't want it to happen again. (ocurrir)
+  back_es: No quiero que vuelva a ocurrir.
+  hint: ocurrir variant
+  rule_ref: L81#7, L81#8
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-021
+  type: sentence
+  tier: primary
+  front_en: I called you again.
+  back_es: Volví a llamarte.
+  hint: volver a + infinitive · te attached
+  rule_ref: L81#16
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-022
+  type: sentence
+  tier: primary
+  front_en: I called him again.
+  back_es: Volví a llamarlo.
+  hint: lo attached to infinitive
+  rule_ref: L81#16
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-023
+  type: sentence
+  tier: primary
+  front_en: She called me again.
+  back_es: Volvió a llamarme.
+  hint: volvió (point past) + a + infinitive
+  rule_ref: L81#16
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-024
+  type: sentence
+  tier: primary
+  front_en: I returned to organize.
+  back_es: Volví a organizar.
+  hint: literal volver a here
+  rule_ref: L81#5
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-025
+  type: sentence
+  tier: primary
+  front_en: I wanted them to eat with us.
+  back_es: Quería que comieran con nosotros.
+  hint: line-past want + past-mood verb
+  rule_ref: L81#11, L81#12
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-026
+  type: sentence
+  tier: primary
+  front_en: I was hoping he would call me.
+  back_es: Esperaba que me llamara.
+  hint: would-call → past mood, no extra word
+  rule_ref: L81#13
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-027
+  type: sentence
+  tier: primary
+  front_en: I was hoping she would call me.
+  back_es: Esperaba que me llamara.
+  hint: same as he · she/he/I share form
+  rule_ref: L81#13
+  lessons:
+  - 81
+  directions:
+  - en_es
+- id: l81-028
+  type: sentence
+  tier: primary
+  front_en: We needed to speak with him.
+  back_es: Necesitábamos hablar con él.
+  hint: no que → no mood · plain infinitive
+  rule_ref: L81#14
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-029
+  type: sentence
+  tier: primary
+  front_en: We needed him to speak with us.
+  back_es: Necesitábamos que hablara con nosotros.
+  hint: que → past mood
+  rule_ref: L81#15, L81#19
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-030
+  type: sentence
+  tier: primary
+  front_en: I wanted you to call me.
+  back_es: Quería que me llamaras.
+  hint: you-informal → -aras
+  rule_ref: L81#11
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-031
+  type: sentence
+  tier: primary
+  front_en: I wanted her to call.
+  back_es: Quería que llamara.
+  hint: she/he → -ara
+  rule_ref: L81#11
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-032
+  type: sentence
+  tier: primary
+  front_en: She wanted me to speak with him.
+  back_es: Quería que hablara con él.
+  hint: ambiguous I/she — context picks
+  rule_ref: L81#11
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-033
+  type: sentence
+  tier: primary
+  front_en: I was hoping you would eat with us.
+  back_es: Esperaba que comieras con nosotros.
+  hint: -ieras for you-informal
+  rule_ref: L81#13
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-034
+  type: sentence
+  tier: primary
+  front_en: We needed you to call us.
+  back_es: Necesitábamos que nos llamaras.
+  hint: nos before verb · -aras you
+  rule_ref: L81#15
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-035
+  type: sentence
+  tier: primary
+  front_en: I called you again to organize.
+  back_es: Volví a llamarte para organizar.
+  hint: same subject · para + infinitive
+  rule_ref: L81#17
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-036
+  type: sentence
+  tier: primary
+  front_en: I called you again so we could organize.
+  back_es: Volví a llamarte para que organizáramos.
+  hint: para que → past mood we
+  rule_ref: L81#18
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l82-001
+  type: conjugation
+  tier: primary
+  front_en: line-past she form of ser
+  back_es: era
+  hint: think English "era" = a line in the past
+  rule_ref: L82#3
+  lessons:
+  - 82
+  directions:
+  - en_es
+- id: l82-002
+  type: conjugation
+  tier: primary
+  front_en: line-past I form of ser
+  back_es: era
+  hint: same as she
+  rule_ref: L82#3
+  lessons:
+  - 82
+  directions:
+  - en_es
+- id: l82-003
+  type: sentence
+  tier: primary
+  front_en: It's not very relevant.
+  back_es: No es muy relevante.
+  hint: plain — no mood yet
+  rule_ref: L82#1
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-004
+  type: sentence
+  tier: primary
+  front_en: It's not very relevant that they found it.
+  back_es: No es muy relevante que lo encontraran.
+  hint: que → past mood (encontraron→encontraran)
+  rule_ref: L82#1, L82#2
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-005
+  type: sentence
+  tier: primary
+  front_en: It's not very relevant that they (might) find it.
+  back_es: No es muy relevante que lo encuentren.
+  hint: present mood — same trigger, time shifts
+  rule_ref: L82#1, L82#2
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-006
+  type: sentence
+  tier: primary
+  front_en: It was very relevant.
+  back_es: Era muy relevante.
+  hint: era for line-past of ser
+  rule_ref: L82#3
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-007
+  type: sentence
+  tier: primary
+  front_en: It was very relevant that they found it.
+  back_es: Era muy relevante que lo encontraran.
+  hint: era + que + past mood
+  rule_ref: L82#1, L82#2, L82#3
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-008
+  type: sentence
+  tier: primary
+  front_en: It's important that he speak with us.
+  back_es: Es importante que hable con nosotros.
+  hint: present mood after es importante que
+  rule_ref: L82#1
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-009
+  type: sentence
+  tier: primary
+  front_en: It was important that he spoke with us.
+  back_es: Era importante que hablara con nosotros.
+  hint: era + que + past mood
+  rule_ref: L82#1, L82#2, L82#3
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-010
+  type: transformation
+  tier: primary
+  front_en: incredible / unbelievable
+  back_es: increíble
+  hint: from creer → creíble → in-creíble · accent on í
+  rule_ref: L82#6
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-011
+  type: transformation
+  tier: primary
+  front_en: believable
+  back_es: creíble
+  hint: from creer · accent on í
+  rule_ref: L82#6
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-012
+  type: sentence
+  tier: primary
+  front_en: It's incredible that they come back.
+  back_es: Es increíble que vuelvan.
+  hint: present mood after es increíble que
+  rule_ref: L82#1, L82#7
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-013
+  type: sentence
+  tier: primary
+  front_en: It's incredible that they do it again.
+  back_es: Es increíble que vuelvan a hacerlo.
+  hint: vuelvan a + infinitive
+  rule_ref: L82#1, L82#7, L82#8
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-014
+  type: sentence
+  tier: primary
+  front_en: It's incredible that they did it again.
+  back_es: Es increíble que volvieran a hacerlo.
+  hint: past-mood version
+  rule_ref: L82#1, L82#7, L82#8
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-015
+  type: transformation
+  tier: primary
+  front_en: the important thing
+  back_es: lo importante
+  hint: lo + adjective · no la cosa
+  rule_ref: L82#5
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-016
+  type: transformation
+  tier: primary
+  front_en: the incredible thing
+  back_es: lo increíble
+  hint: lo + adjective
+  rule_ref: L82#5
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-017
+  type: transformation
+  tier: primary
+  front_en: the spectacular thing
+  back_es: lo espectacular
+  hint: lo + adjective
+  rule_ref: L82#5
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-018
+  type: transformation
+  tier: primary
+  front_en: the relevant thing
+  back_es: lo relevante
+  hint: lo + adjective
+  rule_ref: L82#5
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-019
+  type: sentence
+  tier: primary
+  front_en: The incredible thing is that they come back.
+  back_es: Lo increíble es que vuelven.
+  hint: lo + adj + es que → no mood
+  rule_ref: L82#4, L82#5, L82#7
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-020
+  type: sentence
+  tier: primary
+  front_en: The incredible thing is that they do it again.
+  back_es: Lo increíble es que vuelven a hacerlo.
+  hint: dodge mood with lo + adj + es que
+  rule_ref: L82#4, L82#5, L82#8, L82#9
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-021
+  type: sentence
+  tier: primary
+  front_en: The important thing is that he speaks with us.
+  back_es: Lo importante es que habla con nosotros.
+  hint: dodge — no mood after es que
+  rule_ref: L82#4, L82#5, L82#9
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-022
+  type: sentence
+  tier: primary
+  front_en: The relevant thing is that they found it.
+  back_es: Lo relevante es que lo encontraron.
+  hint: point-past, not past-mood
+  rule_ref: L82#4, L82#5, L82#9
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l83-001
+  type: conjugation
+  tier: primary
+  front_en: past mood I form of poder
+  back_es: pudiera
+  hint: pod- → pud- in point past
+  rule_ref: L83#5
+  lessons:
+  - 83
+  directions:
+  - en_es
+- id: l83-002
+  type: conjugation
+  tier: primary
+  front_en: past mood you-informal form of poder
+  back_es: pudieras
+  hint: pud- base + -ieras
+  rule_ref: L83#5
+  lessons:
+  - 83
+  directions:
+  - en_es
+- id: l83-003
+  type: conjugation
+  tier: primary
+  front_en: past mood we form of poder
+  back_es: pudiéramos
+  hint: pud- + accent + -mos
+  rule_ref: L83#5
+  lessons:
+  - 83
+  directions:
+  - en_es
+- id: l83-004
+  type: conjugation
+  tier: primary
+  front_en: past mood I form of haber
+  back_es: hubiera
+  hint: hab- → hub- in point past
+  rule_ref: L83#8
+  lessons:
+  - 83
+  directions:
+  - en_es
+- id: l83-005
+  type: conjugation
+  tier: primary
+  front_en: past mood you-informal form of haber
+  back_es: hubieras
+  hint: hub- + -ieras
+  rule_ref: L83#8
+  lessons:
+  - 83
+  directions:
+  - en_es
+- id: l83-006
+  type: conjugation
+  tier: primary
+  front_en: past mood we form of haber
+  back_es: hubiéramos
+  hint: hub- + accent + -mos
+  rule_ref: L83#8
+  lessons:
+  - 83
+  directions:
+  - en_es
+- id: l83-007
+  type: conjugation
+  tier: primary
+  front_en: past mood I form of ver
+  back_es: viera
+  hint: viste/vio → vieron → drop -on
+  rule_ref: L83#12
+  lessons:
+  - 83
+  directions:
+  - en_es
+- id: l83-008
+  type: conjugation
+  tier: primary
+  front_en: past mood you-informal form of ver
+  back_es: vieras
+  hint: vier- + -as
+  rule_ref: L83#12
+  lessons:
+  - 83
+  directions:
+  - en_es
+- id: l83-009
+  type: conjugation
+  tier: primary
+  front_en: past mood I form of comprar
+  back_es: comprara
+  hint: compraron → ...
+  rule_ref: L83#2
+  lessons:
+  - 83
+  directions:
+  - en_es
+- id: l83-010
+  type: conjugation
+  tier: primary
+  front_en: past mood you-informal form of comprar
+  back_es: compraras
+  hint: -aras for you
+  rule_ref: L83#2
+  lessons:
+  - 83
+  directions:
+  - en_es
+- id: l83-011
+  type: conjugation
+  tier: primary
+  front_en: past mood you-informal form of contar
+  back_es: contaras
+  hint: contaron → ...
+  rule_ref: L83#2
+  lessons:
+  - 83
+  directions:
+  - en_es
+- id: l83-012
+  type: conjugation
+  tier: primary
+  front_en: conditional I form of cocinar
+  back_es: cocinaría
+  hint: full infinitive + -ía
+  rule_ref: L83#6
+  lessons:
+  - 83
+  directions:
+  - en_es
+- id: l83-013
+  type: conjugation
+  tier: primary
+  front_en: conditional I form of cancelar
+  back_es: cancelaría
+  hint: -ía ending
+  rule_ref: L83#6
+  lessons:
+  - 83
+  directions:
+  - en_es
+- id: l83-014
+  type: conjugation
+  tier: primary
+  front_en: conditional I form of comprender
+  back_es: comprendería
+  hint: full infinitive + -ía
+  rule_ref: L83#13
+  lessons:
+  - 83
+  directions:
+  - en_es
+- id: l83-015
+  type: conjugation
+  tier: primary
+  front_en: conditional I form of entender
+  back_es: entendería
+  hint: full infinitive + -ía
+  rule_ref: L83#13
+  lessons:
+  - 83
+  directions:
+  - en_es
+- id: l83-016
+  type: conjugation
+  tier: primary
+  front_en: conditional I form of haber
+  back_es: habría
+  hint: e falls out · not habería
+  rule_ref: L83#9
+  lessons:
+  - 83
+  directions:
+  - en_es
+- id: l83-017
+  type: conjugation
+  tier: primary
+  front_en: conditional we form of haber
+  back_es: habríamos
+  hint: habr- + -íamos
+  rule_ref: L83#9
+  lessons:
+  - 83
+  directions:
+  - en_es
+- id: l83-018
+  type: transformation
+  tier: primary
+  front_en: I would cancel
+  back_es: cancelaría
+  hint: full inf + -ía
+  rule_ref: L83#6
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-019
+  type: transformation
+  tier: primary
+  front_en: I would cook
+  back_es: cocinaría
+  hint: full inf + -ía
+  rule_ref: L83#6
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-020
+  type: transformation
+  tier: primary
+  front_en: I would understand
+  back_es: comprendería
+  hint: full inf + -ía
+  rule_ref: L83#13
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-021
+  type: transformation
+  tier: primary
+  front_en: I would have
+  back_es: habría
+  hint: helper "have" · e drops out
+  rule_ref: L83#9
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-022
+  type: transformation
+  tier: primary
+  front_en: I would have gone
+  back_es: habría ido
+  hint: would-have helper + past participle
+  rule_ref: L83#9
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-023
+  type: transformation
+  tier: primary
+  front_en: we would have gone
+  back_es: habríamos ido
+  hint: habríamos + ido
+  rule_ref: L83#9
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-024
+  type: sentence
+  tier: primary
+  front_en: That you bought it is not my problem.
+  back_es: Que lo compraras no es mi problema.
+  hint: que + past mood · "may have" feel
+  rule_ref: L83#1
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-025
+  type: sentence
+  tier: primary
+  front_en: That you told him is not my problem.
+  back_es: Que le contaras no es mi problema.
+  hint: le + past-mood you
+  rule_ref: L83#1
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-026
+  type: sentence
+  tier: primary
+  front_en: If I could cook, I would cook.
+  back_es: Si pudiera cocinar, cocinaría.
+  hint: si + past mood · then conditional
+  rule_ref: L83#3, L83#7
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-027
+  type: sentence
+  tier: primary
+  front_en: If I could cancel it, I would cancel it.
+  back_es: Si pudiera cancelarlo, lo cancelaría.
+  hint: lo attached · lo before conditional
+  rule_ref: L83#3, L83#7
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-028
+  type: sentence
+  tier: primary
+  front_en: If I could see it, I would understand it. (comprender)
+  back_es: Si lo viera, lo comprendería.
+  hint: viera (ver) · comprendería
+  rule_ref: L83#3, L83#12, L83#13
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-029
+  type: sentence
+  tier: primary
+  front_en: If I could see it, I would understand it. (entender)
+  back_es: Si lo viera, lo entendería.
+  hint: entender variant
+  rule_ref: L83#3, L83#12, L83#13
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-030
+  type: sentence
+  tier: primary
+  front_en: If you saw their house.
+  back_es: Si vieras su casa.
+  hint: vieras (you-informal) · su = his/her/their
+  rule_ref: L83#3, L83#11, L83#12
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-031
+  type: sentence
+  tier: primary
+  front_en: If you had told me it, I would have gone.
+  back_es: Si me lo hubieras contado, habría ido.
+  hint: si-hub-past + habría-past
+  rule_ref: L83#8, L83#9, L83#10
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-032
+  type: sentence
+  tier: primary
+  front_en: If we had known, we would have gone.
+  back_es: Si hubiéramos sabido, habríamos ido.
+  hint: hubiéramos · sabido · habríamos · ido
+  rule_ref: L83#8, L83#9, L83#10
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-033
+  type: sentence
+  tier: primary
+  front_en: If you had known, you would have gone.
+  back_es: Si hubieras sabido, habrías ido.
+  hint: you-informal both halves
+  rule_ref: L83#8, L83#9, L83#10
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-034
+  type: sentence
+  tier: primary
+  front_en: If I had known, I would have gone.
+  back_es: Si hubiera sabido, habría ido.
+  hint: I-form both halves
+  rule_ref: L83#8, L83#9, L83#10
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-035
+  type: transformation
+  tier: primary
+  front_en: alt past-mood form of hablar (I)
+  back_es: hablase
+  hint: -ase variant of -ara
+  rule_ref: L83#14
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-036
+  type: transformation
+  tier: primary
+  front_en: alt past-mood form of comer (I)
+  back_es: comiese
+  hint: -iese variant of -iera
+  rule_ref: L83#14
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-037
+  type: transformation
+  tier: primary
+  front_en: alt past-mood form of entender (I)
+  back_es: entendiese
+  hint: -iese variant
+  rule_ref: L83#14
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-038
+  type: transformation
+  tier: primary
+  front_en: alt past-mood form of comer (we)
+  back_es: comiésemos
+  hint: -iésemos variant
+  rule_ref: L83#14
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l81-037
+  type: conjugation
+  tier: extended
+  front_en: past mood they form of llamar
+  back_es: llamaran
+  hint: llamaron → ...
+  rule_ref: L81#10
+  lessons:
+  - 81
+  directions:
+  - en_es
+- id: l81-038
+  type: conjugation
+  tier: extended
+  front_en: past mood we form of llamar
+  back_es: llamáramos
+  hint: -áramos with accent
+  rule_ref: L81#10
+  lessons:
+  - 81
+  directions:
+  - en_es
+- id: l81-039
+  type: conjugation
+  tier: extended
+  front_en: past mood they form of esperar
+  back_es: esperaran
+  hint: esperaron → swap -on for -an
+  rule_ref: L81#10
+  lessons:
+  - 81
+  directions:
+  - en_es
+- id: l81-040
+  type: conjugation
+  tier: extended
+  front_en: past mood I form of necesitar
+  back_es: necesitara
+  hint: necesitaron → drop -on, drop n
+  rule_ref: L81#10
+  lessons:
+  - 81
+  directions:
+  - en_es
+- id: l81-041
+  type: sentence
+  tier: extended
+  front_en: I don't want this to happen again.
+  back_es: No quiero que esto vuelva a pasar.
+  hint: esto = this · vuelva mood
+  rule_ref: L81#1, L81#4, L81#7
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-042
+  type: sentence
+  tier: extended
+  front_en: I don't want it to occur again.
+  back_es: No quiero que vuelva a ocurrir.
+  hint: ocurrir = to happen
+  rule_ref: L81#7
+  lessons:
+  - 81
+  directions:
+  - en_es
+- id: l81-043
+  type: sentence
+  tier: extended
+  front_en: I hope it doesn't happen again.
+  back_es: Espero que no vuelva a suceder.
+  hint: suceder = to happen
+  rule_ref: L81#7
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-044
+  type: sentence
+  tier: extended
+  front_en: I wanted you to organize it.
+  back_es: Quería que lo organizaras.
+  hint: lo + -aras
+  rule_ref: L81#11
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-045
+  type: sentence
+  tier: extended
+  front_en: We were hoping they would call.
+  back_es: Esperábamos que llamaran.
+  hint: line-past hope · they past-mood
+  rule_ref: L81#13
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-046
+  type: sentence
+  tier: extended
+  front_en: They wanted us to eat with them.
+  back_es: Querían que comiéramos con ellos.
+  hint: line-past they-want · we past-mood
+  rule_ref: L81#11, L81#12
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-047
+  type: sentence
+  tier: extended
+  front_en: I called him again to organize.
+  back_es: Volví a llamarlo para organizar.
+  hint: same subject → para + infinitive
+  rule_ref: L81#16, L81#17
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-048
+  type: sentence
+  tier: extended
+  front_en: I called him again so we could organize.
+  back_es: Volví a llamarlo para que organizáramos.
+  hint: para que → past mood we
+  rule_ref: L81#16, L81#18
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-049
+  type: sentence
+  tier: extended
+  front_en: It happened again.
+  back_es: Volvió a pasar.
+  hint: volver a + happen-verb
+  rule_ref: L81#4, L81#7
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-050
+  type: sentence
+  tier: extended
+  front_en: It closed on me again.
+  back_es: Se me volvió a cerrar.
+  hint: se me + volver a + infinitive
+  rule_ref: L81#1, L81#4
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l82-023
+  type: sentence
+  tier: extended
+  front_en: It's spectacular that they come back.
+  back_es: Es espectacular que vuelvan.
+  hint: ser + adj + que → mood
+  rule_ref: L82#1
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-024
+  type: sentence
+  tier: extended
+  front_en: The spectacular thing is that they come back.
+  back_es: Lo espectacular es que vuelven.
+  hint: dodge — lo + adj + es que
+  rule_ref: L82#4, L82#5
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-025
+  type: sentence
+  tier: extended
+  front_en: It was incredible that they did it again.
+  back_es: Era increíble que volvieran a hacerlo.
+  hint: era + que + past mood
+  rule_ref: L82#1, L82#3, L82#7
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-026
+  type: sentence
+  tier: extended
+  front_en: It was important that they found it.
+  back_es: Era importante que lo encontraran.
+  hint: era + que + past mood
+  rule_ref: L82#1, L82#3
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-027
+  type: sentence
+  tier: extended
+  front_en: The important thing is that they found it.
+  back_es: Lo importante es que lo encontraron.
+  hint: dodge — point-past, no mood
+  rule_ref: L82#4, L82#5
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-028
+  type: sentence
+  tier: extended
+  front_en: It's good that he speaks with us.
+  back_es: Está bien que hable con nosotros.
+  hint: estar + bien + que → mood
+  rule_ref: L82#1
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-029
+  type: sentence
+  tier: extended
+  front_en: It was good that he spoke with us.
+  back_es: Estaba bien que hablara con nosotros.
+  hint: estaba + que + past mood
+  rule_ref: L82#1, L82#2
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-030
+  type: sentence
+  tier: extended
+  front_en: It's incredible that you do it.
+  back_es: Es increíble que lo hagas.
+  hint: ser + increíble + que → mood
+  rule_ref: L82#1, L82#7
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-031
+  type: sentence
+  tier: extended
+  front_en: The incredible thing is that you do it.
+  back_es: Lo increíble es que lo haces.
+  hint: dodge — present, no mood
+  rule_ref: L82#4, L82#5
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-032
+  type: sentence
+  tier: extended
+  front_en: It was relevant.
+  back_es: Era relevante.
+  hint: era line-past
+  rule_ref: L82#3
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-033
+  type: sentence
+  tier: extended
+  front_en: It's not relevant that they find it.
+  back_es: No es relevante que lo encuentren.
+  hint: present-mood after que
+  rule_ref: L82#1, L82#2
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l83-039
+  type: conjugation
+  tier: extended
+  front_en: past mood they form of poder
+  back_es: pudieran
+  hint: pud- + -ieran
+  rule_ref: L83#5
+  lessons:
+  - 83
+  directions:
+  - en_es
+- id: l83-040
+  type: conjugation
+  tier: extended
+  front_en: past mood they form of haber
+  back_es: hubieran
+  hint: hub- + -ieran
+  rule_ref: L83#8
+  lessons:
+  - 83
+  directions:
+  - en_es
+- id: l83-041
+  type: conjugation
+  tier: extended
+  front_en: conditional you-informal form of cancelar
+  back_es: cancelarías
+  hint: full inf + -ías
+  rule_ref: L83#6
+  lessons:
+  - 83
+  directions:
+  - en_es
+- id: l83-042
+  type: conjugation
+  tier: extended
+  front_en: conditional she form of gustar
+  back_es: gustaría
+  hint: me ... — memory hook
+  rule_ref: L83#6
+  lessons:
+  - 83
+  directions:
+  - en_es
+- id: l83-043
+  type: conjugation
+  tier: extended
+  front_en: conditional you-informal form of haber
+  back_es: habrías
+  hint: habr- + -ías
+  rule_ref: L83#9
+  lessons:
+  - 83
+  directions:
+  - en_es
+- id: l83-044
+  type: sentence
+  tier: extended
+  front_en: That you didn't tell me is not my problem.
+  back_es: Que no me lo contaras no es mi problema.
+  hint: que + past-mood you · double object
+  rule_ref: L83#1
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-045
+  type: sentence
+  tier: extended
+  front_en: If we could see it, we would understand.
+  back_es: Si lo viéramos, comprenderíamos.
+  hint: viéramos (we) · comprenderíamos
+  rule_ref: L83#3, L83#12, L83#13
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-046
+  type: sentence
+  tier: extended
+  front_en: If you could cancel it, would you cancel it?
+  back_es: Si pudieras cancelarlo, ¿lo cancelarías?
+  hint: pudieras · ¿lo cancelarías?
+  rule_ref: L83#3, L83#7
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-047
+  type: sentence
+  tier: extended
+  front_en: If they had known, they would have called.
+  back_es: Si hubieran sabido, habrían llamado.
+  hint: they-form both halves · llamado
+  rule_ref: L83#8, L83#9, L83#10
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-048
+  type: sentence
+  tier: extended
+  front_en: If she had told me, I would have gone.
+  back_es: Si me lo hubiera contado, habría ido.
+  hint: hubiera (she) · habría (I)
+  rule_ref: L83#8, L83#9, L83#10
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-049
+  type: sentence
+  tier: extended
+  front_en: That she bought it isn't a problem.
+  back_es: Que lo comprara no es un problema.
+  hint: que + past-mood she · un problema
+  rule_ref: L83#1
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-050
+  type: sentence
+  tier: extended
+  front_en: If I could, I would do it.
+  back_es: Si pudiera, lo haría.
+  hint: short si-pudiera · haría
+  rule_ref: L83#3, L83#7
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-051
+  type: sentence
+  tier: extended
+  front_en: If you knew, you would understand.
+  back_es: Si supieras, entenderías.
+  hint: supieras (saber past-mood) · entenderías
+  rule_ref: L83#3, L83#13
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-052
+  type: sentence
+  tier: extended
+  front_en: They alt-said the same thing.
+  back_es: Hablase o hablara, es lo mismo.
+  hint: -ase = -ara · idiomatic recognize-only
+  rule_ref: L83#14
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-053
+  type: sentence
+  tier: extended
+  front_en: If we ate together, it would be better.
+  back_es: Si comiéramos juntos, sería mejor.
+  hint: comiéramos · sería (ser conditional)
+  rule_ref: L83#3, L83#6
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-054
+  type: sentence
+  tier: extended
+  front_en: If I were you, I wouldn't do it.
+  back_es: Si fuera tú, no lo haría.
+  hint: fuera (ser past-mood) · haría
+  rule_ref: L83#3, L83#4
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l81-051
+  type: sentence
+  tier: primary
+  front_en: I wanted you to organize.
+  back_es: Quería que organizaras.
+  hint: line-past want · -aras you
+  rule_ref: L81#11
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-052
+  type: sentence
+  tier: primary
+  front_en: It happens again.
+  back_es: Vuelve a pasar.
+  hint: vuelve a + happen-verb
+  rule_ref: L81#4, L81#7
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l81-053
+  type: sentence
+  tier: primary
+  front_en: I don't want it to occur.
+  back_es: No quiero que ocurra.
+  hint: ocurra = present mood of ocurrir
+  rule_ref: L81#1, L81#7
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l82-034
+  type: sentence
+  tier: primary
+  front_en: It's good that they come back.
+  back_es: Está bien que vuelvan.
+  hint: estar + bien + que → mood
+  rule_ref: L82#1
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l82-035
+  type: sentence
+  tier: primary
+  front_en: It was incredible.
+  back_es: Era increíble.
+  hint: era line-past
+  rule_ref: L82#3, L82#6
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l83-055
+  type: sentence
+  tier: primary
+  front_en: If you had been here, you would have seen it.
+  back_es: Si hubieras estado aquí, lo habrías visto.
+  hint: hubieras estado · habrías visto
+  rule_ref: L83#8, L83#9, L83#10
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-056
+  type: sentence
+  tier: primary
+  front_en: If we could, we would go.
+  back_es: Si pudiéramos, iríamos.
+  hint: pudiéramos · iríamos (ir conditional)
+  rule_ref: L83#3, L83#6, L83#7
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-057
+  type: sentence
+  tier: primary
+  front_en: That you came is incredible.
+  back_es: Que vinieras es increíble.
+  hint: que + past-mood you (venir → vinieras)
+  rule_ref: L83#1
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-058
+  type: sentence
+  tier: primary
+  front_en: I wouldn't do it.
+  back_es: No lo haría.
+  hint: conditional of hacer
+  rule_ref: L83#6
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l81-054
+  type: sentence
+  tier: extended
+  front_en: I needed you to call me again.
+  back_es: Necesitaba que me volvieras a llamar.
+  hint: que + past-mood + volver a + infinitive
+  rule_ref: L81#15, L81#16
+  lessons:
+  - 81
+  directions:
+  - en_es
+  - es_en
+- id: l82-036
+  type: sentence
+  tier: extended
+  front_en: It was important that he called us.
+  back_es: Era importante que nos llamara.
+  hint: era + que + past mood
+  rule_ref: L82#1, L82#3
+  lessons:
+  - 82
+  directions:
+  - en_es
+  - es_en
+- id: l83-059
+  type: sentence
+  tier: extended
+  front_en: If they had cancelled it, I would have gone.
+  back_es: Si lo hubieran cancelado, habría ido.
+  hint: hubieran cancelado · habría ido
+  rule_ref: L83#8, L83#9, L83#10
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en
+- id: l83-060
+  type: sentence
+  tier: extended
+  front_en: If I had cooked, you would have eaten.
+  back_es: Si hubiera cocinado, habrías comido.
+  hint: hubiera cocinado · habrías comido
+  rule_ref: L83#8, L83#9, L83#10
+  lessons:
+  - 83
+  directions:
+  - en_es
+  - es_en

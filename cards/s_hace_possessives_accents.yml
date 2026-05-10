@@ -1,0 +1,1785 @@
+bundle: S
+title: 'Hace + time, possessives, accents: -aste/-iste, -aron/-ieron, mi/tu/su, sí/si tú/tu'
+lessons:
+- 64
+- 65
+- 66
+- 67
+cards:
+- id: l64-001
+  type: transformation
+  tier: primary
+  front_en: ago (with time)
+  back_es: hace
+  hint: literally 'it makes' · sticks before time
+  rule_ref: L64#1
+  lessons:
+  - 64
+  directions:
+  - en_es
+  - es_en
+- id: l64-002
+  type: transformation
+  tier: primary
+  front_en: two weeks ago
+  back_es: hace dos semanas
+  hint: literally 'it makes X time' → ago
+  rule_ref: L64#1
+  lessons:
+  - 64
+  directions:
+  - en_es
+  - es_en
+- id: l64-003
+  type: transformation
+  tier: primary
+  front_en: a month ago
+  back_es: hace un mes
+  hint: mes is masculine → un
+  rule_ref: L64#1, L64#5
+  lessons:
+  - 64
+  directions:
+  - en_es
+  - es_en
+- id: l64-004
+  type: transformation
+  tier: primary
+  front_en: month
+  back_es: mes
+  hint: masculine · el mes / un mes
+  rule_ref: L64#5
+  lessons:
+  - 64
+  directions:
+  - en_es
+  - es_en
+- id: l64-005
+  type: transformation
+  tier: primary
+  front_en: last night
+  back_es: anoche
+  hint: not 'tonight' — that's *esta noche*
+  rule_ref: L64#10
+  lessons:
+  - 64
+  directions:
+  - en_es
+  - es_en
+- id: l64-006
+  type: transformation
+  tier: primary
+  front_en: to respond
+  back_es: responder
+  hint: -er verb
+  rule_ref: L64#3
+  lessons:
+  - 64
+  directions:
+  - en_es
+  - es_en
+- id: l64-007
+  type: transformation
+  tier: primary
+  front_en: discrimination
+  back_es: discriminación
+  hint: -tion → -ción · i not e
+  rule_ref: L64#1
+  lessons:
+  - 64
+  directions:
+  - en_es
+  - es_en
+- id: l64-008
+  type: conjugation
+  tier: primary
+  front_en: past-point you-informal form of hablar
+  back_es: hablaste
+  hint: -ar → -aste · s+t mark you-informal
+  rule_ref: L64#7
+  lessons:
+  - 64
+  directions:
+  - en_es
+- id: l64-009
+  type: conjugation
+  tier: primary
+  front_en: past-point you-informal form of esperar
+  back_es: esperaste
+  hint: -ar → -aste
+  rule_ref: L64#7
+  lessons:
+  - 64
+  directions:
+  - en_es
+- id: l64-010
+  type: conjugation
+  tier: primary
+  front_en: past-point you-informal form of llegar
+  back_es: llegaste
+  hint: -ar → -aste
+  rule_ref: L64#7
+  lessons:
+  - 64
+  directions:
+  - en_es
+- id: l64-011
+  type: conjugation
+  tier: primary
+  front_en: past-point you-informal form of comer
+  back_es: comiste
+  hint: -er → -iste · /i/-heavy past
+  rule_ref: L64#7, L64#12
+  lessons:
+  - 64
+  directions:
+  - en_es
+- id: l64-012
+  type: conjugation
+  tier: primary
+  front_en: past-point you-informal form of vivir
+  back_es: viviste
+  hint: -ir → -iste
+  rule_ref: L64#7
+  lessons:
+  - 64
+  directions:
+  - en_es
+- id: l64-013
+  type: conjugation
+  tier: primary
+  front_en: past-point you-informal form of salir
+  back_es: saliste
+  hint: -ir → -iste
+  rule_ref: L64#7
+  lessons:
+  - 64
+  directions:
+  - en_es
+- id: l64-014
+  type: conjugation
+  tier: primary
+  front_en: past-point you-informal form of vender
+  back_es: vendiste
+  hint: -er → -iste
+  rule_ref: L64#7
+  lessons:
+  - 64
+  directions:
+  - en_es
+- id: l64-015
+  type: conjugation
+  tier: primary
+  front_en: past-point they form of hablar
+  back_es: hablaron
+  hint: -ar → -aron
+  rule_ref: L64#8
+  lessons:
+  - 64
+  directions:
+  - en_es
+- id: l64-016
+  type: conjugation
+  tier: primary
+  front_en: past-point they form of esperar
+  back_es: esperaron
+  hint: -ar → -aron
+  rule_ref: L64#8
+  lessons:
+  - 64
+  directions:
+  - en_es
+- id: l64-017
+  type: conjugation
+  tier: primary
+  front_en: past-point they form of llegar
+  back_es: llegaron
+  hint: -ar → -aron
+  rule_ref: L64#8
+  lessons:
+  - 64
+  directions:
+  - en_es
+- id: l64-018
+  type: conjugation
+  tier: primary
+  front_en: past-point they form of comer
+  back_es: comieron
+  hint: -er → -ieron · the lone /e/ marks -er/-ir
+  rule_ref: L64#8, L64#13
+  lessons:
+  - 64
+  directions:
+  - en_es
+- id: l64-019
+  type: conjugation
+  tier: primary
+  front_en: past-point they form of salir
+  back_es: salieron
+  hint: -ir → -ieron
+  rule_ref: L64#8
+  lessons:
+  - 64
+  directions:
+  - en_es
+- id: l64-020
+  type: conjugation
+  tier: primary
+  front_en: past-point they form of vender
+  back_es: vendieron
+  hint: -er → -ieron
+  rule_ref: L64#8
+  lessons:
+  - 64
+  directions:
+  - en_es
+- id: l64-021
+  type: sentence
+  tier: primary
+  front_en: I saw him two weeks ago.
+  back_es: Lo vi hace dos semanas.
+  hint: hace phrase glues right onto sentence
+  rule_ref: L64#1, L64#2
+  lessons:
+  - 64
+  directions:
+  - en_es
+  - es_en
+- id: l64-022
+  type: sentence
+  tier: primary
+  front_en: I responded to her.
+  back_es: Le respondí.
+  hint: drop 'to' — Spanish uses *le*
+  rule_ref: L64#3
+  lessons:
+  - 64
+  directions:
+  - en_es
+  - es_en
+- id: l64-023
+  type: sentence
+  tier: primary
+  front_en: I responded it to her.
+  back_es: Se lo respondí.
+  hint: le + lo → se lo
+  rule_ref: L64#3, L64#4
+  lessons:
+  - 64
+  directions:
+  - en_es
+  - es_en
+- id: l64-024
+  type: sentence
+  tier: primary
+  front_en: I responded it to her a month ago.
+  back_es: Se lo respondí hace un mes.
+  hint: se lo + past + hace
+  rule_ref: L64#1, L64#4
+  lessons:
+  - 64
+  directions:
+  - en_es
+  - es_en
+- id: l64-025
+  type: sentence
+  tier: primary
+  front_en: Did you eat?
+  back_es: ¿Comiste?
+  hint: same sentence + question marks
+  rule_ref: L64#7, L64#9
+  lessons:
+  - 64
+  directions:
+  - en_es
+  - es_en
+- id: l64-026
+  type: sentence
+  tier: primary
+  front_en: Did you go out last night?
+  back_es: ¿Saliste anoche?
+  hint: -ir past + last-night word
+  rule_ref: L64#7, L64#10
+  lessons:
+  - 64
+  directions:
+  - en_es
+  - es_en
+- id: l64-027
+  type: sentence
+  tier: primary
+  front_en: Where did you live?
+  back_es: ¿Dónde viviste?
+  hint: closed-time → past-point
+  rule_ref: L64#7, L64#11
+  lessons:
+  - 64
+  directions:
+  - en_es
+  - es_en
+- id: l64-028
+  type: sentence
+  tier: primary
+  front_en: When did you arrive?
+  back_es: ¿Cuándo llegaste?
+  hint: -ar past + question word with accent
+  rule_ref: L64#7
+  lessons:
+  - 64
+  directions:
+  - en_es
+  - es_en
+- id: l65-001
+  type: transformation
+  tier: primary
+  front_en: nothing else
+  back_es: nada más
+  hint: nothing + more
+  rule_ref: L65#1
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-002
+  type: transformation
+  tier: primary
+  front_en: nobody else
+  back_es: nadie más
+  hint: nobody + more
+  rule_ref: L65#1
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-003
+  type: transformation
+  tier: primary
+  front_en: time / occasion
+  back_es: vez
+  hint: feminine · /bes/ in Spain
+  rule_ref: L65#5
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-004
+  type: transformation
+  tier: primary
+  front_en: once / one time
+  back_es: una vez
+  hint: feminine → una
+  rule_ref: L65#6
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-005
+  type: transformation
+  tier: primary
+  front_en: again / another time
+  back_es: otra vez
+  hint: 'no *una*: just *otra*'
+  rule_ref: L65#6, L65#8
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-006
+  type: transformation
+  tier: primary
+  front_en: at the same time
+  back_es: a la vez
+  hint: literally 'at the time'
+  rule_ref: L65#19
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-007
+  type: transformation
+  tier: primary
+  front_en: at what time?
+  back_es: ¿a qué hora?
+  hint: hour-word, not occasion-word
+  rule_ref: L65#18
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-008
+  type: transformation
+  tier: primary
+  front_en: my (sg)
+  back_es: mi
+  hint: no accent · agrees only with thing
+  rule_ref: L65#12, L65#14
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-009
+  type: transformation
+  tier: primary
+  front_en: your (informal sg)
+  back_es: tu
+  hint: no accent · vs *tú* (you)
+  rule_ref: L65#12, L65#14
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-010
+  type: transformation
+  tier: primary
+  front_en: his / her / their / your-formal (sg)
+  back_es: su
+  hint: one word, four owners
+  rule_ref: L65#12
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-011
+  type: transformation
+  tier: primary
+  front_en: our (masc sg)
+  back_es: nuestro
+  hint: -o for masc thing
+  rule_ref: L65#12, L65#14
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-012
+  type: transformation
+  tier: primary
+  front_en: our (fem sg)
+  back_es: nuestra
+  hint: -a for fem thing
+  rule_ref: L65#14
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-013
+  type: transformation
+  tier: primary
+  front_en: my (pl)
+  back_es: mis
+  hint: thing is plural → +s
+  rule_ref: L65#13, L65#14
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-014
+  type: transformation
+  tier: primary
+  front_en: their (pl thing)
+  back_es: sus
+  hint: thing is plural · NOT because owners are many
+  rule_ref: L65#15
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-015
+  type: transformation
+  tier: primary
+  front_en: own (masc sg)
+  back_es: propio
+  hint: cousin of 'property' · agrees with thing
+  rule_ref: L65#16
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-016
+  type: transformation
+  tier: primary
+  front_en: everybody / everyone
+  back_es: todos
+  hint: literally 'all' (plural)
+  rule_ref: L65#20
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-017
+  type: conjugation
+  tier: primary
+  front_en: past-point I form of ver
+  back_es: vi
+  hint: ver is short — no accent
+  rule_ref: L65#4
+  lessons:
+  - 65
+  directions:
+  - en_es
+- id: l65-018
+  type: conjugation
+  tier: primary
+  front_en: past-point she form of ver
+  back_es: vio
+  hint: short form · no accent
+  rule_ref: L65#4
+  lessons:
+  - 65
+  directions:
+  - en_es
+- id: l65-019
+  type: conjugation
+  tier: primary
+  front_en: past-point you-informal form of ver
+  back_es: viste
+  hint: -iste with no extra vowel
+  rule_ref: L65#4
+  lessons:
+  - 65
+  directions:
+  - en_es
+- id: l65-020
+  type: conjugation
+  tier: primary
+  front_en: past-point they form of ver
+  back_es: vieron
+  hint: stress on /e/ · short form, no accent
+  rule_ref: L65#4
+  lessons:
+  - 65
+  directions:
+  - en_es
+- id: l65-021
+  type: sentence
+  tier: primary
+  front_en: I didn't eat anything else.
+  back_es: No comí nada más.
+  hint: double negative is normal
+  rule_ref: L65#1, L65#2
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-022
+  type: sentence
+  tier: primary
+  front_en: I want to see them again.
+  back_es: Quiero verlos otra vez.
+  hint: object glued onto 'to' form · again
+  rule_ref: L65#6, L65#8
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-023
+  type: sentence
+  tier: primary
+  front_en: My house is your house.
+  back_es: Mi casa es tu casa.
+  hint: my + your (no accents on possessives)
+  rule_ref: L65#12, L65#17
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-024
+  type: sentence
+  tier: primary
+  front_en: I want to go to their house.
+  back_es: Quiero ir a su casa.
+  hint: thing is sg → su (not sus)
+  rule_ref: L65#15
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-025
+  type: sentence
+  tier: primary
+  front_en: I want to go to their houses.
+  back_es: Quiero ir a sus casas.
+  hint: thing is pl → sus
+  rule_ref: L65#15
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-026
+  type: sentence
+  tier: primary
+  front_en: I saw it with my own eyes.
+  back_es: Lo vi con mis propios ojos.
+  hint: pl thing → mis propios
+  rule_ref: L65#16, L65#4
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-027
+  type: sentence
+  tier: primary
+  front_en: I want to live in my own house.
+  back_es: Quiero vivir en mi propia casa.
+  hint: own + fem thing
+  rule_ref: L65#16
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l66-001
+  type: transformation
+  tier: primary
+  front_en: to hurt
+  back_es: doler
+  hint: o-splits to ue in present
+  rule_ref: L66#3
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-002
+  type: transformation
+  tier: primary
+  front_en: it hurts
+  back_es: duele
+  hint: o → ue split
+  rule_ref: L66#3
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-003
+  type: transformation
+  tier: primary
+  front_en: it hurts me
+  back_es: me duele
+  hint: indirect-style · 'me' carries the owner
+  rule_ref: L66#1, L66#3
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-004
+  type: transformation
+  tier: primary
+  front_en: pain (noun)
+  back_es: dolor
+  hint: noun form of *doler*
+  rule_ref: L66#5
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-005
+  type: transformation
+  tier: primary
+  front_en: leg
+  back_es: pierna
+  hint: feminine · la ...
+  rule_ref: L66#2
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-006
+  type: transformation
+  tier: primary
+  front_en: head
+  back_es: cabeza
+  hint: feminine · la ...
+  rule_ref: L66#5
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-007
+  type: transformation
+  tier: primary
+  front_en: headache
+  back_es: dolor de cabeza
+  hint: literally 'pain of head'
+  rule_ref: L66#5
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-008
+  type: transformation
+  tier: primary
+  front_en: party (celebration)
+  back_es: fiesta
+  hint: feminine
+  rule_ref: L66#7
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-009
+  type: transformation
+  tier: primary
+  front_en: only / just
+  back_es: solo
+  hint: place after for emphasis
+  rule_ref: L66#8
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-010
+  type: sentence
+  tier: primary
+  front_en: My leg hurts.
+  back_es: Me duele la pierna.
+  hint: skip possessive · use *me* + *la*
+  rule_ref: L66#1, L66#2
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-011
+  type: sentence
+  tier: primary
+  front_en: My head hurts.
+  back_es: Me duele la cabeza.
+  hint: body part takes 'the', not 'my'
+  rule_ref: L66#1, L66#2
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-012
+  type: sentence
+  tier: primary
+  front_en: My leg doesn't hurt anymore.
+  back_es: No me duele la pierna más.
+  hint: anymore = más (with negation)
+  rule_ref: L66#4
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-013
+  type: sentence
+  tier: primary
+  front_en: My head doesn't hurt anymore.
+  back_es: No me duele la cabeza más.
+  hint: more = anymore in negative
+  rule_ref: L66#4
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-014
+  type: sentence
+  tier: primary
+  front_en: I have a headache.
+  back_es: Tengo dolor de cabeza.
+  hint: tener + dolor de + body part
+  rule_ref: L66#6
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-015
+  type: sentence
+  tier: primary
+  front_en: I had a headache. (line)
+  back_es: Tenía dolor de cabeza.
+  hint: line-past 'I had'
+  rule_ref: L66#6
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-016
+  type: sentence
+  tier: primary
+  front_en: My head was hurting. (line)
+  back_es: Me dolía la cabeza.
+  hint: line-past of *duele*
+  rule_ref: L66#6
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-017
+  type: sentence
+  tier: primary
+  front_en: José's house
+  back_es: la casa de José
+  hint: X's Y → the Y of X
+  rule_ref: L66#7
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-018
+  type: sentence
+  tier: primary
+  front_en: We're going to José's house.
+  back_es: Vamos a la casa de José.
+  hint: a + the-Y-of-X
+  rule_ref: L66#7
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-019
+  type: sentence
+  tier: primary
+  front_en: We're going to María's party.
+  back_es: Vamos a la fiesta de María.
+  hint: 'X''s party: the party of X'
+  rule_ref: L66#7
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-020
+  type: sentence
+  tier: primary
+  front_en: I only spoke with you.
+  back_es: Solo hablé contigo.
+  hint: solo + I-past · with-you = contigo
+  rule_ref: L66#8
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-021
+  type: sentence
+  tier: primary
+  front_en: I spoke only with you. (emphatic)
+  back_es: Hablé contigo solo.
+  hint: solo at end → emphasis
+  rule_ref: L66#8
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-022
+  type: sentence
+  tier: primary
+  front_en: I didn't speak with anybody else at María's party.
+  back_es: No hablé con nadie más en la fiesta de María.
+  hint: double negative + the-party-of
+  rule_ref: L66#9, L66#7
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l67-001
+  type: transformation
+  tier: primary
+  front_en: yes (vs *if*)
+  back_es: sí
+  hint: accent disambiguates from *si*
+  rule_ref: L67#9
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-002
+  type: transformation
+  tier: primary
+  front_en: if (no accent)
+  back_es: si
+  hint: no accent · contrast with *sí*
+  rule_ref: L67#9
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-003
+  type: transformation
+  tier: primary
+  front_en: you (subject, with accent)
+  back_es: tú
+  hint: accent · subject pronoun
+  rule_ref: L67#9
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-004
+  type: transformation
+  tier: primary
+  front_en: your (informal, no accent)
+  back_es: tu
+  hint: no accent · agrees with thing
+  rule_ref: L67#9
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-005
+  type: transformation
+  tier: primary
+  front_en: me (after preposition)
+  back_es: mí
+  hint: accent · use after *para, por, de*
+  rule_ref: L67#9
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-006
+  type: transformation
+  tier: primary
+  front_en: my (no accent)
+  back_es: mi
+  hint: no accent · sits before thing
+  rule_ref: L67#9
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-007
+  type: transformation
+  tier: primary
+  front_en: I know (with accent)
+  back_es: sé
+  hint: accent · vs *se* (himself / le→se)
+  rule_ref: L67#9
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-008
+  type: transformation
+  tier: primary
+  front_en: himself / herself (no accent)
+  back_es: se
+  hint: no accent · also from le → se
+  rule_ref: L67#9
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-009
+  type: transformation
+  tier: primary
+  front_en: where? (question)
+  back_es: dónde
+  hint: accent marks the question word
+  rule_ref: L67#10
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-010
+  type: transformation
+  tier: primary
+  front_en: where (non-question)
+  back_es: donde
+  hint: no accent in non-question
+  rule_ref: L67#10
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-011
+  type: transformation
+  tier: primary
+  front_en: how? (question)
+  back_es: cómo
+  hint: accent in question
+  rule_ref: L67#10
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-012
+  type: transformation
+  tier: primary
+  front_en: how / like (non-question)
+  back_es: como
+  hint: no accent in non-question
+  rule_ref: L67#10
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-013
+  type: transformation
+  tier: primary
+  front_en: when? (question)
+  back_es: cuándo
+  hint: accent in question
+  rule_ref: L67#10
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-014
+  type: transformation
+  tier: primary
+  front_en: when (non-question)
+  back_es: cuando
+  hint: no accent in non-question
+  rule_ref: L67#10
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-015
+  type: transformation
+  tier: primary
+  front_en: how much? (question)
+  back_es: cuánto
+  hint: accent in question
+  rule_ref: L67#10
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-016
+  type: transformation
+  tier: primary
+  front_en: as much as (non-question)
+  back_es: cuanto
+  hint: no accent in non-question
+  rule_ref: L67#10
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-017
+  type: transformation
+  tier: primary
+  front_en: tradition
+  back_es: tradición
+  hint: ends in n but stress at end → accent
+  rule_ref: L67#7
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-018
+  type: transformation
+  tier: primary
+  front_en: division
+  back_es: división
+  hint: ends in n, stress at end → accent
+  rule_ref: L67#7
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-019
+  type: transformation
+  tier: primary
+  front_en: lesson
+  back_es: lección
+  hint: ends in n, stress at end → accent
+  rule_ref: L67#7
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-020
+  type: transformation
+  tier: primary
+  front_en: lemon
+  back_es: limón
+  hint: Persian-origin · ends in n, stress at end
+  rule_ref: L67#7
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-021
+  type: transformation
+  tier: primary
+  front_en: to find (infinitive)
+  back_es: encontrar
+  hint: ends in r, stress at end → no accent
+  rule_ref: L67#5
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-022
+  type: transformation
+  tier: primary
+  front_en: addictive
+  back_es: adictivo
+  hint: ends in vowel, stress on 2nd-last → no accent
+  rule_ref: L67#3
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-023
+  type: sentence
+  tier: primary
+  front_en: It's for me. (with accent)
+  back_es: Es para mí.
+  hint: after prep → mí takes accent
+  rule_ref: L67#9
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-024
+  type: sentence
+  tier: primary
+  front_en: My house.
+  back_es: Mi casa.
+  hint: my-word takes no accent
+  rule_ref: L67#9
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-025
+  type: sentence
+  tier: primary
+  front_en: Your house.
+  back_es: Tu casa.
+  hint: your-word takes no accent
+  rule_ref: L67#9
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-026
+  type: sentence
+  tier: primary
+  front_en: Yes, I want it.
+  back_es: Sí lo quiero.
+  hint: yes-word takes accent · vs *si* (if)
+  rule_ref: L67#9
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-027
+  type: sentence
+  tier: primary
+  front_en: If I want it…
+  back_es: Si lo quiero…
+  hint: if-word takes no accent
+  rule_ref: L67#9
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-028
+  type: sentence
+  tier: primary
+  front_en: Where did he respond?
+  back_es: ¿Dónde respondió?
+  hint: question word + -ió (stress accent)
+  rule_ref: L67#10, L67#7
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l64-029
+  type: transformation
+  tier: extended
+  front_en: three weeks ago
+  back_es: hace tres semanas
+  hint: hace + count + time
+  rule_ref: L64#1
+  lessons:
+  - 64
+  directions:
+  - en_es
+  - es_en
+- id: l64-030
+  type: transformation
+  tier: extended
+  front_en: five months ago
+  back_es: hace cinco meses
+  hint: meses pl · masculine
+  rule_ref: L64#1, L64#5
+  lessons:
+  - 64
+  directions:
+  - en_es
+  - es_en
+- id: l64-031
+  type: transformation
+  tier: extended
+  front_en: a week ago
+  back_es: hace una semana
+  hint: semana is feminine → una
+  rule_ref: L64#1
+  lessons:
+  - 64
+  directions:
+  - en_es
+  - es_en
+- id: l64-032
+  type: conjugation
+  tier: extended
+  front_en: past-point you-informal form of trabajar
+  back_es: trabajaste
+  hint: -ar → -aste · /j/ = /h/
+  rule_ref: L64#7
+  lessons:
+  - 64
+  directions:
+  - en_es
+- id: l64-033
+  type: conjugation
+  tier: extended
+  front_en: past-point they form of trabajar
+  back_es: trabajaron
+  hint: -ar → -aron
+  rule_ref: L64#8
+  lessons:
+  - 64
+  directions:
+  - en_es
+- id: l64-034
+  type: conjugation
+  tier: extended
+  front_en: past-point you-informal form of preparar
+  back_es: preparaste
+  hint: -ar → -aste
+  rule_ref: L64#7
+  lessons:
+  - 64
+  directions:
+  - en_es
+- id: l64-035
+  type: conjugation
+  tier: extended
+  front_en: past-point they form of vivir
+  back_es: vivieron
+  hint: -ir → -ieron
+  rule_ref: L64#8
+  lessons:
+  - 64
+  directions:
+  - en_es
+- id: l64-036
+  type: sentence
+  tier: extended
+  front_en: I saw her three weeks ago.
+  back_es: La vi hace tres semanas.
+  hint: feminine object + hace
+  rule_ref: L64#1, L64#2
+  lessons:
+  - 64
+  directions:
+  - en_es
+  - es_en
+- id: l64-037
+  type: sentence
+  tier: extended
+  front_en: They sold the car five months ago.
+  back_es: Vendieron el auto hace cinco meses.
+  hint: -ieron + masc time
+  rule_ref: L64#8, L64#1
+  lessons:
+  - 64
+  directions:
+  - en_es
+  - es_en
+- id: l64-038
+  type: sentence
+  tier: extended
+  front_en: Did you respond to her last night?
+  back_es: ¿Le respondiste anoche?
+  hint: le + you-informal -iste + last-night
+  rule_ref: L64#3, L64#7, L64#10
+  lessons:
+  - 64
+  directions:
+  - en_es
+  - es_en
+- id: l64-039
+  type: sentence
+  tier: extended
+  front_en: Why didn't you wait for me?
+  back_es: ¿Por qué no me esperaste?
+  hint: por qué + no + you-informal past
+  rule_ref: L64#7
+  lessons:
+  - 64
+  directions:
+  - en_es
+  - es_en
+- id: l64-040
+  type: sentence
+  tier: extended
+  front_en: They prepared it.
+  back_es: Lo prepararon.
+  hint: object pronoun + -aron
+  rule_ref: L64#8
+  lessons:
+  - 64
+  directions:
+  - en_es
+  - es_en
+- id: l65-028
+  type: conjugation
+  tier: extended
+  front_en: past-point we form of ver
+  back_es: vimos
+  hint: -imos · short stem
+  rule_ref: L65#4
+  lessons:
+  - 65
+  directions:
+  - en_es
+- id: l65-029
+  type: conjugation
+  tier: extended
+  front_en: past-point I form of encontrar
+  back_es: encontré
+  hint: -é (accent) for I
+  rule_ref: L65#21
+  lessons:
+  - 65
+  directions:
+  - en_es
+- id: l65-030
+  type: sentence
+  tier: extended
+  front_en: I saw him once.
+  back_es: Lo vi una vez.
+  hint: object + I-past + occasion count
+  rule_ref: L65#4, L65#6
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-031
+  type: sentence
+  tier: extended
+  front_en: I want to see them one more time.
+  back_es: Quiero verlos una vez más.
+  hint: object glued onto 'to' form
+  rule_ref: L65#6
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-032
+  type: sentence
+  tier: extended
+  front_en: Did you go out to dance again?
+  back_es: ¿Saliste a bailar otra vez?
+  hint: motion verb + a + 'to' form
+  rule_ref: L65#9
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-033
+  type: sentence
+  tier: extended
+  front_en: Did you arrive late again?
+  back_es: ¿Llegaste tarde otra vez?
+  hint: -ar past you-informal + again
+  rule_ref: L65#6
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-034
+  type: sentence
+  tier: extended
+  front_en: Everybody arrived at my house at the same time.
+  back_es: Todos llegaron a mi casa a la vez.
+  hint: everybody + they-past + at-the-time
+  rule_ref: L65#20, L65#19
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-035
+  type: sentence
+  tier: extended
+  front_en: Did you visit our house?
+  back_es: ¿Visitaste nuestra casa?
+  hint: tu-past + our-fem-sg
+  rule_ref: L65#14
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-036
+  type: sentence
+  tier: extended
+  front_en: We are with our friends. (fem)
+  back_es: Estamos con nuestras amigas.
+  hint: our-fem-pl
+  rule_ref: L65#14
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-037
+  type: sentence
+  tier: extended
+  front_en: I am with my friends.
+  back_es: Estoy con mis amigos.
+  hint: my-pl thing
+  rule_ref: L65#13
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l65-038
+  type: sentence
+  tier: extended
+  front_en: She arrived late at my house again.
+  back_es: Llegó tarde a mi casa otra vez.
+  hint: she-form past + my-thing + again
+  rule_ref: L65#12, L65#6
+  lessons:
+  - 65
+  directions:
+  - en_es
+  - es_en
+- id: l66-023
+  type: sentence
+  tier: extended
+  front_en: His leg hurts.
+  back_es: Le duele la pierna.
+  hint: le carries the owner · skip *su*
+  rule_ref: L66#1, L66#2
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-024
+  type: sentence
+  tier: extended
+  front_en: Your head hurts.
+  back_es: Te duele la cabeza.
+  hint: te carries the owner · skip *tu*
+  rule_ref: L66#1, L66#2
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-025
+  type: sentence
+  tier: extended
+  front_en: My eyes hurt.
+  back_es: Me duelen los ojos.
+  hint: plural body part → -en
+  rule_ref: L66#1, L66#3
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-026
+  type: sentence
+  tier: extended
+  front_en: I had a headache last night.
+  back_es: Tenía dolor de cabeza anoche.
+  hint: line-past + last-night
+  rule_ref: L66#6
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-027
+  type: sentence
+  tier: extended
+  front_en: We're going to María's house.
+  back_es: Vamos a la casa de María.
+  hint: the-Y-of-X
+  rule_ref: L66#7
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-028
+  type: sentence
+  tier: extended
+  front_en: At José's party I only spoke with you.
+  back_es: En la fiesta de José solo hablé contigo.
+  hint: X's party → the-party-of-X · solo+I-past
+  rule_ref: L66#7, L66#8
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-029
+  type: sentence
+  tier: extended
+  front_en: I didn't speak with anybody else.
+  back_es: No hablé con nadie más.
+  hint: double negative
+  rule_ref: L66#9
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-030
+  type: sentence
+  tier: extended
+  front_en: They only arrived at our house.
+  back_es: Solo llegaron a nuestra casa.
+  hint: solo + they-past + our-fem-sg
+  rule_ref: L66#8
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-031
+  type: sentence
+  tier: extended
+  front_en: Does your head hurt?
+  back_es: ¿Te duele la cabeza?
+  hint: question marks + te-duele
+  rule_ref: L66#1
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l66-032
+  type: sentence
+  tier: extended
+  front_en: Her leg doesn't hurt anymore.
+  back_es: No le duele la pierna más.
+  hint: le + doesn't-hurt + anymore
+  rule_ref: L66#1, L66#4
+  lessons:
+  - 66
+  directions:
+  - en_es
+  - es_en
+- id: l67-029
+  type: sentence
+  tier: extended
+  front_en: For me, it's important.
+  back_es: Para mí, es importante.
+  hint: prep + accented mí
+  rule_ref: L67#9
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-030
+  type: sentence
+  tier: extended
+  front_en: I know where he lives.
+  back_es: Sé dónde vive.
+  hint: I-know (accent) + question-like word (accent)
+  rule_ref: L67#9, L67#10
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-031
+  type: sentence
+  tier: extended
+  front_en: He lived there.
+  back_es: Vivió allí.
+  hint: -ió ends in vowel + stress at end → accent
+  rule_ref: L67#7
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-032
+  type: sentence
+  tier: extended
+  front_en: She arrived late.
+  back_es: Llegó tarde.
+  hint: -ó stress at end → written accent
+  rule_ref: L67#7
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-033
+  type: sentence
+  tier: extended
+  front_en: I spoke yesterday.
+  back_es: Hablé ayer.
+  hint: -é · ends in vowel + stress at end → accent
+  rule_ref: L67#7
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-034
+  type: sentence
+  tier: extended
+  front_en: She found it.
+  back_es: Lo encontró.
+  hint: -ó stressed end → accent
+  rule_ref: L67#7
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-035
+  type: sentence
+  tier: extended
+  front_en: How is she?
+  back_es: ¿Cómo está?
+  hint: question word accent + está (broken-rule)
+  rule_ref: L67#10, L67#12
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-036
+  type: sentence
+  tier: extended
+  front_en: When did they arrive?
+  back_es: ¿Cuándo llegaron?
+  hint: question word accent + they-past
+  rule_ref: L67#10
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-037
+  type: sentence
+  tier: extended
+  front_en: How much do you want?
+  back_es: ¿Cuánto quieres?
+  hint: question word accent
+  rule_ref: L67#10
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-038
+  type: transformation
+  tier: extended
+  front_en: concentration
+  back_es: concentración
+  hint: -ción · ends in n, stress at end → accent
+  rule_ref: L67#2, L67#7
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-039
+  type: sentence
+  tier: extended
+  front_en: I know it.
+  back_es: Lo sé.
+  hint: I-know form takes accent · vs *se*
+  rule_ref: L67#9
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en
+- id: l67-040
+  type: sentence
+  tier: extended
+  front_en: He responded it to her. (le + lo → se lo)
+  back_es: Se lo respondió.
+  hint: no accent on se-word · le→se
+  rule_ref: L67#9
+  lessons:
+  - 67
+  directions:
+  - en_es
+  - es_en

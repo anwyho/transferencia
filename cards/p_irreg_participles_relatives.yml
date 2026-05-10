@@ -1,0 +1,1821 @@
+bundle: P
+title: 'Irregular participles + relatives + -emos/-imos: roto, dicho, hecho, que/cual/quien'
+lessons:
+- 54
+- 55
+- 56
+- 57
+cards:
+- id: l54-001
+  type: transformation
+  tier: primary
+  front_en: closed (m sg, adjective)
+  back_es: cerrado
+  hint: -ar verb → -ado · agrees like adj
+  rule_ref: L54#1, L54#15
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-002
+  type: transformation
+  tier: primary
+  front_en: closed (f sg)
+  back_es: cerrada
+  hint: -ado → -ada for fem
+  rule_ref: L54#3
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-003
+  type: transformation
+  tier: primary
+  front_en: closed (m pl)
+  back_es: cerrados
+  hint: agrees like adj · plural -s
+  rule_ref: L54#3
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-004
+  type: transformation
+  tier: primary
+  front_en: closed (f pl)
+  back_es: cerradas
+  hint: -ada + s
+  rule_ref: L54#3
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-005
+  type: transformation
+  tier: primary
+  front_en: wet (m sg)
+  back_es: mojado
+  hint: -ar → -ado
+  rule_ref: L54#15
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-006
+  type: transformation
+  tier: primary
+  front_en: wet (f sg)
+  back_es: mojada
+  hint: agrees with fem noun
+  rule_ref: L54#3
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-007
+  type: transformation
+  tier: primary
+  front_en: the door
+  back_es: la puerta
+  hint: feminine
+  rule_ref: L54#7
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-008
+  type: transformation
+  tier: primary
+  front_en: the chair
+  back_es: la silla
+  hint: feminine · double-l = /y/
+  rule_ref: L54#11
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-009
+  type: transformation
+  tier: primary
+  front_en: the movie
+  back_es: la película
+  hint: feminine · stress on -LÍ-
+  rule_ref: L54#18
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-010
+  type: transformation
+  tier: primary
+  front_en: the idea
+  back_es: la idea
+  hint: feminine
+  rule_ref: L54#17
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-011
+  type: transformation
+  tier: primary
+  front_en: a person (always fem)
+  back_es: una persona
+  hint: word is fem even for a man
+  rule_ref: L54#9
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-012
+  type: sentence
+  tier: primary
+  front_en: It is closed. (the door)
+  back_es: Está cerrada.
+  hint: estar + state · fem agreement
+  rule_ref: L54#4, L54#7
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-013
+  type: sentence
+  tier: primary
+  front_en: It is closed. (m)
+  back_es: Está cerrado.
+  hint: estar — never ser for state
+  rule_ref: L54#4
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-014
+  type: sentence
+  tier: primary
+  front_en: The door is closed.
+  back_es: La puerta está cerrada.
+  hint: state → estar
+  rule_ref: L54#4, L54#7
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-015
+  type: sentence
+  tier: primary
+  front_en: I am lost. (m)
+  back_es: Estoy perdido.
+  hint: estar + state
+  rule_ref: L54#4
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-016
+  type: sentence
+  tier: primary
+  front_en: I am lost. (f)
+  back_es: Estoy perdida.
+  hint: agrees with fem speaker
+  rule_ref: L54#3, L54#4
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-017
+  type: sentence
+  tier: primary
+  front_en: She is lost.
+  back_es: Está perdida.
+  hint: state → estar · fem
+  rule_ref: L54#4, L54#3
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-018
+  type: sentence
+  tier: primary
+  front_en: They are sold. (houses)
+  back_es: Están vendidas.
+  hint: -er → -ido · fem pl
+  rule_ref: L54#16
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-019
+  type: sentence
+  tier: primary
+  front_en: They are sold. (m)
+  back_es: Están vendidos.
+  hint: state → estar · m pl
+  rule_ref: L54#16
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-020
+  type: sentence
+  tier: primary
+  front_en: It is finished. (m)
+  back_es: Está terminado.
+  hint: estar + state
+  rule_ref: L54#4
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-021
+  type: sentence
+  tier: primary
+  front_en: The movie is finished.
+  back_es: La película está terminada.
+  hint: fem agreement
+  rule_ref: L54#4, L54#18
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-022
+  type: sentence
+  tier: primary
+  front_en: I am tired. (f)
+  back_es: Estoy cansada.
+  hint: estar + state · fem speaker
+  rule_ref: L54#4, L54#13
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-023
+  type: sentence
+  tier: primary
+  front_en: She is a closed person.
+  back_es: Es una persona cerrada.
+  hint: noun dominates → ser
+  rule_ref: L54#8, L54#11
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-024
+  type: sentence
+  tier: primary
+  front_en: He is a lost person.
+  back_es: Es una persona perdida.
+  hint: persona is fem · ser (naming)
+  rule_ref: L54#8, L54#9
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-025
+  type: sentence
+  tier: primary
+  front_en: It is a wet chair.
+  back_es: Es una silla mojada.
+  hint: naming → ser even with adj
+  rule_ref: L54#11
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-026
+  type: sentence
+  tier: primary
+  front_en: The chair is wet.
+  back_es: La silla está mojada.
+  hint: state → estar
+  rule_ref: L54#12
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-027
+  type: transformation
+  tier: extended
+  front_en: lost (m sg)
+  back_es: perdido
+  hint: -er → -ido
+  rule_ref: L54#15
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-028
+  type: transformation
+  tier: extended
+  front_en: sold (f sg)
+  back_es: vendida
+  hint: -er → -ido → fem -ida
+  rule_ref: L54#15, L54#3
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-029
+  type: transformation
+  tier: extended
+  front_en: finished (f pl)
+  back_es: terminadas
+  hint: -ar → -ada → -adas
+  rule_ref: L54#3
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-030
+  type: sentence
+  tier: extended
+  front_en: He is closed to the idea.
+  back_es: Está cerrado a la idea.
+  hint: cerrado a + thing
+  rule_ref: L54#17
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-031
+  type: sentence
+  tier: extended
+  front_en: The doors are closed.
+  back_es: Las puertas están cerradas.
+  hint: fem pl agreement
+  rule_ref: L54#3, L54#4
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-032
+  type: sentence
+  tier: extended
+  front_en: The chairs are wet.
+  back_es: Las sillas están mojadas.
+  hint: state → estar · fem pl
+  rule_ref: L54#12
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-033
+  type: sentence
+  tier: extended
+  front_en: I have gotten tired.
+  back_es: Me he cansado.
+  hint: reflexive + haber · part doesn't agree
+  rule_ref: L54#13, L54#2
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-034
+  type: sentence
+  tier: extended
+  front_en: I would like to have gone.
+  back_es: Me gustaría haber ido.
+  hint: haber + part (ir → ido)
+  rule_ref: L54#5
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-035
+  type: sentence
+  tier: extended
+  front_en: The idea is lost.
+  back_es: La idea está perdida.
+  hint: state → estar · fem
+  rule_ref: L54#4, L54#17
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l54-036
+  type: sentence
+  tier: extended
+  front_en: It's a wet door.
+  back_es: Es una puerta mojada.
+  hint: naming → ser
+  rule_ref: L54#11
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: l55-001
+  type: transformation
+  tier: primary
+  front_en: broken (irregular participle of romper)
+  back_es: roto
+  hint: irregular -to ending
+  rule_ref: L55#10
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-002
+  type: transformation
+  tier: primary
+  front_en: said / told (irregular participle of decir)
+  back_es: dicho
+  hint: irregular -cho ending
+  rule_ref: L55#10, L55#16
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-003
+  type: transformation
+  tier: primary
+  front_en: done / made (irregular participle of hacer)
+  back_es: hecho
+  hint: irregular -cho · pair with dicho
+  rule_ref: L55#10, L55#16
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-004
+  type: transformation
+  tier: primary
+  front_en: opened / open (irregular participle of abrir)
+  back_es: abierto
+  hint: irregular -to · /ie/ break
+  rule_ref: L55#10
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-005
+  type: transformation
+  tier: primary
+  front_en: dead (irregular participle of morir)
+  back_es: muerto
+  hint: irregular -to · /ue/ break
+  rule_ref: L55#10
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-006
+  type: transformation
+  tier: primary
+  front_en: to open
+  back_es: abrir
+  hint: -ir verb
+  rule_ref: L55#10
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-007
+  type: transformation
+  tier: primary
+  front_en: to die
+  back_es: morir
+  hint: -ir verb
+  rule_ref: L55#10
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-008
+  type: transformation
+  tier: primary
+  front_en: to cancel
+  back_es: cancelar
+  hint: -ar verb · cognate
+  rule_ref: L55#1
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-009
+  type: transformation
+  tier: primary
+  front_en: cancelled (m)
+  back_es: cancelado
+  hint: -ar → -ado
+  rule_ref: L55#2
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-010
+  type: transformation
+  tier: primary
+  front_en: complicated (m)
+  back_es: complicado
+  hint: -ar → -ado · cognate
+  rule_ref: L55#5
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-011
+  type: transformation
+  tier: primary
+  front_en: I should (would-form of deber)
+  back_es: debería
+  hint: would-form · -ería
+  rule_ref: L55#6
+  lessons:
+  - 55
+  directions:
+  - en_es
+- id: l55-012
+  type: transformation
+  tier: primary
+  front_en: you should (informal, would-form of deber)
+  back_es: deberías
+  hint: tú form · would
+  rule_ref: L55#6
+  lessons:
+  - 55
+  directions:
+  - en_es
+- id: l55-013
+  type: sentence
+  tier: primary
+  front_en: I have broken them.
+  back_es: Los he roto.
+  hint: part doesn't agree after haber
+  rule_ref: L54#2, L55#10
+  lessons:
+  - 54
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-014
+  type: sentence
+  tier: primary
+  front_en: It has broken.
+  back_es: Se ha roto.
+  hint: se ha + part = it became X
+  rule_ref: L55#4
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-015
+  type: sentence
+  tier: primary
+  front_en: It is broken. (m)
+  back_es: Está roto.
+  hint: estar + state · irreg part as adj
+  rule_ref: L55#11
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-016
+  type: sentence
+  tier: primary
+  front_en: It is broken. (f)
+  back_es: Está rota.
+  hint: irreg part agrees as adj
+  rule_ref: L55#11
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-017
+  type: sentence
+  tier: primary
+  front_en: They are open.
+  back_es: Están abiertos.
+  hint: irreg part agrees · m pl
+  rule_ref: L55#11
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-018
+  type: sentence
+  tier: primary
+  front_en: I have opened it.
+  back_es: Lo he abierto.
+  hint: lo + haber + irreg part
+  rule_ref: L55#10
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-019
+  type: sentence
+  tier: primary
+  front_en: I have said it.
+  back_es: Lo he dicho.
+  hint: lo + haber + irreg part
+  rule_ref: L55#10
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-020
+  type: sentence
+  tier: primary
+  front_en: I have told him.
+  back_es: Le he dicho.
+  hint: le = to him/her
+  rule_ref: L55#10
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-021
+  type: sentence
+  tier: primary
+  front_en: I have done it.
+  back_es: Lo he hecho.
+  hint: lo + haber + irreg part
+  rule_ref: L55#10
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-022
+  type: sentence
+  tier: primary
+  front_en: It is done.
+  back_es: Está hecho.
+  hint: estar + irreg part as adj
+  rule_ref: L55#11
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-023
+  type: sentence
+  tier: primary
+  front_en: Made in Spain.
+  back_es: Hecho en España.
+  hint: idiom · part as adj
+  rule_ref: L55#11
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-024
+  type: sentence
+  tier: primary
+  front_en: He has died.
+  back_es: Ha muerto.
+  hint: haber + irreg part
+  rule_ref: L55#10, L55#15
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-025
+  type: sentence
+  tier: primary
+  front_en: He is dead.
+  back_es: Está muerto.
+  hint: muerto only with estar
+  rule_ref: L55#12
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-026
+  type: sentence
+  tier: primary
+  front_en: I have cancelled.
+  back_es: He cancelado.
+  hint: haber + -ado
+  rule_ref: L55#1
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-027
+  type: transformation
+  tier: extended
+  front_en: she/he could (would-form of poder)
+  back_es: podría
+  hint: would-form
+  rule_ref: L55#7
+  lessons:
+  - 55
+  directions:
+  - en_es
+- id: l55-028
+  type: transformation
+  tier: extended
+  front_en: we could (would-form of poder)
+  back_es: podríamos
+  hint: would-form · we
+  rule_ref: L55#7
+  lessons:
+  - 55
+  directions:
+  - en_es
+- id: l55-029
+  type: transformation
+  tier: extended
+  front_en: a saying
+  back_es: un dicho
+  hint: irreg part doubles as noun
+  rule_ref: L55#17
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-030
+  type: transformation
+  tier: extended
+  front_en: a fact
+  back_es: un hecho
+  hint: irreg part doubles as noun
+  rule_ref: L55#17
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-031
+  type: transformation
+  tier: extended
+  front_en: war
+  back_es: guerra
+  hint: W↔G pair (war/...)
+  rule_ref: L55#19
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-032
+  type: transformation
+  tier: extended
+  front_en: smoke (noun)
+  back_es: humo
+  hint: F↔H · cousin of *fume*
+  rule_ref: L55#18
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-033
+  type: transformation
+  tier: extended
+  front_en: deep
+  back_es: hondo
+  hint: F↔H · cousin of *profound*
+  rule_ref: L55#18
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-034
+  type: sentence
+  tier: extended
+  front_en: I'm dead. (f, exhausted)
+  back_es: Estoy muerta.
+  hint: idiom = exhausted
+  rule_ref: L55#13
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-035
+  type: sentence
+  tier: extended
+  front_en: I'm dying. (laughing)
+  back_es: Me muero.
+  hint: idiom · reflexive
+  rule_ref: L55#14
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-036
+  type: sentence
+  tier: extended
+  front_en: It has got complicated.
+  back_es: Se ha complicado.
+  hint: se ha + part = it became
+  rule_ref: L55#4
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-037
+  type: sentence
+  tier: extended
+  front_en: I should have cancelled.
+  back_es: Debería haber cancelado.
+  hint: debería + haber + part
+  rule_ref: L55#8
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-038
+  type: sentence
+  tier: extended
+  front_en: I could have gone.
+  back_es: Podría haber ido.
+  hint: podría + haber + part
+  rule_ref: L55#8
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-039
+  type: sentence
+  tier: extended
+  front_en: I should have done it.
+  back_es: Lo debería haber hecho.
+  hint: pronoun before debería
+  rule_ref: L55#9
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l55-040
+  type: sentence
+  tier: extended
+  front_en: You should have done it.
+  back_es: Deberías haberlo hecho.
+  hint: pronoun stuck on haber
+  rule_ref: L55#9
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: l56-001
+  type: transformation
+  tier: primary
+  front_en: that / which / who (relative)
+  back_es: que
+  hint: covers all three · no accent
+  rule_ref: L56#5, L56#6
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-002
+  type: transformation
+  tier: primary
+  front_en: which? (question word)
+  back_es: cuál
+  hint: question · accent on -á
+  rule_ref: L56#11
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-003
+  type: transformation
+  tier: primary
+  front_en: who? (question, sg)
+  back_es: quién
+  hint: accent · sg form
+  rule_ref: L56#13
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-004
+  type: transformation
+  tier: primary
+  front_en: who? (question, pl)
+  back_es: quiénes
+  hint: pl when more than one person
+  rule_ref: L56#14
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-005
+  type: transformation
+  tier: primary
+  front_en: who / whom (relative, sg)
+  back_es: quien
+  hint: relative · no accent
+  rule_ref: L56#7
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-006
+  type: transformation
+  tier: primary
+  front_en: which (relative, fem sg)
+  back_es: la cual
+  hint: matches gender · article + cual
+  rule_ref: L56#7
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-007
+  type: transformation
+  tier: primary
+  front_en: the girl
+  back_es: la chica
+  hint: feminine
+  rule_ref: L56#5
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-008
+  type: transformation
+  tier: primary
+  front_en: I was working / used to work
+  back_es: trabajaba
+  hint: -ar line-past · -aba
+  rule_ref: L56#9
+  lessons:
+  - 56
+  directions:
+  - en_es
+- id: l56-009
+  type: transformation
+  tier: primary
+  front_en: I/he/she was going (line-past of ir)
+  back_es: iba
+  hint: irregular line-past
+  rule_ref: L56#10
+  lessons:
+  - 56
+  directions:
+  - en_es
+- id: l56-010
+  type: sentence
+  tier: primary
+  front_en: Where are you from?
+  back_es: ¿De dónde eres?
+  hint: prep moves to front
+  rule_ref: L56#1
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-011
+  type: sentence
+  tier: primary
+  front_en: We're going to the United States.
+  back_es: Vamos a Estados Unidos.
+  hint: no article with country
+  rule_ref: L56#3
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-012
+  type: sentence
+  tier: primary
+  front_en: The girl I work with.
+  back_es: La chica con que trabajo.
+  hint: con before que · never trailing
+  rule_ref: L56#5, L56#12
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-013
+  type: sentence
+  tier: primary
+  front_en: The girl I work with. (with quien)
+  back_es: La chica con quien trabajo.
+  hint: con + quien · for people
+  rule_ref: L56#7
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-014
+  type: sentence
+  tier: primary
+  front_en: It's the girl I was working with.
+  back_es: Es la chica con que trabajaba.
+  hint: line-past · prep at front
+  rule_ref: L56#5, L56#9
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-015
+  type: sentence
+  tier: primary
+  front_en: The girl I was going to the party with.
+  back_es: La chica con que iba a la fiesta.
+  hint: con que + iba
+  rule_ref: L56#5, L56#10
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-016
+  type: sentence
+  tier: primary
+  front_en: Which one do you want?
+  back_es: ¿Cuál quieres?
+  hint: cuál = which · no "one" needed
+  rule_ref: L56#11
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-017
+  type: sentence
+  tier: primary
+  front_en: I don't know which one he wants.
+  back_es: No sé cuál quiere.
+  hint: indirect question · cuál keeps accent
+  rule_ref: L56#11
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-018
+  type: sentence
+  tier: primary
+  front_en: I don't know which he wants to see.
+  back_es: No sé cuál quiere ver.
+  hint: cuál + chain of verbs
+  rule_ref: L56#11
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-019
+  type: sentence
+  tier: primary
+  front_en: I don't know which he wants to do it with.
+  back_es: No sé con cuál quiere hacerlo.
+  hint: con at front, never trailing
+  rule_ref: L56#12
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-020
+  type: sentence
+  tier: primary
+  front_en: Who is going?
+  back_es: ¿Quién va?
+  hint: quién + he/she form
+  rule_ref: L56#13
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-021
+  type: sentence
+  tier: primary
+  front_en: Who (plural) is going?
+  back_es: ¿Quiénes van?
+  hint: quiénes → plural verb
+  rule_ref: L56#14
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-022
+  type: sentence
+  tier: primary
+  front_en: Who is here?
+  back_es: ¿Quién está aquí?
+  hint: estar + location
+  rule_ref: L56#13, L56#15
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-023
+  type: sentence
+  tier: primary
+  front_en: Who is (there)?
+  back_es: ¿Quién está?
+  hint: drop *aquí* · estar implies it
+  rule_ref: L56#15
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-024
+  type: sentence
+  tier: primary
+  front_en: I don't know who I have to do it with.
+  back_es: No sé con quién tengo que hacerlo.
+  hint: con quién + tengo que
+  rule_ref: L56#16, L56#17
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-025
+  type: sentence
+  tier: primary
+  front_en: I don't know who I have to do it for.
+  back_es: No sé para quién tengo que hacerlo.
+  hint: para at front
+  rule_ref: L56#17
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-026
+  type: sentence
+  tier: primary
+  front_en: I don't know who I have to do it because of.
+  back_es: No sé por quién tengo que hacerlo.
+  hint: por (cause) at front
+  rule_ref: L56#17
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-027
+  type: transformation
+  tier: extended
+  front_en: which (relative, fem sg, alt)
+  back_es: la que
+  hint: article + que · matches fem
+  rule_ref: L56#7
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-028
+  type: transformation
+  tier: extended
+  front_en: which (relative, pl)
+  back_es: cuales
+  hint: matches plural
+  rule_ref: L56#7
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-029
+  type: transformation
+  tier: extended
+  front_en: to unite
+  back_es: unir
+  hint: peel -ido off *unido* → un- + ir
+  rule_ref: L56#4
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-030
+  type: sentence
+  tier: extended
+  front_en: The girl I work with. (with la cual)
+  back_es: La chica con la cual trabajo.
+  hint: la cual matches fem
+  rule_ref: L56#7
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-031
+  type: sentence
+  tier: extended
+  front_en: The girl I work with. (with la que)
+  back_es: La chica con la que trabajo.
+  hint: la que · article + que
+  rule_ref: L56#7
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-032
+  type: sentence
+  tier: extended
+  front_en: Where is the party?
+  back_es: ¿Dónde está la fiesta?
+  hint: estar + location
+  rule_ref: L56#15
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-033
+  type: sentence
+  tier: extended
+  front_en: I don't know who is here.
+  back_es: No sé quién está aquí.
+  hint: indirect question
+  rule_ref: L56#13, L56#15
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-034
+  type: sentence
+  tier: extended
+  front_en: The girl I was going with.
+  back_es: La chica con que iba.
+  hint: line-past iba
+  rule_ref: L56#5, L56#10
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-035
+  type: sentence
+  tier: extended
+  front_en: I don't know who (pl) I have to do it with.
+  back_es: No sé con quiénes tengo que hacerlo.
+  hint: con quiénes for plural
+  rule_ref: L56#14, L56#16
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-036
+  type: sentence
+  tier: extended
+  front_en: It's the girl I work with.
+  back_es: Es la chica con quien trabajo.
+  hint: ser + relative clause
+  rule_ref: L56#7
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l56-037
+  type: sentence
+  tier: extended
+  front_en: Who is coming to the party?
+  back_es: ¿Quién viene a la fiesta?
+  hint: quién + viene
+  rule_ref: L56#13
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: l57-001
+  type: conjugation
+  tier: primary
+  front_en: we form of comer
+  back_es: comemos
+  hint: -er → -emos
+  rule_ref: L57#1
+  lessons:
+  - 57
+  directions:
+  - en_es
+- id: l57-002
+  type: conjugation
+  tier: primary
+  front_en: he form of comer
+  back_es: come
+  hint: -e ending shared by -er/-ir
+  rule_ref: L57#2
+  lessons:
+  - 57
+  directions:
+  - en_es
+- id: l57-003
+  type: conjugation
+  tier: primary
+  front_en: they form of comer
+  back_es: comen
+  hint: -en shared by -er/-ir
+  rule_ref: L57#2
+  lessons:
+  - 57
+  directions:
+  - en_es
+- id: l57-004
+  type: transformation
+  tier: primary
+  front_en: easy
+  back_es: fácil
+  hint: cousin of *facilitate* · accent on fá
+  rule_ref: L57#6
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-005
+  type: transformation
+  tier: primary
+  front_en: together (m sg)
+  back_es: junto
+  hint: cousin of *junction*
+  rule_ref: L57#4
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-006
+  type: transformation
+  tier: primary
+  front_en: together (mixed/m pl)
+  back_es: juntos
+  hint: agrees with people · m pl
+  rule_ref: L57#5
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-007
+  type: transformation
+  tier: primary
+  front_en: together (f pl)
+  back_es: juntas
+  hint: agrees · all-fem group
+  rule_ref: L57#5
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-008
+  type: transformation
+  tier: primary
+  front_en: like this / like that
+  back_es: así
+  hint: shortcut for *de esta forma*
+  rule_ref: L57#8
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-009
+  type: transformation
+  tier: primary
+  front_en: bad
+  back_es: malo
+  hint: mnemonic *malnourished*
+  rule_ref: L57#3
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-010
+  type: transformation
+  tier: primary
+  front_en: the thing about (unit)
+  back_es: lo de
+  hint: lo + de = the business about
+  rule_ref: L57#9
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-011
+  type: sentence
+  tier: primary
+  front_en: We don't speak like that.
+  back_es: No hablamos así.
+  hint: -ar we + así
+  rule_ref: L57#1, L57#8
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-012
+  type: sentence
+  tier: primary
+  front_en: We don't eat like that.
+  back_es: No comemos así.
+  hint: -er we + así
+  rule_ref: L57#1, L57#8
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-013
+  type: sentence
+  tier: primary
+  front_en: We don't live like that.
+  back_es: No vivimos así.
+  hint: -ir we + así
+  rule_ref: L57#1, L57#8
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-014
+  type: sentence
+  tier: primary
+  front_en: Where do you guys live?
+  back_es: ¿Dónde viven?
+  hint: viven = -ir they/you-guys
+  rule_ref: L57#2
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-015
+  type: sentence
+  tier: primary
+  front_en: The interesting thing
+  back_es: lo interesante
+  hint: lo + adj = "the X thing"
+  rule_ref: L57#3
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-016
+  type: sentence
+  tier: primary
+  front_en: The complicated thing
+  back_es: lo complicado
+  hint: lo + adj
+  rule_ref: L57#3
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-017
+  type: sentence
+  tier: primary
+  front_en: The good thing / the bad thing
+  back_es: lo bueno / lo malo
+  hint: lo + adj pair
+  rule_ref: L57#3
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-018
+  type: sentence
+  tier: primary
+  front_en: The easy thing
+  back_es: lo fácil
+  hint: lo + adj
+  rule_ref: L57#3, L57#6
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-019
+  type: sentence
+  tier: primary
+  front_en: The interesting thing is they live here.
+  back_es: Lo interesante es que viven aquí.
+  hint: lo + adj + es que + clause
+  rule_ref: L57#3, L57#2
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-020
+  type: sentence
+  tier: primary
+  front_en: The interesting thing is they live together.
+  back_es: Lo interesante es que viven juntos.
+  hint: juntos agrees with subject
+  rule_ref: L57#3, L57#5
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-021
+  type: sentence
+  tier: primary
+  front_en: The easy thing is they come together.
+  back_es: Lo fácil es que vienen juntos.
+  hint: lo fácil + vienen
+  rule_ref: L57#3, L57#7
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-022
+  type: sentence
+  tier: primary
+  front_en: The thing about Juan
+  back_es: lo de Juan
+  hint: lo de + name
+  rule_ref: L57#9
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-023
+  type: sentence
+  tier: primary
+  front_en: The thing about the party
+  back_es: lo de la fiesta
+  hint: lo de + noun phrase
+  rule_ref: L57#9
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-024
+  type: sentence
+  tier: primary
+  front_en: We talk about the party thing.
+  back_es: Hablamos de lo de la fiesta.
+  hint: de + lo de — both fine
+  rule_ref: L57#9, L57#10
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-025
+  type: sentence
+  tier: primary
+  front_en: I don't want to talk about Juan's business like this.
+  back_es: No quiero hablar de lo de Juan así.
+  hint: lo de + así
+  rule_ref: L57#9, L57#13
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-026
+  type: sentence
+  tier: primary
+  front_en: I want to organize tomorrow's thing.
+  back_es: Quiero organizar lo de mañana.
+  hint: lo de mañana = tomorrow's business
+  rule_ref: L57#9, L57#11
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-027
+  type: sentence
+  tier: primary
+  front_en: But I don't want to organize it like this.
+  back_es: Pero no quiero organizarlo así.
+  hint: pronoun stuck on infinitive
+  rule_ref: L57#13, L57#8
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-028
+  type: conjugation
+  tier: extended
+  front_en: we form of vender
+  back_es: vendemos
+  hint: -er → -emos
+  rule_ref: L57#1
+  lessons:
+  - 57
+  directions:
+  - en_es
+- id: l57-029
+  type: conjugation
+  tier: extended
+  front_en: we form of abrir
+  back_es: abrimos
+  hint: -ir → -imos
+  rule_ref: L57#1
+  lessons:
+  - 57
+  directions:
+  - en_es
+- id: l57-030
+  type: conjugation
+  tier: extended
+  front_en: we form of romper
+  back_es: rompemos
+  hint: -er → -emos
+  rule_ref: L57#1
+  lessons:
+  - 57
+  directions:
+  - en_es
+- id: l57-031
+  type: transformation
+  tier: extended
+  front_en: in this way
+  back_es: de esta forma
+  hint: emphatic version of *así*
+  rule_ref: L57#12
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-032
+  type: transformation
+  tier: extended
+  front_en: in this manner
+  back_es: de esta manera
+  hint: emphatic version of *así*
+  rule_ref: L57#12
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-033
+  type: transformation
+  tier: extended
+  front_en: about / on (preposition)
+  back_es: sobre
+  hint: also = on top of
+  rule_ref: L57#10
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-034
+  type: sentence
+  tier: extended
+  front_en: We talk about the party. (with sobre)
+  back_es: Hablamos sobre lo de la fiesta.
+  hint: sobre + lo de
+  rule_ref: L57#10
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-035
+  type: sentence
+  tier: extended
+  front_en: We don't live together.
+  back_es: No vivimos juntos.
+  hint: -ir we + juntos agrees
+  rule_ref: L57#1, L57#5
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-036
+  type: sentence
+  tier: extended
+  front_en: They come together. (f)
+  back_es: Vienen juntas.
+  hint: juntas agrees · all-fem
+  rule_ref: L57#5, L57#7
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-037
+  type: sentence
+  tier: extended
+  front_en: The bad thing is that he comes tomorrow.
+  back_es: Lo malo es que viene mañana.
+  hint: lo + adj + clause
+  rule_ref: L57#3
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-038
+  type: sentence
+  tier: extended
+  front_en: The good thing is that we eat together.
+  back_es: Lo bueno es que comemos juntos.
+  hint: lo + adj + we + juntos
+  rule_ref: L57#3, L57#1
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: l57-039
+  type: sentence
+  tier: extended
+  front_en: It's easy.
+  back_es: Es fácil.
+  hint: ser + fácil
+  rule_ref: L57#6
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en

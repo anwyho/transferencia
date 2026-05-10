@@ -1222,7 +1222,7 @@ cards:
 - id: l36-047
   type: sentence
   tier: primary
-  front_en: Whatever will be, will be.
+  front_en: Whatever will be, will be. (Que…)
   back_es: Que será, será.
   hint: the song line
   rule_ref: L36#17

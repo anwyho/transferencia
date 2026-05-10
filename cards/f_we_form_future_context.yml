@@ -1516,7 +1516,7 @@ cards:
 - id: l20-056
   type: sentence
   tier: extended
-  front_en: Let's eat.
+  front_en: Let's eat. (Comemos…)
   back_es: Comemos.
   hint: we-form = let's
   rule_ref: L20#13, L18#1

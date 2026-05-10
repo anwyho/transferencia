@@ -1,0 +1,1786 @@
+bundle: U
+title: 'Mood triggers + commands: espero que, personal a, ir → vaya, drop -s for tú'
+lessons:
+- 71
+- 72
+- 73
+cards:
+- id: l71-001
+  type: transformation
+  tier: primary
+  front_en: I tell / I count
+  back_es: cuento
+  hint: o-split · also = a story (noun)
+  rule_ref: L71#1
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-002
+  type: transformation
+  tier: primary
+  front_en: a story
+  back_es: un cuento
+  hint: same form as *I tell*
+  rule_ref: L71#1
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-003
+  type: transformation
+  tier: primary
+  front_en: to count on
+  back_es: contar con
+  hint: Spanish uses *with* where English uses *on*
+  rule_ref: L71#3
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-004
+  type: sentence
+  tier: primary
+  front_en: I hope you wait.
+  back_es: Espero que esperes.
+  hint: hope-that triggers mood
+  rule_ref: L71#5
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-005
+  type: transformation
+  tier: primary
+  front_en: I like that
+  back_es: me gusta que
+  hint: subjective → triggers mood tense
+  rule_ref: L71#14
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-006
+  type: transformation
+  tier: primary
+  front_en: to the (masculine)
+  back_es: al
+  hint: a + el contracts to one word
+  rule_ref: L71#11
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-007
+  type: conjugation
+  tier: primary
+  front_en: mood you-form of contar
+  back_es: cuentes
+  hint: o-split · -ar takes -es
+  rule_ref: L71#2
+  lessons:
+  - 71
+  directions:
+  - en_es
+- id: l71-008
+  type: conjugation
+  tier: primary
+  front_en: mood they-form of contar
+  back_es: cuenten
+  hint: o-split · -ar takes -en
+  rule_ref: L71#2
+  lessons:
+  - 71
+  directions:
+  - en_es
+- id: l71-009
+  type: conjugation
+  tier: primary
+  front_en: mood I-form of ver
+  back_es: vea
+  hint: built from veo to dodge clash with *van*
+  rule_ref: L71#6
+  lessons:
+  - 71
+  directions:
+  - en_es
+- id: l71-010
+  type: conjugation
+  tier: primary
+  front_en: mood you-form of ver
+  back_es: veas
+  hint: built from veo · keep the e
+  rule_ref: L71#6
+  lessons:
+  - 71
+  directions:
+  - en_es
+- id: l71-011
+  type: conjugation
+  tier: primary
+  front_en: mood she-form of ver
+  back_es: vea
+  hint: same as I-form
+  rule_ref: L71#6
+  lessons:
+  - 71
+  directions:
+  - en_es
+- id: l71-012
+  type: conjugation
+  tier: primary
+  front_en: mood they-form of ver
+  back_es: vean
+  hint: built from veo not ven
+  rule_ref: L71#6
+  lessons:
+  - 71
+  directions:
+  - en_es
+- id: l71-013
+  type: conjugation
+  tier: primary
+  front_en: mood you-form of comprender
+  back_es: comprendas
+  hint: -er takes -as
+  rule_ref: L71#10
+  lessons:
+  - 71
+  directions:
+  - en_es
+- id: l71-014
+  type: conjugation
+  tier: primary
+  front_en: mood she-form of comprender
+  back_es: comprenda
+  hint: -er takes -a
+  rule_ref: L71#10
+  lessons:
+  - 71
+  directions:
+  - en_es
+- id: l71-015
+  type: conjugation
+  tier: primary
+  front_en: mood she-form of visitar
+  back_es: visite
+  hint: -ar takes -e
+  rule_ref: L71#14
+  lessons:
+  - 71
+  directions:
+  - en_es
+- id: l71-016
+  type: sentence
+  tier: primary
+  front_en: I want you to tell me.
+  back_es: Quiero que me cuentes.
+  hint: que + mood · little word before
+  rule_ref: L71#2
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-017
+  type: sentence
+  tier: primary
+  front_en: I want you all to tell me something.
+  back_es: Quiero que me cuenten algo.
+  hint: -en for plural mood
+  rule_ref: L71#2
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-018
+  type: sentence
+  tier: primary
+  front_en: I want you to count on me.
+  back_es: Quiero que cuentes conmigo.
+  hint: count *with* me — no personal a needed
+  rule_ref: L71#3, L71#9
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-019
+  type: sentence
+  tier: primary
+  front_en: I hope you count on me.
+  back_es: Espero que cuentes conmigo.
+  hint: hope-that triggers mood
+  rule_ref: L71#5, L71#3
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-020
+  type: sentence
+  tier: primary
+  front_en: We hope they count on María.
+  back_es: Esperamos que cuenten con María.
+  hint: con → no personal a
+  rule_ref: L71#5, L71#9
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-021
+  type: sentence
+  tier: primary
+  front_en: We hope they tell it to María.
+  back_es: Esperamos que lo cuenten a María.
+  hint: tell-to a person → personal a
+  rule_ref: L71#5, L71#7
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-022
+  type: sentence
+  tier: primary
+  front_en: I hope they see María.
+  back_es: Espero que vean a María.
+  hint: ver mood from veo · personal a
+  rule_ref: L71#6, L71#7
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-023
+  type: sentence
+  tier: primary
+  front_en: I hope you understand David.
+  back_es: Espero que comprendas a David.
+  hint: action done TO a specific person
+  rule_ref: L71#7, L71#10
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-024
+  type: sentence
+  tier: primary
+  front_en: I hope she understands David.
+  back_es: Espero que comprenda a David.
+  hint: -a ending for she-form mood
+  rule_ref: L71#7, L71#10
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-025
+  type: sentence
+  tier: primary
+  front_en: I want him to see the man.
+  back_es: Quiero que vea al hombre.
+  hint: a + el = al · personal a
+  rule_ref: L71#11, L71#12
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-026
+  type: sentence
+  tier: primary
+  front_en: I want the man to see.
+  back_es: Quiero que el hombre vea.
+  hint: subject before verb · no personal a
+  rule_ref: L71#13
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-027
+  type: sentence
+  tier: primary
+  front_en: I like that the teacher visits.
+  back_es: Me gusta que la profesora visite.
+  hint: like-that triggers mood
+  rule_ref: L71#14
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-028
+  type: sentence
+  tier: primary
+  front_en: I like that he visits the teacher.
+  back_es: Me gusta que visite a la profesora.
+  hint: teacher is being visited → personal a
+  rule_ref: L71#14, L71#16
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-029
+  type: sentence
+  tier: primary
+  front_en: To escape death.
+  back_es: Escapar a la muerte.
+  hint: personification with personal a
+  rule_ref: L71#18
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-030
+  type: sentence
+  tier: primary
+  front_en: I need to find the plumber.
+  back_es: Necesito encontrar al plomero.
+  hint: specific person → a + el = al
+  rule_ref: L71#17, L71#11
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-031
+  type: sentence
+  tier: primary
+  front_en: I need to find a plumber.
+  back_es: Necesito encontrar un plomero.
+  hint: any plumber → no personal a
+  rule_ref: L71#17
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-032
+  type: sentence
+  tier: primary
+  front_en: I hope you see her.
+  back_es: Espero que la veas.
+  hint: little word before mood verb
+  rule_ref: L71#5, L71#6
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-033
+  type: sentence
+  tier: extended
+  front_en: I hope they see the doctor.
+  back_es: Espero que vean al doctor.
+  hint: a + el · ver mood plural
+  rule_ref: L71#6, L71#11
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-034
+  type: sentence
+  tier: extended
+  front_en: We hope you understand María.
+  back_es: Esperamos que comprendas a María.
+  hint: personal a before the person understood
+  rule_ref: L71#7, L71#10
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-035
+  type: sentence
+  tier: extended
+  front_en: I like that they visit my mother.
+  back_es: Me gusta que visiten a mi madre.
+  hint: specific person being visited
+  rule_ref: L71#14, L71#16
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-036
+  type: sentence
+  tier: extended
+  front_en: I want them to count on me.
+  back_es: Quiero que cuenten conmigo.
+  hint: con-construction · no personal a
+  rule_ref: L71#3, L71#9
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-037
+  type: sentence
+  tier: extended
+  front_en: She tells me a story.
+  back_es: Me cuenta un cuento.
+  hint: cuento doubles as noun
+  rule_ref: L71#1
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-038
+  type: sentence
+  tier: extended
+  front_en: I hope you tell me the story.
+  back_es: Espero que me cuentes el cuento.
+  hint: tell + thing · not a person → no personal a
+  rule_ref: L71#5, L71#2
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-039
+  type: sentence
+  tier: extended
+  front_en: I hope they see us.
+  back_es: Espero que nos vean.
+  hint: us is a little word → before verb
+  rule_ref: L71#5, L71#6
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-040
+  type: sentence
+  tier: extended
+  front_en: I want you to see María.
+  back_es: Quiero que veas a María.
+  hint: ver mood · personal a
+  rule_ref: L71#6, L71#7
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-041
+  type: sentence
+  tier: extended
+  front_en: I like that you see the teacher.
+  back_es: Me gusta que veas al profesor.
+  hint: a + el → al
+  rule_ref: L71#14, L71#11
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-042
+  type: sentence
+  tier: extended
+  front_en: She hopes I understand her.
+  back_es: Espera que la comprenda.
+  hint: little word before · -a for I/she mood
+  rule_ref: L71#5, L71#10
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-043
+  type: sentence
+  tier: extended
+  front_en: I count on you.
+  back_es: Cuento contigo.
+  hint: con + ti contracts
+  rule_ref: L71#3
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-044
+  type: sentence
+  tier: extended
+  front_en: I hope they tell us the story.
+  back_es: Espero que nos cuenten el cuento.
+  hint: thing told → no personal a
+  rule_ref: L71#5, L71#2
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l71-045
+  type: sentence
+  tier: extended
+  front_en: I like that they understand the man.
+  back_es: Me gusta que comprendan al hombre.
+  hint: a + el → al · person being understood
+  rule_ref: L71#14, L71#11
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: l72-001
+  type: sentence
+  tier: primary
+  front_en: I forget it.
+  back_es: Lo olvido.
+  hint: olvidar needs object · little word before
+  rule_ref: L72#11
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-002
+  type: transformation
+  tier: primary
+  front_en: to shut up (reflexive)
+  back_es: callarse
+  hint: callar = to quiet · -se = oneself
+  rule_ref: L72#18
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-003
+  type: conjugation
+  tier: primary
+  front_en: mood you-form of comprar
+  back_es: compres
+  hint: -ar takes -es
+  rule_ref: L72#2
+  lessons:
+  - 72
+  directions:
+  - en_es
+- id: l72-004
+  type: conjugation
+  tier: primary
+  front_en: mood you-form of vender
+  back_es: vendas
+  hint: -er takes -as
+  rule_ref: L72#17
+  lessons:
+  - 72
+  directions:
+  - en_es
+- id: l72-006
+  type: sentence
+  tier: primary
+  front_en: Don't speak.
+  back_es: No hables.
+  hint: negative → mood (-ar takes -es)
+  rule_ref: L72#2
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-007
+  type: sentence
+  tier: primary
+  front_en: Don't stay.
+  back_es: No te quedes.
+  hint: little word before · mood -es
+  rule_ref: L72#2, L72#8
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-008
+  type: sentence
+  tier: primary
+  front_en: Don't stay there.
+  back_es: No te quedes ahí.
+  hint: contrast with *no te quedas* (statement)
+  rule_ref: L72#3, L72#4
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-009
+  type: sentence
+  tier: primary
+  front_en: Don't give it.
+  back_es: No lo des.
+  hint: mood of *das* · little word before
+  rule_ref: L72#2, L72#8
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-010
+  type: sentence
+  tier: primary
+  front_en: Don't give it to him.
+  back_es: No se lo des a él.
+  hint: le → se before lo · clarify with a él
+  rule_ref: L72#5
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-011
+  type: sentence
+  tier: primary
+  front_en: Eat (you all).
+  back_es: Coman.
+  hint: positive plural → mood (-er takes -an)
+  rule_ref: L72#6
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-012
+  type: sentence
+  tier: primary
+  front_en: Wait (you all).
+  back_es: Esperen.
+  hint: positive plural → mood (-ar takes -en)
+  rule_ref: L72#6
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-013
+  type: sentence
+  tier: primary
+  front_en: Wait for me (you all).
+  back_es: Espérenme.
+  hint: positive command → little word at END · accent
+  rule_ref: L72#7
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-014
+  type: sentence
+  tier: primary
+  front_en: Wait for him (you all).
+  back_es: Espérenlo.
+  hint: little word stuck on end
+  rule_ref: L72#7
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-015
+  type: sentence
+  tier: primary
+  front_en: Wait for them (you all).
+  back_es: Espérenlos.
+  hint: little word at end · accent shifts back
+  rule_ref: L72#7
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-016
+  type: sentence
+  tier: primary
+  front_en: Don't wait for them.
+  back_es: No los esperen.
+  hint: negative → little word BEFORE
+  rule_ref: L72#8
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-017
+  type: sentence
+  tier: primary
+  front_en: Eat (formal).
+  back_es: Coma.
+  hint: formal positive → mood
+  rule_ref: L72#10
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-018
+  type: sentence
+  tier: primary
+  front_en: Eat it (formal).
+  back_es: Cómalo.
+  hint: positive → little word stuck on end
+  rule_ref: L72#10, L72#7
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-019
+  type: sentence
+  tier: primary
+  front_en: Don't eat it (formal).
+  back_es: No lo coma.
+  hint: negative → little word before
+  rule_ref: L72#8, L72#10
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-020
+  type: sentence
+  tier: primary
+  front_en: Don't eat it (informal).
+  back_es: No lo comas.
+  hint: negative informal → mood -as
+  rule_ref: L72#2, L72#8
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-021
+  type: sentence
+  tier: primary
+  front_en: Don't eat it (you all).
+  back_es: No lo coman.
+  hint: negative plural → mood -an
+  rule_ref: L72#8
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-022
+  type: sentence
+  tier: primary
+  front_en: Eat it (you all).
+  back_es: Cómanlo.
+  hint: positive plural → little word at end
+  rule_ref: L72#7, L72#6
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-023
+  type: sentence
+  tier: primary
+  front_en: Forget it (formal).
+  back_es: Olvídelo.
+  hint: positive formal · little word at end
+  rule_ref: L72#11, L72#10
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-024
+  type: sentence
+  tier: primary
+  front_en: Forget (formal).
+  back_es: Olvídese.
+  hint: olvidar needs an object → reflexive -se
+  rule_ref: L72#11
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-025
+  type: sentence
+  tier: primary
+  front_en: Don't forget it (informal).
+  back_es: No lo olvides.
+  hint: negative · little word before · mood -es
+  rule_ref: L72#11, L72#8
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-026
+  type: sentence
+  tier: primary
+  front_en: Don't forget (informal).
+  back_es: No te olvides.
+  hint: olvidar needs reflexive when alone
+  rule_ref: L72#11
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-027
+  type: sentence
+  tier: primary
+  front_en: Don't forget it (you all). (No lo…)
+  back_es: No lo olviden.
+  hint: negative plural · little word before
+  rule_ref: L72#11, L72#8
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-028
+  type: sentence
+  tier: primary
+  front_en: Don't forget (you all).
+  back_es: No se olviden.
+  hint: reflexive needed when alone
+  rule_ref: L72#11
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-029
+  type: sentence
+  tier: primary
+  front_en: Let's not forget it.
+  back_es: No lo olvidemos.
+  hint: let's = nosotros mood · -ar → -emos
+  rule_ref: L72#12
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-030
+  type: sentence
+  tier: primary
+  front_en: Let's not forget.
+  back_es: No nos olvidemos.
+  hint: reflexive nos · olvidar needs an object
+  rule_ref: L72#12
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-031
+  type: sentence
+  tier: primary
+  front_en: Buy what's missing (you all).
+  back_es: Compren lo que falta.
+  hint: positive plural mood + lo que (non-question what)
+  rule_ref: L72#13
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-032
+  type: sentence
+  tier: primary
+  front_en: Buy.
+  back_es: Compra.
+  hint: positive informal → drop -s from *compras*
+  rule_ref: L72#14
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-034
+  type: sentence
+  tier: primary
+  front_en: Buy it.
+  back_es: Cómpralo.
+  hint: positive informal · little word at end · accent
+  rule_ref: L72#14, L72#16
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-035
+  type: sentence
+  tier: primary
+  front_en: Buy it for me.
+  back_es: Cómpramelo.
+  hint: two little words tacked onto end
+  rule_ref: L72#16
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-036
+  type: sentence
+  tier: primary
+  front_en: Eat it.
+  back_es: Cómelo.
+  hint: drop -s + attach lo → accent
+  rule_ref: L72#14, L72#16
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-037
+  type: sentence
+  tier: primary
+  front_en: Forget it.
+  back_es: Olvídalo.
+  hint: positive informal · little word at end
+  rule_ref: L72#14, L72#16
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-038
+  type: sentence
+  tier: primary
+  front_en: Forget (yourself).
+  back_es: Olvídate.
+  hint: olvidar needs object → reflexive at end
+  rule_ref: L72#16
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-039
+  type: sentence
+  tier: primary
+  front_en: Sell it.
+  back_es: Véndelo.
+  hint: drop -s · attach little word
+  rule_ref: L72#14, L72#16
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-040
+  type: sentence
+  tier: primary
+  front_en: Don't sell it.
+  back_es: No lo vendas.
+  hint: negative flips to mood · little word before
+  rule_ref: L72#17, L72#8
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-041
+  type: sentence
+  tier: primary
+  front_en: Shut up!
+  back_es: ¡Cállate!
+  hint: drop -s + attach reflexive · accent
+  rule_ref: L72#18, L72#16
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-042
+  type: sentence
+  tier: primary
+  front_en: Shut up (you all)!
+  back_es: ¡Cállense!
+  hint: positive plural → mood + reflexive at end
+  rule_ref: L72#18, L72#7
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-043
+  type: sentence
+  tier: extended
+  front_en: Don't speak (you all).
+  back_es: No hablen.
+  hint: negative plural → mood -en
+  rule_ref: L72#8
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-044
+  type: sentence
+  tier: extended
+  front_en: Don't give it to me.
+  back_es: No me lo des.
+  hint: two little words before
+  rule_ref: L72#2, L72#8
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-046
+  type: sentence
+  tier: extended
+  front_en: Don't forget it (you all). (No se lo…)
+  back_es: No se lo olviden.
+  hint: olvidar reflexive + lo · all before verb
+  rule_ref: L72#11, L72#8
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-047
+  type: sentence
+  tier: extended
+  front_en: Buy what's missing.
+  back_es: Compren lo que hace falta.
+  hint: alt form · *hace falta* = it's necessary
+  rule_ref: L72#13
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-048
+  type: sentence
+  tier: extended
+  front_en: Forget.
+  back_es: Olvida.
+  hint: drop -s from *olvidas*
+  rule_ref: L72#14
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-049
+  type: sentence
+  tier: extended
+  front_en: Don't buy it.
+  back_es: No lo compres.
+  hint: negative → mood (-ar takes -es)
+  rule_ref: L72#2, L72#8
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-051
+  type: sentence
+  tier: extended
+  front_en: Don't shut up.
+  back_es: No te calles.
+  hint: negative → mood · reflexive before
+  rule_ref: L72#18, L72#8
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-053
+  type: sentence
+  tier: extended
+  front_en: Eat it (formal, you all).
+  back_es: Cómanlo.
+  hint: positive plural formal · little word end
+  rule_ref: L72#10, L72#7
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-054
+  type: sentence
+  tier: extended
+  front_en: Don't stay here.
+  back_es: No te quedes aquí.
+  hint: contrast with statement *no te quedas aquí*
+  rule_ref: L72#3
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-055
+  type: sentence
+  tier: extended
+  front_en: Speak (informal).
+  back_es: Habla.
+  hint: drop -s from *hablas*
+  rule_ref: L72#14
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-056
+  type: sentence
+  tier: extended
+  front_en: Speak to me.
+  back_es: Háblame.
+  hint: little word at end · accent
+  rule_ref: L72#16
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-057
+  type: sentence
+  tier: extended
+  front_en: Don't speak to me.
+  back_es: No me hables.
+  hint: negative flips → mood · me before
+  rule_ref: L72#2, L72#8
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-058
+  type: sentence
+  tier: extended
+  front_en: Wait for me.
+  back_es: Espérame.
+  hint: drop -s · attach me · accent
+  rule_ref: L72#14, L72#16
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-059
+  type: sentence
+  tier: extended
+  front_en: Don't wait for me.
+  back_es: No me esperes.
+  hint: negative · me before · mood -es
+  rule_ref: L72#2, L72#8
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l72-060
+  type: sentence
+  tier: extended
+  front_en: Forget about it.
+  back_es: Olvídate de eso.
+  hint: olvidarse de = to forget about
+  rule_ref: L72#11, L72#16
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: l73-001
+  type: conjugation
+  tier: primary
+  front_en: mood we-form of terminar
+  back_es: terminemos
+  hint: -ar → -emos
+  rule_ref: L73#2
+  lessons:
+  - 73
+  directions:
+  - en_es
+- id: l73-002
+  type: transformation
+  tier: primary
+  front_en: together (mixed/male)
+  back_es: juntos
+  hint: think *junction, junta*
+  rule_ref: L73#10
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-003
+  type: transformation
+  tier: primary
+  front_en: together (all female)
+  back_es: juntas
+  hint: agreement -as
+  rule_ref: L73#10
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-004
+  type: conjugation
+  tier: primary
+  front_en: mood they-form of terminar
+  back_es: terminen
+  hint: -ar takes -en
+  rule_ref: L73#9
+  lessons:
+  - 73
+  directions:
+  - en_es
+- id: l73-005
+  type: transformation
+  tier: primary
+  front_en: to finish
+  back_es: terminar
+  hint: cognate of *terminate*
+  rule_ref: L73#5
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-006
+  type: conjugation
+  tier: primary
+  front_en: mood I-form of ir
+  back_es: vaya
+  hint: irregular root v-a-y-a
+  rule_ref: L73#12
+  lessons:
+  - 73
+  directions:
+  - en_es
+- id: l73-007
+  type: conjugation
+  tier: primary
+  front_en: mood you-form of ir
+  back_es: vayas
+  hint: vaya + -s
+  rule_ref: L73#12
+  lessons:
+  - 73
+  directions:
+  - en_es
+- id: l73-008
+  type: conjugation
+  tier: primary
+  front_en: mood she-form of ir
+  back_es: vaya
+  hint: same as I-form
+  rule_ref: L73#12
+  lessons:
+  - 73
+  directions:
+  - en_es
+- id: l73-009
+  type: conjugation
+  tier: primary
+  front_en: mood we-form of ir
+  back_es: vayamos
+  hint: vaya + -mos
+  rule_ref: L73#12
+  lessons:
+  - 73
+  directions:
+  - en_es
+- id: l73-010
+  type: conjugation
+  tier: primary
+  front_en: mood they-form of ir
+  back_es: vayan
+  hint: vaya + -n
+  rule_ref: L73#12
+  lessons:
+  - 73
+  directions:
+  - en_es
+- id: l73-011
+  type: conjugation
+  tier: primary
+  front_en: mood we-form of esperar
+  back_es: esperemos
+  hint: -ar → -emos for *let's*
+  rule_ref: L73#2
+  lessons:
+  - 73
+  directions:
+  - en_es
+- id: l73-012
+  type: conjugation
+  tier: primary
+  front_en: mood we-form of hablar
+  back_es: hablemos
+  hint: -ar → -emos
+  rule_ref: L73#2
+  lessons:
+  - 73
+  directions:
+  - en_es
+- id: l73-013
+  type: conjugation
+  tier: primary
+  front_en: mood we-form of comer
+  back_es: comamos
+  hint: -er → -amos
+  rule_ref: L73#11
+  lessons:
+  - 73
+  directions:
+  - en_es
+- id: l73-014
+  type: sentence
+  tier: primary
+  front_en: Wait. (informal)
+  back_es: Espera.
+  hint: drop -s from *esperas*
+  rule_ref: L73#1
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-015
+  type: sentence
+  tier: primary
+  front_en: Let's wait.
+  back_es: Esperemos.
+  hint: -ar → -emos
+  rule_ref: L73#2
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-016
+  type: sentence
+  tier: primary
+  front_en: Let's not wait.
+  back_es: No esperemos.
+  hint: just put *no* in front
+  rule_ref: L73#4
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-017
+  type: sentence
+  tier: primary
+  front_en: Let him wait.
+  back_es: Que espere.
+  hint: que + mood for third-person command
+  rule_ref: L73#5
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-018
+  type: sentence
+  tier: primary
+  front_en: Let it finish already.
+  back_es: Que termine ya.
+  hint: que + mood + ya
+  rule_ref: L73#5, L73#6
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-019
+  type: sentence
+  tier: primary
+  front_en: Let him shut up.
+  back_es: Que se calle.
+  hint: que + reflexive + mood
+  rule_ref: L73#5, L73#7
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-020
+  type: sentence
+  tier: primary
+  front_en: When we speak (generally).
+  back_es: Cuando hablamos.
+  hint: general truth → normal present
+  rule_ref: L73#8
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-021
+  type: sentence
+  tier: primary
+  front_en: When we speak (in the future).
+  back_es: Cuando hablemos.
+  hint: future event → mood (Spanish is superstitious)
+  rule_ref: L73#9
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-022
+  type: sentence
+  tier: primary
+  front_en: When we eat together, we'll speak.
+  back_es: Cuando comamos juntos, hablamos.
+  hint: cuando + mood (future) · main verb stays present
+  rule_ref: L73#11
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-023
+  type: sentence
+  tier: primary
+  front_en: We see her when we go (generally).
+  back_es: La vemos cuando vamos.
+  hint: general → present
+  rule_ref: L73#13
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-024
+  type: sentence
+  tier: primary
+  front_en: We will see her when we go.
+  back_es: La vemos cuando vayamos.
+  hint: future cuando → ir mood (vayamos)
+  rule_ref: L73#13, L73#12
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-025
+  type: sentence
+  tier: primary
+  front_en: I want you to go.
+  back_es: Quiero que vayas.
+  hint: que + ir mood
+  rule_ref: L73#12
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-026
+  type: sentence
+  tier: primary
+  front_en: I hope they go.
+  back_es: Espero que vayan.
+  hint: hope-that + ir mood plural
+  rule_ref: L73#12
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-027
+  type: sentence
+  tier: primary
+  front_en: I want them to go together.
+  back_es: Quiero que vayan juntos.
+  hint: que + ir mood plural · juntos agrees
+  rule_ref: L73#12, L73#10
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-028
+  type: sentence
+  tier: primary
+  front_en: Let's not go.
+  back_es: No vayamos.
+  hint: negative *let's* → mood (vayamos)
+  rule_ref: L73#4, L73#12
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-029
+  type: sentence
+  tier: primary
+  front_en: Let them go.
+  back_es: Que vayan.
+  hint: que + ir mood plural
+  rule_ref: L73#5, L73#12
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-030
+  type: sentence
+  tier: primary
+  front_en: Let's eat. (Comamos…)
+  back_es: Comamos.
+  hint: -er → -amos
+  rule_ref: L73#11
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-031
+  type: sentence
+  tier: primary
+  front_en: Let's speak.
+  back_es: Hablemos.
+  hint: -ar → -emos
+  rule_ref: L73#2
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-033
+  type: sentence
+  tier: primary
+  front_en: Finish it.
+  back_es: Termínalo.
+  hint: drop -s · attach lo · accent
+  rule_ref: L73#1
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-034
+  type: sentence
+  tier: primary
+  front_en: Let it finish.
+  back_es: Que termine.
+  hint: que + mood for *let it*
+  rule_ref: L73#5
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-035
+  type: sentence
+  tier: extended
+  front_en: Shall we wait?
+  back_es: ¿Esperemos?
+  hint: same form, softer tone
+  rule_ref: L73#3
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-036
+  type: sentence
+  tier: extended
+  front_en: Let her go.
+  back_es: Que vaya.
+  hint: que + ir mood singular
+  rule_ref: L73#5, L73#12
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-037
+  type: sentence
+  tier: extended
+  front_en: When you go, tell me.
+  back_es: Cuando vayas, dime.
+  hint: future cuando + drop-s shortcut on dime
+  rule_ref: L73#9, L73#12
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-038
+  type: sentence
+  tier: extended
+  front_en: When they finish, we'll go.
+  back_es: Cuando terminen, vamos.
+  hint: future cuando → mood · main verb stays present
+  rule_ref: L73#9, L73#11
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-041
+  type: sentence
+  tier: extended
+  front_en: Let's go together.
+  back_es: Vamos juntos.
+  hint: ir uses normal vamos for *let's*
+  rule_ref: L73#12, L73#10
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-042
+  type: sentence
+  tier: extended
+  front_en: Let's not eat.
+  back_es: No comamos.
+  hint: -er → -amos · negate with *no*
+  rule_ref: L73#4, L73#11
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-043
+  type: sentence
+  tier: extended
+  front_en: Let them finish.
+  back_es: Que terminen.
+  hint: que + mood plural
+  rule_ref: L73#5
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-044
+  type: sentence
+  tier: extended
+  front_en: Let's not speak.
+  back_es: No hablemos.
+  hint: -ar → -emos · with *no*
+  rule_ref: L73#4, L73#2
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-045
+  type: sentence
+  tier: extended
+  front_en: When we go together, we'll eat.
+  back_es: Cuando vayamos juntos, comemos.
+  hint: cuando + ir mood · main verb present
+  rule_ref: L73#11, L73#12
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-047
+  type: sentence
+  tier: extended
+  front_en: I prefer that you go.
+  back_es: Prefiero que vayas.
+  hint: subjective + que + ir mood
+  rule_ref: L73#12
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-048
+  type: sentence
+  tier: extended
+  front_en: I like that we go together.
+  back_es: Me gusta que vayamos juntos.
+  hint: like-that + ir mood we-form
+  rule_ref: L73#12, L73#10
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-049
+  type: sentence
+  tier: extended
+  front_en: Wait!
+  back_es: ¡Espera!
+  hint: drop -s · exclamation
+  rule_ref: L73#1
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-050
+  type: sentence
+  tier: extended
+  front_en: Finish.
+  back_es: Termina.
+  hint: drop -s from *terminas*
+  rule_ref: L73#1
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-052
+  type: sentence
+  tier: extended
+  front_en: When you finish, call me.
+  back_es: Cuando termines, llámame.
+  hint: future cuando → mood · drop-s + me end
+  rule_ref: L73#9, L73#1
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-054
+  type: sentence
+  tier: extended
+  front_en: We'll see them when we go.
+  back_es: Los vemos cuando vayamos.
+  hint: future cuando → ir mood
+  rule_ref: L73#13, L73#12
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-055
+  type: sentence
+  tier: extended
+  front_en: Let's finish already.
+  back_es: Terminemos ya.
+  hint: -ar → -emos · ya = already
+  rule_ref: L73#2, L73#6
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: l73-056
+  type: sentence
+  tier: extended
+  front_en: When they go, they speak.
+  back_es: Cuando van, hablan.
+  hint: general truth → both present, no mood
+  rule_ref: L73#8
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
