@@ -12,14 +12,12 @@ A personal study repository for Mihalis Eleftheriou's free [Language Transfer �
 │       └── transcript.md       # verbatim transcript of the audio lesson
 ├── cards/                      # one yml per bundle, named <letter>_<theme>.yml
 │                               # (a_foundation.yml … z_closeout.yml + ñ_line_past_full.yml)
-├── stories/                    # short Spanish stories per bundle
-├── audio/                      # generated MP3s — drill tracks + story tracks (committed)
+├── audio/                      # generated drill MP3s (gitignored)
 ├── build/                      # generators: cards/*.yml → Anki, → MP3
 ├── docs/                       # design + content guidelines
-│   ├── learning-system.md      # overview of the flashcard + audio drill + story system
+│   ├── learning-system.md      # overview of the flashcard + audio drill system
 │   ├── lesson-bundles.md       # the 27-bundle plan (A–Z + Ñ)
 │   ├── card-design.md          # card schema, tiers, directions, quality bar
-│   ├── stories.md              # story system: gloss format, stretch budget, file layout
 │   ├── study-routine.md        # daily flow: flashcards + audio time
 │   ├── tts-plan.md             # TTS backend choice and progression plan
 │   ├── build-notes.md          # implementation surprises and decisions
@@ -29,13 +27,12 @@ A personal study repository for Mihalis Eleftheriou's free [Language Transfer �
 
 ## What it's for
 
-Three outputs feeding the same source-of-truth markdown:
+Two outputs feeding the same source-of-truth YAML:
 
 1. **An Anki deck** for desk review, with one subdeck per bundle (e.g. `Transferencia::Bundle B Verb Unlock`), tagged so you can drill `lesson::03` or `bundle::b_verb_unlock` or the whole thing.
 2. **Cumulative MP3 drill tracks** for hands-free practice in the car. Each track plays English prompt → silent pause for you to answer aloud → Spanish answer, mixing both directions (production + recognition).
-3. **Short Spanish stories** (5 per bundle, 135 total at full course scale) for immersion-style listening. Pure Spanish narration MP3s plus markdown files with a word-aligned literal English gloss that reveals Spanish syntax. See [docs/stories.md](docs/stories.md).
 
-Cards live in `cards/<letter>_<theme>.yml` — one bundle per Spanish-alphabet letter (A–Z + Ñ, 27 bundles, 9 fours + 18 threes = 90 lessons). Stories live in `stories/<bundle_slug>/`.
+Cards live in `cards/<letter>_<theme>.yml` — one bundle per Spanish-alphabet letter (A–Z + Ñ, 27 bundles, 9 fours + 18 threes = 90 lessons).
 
 ## Getting started
 
@@ -53,7 +50,6 @@ make all
 #   dist/transferencia.apkg                     → import into Anki
 #   dist/cards.json                             → flat dump for Phase 2 / iOS Shortcut
 #   audio/lesson_NN.mp3                         → cumulative drill tracks
-#   audio/stories/topic_*__*.mp3                → story narration tracks
 ```
 
 If `python3.11` isn't on your PATH, override with `make PYTHON=python3 install` and use a virtualenv:
@@ -67,10 +63,8 @@ make PYTHON=.venv/bin/python install   # or any other make target
 Useful targets while iterating:
 
 - `make validate` — parse all card YAML
-- `make validate-stories` — parse and budget-check stories
 - `make anki` — build `dist/transferencia.apkg`
 - `make audio-quick` — build `audio/lesson_03.mp3` via macOS `say` (fast smoke test)
-- `make stories` — build `audio/stories/topic_*__*.mp3`
 
 ## Pedagogy
 
@@ -87,22 +81,21 @@ See [docs/learning-system.md](docs/learning-system.md) for full design.
 
 - ✅ Lesson rules + transcripts: 90/90
 - ✅ Cross-references map: complete (`docs/cross-references.md`)
-- ✅ Card system infrastructure: schema, parser, validator, Anki generator, MP3 generator (cards mode + stories mode), Piper + macOS TTS adapters
+- ✅ Card system infrastructure: schema, parser, validator, Anki generator, MP3 generator, Piper + macOS TTS adapters
 - ✅ All 27 bundles (A–Z + Ñ) defined for L1–90 — see `docs/lesson-bundles.md`
 - ✅ Bundles A–I cards built (L1–28): ~2500 cards total
-- 🚧 Bundles A–B stories (L1–7): A done, B in progress
-- ⏳ Bundles J–Z (L29–90): defined; cards + stories not yet built
+- ⏳ Bundles J–Z (L29–90): defined; cards not yet built
 
 ## Daily routine
 
-Target: 5-20 min flashcards + 20-40 min audio (drill or story) per day. See [docs/study-routine.md](docs/study-routine.md).
+Target: 5–20 min flashcards + 20–40 min audio drill per day. See [docs/study-routine.md](docs/study-routine.md).
 
 ## Sync to phone
 
 For now, the simplest path:
 
 1. Drag `dist/transferencia.apkg` to Anki desktop, then sync to AnkiWeb. AnkiMobile pulls it automatically.
-2. Drag `audio/lesson_*.mp3` and `audio/stories/*.mp3` into an iCloud Drive folder. Open them from Files on iPhone. CarPlay / Bluetooth play directly.
+2. Drag `audio/lesson_*.mp3` into an iCloud Drive folder. Open them from Files on iPhone. CarPlay / Bluetooth play directly.
 
 A private podcast feed is a future option for incremental auto-sync.
 

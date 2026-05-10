@@ -1,7 +1,5 @@
-# generated audio — drill tracks and stories ARE committed (regeneratable but
-# offline-portable). Caches and eval artifacts stay ignored.
-audio/.cache/
-audio/eval/
+# generated audio — regeneratable from cards via `make audio`
+audio/
 
 # generated builds
 dist/
@@ -20,4 +18,3 @@ build/.pytest_cache/
 
 # project-local trash for safe deletes (use `trash` CLI or move-to-.trash/ instead of rm -rf)
 .trash/
-audio/.media/

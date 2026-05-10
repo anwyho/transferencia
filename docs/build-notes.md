@@ -1,6 +1,6 @@
 # Build Notes
 
-Notes captured during the initial implementation pass (`feature/flashcards-stories-system`). Anything that deviated from the plan or surprised the runtime ends up here.
+Notes captured during implementation. Anything that deviated from the plan or surprised the runtime ends up here.
 
 ## Deletes: use `trash`, not `rm -rf`
 
@@ -57,39 +57,32 @@ The `python_version >= "3.13"` marker keeps the install lightweight on older int
 
 Bundle A spans lessons 1–3 in the design, but `lessons/lesson_01/rules.md` is purely meta-instructional (no Vocabulary, no Examples). We deliberately have no L1 cards; the bundle file `cards/a_foundation.yml` still claims `lessons: [1, 2, 3]` because L1's framing (no memorizing, pause and answer) is the spirit of the bundle even though no surface vocab comes from L1.
 
-## Story stretch budget — proper-noun extension
-
-`build/lib/validate_story.py`'s `DEFAULT_STOPWORDS` was extended with three proper nouns (`maría`, `daniel`, `lina`) when authoring Bundle A's stories. Bundle A's 0% stretch budget required either restructuring stories to avoid any character names or adding the names to stopwords. We chose the latter — recurring cast is part of the story-bible design, and tracking proper nouns as stretch words doesn't add learning value.
-
-If new bundles introduce more recurring characters, extend the same list. Document each new name in `stories/_world.md`.
-
-## Slug-stripping accents
-
-The story-track filename slug originally produced `topic_01_03_foundation__01_a-morning-at-the-caf.mp3` because the `é` in *café* hit the `[^a-z0-9]+` regex without first being normalized. Fixed to accent-strip via `normalize.strip_accents` before the regex pass. Now produces `…__01_a-morning-at-the-cafe.mp3` as intended.
-
 ## Manual verification gates not automatable
 
 A few acceptance steps need a human and a phone:
 
 - Importing `dist/transferencia.apkg` into Anki desktop and visually verifying subdecks/templates.
 - Syncing to AnkiMobile via AnkiWeb.
-- Driving with a story or drill MP3 to gauge pacing and intelligibility.
+- Driving with a drill MP3 to gauge pacing and intelligibility.
 - Comparing Piper voices against macOS `say` (Stage 2 of `docs/tts-plan.md`).
 
 These remain on the user's end — the plan can't run them.
 
-## Output sizes (initial Bundle A)
+## Output sizes
 
 | Output | Size | Notes |
 |--------|------|-------|
 | `dist/transferencia.apkg` | ~1.2 MB | ~2500 cards, 9 subdecks (bundles A–I) |
 | `dist/cards.json` | ~700 KB | flat array, ~2500 entries |
 | `audio/lesson_NN.mp3` | varies | cumulative drill |
-| `audio/stories/*.mp3` | ~1 MB each | 5 stories per bundle, ~5 min audio each |
 
-The cumulative drill track is large because every L2 + L3 + topical card is expanded into 1-2 segments (en_es and, for sentences/transformations, also es_en). That's expected; later bundles' tracks will be longer still. Piper voices at higher quality may produce different sizes.
+The cumulative drill track grows fast because every card expands into 1–2 segments (en_es and, for sentences/transformations, also es_en). Later bundles' tracks will be longer still. Piper voices at higher quality may produce different sizes.
 
 A `shadow` direction (Spanish→Spanish repeat) was originally part of the design and shipped briefly. Removed after a first pass through the cards — added bloat without enough learning value. See the deletion in the diff that removed `Direction.SHADOW`.
+
+## Story system removed (2026-05)
+
+An earlier pass shipped a story-rendering subsystem (`build/lib/story.py`, `validate_story.py`, `--stories` mode in `generate_audio.py`, `stories/` directory of hand-authored Spanish narratives with literal-gloss layers, `audio/stories/` MP3s). It was wiped to make room for a redesigned story system. The card system stands alone and is unaffected. If you need the old code, recover from git history before this commit.
 
 ## Bundle restructure (2026-05)
 
@@ -103,7 +96,7 @@ Bundle file format adds a `bundle:` letter and `lessons:` array. The validation 
 
 These weren't completed in the initial pass and are tracked for follow-up:
 
-- **Bundles J–Z content**: 18 bundles' worth of cards + stories. Rolling effort.
+- **Bundles J–Z content**: 18 bundles' worth of cards. Rolling effort.
 - **Manual Anki import test**: user gates this.
 - **TTS A/B with Piper**: requires running `build/scripts/fetch_piper_voices.sh` and a drive-test session. See `docs/tts-plan.md`.
 - **Sync to phone documentation**: README has the manual procedure; private podcast feed is a nice-to-have.

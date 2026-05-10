@@ -39,7 +39,7 @@ def extract_lesson_vocab(rules_path: Path) -> Set[str]:
         # Vocab lines often have additional Spanish forms after the em-dash —
         # so we match every italic block, not just the first one before "—".
         # A few English words appear in italics inside glosses (e.g. *intention*),
-        # but they don't collide with Spanish tokens in stories so it's safe.
+        # but they don't collide with Spanish tokens in card prompts so it's safe.
         for phrase_match in _ITALIC_PHRASE_RE.finditer(line):
             phrase = phrase_match.group(1).strip().lower()
             # Slash-separated conjugation lists inside one italic block count

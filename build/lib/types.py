@@ -1,7 +1,7 @@
-"""Core dataclasses: Card, CardType, Tier, Direction, Story."""
+"""Core dataclasses: Card, CardType, Tier, Direction."""
 from __future__ import annotations
 
-from dataclasses import dataclass, field
+from dataclasses import dataclass
 from enum import Enum
 from typing import List
 
@@ -37,17 +37,3 @@ class Card:
     source_file: str = ""  # path to the YAML file the card was loaded from
 
 
-@dataclass(frozen=True)
-class Story:
-    """Parsed story file."""
-    topic: str
-    lessons: List[int]
-    title: str
-    title_en: str
-    order: int
-    target_minutes: float
-    stretch_used_pct: float
-    spanish_paragraphs: List[List[str]]  # paragraphs → list of Spanish lines (gloss stripped)
-    free_translation: str
-    source_file: str = ""
-    skip_budget: bool = False  # opt out of vocab-budget enforcement (for free-form stories)
