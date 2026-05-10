@@ -1,0 +1,1507 @@
+bundle: Ñ
+title: 'Line-past full: -aba expansion, -ía for -er/-ir, era/iba/veía'
+lessons:
+- 47
+- 48
+- 49
+cards:
+- id: l47-001
+  type: conjugation
+  tier: primary
+  front_en: line-past I/he/she form of cenar
+  back_es: cenaba
+  hint: chop -ar, add -aba · one form covers many subjects
+  rule_ref: L47#1, L47#2
+  lessons:
+  - 47
+  directions:
+  - en_es
+- id: l47-002
+  type: conjugation
+  tier: primary
+  front_en: line-past you-informal form of cenar
+  back_es: cenabas
+  hint: -aba + -s
+  rule_ref: L47#1
+  lessons:
+  - 47
+  directions:
+  - en_es
+- id: l47-003
+  type: conjugation
+  tier: primary
+  front_en: line-past they form of cenar
+  back_es: cenaban
+  hint: -aba + -n
+  rule_ref: L47#1
+  lessons:
+  - 47
+  directions:
+  - en_es
+- id: l47-004
+  type: conjugation
+  tier: primary
+  front_en: line-past we form of cenar
+  back_es: cenábamos
+  hint: -ábamos with accent on á
+  rule_ref: L47#1
+  lessons:
+  - 47
+  directions:
+  - en_es
+- id: l47-005
+  type: conjugation
+  tier: primary
+  front_en: line-past I/he/she form of quemar
+  back_es: quemaba
+  hint: chop -ar, add -aba
+  rule_ref: L47#1
+  lessons:
+  - 47
+  directions:
+  - en_es
+- id: l47-006
+  type: conjugation
+  tier: primary
+  front_en: line-past we form of quemar
+  back_es: quemábamos
+  hint: -ábamos with accent
+  rule_ref: L47#1
+  lessons:
+  - 47
+  directions:
+  - en_es
+- id: l47-007
+  type: transformation
+  tier: primary
+  front_en: the dinner
+  back_es: la cena
+  hint: feminine noun
+  rule_ref: L47#3
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-008
+  type: transformation
+  tier: primary
+  front_en: to dine / to have dinner
+  back_es: cenar
+  hint: la cena + -ar = verb
+  rule_ref: L47#3
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-009
+  type: transformation
+  tier: primary
+  front_en: to burn
+  back_es: quemar
+  hint: -ar verb
+  rule_ref: L47#1
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-010
+  type: transformation
+  tier: primary
+  front_en: to break
+  back_es: romper
+  hint: cousin of *rupture*
+  rule_ref: L47#10
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-011
+  type: transformation
+  tier: primary
+  front_en: the sun
+  back_es: el sol
+  hint: masculine
+  rule_ref: L47#8
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-012
+  type: transformation
+  tier: primary
+  front_en: all the time
+  back_es: todo el tiempo
+  hint: literally *all the time*
+  rule_ref: L47#11
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-015
+  type: transformation
+  tier: primary
+  front_en: this (masc.)
+  back_es: este
+  hint: echoes the /e/ of *el*
+  rule_ref: L47#13
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-016
+  type: transformation
+  tier: primary
+  front_en: this (fem.)
+  back_es: esta
+  hint: echoes the /a/ of *la*
+  rule_ref: L47#13
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-019
+  type: transformation
+  tier: primary
+  front_en: that (masc.)
+  back_es: ese
+  hint: este → ese (pluck the t)
+  rule_ref: L47#15
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-021
+  type: transformation
+  tier: primary
+  front_en: those (masc.)
+  back_es: esos
+  hint: estos → ... · default for mixed groups
+  rule_ref: L47#15, L47#16
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-023
+  type: sentence
+  tier: primary
+  front_en: I was having dinner.
+  back_es: Cenaba.
+  hint: one form, many meanings
+  rule_ref: L47#1, L47#2
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-024
+  type: sentence
+  tier: primary
+  front_en: He was burning the dinner.
+  back_es: Quemaba la cena.
+  rule_ref: L47#1, L47#7
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-025
+  type: sentence
+  tier: primary
+  front_en: You-formal were burning the dinner.
+  back_es: Usted quemaba la cena.
+  hint: '*usted* disambiguates'
+  rule_ref: L47#1, L47#2
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-029
+  type: sentence
+  tier: primary
+  front_en: The dinner was burning. (La…)
+  back_es: La cena se quemaba.
+  hint: '*se* = it got burnt (no object after)'
+  rule_ref: L47#5, L47#7, L47#1
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-030
+  type: sentence
+  tier: primary
+  front_en: The dinner was burning. (Se…)
+  back_es: Se quemaba la cena.
+  hint: flexible word order with *se*
+  rule_ref: L47#6, L47#5
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-031
+  type: sentence
+  tier: primary
+  front_en: I get burnt in the sun.
+  back_es: Me quemo en el sol.
+  hint: '*me* = it happens to me'
+  rule_ref: L47#8
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-032
+  type: sentence
+  tier: primary
+  front_en: The sun burns me.
+  back_es: El sol me quema.
+  hint: no *se* needed — sentence is complete
+  rule_ref: L47#9
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-033
+  type: sentence
+  tier: primary
+  front_en: I break it.
+  back_es: Lo rompo.
+  hint: '*lo* = it (object)'
+  rule_ref: L47#10
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-034
+  type: sentence
+  tier: primary
+  front_en: It breaks all the time.
+  back_es: Se rompe todo el tiempo.
+  hint: '*se* + *todo el tiempo*'
+  rule_ref: L47#10, L47#11
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-035
+  type: sentence
+  tier: primary
+  front_en: They break all the time.
+  back_es: Se rompen todo el tiempo.
+  hint: 'plural: *-en*'
+  rule_ref: L47#10, L47#11
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-038
+  type: sentence
+  tier: primary
+  front_en: these cars
+  back_es: estos autos
+  rule_ref: L47#14
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-040
+  type: sentence
+  tier: primary
+  front_en: those cars
+  back_es: esos autos
+  rule_ref: L47#15
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-041
+  type: sentence
+  tier: primary
+  front_en: Those ones break all the time.
+  back_es: Esos se rompen todo el tiempo.
+  hint: '*esos* alone = those ones'
+  rule_ref: L47#16, L47#10, L47#11
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l48-001
+  type: conjugation
+  tier: primary
+  front_en: line-past I/he/she form of comer
+  back_es: comía
+  hint: chop -er, add -ía
+  rule_ref: L48#1, L48#4
+  lessons:
+  - 48
+  directions:
+  - en_es
+- id: l48-004
+  type: conjugation
+  tier: primary
+  front_en: line-past we form of comer
+  back_es: comíamos
+  hint: -íamos
+  rule_ref: L48#4
+  lessons:
+  - 48
+  directions:
+  - en_es
+- id: l48-005
+  type: conjugation
+  tier: primary
+  front_en: line-past I/he/she form of vender
+  back_es: vendía
+  rule_ref: L48#1
+  lessons:
+  - 48
+  directions:
+  - en_es
+- id: l48-006
+  type: conjugation
+  tier: primary
+  front_en: line-past I/he/she form of romper
+  back_es: rompía
+  hint: -er → -ía
+  rule_ref: L48#1
+  lessons:
+  - 48
+  directions:
+  - en_es
+- id: l48-007
+  type: conjugation
+  tier: primary
+  front_en: would form (I/he/she) of comer
+  back_es: comería
+  hint: 'would: ADD -ía to full -er form'
+  rule_ref: L48#2, L48#3
+  lessons:
+  - 48
+  directions:
+  - en_es
+- id: l48-008
+  type: conjugation
+  tier: primary
+  front_en: would form (I/he/she) of romper
+  back_es: rompería
+  hint: ADD -ía to *romper* (don't chop)
+  rule_ref: L48#2, L48#3
+  lessons:
+  - 48
+  directions:
+  - en_es
+- id: l48-009
+  type: conjugation
+  tier: primary
+  front_en: she form of decir
+  back_es: dice
+  hint: slightly irregular
+  rule_ref: L48#8
+  lessons:
+  - 48
+  directions:
+  - en_es
+- id: l48-012
+  type: conjugation
+  tier: primary
+  front_en: we form of decir
+  back_es: decimos
+  hint: we escapes irregularity
+  rule_ref: L48#8, L48#9
+  lessons:
+  - 48
+  directions:
+  - en_es
+- id: l48-014
+  type: transformation
+  tier: primary
+  front_en: to say
+  back_es: decir
+  hint: irregular present forms
+  rule_ref: L48#8
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-016
+  type: transformation
+  tier: primary
+  front_en: to stay
+  back_es: quedarse
+  hint: '*-se* changes meaning vs *quedar*'
+  rule_ref: L48#10, L48#14
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-018
+  type: transformation
+  tier: primary
+  front_en: Spanish (language)
+  back_es: español
+  hint: lower-case in Spanish
+  rule_ref: L48#10
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-021
+  type: sentence
+  tier: primary
+  front_en: I was eating.
+  back_es: Comía.
+  hint: chop -er + -ía
+  rule_ref: L48#1
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-023
+  type: sentence
+  tier: primary
+  front_en: I would sell it.
+  back_es: Lo vendería.
+  hint: '*lo* before verb'
+  rule_ref: L48#2
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-024
+  type: sentence
+  tier: primary
+  front_en: I was selling it.
+  back_es: Lo vendía.
+  rule_ref: L48#1
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-025
+  type: sentence
+  tier: primary
+  front_en: I was breaking it.
+  back_es: Lo rompía.
+  rule_ref: L48#1
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-026
+  type: sentence
+  tier: primary
+  front_en: I would break it.
+  back_es: Lo rompería.
+  rule_ref: L48#2
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-027
+  type: sentence
+  tier: primary
+  front_en: They would break it.
+  back_es: Lo romperían.
+  rule_ref: L48#2
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-028
+  type: sentence
+  tier: extended
+  front_en: It was breaking.
+  back_es: Se rompía.
+  hint: '*se* + line-past'
+  rule_ref: L48#1, L47#10
+  lessons:
+  - 47
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-030
+  type: sentence
+  tier: primary
+  front_en: for sale
+  back_es: Se vende.
+  hint: literally *it sells itself*
+  rule_ref: L48#5
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-031
+  type: sentence
+  tier: primary
+  front_en: It was for sale.
+  back_es: Se vendía.
+  rule_ref: L48#5, L48#1
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-032
+  type: sentence
+  tier: primary
+  front_en: It would be for sale.
+  back_es: Se vendería.
+  rule_ref: L48#5, L48#2
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-033
+  type: sentence
+  tier: primary
+  front_en: Spanish is spoken.
+  back_es: Se habla español.
+  hint: creative *se* usage
+  rule_ref: L48#10
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-034
+  type: sentence
+  tier: primary
+  front_en: It's going to break.
+  back_es: Se va a romper.
+  hint: '*va a* + infinitive'
+  rule_ref: L48#6
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-035
+  type: sentence
+  tier: primary
+  front_en: How do you say it?
+  back_es: ¿Cómo se dice?
+  hint: literally *how does it say itself*
+  rule_ref: L48#7
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-037
+  type: sentence
+  tier: primary
+  front_en: I have one left.
+  back_es: Me queda uno.
+  hint: literally *one remains to me*
+  rule_ref: L48#11, L48#12
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-038
+  type: sentence
+  tier: primary
+  front_en: I have two left.
+  back_es: Me quedan dos.
+  hint: verb agrees with the thing left
+  rule_ref: L48#12
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-039
+  type: sentence
+  tier: primary
+  front_en: He has two left.
+  back_es: Le quedan dos.
+  hint: '*le* = to him/her/you-formal'
+  rule_ref: L48#13
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-040
+  type: sentence
+  tier: primary
+  front_en: I don't have any left.
+  back_es: No me queda.
+  hint: singular form also common
+  rule_ref: L48#13
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-044
+  type: sentence
+  tier: primary
+  front_en: We were staying here.
+  back_es: Nos quedábamos aquí.
+  hint: -ábamos with accent
+  rule_ref: L48#16, L47#1
+  lessons:
+  - 47
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-045
+  type: sentence
+  tier: primary
+  front_en: They weren't staying here.
+  back_es: No se quedaban aquí.
+  rule_ref: L48#16, L47#1
+  lessons:
+  - 47
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l49-001
+  type: transformation
+  tier: primary
+  front_en: to call
+  back_es: llamar
+  hint: '*ll* sounds like /y/'
+  rule_ref: L49#1
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-002
+  type: transformation
+  tier: primary
+  front_en: to have (possession)
+  back_es: tener
+  hint: NOT for past helpers (use *haber*)
+  rule_ref: L49#4
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-007
+  type: transformation
+  tier: primary
+  front_en: a big house
+  back_es: una casa grande
+  hint: adjective AFTER noun
+  rule_ref: L49#8
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-008
+  type: transformation
+  tier: primary
+  front_en: four
+  back_es: cuatro
+  hint: cousin of *quarter*
+  rule_ref: L49#4
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-009
+  type: transformation
+  tier: primary
+  front_en: but now
+  back_es: pero ahora
+  rule_ref: L49#4
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-010
+  type: transformation
+  tier: primary
+  front_en: yesterday
+  back_es: ayer
+  rule_ref: L49#10
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-013
+  type: transformation
+  tier: primary
+  front_en: to be (characteristics)
+  back_es: ser
+  hint: line-past *era* — like *era* in English
+  rule_ref: L49#13
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-016
+  type: conjugation
+  tier: primary
+  front_en: line-past I/he/she form of tener
+  back_es: tenía
+  hint: accent on í
+  rule_ref: L49#7
+  lessons:
+  - 49
+  directions:
+  - en_es
+- id: l49-017
+  type: conjugation
+  tier: primary
+  front_en: line-past we form of tener
+  back_es: teníamos
+  rule_ref: L49#7
+  lessons:
+  - 49
+  directions:
+  - en_es
+- id: l49-019
+  type: conjugation
+  tier: primary
+  front_en: line-past I/he/she form of ver
+  back_es: veía
+  hint: keep the extra *e* from *veo*
+  rule_ref: L49#12
+  lessons:
+  - 49
+  directions:
+  - en_es
+- id: l49-020
+  type: conjugation
+  tier: primary
+  front_en: line-past we form of ver
+  back_es: veíamos
+  rule_ref: L49#12
+  lessons:
+  - 49
+  directions:
+  - en_es
+- id: l49-023
+  type: conjugation
+  tier: primary
+  front_en: line-past I/he/she form of ser
+  back_es: era
+  hint: an *era* = a line of time past
+  rule_ref: L49#13
+  lessons:
+  - 49
+  directions:
+  - en_es
+- id: l49-025
+  type: conjugation
+  tier: primary
+  front_en: line-past we form of ser
+  back_es: éramos
+  hint: accent on é
+  rule_ref: L49#13, L49#15
+  lessons:
+  - 49
+  directions:
+  - en_es
+- id: l49-027
+  type: conjugation
+  tier: primary
+  front_en: line-past I/he/she form of ir
+  back_es: iba
+  hint: blend of -aba and -ía sounds
+  rule_ref: L49#16
+  lessons:
+  - 49
+  directions:
+  - en_es
+- id: l49-029
+  type: conjugation
+  tier: primary
+  front_en: line-past we form of ir
+  back_es: íbamos
+  hint: accent on í
+  rule_ref: L49#16
+  lessons:
+  - 49
+  directions:
+  - en_es
+- id: l49-031
+  type: sentence
+  tier: primary
+  front_en: My name is...
+  back_es: Me llamo...
+  hint: literally *I call myself*
+  rule_ref: L49#1
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-034
+  type: sentence
+  tier: primary
+  front_en: What was his name?
+  back_es: ¿Cómo se llamaba?
+  hint: line-past of *llamar*
+  rule_ref: L49#3, L47#1
+  lessons:
+  - 47
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-036
+  type: sentence
+  tier: primary
+  front_en: I used to have a big house.
+  back_es: Tenía una casa grande.
+  hint: adjective after noun
+  rule_ref: L49#7, L49#8
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-037
+  type: sentence
+  tier: primary
+  front_en: We used to have a big house.
+  back_es: Teníamos una casa grande.
+  rule_ref: L49#7, L49#8
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-038
+  type: sentence
+  tier: primary
+  front_en: I have to see you.
+  back_es: Tengo que verte.
+  hint: '*tengo que* = I must'
+  rule_ref: L49#9
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-039
+  type: sentence
+  tier: primary
+  front_en: I had to see you.
+  back_es: Tenía que verte.
+  hint: line-past for *had to*
+  rule_ref: L49#10
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-040
+  type: sentence
+  tier: extended
+  front_en: I had to see you yesterday.
+  back_es: Tenía que verte ayer.
+  rule_ref: L49#10
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-041
+  type: sentence
+  tier: primary
+  front_en: Didn't you have to do it yesterday?
+  back_es: ¿No tenías que hacerlo ayer?
+  rule_ref: L49#10
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-042
+  type: sentence
+  tier: primary
+  front_en: I used to be a student.
+  back_es: Era estudiante.
+  hint: no word for *a* needed
+  rule_ref: L49#13, L49#14
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-043
+  type: sentence
+  tier: primary
+  front_en: Were you a student?
+  back_es: ¿Eras estudiante?
+  rule_ref: L49#13, L49#14
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-044
+  type: sentence
+  tier: primary
+  front_en: We were students.
+  back_es: Éramos estudiantes.
+  hint: accent on é
+  rule_ref: L49#13, L49#15
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-045
+  type: sentence
+  tier: primary
+  front_en: I was going to call you.
+  back_es: Iba a llamarte.
+  hint: '*iba a* + infinitive'
+  rule_ref: L49#17
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-046
+  type: sentence
+  tier: primary
+  front_en: I was going to do it.
+  back_es: Iba a hacerlo.
+  rule_ref: L49#17
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-047
+  type: sentence
+  tier: primary
+  front_en: We were going to do it.
+  back_es: Íbamos a hacerlo.
+  rule_ref: L49#17
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-048
+  type: sentence
+  tier: extended
+  front_en: I was seeing.
+  back_es: Veía.
+  rule_ref: L49#12
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l47-042
+  type: sentence
+  tier: extended
+  front_en: Those ones were breaking.
+  back_es: Esos se rompían.
+  hint: '*esos* + line-past *se*'
+  rule_ref: L47#16, L48#1
+  lessons:
+  - 47
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l47-043
+  type: sentence
+  tier: extended
+  front_en: He used to dine here.
+  back_es: Cenaba aquí.
+  hint: context disambiguates subject
+  rule_ref: L47#1, L48#10
+  lessons:
+  - 47
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l47-044
+  type: sentence
+  tier: extended
+  front_en: This car breaks all the time.
+  back_es: Este auto se rompe todo el tiempo.
+  rule_ref: L47#13, L47#10, L47#11
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-045
+  type: sentence
+  tier: extended
+  front_en: That dinner was burning.
+  back_es: Esa cena se quemaba.
+  rule_ref: L47#15, L47#5, L47#1
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-046
+  type: sentence
+  tier: extended
+  front_en: We used to burn the dinner.
+  back_es: Quemábamos la cena.
+  hint: we form -ábamos
+  rule_ref: L47#1
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-047
+  type: sentence
+  tier: extended
+  front_en: It transforms.
+  back_es: Se transforma.
+  hint: '*se* with -ar verbs too'
+  rule_ref: L47#17
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-048
+  type: sentence
+  tier: extended
+  front_en: It changes.
+  back_es: Cambia.
+  hint: '*cambiar* doesn''t need *se*'
+  rule_ref: L47#17
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-049
+  type: transformation
+  tier: extended
+  front_en: to transform (itself)
+  back_es: transformarse
+  rule_ref: L47#17
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-050
+  type: transformation
+  tier: extended
+  front_en: to change
+  back_es: cambiar
+  hint: no *se* needed
+  rule_ref: L47#17
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-051
+  type: sentence
+  tier: extended
+  front_en: It was transforming.
+  back_es: Se transformaba.
+  hint: '*se* + -aba'
+  rule_ref: L47#17, L47#1
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-052
+  type: sentence
+  tier: extended
+  front_en: We were getting burnt in the sun.
+  back_es: Nos quemábamos en el sol.
+  hint: '*nos* = ourselves'
+  rule_ref: L47#8, L47#1
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l47-053
+  type: sentence
+  tier: extended
+  front_en: These cars break all the time.
+  back_es: Estos autos se rompen todo el tiempo.
+  rule_ref: L47#14, L47#10, L47#11
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: l48-046
+  type: sentence
+  tier: extended
+  front_en: We don't have any left. (one thing)
+  back_es: No nos queda.
+  rule_ref: L48#11, L48#13
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-047
+  type: sentence
+  tier: extended
+  front_en: We don't have any left. (several things)
+  back_es: No nos quedan.
+  hint: plural form also heard
+  rule_ref: L48#12, L48#13
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-048
+  type: sentence
+  tier: extended
+  front_en: I wasn't staying.
+  back_es: No me quedaba.
+  hint: line-past of *quedarse*
+  rule_ref: L48#16
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-049
+  type: sentence
+  tier: extended
+  front_en: This car is for sale.
+  back_es: Este auto se vende.
+  rule_ref: L47#13, L48#5
+  lessons:
+  - 47
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-050
+  type: sentence
+  tier: extended
+  front_en: Those cars were for sale.
+  back_es: Esos autos se vendían.
+  rule_ref: L47#15, L48#5, L48#1
+  lessons:
+  - 47
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-051
+  type: sentence
+  tier: extended
+  front_en: We would eat here.
+  back_es: Comeríamos aquí.
+  hint: would + aquí
+  rule_ref: L48#2
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-052
+  type: sentence
+  tier: extended
+  front_en: We were eating here.
+  back_es: Comíamos aquí.
+  rule_ref: L48#1, L48#4
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-053
+  type: sentence
+  tier: extended
+  front_en: They were eating.
+  back_es: Comían.
+  rule_ref: L48#4
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-054
+  type: sentence
+  tier: extended
+  front_en: How is it said in Spanish?
+  back_es: ¿Cómo se dice en español?
+  rule_ref: L48#7
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-055
+  type: sentence
+  tier: extended
+  front_en: They say.
+  back_es: Dicen.
+  rule_ref: L48#8
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-056
+  type: sentence
+  tier: extended
+  front_en: He has one left.
+  back_es: Le queda uno.
+  rule_ref: L48#13
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-057
+  type: sentence
+  tier: extended
+  front_en: We were staying.
+  back_es: Nos quedábamos.
+  rule_ref: L48#16
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l48-059
+  type: sentence
+  tier: extended
+  front_en: I would sell this car.
+  back_es: Vendería este auto.
+  rule_ref: L48#2, L47#13
+  lessons:
+  - 47
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: l49-050
+  type: sentence
+  tier: extended
+  front_en: What were they?
+  back_es: ¿Qué eran?
+  rule_ref: L49#13
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-051
+  type: sentence
+  tier: extended
+  front_en: I had four, but now none are left.
+  back_es: Tenía cuatro, pero ahora no me queda.
+  hint: L49 + L48 combo
+  rule_ref: L49#7, L48#13
+  lessons:
+  - 48
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-052
+  type: sentence
+  tier: extended
+  front_en: Did you have to do it yesterday?
+  back_es: ¿Tenías que hacerlo ayer?
+  rule_ref: L49#10
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-053
+  type: sentence
+  tier: extended
+  front_en: We were going to do them.
+  back_es: Íbamos a hacerlos.
+  hint: -los = them (masc.)
+  rule_ref: L49#17
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-054
+  type: sentence
+  tier: extended
+  front_en: They were going to call you.
+  back_es: Iban a llamarte.
+  rule_ref: L49#17, L49#16
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-055
+  type: sentence
+  tier: extended
+  front_en: You-formal used to have a big house.
+  back_es: Usted tenía una casa grande.
+  rule_ref: L49#7, L49#8
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-056
+  type: sentence
+  tier: extended
+  front_en: What was your name?
+  back_es: ¿Cómo te llamabas?
+  hint: informal past
+  rule_ref: L49#3
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-057
+  type: sentence
+  tier: extended
+  front_en: They had a big house.
+  back_es: Tenían una casa grande.
+  rule_ref: L49#7, L49#8
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-058
+  type: sentence
+  tier: extended
+  front_en: You used to be a student.
+  back_es: Eras estudiante.
+  rule_ref: L49#13, L49#14
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-059
+  type: sentence
+  tier: extended
+  front_en: They used to be students.
+  back_es: Eran estudiantes.
+  rule_ref: L49#13
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-060
+  type: sentence
+  tier: extended
+  front_en: I was seeing you.
+  back_es: Te veía.
+  rule_ref: L49#12
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-061
+  type: sentence
+  tier: extended
+  front_en: They were seeing it.
+  back_es: Lo veían.
+  rule_ref: L49#12
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-062
+  type: sentence
+  tier: extended
+  front_en: He used to contain it.
+  back_es: Lo contenía.
+  hint: -tener line-past = -tenía
+  rule_ref: L49#5, L49#7
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-063
+  type: sentence
+  tier: extended
+  front_en: We used to maintain the house.
+  back_es: Manteníamos la casa.
+  rule_ref: L49#5, L49#7
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-064
+  type: sentence
+  tier: extended
+  front_en: I had to call you.
+  back_es: Tenía que llamarte.
+  rule_ref: L49#10, L49#1
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: l49-065
+  type: sentence
+  tier: extended
+  front_en: I didn't have to do it.
+  back_es: No tenía que hacerlo.
+  rule_ref: L49#10
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en

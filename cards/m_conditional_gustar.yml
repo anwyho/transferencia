@@ -1,0 +1,1671 @@
+bundle: M
+title: 'Preposition pairs + conditional + gustar: enamorarse de, pensar en, -ía, gustar, habría'
+lessons:
+- 40
+- 41
+- 42
+- 43
+cards:
+- id: l40-001
+  type: transformation
+  tier: primary
+  front_en: to fall in love (with oneself)
+  back_es: enamorarse
+  hint: enamorar + se · -se hooks on
+  rule_ref: L40#2
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-002
+  type: transformation
+  tier: primary
+  front_en: I fall in love
+  back_es: me enamoro
+  hint: me + enamoro · regular -ar
+  rule_ref: L40#2
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-004
+  type: transformation
+  tier: primary
+  front_en: I think
+  back_es: pienso
+  hint: e → ie split when stressed
+  rule_ref: L40#5
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-006
+  type: transformation
+  tier: primary
+  front_en: to dream
+  back_es: soñar
+  hint: ñ = n-y
+  rule_ref: L40#7
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-007
+  type: transformation
+  tier: primary
+  front_en: I dream
+  back_es: sueño
+  hint: o → ue split when stressed
+  rule_ref: L40#8
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-009
+  type: transformation
+  tier: primary
+  front_en: with me
+  back_es: conmigo
+  hint: con + mi + -go · one word
+  rule_ref: L40#12
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-010
+  type: transformation
+  tier: primary
+  front_en: with you (informal)
+  back_es: contigo
+  hint: con + ti + -go · one word
+  rule_ref: L40#12
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-011
+  type: sentence
+  tier: primary
+  front_en: I fall in love with you.
+  back_es: Me enamoro de ti.
+  hint: 'Spanish: fall in love OF'
+  rule_ref: L40#1, L40#3
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-012
+  type: sentence
+  tier: primary
+  front_en: I fall in love with him.
+  back_es: Me enamoro de él.
+  hint: de + él
+  rule_ref: L40#1, L40#3
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-013
+  type: sentence
+  tier: primary
+  front_en: I'm falling in love. (Me…)
+  back_es: Me estoy enamorando.
+  hint: estar + -ando · me up front
+  rule_ref: L40#4
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-014
+  type: sentence
+  tier: primary
+  front_en: I'm thinking about you.
+  back_es: Pienso en ti.
+  hint: think IN, not about
+  rule_ref: L40#5, L40#6
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-015
+  type: sentence
+  tier: primary
+  front_en: We think about her.
+  back_es: Pensamos en ella.
+  hint: en + ella
+  rule_ref: L40#6, L40#9
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-016
+  type: sentence
+  tier: primary
+  front_en: I dream about her.
+  back_es: Sueño con ella.
+  hint: dream WITH
+  rule_ref: L40#10
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-017
+  type: sentence
+  tier: primary
+  front_en: She dreams about him.
+  back_es: Sueña con él.
+  hint: soñar con · ñ
+  rule_ref: L40#7, L40#10
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-018
+  type: sentence
+  tier: primary
+  front_en: I dream about you.
+  back_es: Sueño contigo.
+  hint: con + ti → contigo
+  rule_ref: L40#10, L40#12
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-019
+  type: sentence
+  tier: primary
+  front_en: Do you want to come with me?
+  back_es: ¿Quieres venir conmigo?
+  rule_ref: L40#13, L40#12
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-020
+  type: sentence
+  tier: primary
+  front_en: Don't you want to come with me?
+  back_es: ¿No quieres venir conmigo?
+  hint: no + question intonation
+  rule_ref: L40#14, L40#12
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-021
+  type: sentence
+  tier: primary
+  front_en: Why don't you want to come with me?
+  back_es: ¿Por qué no quieres venir conmigo?
+  rule_ref: L40#15, L40#12
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-022
+  type: sentence
+  tier: primary
+  front_en: I'm going with you.
+  back_es: Voy contigo.
+  hint: voy ~ voyage
+  rule_ref: L40#18, L40#12
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-023
+  type: sentence
+  tier: primary
+  front_en: You have to come with me.
+  back_es: Tienes que venir conmigo.
+  rule_ref: L40#16, L40#12
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-024
+  type: sentence
+  tier: primary
+  front_en: Can you come with me?
+  back_es: ¿Puedes venir conmigo?
+  rule_ref: L40#17, L40#12
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-025
+  type: sentence
+  tier: primary
+  front_en: It depends.
+  back_es: Depende.
+  hint: -er verb, check before changing
+  rule_ref: L40#19
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-026
+  type: sentence
+  tier: primary
+  front_en: It depends on her.
+  back_es: Depende de ella.
+  hint: depends OF, not on
+  rule_ref: L40#20
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-029
+  type: sentence
+  tier: primary
+  front_en: It depends on if she wants to go.
+  back_es: Depende de si quiere ir.
+  hint: depende de + si
+  rule_ref: L40#20, L40#21
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-031
+  type: transformation
+  tier: extended
+  front_en: morning / tomorrow
+  back_es: mañana
+  hint: ñ — only Spanish-exclusive letter
+  rule_ref: L40#7
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-032
+  type: transformation
+  tier: extended
+  front_en: she dreams
+  back_es: sueña
+  hint: o → ue split
+  rule_ref: L40#8
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-033
+  type: transformation
+  tier: extended
+  front_en: you (informal) dream
+  back_es: sueñas
+  hint: o → ue split when stressed
+  rule_ref: L40#8
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-034
+  type: transformation
+  tier: extended
+  front_en: they dream
+  back_es: sueñan
+  hint: o → ue split
+  rule_ref: L40#8
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-035
+  type: sentence
+  tier: extended
+  front_en: I'm falling in love. (Estoy…)
+  back_es: Estoy enamorándome.
+  hint: -ando + me · alternate spot
+  rule_ref: L40#4
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-036
+  type: sentence
+  tier: extended
+  front_en: We think about him.
+  back_es: Pensamos en él.
+  rule_ref: L40#6, L40#9
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-037
+  type: sentence
+  tier: extended
+  front_en: We dream about you.
+  back_es: Soñamos contigo.
+  hint: soñar con + ti → contigo
+  rule_ref: L40#10, L40#12
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-038
+  type: sentence
+  tier: extended
+  front_en: From me / from you.
+  back_es: De mí / de ti.
+  hint: after-preposition forms
+  rule_ref: L40#11
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-039
+  type: sentence
+  tier: extended
+  front_en: It doesn't depend on me.
+  back_es: No depende de mí.
+  hint: no + depende de · mí accent
+  rule_ref: L40#20, L40#11
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-040
+  type: sentence
+  tier: extended
+  front_en: Yes, I want to go with you.
+  back_es: Sí, quiero ir contigo.
+  hint: sí (accent) = yes
+  rule_ref: L40#21, L40#12
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-041
+  type: sentence
+  tier: extended
+  front_en: Why don't you come with me?
+  back_es: ¿Por qué no vienes conmigo?
+  rule_ref: L40#15, L40#13, L40#12
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l40-042
+  type: sentence
+  tier: extended
+  front_en: I think about him constantly.
+  back_es: Pienso en él constantemente.
+  rule_ref: L40#6
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
+- id: l41-001
+  type: transformation
+  tier: primary
+  front_en: to dance
+  back_es: bailar
+  hint: 'cousin: ballerina'
+  rule_ref: L41#2
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l41-004
+  type: transformation
+  tier: primary
+  front_en: time, weather
+  back_es: tiempo
+  hint: 'cousin: tempo'
+  rule_ref: L41#16
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l41-005
+  type: transformation
+  tier: primary
+  front_en: transformation
+  back_es: transformación
+  hint: -tion → -ción
+  rule_ref: L41#20
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l41-009
+  type: conjugation
+  tier: primary
+  front_en: I-will form of bailar
+  back_es: bailaré
+  hint: full verb + -é · stress on end
+  rule_ref: L41#5, L41#6, L41#7
+  lessons:
+  - 41
+  directions:
+  - en_es
+- id: l41-012
+  type: conjugation
+  tier: primary
+  front_en: we-will form of bailar
+  back_es: bailaremos
+  hint: full verb + -emos
+  rule_ref: L41#5, L41#6
+  lessons:
+  - 41
+  directions:
+  - en_es
+- id: l41-014
+  type: conjugation
+  tier: primary
+  front_en: I-would form of bailar
+  back_es: bailaría
+  hint: full verb + -ía
+  rule_ref: L41#9, L41#11
+  lessons:
+  - 41
+  directions:
+  - en_es
+- id: l41-016
+  type: conjugation
+  tier: primary
+  front_en: we-would form of bailar
+  back_es: bailaríamos
+  hint: accent stays on í
+  rule_ref: L41#11
+  lessons:
+  - 41
+  directions:
+  - en_es
+- id: l41-018
+  type: conjugation
+  tier: primary
+  front_en: I-would form of comer
+  back_es: comería
+  hint: same endings for -er
+  rule_ref: L41#12, L41#15
+  lessons:
+  - 41
+  directions:
+  - en_es
+- id: l41-019
+  type: sentence
+  tier: primary
+  front_en: We're going to dance.
+  back_es: Vamos a bailar.
+  hint: ir a + verb
+  rule_ref: L41#1, L41#2
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l41-020
+  type: sentence
+  tier: primary
+  front_en: We dance later.
+  back_es: Bailamos más tarde.
+  hint: present + más tarde
+  rule_ref: L41#1, L41#3
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l41-021
+  type: sentence
+  tier: primary
+  front_en: We're going to dance later.
+  back_es: Vamos a bailar más tarde.
+  rule_ref: L41#1, L41#3
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l41-022
+  type: sentence
+  tier: primary
+  front_en: I will dance.
+  back_es: Bailaré.
+  hint: proper future
+  rule_ref: L41#6
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l41-023
+  type: sentence
+  tier: primary
+  front_en: We will dance.
+  back_es: Bailaremos.
+  rule_ref: L41#6
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l41-024
+  type: sentence
+  tier: primary
+  front_en: They will dance.
+  back_es: Bailarán.
+  rule_ref: L41#6
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l41-025
+  type: sentence
+  tier: primary
+  front_en: I would dance.
+  back_es: Bailaría.
+  hint: I jumps in with he/she group
+  rule_ref: L41#10, L41#11
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l41-026
+  type: sentence
+  tier: primary
+  front_en: We would dance.
+  back_es: Bailaríamos.
+  rule_ref: L41#11
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l41-027
+  type: sentence
+  tier: primary
+  front_en: I would go.
+  back_es: Iría.
+  hint: ir + ía
+  rule_ref: L41#14
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l41-028
+  type: sentence
+  tier: primary
+  front_en: She wouldn't go.
+  back_es: No iría.
+  hint: negate with no
+  rule_ref: L41#14
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l41-029
+  type: sentence
+  tier: primary
+  front_en: I would eat.
+  back_es: Comería.
+  hint: comer + ía
+  rule_ref: L41#15
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l41-030
+  type: sentence
+  tier: primary
+  front_en: I'd eat, but I don't have time.
+  back_es: Comería, pero no tengo tiempo.
+  rule_ref: L41#15, L41#16
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l41-031
+  type: sentence
+  tier: primary
+  front_en: It would transform the situation.
+  back_es: Transformaría la situación.
+  rule_ref: L41#17
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l41-032
+  type: sentence
+  tier: primary
+  front_en: It would get transformed.
+  back_es: Se transformaría.
+  hint: se = 'gets' (no 'get' in Spanish)
+  rule_ref: L41#18
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l41-033
+  type: sentence
+  tier: primary
+  front_en: It gets contaminated.
+  back_es: Se contamina.
+  hint: se for passive
+  rule_ref: L41#19
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l41-034
+  type: sentence
+  tier: primary
+  front_en: It would get contaminated.
+  back_es: Se contaminaría.
+  rule_ref: L41#19
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l41-035
+  type: sentence
+  tier: primary
+  front_en: I would imagine that he doesn't want to go.
+  back_es: Me imaginaría que no quiere ir.
+  hint: que = that
+  rule_ref: L41#22, L41#23
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l41-036
+  type: conjugation
+  tier: extended
+  front_en: I-will form of comer
+  back_es: comeré
+  hint: -er uses same endings
+  rule_ref: L41#8
+  lessons:
+  - 41
+  directions:
+  - en_es
+- id: l41-037
+  type: conjugation
+  tier: extended
+  front_en: they-will form of comer
+  back_es: comerán
+  rule_ref: L41#8
+  lessons:
+  - 41
+  directions:
+  - en_es
+- id: l41-038
+  type: conjugation
+  tier: extended
+  front_en: we-will form of vivir
+  back_es: viviremos
+  hint: -ir uses same endings
+  rule_ref: L41#8
+  lessons:
+  - 41
+  directions:
+  - en_es
+- id: l41-039
+  type: conjugation
+  tier: extended
+  front_en: we-would form of comer
+  back_es: comeríamos
+  rule_ref: L41#11, L41#12
+  lessons:
+  - 41
+  directions:
+  - en_es
+- id: l41-040
+  type: conjugation
+  tier: extended
+  front_en: they-would form of imaginar
+  back_es: imaginarían
+  rule_ref: L41#11
+  lessons:
+  - 41
+  directions:
+  - en_es
+- id: l41-041
+  type: sentence
+  tier: extended
+  front_en: You will dance.
+  back_es: Bailarás.
+  rule_ref: L41#6
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l41-042
+  type: sentence
+  tier: extended
+  front_en: You would dance.
+  back_es: Bailarías.
+  rule_ref: L41#11
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l41-043
+  type: sentence
+  tier: extended
+  front_en: They would dance.
+  back_es: Bailarían.
+  rule_ref: L41#11
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l41-044
+  type: sentence
+  tier: extended
+  front_en: I imagine.
+  back_es: Me imagino.
+  hint: se form, same meaning
+  rule_ref: L41#21
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l41-045
+  type: sentence
+  tier: extended
+  front_en: We would imagine that it's important.
+  back_es: Nos imaginaríamos que es importante.
+  rule_ref: L41#22, L41#23
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l41-046
+  type: sentence
+  tier: extended
+  front_en: It contaminates.
+  back_es: Contamina.
+  rule_ref: L41#19
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l41-047
+  type: sentence
+  tier: extended
+  front_en: I will eat later.
+  back_es: Comeré más tarde.
+  rule_ref: L41#3, L41#8
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
+- id: l42-001
+  type: conjugation
+  tier: primary
+  front_en: I-would form of hablar
+  back_es: hablaría
+  hint: full verb + -ía
+  rule_ref: L42#1, L42#2
+  lessons:
+  - 42
+  directions:
+  - en_es
+- id: l42-002
+  type: conjugation
+  tier: primary
+  front_en: we-would form of hablar
+  back_es: hablaríamos
+  rule_ref: L42#2
+  lessons:
+  - 42
+  directions:
+  - en_es
+- id: l42-003
+  type: conjugation
+  tier: primary
+  front_en: they-would form of hablar
+  back_es: hablarían
+  rule_ref: L42#2
+  lessons:
+  - 42
+  directions:
+  - en_es
+- id: l42-005
+  type: conjugation
+  tier: primary
+  front_en: I-could form of poder
+  back_es: podría
+  hint: 'drops e: pod(e)ría → ...'
+  rule_ref: L42#14, L42#15
+  lessons:
+  - 42
+  directions:
+  - en_es
+- id: l42-007
+  type: conjugation
+  tier: primary
+  front_en: we-could form of poder
+  back_es: podríamos
+  hint: contracted
+  rule_ref: L42#15, L42#16
+  lessons:
+  - 42
+  directions:
+  - en_es
+- id: l42-009
+  type: transformation
+  tier: primary
+  front_en: to be pleasing (to like)
+  back_es: gustar
+  hint: think 'to please' not 'to like'
+  rule_ref: L42#4
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-011
+  type: sentence
+  tier: primary
+  front_en: I like it.
+  back_es: Me gusta.
+  hint: 'literally: it pleases me'
+  rule_ref: L42#5, L42#8
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-012
+  type: sentence
+  tier: primary
+  front_en: I like them.
+  back_es: Me gustan.
+  hint: they please me · verb agrees with things
+  rule_ref: L42#7
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-013
+  type: sentence
+  tier: primary
+  front_en: I would like.
+  back_es: Me gustaría.
+  hint: it would please me
+  rule_ref: L42#9
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-014
+  type: sentence
+  tier: primary
+  front_en: I would like to eat now.
+  back_es: Me gustaría comer ahora.
+  rule_ref: L42#9, L42#10
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-015
+  type: sentence
+  tier: primary
+  front_en: We would like to eat now.
+  back_es: Nos gustaría comer ahora.
+  hint: start with verb, then attach nos
+  rule_ref: L42#11, L42#12
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-016
+  type: sentence
+  tier: primary
+  front_en: I would like to see you.
+  back_es: Me gustaría verte.
+  hint: verte = ver + te
+  rule_ref: L42#13
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-017
+  type: sentence
+  tier: primary
+  front_en: Could you come to my house?
+  back_es: ¿Podrías venir a mi casa?
+  hint: podría + venir
+  rule_ref: L42#17
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-018
+  type: sentence
+  tier: primary
+  front_en: Could you tell me something? (Podrías…)
+  back_es: ¿Podrías decirme algo?
+  hint: decir + me · little word on end
+  rule_ref: L42#18
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-019
+  type: sentence
+  tier: primary
+  front_en: I would speak.
+  back_es: Hablaría.
+  rule_ref: L42#2
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-020
+  type: sentence
+  tier: primary
+  front_en: We would speak.
+  back_es: Hablaríamos.
+  rule_ref: L42#2
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-021
+  type: sentence
+  tier: primary
+  front_en: They would speak.
+  back_es: Hablarían.
+  rule_ref: L42#2
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-022
+  type: sentence
+  tier: primary
+  front_en: They wouldn't speak.
+  back_es: No hablarían.
+  rule_ref: L42#3
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-023
+  type: sentence
+  tier: primary
+  front_en: Could you tell me something? (Me…)
+  back_es: ¿Me podrías decir algo?
+  hint: little word before verb · alt placement
+  rule_ref: L42#18
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-024
+  type: sentence
+  tier: primary
+  front_en: Could you tell me if you want to come?
+  back_es: ¿Podrías decirme si quieres venir?
+  rule_ref: L42#18, L42#19
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-025
+  type: sentence
+  tier: primary
+  front_en: I could.
+  back_es: Podría.
+  rule_ref: L42#15
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-026
+  type: sentence
+  tier: primary
+  front_en: We could.
+  back_es: Podríamos.
+  rule_ref: L42#16
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-027
+  type: sentence
+  tier: primary
+  front_en: They could.
+  back_es: Podrían.
+  rule_ref: L42#16
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-028
+  type: sentence
+  tier: primary
+  front_en: You could.
+  back_es: Podrías.
+  rule_ref: L42#16
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-029
+  type: sentence
+  tier: extended
+  front_en: They please me.
+  back_es: Me gustan.
+  hint: same as 'I like them' — different angle
+  rule_ref: L42#4, L42#7
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-030
+  type: sentence
+  tier: extended
+  front_en: We would like to speak.
+  back_es: Nos gustaría hablar.
+  rule_ref: L42#11
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-031
+  type: sentence
+  tier: extended
+  front_en: I would like to come.
+  back_es: Me gustaría venir.
+  rule_ref: L42#9
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-032
+  type: sentence
+  tier: extended
+  front_en: Could you come with me?
+  back_es: ¿Podrías venir conmigo?
+  rule_ref: L42#17
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-033
+  type: sentence
+  tier: extended
+  front_en: We could speak later.
+  back_es: Podríamos hablar más tarde.
+  rule_ref: L42#16
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-034
+  type: sentence
+  tier: extended
+  front_en: Could you tell me if it's possible?
+  back_es: ¿Podrías decirme si es posible?
+  rule_ref: L42#18, L42#19
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-035
+  type: sentence
+  tier: extended
+  front_en: We would like to see you.
+  back_es: Nos gustaría verte.
+  rule_ref: L42#11, L42#13
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-036
+  type: sentence
+  tier: extended
+  front_en: I would like to think about it.
+  back_es: Me gustaría pensarlo.
+  hint: pensar + lo
+  rule_ref: L42#9
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-037
+  type: sentence
+  tier: extended
+  front_en: They would like to dance.
+  back_es: Les gustaría bailar.
+  hint: les = to them
+  rule_ref: L42#9
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-038
+  type: sentence
+  tier: extended
+  front_en: She would speak with him.
+  back_es: Hablaría con él.
+  rule_ref: L42#2
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l42-039
+  type: sentence
+  tier: extended
+  front_en: I wouldn't speak.
+  back_es: No hablaría.
+  rule_ref: L42#2, L42#3
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: l43-001
+  type: conjugation
+  tier: primary
+  front_en: I-would-have form of haber
+  back_es: habría
+  hint: 'haber drops final e: hab(e)ría → ...'
+  rule_ref: L43#1, L43#2
+  lessons:
+  - 43
+  directions:
+  - en_es
+- id: l43-003
+  type: conjugation
+  tier: primary
+  front_en: we-would-have form of haber
+  back_es: habríamos
+  hint: contracted
+  rule_ref: L43#2
+  lessons:
+  - 43
+  directions:
+  - en_es
+- id: l43-004
+  type: conjugation
+  tier: primary
+  front_en: they-would-have form of haber
+  back_es: habrían
+  hint: contracted
+  rule_ref: L43#2
+  lessons:
+  - 43
+  directions:
+  - en_es
+- id: l43-005
+  type: conjugation
+  tier: primary
+  front_en: I-should form of deber
+  back_es: debería
+  hint: deber + -ía = should
+  rule_ref: L43#13, L43#14
+  lessons:
+  - 43
+  directions:
+  - en_es
+- id: l43-009
+  type: conjugation
+  tier: primary
+  front_en: I-would-give form of dar
+  back_es: daría
+  hint: dar + -ía
+  rule_ref: L43#19
+  lessons:
+  - 43
+  directions:
+  - en_es
+- id: l43-011
+  type: transformation
+  tier: primary
+  front_en: gone (past part. of ir)
+  back_es: ido
+  hint: -ir → -ido
+  rule_ref: L43#4
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-012
+  type: transformation
+  tier: primary
+  front_en: eaten (past part. of comer)
+  back_es: comido
+  hint: -er → -ido
+  rule_ref: L43#4
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-013
+  type: transformation
+  tier: primary
+  front_en: been able (past part. of poder)
+  back_es: podido
+  hint: -er → -ido
+  rule_ref: L43#6
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-014
+  type: transformation
+  tier: primary
+  front_en: pleased (past part. of gustar)
+  back_es: gustado
+  hint: -ar → -ado
+  rule_ref: L43#9
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-016
+  type: sentence
+  tier: primary
+  front_en: I would have gone.
+  back_es: Habría ido.
+  hint: habría + ido
+  rule_ref: L43#3, L43#5
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-017
+  type: sentence
+  tier: primary
+  front_en: We would have eaten.
+  back_es: Habríamos comido.
+  rule_ref: L43#5
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-018
+  type: sentence
+  tier: primary
+  front_en: We would have been able to go.
+  back_es: Habríamos podido ir.
+  hint: 'block by block: habríamos + podido + ir'
+  rule_ref: L43#6
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-019
+  type: sentence
+  tier: primary
+  front_en: They would have been able to eat.
+  back_es: Habrían podido comer.
+  rule_ref: L43#7
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-020
+  type: sentence
+  tier: primary
+  front_en: They would have come to eat.
+  back_es: Habrían venido a comer.
+  hint: motion verb + a + verb
+  rule_ref: L43#8
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-021
+  type: sentence
+  tier: primary
+  front_en: I would have liked it.
+  back_es: Me habría gustado.
+  hint: it would have pleased me
+  rule_ref: L43#9, L43#10
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-022
+  type: sentence
+  tier: primary
+  front_en: We would have liked it.
+  back_es: Nos habría gustado.
+  rule_ref: L43#11
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-023
+  type: sentence
+  tier: primary
+  front_en: We would have liked them.
+  back_es: Nos habrían gustado.
+  hint: verb agrees with things, not us
+  rule_ref: L43#12
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-024
+  type: sentence
+  tier: primary
+  front_en: I would have spoken.
+  back_es: Habría hablado.
+  hint: -ar → -ado
+  rule_ref: L43#4, L43#5
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-025
+  type: sentence
+  tier: primary
+  front_en: They would have spoken.
+  back_es: Habrían hablado.
+  rule_ref: L43#4
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-028
+  type: sentence
+  tier: primary
+  front_en: You should come to my house.
+  back_es: Deberías venir a mi casa.
+  rule_ref: L43#15, L43#16
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-029
+  type: sentence
+  tier: primary
+  front_en: You should come to my house to eat.
+  back_es: Deberías venir a mi casa a comer.
+  rule_ref: L43#15, L43#16
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-030
+  type: sentence
+  tier: primary
+  front_en: We should speak.
+  back_es: Deberíamos hablar.
+  hint: keep 'to' form after debería
+  rule_ref: L43#16
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-031
+  type: sentence
+  tier: primary
+  front_en: We should speak about it.
+  back_es: Deberíamos hablarlo.
+  hint: drop 'about,' use lo
+  rule_ref: L43#17
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-032
+  type: sentence
+  tier: primary
+  front_en: We should speak to him.
+  back_es: Deberíamos hablarle.
+  hint: le = to him/her/you-formal
+  rule_ref: L43#17
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-033
+  type: sentence
+  tier: primary
+  front_en: We should speak with him.
+  back_es: Deberíamos hablar con él.
+  hint: con él dodges le ambiguity
+  rule_ref: L43#18
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-034
+  type: sentence
+  tier: primary
+  front_en: They would give me.
+  back_es: Me darían.
+  rule_ref: L43#19
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-035
+  type: sentence
+  tier: primary
+  front_en: They would give it to me.
+  back_es: Me lo darían.
+  hint: me + lo + darían
+  rule_ref: L43#19
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-036
+  type: transformation
+  tier: extended
+  front_en: spoken (past part. of hablar)
+  back_es: hablado
+  hint: -ar → -ado
+  rule_ref: L43#4
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-037
+  type: transformation
+  tier: extended
+  front_en: come (past part. of venir)
+  back_es: venido
+  hint: -ir → -ido
+  rule_ref: L43#4
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-038
+  type: sentence
+  tier: extended
+  front_en: You would have eaten.
+  back_es: Habrías comido.
+  rule_ref: L43#2, L43#5
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-039
+  type: sentence
+  tier: extended
+  front_en: She would have come.
+  back_es: Habría venido.
+  rule_ref: L43#5
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-040
+  type: sentence
+  tier: extended
+  front_en: We would have been able to come.
+  back_es: Habríamos podido venir.
+  rule_ref: L43#6
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-041
+  type: sentence
+  tier: extended
+  front_en: They should eat.
+  back_es: Deberían comer.
+  rule_ref: L43#14, L43#16
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-042
+  type: sentence
+  tier: extended
+  front_en: We should speak to them.
+  back_es: Deberíamos hablarles.
+  rule_ref: L43#17
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-043
+  type: sentence
+  tier: extended
+  front_en: We should speak with her.
+  back_es: Deberíamos hablar con ella.
+  rule_ref: L43#18
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-044
+  type: sentence
+  tier: extended
+  front_en: I would give it to you.
+  back_es: Te lo daría.
+  hint: te + lo + daría
+  rule_ref: L43#19
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: l43-045
+  type: sentence
+  tier: extended
+  front_en: I shouldn't go.
+  back_es: No debería ir.
+  rule_ref: L43#14, L43#16
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en

@@ -1,0 +1,1727 @@
+bundle: O
+title: 'Para vs por + pluperfect: estar para/por, días de la semana, podía vs podría, había + part'
+lessons:
+- 50
+- 51
+- 52
+- 53
+cards:
+- id: l50-001
+  type: transformation
+  tier: primary
+  front_en: for (destined for, in order to)
+  back_es: para
+  hint: '... → destination, recipient, purpose'
+  rule_ref: L50#1, L50#2
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-002
+  type: transformation
+  tier: primary
+  front_en: for (because of, exchange, period)
+  back_es: por
+  hint: por → cause, swap, duration
+  rule_ref: L50#1, L50#7, L50#11
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-003
+  type: transformation
+  tier: primary
+  front_en: for me
+  back_es: para mí
+  hint: mí (with accent) after prep
+  rule_ref: L50#2, L50#3
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-004
+  type: transformation
+  tier: primary
+  front_en: for you (informal)
+  back_es: para ti
+  hint: ti (no accent) after prep
+  rule_ref: L50#2, L50#3
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-007
+  type: transformation
+  tier: primary
+  front_en: from me
+  back_es: de mí
+  hint: 'after any prep: mí, ti'
+  rule_ref: L50#3
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-009
+  type: transformation
+  tier: primary
+  front_en: Why?
+  back_es: ¿por qué?
+  hint: literally 'because of what'
+  rule_ref: L50#7
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-011
+  type: transformation
+  tier: primary
+  front_en: reason
+  back_es: razón
+  hint: feminine · /ra-SÓN/ (/ra-THÓN/ in Spain)
+  rule_ref: L50#8
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-012
+  type: transformation
+  tier: primary
+  front_en: this reason
+  back_es: esta razón
+  hint: razón is feminine → esta
+  rule_ref: L50#8
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-016
+  type: transformation
+  tier: primary
+  front_en: the day
+  back_es: el día
+  hint: masculine despite -a · 'light' root
+  rule_ref: L50#12
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-018
+  type: transformation
+  tier: primary
+  front_en: every day
+  back_es: todos los días
+  hint: plural todos, not todo
+  rule_ref: L50#13
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-019
+  type: transformation
+  tier: primary
+  front_en: I stay
+  back_es: me quedo
+  hint: reflexive · -o = I
+  rule_ref: L50#14
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-020
+  type: transformation
+  tier: primary
+  front_en: I will stay
+  back_es: me quedaré
+  hint: future = full 'to' form + -é
+  rule_ref: L50#14, L50#15
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-021
+  type: transformation
+  tier: primary
+  front_en: I would stay
+  back_es: me quedaría
+  hint: would = full 'to' form + -ía
+  rule_ref: L50#16, L50#17
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-022
+  type: transformation
+  tier: primary
+  front_en: I would like
+  back_es: me gustaría
+  hint: hook for 'would' · 'it would please me'
+  rule_ref: L50#16
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-023
+  type: transformation
+  tier: primary
+  front_en: but I have to work
+  back_es: pero tengo que trabajar
+  hint: 'trabajar: jar = /har/'
+  rule_ref: L50#17
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-024
+  type: sentence
+  tier: primary
+  front_en: Thanks for coming.
+  back_es: Gracias por venir.
+  hint: gracias por + 'to' form
+  rule_ref: L50#1, L50#7
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-025
+  type: sentence
+  tier: primary
+  front_en: This one is for you.
+  back_es: Este es para ti.
+  hint: destined for → para
+  rule_ref: L50#2, L50#6
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-026
+  type: sentence
+  tier: primary
+  front_en: These are for you.
+  back_es: Estos son para ti.
+  hint: plural masc
+  rule_ref: L50#2, L50#6
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-027
+  type: sentence
+  tier: primary
+  front_en: Why? Because I don't want to.
+  back_es: ¿Por qué? Porque no quiero.
+  hint: two words vs one
+  rule_ref: L50#7
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-028
+  type: sentence
+  tier: primary
+  front_en: For this reason, I don't want to go.
+  back_es: Por esta razón, no quiero ir.
+  hint: por = because of
+  rule_ref: L50#7, L50#8
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-029
+  type: sentence
+  tier: primary
+  front_en: I'm buying it for you.
+  back_es: Lo compro para ti.
+  hint: destined for you
+  rule_ref: L50#2, L50#9
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-030
+  type: sentence
+  tier: primary
+  front_en: I'm buying it because of you.
+  back_es: Lo compro por ti.
+  hint: your influence → por
+  rule_ref: L50#7, L50#9
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-031
+  type: sentence
+  tier: primary
+  front_en: I have bought it because of you.
+  back_es: Lo he comprado por ti.
+  hint: he + participle
+  rule_ref: L50#7, L50#9
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-032
+  type: sentence
+  tier: primary
+  front_en: I'm staying for three days.
+  back_es: Me quedo por tres días.
+  hint: duration → por
+  rule_ref: L50#11, L50#12
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-033
+  type: sentence
+  tier: primary
+  front_en: I will stay for three days.
+  back_es: Me quedaré por tres días.
+  hint: future -é
+  rule_ref: L50#11, L50#14
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-034
+  type: sentence
+  tier: primary
+  front_en: I would stay for three days.
+  back_es: Me quedaría por tres días.
+  hint: would -ía
+  rule_ref: L50#11, L50#16
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-035
+  type: sentence
+  tier: primary
+  front_en: I would stay three days, but I have to work.
+  back_es: Me quedaría tres días, pero tengo que trabajar.
+  hint: would + but-clause
+  rule_ref: L50#16, L50#17
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l51-001
+  type: transformation
+  tier: primary
+  front_en: I'm there for you.
+  back_es: Estoy para ti.
+  hint: estar already implies location
+  rule_ref: L51#1
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-002
+  type: transformation
+  tier: primary
+  front_en: Are you (there)?
+  back_es: ¿Estás?
+  hint: no 'there' word needed
+  rule_ref: L51#2
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-003
+  type: transformation
+  tier: primary
+  front_en: Is Juan there?
+  back_es: ¿Está Juan?
+  hint: estar covers 'there'
+  rule_ref: L51#2
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-004
+  type: transformation
+  tier: primary
+  front_en: I'm here because of you.
+  back_es: Estoy por ti.
+  hint: por = because of
+  rule_ref: L51#3
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-005
+  type: transformation
+  tier: primary
+  front_en: I have come because of you.
+  back_es: He venido por ti.
+  hint: never porque de
+  rule_ref: L51#4
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-006
+  type: transformation
+  tier: primary
+  front_en: that one (masc)
+  back_es: ese
+  hint: drop t of este → ese
+  rule_ref: L51#6
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-009
+  type: transformation
+  tier: primary
+  front_en: to change, to exchange
+  back_es: cambiar
+  hint: -ar verb
+  rule_ref: L51#5
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-010
+  type: sentence
+  tier: primary
+  front_en: I would change this one for that one.
+  back_es: Cambiaría este por ese.
+  hint: exchange → por
+  rule_ref: L51#5, L51#6
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-011
+  type: sentence
+  tier: primary
+  front_en: Would you change these for those? (fem)
+  back_es: ¿Cambiarías estas por esas?
+  hint: fem plural match
+  rule_ref: L51#5, L51#6
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-012
+  type: sentence
+  tier: primary
+  front_en: Thanks for calling.
+  back_es: Gracias por llamar.
+  hint: 'after por: ''to'' form, not -ing'
+  rule_ref: L51#8
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-013
+  type: sentence
+  tier: primary
+  front_en: Thanks for calling me.
+  back_es: Gracias por llamarme.
+  hint: object sticks on end of 'to' form
+  rule_ref: L51#8
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-014
+  type: sentence
+  tier: primary
+  front_en: Why wouldn't you change these for those?
+  back_es: ¿Por qué no cambiarías estas por esas?
+  hint: por qué + would-question
+  rule_ref: L51#5, L51#6
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-015
+  type: sentence
+  tier: primary
+  front_en: It is because of you that we have come.
+  back_es: Es por ti que hemos venido.
+  hint: 'highlight: es … que'
+  rule_ref: L51#4
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-016
+  type: transformation
+  tier: primary
+  front_en: tired (masc)
+  back_es: cansado
+  hint: -o for masc speaker
+  rule_ref: L51#10
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-017
+  type: transformation
+  tier: primary
+  front_en: tired (fem)
+  back_es: cansada
+  hint: -a for fem speaker
+  rule_ref: L51#10
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-018
+  type: sentence
+  tier: primary
+  front_en: I'm tired of working. (fem)
+  back_es: Estoy cansada de trabajar.
+  hint: 'after de: ''to'' form, not -ing'
+  rule_ref: L51#11, L51#8
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-019
+  type: sentence
+  tier: primary
+  front_en: I was tired of working. (fem)
+  back_es: Estaba cansada de trabajar.
+  hint: estaba = was
+  rule_ref: L51#12, L51#11
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-020
+  type: sentence
+  tier: primary
+  front_en: We were tired of working.
+  back_es: Estábamos cansados de trabajar.
+  hint: estábamos + cansados
+  rule_ref: L51#12, L51#11
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-021
+  type: transformation
+  tier: primary
+  front_en: form, way
+  back_es: forma
+  hint: feminine
+  rule_ref: L51#13
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-022
+  type: transformation
+  tier: primary
+  front_en: to believe
+  back_es: creer
+  hint: two e's
+  rule_ref: L51#14
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-024
+  type: transformation
+  tier: primary
+  front_en: 'to argue (false friend: discuss)'
+  back_es: discutir
+  hint: looks like discuss, means argue
+  rule_ref: L51#16
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-025
+  type: transformation
+  tier: primary
+  front_en: current (NOT actual)
+  back_es: actual
+  hint: false friend · means current
+  rule_ref: L51#17
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-026
+  type: transformation
+  tier: primary
+  front_en: currently
+  back_es: actualmente
+  hint: -mente · current-ly
+  rule_ref: L51#17
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-028
+  type: sentence
+  tier: primary
+  front_en: It's a way of doing it.
+  back_es: Es una forma de hacerlo.
+  hint: 'after de: ''to'' form'
+  rule_ref: L51#13, L51#8
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-029
+  type: sentence
+  tier: primary
+  front_en: I don't believe in arguing.
+  back_es: No creo en discutir.
+  hint: 'after en: ''to'' form · discutir = argue'
+  rule_ref: L51#15, L51#16
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-030
+  type: sentence
+  tier: primary
+  front_en: I don't believe in arguing in this way.
+  back_es: No creo en discutir de esta forma.
+  hint: de esta forma = in this way
+  rule_ref: L51#15, L51#18
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l52-001
+  type: sentence
+  tier: primary
+  front_en: We have spoken to resolve it.
+  back_es: Hemos hablado para resolverlo.
+  hint: to = in order to → para
+  rule_ref: L52#1, L52#2
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-002
+  type: sentence
+  tier: primary
+  front_en: We have spoken to try to resolve it.
+  back_es: Hemos hablado para intentar resolverlo.
+  hint: para + intentar + resolverlo
+  rule_ref: L52#1, L52#2
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-003
+  type: sentence
+  tier: primary
+  front_en: I am here to see you.
+  back_es: Estoy aquí para verte.
+  hint: in-order-to → para
+  rule_ref: L52#1, L52#4
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-004
+  type: sentence
+  tier: primary
+  front_en: I've called you to speak about it.
+  back_es: Te he llamado para hablarlo.
+  hint: hablarlo carries 'about it'
+  rule_ref: L52#5
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-005
+  type: transformation
+  tier: primary
+  front_en: speaking (-ing form)
+  back_es: hablando
+  hint: -ar → -ando
+  rule_ref: L52#6
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-006
+  type: transformation
+  tier: primary
+  front_en: eating (-ing form)
+  back_es: comiendo
+  hint: -er → -iendo
+  rule_ref: L52#6
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-009
+  type: sentence
+  tier: primary
+  front_en: I'm eating right now.
+  back_es: Estoy comiendo.
+  hint: estar + -iendo
+  rule_ref: L52#7
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-010
+  type: sentence
+  tier: primary
+  front_en: I'm speaking right now.
+  back_es: Estoy hablando.
+  hint: estar + -ando
+  rule_ref: L52#7
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-011
+  type: sentence
+  tier: primary
+  front_en: I'm explaining it. (object on gerund)
+  back_es: Estoy explicándolo.
+  hint: pronoun glued to gerund · accent
+  rule_ref: L52#8
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-012
+  type: sentence
+  tier: primary
+  front_en: I'm explaining it. (object before estar)
+  back_es: Lo estoy explicando.
+  hint: pronoun before estar · both work
+  rule_ref: L52#8
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-013
+  type: transformation
+  tier: primary
+  front_en: course
+  back_es: curso
+  hint: u not a
+  rule_ref: L52#12
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-014
+  type: sentence
+  tier: primary
+  front_en: I'm taking a Spanish course.
+  back_es: Estoy tomando un curso de español.
+  hint: ongoing context
+  rule_ref: L52#11
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-015
+  type: sentence
+  tier: primary
+  front_en: I was taking a Spanish course.
+  back_es: Estaba tomando un curso de español.
+  hint: estaba + -ando
+  rule_ref: L52#10, L52#13
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-017
+  type: sentence
+  tier: primary
+  front_en: Swimming is healthy.
+  back_es: Nadar es saludable.
+  hint: general statement → 'to' form
+  rule_ref: L52#14, L52#15
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-018
+  type: sentence
+  tier: primary
+  front_en: Dancing is healthy.
+  back_es: Bailar es saludable.
+  hint: '''to'' form, not -ando'
+  rule_ref: L52#14, L52#15
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-021
+  type: transformation
+  tier: primary
+  front_en: irritating
+  back_es: irritante
+  hint: -ar → -ante
+  rule_ref: L52#16, L52#17
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-022
+  type: transformation
+  tier: primary
+  front_en: frustrating
+  back_es: frustrante
+  hint: -ar → -ante
+  rule_ref: L52#16, L52#17
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-023
+  type: transformation
+  tier: primary
+  front_en: waning (the moon)
+  back_es: menguante
+  hint: ar → -ante · la luna ...
+  rule_ref: L52#17, L52#18
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-024
+  type: transformation
+  tier: primary
+  front_en: living (adjective)
+  back_es: viviente
+  hint: -ir → -iente
+  rule_ref: L52#17
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-026
+  type: sentence
+  tier: primary
+  front_en: A living being.
+  back_es: Un ser viviente.
+  hint: ser as noun
+  rule_ref: L52#20
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-027
+  type: transformation
+  tier: primary
+  front_en: Monday
+  back_es: lunes
+  hint: from luna (moon)
+  rule_ref: L52#19
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-028
+  type: transformation
+  tier: primary
+  front_en: Tuesday
+  back_es: martes
+  hint: from Mars
+  rule_ref: L52#19
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-029
+  type: transformation
+  tier: primary
+  front_en: Wednesday
+  back_es: miércoles
+  hint: from Mercury
+  rule_ref: L52#19
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-030
+  type: transformation
+  tier: primary
+  front_en: Thursday
+  back_es: jueves
+  hint: from Jupiter · /khe/
+  rule_ref: L52#19
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-031
+  type: transformation
+  tier: primary
+  front_en: Friday
+  back_es: viernes
+  hint: from Venus
+  rule_ref: L52#19
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l53-001
+  type: transformation
+  tier: primary
+  front_en: I could (past, was able)
+  back_es: podía
+  hint: line-past · -er + -ía
+  rule_ref: L53#3, L53#4
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-002
+  type: transformation
+  tier: primary
+  front_en: I could (future, would be able)
+  back_es: podría
+  hint: 'would-ending · e drops: poderí→podrí'
+  rule_ref: L53#2
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-003
+  type: transformation
+  tier: primary
+  front_en: we could (future)
+  back_es: podríamos
+  hint: would-ending we form
+  rule_ref: L53#2
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-004
+  type: transformation
+  tier: primary
+  front_en: they could (past)
+  back_es: podían
+  hint: line-past they form
+  rule_ref: L53#4
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-006
+  type: sentence
+  tier: primary
+  front_en: I couldn't do it.
+  back_es: No podía hacerlo.
+  hint: past 'could' → podía
+  rule_ref: L53#3, L53#5
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-007
+  type: sentence
+  tier: primary
+  front_en: I couldn't do it yesterday.
+  back_es: No podía hacerlo ayer.
+  hint: past + ayer
+  rule_ref: L53#3, L53#8
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-008
+  type: sentence
+  tier: primary
+  front_en: I couldn't do it because I didn't have the time.
+  back_es: No podía hacerlo porque no tenía el tiempo.
+  hint: past + reason
+  rule_ref: L53#3, L53#6
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-009
+  type: transformation
+  tier: primary
+  front_en: I had (helper for past-of-past)
+  back_es: había
+  hint: line-past of haber
+  rule_ref: L53#9
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-011
+  type: transformation
+  tier: primary
+  front_en: they had (helper)
+  back_es: habían
+  hint: they form of haber line-past
+  rule_ref: L53#9
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-012
+  type: transformation
+  tier: primary
+  front_en: already
+  back_es: ya
+  hint: usually at start of sentence
+  rule_ref: L53#11
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-013
+  type: sentence
+  tier: primary
+  front_en: I had eaten.
+  back_es: Había comido.
+  hint: había + participle
+  rule_ref: L53#9, L53#10
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-014
+  type: sentence
+  tier: primary
+  front_en: I had already eaten.
+  back_es: Ya había comido.
+  hint: ya at start
+  rule_ref: L53#11
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-015
+  type: sentence
+  tier: primary
+  front_en: We had already eaten.
+  back_es: Ya habíamos comido.
+  hint: we form
+  rule_ref: L53#9, L53#11
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-016
+  type: transformation
+  tier: primary
+  front_en: he wanted / I wanted
+  back_es: quería
+  hint: line-past of querer · ongoing
+  rule_ref: L53#12
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-020
+  type: sentence
+  tier: primary
+  front_en: He wanted to dine with me.
+  back_es: Quería cenar conmigo.
+  hint: quería + conmigo
+  rule_ref: L53#12, L53#13
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-021
+  type: sentence
+  tier: primary
+  front_en: He wanted to dine with me, but I had already dined.
+  back_es: Él quería cenar conmigo, pero yo ya había cenado.
+  hint: use él / yo to disambiguate
+  rule_ref: L53#14, L53#11
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-022
+  type: transformation
+  tier: primary
+  front_en: to look for
+  back_es: buscar
+  hint: no 'for' needed — ... covers it
+  rule_ref: L53#16
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-023
+  type: transformation
+  tier: primary
+  front_en: he was looking for it
+  back_es: lo buscaba
+  hint: line-past + lo
+  rule_ref: L53#16
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-026
+  type: transformation
+  tier: primary
+  front_en: I would have (helper)
+  back_es: habría
+  hint: would-ending · e drops
+  rule_ref: L53#18
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-027
+  type: sentence
+  tier: primary
+  front_en: I had lost it.
+  back_es: Lo había perdido.
+  hint: lo + había + perdido
+  rule_ref: L53#9, L53#17
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-028
+  type: sentence
+  tier: primary
+  front_en: He was looking for it because I had lost it.
+  back_es: Lo buscaba porque yo lo había perdido.
+  hint: two pasts · yo for clarity
+  rule_ref: L53#16, L53#9
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-030
+  type: sentence
+  tier: primary
+  front_en: I would have got lost.
+  back_es: Me habría perdido.
+  hint: reflexive · lost myself
+  rule_ref: L53#19
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l50-036
+  type: transformation
+  tier: extended
+  front_en: for us
+  back_es: para nosotros
+  hint: regular pronoun after prep
+  rule_ref: L50#4
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-037
+  type: transformation
+  tier: extended
+  front_en: from him
+  back_es: de él
+  hint: after de
+  rule_ref: L50#3, L50#4
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-038
+  type: transformation
+  tier: extended
+  front_en: I will buy
+  back_es: compraré
+  hint: 'future: comprar + -é'
+  rule_ref: L50#14
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-039
+  type: transformation
+  tier: extended
+  front_en: I would buy
+  back_es: compraría
+  hint: 'would: comprar + -ía'
+  rule_ref: L50#16
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-040
+  type: sentence
+  tier: extended
+  front_en: For this reason, I don't want to come.
+  back_es: Por esta razón, no quiero venir.
+  hint: por = because of
+  rule_ref: L50#7, L50#8
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-041
+  type: sentence
+  tier: extended
+  front_en: I would buy it for her.
+  back_es: Lo compraría para ella.
+  hint: would + destined for
+  rule_ref: L50#2, L50#16
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-042
+  type: sentence
+  tier: extended
+  front_en: I would like to stay for three days.
+  back_es: Me gustaría quedarme por tres días.
+  hint: me gustaría + 'to' form
+  rule_ref: L50#16, L50#11
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-043
+  type: sentence
+  tier: extended
+  front_en: Why don't you want to come? (informal)
+  back_es: ¿Por qué no quieres venir?
+  hint: por qué + question
+  rule_ref: L50#7
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-044
+  type: sentence
+  tier: extended
+  front_en: These are for him.
+  back_es: Estos son para él.
+  hint: plural masc + para él
+  rule_ref: L50#6, L50#4
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l50-045
+  type: sentence
+  tier: extended
+  front_en: I'm not staying every day.
+  back_es: No me quedo todos los días.
+  hint: negative + every day
+  rule_ref: L50#13
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: l51-031
+  type: transformation
+  tier: extended
+  front_en: I was (estar past)
+  back_es: estaba
+  hint: estar line-past · I/he/she
+  rule_ref: L51#12
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-032
+  type: transformation
+  tier: extended
+  front_en: you were (estar past, informal)
+  back_es: estabas
+  hint: -as for you-informal
+  rule_ref: L51#12
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-033
+  type: transformation
+  tier: extended
+  front_en: they were (estar past)
+  back_es: estaban
+  hint: -an for they
+  rule_ref: L51#12
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-034
+  type: transformation
+  tier: extended
+  front_en: creation
+  back_es: creación
+  hint: from crear · -ación
+  rule_ref: L51#14
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-036
+  type: sentence
+  tier: extended
+  front_en: I would change those (fem) for these (fem).
+  back_es: Cambiaría esas por estas.
+  hint: fem plural pair · por = exchange
+  rule_ref: L51#5, L51#6
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-037
+  type: sentence
+  tier: extended
+  front_en: Are you tired of working? (fem)
+  back_es: ¿Estás cansada de trabajar?
+  hint: estar + cansada + de
+  rule_ref: L51#11, L51#10
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-038
+  type: sentence
+  tier: extended
+  front_en: I don't believe in arguing about it.
+  back_es: No creo en discutirlo.
+  hint: object on 'to' form
+  rule_ref: L51#15, L51#8
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-039
+  type: sentence
+  tier: extended
+  front_en: In this way it is possible.
+  back_es: De esta forma es posible.
+  hint: de esta forma, not en
+  rule_ref: L51#18
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-040
+  type: sentence
+  tier: extended
+  front_en: Currently, my job is interesting.
+  back_es: Actualmente, mi trabajo es interesante.
+  hint: false-friend currently
+  rule_ref: L51#17
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-041
+  type: sentence
+  tier: extended
+  front_en: It's because of you that I'm tired. (fem)
+  back_es: Es por ti que estoy cansada.
+  hint: es … que · por = because of
+  rule_ref: L51#3, L51#10
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l51-042
+  type: sentence
+  tier: extended
+  front_en: I have come because of her.
+  back_es: He venido por ella.
+  hint: por ella · never porque de
+  rule_ref: L51#4
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: l52-032
+  type: transformation
+  tier: extended
+  front_en: to swim
+  back_es: nadar
+  hint: -ar verb
+  rule_ref: L52#14
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-034
+  type: transformation
+  tier: extended
+  front_en: health
+  back_es: salud
+  hint: the toast
+  rule_ref: L52#15
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-036
+  type: transformation
+  tier: extended
+  front_en: the waning moon
+  back_es: la luna menguante
+  hint: adjective uses -ante, not -ando
+  rule_ref: L52#18
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-037
+  type: sentence
+  tier: extended
+  front_en: We are taking a Spanish course.
+  back_es: Estamos tomando un curso de español.
+  hint: estamos + -ando
+  rule_ref: L52#7, L52#11
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-038
+  type: sentence
+  tier: extended
+  front_en: I am here to call you.
+  back_es: Estoy aquí para llamarte.
+  hint: in-order-to → para
+  rule_ref: L52#1, L52#5
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-039
+  type: sentence
+  tier: extended
+  front_en: It is frustrating.
+  back_es: Es frustrante.
+  hint: -ar → -ante
+  rule_ref: L52#17
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-040
+  type: sentence
+  tier: extended
+  front_en: Dancing is interesting.
+  back_es: Bailar es interesante.
+  hint: general → 'to' form
+  rule_ref: L52#14, L52#17
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-041
+  type: sentence
+  tier: extended
+  front_en: I'm tired of dancing on Mondays.
+  back_es: Estoy cansada de bailar los lunes.
+  hint: 'after de: ''to'' form · ''on Mondays'' = los lunes'
+  rule_ref: L52#19, L51#11
+  lessons:
+  - 51
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-042
+  type: sentence
+  tier: extended
+  front_en: Thursday is irritating.
+  back_es: El jueves es irritante.
+  hint: el + day · -ante
+  rule_ref: L52#19, L52#17
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l52-043
+  type: sentence
+  tier: extended
+  front_en: I'm calling you to explain it.
+  back_es: Te llamo para explicarlo.
+  hint: para = in order to
+  rule_ref: L52#1, L52#5
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: l53-031
+  type: transformation
+  tier: extended
+  front_en: you could (past, informal)
+  back_es: podías
+  hint: line-past -ías
+  rule_ref: L53#4
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-032
+  type: transformation
+  tier: extended
+  front_en: we could (past)
+  back_es: podíamos
+  hint: line-past we form
+  rule_ref: L53#4
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-033
+  type: transformation
+  tier: extended
+  front_en: you had (helper, informal)
+  back_es: habías
+  hint: haber line-past -ías
+  rule_ref: L53#9
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-034
+  type: sentence
+  tier: extended
+  front_en: I could do it tomorrow.
+  back_es: Podría hacerlo mañana.
+  hint: future could · podría
+  rule_ref: L53#2
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-035
+  type: sentence
+  tier: extended
+  front_en: We could resolve it.
+  back_es: Podríamos resolverlo.
+  hint: we-future-could
+  rule_ref: L53#2
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-036
+  type: sentence
+  tier: extended
+  front_en: They had already dined.
+  back_es: Ya habían cenado.
+  hint: ya + they form
+  rule_ref: L53#9, L53#11
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-038
+  type: sentence
+  tier: extended
+  front_en: We had already lost it.
+  back_es: Ya lo habíamos perdido.
+  hint: we form + ya
+  rule_ref: L53#9, L53#11
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-039
+  type: sentence
+  tier: extended
+  front_en: I was looking for you.
+  back_es: Te buscaba.
+  hint: line-past + te
+  rule_ref: L53#16
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-040
+  type: sentence
+  tier: extended
+  front_en: Would you dine with me?
+  back_es: ¿Cenarías conmigo?
+  hint: would-ending on cenar · conmigo
+  rule_ref: L53#13
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-041
+  type: sentence
+  tier: extended
+  front_en: I couldn't dine with him yesterday.
+  back_es: No podía cenar con él ayer.
+  hint: past could + ayer
+  rule_ref: L53#3, L53#8
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-042
+  type: sentence
+  tier: extended
+  front_en: He had been looking for it.
+  back_es: Lo había estado buscando.
+  hint: había + estado + gerund (pluperfect-progressive)
+  rule_ref: L53#9, L52#7
+  lessons:
+  - 52
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: l53-043
+  type: sentence
+  tier: extended
+  front_en: I would have called you to explain it.
+  back_es: Te habría llamado para explicarlo.
+  hint: habría + part · para = in order to
+  rule_ref: L53#18, L52#1
+  lessons:
+  - 52
+  - 53
+  directions:
+  - en_es
+  - es_en

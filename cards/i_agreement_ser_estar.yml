@@ -1,5 +1,5 @@
 bundle: I
-title: Full agreement + *ser/estar* split
+title: 'Full agreement + ser/estar split: -o/-a, -os/-as, -es, son, estoy/estás'
 lessons:
 - 28
 - 29
@@ -8,9 +8,10 @@ cards:
 - id: l28-001
   type: transformation
   tier: primary
-  front_en: money
-  back_es: dinero
-  rule_ref: L28#1
+  front_en: car (standard, masc)
+  back_es: carro
+  hint: rolled rr — feel the double r
+  rule_ref: L28#1, L28#2
   lessons:
   - 28
   directions:
@@ -19,9 +20,10 @@ cards:
 - id: l28-002
   type: transformation
   tier: primary
-  front_en: money (slang, lit. silver)
-  back_es: plata
-  rule_ref: L28#1
+  front_en: car (machine sense, fem)
+  back_es: máquina
+  hint: '*la ...* — feminine'
+  rule_ref: L28#1, L28#6
   lessons:
   - 28
   directions:
@@ -30,8 +32,9 @@ cards:
 - id: l28-003
   type: transformation
   tier: primary
-  front_en: money (Spain slang)
-  back_es: pasta
+  front_en: money
+  back_es: dinero
+  hint: neutral register
   rule_ref: L28#1
   lessons:
   - 28
@@ -41,9 +44,10 @@ cards:
 - id: l28-004
   type: transformation
   tier: primary
-  front_en: expensive (masc)
+  front_en: expensive (m)
   back_es: caro
-  rule_ref: L28#5
+  hint: one r — contrast with *carro*
+  rule_ref: L28#2, L28#5
   lessons:
   - 28
   directions:
@@ -52,8 +56,9 @@ cards:
 - id: l28-005
   type: transformation
   tier: primary
-  front_en: expensive (fem)
+  front_en: expensive (f)
   back_es: cara
+  hint: -o → -a
   rule_ref: L28#5
   lessons:
   - 28
@@ -63,8 +68,9 @@ cards:
 - id: l28-006
   type: transformation
   tier: primary
-  front_en: expensive (masc plural)
+  front_en: expensive (m, plural)
   back_es: caros
+  hint: -o + s
   rule_ref: L28#7
   lessons:
   - 28
@@ -74,8 +80,9 @@ cards:
 - id: l28-007
   type: transformation
   tier: primary
-  front_en: expensive (fem plural)
+  front_en: expensive (f, plural)
   back_es: caras
+  hint: -a + s
   rule_ref: L28#7
   lessons:
   - 28
@@ -85,9 +92,10 @@ cards:
 - id: l28-008
   type: transformation
   tier: primary
-  front_en: they are / you guys are
-  back_es: son
-  rule_ref: L28#4
+  front_en: the (m, plural)
+  back_es: los
+  hint: '*el* → *los*'
+  rule_ref: L28#3
   lessons:
   - 28
   directions:
@@ -96,9 +104,10 @@ cards:
 - id: l28-009
   type: transformation
   tier: primary
-  front_en: teacher (masc)
-  back_es: profesor
-  rule_ref: L28#9
+  front_en: the (f, plural)
+  back_es: las
+  hint: '*la* → *las*'
+  rule_ref: L28#3
   lessons:
   - 28
   directions:
@@ -107,9 +116,10 @@ cards:
 - id: l28-010
   type: transformation
   tier: primary
-  front_en: teacher (fem)
-  back_es: profesora
-  rule_ref: L28#9
+  front_en: they are / you guys are
+  back_es: son
+  hint: plural of *es* · pair them
+  rule_ref: L28#4
   lessons:
   - 28
   directions:
@@ -118,20 +128,21 @@ cards:
 - id: l28-011
   type: transformation
   tier: primary
-  front_en: teachers (masc plural)
-  back_es: profesores
-  rule_ref: L28#12
+  front_en: teacher (male)
+  back_es: profesor
+  hint: consonant ending
+  rule_ref: L28#9
   lessons:
   - 28
   directions:
   - en_es
   - es_en
-  hint: +es (consonant ending)
 - id: l28-012
   type: transformation
   tier: primary
-  front_en: doctor (masc)
-  back_es: doctor
+  front_en: teacher (female)
+  back_es: profesora
+  hint: stick -a for feminine person
   rule_ref: L28#9
   lessons:
   - 28
@@ -141,9 +152,10 @@ cards:
 - id: l28-013
   type: transformation
   tier: primary
-  front_en: doctor (fem)
-  back_es: doctora
-  rule_ref: L28#9
+  front_en: teachers (m, plural)
+  back_es: profesores
+  hint: consonant + -es
+  rule_ref: L28#12
   lessons:
   - 28
   directions:
@@ -152,21 +164,22 @@ cards:
 - id: l28-014
   type: transformation
   tier: primary
-  front_en: addictive
-  back_es: adictivo
-  rule_ref: L28#13
+  front_en: doctor (female)
+  back_es: doctora
+  hint: stick -a
+  rule_ref: L28#9
   lessons:
   - 28
   directions:
   - en_es
   - es_en
-  hint: -ive → -ivo
 - id: l28-015
   type: transformation
   tier: primary
-  front_en: positive
-  back_es: positivo
-  rule_ref: L28#13
+  front_en: doctors (m, plural)
+  back_es: doctores
+  hint: consonant + -es
+  rule_ref: L28#12
   lessons:
   - 28
   directions:
@@ -175,9 +188,10 @@ cards:
 - id: l28-016
   type: transformation
   tier: primary
-  front_en: intuitive
-  back_es: intuitivo
-  rule_ref: L28#13
+  front_en: situation
+  back_es: situación
+  hint: -tion → -ción · accent -ón
+  rule_ref: L28#1
   lessons:
   - 28
   directions:
@@ -186,9 +200,10 @@ cards:
 - id: l28-017
   type: transformation
   tier: primary
-  front_en: attractive (masc)
-  back_es: atractivo
-  rule_ref: L28#13
+  front_en: global (any gender)
+  back_es: global
+  hint: -l ending — no flip
+  rule_ref: L28#10
   lessons:
   - 28
   directions:
@@ -197,9 +212,10 @@ cards:
 - id: l28-018
   type: transformation
   tier: primary
-  front_en: attractive (fem)
-  back_es: atractiva
-  rule_ref: L28#13
+  front_en: addictive (m)
+  back_es: adictivo
+  hint: -ive → -ivo · double dd → d
+  rule_ref: L28#13, L28#18
   lessons:
   - 28
   directions:
@@ -208,20 +224,21 @@ cards:
 - id: l28-019
   type: transformation
   tier: primary
-  front_en: very
-  back_es: muy
-  rule_ref: L28#16
+  front_en: positive (m)
+  back_es: positivo
+  hint: /s/ not /z/
+  rule_ref: L28#13, L28#15
   lessons:
   - 28
   directions:
   - en_es
   - es_en
-  hint: y = /i/, moo-ee
 - id: l28-020
   type: transformation
   tier: primary
-  front_en: creative (masc)
-  back_es: creativo
+  front_en: intuitive (m)
+  back_es: intuitivo
+  hint: -ive → -ivo
   rule_ref: L28#13
   lessons:
   - 28
@@ -231,9 +248,10 @@ cards:
 - id: l28-021
   type: transformation
   tier: primary
-  front_en: creative (fem)
-  back_es: creativa
-  rule_ref: L28#13
+  front_en: attractive (m)
+  back_es: atractivo
+  hint: double tt collapses
+  rule_ref: L28#13, L28#18
   lessons:
   - 28
   directions:
@@ -242,32 +260,33 @@ cards:
 - id: l28-022
   type: transformation
   tier: primary
-  front_en: aggressive
-  back_es: agresivo
-  rule_ref: L28#18
+  front_en: creative (m)
+  back_es: creativo
+  hint: -ive → -ivo
+  rule_ref: L28#13
   lessons:
   - 28
   directions:
   - en_es
   - es_en
-  hint: single g
 - id: l28-023
   type: transformation
   tier: primary
-  front_en: connotation
-  back_es: connotación
-  rule_ref: L28#18
+  front_en: aggressive (m)
+  back_es: agresivo
+  hint: gg & ss collapse
+  rule_ref: L28#13, L28#18
   lessons:
   - 28
   directions:
   - en_es
   - es_en
-  hint: double n preserved
 - id: l28-024
   type: transformation
   tier: primary
-  front_en: negative
+  front_en: negative (m)
   back_es: negativo
+  hint: -ive → -ivo
   rule_ref: L28#13
   lessons:
   - 28
@@ -279,7 +298,8 @@ cards:
   tier: primary
   front_en: intensive
   back_es: intensivo
-  rule_ref: L28#14
+  hint: neuter = masc singular
+  rule_ref: L28#13, L28#14
   lessons:
   - 28
   directions:
@@ -288,8 +308,9 @@ cards:
 - id: l28-026
   type: transformation
   tier: primary
-  front_en: native (masc)
+  front_en: native (m)
   back_es: nativo
+  hint: -ive → -ivo
   rule_ref: L28#13
   lessons:
   - 28
@@ -299,9 +320,10 @@ cards:
 - id: l28-027
   type: transformation
   tier: primary
-  front_en: native (fem)
-  back_es: nativa
-  rule_ref: L28#13
+  front_en: connotation
+  back_es: connotación
+  hint: nn survives — only rr/nn keep doubles
+  rule_ref: L28#18
   lessons:
   - 28
   directions:
@@ -310,31 +332,10 @@ cards:
 - id: l28-028
   type: transformation
   tier: primary
-  front_en: but (single r)
-  back_es: pero
-  rule_ref: L28#2
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-029
-  type: transformation
-  tier: primary
-  front_en: dog (rolled rr)
-  back_es: perro
-  rule_ref: L28#2
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-030
-  type: sentence
-  tier: primary
-  front_en: The car is expensive.
-  back_es: El carro es caro.
-  rule_ref: L28#5
+  front_en: very
+  back_es: muy
+  hint: /moo-ee/ — y sounds like i
+  rule_ref: L28#16
   lessons:
   - 28
   directions:
@@ -343,9 +344,9 @@ cards:
 - id: l28-031
   type: sentence
   tier: primary
-  front_en: It's expensive. (masc)
-  back_es: Es caro.
-  rule_ref: L28#6
+  front_en: The car is expensive.
+  back_es: El carro es caro.
+  rule_ref: L28#5, L28#6
   lessons:
   - 28
   directions:
@@ -354,9 +355,10 @@ cards:
 - id: l28-032
   type: sentence
   tier: primary
-  front_en: It's expensive. (fem)
-  back_es: Es cara.
-  rule_ref: L28#6
+  front_en: The machine (car) is expensive.
+  back_es: La máquina es cara.
+  hint: fem noun → cara
+  rule_ref: L28#5, L28#6
   lessons:
   - 28
   directions:
@@ -367,7 +369,7 @@ cards:
   tier: primary
   front_en: The cars are expensive.
   back_es: Los carros son caros.
-  rule_ref: L28#7
+  rule_ref: L28#3, L28#7, L28#4
   lessons:
   - 28
   directions:
@@ -378,7 +380,7 @@ cards:
   tier: primary
   front_en: The machines are expensive.
   back_es: Las máquinas son caras.
-  rule_ref: L28#7
+  rule_ref: L28#3, L28#7, L28#4
   lessons:
   - 28
   directions:
@@ -387,9 +389,10 @@ cards:
 - id: l28-035
   type: sentence
   tier: primary
-  front_en: The machine is expensive.
-  back_es: La máquina es cara.
-  rule_ref: L28#6
+  front_en: He is a teacher.
+  back_es: Es profesor.
+  hint: no *a* needed
+  rule_ref: L28#9
   lessons:
   - 28
   directions:
@@ -398,21 +401,20 @@ cards:
 - id: l28-036
   type: sentence
   tier: primary
-  front_en: He's a teacher.
-  back_es: Es profesor.
+  front_en: She is a teacher.
+  back_es: Es profesora.
   rule_ref: L28#9
   lessons:
   - 28
   directions:
   - en_es
   - es_en
-  hint: no 'a' needed
 - id: l28-037
   type: sentence
   tier: primary
-  front_en: She's a teacher.
-  back_es: Es profesora.
-  rule_ref: L28#9
+  front_en: They (women) are teachers.
+  back_es: Son profesoras.
+  rule_ref: L28#4, L28#9, L28#7
   lessons:
   - 28
   directions:
@@ -421,9 +423,10 @@ cards:
 - id: l28-038
   type: sentence
   tier: primary
-  front_en: They (fem) are teachers.
-  back_es: Son profesoras.
-  rule_ref: L28#9
+  front_en: They are teachers (mixed group).
+  back_es: Son profesores.
+  hint: mixed → masculine plural
+  rule_ref: L28#4, L28#8, L28#12
   lessons:
   - 28
   directions:
@@ -432,9 +435,9 @@ cards:
 - id: l28-039
   type: sentence
   tier: primary
-  front_en: The global situation.
-  back_es: La situación global.
-  rule_ref: L28#10
+  front_en: She is a doctor.
+  back_es: Es doctora.
+  rule_ref: L28#9
   lessons:
   - 28
   directions:
@@ -443,9 +446,10 @@ cards:
 - id: l28-040
   type: sentence
   tier: primary
-  front_en: She's a doctor.
-  back_es: Es doctora.
-  rule_ref: L28#9
+  front_en: The global situation.
+  back_es: La situación global.
+  hint: -l adj — no flip
+  rule_ref: L28#10
   lessons:
   - 28
   directions:
@@ -454,9 +458,10 @@ cards:
 - id: l28-041
   type: sentence
   tier: primary
-  front_en: It's addictive.
+  front_en: It is addictive.
   back_es: Es adictivo.
-  rule_ref: L28#13
+  hint: neuter = masc singular
+  rule_ref: L28#14, L28#13
   lessons:
   - 28
   directions:
@@ -467,7 +472,8 @@ cards:
   tier: primary
   front_en: They (women) are intuitive.
   back_es: Son intuitivas.
-  rule_ref: L28#13
+  hint: -ivo → -ivas for fem plural
+  rule_ref: L28#4, L28#13, L28#7
   lessons:
   - 28
   directions:
@@ -478,7 +484,8 @@ cards:
   tier: primary
   front_en: She is very attractive.
   back_es: Ella es muy atractiva.
-  rule_ref: L28#16
+  hint: -ivo → -iva
+  rule_ref: L28#17, L28#16, L28#13
   lessons:
   - 28
   directions:
@@ -489,7 +496,7 @@ cards:
   tier: primary
   front_en: She is very creative.
   back_es: Ella es muy creativa.
-  rule_ref: L28#16
+  rule_ref: L28#17, L28#16, L28#13
   lessons:
   - 28
   directions:
@@ -499,8 +506,8 @@ cards:
   type: sentence
   tier: primary
   front_en: They are aggressive.
-  back_es: Son agresivos.
-  rule_ref: L28#18
+  back_es: Ellos son agresivos.
+  rule_ref: L28#17, L28#4, L28#18
   lessons:
   - 28
   directions:
@@ -509,695 +516,805 @@ cards:
 - id: l28-046
   type: sentence
   tier: primary
-  front_en: THEY are aggressive.
-  back_es: Ellos son agresivos.
-  rule_ref: L28#17
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-047
-  type: sentence
-  tier: primary
-  front_en: He is negative.
-  back_es: Él es negativo.
-  rule_ref: L28#13
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-048
-  type: sentence
-  tier: primary
   front_en: He is very negative.
-  back_es: Es muy negativo.
-  rule_ref: L28#16
+  back_es: Él es muy negativo.
+  rule_ref: L28#17, L28#16, L28#13
   lessons:
   - 28
+  directions:
+  - en_es
+  - es_en
+- id: l29-001
+  type: transformation
+  tier: primary
+  front_en: a human being
+  back_es: un ser humano
+  hint: verb-as-noun pattern
+  rule_ref: L29#2, L29#3
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: l29-002
+  type: transformation
+  tier: primary
+  front_en: humanity
+  back_es: humanidad
+  hint: -ity → -idad
+  rule_ref: L29#3
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: l29-003
+  type: transformation
+  tier: primary
+  front_en: to be (states)
+  back_es: estar
+  hint: state-*...* — cousin of *state*
+  rule_ref: L29#1, L29#4
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: l29-004
+  type: conjugation
+  tier: primary
+  front_en: I form of estar
+  back_es: estoy
+  hint: -oy like *voy* · stress on -oy
+  rule_ref: L29#9
+  lessons:
+  - 29
+  directions:
+  - en_es
+- id: l29-005
+  type: conjugation
+  tier: primary
+  front_en: you (inf) form of estar
+  back_es: estás
+  hint: accent on -ás
+  rule_ref: L29#10
+  lessons:
+  - 29
+  directions:
+  - en_es
+- id: l29-006
+  type: conjugation
+  tier: primary
+  front_en: she form of estar
+  back_es: está
+  hint: accent on -á
+  rule_ref: L29#10
+  lessons:
+  - 29
+  directions:
+  - en_es
+- id: l29-007
+  type: conjugation
+  tier: primary
+  front_en: we form of estar
+  back_es: estamos
+  hint: stress in normal spot
+  rule_ref: L29#10, L29#11
+  lessons:
+  - 29
+  directions:
+  - en_es
+- id: l29-008
+  type: conjugation
+  tier: primary
+  front_en: they form of estar
+  back_es: están
+  hint: accent on -án
+  rule_ref: L29#10
+  lessons:
+  - 29
+  directions:
+  - en_es
+- id: l29-009
+  type: transformation
+  tier: primary
+  front_en: tired (m)
+  back_es: cansado
+  hint: state — pairs with *estar*
+  rule_ref: L29#12, L29#6
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: l29-010
+  type: transformation
+  tier: primary
+  front_en: tired (f)
+  back_es: cansada
+  hint: -ado → -ada
+  rule_ref: L29#12, L28#5
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: l29-012
+  type: transformation
+  tier: primary
+  front_en: dead (f)
+  back_es: muerta
+  hint: state in Spanish · *mort-gage* link
+  rule_ref: L29#15
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: l29-013
+  type: sentence
+  tier: primary
+  front_en: I am tired (m).
+  back_es: Estoy cansado.
+  rule_ref: L29#4, L29#9, L29#12
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: l29-014
+  type: sentence
+  tier: primary
+  front_en: I am tired (f).
+  back_es: Estoy cansada.
+  rule_ref: L29#4, L29#9, L29#12
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: l29-015
+  type: sentence
+  tier: primary
+  front_en: You are tired (f).
+  back_es: Estás cansada.
+  rule_ref: L29#4, L29#10, L29#12
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: l29-016
+  type: sentence
+  tier: primary
+  front_en: She is tired.
+  back_es: Está cansada.
+  rule_ref: L29#4, L29#10, L29#12
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: l29-017
+  type: sentence
+  tier: primary
+  front_en: We are tired (mixed/men).
+  back_es: Estamos cansados.
+  rule_ref: L29#11, L29#12, L28#8
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: l29-018
+  type: sentence
+  tier: primary
+  front_en: We are tired (all women).
+  back_es: Estamos cansadas.
+  rule_ref: L29#11, L29#12
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: l29-019
+  type: sentence
+  tier: primary
+  front_en: They are tired (women).
+  back_es: Están cansadas.
+  rule_ref: L29#10, L29#12
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: l29-020
+  type: sentence
+  tier: primary
+  front_en: I am always tired (f).
+  back_es: Siempre estoy cansada.
+  rule_ref: L29#13, L29#14
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: l29-021
+  type: sentence
+  tier: primary
+  front_en: I am dead (f).
+  back_es: Estoy muerta.
+  hint: state — use *estar*
+  rule_ref: L29#15, L29#9
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: l29-022
+  type: sentence
+  tier: primary
+  front_en: A human being.
+  back_es: Un ser humano.
+  rule_ref: L29#2, L29#3
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: l29-023
+  type: sentence
+  tier: primary
+  front_en: He is a doctor.
+  back_es: Es doctor.
+  hint: profession = characteristic → *ser*
+  rule_ref: L29#7
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: l29-024
+  type: sentence
+  tier: primary
+  front_en: She is a doctor and she is tired.
+  back_es: Es doctora y está cansada.
+  hint: characteristic + state in one breath
+  rule_ref: L29#7, L29#4
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: l30-001
+  type: transformation
+  tier: primary
+  front_en: how
+  back_es: cómo
+  hint: with accent — question word
+  rule_ref: L30#1
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-005
+  type: transformation
+  tier: primary
+  front_en: later
+  back_es: más tarde
+  hint: literally *more late*
+  rule_ref: L30#6
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-007
+  type: transformation
+  tier: primary
+  front_en: you (informal)
+  back_es: tú
+  hint: accent — vs *tu* (your)
+  rule_ref: L30#8
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-009
+  type: transformation
+  tier: primary
+  front_en: we (mixed/men)
+  back_es: nosotros
+  hint: default masculine
+  rule_ref: L30#8, L30#9
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-010
+  type: transformation
+  tier: primary
+  front_en: we (all women)
+  back_es: nosotras
+  hint: fem form — like adjectives
+  rule_ref: L30#9
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-012
+  type: transformation
+  tier: primary
+  front_en: they have / you guys have
+  back_es: tienen
+  hint: they-form of *tener*
+  rule_ref: L30#10
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-013
+  type: transformation
+  tier: primary
+  front_en: to have to (must)
+  back_es: tener que
+  hint: obligation needs *que* + infinitive
+  rule_ref: L30#11
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-014
+  type: transformation
+  tier: primary
+  front_en: to owe / must / probably
+  back_es: deber
+  hint: debt-cousin · also = probability
+  rule_ref: L30#12
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-015
+  type: transformation
+  tier: primary
+  front_en: they must / they owe
+  back_es: deben
+  hint: they-form of *deber*
+  rule_ref: L30#12, L30#13
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-016
+  type: transformation
+  tier: primary
+  front_en: to stay (remain oneself)
+  back_es: quedarse
+  hint: reflexive — *se* tacked on
+  rule_ref: L30#14
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-018
+  type: sentence
+  tier: primary
+  front_en: How are you? (informal)
+  back_es: ¿Cómo estás?
+  rule_ref: L30#1, L29#10
+  lessons:
+  - 29
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-019
+  type: sentence
+  tier: primary
+  front_en: How are you guys?
+  back_es: ¿Cómo están?
+  rule_ref: L30#1, L29#10
+  lessons:
+  - 29
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-020
+  type: sentence
+  tier: primary
+  front_en: Where are you?
+  back_es: ¿Dónde estás?
+  rule_ref: L30#2, L29#10
+  lessons:
+  - 29
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-021
+  type: sentence
+  tier: primary
+  front_en: I don't know where we are.
+  back_es: No sé dónde estamos.
+  rule_ref: L30#3, L30#2, L29#11
+  lessons:
+  - 29
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-022
+  type: sentence
+  tier: primary
+  front_en: I am here.
+  back_es: Estoy aquí.
+  rule_ref: L29#9, L30#4
+  lessons:
+  - 29
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-023
+  type: sentence
+  tier: primary
+  front_en: I'm going to be here later.
+  back_es: Voy a estar aquí más tarde.
+  rule_ref: L30#6, L30#4, L29#5
+  lessons:
+  - 29
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-024
+  type: sentence
+  tier: primary
+  front_en: Where do you guys have to be later?
+  back_es: ¿Dónde tienen que estar más tarde?
+  rule_ref: L30#11, L30#6, L29#5
+  lessons:
+  - 29
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-025
+  type: sentence
+  tier: primary
+  front_en: He must be here.
+  back_es: Debe estar aquí.
+  hint: probability *deber*
+  rule_ref: L30#12, L29#5, L30#4
+  lessons:
+  - 29
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-026
+  type: sentence
+  tier: primary
+  front_en: He must be tired.
+  back_es: Debe estar cansado.
+  rule_ref: L30#12, L29#12
+  lessons:
+  - 29
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-027
+  type: sentence
+  tier: primary
+  front_en: They (women) must be tired.
+  back_es: Deben estar cansadas.
+  rule_ref: L30#13, L29#12
+  lessons:
+  - 29
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-028
+  type: sentence
+  tier: primary
+  front_en: We are very tired (women).
+  back_es: Nosotras estamos muy cansadas.
+  rule_ref: L30#9, L29#11, L28#16, L29#12
+  lessons:
+  - 28
+  - 29
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-029
+  type: sentence
+  tier: primary
+  front_en: She must be very tired.
+  back_es: Debe estar muy cansada.
+  rule_ref: L30#12, L28#16, L29#12
+  lessons:
+  - 28
+  - 29
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-030
+  type: sentence
+  tier: primary
+  front_en: I stay because I am tired.
+  back_es: Me quedo porque estoy cansado.
+  rule_ref: L30#14, L30#16, L29#9, L29#12
+  lessons:
+  - 29
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-031
+  type: sentence
+  tier: primary
+  front_en: We're not going to stay.
+  back_es: No vamos a quedarnos.
+  hint: reflexive on end of infinitive
+  rule_ref: L30#14, L30#15
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-032
+  type: sentence
+  tier: primary
+  front_en: We're not going to stay (alt).
+  back_es: No nos vamos a quedar.
+  hint: reflexive on front of conjugated verb
+  rule_ref: L30#14, L30#15
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-033
+  type: sentence
+  tier: primary
+  front_en: We're not going to stay because we are very tired.
+  back_es: No vamos a quedarnos porque estamos muy cansados.
+  rule_ref: L30#14, L30#15, L30#16, L29#11, L28#16
+  lessons:
+  - 28
+  - 29
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-034
+  type: sentence
+  tier: primary
+  front_en: I have to be here later.
+  back_es: Tengo que estar aquí más tarde.
+  hint: '*tengo* = I-form of *tener*'
+  rule_ref: L30#11, L30#6, L30#4
+  lessons:
+  - 29
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-035
+  type: sentence
+  tier: primary
+  front_en: She must be a doctor.
+  back_es: Debe ser doctora.
+  hint: characteristic → *ser* infinitive
+  rule_ref: L30#12, L29#1, L28#9
+  lessons:
+  - 28
+  - 29
+  - 30
   directions:
   - en_es
   - es_en
 - id: l28-049
-  type: sentence
-  tier: primary
-  front_en: It is intensive.
-  back_es: Es intensivo.
-  rule_ref: L28#14
+  type: transformation
+  tier: extended
+  front_en: objective (m)
+  back_es: objetivo
+  hint: -ive → -ivo
+  rule_ref: L28#13
   lessons:
   - 28
   directions:
   - en_es
   - es_en
 - id: l28-050
-  type: sentence
-  tier: primary
-  front_en: They are natives. (masc)
-  back_es: Son nativos.
-  rule_ref: L28#7
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-001
-  type: sentence
+  type: transformation
   tier: extended
-  front_en: I'm going to stay here.
-  back_es: Voy a quedarme aquí.
-  rule_ref: L26#1
+  front_en: subjective (m)
+  back_es: subjetivo
+  hint: -ive → -ivo
+  rule_ref: L28#13
   lessons:
-  - 26
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-002
-  type: sentence
-  tier: extended
-  front_en: I want to stay here.
-  back_es: Quiero quedarme aquí.
-  rule_ref: L26#1
-  lessons:
-  - 26
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-003
-  type: sentence
-  tier: extended
-  front_en: I must stay here.
-  back_es: Debo quedarme aquí.
-  rule_ref: L26#1
-  lessons:
-  - 26
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-004
-  type: sentence
-  tier: extended
-  front_en: I have to stay here.
-  back_es: Tengo que quedarme aquí.
-  rule_ref: L26#1
-  lessons:
-  - 26
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-005
-  type: sentence
-  tier: extended
-  front_en: I can stay here.
-  back_es: Puedo quedarme aquí.
-  rule_ref: L26#1
-  lessons:
-  - 26
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-006
-  type: sentence
-  tier: extended
-  front_en: I'm planning to stay here.
-  back_es: Pienso quedarme aquí.
-  rule_ref: L26#10
-  lessons:
-  - 26
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-017
-  type: sentence
-  tier: extended
-  front_en: What's your name? My name is Pablo.
-  back_es: ¿Cómo te llamas? Me llamo Pablo.
-  rule_ref: L26#16, L26#17
-  lessons:
-  - 26
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-018
-  type: sentence
-  tier: extended
-  front_en: His name is Carlos.
-  back_es: Se llama Carlos.
-  rule_ref: L26#18
-  lessons:
-  - 26
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-019
-  type: sentence
-  tier: extended
-  front_en: Her name is María.
-  back_es: Se llama María.
-  rule_ref: L26#18
-  lessons:
-  - 26
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-020
-  type: sentence
-  tier: extended
-  front_en: What are their names?
-  back_es: ¿Cómo se llaman?
-  rule_ref: L26#18
-  lessons:
-  - 26
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-021
-  type: sentence
-  tier: extended
-  front_en: I want to call him.
-  back_es: Quiero llamarlo.
-  rule_ref: L26#15
-  lessons:
-  - 26
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-022
-  type: sentence
-  tier: extended
-  front_en: I haven't called him.
-  back_es: No lo he llamado.
-  rule_ref: L26#15
-  lessons:
-  - 26
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-029
-  type: sentence
-  tier: extended
-  front_en: I want to stay in the big house.
-  back_es: Quiero quedarme en la casa grande.
-  rule_ref: L26#1, L27#16
-  lessons:
-  - 26
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-033
-  type: sentence
-  tier: extended
-  front_en: What do you plan to do?
-  back_es: ¿Qué piensas hacer?
-  rule_ref: L26#10
-  lessons:
-  - 26
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-034
-  type: sentence
-  tier: extended
-  front_en: I plan to call her.
-  back_es: Pienso llamarla.
-  rule_ref: L26#10, L26#15
-  lessons:
-  - 26
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-035
-  type: sentence
-  tier: extended
-  front_en: We plan to stay here.
-  back_es: Pensamos quedarnos aquí.
-  rule_ref: L26#10
-  lessons:
-  - 26
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-040
-  type: sentence
-  tier: extended
-  front_en: I have to stay until ten.
-  back_es: Tengo que quedarme hasta las diez.
-  rule_ref: L26#1
-  lessons:
-  - 26
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-041
-  type: sentence
-  tier: extended
-  front_en: Why isn't she staying?
-  back_es: ¿Por qué no se queda?
-  rule_ref: L26#5
-  lessons:
-  - 26
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-045
-  type: sentence
-  tier: extended
-  front_en: I want to call the big doctor.
-  back_es: Quiero llamar al doctor grande.
-  rule_ref: L26#15
-  lessons:
-  - 26
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-  notes: al = a + el lands L71.
-- id: t26_28-047
-  type: sentence
-  tier: extended
-  front_en: We must call the doctors.
-  back_es: Debemos llamar a los doctores.
-  rule_ref: L26#19
-  lessons:
-  - 26
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-  notes: personal a lands L71.
-- id: t26_28-048
-  type: sentence
-  tier: extended
-  front_en: She has to stay in the big house.
-  back_es: Tiene que quedarse en la casa grande.
-  rule_ref: L26#1, L27#16
-  lessons:
-  - 26
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-  notes: se preview.
-- id: t26_28-049
-  type: sentence
-  tier: extended
-  front_en: I'm planning to buy a red car.
-  back_es: Pienso comprar un auto rojo.
-  rule_ref: L26#10, L27#15
-  lessons:
-  - 26
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-050
-  type: sentence
-  tier: extended
-  front_en: What's his name? His name is Pedro.
-  back_es: ¿Cómo se llama? Se llama Pedro.
-  rule_ref: L26#18
-  lessons:
-  - 26
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-007
-  type: sentence
-  tier: extended
-  front_en: The expensive house.
-  back_es: La casa cara.
-  rule_ref: L27#1, L28#5
-  lessons:
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-008
-  type: sentence
-  tier: extended
-  front_en: The expensive houses.
-  back_es: Las casas caras.
-  rule_ref: L28#7
-  lessons:
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-009
-  type: sentence
-  tier: extended
-  front_en: The expensive car.
-  back_es: El carro caro.
-  rule_ref: L28#5
-  lessons:
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-010
-  type: sentence
-  tier: extended
-  front_en: The expensive cars.
-  back_es: Los carros caros.
-  rule_ref: L28#7
-  lessons:
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-011
-  type: sentence
-  tier: extended
-  front_en: The big red car.
-  back_es: El auto grande rojo.
-  rule_ref: L27#1, L27#15
-  lessons:
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-012
-  type: sentence
-  tier: extended
-  front_en: The big red cars.
-  back_es: Los autos grandes rojos.
-  rule_ref: L27#8, L28#7
-  lessons:
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-023
-  type: sentence
-  tier: extended
-  front_en: The cars are red.
-  back_es: Los carros son rojos.
-  rule_ref: L27#15, L28#7
-  lessons:
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-024
-  type: sentence
-  tier: extended
-  front_en: The houses are red.
-  back_es: Las casas son rojas.
-  rule_ref: L27#15, L28#7
-  lessons:
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-025
-  type: sentence
-  tier: extended
-  front_en: They are big.
-  back_es: Son grandes.
-  rule_ref: L27#7, L28#7
-  lessons:
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-027
-  type: sentence
-  tier: extended
-  front_en: I'm staying in the big red house.
-  back_es: Me quedo en la casa grande roja.
-  rule_ref: L27#16
-  lessons:
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-028
-  type: sentence
-  tier: extended
-  front_en: I have stayed in the red house.
-  back_es: Me he quedado en la casa roja.
-  rule_ref: L27#17
-  lessons:
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-030
-  type: sentence
-  tier: extended
-  front_en: I have to find the red car.
-  back_es: Tengo que encontrar el auto rojo.
-  rule_ref: L27#12, L27#15
-  lessons:
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-031
-  type: sentence
-  tier: extended
-  front_en: I have bought a big red car.
-  back_es: He comprado un auto grande rojo.
-  rule_ref: L27#18
-  lessons:
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-032
-  type: sentence
-  tier: extended
-  front_en: She's bought herself a red car.
-  back_es: Se ha comprado un auto rojo.
-  rule_ref: L27#18
-  lessons:
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-  notes: se preview.
-- id: t26_28-042
-  type: sentence
-  tier: extended
-  front_en: I have a big aggressive dog.
-  back_es: Tengo un perro grande agresivo.
-  rule_ref: L28#2, L28#18
-  lessons:
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-043
-  type: sentence
-  tier: extended
-  front_en: Are they expensive cars?
-  back_es: ¿Son carros caros?
-  rule_ref: L28#7
-  lessons:
-  - 27
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-046
-  type: sentence
-  tier: extended
-  front_en: I haven't found the red house.
-  back_es: No he encontrado la casa roja.
-  rule_ref: L27#12, L27#15
-  lessons:
-  - 27
   - 28
   directions:
   - en_es
   - es_en
 - id: l28-051
-  type: sentence
+  type: transformation
   tier: extended
-  front_en: The houses are big.
-  back_es: Las casas son grandes.
-  rule_ref: L28#7
+  front_en: effective (m)
+  back_es: efectivo
+  hint: ff → single f
+  rule_ref: L28#13, L28#18
   lessons:
   - 28
   directions:
   - en_es
   - es_en
 - id: l28-052
-  type: sentence
+  type: transformation
   tier: extended
-  front_en: The car is big.
-  back_es: El coche es grande.
-  rule_ref: L28#10
+  front_en: effective (f)
+  back_es: efectiva
+  hint: -ivo → -iva
+  rule_ref: L28#13, L28#5
   lessons:
   - 28
   directions:
   - en_es
   - es_en
 - id: l28-053
-  type: sentence
+  type: transformation
   tier: extended
-  front_en: The cars are big.
-  back_es: Los coches son grandes.
-  rule_ref: L28#7
+  front_en: passive (m)
+  back_es: pasivo
+  hint: ss → single s
+  rule_ref: L28#13, L28#18
   lessons:
   - 28
   directions:
   - en_es
   - es_en
 - id: l28-054
-  type: sentence
+  type: transformation
   tier: extended
-  front_en: The cameras are very expensive.
-  back_es: Las cámaras son muy caras.
-  rule_ref: L28#7, L28#16
+  front_en: expressive (m)
+  back_es: expresivo
+  hint: ss → single s
+  rule_ref: L28#13, L28#18
   lessons:
   - 28
   directions:
   - en_es
   - es_en
 - id: l28-055
-  type: sentence
+  type: transformation
   tier: extended
-  front_en: He's very intuitive.
-  back_es: Es muy intuitivo.
-  rule_ref: L28#16
+  front_en: decisive (m)
+  back_es: decisivo
+  hint: -ive → -ivo
+  rule_ref: L28#13
   lessons:
   - 28
   directions:
   - en_es
   - es_en
 - id: l28-056
-  type: sentence
+  type: transformation
   tier: extended
-  front_en: They are creative. (fem)
-  back_es: Son creativas.
-  rule_ref: L28#7
+  front_en: money (slang, lit. silver)
+  back_es: plata
+  hint: LatAm slang
+  rule_ref: L28#1
   lessons:
   - 28
   directions:
   - en_es
   - es_en
 - id: l28-057
-  type: sentence
+  type: transformation
   tier: extended
-  front_en: I'm a teacher.
-  back_es: Soy profesor.
-  rule_ref: L28#9
+  front_en: money (Spain slang)
+  back_es: pasta
+  hint: Spain only
+  rule_ref: L28#1
   lessons:
   - 28
   directions:
   - en_es
   - es_en
-  hint: soy = I am
-  notes: soy lands L31.
 - id: l28-058
-  type: sentence
+  type: transformation
   tier: extended
-  front_en: We are doctors.
-  back_es: Somos doctores.
-  rule_ref: L28#9
+  front_en: but (single r)
+  back_es: pero
+  hint: single r — vs *perro* (dog)
+  rule_ref: L28#2
   lessons:
   - 28
   directions:
   - en_es
   - es_en
-  notes: somos lands L31.
 - id: l28-059
-  type: sentence
+  type: transformation
   tier: extended
-  front_en: She's positive.
-  back_es: Es positiva.
-  rule_ref: L28#13
+  front_en: dog (double r)
+  back_es: perro
+  hint: double r — vs *pero* (but)
+  rule_ref: L28#2
   lessons:
   - 28
   directions:
   - en_es
   - es_en
 - id: l28-060
-  type: sentence
+  type: transformation
   tier: extended
-  front_en: He's intensive.
-  back_es: Es intensivo.
-  rule_ref: L28#14
+  front_en: the dogs
+  back_es: los perros
+  hint: el → los · -o + s
+  rule_ref: L28#3, L28#7
   lessons:
   - 28
   directions:
   - en_es
   - es_en
 - id: l28-061
-  type: sentence
+  type: transformation
   tier: extended
-  front_en: They (women) are very attractive.
-  back_es: Son muy atractivas.
-  rule_ref: L28#7, L28#16
+  front_en: the machines
+  back_es: las máquinas
+  hint: la → las · -a + s
+  rule_ref: L28#3, L28#7
   lessons:
   - 28
+  directions:
+  - en_es
+  - es_en
+- id: l29-025
+  type: transformation
+  tier: extended
+  front_en: reality
+  back_es: realidad
+  hint: -ity → -idad
+  rule_ref: L29#3
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: l29-026
+  type: transformation
+  tier: extended
+  front_en: possibility
+  back_es: posibilidad
+  hint: -ity → -idad · -ible stem
+  rule_ref: L29#3
+  lessons:
+  - 29
   directions:
   - en_es
   - es_en
 - id: l28-062
   type: sentence
   tier: extended
-  front_en: He's a native speaker.
-  back_es: Es nativo.
-  rule_ref: L28#13
+  front_en: The dogs are very aggressive.
+  back_es: Los perros son muy agresivos.
+  rule_ref: L28#3, L28#4, L28#16, L28#18
   lessons:
   - 28
   directions:
@@ -1206,9 +1323,9 @@ cards:
 - id: l28-063
   type: sentence
   tier: extended
-  front_en: It's negative.
-  back_es: Es negativo.
-  rule_ref: L28#13
+  front_en: It's not addictive.
+  back_es: No es adictivo.
+  rule_ref: L28#13, L28#14
   lessons:
   - 28
   directions:
@@ -1217,9 +1334,9 @@ cards:
 - id: l28-064
   type: sentence
   tier: extended
-  front_en: The doctors are aggressive.
-  back_es: Los doctores son agresivos.
-  rule_ref: L28#7
+  front_en: It's very expensive (f).
+  back_es: Es muy cara.
+  rule_ref: L28#16, L28#5, L28#6
   lessons:
   - 28
   directions:
@@ -1228,9 +1345,9 @@ cards:
 - id: l28-065
   type: sentence
   tier: extended
-  front_en: It's a positive connotation.
-  back_es: Es una connotación positiva.
-  rule_ref: L28#18
+  front_en: The money is not expensive.
+  back_es: El dinero no es caro.
+  rule_ref: L28#5
   lessons:
   - 28
   directions:
@@ -1239,9 +1356,9 @@ cards:
 - id: l28-066
   type: sentence
   tier: extended
-  front_en: He's intuitive but aggressive.
-  back_es: Es intuitivo pero agresivo.
-  rule_ref: L28#13, L28#18
+  front_en: They are positive (women).
+  back_es: Son positivas.
+  rule_ref: L28#4, L28#13, L28#7
   lessons:
   - 28
   directions:
@@ -1250,266 +1367,284 @@ cards:
 - id: l28-067
   type: sentence
   tier: extended
-  front_en: I'm not aggressive.
-  back_es: No soy agresivo.
-  rule_ref: L28#18
+  front_en: She is very intuitive.
+  back_es: Ella es muy intuitiva.
+  rule_ref: L28#17, L28#16, L28#13
   lessons:
   - 28
   directions:
   - en_es
   - es_en
-  notes: soy preview.
 - id: l28-068
   type: sentence
   tier: extended
-  front_en: We're very creative.
-  back_es: Somos muy creativos.
-  rule_ref: L28#16
+  front_en: He is creative and very attractive.
+  back_es: Es creativo y muy atractivo.
+  rule_ref: L28#13, L28#16
   lessons:
   - 28
   directions:
   - en_es
   - es_en
-  notes: somos preview.
-- id: l28-069
+- id: l29-028
   type: sentence
   tier: extended
-  front_en: I have money.
-  back_es: Tengo dinero.
-  rule_ref: L28#1
+  front_en: I am always dead (exhausted, f).
+  back_es: Siempre estoy muerta.
+  rule_ref: L29#13, L29#15, L29#9
   lessons:
-  - 28
+  - 29
   directions:
   - en_es
   - es_en
-- id: l28-070
+- id: l29-029
   type: sentence
   tier: extended
-  front_en: I don't have money.
-  back_es: No tengo dinero.
-  rule_ref: L28#1
+  front_en: He is a human being.
+  back_es: Es un ser humano.
+  rule_ref: L29#2, L29#3
   lessons:
-  - 28
+  - 29
   directions:
   - en_es
   - es_en
-- id: l28-071
+- id: l29-030
   type: sentence
   tier: extended
-  front_en: Money is expensive.
-  back_es: El dinero es caro.
-  rule_ref: L28#5
+  front_en: Humanity is creative.
+  back_es: La humanidad es creativa.
+  rule_ref: L29#3, L28#13
   lessons:
-  - 28
+  - 29
   directions:
   - en_es
   - es_en
-- id: l28-072
+- id: l29-031
   type: sentence
   tier: extended
-  front_en: The dog is big.
-  back_es: El perro es grande.
-  rule_ref: L28#2
+  front_en: We are dead (women).
+  back_es: Estamos muertas.
+  rule_ref: L29#11, L29#15
   lessons:
-  - 28
+  - 29
   directions:
   - en_es
   - es_en
-- id: l28-073
+- id: l29-032
   type: sentence
   tier: extended
-  front_en: I have a big dog.
-  back_es: Tengo un perro grande.
-  rule_ref: L28#2
+  front_en: They are always tired (men).
+  back_es: Siempre están cansados.
+  rule_ref: L29#13, L29#10, L29#12
   lessons:
-  - 28
+  - 29
   directions:
   - en_es
   - es_en
-- id: l28-074
+- id: l29-033
   type: sentence
   tier: extended
-  front_en: She is creative but aggressive.
-  back_es: Es creativa pero agresiva.
-  rule_ref: L28#13
+  front_en: You (formal) are tired.
+  back_es: Usted está cansado.
+  rule_ref: L29#10, L29#12, L30#8
   lessons:
-  - 28
+  - 29
   directions:
   - en_es
   - es_en
-- id: l28-075
+- id: l29-034
   type: sentence
   tier: extended
-  front_en: He is very positive.
-  back_es: Es muy positivo.
-  rule_ref: L28#16
+  front_en: She is intuitive but she is tired.
+  back_es: Es intuitiva pero está cansada.
+  hint: ser characteristic + estar state
+  rule_ref: L29#7, L29#4, L28#13
   lessons:
-  - 28
+  - 29
   directions:
   - en_es
   - es_en
-- id: l28-076
-  type: transformation
-  tier: extended
-  front_en: active
-  back_es: activo
-  rule_ref: L28#13
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-077
-  type: transformation
-  tier: extended
-  front_en: passive
-  back_es: pasivo
-  rule_ref: L28#13
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-078
-  type: transformation
-  tier: extended
-  front_en: effective
-  back_es: efectivo
-  rule_ref: L28#13
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-079
-  type: transformation
-  tier: extended
-  front_en: exclusive
-  back_es: exclusivo
-  rule_ref: L28#13
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-080
-  type: transformation
-  tier: extended
-  front_en: expensive
-  back_es: caro
-  rule_ref: L28#5
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: t26_28-013
+- id: l29-035
   type: sentence
   tier: extended
-  front_en: She's a creative teacher.
-  back_es: Es una profesora creativa.
-  rule_ref: L28#9, L28#13
+  front_en: I am always tired (f, alt order).
+  back_es: Estoy cansada siempre.
+  hint: '*siempre* at end — same meaning'
+  rule_ref: L29#14
   lessons:
-  - 28
+  - 29
   directions:
   - en_es
   - es_en
-- id: t26_28-014
+- id: l30-036
   type: sentence
   tier: extended
-  front_en: He's an aggressive doctor.
-  back_es: Es un doctor agresivo.
-  rule_ref: L28#9, L28#18
+  front_en: Where is he?
+  back_es: ¿Dónde está?
+  rule_ref: L30#2, L29#10
   lessons:
-  - 28
+  - 30
   directions:
   - en_es
   - es_en
-- id: t26_28-015
+- id: l30-037
   type: sentence
   tier: extended
-  front_en: They're attractive doctors.
-  back_es: Son doctores atractivos.
-  rule_ref: L28#7
+  front_en: How are they (women)?
+  back_es: ¿Cómo están ellas?
+  rule_ref: L30#1, L29#10, L28#8
   lessons:
   - 28
+  - 30
   directions:
   - en_es
   - es_en
-- id: t26_28-016
+- id: l30-038
   type: sentence
   tier: extended
-  front_en: She's a positive person.
-  back_es: Es una persona positiva.
-  rule_ref: L28#13
+  front_en: I am here, you are there.
+  back_es: Yo estoy aquí, tú estás allá.
+  hint: '*allá* = there (mirror of *acá*)'
+  rule_ref: L30#8, L29#9, L30#4
   lessons:
-  - 28
+  - 29
+  - 30
   directions:
   - en_es
   - es_en
-- id: t26_28-026
+- id: l30-039
   type: sentence
   tier: extended
-  front_en: They are very expensive.
-  back_es: Son muy caros.
-  rule_ref: L28#16
+  front_en: She is here (acá).
+  back_es: Está acá.
+  hint: '*acá* interchangeable with *aquí*'
+  rule_ref: L29#10, L30#4
   lessons:
-  - 28
+  - 29
+  - 30
   directions:
   - en_es
   - es_en
-- id: t26_28-036
+- id: l30-040
   type: sentence
   tier: extended
-  front_en: She's very intuitive.
-  back_es: Es muy intuitiva.
-  rule_ref: L28#16
+  front_en: I don't know how they are.
+  back_es: No sé cómo están.
+  rule_ref: L30#3, L30#1, L29#10
   lessons:
-  - 28
+  - 29
+  - 30
   directions:
   - en_es
   - es_en
-- id: t26_28-037
+- id: l30-041
   type: sentence
   tier: extended
-  front_en: They are very negative.
-  back_es: Son muy negativos.
-  rule_ref: L28#16
+  front_en: You guys have to stay.
+  back_es: Tienen que quedarse.
+  rule_ref: L30#11, L30#14
   lessons:
-  - 28
+  - 30
   directions:
   - en_es
   - es_en
-- id: t26_28-038
+- id: l30-042
   type: sentence
   tier: extended
-  front_en: It's very expensive.
-  back_es: Es muy caro.
-  rule_ref: L28#16
+  front_en: We have to be here later.
+  back_es: Tenemos que estar aquí más tarde.
+  rule_ref: L30#11, L30#6, L30#4
   lessons:
-  - 28
+  - 29
+  - 30
   directions:
   - en_es
   - es_en
-- id: t26_28-039
+- id: l30-043
   type: sentence
   tier: extended
-  front_en: It's not very big.
-  back_es: No es muy grande.
-  rule_ref: L28#16
+  front_en: He must be a teacher.
+  back_es: Debe ser profesor.
+  hint: characteristic → *ser*
+  rule_ref: L30#12, L29#1, L28#9
   lessons:
   - 28
+  - 29
+  - 30
   directions:
   - en_es
   - es_en
-- id: t26_28-044
+- id: l30-044
   type: sentence
   tier: extended
-  front_en: They're very creative teachers.
-  back_es: Son profesoras muy creativas.
-  rule_ref: L28#16
+  front_en: They (women) must be doctors.
+  back_es: Deben ser doctoras.
+  rule_ref: L30#13, L29#1, L28#9, L28#7
   lessons:
   - 28
+  - 29
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-045
+  type: sentence
+  tier: extended
+  front_en: I stay because she is very tired.
+  back_es: Me quedo porque ella está muy cansada.
+  rule_ref: L30#14, L30#16, L28#17, L28#16
+  lessons:
+  - 28
+  - 29
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-046
+  type: sentence
+  tier: extended
+  front_en: You (formal) must be tired.
+  back_es: Usted debe estar cansado.
+  rule_ref: L30#8, L30#12, L29#12
+  lessons:
+  - 29
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-047
+  type: sentence
+  tier: extended
+  front_en: We (women) are always here.
+  back_es: Nosotras siempre estamos aquí.
+  rule_ref: L30#9, L29#13, L30#4
+  lessons:
+  - 29
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-048
+  type: sentence
+  tier: extended
+  front_en: The teachers (women) are very intuitive.
+  back_es: Las profesoras son muy intuitivas.
+  rule_ref: L28#3, L28#4, L28#16, L28#13
+  lessons:
+  - 28
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: l30-049
+  type: sentence
+  tier: extended
+  front_en: It is intensive but it is creative.
+  back_es: Es intensivo pero es creativo.
+  rule_ref: L28#14, L28#13
+  lessons:
+  - 28
+  - 30
   directions:
   - en_es
   - es_en

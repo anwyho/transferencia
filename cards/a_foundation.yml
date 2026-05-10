@@ -1,5 +1,5 @@
 bundle: A
-title: 'Foundation: vowels, *es / no es*, convertible-word rules'
+title: 'Foundation: vowels, es / no es, convertible-word rules'
 lessons:
 - 1
 - 2
@@ -10,31 +10,32 @@ cards:
   tier: primary
   front_en: normal
   back_es: normal
-  rule_ref: L2#2
+  hint: -al → -al · stress on -AL
+  rule_ref: L2#2, L2#3
   lessons:
   - 2
   directions:
   - en_es
   - es_en
-  hint: -al → -al
 - id: l2-002
   type: transformation
   tier: primary
-  front_en: metal
-  back_es: metal
+  front_en: legal
+  back_es: legal
+  hint: -al → -al
   rule_ref: L2#2
   lessons:
   - 2
   directions:
   - en_es
   - es_en
-  hint: -al → -al
 - id: l2-003
   type: transformation
   tier: primary
-  front_en: is / he is / she is / it is
-  back_es: es
-  rule_ref: L2#7
+  front_en: illegal
+  back_es: ilegal
+  hint: single l in Spanish
+  rule_ref: L2#2
   lessons:
   - 2
   directions:
@@ -43,57 +44,58 @@ cards:
 - id: l2-004
   type: transformation
   tier: primary
-  front_en: legal
-  back_es: legal
+  front_en: natural
+  back_es: natural
+  hint: -al → -al
   rule_ref: L2#2
   lessons:
   - 2
   directions:
   - en_es
   - es_en
-  hint: -al → -al
 - id: l2-005
   type: transformation
   tier: primary
-  front_en: illegal
-  back_es: ilegal
+  front_en: ideal
+  back_es: ideal
+  hint: -al → -al
   rule_ref: L2#2
   lessons:
   - 2
   directions:
   - en_es
   - es_en
-  hint: one l in Spanish
 - id: l2-006
+  type: transformation
+  tier: primary
+  front_en: total
+  back_es: total
+  hint: -al → -al
+  rule_ref: L2#2
+  lessons:
+  - 2
+  directions:
+  - en_es
+  - es_en
+- id: l2-007
+  type: transformation
+  tier: primary
+  front_en: personal
+  back_es: personal
+  hint: -al → -al
+  rule_ref: L2#2
+  lessons:
+  - 2
+  directions:
+  - en_es
+  - es_en
+- id: l2-008
   type: transformation
   tier: primary
   front_en: liberal
   back_es: liberal
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
   hint: -al → -al
-- id: l2-007
-  type: transformation
-  tier: primary
-  front_en: natural
-  back_es: natural
   rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: -al → -al
-- id: l2-008
-  type: transformation
-  tier: primary
-  front_en: no / not / don't
-  back_es: 'no'
-  rule_ref: L2#9
   lessons:
   - 2
   directions:
@@ -102,165 +104,162 @@ cards:
 - id: l2-009
   type: transformation
   tier: primary
-  front_en: ideal
-  back_es: ideal
-  rule_ref: L2#2
+  front_en: dental
+  back_es: dental
+  hint: -al → -al · cousin of *diente*
+  rule_ref: L2#2, L2#11
   lessons:
   - 2
   directions:
   - en_es
   - es_en
-  hint: -al → -al
 - id: l2-010
   type: transformation
   tier: primary
-  front_en: fatal
-  back_es: fatal
+  front_en: metal
+  back_es: metal
+  hint: -al → -al
   rule_ref: L2#2
   lessons:
   - 2
   directions:
   - en_es
   - es_en
-  hint: -al → -al
 - id: l2-011
-  type: transformation
-  tier: primary
-  front_en: natal
-  back_es: natal
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: -al → -al
-- id: l2-012
-  type: transformation
-  tier: primary
-  front_en: colonial
-  back_es: colonial
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: -al → -al
-- id: l2-013
-  type: transformation
-  tier: primary
-  front_en: cultural
-  back_es: cultural
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: -al → -al
-- id: l2-014
   type: transformation
   tier: primary
   front_en: annual
   back_es: anual
-  rule_ref: L2#2, L2#10
+  hint: no /y/ in Spanish — write only what you say
+  rule_ref: L2#10
   lessons:
   - 2
   directions:
   - en_es
   - es_en
-  hint: no /y/ sound; just write what's said
-- id: l2-015
+- id: l2-012
   type: transformation
   tier: primary
-  front_en: dental
-  back_es: dental
-  rule_ref: L2#2
+  front_en: is / he is / she is / it is
+  back_es: es
+  hint: one word, four meanings · /es/ never /ez/
+  rule_ref: L2#6, L2#7
   lessons:
   - 2
   directions:
   - en_es
   - es_en
-  hint: -al → -al
-- id: l2-016
+- id: l2-013
   type: transformation
   tier: primary
-  front_en: tooth
-  back_es: diente
-  rule_ref: L2#11
+  front_en: no / not
+  back_es: 'no'
+  hint: /noh/ — same spelling, pure vowel
+  rule_ref: L2#4, L2#9
   lessons:
   - 2
   directions:
   - en_es
   - es_en
-  hint: cousin of dental
-- id: l2-017
-  type: transformation
-  tier: primary
-  front_en: festival
-  back_es: festival
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: -al → -al
-- id: l2-018
-  type: transformation
-  tier: primary
-  front_en: personal
-  back_es: personal
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: -al → -al
-- id: l2-019
-  type: transformation
-  tier: primary
-  front_en: total
-  back_es: total
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: -al → -al
-- id: l2-020
-  type: transformation
-  tier: primary
-  front_en: verbal
-  back_es: verbal
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: -al → -al
-- id: l2-021
+- id: l2-014
   type: transformation
   tier: primary
   front_en: verb
   back_es: verbo
+  hint: no rule — guess by sticking -o
   rule_ref: L2#12
   lessons:
   - 2
   directions:
   - en_es
   - es_en
-  hint: 'guess: stick on -o'
+- id: l2-015
+  type: transformation
+  tier: primary
+  front_en: tooth
+  back_es: diente
+  hint: 'Latin cousin: dental'
+  rule_ref: L2#11
+  lessons:
+  - 2
+  directions:
+  - en_es
+  - es_en
+- id: l2-016
+  type: sentence
+  tier: primary
+  front_en: It's normal.
+  back_es: Es normal.
+  hint: drop the subject
+  rule_ref: L2#7, L2#8, L2#2
+  lessons:
+  - 2
+  directions:
+  - en_es
+  - es_en
+- id: l2-017
+  type: sentence
+  tier: primary
+  front_en: It's not normal.
+  back_es: No es normal.
+  hint: no goes in front
+  rule_ref: L2#9, L2#7
+  lessons:
+  - 2
+  directions:
+  - en_es
+  - es_en
+- id: l2-018
+  type: sentence
+  tier: primary
+  front_en: It's legal.
+  back_es: Es legal.
+  rule_ref: L2#7, L2#2
+  lessons:
+  - 2
+  directions:
+  - en_es
+  - es_en
+- id: l2-019
+  type: sentence
+  tier: primary
+  front_en: It's illegal.
+  back_es: Es ilegal.
+  hint: single l
+  rule_ref: L2#7, L2#2
+  lessons:
+  - 2
+  directions:
+  - en_es
+  - es_en
+- id: l2-020
+  type: sentence
+  tier: primary
+  front_en: It's not legal.
+  back_es: No es legal.
+  rule_ref: L2#9, L2#7
+  lessons:
+  - 2
+  directions:
+  - en_es
+  - es_en
+- id: l2-021
+  type: sentence
+  tier: primary
+  front_en: It's natural.
+  back_es: Es natural.
+  rule_ref: L2#7, L2#2
+  lessons:
+  - 2
+  directions:
+  - en_es
+  - es_en
 - id: l2-022
   type: sentence
   tier: primary
-  front_en: It is normal.
-  back_es: Es normal.
-  rule_ref: L2#2, L2#7
+  front_en: It's not natural.
+  back_es: No es natural.
+  rule_ref: L2#9, L2#7
   lessons:
   - 2
   directions:
@@ -269,9 +268,9 @@ cards:
 - id: l2-023
   type: sentence
   tier: primary
-  front_en: It is legal.
-  back_es: Es legal.
-  rule_ref: L2#2, L2#7
+  front_en: It's ideal.
+  back_es: Es ideal.
+  rule_ref: L2#7, L2#2
   lessons:
   - 2
   directions:
@@ -280,9 +279,9 @@ cards:
 - id: l2-024
   type: sentence
   tier: primary
-  front_en: It is illegal.
-  back_es: Es ilegal.
-  rule_ref: L2#2, L2#7
+  front_en: It's not ideal.
+  back_es: No es ideal.
+  rule_ref: L2#9, L2#7
   lessons:
   - 2
   directions:
@@ -291,64 +290,69 @@ cards:
 - id: l2-025
   type: sentence
   tier: primary
-  front_en: He is liberal.
-  back_es: Es liberal.
-  rule_ref: L2#2, L2#7, L2#8
+  front_en: It is total.
+  back_es: Es total.
+  rule_ref: L2#7, L2#2
   lessons:
   - 2
   directions:
   - en_es
   - es_en
 - id: l2-026
-  type: sentence
-  tier: primary
-  front_en: It is natural.
-  back_es: Es natural.
-  rule_ref: L2#2, L2#7
+  type: transformation
+  tier: extended
+  front_en: fatal
+  back_es: fatal
+  hint: -al → -al
+  rule_ref: L2#2
   lessons:
   - 2
   directions:
   - en_es
   - es_en
 - id: l2-027
-  type: sentence
-  tier: primary
-  front_en: It is not natural.
-  back_es: No es natural.
-  rule_ref: L2#2, L2#9
+  type: transformation
+  tier: extended
+  front_en: festival
+  back_es: festival
+  hint: -al → -al
+  rule_ref: L2#2
   lessons:
   - 2
   directions:
   - en_es
   - es_en
 - id: l2-028
-  type: sentence
-  tier: primary
-  front_en: It is not normal.
-  back_es: No es normal.
-  rule_ref: L2#2, L2#9
+  type: transformation
+  tier: extended
+  front_en: colonial
+  back_es: colonial
+  hint: -al → -al
+  rule_ref: L2#2
   lessons:
   - 2
   directions:
   - en_es
   - es_en
 - id: l2-029
-  type: sentence
-  tier: primary
-  front_en: It is ideal.
-  back_es: Es ideal.
-  rule_ref: L2#2, L2#7
+  type: transformation
+  tier: extended
+  front_en: cultural
+  back_es: cultural
+  hint: -al → -al
+  rule_ref: L2#2
   lessons:
   - 2
   directions:
   - en_es
   - es_en
 - id: l2-030
-  type: sentence
-  tier: primary
-  front_en: It is not ideal.
-  back_es: No es ideal.
-  rule_ref: L2#2, L2#9
+  type: transformation
+  tier: extended
+  front_en: natal
+  back_es: natal
+  hint: -al → -al
+  rule_ref: L2#2
   lessons:
   - 2
   directions:
@@ -359,272 +363,273 @@ cards:
   tier: primary
   front_en: important
   back_es: importante
-  rule_ref: L3#1
+  hint: -ant → -ante · stress im-por-TAN-te
+  rule_ref: L3#1, L3#2
   lessons:
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ant → -ante
 - id: l3-002
   type: transformation
   tier: primary
   front_en: different
   back_es: diferente
+  hint: -ent → -ente
   rule_ref: L3#1
   lessons:
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ent → -ente
 - id: l3-003
   type: transformation
   tier: primary
   front_en: constant
   back_es: constante
+  hint: -ant → -ante
   rule_ref: L3#1
   lessons:
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ant → -ante
 - id: l3-004
   type: transformation
   tier: primary
-  front_en: constantly
-  back_es: constantemente
-  rule_ref: L3#3
+  front_en: evident
+  back_es: evidente
+  hint: -ent → -ente
+  rule_ref: L3#1
   lessons:
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ly → -mente
 - id: l3-005
   type: transformation
   tier: primary
-  front_en: legally
-  back_es: legalmente
-  rule_ref: L3#3
+  front_en: urgent
+  back_es: urgente
+  hint: -ent → -ente · /j/→/kh/
+  rule_ref: L3#1, L3#7
   lessons:
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ly → -mente
 - id: l3-006
   type: transformation
   tier: primary
-  front_en: illegally
-  back_es: ilegalmente
-  rule_ref: L3#3
+  front_en: present
+  back_es: presente
+  hint: -ent → -ente
+  rule_ref: L3#1
   lessons:
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ly → -mente
 - id: l3-007
   type: transformation
   tier: primary
-  front_en: real / royal
-  back_es: real
-  rule_ref: L3#4, L3#5
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: rolled r
-- id: l3-008
-  type: transformation
-  tier: primary
-  front_en: really
-  back_es: realmente
-  rule_ref: L3#3, L3#4
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -ly → -mente
-- id: l3-009
-  type: transformation
-  tier: primary
-  front_en: normally / usually
+  front_en: normally
   back_es: normalmente
+  hint: -ly → -mente · also = usually
   rule_ref: L3#3, L3#6
   lessons:
   - 3
   directions:
   - en_es
   - es_en
+- id: l3-008
+  type: transformation
+  tier: primary
+  front_en: legally
+  back_es: legalmente
   hint: -ly → -mente
-- id: l3-010
-  type: transformation
-  tier: primary
-  front_en: global
-  back_es: global
-  rule_ref: L2#2
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -al → -al
-- id: l3-011
-  type: transformation
-  tier: primary
-  front_en: globally
-  back_es: globalmente
   rule_ref: L3#3
   lessons:
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ly → -mente
-- id: l3-012
+- id: l3-009
   type: transformation
   tier: primary
-  front_en: general
-  back_es: general
-  rule_ref: L3#7
+  front_en: constantly
+  back_es: constantemente
+  hint: -ly → -mente (added to -ante stem)
+  rule_ref: L3#3, L3#1
   lessons:
   - 3
   directions:
   - en_es
   - es_en
-  hint: /khe-/ for ge-
-- id: l3-013
+- id: l3-010
+  type: transformation
+  tier: primary
+  front_en: really
+  back_es: realmente
+  hint: rolled r at start
+  rule_ref: L3#3, L3#4
+  lessons:
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: l3-011
   type: transformation
   tier: primary
   front_en: generally
   back_es: generalmente
+  hint: -ly → -mente · /j/→/kh/
   rule_ref: L3#3, L3#7
   lessons:
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ly → -mente; /khe-/
-- id: l3-014
-  type: transformation
-  tier: primary
-  front_en: original
-  back_es: original
-  rule_ref: L3#7
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: /o-ri-khi-NAL/
-- id: l3-015
+- id: l3-012
   type: transformation
   tier: primary
   front_en: originally
   back_es: originalmente
+  hint: -ly → -mente · /j/→/kh/
   rule_ref: L3#3, L3#7
   lessons:
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ly → -mente
-- id: l3-016
+- id: l3-013
   type: transformation
   tier: primary
-  front_en: digital
-  back_es: digital
-  rule_ref: L3#7
+  front_en: possible
+  back_es: posible
+  hint: -ible stays · single s
+  rule_ref: L3#8
   lessons:
   - 3
   directions:
   - en_es
   - es_en
-  hint: /di-khi-TAL/
+- id: l3-014
+  type: transformation
+  tier: primary
+  front_en: probable
+  back_es: probable
+  hint: -able stays
+  rule_ref: L3#8
+  lessons:
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: l3-015
+  type: transformation
+  tier: primary
+  front_en: flexible
+  back_es: flexible
+  hint: -ible stays
+  rule_ref: L3#8
+  lessons:
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: l3-016
+  type: transformation
+  tier: primary
+  front_en: terrible
+  back_es: terrible
+  hint: -ible stays
+  rule_ref: L3#8
+  lessons:
+  - 3
+  directions:
+  - en_es
+  - es_en
 - id: l3-017
   type: transformation
   tier: primary
-  front_en: naturally / obviously
-  back_es: naturalmente
+  front_en: general
+  back_es: general
+  hint: /khe-ne-RAL/ · /j/→/kh/
+  rule_ref: L3#7, L2#2
+  lessons:
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: l3-018
+  type: transformation
+  tier: primary
+  front_en: original
+  back_es: original
+  hint: /o-ri-khi-NAL/ · /j/→/kh/
+  rule_ref: L3#7, L2#2
+  lessons:
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: l3-019
+  type: transformation
+  tier: primary
+  front_en: digital
+  back_es: digital
+  hint: /di-khi-TAL/ · /j/→/kh/
+  rule_ref: L3#7, L2#2
+  lessons:
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: l3-020
+  type: transformation
+  tier: primary
+  front_en: real
+  back_es: real
+  hint: rolled r · also means *royal* (... Madrid)
+  rule_ref: L3#4, L3#5
+  lessons:
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: l3-021
+  type: transformation
+  tier: primary
+  front_en: globally
+  back_es: globalmente
+  hint: -ly → -mente
   rule_ref: L3#3
   lessons:
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ly → -mente
-- id: l3-018
-  type: transformation
-  tier: primary
-  front_en: possible
-  back_es: posible
-  rule_ref: L3#8
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -ible → -ible (drop double s)
-- id: l3-019
-  type: transformation
-  tier: primary
-  front_en: probable
-  back_es: probable
-  rule_ref: L3#8
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -able → -able
-- id: l3-020
-  type: transformation
-  tier: primary
-  front_en: probably
-  back_es: probablemente
-  rule_ref: L3#3, L3#8
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -ly → -mente
-- id: l3-021
-  type: transformation
-  tier: primary
-  front_en: possibly
-  back_es: posiblemente
-  rule_ref: L3#3, L3#8
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -ly → -mente
 - id: l3-022
-  type: transformation
-  tier: primary
-  front_en: flexible
-  back_es: flexible
-  rule_ref: L3#8
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -ible → -ible
-- id: l3-023
   type: sentence
   tier: primary
   front_en: It's important.
   back_es: Es importante.
-  rule_ref: L3#1, L2#7
+  rule_ref: L2#7, L3#1
   lessons:
+  - 2
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: l3-023
+  type: sentence
+  tier: primary
+  front_en: It's not important.
+  back_es: No es importante.
+  rule_ref: L2#9, L2#7, L3#1
+  lessons:
+  - 2
   - 3
   directions:
   - en_es
@@ -632,10 +637,11 @@ cards:
 - id: l3-024
   type: sentence
   tier: primary
-  front_en: It's not important.
-  back_es: No es importante.
-  rule_ref: L3#1, L2#9
+  front_en: It's not different.
+  back_es: No es diferente.
+  rule_ref: L2#9, L2#7, L3#1
   lessons:
+  - 2
   - 3
   directions:
   - en_es
@@ -643,10 +649,12 @@ cards:
 - id: l3-025
   type: sentence
   tier: primary
-  front_en: It's not different.
-  back_es: No es diferente.
-  rule_ref: L3#1, L2#9
+  front_en: Normally it's legal.
+  back_es: Normalmente es legal.
+  hint: -ly → -mente · drop subject
+  rule_ref: L3#3, L3#6, L2#7, L2#2
   lessons:
+  - 2
   - 3
   directions:
   - en_es
@@ -654,10 +662,12 @@ cards:
 - id: l3-026
   type: sentence
   tier: primary
-  front_en: It is constant.
-  back_es: Es constante.
-  rule_ref: L3#1, L2#7
+  front_en: Usually it's important.
+  back_es: Normalmente es importante.
+  hint: '*normalmente* doubles for *usually*'
+  rule_ref: L3#6, L3#3, L3#1, L2#7
   lessons:
+  - 2
   - 3
   directions:
   - en_es
@@ -665,999 +675,6 @@ cards:
 - id: l3-027
   type: sentence
   tier: primary
-  front_en: Normally it's important.
-  back_es: Normalmente es importante.
-  rule_ref: L3#3, L3#6, L2#7
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-028
-  type: sentence
-  tier: primary
-  front_en: Naturally it's original.
-  back_es: Naturalmente es original.
-  rule_ref: L3#3, L3#7, L2#7
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-029
-  type: sentence
-  tier: primary
-  front_en: Possibly it's original.
-  back_es: Posiblemente es original.
-  rule_ref: L3#3, L3#7, L3#8, L2#7
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l2-031
-  type: transformation
-  tier: extended
-  front_en: social
-  back_es: social
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: -al → -al
-- id: l2-032
-  type: transformation
-  tier: extended
-  front_en: central
-  back_es: central
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: -al → -al
-- id: l2-033
-  type: transformation
-  tier: extended
-  front_en: moral
-  back_es: moral
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: -al → -al
-- id: l2-034
-  type: transformation
-  tier: extended
-  front_en: national
-  back_es: nacional
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: -tional → -cional
-- id: l2-035
-  type: transformation
-  tier: extended
-  front_en: international
-  back_es: internacional
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: -tional → -cional
-- id: l2-036
-  type: transformation
-  tier: extended
-  front_en: tropical
-  back_es: tropical
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: -al → -al
-- id: l2-037
-  type: transformation
-  tier: extended
-  front_en: vital
-  back_es: vital
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: -al → -al
-- id: l2-038
-  type: transformation
-  tier: extended
-  front_en: oral
-  back_es: oral
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: -al → -al
-- id: l2-039
-  type: transformation
-  tier: extended
-  front_en: rural
-  back_es: rural
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: -al → -al
-- id: l2-040
-  type: transformation
-  tier: extended
-  front_en: industrial
-  back_es: industrial
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: -al → -al
-- id: l2-041
-  type: transformation
-  tier: extended
-  front_en: criminal
-  back_es: criminal
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: -al → -al
-- id: l2-042
-  type: transformation
-  tier: extended
-  front_en: musical
-  back_es: musical
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: -al → -al
-- id: l2-043
-  type: transformation
-  tier: extended
-  front_en: general (adj.)
-  back_es: general
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: -al → -al; /kh/ for g
-- id: l2-044
-  type: transformation
-  tier: extended
-  front_en: neutral
-  back_es: neutral
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: -al → -al
-- id: l2-045
-  type: transformation
-  tier: extended
-  front_en: global (adj.)
-  back_es: global
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: -al → -al
-- id: l2-046
-  type: transformation
-  tier: extended
-  front_en: spiritual
-  back_es: espiritual
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: sp- → esp-
-- id: l2-047
-  type: transformation
-  tier: extended
-  front_en: special
-  back_es: especial
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: sp- → esp-
-- id: l2-048
-  type: transformation
-  tier: extended
-  front_en: essential
-  back_es: esencial
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: drop double s
-- id: l2-049
-  type: transformation
-  tier: extended
-  front_en: professional
-  back_es: profesional
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: drop double f, s
-- id: l2-050
-  type: transformation
-  tier: extended
-  front_en: original (adj.)
-  back_es: original
-  rule_ref: L2#2
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-  hint: -al → -al
-- id: l2-051
-  type: sentence
-  tier: extended
-  front_en: It's social.
-  back_es: Es social.
-  rule_ref: L2#2, L2#7
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-052
-  type: sentence
-  tier: extended
-  front_en: It's not social.
-  back_es: No es social.
-  rule_ref: L2#2, L2#9
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-053
-  type: sentence
-  tier: extended
-  front_en: It's central.
-  back_es: Es central.
-  rule_ref: L2#2, L2#7
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-054
-  type: sentence
-  tier: extended
-  front_en: It's not central.
-  back_es: No es central.
-  rule_ref: L2#2, L2#9
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-055
-  type: sentence
-  tier: extended
-  front_en: It's cultural.
-  back_es: Es cultural.
-  rule_ref: L2#2, L2#7
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-056
-  type: sentence
-  tier: extended
-  front_en: It's not cultural.
-  back_es: No es cultural.
-  rule_ref: L2#2, L2#9
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-057
-  type: sentence
-  tier: extended
-  front_en: It's personal.
-  back_es: Es personal.
-  rule_ref: L2#2, L2#7
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-058
-  type: sentence
-  tier: extended
-  front_en: It's not personal.
-  back_es: No es personal.
-  rule_ref: L2#2, L2#9
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-059
-  type: sentence
-  tier: extended
-  front_en: It's natural.
-  back_es: Es natural.
-  rule_ref: L2#2, L2#7
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-060
-  type: sentence
-  tier: extended
-  front_en: It's fatal.
-  back_es: Es fatal.
-  rule_ref: L2#2, L2#7
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-061
-  type: sentence
-  tier: extended
-  front_en: It's not fatal.
-  back_es: No es fatal.
-  rule_ref: L2#2, L2#9
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-062
-  type: sentence
-  tier: extended
-  front_en: It's total.
-  back_es: Es total.
-  rule_ref: L2#2, L2#7
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-063
-  type: sentence
-  tier: extended
-  front_en: It's vital.
-  back_es: Es vital.
-  rule_ref: L2#2, L2#7
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-064
-  type: sentence
-  tier: extended
-  front_en: It's not vital.
-  back_es: No es vital.
-  rule_ref: L2#2, L2#9
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-065
-  type: sentence
-  tier: extended
-  front_en: It's not legal.
-  back_es: No es legal.
-  rule_ref: L2#2, L2#9
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-066
-  type: sentence
-  tier: extended
-  front_en: It's not illegal.
-  back_es: No es ilegal.
-  rule_ref: L2#2, L2#9
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-067
-  type: sentence
-  tier: extended
-  front_en: It's not liberal.
-  back_es: No es liberal.
-  rule_ref: L2#2, L2#9
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-068
-  type: sentence
-  tier: extended
-  front_en: It's annual.
-  back_es: Es anual.
-  rule_ref: L2#2, L2#10
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-069
-  type: sentence
-  tier: extended
-  front_en: It's not annual.
-  back_es: No es anual.
-  rule_ref: L2#2, L2#9, L2#10
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-070
-  type: sentence
-  tier: extended
-  front_en: It's colonial.
-  back_es: Es colonial.
-  rule_ref: L2#2, L2#7
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-071
-  type: sentence
-  tier: extended
-  front_en: It's not colonial.
-  back_es: No es colonial.
-  rule_ref: L2#2, L2#9
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-072
-  type: sentence
-  tier: extended
-  front_en: It's a festival.
-  back_es: Es un festival.
-  rule_ref: L2#2, L2#7
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-073
-  type: sentence
-  tier: extended
-  front_en: It's national.
-  back_es: Es nacional.
-  rule_ref: L2#2, L2#7
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-074
-  type: sentence
-  tier: extended
-  front_en: It's international.
-  back_es: Es internacional.
-  rule_ref: L2#2, L2#7
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-075
-  type: sentence
-  tier: extended
-  front_en: It's not international.
-  back_es: No es internacional.
-  rule_ref: L2#2, L2#9
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-076
-  type: sentence
-  tier: extended
-  front_en: It's musical.
-  back_es: Es musical.
-  rule_ref: L2#2, L2#7
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-077
-  type: sentence
-  tier: extended
-  front_en: It's not professional.
-  back_es: No es profesional.
-  rule_ref: L2#2, L2#9
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-078
-  type: sentence
-  tier: extended
-  front_en: It's essential.
-  back_es: Es esencial.
-  rule_ref: L2#2, L2#7
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-079
-  type: sentence
-  tier: extended
-  front_en: It's not essential.
-  back_es: No es esencial.
-  rule_ref: L2#2, L2#9
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: l2-080
-  type: sentence
-  tier: extended
-  front_en: It's special.
-  back_es: Es especial.
-  rule_ref: L2#2, L2#7
-  lessons:
-  - 2
-  directions:
-  - en_es
-  - es_en
-- id: t01_03-001
-  type: sentence
-  tier: extended
-  front_en: Normally it's legal.
-  back_es: Normalmente es legal.
-  rule_ref: L3#3, L3#6, L2#2, L2#7
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -ly→-mente · -al · es
-- id: t01_03-002
-  type: sentence
-  tier: extended
-  front_en: Normally it's not legal.
-  back_es: Normalmente no es legal.
-  rule_ref: L3#3, L3#6, L2#2, L2#9
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -al · no es
-- id: t01_03-003
-  type: sentence
-  tier: extended
-  front_en: Generally it's natural.
-  back_es: Generalmente es natural.
-  rule_ref: L3#3, L3#7, L2#2, L2#7
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -al · /khe-/
-- id: t01_03-004
-  type: sentence
-  tier: extended
-  front_en: Generally it's not natural.
-  back_es: Generalmente no es natural.
-  rule_ref: L3#3, L3#7, L2#2, L2#9
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -al · no es
-- id: t01_03-005
-  type: sentence
-  tier: extended
-  front_en: Naturally it's legal.
-  back_es: Naturalmente es legal.
-  rule_ref: L3#3, L2#2, L2#7
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -al · es
-- id: t01_03-006
-  type: sentence
-  tier: extended
-  front_en: Naturally it's not illegal.
-  back_es: Naturalmente no es ilegal.
-  rule_ref: L3#3, L2#2, L2#9
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · ilegal · no es
-- id: t01_03-007
-  type: sentence
-  tier: extended
-  front_en: Really it's ideal.
-  back_es: Realmente es ideal.
-  rule_ref: L3#3, L3#4, L2#2, L2#7
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · rolled r · -al · es
-- id: t01_03-008
-  type: sentence
-  tier: extended
-  front_en: Really it's not ideal.
-  back_es: Realmente no es ideal.
-  rule_ref: L3#3, L3#4, L2#2, L2#9
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -al · no es
-- id: t01_03-009
-  type: sentence
-  tier: extended
-  front_en: Probably it's cultural.
-  back_es: Probablemente es cultural.
-  rule_ref: L3#3, L3#8, L2#2, L2#7
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -al · es
-- id: t01_03-010
-  type: sentence
-  tier: extended
-  front_en: Probably it's not cultural.
-  back_es: Probablemente no es cultural.
-  rule_ref: L3#3, L3#8, L2#2, L2#9
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -al · no es
-- id: t01_03-011
-  type: sentence
-  tier: extended
-  front_en: Possibly it's fatal.
-  back_es: Posiblemente es fatal.
-  rule_ref: L3#3, L3#8, L2#2, L2#7
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -al · es
-- id: t01_03-012
-  type: sentence
-  tier: extended
-  front_en: Possibly it's not fatal.
-  back_es: Posiblemente no es fatal.
-  rule_ref: L3#3, L3#8, L2#2, L2#9
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -al · no es
-- id: t01_03-013
-  type: sentence
-  tier: extended
-  front_en: Generally it's personal.
-  back_es: Generalmente es personal.
-  rule_ref: L3#3, L3#7, L2#2, L2#7
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -al · es
-- id: t01_03-014
-  type: sentence
-  tier: extended
-  front_en: Generally it's not personal.
-  back_es: Generalmente no es personal.
-  rule_ref: L3#3, L3#7, L2#2, L2#9
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -al · no es
-- id: t01_03-015
-  type: sentence
-  tier: extended
-  front_en: Normally it's social.
-  back_es: Normalmente es social.
-  rule_ref: L3#3, L3#6, L2#2, L2#7
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -al · es
-- id: t01_03-016
-  type: sentence
-  tier: extended
-  front_en: Normally it's not central.
-  back_es: Normalmente no es central.
-  rule_ref: L3#3, L3#6, L2#2, L2#9
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -al · no es
-- id: t01_03-017
-  type: sentence
-  tier: extended
-  front_en: Globally it's cultural.
-  back_es: Globalmente es cultural.
-  rule_ref: L3#3, L2#2, L2#7
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -al · es
-- id: t01_03-018
-  type: sentence
-  tier: extended
-  front_en: Globally it's not normal.
-  back_es: Globalmente no es normal.
-  rule_ref: L3#3, L2#2, L2#9
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -al · no es
-- id: t01_03-019
-  type: sentence
-  tier: extended
-  front_en: Originally it's colonial.
-  back_es: Originalmente es colonial.
-  rule_ref: L3#3, L3#7, L2#2, L2#7
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -al · /-khi-/
-- id: t01_03-020
-  type: sentence
-  tier: extended
-  front_en: Originally it's not colonial.
-  back_es: Originalmente no es colonial.
-  rule_ref: L3#3, L3#7, L2#2, L2#9
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -al · no es
-- id: t01_03-021
-  type: sentence
-  tier: extended
-  front_en: Normally it's different.
-  back_es: Normalmente es diferente.
-  rule_ref: L3#3, L3#6, L3#1, L2#7
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -ent→-ente · es
-- id: t01_03-022
-  type: sentence
-  tier: extended
-  front_en: Normally it's not different.
-  back_es: Normalmente no es diferente.
-  rule_ref: L3#3, L3#6, L3#1, L2#9
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -ente · no es
-- id: t01_03-023
-  type: sentence
-  tier: extended
-  front_en: Naturally it's elegant.
-  back_es: Naturalmente es elegante.
-  rule_ref: L3#3, L3#1, L2#7
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -ant→-ante · es
-- id: t01_03-024
-  type: sentence
-  tier: extended
-  front_en: Generally it's evident.
-  back_es: Generalmente es evidente.
-  rule_ref: L3#3, L3#7, L3#1, L2#7
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -ente · /khe-/
-- id: t01_03-025
-  type: sentence
-  tier: extended
-  front_en: Generally it's not evident.
-  back_es: Generalmente no es evidente.
-  rule_ref: L3#3, L3#7, L3#1, L2#9
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -ente · no es
-- id: t01_03-026
-  type: sentence
-  tier: extended
-  front_en: Probably it's permanent.
-  back_es: Probablemente es permanente.
-  rule_ref: L3#3, L3#8, L3#1, L2#7
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -ente · es
-- id: t01_03-027
-  type: sentence
-  tier: extended
-  front_en: Probably it's not permanent.
-  back_es: Probablemente no es permanente.
-  rule_ref: L3#3, L3#8, L3#1, L2#9
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -ente · no es
-- id: t01_03-028
-  type: sentence
-  tier: extended
-  front_en: Really it's urgent.
-  back_es: Realmente es urgente.
-  rule_ref: L3#3, L3#4, L3#7, L3#1, L2#7
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · /-khen-/ · es
-- id: t01_03-029
-  type: sentence
-  tier: extended
-  front_en: Really it's not urgent.
-  back_es: Realmente no es urgente.
-  rule_ref: L3#3, L3#4, L3#7, L3#1, L2#9
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · /-khen-/ · no es
-- id: t01_03-030
-  type: sentence
-  tier: extended
-  front_en: Possibly it's sufficient.
-  back_es: Posiblemente es suficiente.
-  rule_ref: L3#3, L3#8, L3#1, L2#7
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -ente · es
-- id: t01_03-031
-  type: sentence
-  tier: extended
   front_en: Generally it's possible.
   back_es: Generalmente es posible.
   rule_ref: L3#3, L3#7, L3#8, L2#7
@@ -1667,1005 +684,400 @@ cards:
   directions:
   - en_es
   - es_en
-  hint: -mente · -ible · /khe-/
-- id: t01_03-032
+- id: l3-028
   type: sentence
-  tier: extended
-  front_en: Generally it's not possible.
-  back_es: Generalmente no es posible.
-  rule_ref: L3#3, L3#7, L3#8, L2#9
+  tier: primary
+  front_en: It's possible.
+  back_es: Es posible.
+  rule_ref: L2#7, L3#8
   lessons:
   - 2
   - 3
   directions:
   - en_es
   - es_en
-  hint: -mente · -ible · no es
-- id: t01_03-033
+- id: l3-029
   type: sentence
-  tier: extended
-  front_en: Naturally it's flexible.
-  back_es: Naturalmente es flexible.
-  rule_ref: L3#3, L3#8, L2#7
+  tier: primary
+  front_en: It's not possible.
+  back_es: No es posible.
+  rule_ref: L2#9, L2#7, L3#8
   lessons:
   - 2
   - 3
   directions:
   - en_es
   - es_en
-  hint: -mente · -ible · es
-- id: t01_03-034
-  type: sentence
-  tier: extended
-  front_en: Really it's terrible.
-  back_es: Realmente es terrible.
-  rule_ref: L3#3, L3#4, L3#8, L2#7
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -ible · rolled r
-- id: t01_03-035
-  type: sentence
-  tier: extended
-  front_en: Really it's not horrible.
-  back_es: Realmente no es horrible.
-  rule_ref: L3#3, L3#4, L3#8, L2#9
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -ible · no es
-- id: t01_03-036
-  type: sentence
-  tier: extended
-  front_en: Probably it's impossible.
-  back_es: Probablemente es imposible.
-  rule_ref: L3#3, L3#8, L2#7
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -ible · es
-- id: t01_03-037
-  type: sentence
-  tier: extended
-  front_en: Possibly it's incredible.
-  back_es: Posiblemente es increíble.
-  rule_ref: L3#3, L3#8, L2#7
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -íble · es
-- id: t01_03-038
-  type: sentence
-  tier: extended
-  front_en: Generally it's responsible.
-  back_es: Generalmente es responsable.
-  rule_ref: L3#3, L3#7, L3#8, L2#7
-  lessons:
-  - 2
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -mente · -able (not -ible)
 - id: l3-030
-  type: transformation
-  tier: extended
-  front_en: elegant
-  back_es: elegante
-  rule_ref: L3#1
+  type: sentence
+  tier: primary
+  front_en: It's probable.
+  back_es: Es probable.
+  rule_ref: L2#7, L3#8
   lessons:
+  - 2
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ant → -ante
 - id: l3-031
-  type: transformation
-  tier: extended
-  front_en: interesting
-  back_es: interesante
-  rule_ref: L3#1
+  type: sentence
+  tier: primary
+  front_en: It's flexible.
+  back_es: Es flexible.
+  rule_ref: L2#7, L3#8
   lessons:
+  - 2
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ing → -ante (interest+ant)
 - id: l3-032
-  type: transformation
-  tier: extended
-  front_en: abundant
-  back_es: abundante
-  rule_ref: L3#1
+  type: sentence
+  tier: primary
+  front_en: It's general.
+  back_es: Es general.
+  hint: /khe-ne-RAL/
+  rule_ref: L2#7, L3#7, L2#2
   lessons:
+  - 2
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ant → -ante
 - id: l3-033
-  type: transformation
-  tier: extended
-  front_en: ignorant
-  back_es: ignorante
-  rule_ref: L3#1
+  type: sentence
+  tier: primary
+  front_en: It's original.
+  back_es: Es original.
+  hint: /o-ri-khi-NAL/
+  rule_ref: L2#7, L3#7, L2#2
   lessons:
+  - 2
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ant → -ante
 - id: l3-034
-  type: transformation
-  tier: extended
-  front_en: tolerant
-  back_es: tolerante
-  rule_ref: L3#1
+  type: sentence
+  tier: primary
+  front_en: It's not digital.
+  back_es: No es digital.
+  rule_ref: L2#9, L2#7, L3#7, L2#2
   lessons:
+  - 2
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ant → -ante
 - id: l3-035
+  type: sentence
+  tier: primary
+  front_en: It's constant.
+  back_es: Es constante.
+  rule_ref: L2#7, L3#1
+  lessons:
+  - 2
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: l3-036
+  type: sentence
+  tier: primary
+  front_en: Really it's ideal.
+  back_es: Realmente es ideal.
+  rule_ref: L3#3, L3#4, L2#7, L2#2
+  lessons:
+  - 2
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: l3-037
+  type: sentence
+  tier: primary
+  front_en: Naturally it's legal.
+  back_es: Naturalmente es legal.
+  rule_ref: L3#3, L2#7, L2#2
+  lessons:
+  - 2
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: l3-038
+  type: sentence
+  tier: primary
+  front_en: It's evident.
+  back_es: Es evidente.
+  rule_ref: L2#7, L3#1
+  lessons:
+  - 2
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: l3-039
   type: transformation
   tier: extended
   front_en: instant
   back_es: instante
-  rule_ref: L3#1
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
   hint: -ant → -ante
-- id: l3-036
-  type: transformation
-  tier: extended
-  front_en: evident
-  back_es: evidente
   rule_ref: L3#1
   lessons:
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ent → -ente
-- id: l3-037
-  type: transformation
-  tier: extended
-  front_en: sufficient
-  back_es: suficiente
-  rule_ref: L3#1
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -ent → -ente; drop double f
-- id: l3-038
-  type: transformation
-  tier: extended
-  front_en: permanent
-  back_es: permanente
-  rule_ref: L3#1
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -ent → -ente
-- id: l3-039
-  type: transformation
-  tier: extended
-  front_en: urgent
-  back_es: urgente
-  rule_ref: L3#1, L3#7
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -ent → -ente; /ur-KHEN-te/
 - id: l3-040
   type: transformation
   tier: extended
-  front_en: intelligent
-  back_es: inteligente
+  front_en: giant
+  back_es: gigante
+  hint: -ant → -ante · /j/→/kh/
   rule_ref: L3#1, L3#7
   lessons:
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ent → -ente; one l; /-khen-/
 - id: l3-041
   type: transformation
   tier: extended
-  front_en: excellent
-  back_es: excelente
+  front_en: absent
+  back_es: ausente
+  hint: -ent → -ente · /au/ for /æ/
   rule_ref: L3#1
   lessons:
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ent → -ente; one l
 - id: l3-042
   type: transformation
   tier: extended
-  front_en: frequent
-  back_es: frecuente
+  front_en: patient
+  back_es: paciente
+  hint: -ient → -iente · t softens to c
   rule_ref: L3#1
   lessons:
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ent → -ente
 - id: l3-043
   type: transformation
   tier: extended
   front_en: decent
   back_es: decente
+  hint: -ent → -ente
   rule_ref: L3#1
   lessons:
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ent → -ente
 - id: l3-044
   type: transformation
   tier: extended
-  front_en: patient
-  back_es: paciente
-  rule_ref: L3#1
+  front_en: illegally
+  back_es: ilegalmente
+  hint: -ly → -mente · single l
+  rule_ref: L3#3
   lessons:
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ent → -ente
 - id: l3-045
   type: transformation
   tier: extended
-  front_en: recent
-  back_es: reciente
-  rule_ref: L3#1
+  front_en: possibly
+  back_es: posiblemente
+  hint: -ibly → -iblemente
+  rule_ref: L3#3, L3#8
   lessons:
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ent → -ente
 - id: l3-046
   type: transformation
   tier: extended
-  front_en: transparent
-  back_es: transparente
-  rule_ref: L3#1
+  front_en: probably
+  back_es: probablemente
+  hint: -ably → -ablemente
+  rule_ref: L3#3, L3#8
   lessons:
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ent → -ente
 - id: l3-047
   type: transformation
   tier: extended
-  front_en: totally
-  back_es: totalmente
+  front_en: naturally
+  back_es: naturalmente
+  hint: -ly → -mente · also = obviously
   rule_ref: L3#3
   lessons:
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ly → -mente
 - id: l3-048
-  type: transformation
-  tier: extended
-  front_en: personally
-  back_es: personalmente
-  rule_ref: L3#3
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -ly → -mente
-- id: l3-049
-  type: transformation
-  tier: extended
-  front_en: culturally
-  back_es: culturalmente
-  rule_ref: L3#3
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -ly → -mente
-- id: l3-050
-  type: transformation
-  tier: extended
-  front_en: socially
-  back_es: socialmente
-  rule_ref: L3#3
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -ly → -mente
-- id: l3-051
-  type: transformation
-  tier: extended
-  front_en: centrally
-  back_es: centralmente
-  rule_ref: L3#3
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -ly → -mente
-- id: l3-052
-  type: transformation
-  tier: extended
-  front_en: morally
-  back_es: moralmente
-  rule_ref: L3#3
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -ly → -mente
-- id: l3-053
-  type: transformation
-  tier: extended
-  front_en: verbally
-  back_es: verbalmente
-  rule_ref: L3#3
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -ly → -mente
-- id: l3-054
-  type: transformation
-  tier: extended
-  front_en: annually
-  back_es: anualmente
-  rule_ref: L3#3, L2#10
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -ly → -mente
-- id: l3-055
   type: transformation
   tier: extended
   front_en: frequently
   back_es: frecuentemente
-  rule_ref: L3#3
+  hint: -ently → -entemente · qu = /k/
+  rule_ref: L3#3, L3#1
   lessons:
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ly → -mente
-- id: l3-056
-  type: transformation
-  tier: extended
-  front_en: recently
-  back_es: recientemente
-  rule_ref: L3#3
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -ly → -mente
-- id: l3-057
-  type: transformation
-  tier: extended
-  front_en: evidently
-  back_es: evidentemente
-  rule_ref: L3#3
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -ly → -mente
-- id: l3-058
-  type: transformation
-  tier: extended
-  front_en: urgently
-  back_es: urgentemente
-  rule_ref: L3#3, L3#7
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -ly → -mente; /-khen-/
-- id: l3-059
-  type: transformation
-  tier: extended
-  front_en: elegantly
-  back_es: elegantemente
-  rule_ref: L3#3
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -ly → -mente
-- id: l3-060
-  type: transformation
-  tier: extended
-  front_en: patiently
-  back_es: pacientemente
-  rule_ref: L3#3
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -ly → -mente
-- id: l3-061
-  type: transformation
-  tier: extended
-  front_en: terrible
-  back_es: terrible
-  rule_ref: L3#8
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -ible → -ible
-- id: l3-062
-  type: transformation
-  tier: extended
-  front_en: horrible
-  back_es: horrible
-  rule_ref: L3#8
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -ible → -ible
-- id: l3-063
-  type: transformation
-  tier: extended
-  front_en: visible
-  back_es: visible
-  rule_ref: L3#8
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -ible → -ible
-- id: l3-064
+- id: l3-049
   type: transformation
   tier: extended
   front_en: incredible
   back_es: increíble
+  hint: -ible stays · accent on í
   rule_ref: L3#8
   lessons:
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ible → -íble (accent on í)
-- id: l3-065
-  type: transformation
-  tier: extended
-  front_en: responsible
-  back_es: responsable
-  rule_ref: L3#8
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: Spanish uses -able here
-- id: l3-066
+- id: l3-050
   type: transformation
   tier: extended
   front_en: impossible
   back_es: imposible
+  hint: -ible stays · single s
   rule_ref: L3#8
   lessons:
   - 3
   directions:
   - en_es
   - es_en
-  hint: -ible → -ible; one s
-- id: l3-067
+- id: l3-051
   type: transformation
   tier: extended
-  front_en: improbable
-  back_es: improbable
+  front_en: comparable
+  back_es: comparable
+  hint: -able stays
   rule_ref: L3#8
   lessons:
   - 3
   directions:
   - en_es
   - es_en
-  hint: -able → -able
-- id: l3-068
-  type: transformation
-  tier: extended
-  front_en: notable
-  back_es: notable
-  rule_ref: L3#8
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -able → -able
-- id: l3-069
-  type: transformation
-  tier: extended
-  front_en: adorable
-  back_es: adorable
-  rule_ref: L3#8
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -able → -able
-- id: l3-070
-  type: transformation
-  tier: extended
-  front_en: inevitable
-  back_es: inevitable
-  rule_ref: L3#8
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: -able → -able
-- id: l3-071
-  type: transformation
-  tier: extended
-  front_en: energetic
-  back_es: energético
-  rule_ref: L3#7
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-  hint: /-khe-/ for ge-
-- id: l3-072
-  type: sentence
-  tier: extended
-  front_en: It's possible.
-  back_es: Es posible.
-  rule_ref: L3#8, L2#7
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-073
-  type: sentence
-  tier: extended
-  front_en: It's not possible.
-  back_es: No es posible.
-  rule_ref: L3#8, L2#9
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-074
-  type: sentence
-  tier: extended
-  front_en: It's probable.
-  back_es: Es probable.
-  rule_ref: L3#8, L2#7
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-075
-  type: sentence
-  tier: extended
-  front_en: It's not probable.
-  back_es: No es probable.
-  rule_ref: L3#8, L2#9
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-076
-  type: sentence
-  tier: extended
-  front_en: It's flexible.
-  back_es: Es flexible.
-  rule_ref: L3#8, L2#7
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-077
-  type: sentence
-  tier: extended
-  front_en: It's terrible.
-  back_es: Es terrible.
-  rule_ref: L3#8, L2#7
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-078
-  type: sentence
-  tier: extended
-  front_en: It's horrible.
-  back_es: Es horrible.
-  rule_ref: L3#8, L2#7
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-079
-  type: sentence
-  tier: extended
-  front_en: It's incredible.
-  back_es: Es increíble.
-  rule_ref: L3#8, L2#7
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-080
-  type: sentence
-  tier: extended
-  front_en: It's not visible.
-  back_es: No es visible.
-  rule_ref: L3#8, L2#9
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-081
-  type: sentence
-  tier: extended
-  front_en: It's evident.
-  back_es: Es evidente.
-  rule_ref: L3#1, L2#7
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-082
-  type: sentence
-  tier: extended
-  front_en: It's not evident.
-  back_es: No es evidente.
-  rule_ref: L3#1, L2#9
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-083
-  type: sentence
-  tier: extended
-  front_en: It's permanent.
-  back_es: Es permanente.
-  rule_ref: L3#1, L2#7
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-084
-  type: sentence
-  tier: extended
-  front_en: It's not permanent.
-  back_es: No es permanente.
-  rule_ref: L3#1, L2#9
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-085
-  type: sentence
-  tier: extended
-  front_en: It's elegant.
-  back_es: Es elegante.
-  rule_ref: L3#1, L2#7
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-086
-  type: sentence
-  tier: extended
-  front_en: It's interesting.
-  back_es: Es interesante.
-  rule_ref: L3#1, L2#7
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-087
-  type: sentence
-  tier: extended
-  front_en: It's not interesting.
-  back_es: No es interesante.
-  rule_ref: L3#1, L2#9
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-088
-  type: sentence
-  tier: extended
-  front_en: It's urgent.
-  back_es: Es urgente.
-  rule_ref: L3#1, L3#7, L2#7
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-089
-  type: sentence
-  tier: extended
-  front_en: It's not urgent.
-  back_es: No es urgente.
-  rule_ref: L3#1, L3#7, L2#9
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-090
-  type: sentence
-  tier: extended
-  front_en: It's intelligent.
-  back_es: Es inteligente.
-  rule_ref: L3#1, L3#7, L2#7
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-091
-  type: sentence
-  tier: extended
-  front_en: It's excellent.
-  back_es: Es excelente.
-  rule_ref: L3#1, L2#7
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-092
-  type: sentence
-  tier: extended
-  front_en: It's sufficient.
-  back_es: Es suficiente.
-  rule_ref: L3#1, L2#7
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-093
-  type: sentence
-  tier: extended
-  front_en: It's not sufficient.
-  back_es: No es suficiente.
-  rule_ref: L3#1, L2#9
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-094
-  type: sentence
-  tier: extended
-  front_en: It's general.
-  back_es: Es general.
-  rule_ref: L3#7, L2#7
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-095
-  type: sentence
-  tier: extended
-  front_en: It's digital.
-  back_es: Es digital.
-  rule_ref: L3#7, L2#7
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-096
-  type: sentence
-  tier: extended
-  front_en: It's original.
-  back_es: Es original.
-  rule_ref: L3#7, L2#7
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-097
-  type: sentence
-  tier: extended
-  front_en: It's not original.
-  back_es: No es original.
-  rule_ref: L3#7, L2#9
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-098
-  type: sentence
-  tier: extended
-  front_en: Generally it's important.
-  back_es: Generalmente es importante.
-  rule_ref: L3#3, L3#7, L3#1
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-099
-  type: sentence
-  tier: extended
-  front_en: Generally it's not important.
-  back_es: Generalmente no es importante.
-  rule_ref: L3#3, L3#7, L2#9
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-100
-  type: sentence
-  tier: extended
-  front_en: Probably it's legal.
-  back_es: Probablemente es legal.
-  rule_ref: L3#3, L3#8, L2#2
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-101
-  type: sentence
-  tier: extended
-  front_en: Probably it's not legal.
-  back_es: Probablemente no es legal.
-  rule_ref: L3#3, L3#8, L2#9
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-102
-  type: sentence
-  tier: extended
-  front_en: Possibly it's important.
-  back_es: Posiblemente es importante.
-  rule_ref: L3#3, L3#8, L3#1
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-103
-  type: sentence
-  tier: extended
-  front_en: Really it's normal.
-  back_es: Realmente es normal.
-  rule_ref: L3#3, L3#4, L2#2
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-104
-  type: sentence
-  tier: extended
-  front_en: Naturally it's natural.
-  back_es: Naturalmente es natural.
-  rule_ref: L3#3, L2#2
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-105
-  type: sentence
-  tier: extended
-  front_en: Constantly it's different.
-  back_es: Constantemente es diferente.
-  rule_ref: L3#3, L3#1
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-106
-  type: sentence
-  tier: extended
-  front_en: Normally it's possible.
-  back_es: Normalmente es posible.
-  rule_ref: L3#3, L3#6, L3#8
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-107
-  type: sentence
-  tier: extended
-  front_en: Usually it's flexible.
-  back_es: Normalmente es flexible.
-  rule_ref: L3#6, L3#8
-  lessons:
-  - 3
-  directions:
-  - en_es
-  - es_en
-- id: l3-108
+- id: l3-052
   type: sentence
   tier: extended
   front_en: Globally it's important.
   back_es: Globalmente es importante.
-  rule_ref: L3#3, L3#1
+  rule_ref: L3#3, L2#7, L3#1
   lessons:
+  - 2
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: l3-053
+  type: sentence
+  tier: extended
+  front_en: Really it's not legal.
+  back_es: Realmente no es legal.
+  rule_ref: L3#3, L3#4, L2#9, L2#7, L2#2
+  lessons:
+  - 2
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: l3-054
+  type: sentence
+  tier: extended
+  front_en: Possibly it's illegal.
+  back_es: Posiblemente es ilegal.
+  rule_ref: L3#3, L3#8, L2#7, L2#2
+  lessons:
+  - 2
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: l3-055
+  type: sentence
+  tier: extended
+  front_en: Probably it's different.
+  back_es: Probablemente es diferente.
+  rule_ref: L3#3, L3#8, L2#7, L3#1
+  lessons:
+  - 2
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: l3-056
+  type: sentence
+  tier: extended
+  front_en: Generally it's not flexible.
+  back_es: Generalmente no es flexible.
+  rule_ref: L3#3, L3#7, L2#9, L2#7, L3#8
+  lessons:
+  - 2
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: l3-057
+  type: sentence
+  tier: extended
+  front_en: Normally it's not important.
+  back_es: Normalmente no es importante.
+  rule_ref: L3#3, L3#6, L2#9, L2#7, L3#1
+  lessons:
+  - 2
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: l3-058
+  type: sentence
+  tier: extended
+  front_en: It's terrible.
+  back_es: Es terrible.
+  rule_ref: L2#7, L3#8
+  lessons:
+  - 2
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: l3-059
+  type: sentence
+  tier: extended
+  front_en: It's incredible.
+  back_es: Es increíble.
+  rule_ref: L2#7, L3#8
+  lessons:
+  - 2
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: l3-060
+  type: sentence
+  tier: extended
+  front_en: It's not impossible.
+  back_es: No es imposible.
+  rule_ref: L2#9, L2#7, L3#8
+  lessons:
+  - 2
   - 3
   directions:
   - en_es

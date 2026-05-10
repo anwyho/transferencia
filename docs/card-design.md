@@ -170,11 +170,29 @@ Soft conventions:
 - Hints kept under 30 characters where possible.
 - No regional slang in primary tier.
 
-## Quantity targets (rough)
+## Quantity targets
 
-| Tier | Per 3-lesson bundle | Per 4-lesson bundle |
-|------|---------------------|---------------------|
-| Primary | 60-90 | 80-120 |
-| Extended | 120-240 | 160-320 |
+Concept-driven, not exhaustive. Each card earns its slot — drilling the same word in both polarities counts as one slot unless the polarity *is* the rule. Primary ≈ 70%, extended ≈ 30% of bundle budget.
 
-Through bundle I (L1–28): ~2500 cards. Full 90-lesson scale: ~7000–9000 cards.
+| Bundle | Lessons | Total | Primary | Extended |
+|--------|---------|-------|---------|----------|
+| A. Foundation | 1–3 | 90 | 63 | 27 |
+| B. Verb unlock | 4–7 | 120 | 84 | 36 |
+| C. Helpers + saber | 8–10 | 160 | 112 | 48 |
+| D. Present + -go start | 11–13 | 150 | 105 | 45 |
+| E. Spine + vowel split | 14–17 | 160 | 112 | 48 |
+| F. *We* + future context | 18–20 | 150 | 105 | 45 |
+| G. Haber-past + reflexive | 21–23 | 150 | 105 | 45 |
+| H. Indirect + *dar* | 24–27 | 150 | 105 | 45 |
+| I. Agreement + ser/estar | 28–30 | 150 | 105 | 45 |
+| J. Full *ser* | 31–33 | 150 | 105 | 45 |
+| K. Gerund + future | 34–36 | 150 | 105 | 45 |
+| L. Pronoun migration | 37–39 | 150 | 105 | 45 |
+| M. Conditional + gustar | 40–43 | 150 | 105 | 45 |
+| N. Gender exceptions | 44–46 | 150 | 105 | 45 |
+| Ñ. Line-past full | 47–49 | 150 | 105 | 45 |
+| O. Para vs por | 50–53 | 150 | 105 | 45 |
+
+Total through bundle O (L1–53): ≈ 2330 cards. Bundles P–Z (L54–90) follow the same per-bundle rhythm of 140–160 cards once authored.
+
+The earlier exhaustive-coverage targets (~7000–9000 cards) are abandoned. Cards are picked for variance and concept coverage, not vocab inventory completeness — Anki history hinges on cards being *worth* repeating, not on counting every word a lesson mentions.

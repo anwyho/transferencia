@@ -1,0 +1,1604 @@
+bundle: K
+title: 'Gerund + future tense: -ando/-iendo, salir/salgo, real future -é/-ás/-á/-emos/-án'
+lessons:
+- 34
+- 35
+- 36
+cards:
+- id: l34-001
+  type: transformation
+  tier: primary
+  front_en: speaking (right now)
+  back_es: hablando
+  hint: -ar drops, +-ando
+  rule_ref: L34#8
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-002
+  type: transformation
+  tier: primary
+  front_en: preparing (right now)
+  back_es: preparando
+  hint: -ar → -ando
+  rule_ref: L34#8
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-003
+  type: transformation
+  tier: primary
+  front_en: having breakfast (right now)
+  back_es: desayunando
+  hint: desayunar = un-fast · -ar → -ando
+  rule_ref: L34#8, L34#3
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-004
+  type: transformation
+  tier: primary
+  front_en: waiting (right now)
+  back_es: esperando
+  hint: esperar = wait or hope · -ar → -ando
+  rule_ref: L34#8, L34#4
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-005
+  type: transformation
+  tier: primary
+  front_en: selling (right now)
+  back_es: vendiendo
+  hint: vender = sell (vending machine) · -er → -iendo
+  rule_ref: L34#8, L34#13
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-007
+  type: transformation
+  tier: primary
+  front_en: sleeping (right now)
+  back_es: durmiendo
+  hint: -ir → -iendo · slight vowel shift
+  rule_ref: L34#8
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-008
+  type: transformation
+  tier: primary
+  front_en: to sell
+  back_es: vender
+  hint: vending machine
+  rule_ref: L34#13
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-009
+  type: transformation
+  tier: primary
+  front_en: to have breakfast
+  back_es: desayunar
+  hint: des- (un-) + ayunar (to fast) = break-fast
+  rule_ref: L34#3
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-010
+  type: transformation
+  tier: primary
+  front_en: the breakfast
+  back_es: el desayuno
+  hint: noun form of *desayunar*
+  rule_ref: L34#3
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-012
+  type: transformation
+  tier: primary
+  front_en: desperate
+  back_es: desesperado
+  hint: un-hopeful
+  rule_ref: L34#4
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-013
+  type: transformation
+  tier: primary
+  front_en: tomorrow
+  back_es: mañana
+  hint: ñ = ny sound
+  rule_ref: L34#11
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-014
+  type: conjugation
+  tier: primary
+  front_en: I form of vender
+  back_es: vendo
+  hint: regular -er
+  rule_ref: L34#13
+  lessons:
+  - 34
+  directions:
+  - en_es
+- id: l34-015
+  type: conjugation
+  tier: primary
+  front_en: I form of desayunar
+  back_es: desayuno
+  hint: = also *the breakfast*
+  rule_ref: L34#3
+  lessons:
+  - 34
+  directions:
+  - en_es
+- id: l34-017
+  type: sentence
+  tier: primary
+  front_en: I'm speaking (right now).
+  back_es: Estoy hablando.
+  hint: estar + -ando — this moment only
+  rule_ref: L34#7, L34#9
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-018
+  type: sentence
+  tier: primary
+  front_en: I'm eating.
+  back_es: Estoy comiendo.
+  hint: estar + -iendo
+  rule_ref: L34#7, L34#9
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-019
+  type: sentence
+  tier: primary
+  front_en: She is eating.
+  back_es: Está comiendo.
+  hint: third person *está*
+  rule_ref: L34#7
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-020
+  type: sentence
+  tier: primary
+  front_en: We're having breakfast.
+  back_es: Estamos desayunando.
+  hint: right now
+  rule_ref: L34#7, L34#3
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-021
+  type: sentence
+  tier: primary
+  front_en: I'm waiting here.
+  back_es: Estoy esperando aquí.
+  hint: firmly right now
+  rule_ref: L34#9, L34#10
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-022
+  type: sentence
+  tier: primary
+  front_en: I'll wait here.
+  back_es: Espero aquí.
+  hint: plain present = future-ish nuance
+  rule_ref: L34#10, L34#5
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-023
+  type: sentence
+  tier: primary
+  front_en: I'm selling it tomorrow.
+  back_es: Lo vendo mañana.
+  hint: future context — NO -ing
+  rule_ref: L34#11, L34#5
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-024
+  type: sentence
+  tier: primary
+  front_en: I'm selling it (right now).
+  back_es: Lo estoy vendiendo.
+  hint: pronoun before estoy
+  rule_ref: L34#9, L34#12
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-025
+  type: sentence
+  tier: primary
+  front_en: I'm preparing it tomorrow.
+  back_es: Lo preparo mañana.
+  hint: future = plain present
+  rule_ref: L34#11, L34#5
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-026
+  type: sentence
+  tier: primary
+  front_en: I'm preparing it (right now). (Lo…)
+  back_es: Lo estoy preparando.
+  hint: pronoun before estoy
+  rule_ref: L34#9, L34#12
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-027
+  type: sentence
+  tier: primary
+  front_en: I'm preparing it (right now). (Estoy…)
+  back_es: Estoy preparándolo.
+  hint: same meaning — pronoun glued + accent
+  rule_ref: L34#12
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-028
+  type: sentence
+  tier: primary
+  front_en: They are selling it (right now). (Lo…)
+  back_es: Lo están vendiendo.
+  hint: pronoun before están
+  rule_ref: L34#12
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-029
+  type: sentence
+  tier: primary
+  front_en: They are selling it (right now). (Están…)
+  back_es: Están vendiéndolo.
+  hint: same — glued ending + accent
+  rule_ref: L34#12
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-030
+  type: sentence
+  tier: primary
+  front_en: They are selling it tomorrow.
+  back_es: Lo venden mañana.
+  hint: future — plain present, NOT -iendo
+  rule_ref: L34#11, L34#5
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-031
+  type: sentence
+  tier: primary
+  front_en: I fall asleep.
+  back_es: Me duermo.
+  hint: 'reflexive: I sleep myself'
+  rule_ref: L34#2
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-032
+  type: transformation
+  tier: extended
+  front_en: organizing (right now)
+  back_es: organizando
+  hint: -ar → -ando
+  rule_ref: L34#8
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-033
+  type: transformation
+  tier: extended
+  front_en: buying (right now)
+  back_es: comprando
+  hint: -ar → -ando
+  rule_ref: L34#8
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-034
+  type: sentence
+  tier: extended
+  front_en: He's waiting here.
+  back_es: Está esperando aquí.
+  rule_ref: L34#9, L34#10
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-035
+  type: sentence
+  tier: extended
+  front_en: We're preparing it (right now). (Lo…)
+  back_es: Lo estamos preparando.
+  rule_ref: L34#7, L34#12
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-036
+  type: sentence
+  tier: extended
+  front_en: We're preparing it (right now). (Estamos…)
+  back_es: Estamos preparándolo.
+  hint: glued ending
+  rule_ref: L34#12
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l34-037
+  type: sentence
+  tier: extended
+  front_en: I'm eating with her tomorrow.
+  back_es: Como con ella mañana.
+  hint: NOT *estoy comiendo* — future
+  rule_ref: L34#11
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: l35-001
+  type: transformation
+  tier: primary
+  front_en: sincere (m)
+  back_es: sincero
+  hint: concept = characteristic → goes with ser
+  rule_ref: L35#1, L35#2
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-002
+  type: transformation
+  tier: primary
+  front_en: sincere (f)
+  back_es: sincera
+  hint: -a for feminine
+  rule_ref: L35#1
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-004
+  type: transformation
+  tier: primary
+  front_en: honest (m)
+  back_es: honesto
+  hint: silent h · characteristic → ser
+  rule_ref: L35#5
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-005
+  type: transformation
+  tier: primary
+  front_en: honest (f)
+  back_es: honesta
+  hint: silent h
+  rule_ref: L35#5
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-006
+  type: transformation
+  tier: primary
+  front_en: being
+  back_es: siendo
+  hint: ser → ... (-iendo)
+  rule_ref: L35#4
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-007
+  type: transformation
+  tier: primary
+  front_en: to leave / to go out
+  back_es: salir
+  hint: 'irregular: yo form = salgo'
+  rule_ref: L35#6
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-008
+  type: transformation
+  tier: primary
+  front_en: leaving (right now)
+  back_es: saliendo
+  hint: -ir → -iendo (regular gerund)
+  rule_ref: L35#9
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-009
+  type: transformation
+  tier: primary
+  front_en: soon
+  back_es: pronto
+  hint: NOT right-now — no -iendo
+  rule_ref: L35#7
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-011
+  type: transformation
+  tier: primary
+  front_en: week
+  back_es: semana
+  hint: feminine
+  rule_ref: L35#12
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-016
+  type: conjugation
+  tier: primary
+  front_en: I form of comprar
+  back_es: compro
+  hint: regular -ar
+  rule_ref: L35#11
+  lessons:
+  - 35
+  directions:
+  - en_es
+- id: l35-017
+  type: sentence
+  tier: primary
+  front_en: I am sincere (m).
+  back_es: Soy sincero.
+  hint: characteristic = ser
+  rule_ref: L35#2
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-018
+  type: sentence
+  tier: primary
+  front_en: I am sincere (f).
+  back_es: Soy sincera.
+  hint: -a feminine
+  rule_ref: L35#2
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-019
+  type: sentence
+  tier: primary
+  front_en: We are sincere (m).
+  back_es: Somos sinceros.
+  rule_ref: L35#3
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-020
+  type: sentence
+  tier: primary
+  front_en: We are sincere (f).
+  back_es: Somos sinceras.
+  rule_ref: L35#3
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-021
+  type: sentence
+  tier: primary
+  front_en: I am honest (m).
+  back_es: Soy honesto.
+  rule_ref: L35#5, L35#2
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-022
+  type: sentence
+  tier: primary
+  front_en: I am being sincere (m).
+  back_es: Estoy siendo sincero.
+  hint: estar + siendo — in this moment
+  rule_ref: L35#4
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-023
+  type: sentence
+  tier: primary
+  front_en: I am being sincere (f).
+  back_es: Estoy siendo sincera.
+  rule_ref: L35#4
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-024
+  type: sentence
+  tier: primary
+  front_en: We are being honest.
+  back_es: Estamos siendo honestos.
+  rule_ref: L35#5
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-025
+  type: sentence
+  tier: primary
+  front_en: She is being honest.
+  back_es: Está siendo honesta.
+  rule_ref: L35#5, L35#4
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-026
+  type: sentence
+  tier: primary
+  front_en: I'm leaving soon.
+  back_es: Salgo pronto.
+  hint: soon ≠ right now
+  rule_ref: L35#7, L35#6
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-027
+  type: sentence
+  tier: primary
+  front_en: I'm leaving tomorrow.
+  back_es: Salgo mañana.
+  hint: future context → present, NOT *saliendo*
+  rule_ref: L35#8
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-028
+  type: sentence
+  tier: primary
+  front_en: I'm leaving (right now).
+  back_es: Estoy saliendo.
+  hint: the ONLY -iendo case
+  rule_ref: L35#9
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-029
+  type: sentence
+  tier: primary
+  front_en: She is leaving (right now).
+  back_es: Está saliendo.
+  rule_ref: L35#9
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-030
+  type: sentence
+  tier: primary
+  front_en: I buy them.
+  back_es: Los compro.
+  hint: = also *I'm buying them*
+  rule_ref: L35#11
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-031
+  type: sentence
+  tier: primary
+  front_en: I'm buying them tomorrow.
+  back_es: Los compro mañana.
+  hint: future → present
+  rule_ref: L35#11, L34#11
+  lessons:
+  - 34
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-032
+  type: sentence
+  tier: primary
+  front_en: I'm buying them next week.
+  back_es: Los compro la semana que viene.
+  hint: '*next week* → present'
+  rule_ref: L35#13
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-033
+  type: sentence
+  tier: primary
+  front_en: I'm buying them now. (Los…)
+  back_es: Los estoy comprando ahora.
+  hint: ahora → -iendo
+  rule_ref: L35#14
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-034
+  type: sentence
+  tier: primary
+  front_en: I'm buying them now. (Estoy…)
+  back_es: Estoy comprándolos ahora.
+  hint: glued + accent (preserves stress)
+  rule_ref: L35#14, L34#12
+  lessons:
+  - 34
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-035
+  type: sentence
+  tier: extended
+  front_en: He is sincere.
+  back_es: Es sincero.
+  rule_ref: L35#2
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-036
+  type: sentence
+  tier: extended
+  front_en: She is honest.
+  back_es: Es honesta.
+  rule_ref: L35#5
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-037
+  type: sentence
+  tier: extended
+  front_en: They are being sincere.
+  back_es: Están siendo sinceros.
+  rule_ref: L35#4
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-038
+  type: sentence
+  tier: extended
+  front_en: He's being honest (right now).
+  back_es: Está siendo honesto.
+  rule_ref: L35#5, L35#4
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-039
+  type: sentence
+  tier: extended
+  front_en: They are leaving next week.
+  back_es: Salen la semana que viene.
+  hint: future → present
+  rule_ref: L35#12
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-040
+  type: sentence
+  tier: extended
+  front_en: We are leaving soon.
+  back_es: Salimos pronto.
+  rule_ref: L35#7
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l35-041
+  type: sentence
+  tier: extended
+  front_en: He's buying them soon.
+  back_es: Los compra pronto.
+  rule_ref: L35#11, L35#7
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: l36-001
+  type: transformation
+  tier: primary
+  front_en: with them
+  back_es: con ellos
+  hint: literally *with they*
+  rule_ref: L36#2
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-004
+  type: transformation
+  tier: primary
+  front_en: to find / to encounter
+  back_es: encontrar
+  hint: regular -ar in future
+  rule_ref: L36#5
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-005
+  type: transformation
+  tier: primary
+  front_en: to remain / to stay
+  back_es: quedar
+  hint: reflexive *me* for *stay*
+  rule_ref: L36#13
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-006
+  type: transformation
+  tier: primary
+  front_en: to recommend
+  back_es: recomendar
+  hint: past part. = recomendado
+  rule_ref: L36#12
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-008
+  type: conjugation
+  tier: primary
+  front_en: future I form of comer
+  back_es: comeré
+  hint: infinitive + -é (like *he*)
+  rule_ref: L36#5, L36#6
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: l36-009
+  type: conjugation
+  tier: primary
+  front_en: future you form of comer
+  back_es: comerás
+  hint: infinitive + -ás (like *has*)
+  rule_ref: L36#6
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: l36-010
+  type: conjugation
+  tier: primary
+  front_en: future she form of comer
+  back_es: comerá
+  hint: infinitive + -á (like *ha*)
+  rule_ref: L36#6
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: l36-011
+  type: conjugation
+  tier: primary
+  front_en: future we form of comer
+  back_es: comeremos
+  hint: infinitive + -emos (like *hemos*)
+  rule_ref: L36#6
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: l36-012
+  type: conjugation
+  tier: primary
+  front_en: future they form of comer
+  back_es: comerán
+  hint: infinitive + -án (like *han*)
+  rule_ref: L36#6
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: l36-013
+  type: conjugation
+  tier: primary
+  front_en: future I form of ir
+  back_es: iré
+  hint: ir is regular in future
+  rule_ref: L36#9
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: l36-014
+  type: conjugation
+  tier: primary
+  front_en: future you form of ir
+  back_es: irás
+  rule_ref: L36#9
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: l36-015
+  type: conjugation
+  tier: primary
+  front_en: future she form of ir
+  back_es: irá
+  rule_ref: L36#9
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: l36-016
+  type: conjugation
+  tier: primary
+  front_en: future we form of ir
+  back_es: iremos
+  rule_ref: L36#9
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: l36-017
+  type: conjugation
+  tier: primary
+  front_en: future they form of ir
+  back_es: irán
+  hint: homophone with *...* (the country)
+  rule_ref: L36#9, L36#10
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: l36-018
+  type: conjugation
+  tier: primary
+  front_en: future I form of preparar
+  back_es: prepararé
+  hint: think *preparar* first, then add -é
+  rule_ref: L36#14
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: l36-019
+  type: conjugation
+  tier: primary
+  front_en: future I form of esperar
+  back_es: esperaré
+  hint: = I will wait / hope
+  rule_ref: L36#14
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: l36-020
+  type: conjugation
+  tier: primary
+  front_en: future I form of estar
+  back_es: estaré
+  hint: = I will be (state)
+  rule_ref: L36#16
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: l36-021
+  type: conjugation
+  tier: primary
+  front_en: future I form of ser
+  back_es: seré
+  hint: = I will be (characteristic)
+  rule_ref: L36#17
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: l36-027
+  type: sentence
+  tier: primary
+  front_en: I will eat.
+  back_es: Comeré.
+  rule_ref: L36#7
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-028
+  type: sentence
+  tier: primary
+  front_en: We will eat.
+  back_es: Comeremos.
+  rule_ref: L36#7
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-030
+  type: sentence
+  tier: primary
+  front_en: I will go.
+  back_es: Iré.
+  rule_ref: L36#9
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-032
+  type: sentence
+  tier: primary
+  front_en: They will go to Iran.
+  back_es: Irán a Irán.
+  hint: verb form = country name
+  rule_ref: L36#10
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-033
+  type: sentence
+  tier: primary
+  front_en: Will you go?
+  back_es: ¿Irás?
+  rule_ref: L36#11
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-034
+  type: sentence
+  tier: primary
+  front_en: Won't you go?
+  back_es: ¿No irás?
+  rule_ref: L36#11
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-035
+  type: sentence
+  tier: primary
+  front_en: Why won't you go?
+  back_es: ¿Por qué no irás?
+  rule_ref: L36#11
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-036
+  type: sentence
+  tier: primary
+  front_en: I will find it.
+  back_es: Lo encontraré.
+  hint: lo before the verb
+  rule_ref: L36#5
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-037
+  type: sentence
+  tier: primary
+  front_en: We will find it.
+  back_es: Lo encontraremos.
+  rule_ref: L36#5
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-038
+  type: sentence
+  tier: primary
+  front_en: They will find them.
+  back_es: Los encontrarán.
+  rule_ref: L36#5
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-039
+  type: sentence
+  tier: primary
+  front_en: I will stay here.
+  back_es: Me quedaré aquí.
+  hint: '*me* needed for *stay*'
+  rule_ref: L36#13
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-040
+  type: sentence
+  tier: extended
+  front_en: I will prepare.
+  back_es: Prepararé.
+  hint: preparar + -é (NOT preparé)
+  rule_ref: L36#14
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-041
+  type: sentence
+  tier: extended
+  front_en: I will wait.
+  back_es: Esperaré.
+  rule_ref: L36#14
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-042
+  type: sentence
+  tier: extended
+  front_en: He will organize.
+  back_es: Organizará.
+  rule_ref: L36#14
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-043
+  type: sentence
+  tier: extended
+  front_en: They will organize.
+  back_es: Organizarán.
+  rule_ref: L36#14
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-044
+  type: sentence
+  tier: primary
+  front_en: I will be tired (m).
+  back_es: Estaré cansado.
+  hint: state → estar
+  rule_ref: L36#16
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-045
+  type: sentence
+  tier: primary
+  front_en: I will be tired (f).
+  back_es: Estaré cansada.
+  rule_ref: L36#16
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-046
+  type: sentence
+  tier: primary
+  front_en: It will be.
+  back_es: Será.
+  rule_ref: L36#17
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-047
+  type: sentence
+  tier: primary
+  front_en: Whatever will be, will be.
+  back_es: Que será, será.
+  hint: the song line
+  rule_ref: L36#17
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-048
+  type: sentence
+  tier: primary
+  front_en: I'm having breakfast with them tomorrow.
+  back_es: Desayuno con ellos mañana.
+  hint: future context → present
+  rule_ref: L36#1, L36#2
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-049
+  type: sentence
+  tier: primary
+  front_en: I'm going to have breakfast with them.
+  back_es: Voy a desayunar con ellos.
+  hint: '*voy a* + infinitive'
+  rule_ref: L36#1
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-051
+  type: sentence
+  tier: primary
+  front_en: I have slept.
+  back_es: He dormido.
+  hint: he + past participle
+  rule_ref: L36#4
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-052
+  type: sentence
+  tier: primary
+  front_en: We have slept.
+  back_es: Hemos dormido.
+  rule_ref: L36#4
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-054
+  type: sentence
+  tier: primary
+  front_en: They have recommended it.
+  back_es: Lo han recomendado.
+  hint: with haber, lo MUST go before
+  rule_ref: L36#12
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-055
+  type: conjugation
+  tier: extended
+  front_en: future I form of hablar
+  back_es: hablaré
+  rule_ref: L36#5
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: l36-056
+  type: conjugation
+  tier: extended
+  front_en: future we form of hablar
+  back_es: hablaremos
+  rule_ref: L36#5
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: l36-057
+  type: conjugation
+  tier: extended
+  front_en: future I form of vender
+  back_es: venderé
+  rule_ref: L36#5
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: l36-058
+  type: conjugation
+  tier: extended
+  front_en: future I form of comprar
+  back_es: compraré
+  rule_ref: L36#5
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: l36-059
+  type: conjugation
+  tier: extended
+  front_en: future we form of estar
+  back_es: estaremos
+  rule_ref: L36#16
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: l36-060
+  type: conjugation
+  tier: extended
+  front_en: future they form of ser
+  back_es: serán
+  rule_ref: L36#17
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: l36-061
+  type: sentence
+  tier: extended
+  front_en: I will speak.
+  back_es: Hablaré.
+  rule_ref: L36#5
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-062
+  type: sentence
+  tier: extended
+  front_en: We will speak.
+  back_es: Hablaremos.
+  rule_ref: L36#5
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-063
+  type: sentence
+  tier: extended
+  front_en: I will sell it.
+  back_es: Lo venderé.
+  rule_ref: L36#5
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-064
+  type: sentence
+  tier: extended
+  front_en: They will sell it.
+  back_es: Lo venderán.
+  rule_ref: L36#5
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-065
+  type: sentence
+  tier: extended
+  front_en: I will buy them.
+  back_es: Los compraré.
+  rule_ref: L36#5
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-066
+  type: sentence
+  tier: extended
+  front_en: We will have breakfast tomorrow.
+  back_es: Desayunaremos mañana.
+  rule_ref: L36#5
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-067
+  type: sentence
+  tier: extended
+  front_en: I will wait here.
+  back_es: Esperaré aquí.
+  rule_ref: L36#14
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-068
+  type: sentence
+  tier: extended
+  front_en: He will be tired.
+  back_es: Estará cansado.
+  rule_ref: L36#16
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-069
+  type: sentence
+  tier: extended
+  front_en: They will be tired.
+  back_es: Estarán cansados.
+  rule_ref: L36#16
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-070
+  type: sentence
+  tier: extended
+  front_en: We will be sincere.
+  back_es: Seremos sinceros.
+  hint: ser future for characteristic
+  rule_ref: L36#17, L35#2
+  lessons:
+  - 35
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-071
+  type: sentence
+  tier: extended
+  front_en: Will he eat?
+  back_es: ¿Comerá?
+  rule_ref: L36#11
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-072
+  type: sentence
+  tier: extended
+  front_en: Won't they eat?
+  back_es: ¿No comerán?
+  rule_ref: L36#11
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-073
+  type: sentence
+  tier: extended
+  front_en: Why will you wait?
+  back_es: ¿Por qué esperarás?
+  rule_ref: L36#11, L36#14
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-074
+  type: sentence
+  tier: extended
+  front_en: We will stay here.
+  back_es: Nos quedaremos aquí.
+  hint: reflexive *nos* for *stay*
+  rule_ref: L36#13
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-075
+  type: sentence
+  tier: extended
+  front_en: He will recommend it.
+  back_es: Lo recomendará.
+  rule_ref: L36#5, L36#12
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-076
+  type: sentence
+  tier: extended
+  front_en: We have eaten.
+  back_es: Hemos comido.
+  hint: -er → -ido
+  rule_ref: L36#4
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-077
+  type: sentence
+  tier: extended
+  front_en: I'm going to wait.
+  back_es: Voy a esperar.
+  hint: voy a + infinitive
+  rule_ref: L36#1
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-078
+  type: sentence
+  tier: extended
+  front_en: I will have breakfast next week.
+  back_es: Desayunaré la semana que viene.
+  rule_ref: L36#5, L35#12
+  lessons:
+  - 35
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-079
+  type: sentence
+  tier: extended
+  front_en: It won't be possible.
+  back_es: No será posible.
+  rule_ref: L36#17
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-080
+  type: sentence
+  tier: extended
+  front_en: We will go next week.
+  back_es: Iremos la semana que viene.
+  rule_ref: L36#9, L35#12
+  lessons:
+  - 35
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-081
+  type: sentence
+  tier: extended
+  front_en: I will be honest.
+  back_es: Seré honesto.
+  rule_ref: L36#17, L35#5
+  lessons:
+  - 35
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: l36-082
+  type: sentence
+  tier: extended
+  front_en: She will leave tomorrow.
+  back_es: Saldrá mañana.
+  hint: salir is irregular in future — d slips in
+  rule_ref: L36#5, L35#6
+  lessons:
+  - 35
+  - 36
+  directions:
+  - en_es
+  - es_en

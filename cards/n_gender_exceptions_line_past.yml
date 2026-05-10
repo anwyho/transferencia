@@ -1,0 +1,1519 @@
+bundle: N
+title: 'Gender exceptions + gustar family + line-past intro: la mano, interesar/parecer, -aba'
+lessons:
+- 44
+- 45
+- 46
+cards:
+- id: l44-003
+  type: transformation
+  tier: primary
+  front_en: the paradigm
+  back_es: el paradigma
+  hint: -ma → masc (Greek)
+  rule_ref: L44#2
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-004
+  type: transformation
+  tier: primary
+  front_en: the diagram
+  back_es: el diagrama
+  hint: -ma → masc (Greek)
+  rule_ref: L44#2
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-005
+  type: transformation
+  tier: primary
+  front_en: the outline / scheme
+  back_es: el esquema
+  hint: 'e- added: Spanish can''t start s+consonant'
+  rule_ref: L44#2, L44#3
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-006
+  type: transformation
+  tier: primary
+  front_en: the planet
+  back_es: el planeta
+  hint: masc even though -a
+  rule_ref: L44#4
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-007
+  type: transformation
+  tier: primary
+  front_en: the planets
+  back_es: los planetas
+  hint: still masc in plural
+  rule_ref: L44#4
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-009
+  type: transformation
+  tier: primary
+  front_en: the hand
+  back_es: la mano
+  hint: fem despite -o (man- = hand)
+  rule_ref: L44#9, L44#10
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-010
+  type: transformation
+  tier: primary
+  front_en: the hands
+  back_es: las manos
+  hint: still fem in plural
+  rule_ref: L44#9
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-011
+  type: transformation
+  tier: primary
+  front_en: the photo
+  back_es: la foto
+  hint: short for la fotografía → fem
+  rule_ref: L44#11
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-012
+  type: transformation
+  tier: primary
+  front_en: the motorbike
+  back_es: la moto
+  hint: short for la motocicleta → fem
+  rule_ref: L44#11
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-014
+  type: transformation
+  tier: primary
+  front_en: the camera
+  back_es: la cámara
+  hint: fem -a — accent on cá
+  rule_ref: L44#19
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-015
+  type: transformation
+  tier: primary
+  front_en: this car
+  back_es: este auto
+  hint: este = this (masc)
+  rule_ref: L44#6, L44#5
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-016
+  type: transformation
+  tier: primary
+  front_en: that car
+  back_es: ese auto
+  hint: drop t from este → ese = that
+  rule_ref: L44#7
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-018
+  type: transformation
+  tier: primary
+  front_en: that night
+  back_es: esa noche
+  hint: esta → esa (drop t)
+  rule_ref: L44#7
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-019
+  type: transformation
+  tier: primary
+  front_en: these hands
+  back_es: estas manos
+  hint: fem plural — mano is fem!
+  rule_ref: L44#8, L44#9
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-020
+  type: transformation
+  tier: primary
+  front_en: those nights
+  back_es: esas noches
+  hint: esos/esas = those
+  rule_ref: L44#8
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-021
+  type: transformation
+  tier: primary
+  front_en: this hand
+  back_es: esta mano
+  hint: fem — esta (not este) even though -o
+  rule_ref: L44#9, L44#6
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-023
+  type: transformation
+  tier: primary
+  front_en: to handle / manage / drive
+  back_es: manejar
+  hint: from mano — handling horses
+  rule_ref: L44#10
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-025
+  type: transformation
+  tier: primary
+  front_en: to take
+  back_es: tomar
+  hint: 'used for photos: ... una foto'
+  rule_ref: L44#12
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-026
+  type: transformation
+  tier: primary
+  front_en: to take (out / a photo)
+  back_es: sacar
+  hint: '... una foto = take a photo'
+  rule_ref: L44#13
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-028
+  type: sentence
+  tier: primary
+  front_en: I want that car.
+  back_es: Quiero ese auto.
+  rule_ref: L44#7, L44#5
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-030
+  type: sentence
+  tier: primary
+  front_en: I don't want that car.
+  back_es: No quiero ese auto.
+  rule_ref: L44#7
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-031
+  type: sentence
+  tier: primary
+  front_en: It's very big.
+  back_es: Es muy grande.
+  hint: muy + grande
+  rule_ref: L44#19
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-033
+  type: sentence
+  tier: primary
+  front_en: Can you give me a hand?
+  back_es: ¿Me puedes dar una mano?
+  hint: una (fem) because mano is fem
+  rule_ref: L44#16, L44#9
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-034
+  type: sentence
+  tier: primary
+  front_en: Could you give me a hand?
+  back_es: ¿Me podrías dar una mano?
+  hint: podrías = could you (informal)
+  rule_ref: L44#17
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-036
+  type: sentence
+  tier: primary
+  front_en: They should give me a hand.
+  back_es: Deberían darme una mano.
+  hint: darme = pronoun on the 'to' form
+  rule_ref: L44#18
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-037
+  type: sentence
+  tier: primary
+  front_en: They should give us a hand.
+  back_es: Nos deberían dar una mano.
+  rule_ref: L44#18
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-038
+  type: sentence
+  tier: primary
+  front_en: I manage the problem.
+  back_es: Manejo el problema.
+  hint: el problema (masc!)
+  rule_ref: L44#14, L44#2
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-040
+  type: sentence
+  tier: primary
+  front_en: I'm taking a photo.
+  back_es: Estoy tomando una foto.
+  hint: una (fem) — foto is fem
+  rule_ref: L44#12, L44#15
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-042
+  type: sentence
+  tier: primary
+  front_en: I would like to take a photo.
+  back_es: Me gustaría tomar una foto.
+  rule_ref: L44#20
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-043
+  type: sentence
+  tier: primary
+  front_en: But I don't have my camera.
+  back_es: Pero no tengo mi cámara.
+  hint: pero = but
+  rule_ref: L44#19
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-047
+  type: transformation
+  tier: extended
+  front_en: this problem
+  back_es: este problema
+  hint: masc — este (not esta)
+  rule_ref: L44#6, L44#2
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-048
+  type: transformation
+  tier: extended
+  front_en: that system
+  back_es: ese sistema
+  hint: masc — ese (not esa)
+  rule_ref: L44#7, L44#2
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-049
+  type: sentence
+  tier: extended
+  front_en: This problem is very big.
+  back_es: Este problema es muy grande.
+  hint: este (masc) — problema is masc
+  rule_ref: L44#6, L44#2
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-050
+  type: sentence
+  tier: extended
+  front_en: I'm taking a photo of the planet.
+  back_es: Estoy tomando una foto del planeta.
+  hint: de + el → del
+  rule_ref: L44#12, L44#4
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-051
+  type: sentence
+  tier: extended
+  front_en: I'd like to take a photo tonight.
+  back_es: Me gustaría tomar una foto esta noche.
+  rule_ref: L44#20, L44#6
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-052
+  type: sentence
+  tier: extended
+  front_en: Could you give us a hand tonight?
+  back_es: ¿Nos podrías dar una mano esta noche?
+  rule_ref: L44#17, L44#6
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l44-053
+  type: sentence
+  tier: extended
+  front_en: I don't want that car, it's too big.
+  back_es: No quiero ese auto, es muy grande.
+  rule_ref: L44#7, L44#19
+  lessons:
+  - 44
+  directions:
+  - en_es
+  - es_en
+- id: l45-001
+  type: transformation
+  tier: primary
+  front_en: to interest / to be interesting to
+  back_es: interesar
+  hint: -ar verb · flips like gustar
+  rule_ref: L45#4
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-002
+  type: transformation
+  tier: primary
+  front_en: interesting
+  back_es: interesante
+  hint: -ante adjective
+  rule_ref: L45#4
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-003
+  type: transformation
+  tier: primary
+  front_en: to seem
+  back_es: parecer
+  hint: -er verb! (not -ar)
+  rule_ref: L45#10, L45#11
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-004
+  type: transformation
+  tier: primary
+  front_en: to put
+  back_es: poner
+  hint: -er verb · also covers -pose
+  rule_ref: L45#18
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-007
+  type: transformation
+  tier: primary
+  front_en: salt
+  back_es: sal
+  hint: feminine (la sal)
+  rule_ref: L45#22
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-015
+  type: sentence
+  tier: primary
+  front_en: It interests me.
+  back_es: Me interesa.
+  rule_ref: L45#5, L45#4
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-017
+  type: sentence
+  tier: primary
+  front_en: Does it interest you?
+  back_es: ¿Te interesa?
+  rule_ref: L45#6
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-019
+  type: sentence
+  tier: primary
+  front_en: Why doesn't it interest you?
+  back_es: ¿Por qué no te interesa?
+  hint: por qué (two words, accent) = why
+  rule_ref: L45#6, L45#14
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-020
+  type: sentence
+  tier: primary
+  front_en: It interests him.
+  back_es: Le interesa.
+  hint: le (not lo) with gustar-family
+  rule_ref: L45#3, L45#5
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-022
+  type: sentence
+  tier: primary
+  front_en: It would interest you.
+  back_es: Te interesaría.
+  hint: -aría conditional
+  rule_ref: L45#9
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-023
+  type: sentence
+  tier: primary
+  front_en: It would interest me to see it.
+  back_es: Me interesaría verlo.
+  rule_ref: L45#9, L45#17
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-024
+  type: sentence
+  tier: primary
+  front_en: Does it interest you to dance tonight?
+  back_es: ¿Te interesa bailar esta noche?
+  rule_ref: L45#7, L45#6
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-025
+  type: sentence
+  tier: primary
+  front_en: It seems to me.
+  back_es: Me parece.
+  rule_ref: L45#10
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-026
+  type: sentence
+  tier: primary
+  front_en: It seems to me that...
+  back_es: Me parece que...
+  hint: que is obligatory in Spanish
+  rule_ref: L45#12
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-027
+  type: sentence
+  tier: primary
+  front_en: Seems fine to me.
+  back_es: Me parece bien.
+  hint: bien (well), not bueno
+  rule_ref: L45#15
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-028
+  type: sentence
+  tier: primary
+  front_en: It doesn't seem right to me.
+  back_es: No me parece bien.
+  rule_ref: L45#16
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-030
+  type: sentence
+  tier: primary
+  front_en: Doesn't it seem right to you?
+  back_es: ¿No le parece bien?
+  hint: le = formal you
+  rule_ref: L45#16
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-031
+  type: sentence
+  tier: primary
+  front_en: It seems he doesn't like it.
+  back_es: Me parece que no le gusta.
+  rule_ref: L45#12, L45#2
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-032
+  type: sentence
+  tier: primary
+  front_en: It seems he doesn't want to go out tonight.
+  back_es: Parece que no quiere salir esta noche.
+  rule_ref: L45#12, L45#8
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-033
+  type: sentence
+  tier: primary
+  front_en: It interests them to go out.
+  back_es: Les interesa salir.
+  rule_ref: L45#5, L45#8
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-034
+  type: sentence
+  tier: primary
+  front_en: Would it interest you to go out?
+  back_es: ¿Te interesaría salir?
+  rule_ref: L45#9, L45#8
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-035
+  type: sentence
+  tier: primary
+  front_en: I want to put it here.
+  back_es: Quiero ponerlo aquí.
+  hint: -lo on the 'to' form
+  rule_ref: L45#20
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-037
+  type: sentence
+  tier: primary
+  front_en: I want to put salt on it.
+  back_es: Quiero ponerle sal.
+  hint: le = on it (not lo)
+  rule_ref: L45#21
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-039
+  type: sentence
+  tier: primary
+  front_en: I'd like to put a little more salt.
+  back_es: Me gustaría ponerle un poco más sal.
+  rule_ref: L45#23
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-040
+  type: sentence
+  tier: primary
+  front_en: I'd like to put a little more salt on them.
+  back_es: Me gustaría ponerles un poco más sal.
+  hint: -les for plural (on them)
+  rule_ref: L45#24
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-041
+  type: sentence
+  tier: primary
+  front_en: Could you put it here?
+  back_es: ¿Podrías ponerlo aquí?
+  rule_ref: L45#20
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-042
+  type: sentence
+  tier: primary
+  front_en: I want to compose.
+  back_es: Quiero componer.
+  rule_ref: L45#18, L45#19
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-045
+  type: sentence
+  tier: extended
+  front_en: Does it interest her to go out to dance tonight?
+  back_es: ¿Le interesa salir a bailar esta noche?
+  rule_ref: L45#8
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-046
+  type: sentence
+  tier: extended
+  front_en: It would interest us to see it.
+  back_es: Nos interesaría verlo.
+  rule_ref: L45#9, L45#17
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-047
+  type: sentence
+  tier: extended
+  front_en: It seems good to me.
+  back_es: Me parece bueno.
+  hint: bueno here, contrast to bien
+  rule_ref: L45#15
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-048
+  type: sentence
+  tier: extended
+  front_en: It seems to me that it's interesting.
+  back_es: Me parece que es interesante.
+  rule_ref: L45#12, L45#4
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-049
+  type: sentence
+  tier: extended
+  front_en: I suppose it interests him.
+  back_es: Supongo que le interesa.
+  rule_ref: L45#18, L45#5
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-050
+  type: sentence
+  tier: extended
+  front_en: I'd like to put more salt here.
+  back_es: Me gustaría ponerle más sal aquí.
+  rule_ref: L45#21, L45#20
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-051
+  type: sentence
+  tier: extended
+  front_en: It doesn't interest them at all.
+  back_es: No les interesa nada.
+  hint: nada = nothing/at all
+  rule_ref: L45#5
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-053
+  type: sentence
+  tier: extended
+  front_en: Would it interest you to put it here?
+  back_es: ¿Te interesaría ponerlo aquí?
+  rule_ref: L45#9, L45#20
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l45-054
+  type: sentence
+  tier: extended
+  front_en: Why doesn't it seem right to him?
+  back_es: ¿Por qué no le parece bien?
+  rule_ref: L45#16, L45#14
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: l46-001
+  type: conjugation
+  tier: primary
+  front_en: I form of haber (past helper)
+  back_es: he
+  hint: he comido = I have eaten
+  rule_ref: L46#2
+  lessons:
+  - 46
+  directions:
+  - en_es
+- id: l46-006
+  type: transformation
+  tier: primary
+  front_en: eaten (participle)
+  back_es: comido
+  hint: -er → -ido
+  rule_ref: L46#3
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-007
+  type: transformation
+  tier: primary
+  front_en: spoken (participle)
+  back_es: hablado
+  hint: -ar → -ado
+  rule_ref: L46#3
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-009
+  type: transformation
+  tier: primary
+  front_en: been able (participle)
+  back_es: podido
+  hint: -er → -ido
+  rule_ref: L46#3
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-010
+  type: transformation
+  tier: primary
+  front_en: left / gone out (participle)
+  back_es: salido
+  hint: -ir → -ido
+  rule_ref: L46#3
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-011
+  type: transformation
+  tier: primary
+  front_en: I would have (haber in would-time)
+  back_es: habría
+  hint: habería → ... (e drops)
+  rule_ref: L46#6
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-015
+  type: sentence
+  tier: primary
+  front_en: I have eaten.
+  back_es: He comido.
+  rule_ref: L46#2, L46#3
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-017
+  type: sentence
+  tier: primary
+  front_en: They have danced.
+  back_es: Han bailado.
+  rule_ref: L46#2, L46#4
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-019
+  type: sentence
+  tier: primary
+  front_en: I have been able to eat.
+  back_es: He podido comer.
+  hint: second verb stays 'to' form
+  rule_ref: L46#3
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-020
+  type: sentence
+  tier: primary
+  front_en: I haven't been able to eat.
+  back_es: No he podido comer.
+  rule_ref: L46#8
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-022
+  type: sentence
+  tier: primary
+  front_en: You have eaten.
+  back_es: Has comido.
+  hint: informal you
+  rule_ref: L46#2
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-023
+  type: sentence
+  tier: primary
+  front_en: I would have gone out.
+  back_es: Habría salido.
+  hint: habría + salido (chunks)
+  rule_ref: L46#6, L46#7
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-024
+  type: sentence
+  tier: primary
+  front_en: I would have been able to go out.
+  back_es: Habría podido salir.
+  rule_ref: L46#6
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-025
+  type: sentence
+  tier: primary
+  front_en: I wouldn't have been able to go out.
+  back_es: No habría podido salir.
+  rule_ref: L46#8
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-027
+  type: sentence
+  tier: primary
+  front_en: We would have danced.
+  back_es: Habríamos bailado.
+  rule_ref: L46#6
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-028
+  type: sentence
+  tier: primary
+  front_en: They wouldn't have spoken.
+  back_es: No habrían hablado.
+  rule_ref: L46#6, L46#8
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-029
+  type: transformation
+  tier: primary
+  front_en: I/he was speaking (line past)
+  back_es: hablaba
+  hint: -ar → -aba (covers I/he/she/usted)
+  rule_ref: L46#9, L46#11
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-030
+  type: transformation
+  tier: primary
+  front_en: you (informal) were speaking
+  back_es: hablabas
+  hint: -abas
+  rule_ref: L46#10
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-032
+  type: transformation
+  tier: primary
+  front_en: we were speaking
+  back_es: hablábamos
+  hint: -ábamos (accent stays on -aba)
+  rule_ref: L46#10
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-033
+  type: transformation
+  tier: primary
+  front_en: I/he was waiting
+  back_es: esperaba
+  hint: -ar → -aba
+  rule_ref: L46#9
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-034
+  type: transformation
+  tier: primary
+  front_en: I/he was trying
+  back_es: intentaba
+  rule_ref: L46#9
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-035
+  type: sentence
+  tier: primary
+  front_en: I used to speak.
+  back_es: Hablaba.
+  hint: line past = used to / was -ing
+  rule_ref: L46#11
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-036
+  type: sentence
+  tier: primary
+  front_en: We were speaking.
+  back_es: Hablábamos.
+  rule_ref: L46#10
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-037
+  type: sentence
+  tier: primary
+  front_en: I was waiting for you.
+  back_es: Te esperaba.
+  hint: informal you · drop 'for'
+  rule_ref: L46#12
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-038
+  type: sentence
+  tier: primary
+  front_en: I was waiting for him.
+  back_es: Lo esperaba.
+  hint: lo = him / formal you (masc)
+  rule_ref: L46#13
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-039
+  type: sentence
+  tier: primary
+  front_en: I was waiting for her.
+  back_es: La esperaba.
+  hint: la = her / formal you (fem)
+  rule_ref: L46#13
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-040
+  type: sentence
+  tier: primary
+  front_en: We were waiting for him.
+  back_es: Lo esperábamos.
+  rule_ref: L46#10, L46#13
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-041
+  type: sentence
+  tier: primary
+  front_en: We were waiting for them.
+  back_es: Los esperábamos.
+  rule_ref: L46#10, L46#13
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-042
+  type: sentence
+  tier: primary
+  front_en: I was trying.
+  back_es: Intentaba.
+  rule_ref: L46#9
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-043
+  type: sentence
+  tier: primary
+  front_en: They were trying to find it.
+  back_es: Intentaban encontrarlo.
+  hint: -lo on the 'to' form
+  rule_ref: L46#10
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-044
+  type: sentence
+  tier: primary
+  front_en: They were trying to find it for me. (encontrármelo)
+  back_es: Intentaban encontrármelo.
+  hint: 'me + lo stacked: me first, lo second'
+  rule_ref: L46#14
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-045
+  type: transformation
+  tier: extended
+  front_en: looked / watched (participle)
+  back_es: mirado
+  hint: -ar → -ado
+  rule_ref: L46#3
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-046
+  type: transformation
+  tier: extended
+  front_en: tried (participle)
+  back_es: intentado
+  hint: -ar → -ado
+  rule_ref: L46#3
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-047
+  type: transformation
+  tier: extended
+  front_en: drunk (participle)
+  back_es: bebido
+  hint: -er → -ido
+  rule_ref: L46#3
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-048
+  type: transformation
+  tier: extended
+  front_en: lived (participle)
+  back_es: vivido
+  hint: -ir → -ido
+  rule_ref: L46#3
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-050
+  type: transformation
+  tier: extended
+  front_en: I/he was dancing
+  back_es: bailaba
+  rule_ref: L46#9
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-051
+  type: transformation
+  tier: extended
+  front_en: they were trying
+  back_es: intentaban
+  rule_ref: L46#10
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-052
+  type: transformation
+  tier: extended
+  front_en: we were waiting
+  back_es: esperábamos
+  rule_ref: L46#10
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-053
+  type: sentence
+  tier: extended
+  front_en: We have eaten here.
+  back_es: Hemos comido aquí.
+  rule_ref: L46#2, L46#3
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-054
+  type: sentence
+  tier: extended
+  front_en: They have gone out tonight.
+  back_es: Han salido esta noche.
+  rule_ref: L46#2
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-055
+  type: sentence
+  tier: extended
+  front_en: You haven't spoken.
+  back_es: No has hablado.
+  rule_ref: L46#8
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-057
+  type: sentence
+  tier: extended
+  front_en: She would have danced tonight.
+  back_es: Habría bailado esta noche.
+  rule_ref: L46#6
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-058
+  type: sentence
+  tier: extended
+  front_en: You wouldn't have spoken.
+  back_es: No habrías hablado.
+  rule_ref: L46#6, L46#8
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-059
+  type: sentence
+  tier: extended
+  front_en: He used to dance every day.
+  back_es: Bailaba todos los días.
+  hint: line past = habitual
+  rule_ref: L46#11
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-060
+  type: sentence
+  tier: extended
+  front_en: I used to wait here.
+  back_es: Esperaba aquí.
+  rule_ref: L46#11
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-061
+  type: sentence
+  tier: extended
+  front_en: We were waiting for you guys.
+  back_es: Los esperábamos.
+  hint: los covers you-guys / them
+  rule_ref: L46#13
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-062
+  type: sentence
+  tier: extended
+  front_en: They were trying to find it for me. (para mí)
+  back_es: Intentaban encontrarlo para mí.
+  hint: emphatic form with para mí
+  rule_ref: L46#15
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-063
+  type: sentence
+  tier: extended
+  front_en: I have tried to find it.
+  back_es: He intentado encontrarlo.
+  rule_ref: L46#2, L46#3
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-065
+  type: sentence
+  tier: extended
+  front_en: We were trying to find it.
+  back_es: Intentábamos encontrarlo.
+  rule_ref: L46#10
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-068
+  type: sentence
+  tier: extended
+  front_en: I haven't been able to find it.
+  back_es: No he podido encontrarlo.
+  rule_ref: L46#8
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-069
+  type: sentence
+  tier: extended
+  front_en: It seems she was waiting for him.
+  back_es: Parece que lo esperaba.
+  rule_ref: L46#13, L45#12
+  lessons:
+  - 45
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-070
+  type: sentence
+  tier: extended
+  front_en: I was managing the problem.
+  back_es: Manejaba el problema.
+  hint: line past + masc -ma noun
+  rule_ref: L46#9, L44#2
+  lessons:
+  - 44
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-071
+  type: sentence
+  tier: extended
+  front_en: They were taking photos.
+  back_es: Tomaban fotos.
+  rule_ref: L46#10, L44#11
+  lessons:
+  - 44
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-072
+  type: sentence
+  tier: extended
+  front_en: I have taken a photo.
+  back_es: He tomado una foto.
+  rule_ref: L46#2, L44#11
+  lessons:
+  - 44
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-073
+  type: sentence
+  tier: extended
+  front_en: It interested me.
+  back_es: Me interesaba.
+  hint: line past of interesar
+  rule_ref: L46#9, L45#5
+  lessons:
+  - 45
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-075
+  type: sentence
+  tier: extended
+  front_en: I would have given you a hand.
+  back_es: Te habría dado una mano.
+  hint: habría + dado (participle of dar)
+  rule_ref: L46#6, L44#16
+  lessons:
+  - 44
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: l46-076
+  type: sentence
+  tier: extended
+  front_en: He has put salt on it.
+  back_es: Le ha puesto sal.
+  hint: puesto = irregular participle of poner
+  rule_ref: L46#2, L45#21
+  lessons:
+  - 45
+  - 46
+  directions:
+  - en_es
+  - es_en

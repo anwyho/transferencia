@@ -38,8 +38,12 @@ Distribution: **9 bundles of 4 lessons + 18 bundles of 3 lessons = 90**. Each bu
 
 ## Status
 
-- **Cards built**: A–I (90/90 lessons grouped, 9/27 bundles populated covering L1–28).
-- **Cards pending**: J–Z (lessons 29–90).
+Concept-driven rebuild complete for A–Ñ–O (2026-05). 2330 cards across 15 bundles (1631 primary + 699 extended ≈ 70/30). Per-bundle budgets in [`card-design.md`](card-design.md#quantity-targets).
+
+- **Cards built**: A–O (lessons 1–53), 15/27 bundles, 2330 cards. All bundles validate clean (`make validate`, all schema/word-cap checks pass).
+- **Cards pending first-author**: P–Z (lessons 54–90).
+
+Bundle Ñ filename uses the literal *ñ*: `cards/ñ_line_past_full.yml`. macOS APFS + Git handle it; the parser regex (`^[a-zñ]_.+\.yml$`) accepts it.
 
 Cards live at `cards/<letter>_<theme>.yml`. Each file has frontmatter:
 
