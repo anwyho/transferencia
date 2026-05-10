@@ -1,6 +1,5 @@
-# generated audio
-audio/lesson_*.mp3
-audio/stories/
+# generated audio — drill tracks and stories ARE committed (regeneratable but
+# offline-portable). Caches and eval artifacts stay ignored.
 audio/.cache/
 audio/eval/
 

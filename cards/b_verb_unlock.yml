@@ -1,0 +1,3732 @@
+bundle: B
+title: 'Verb unlock + first motion: *-ación → -ar*, *me/te/lo*, *voy a + verb*'
+lessons:
+- 4
+- 5
+- 6
+- 7
+cards:
+- id: l4-001
+  type: transformation
+  tier: primary
+  front_en: urgent
+  back_es: urgente
+  rule_ref: L3#1
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: -ent → -ente
+- id: l4-002
+  type: transformation
+  tier: primary
+  front_en: urgently
+  back_es: urgentemente
+  rule_ref: L3#3
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: -ly → -mente
+- id: l4-003
+  type: transformation
+  tier: primary
+  front_en: I love you (everyday)
+  back_es: te quiero
+  rule_ref: L4#1
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: literally 'I want you'
+- id: l4-004
+  type: transformation
+  tier: primary
+  front_en: I love you (very serious)
+  back_es: te amo
+  rule_ref: L4#1
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: stronger than te quiero
+- id: l4-005
+  type: transformation
+  tier: primary
+  front_en: I want
+  back_es: quiero
+  rule_ref: L4#2
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: strip te off te quiero
+- id: l4-006
+  type: transformation
+  tier: primary
+  front_en: I don't want
+  back_es: no quiero
+  rule_ref: L4#3
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: no goes in front
+- id: l4-007
+  type: transformation
+  tier: primary
+  front_en: you (informal, object)
+  back_es: te
+  rule_ref: L4#1
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: l4-008
+  type: transformation
+  tier: primary
+  front_en: opinion
+  back_es: opinión
+  rule_ref: L4#4
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: -ion → -ión
+- id: l4-009
+  type: transformation
+  tier: primary
+  front_en: passion
+  back_es: pasión
+  rule_ref: L4#4
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: -sion → -sión
+- id: l4-010
+  type: transformation
+  tier: primary
+  front_en: preparation
+  back_es: preparación
+  rule_ref: L4#5
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: -tion → -ción
+- id: l4-011
+  type: transformation
+  tier: primary
+  front_en: to prepare
+  back_es: preparar
+  rule_ref: L4#9
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: preparación → -ción off, +r
+- id: l4-012
+  type: transformation
+  tier: primary
+  front_en: organization
+  back_es: organización
+  rule_ref: L4#5
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: -tion → -ción
+- id: l4-013
+  type: transformation
+  tier: primary
+  front_en: generation
+  back_es: generación
+  rule_ref: L4#5
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: -tion → -ción; /khe-/
+- id: l4-014
+  type: transformation
+  tier: primary
+  front_en: to generate
+  back_es: generar
+  rule_ref: L4#9
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: generación → -ción off, +r
+- id: l4-015
+  type: transformation
+  tier: primary
+  front_en: confirmation
+  back_es: confirmación
+  rule_ref: L4#5
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: -tion → -ción
+- id: l4-016
+  type: transformation
+  tier: primary
+  front_en: to confirm
+  back_es: confirmar
+  rule_ref: L4#9
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: confirmación → -ción off, +r
+- id: l4-017
+  type: transformation
+  tier: primary
+  front_en: signature
+  back_es: firma
+  rule_ref: L4#12
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: con + firma = confirmar
+- id: l4-018
+  type: transformation
+  tier: primary
+  front_en: to sign
+  back_es: firmar
+  rule_ref: L4#12
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: firma + r
+- id: l4-019
+  type: transformation
+  tier: primary
+  front_en: with
+  back_es: con
+  rule_ref: L4#12
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: l4-020
+  type: transformation
+  tier: primary
+  front_en: conversation
+  back_es: conversación
+  rule_ref: L4#5, L4#12
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: con + verses
+- id: l4-021
+  type: transformation
+  tier: primary
+  front_en: confrontation
+  back_es: confrontación
+  rule_ref: L4#5, L4#12
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: con + frente
+- id: l4-022
+  type: transformation
+  tier: primary
+  front_en: forehead / front
+  back_es: frente
+  rule_ref: L4#12
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: inside confrontación
+- id: l4-023
+  type: transformation
+  tier: primary
+  front_en: complication
+  back_es: complicación
+  rule_ref: L4#5, L4#13
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: com- before p
+- id: l4-024
+  type: transformation
+  tier: primary
+  front_en: to complicate
+  back_es: complicar
+  rule_ref: L4#9, L4#13
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: complicación → -ción off, +r
+- id: l4-025
+  type: sentence
+  tier: primary
+  front_en: I want to prepare.
+  back_es: Quiero preparar.
+  rule_ref: L4#2, L4#9
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: l4-026
+  type: sentence
+  tier: primary
+  front_en: I don't want.
+  back_es: No quiero.
+  rule_ref: L4#3
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: l4-028
+  type: transformation
+  tier: primary
+  front_en: information
+  back_es: información
+  rule_ref: L4#5
+  lessons:
+  - 4
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -tion → -ción
+- id: l4-029
+  type: transformation
+  tier: primary
+  front_en: celebration
+  back_es: celebración
+  rule_ref: L4#5
+  lessons:
+  - 4
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -tion → -ción
+- id: l4-030
+  type: transformation
+  tier: primary
+  front_en: situation
+  back_es: situación
+  rule_ref: L4#5
+  lessons:
+  - 4
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -tion → -ción
+- id: l4-031
+  type: transformation
+  tier: primary
+  front_en: participation
+  back_es: participación
+  rule_ref: L4#5
+  lessons:
+  - 4
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -tion → -ción
+- id: l4-032
+  type: transformation
+  tier: primary
+  front_en: obligation
+  back_es: obligación
+  rule_ref: L4#5
+  lessons:
+  - 4
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -tion → -ción
+- id: l4-033
+  type: transformation
+  tier: primary
+  front_en: creation
+  back_es: creación
+  rule_ref: L4#5
+  lessons:
+  - 4
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -tion → -ción
+- id: l4-034
+  type: transformation
+  tier: primary
+  front_en: salvation
+  back_es: salvación
+  rule_ref: L4#5
+  lessons:
+  - 4
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -tion → -ción
+- id: l4-039
+  type: transformation
+  tier: primary
+  front_en: intention
+  back_es: intención
+  rule_ref: L4#5
+  lessons:
+  - 4
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: -tion → -ción
+- id: l4-050
+  type: transformation
+  tier: primary
+  front_en: to celebrate
+  back_es: celebrar
+  rule_ref: L4#9
+  lessons:
+  - 4
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: celebración → -ción off, +r
+- id: l4-051
+  type: transformation
+  tier: primary
+  front_en: to participate
+  back_es: participar
+  rule_ref: L4#9, L5#12
+  lessons:
+  - 4
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: participación → -ción off, +r
+- id: l4-062
+  type: transformation
+  tier: primary
+  front_en: to inform
+  back_es: informar
+  rule_ref: L4#9
+  lessons:
+  - 4
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: información → -ción off, +r
+- id: l5-001
+  type: transformation
+  tier: primary
+  front_en: I (for emphasis)
+  back_es: yo
+  rule_ref: L5#1
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: only when stressed
+- id: l5-004
+  type: transformation
+  tier: primary
+  front_en: to illustrate
+  back_es: ilustrar
+  rule_ref: L4#9
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: one l; root lus = light
+- id: l5-005
+  type: transformation
+  tier: primary
+  front_en: light
+  back_es: luz
+  rule_ref: L5#1
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: root inside ilustrar
+- id: l5-008
+  type: transformation
+  tier: primary
+  front_en: to inform myself / to find out
+  back_es: informarme
+  rule_ref: L5#4
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: informar + me
+- id: l5-010
+  type: transformation
+  tier: primary
+  front_en: to oblige
+  back_es: obligar
+  rule_ref: L4#9
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: obligación → -ción off, +r
+- id: l5-011
+  type: transformation
+  tier: primary
+  front_en: to provoke
+  back_es: provocar
+  rule_ref: L4#9
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: provocación → -ción off, +r
+- id: l5-012
+  type: transformation
+  tier: primary
+  front_en: it / him
+  back_es: lo
+  rule_ref: L5#6
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: l5-013
+  type: transformation
+  tier: primary
+  front_en: to cancel it
+  back_es: cancelarlo
+  rule_ref: L5#6
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: cancelar + lo
+- id: l5-014
+  type: transformation
+  tier: primary
+  front_en: to regulate
+  back_es: regular
+  rule_ref: L4#9, L5#8
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: rolled r at start
+- id: l5-015
+  type: transformation
+  tier: primary
+  front_en: but
+  back_es: pero
+  rule_ref: L5#8
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: single r, soft tap
+- id: l5-016
+  type: transformation
+  tier: primary
+  front_en: dog
+  back_es: perro
+  rule_ref: L5#8
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: double rr, rolled
+- id: l5-018
+  type: transformation
+  tier: primary
+  front_en: to save
+  back_es: salvar
+  rule_ref: L4#9
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: salvación → -ción off, +r
+- id: l5-019
+  type: transformation
+  tier: primary
+  front_en: to save him / to save it
+  back_es: salvarlo
+  rule_ref: L5#6
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: salvar + lo
+- id: l5-021
+  type: transformation
+  tier: primary
+  front_en: to situate / to place
+  back_es: situar
+  rule_ref: L4#9
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: situación → -ción off, +r
+- id: l5-025
+  type: transformation
+  tier: primary
+  front_en: to create
+  back_es: crear
+  rule_ref: L4#9, L5#13
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: creación → -ción off, +r
+- id: l5-026
+  type: transformation
+  tier: primary
+  front_en: experimentation
+  back_es: experimentación
+  rule_ref: L4#5
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -tion → -ción
+- id: l5-027
+  type: transformation
+  tier: primary
+  front_en: to experiment / to experience
+  back_es: experimentar
+  rule_ref: L5#11
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: one verb, two meanings
+- id: l5-028
+  type: transformation
+  tier: primary
+  front_en: experience (noun)
+  back_es: experiencia
+  rule_ref: L5#10
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -ence → -encia
+- id: l5-029
+  type: transformation
+  tier: primary
+  front_en: experiment (noun)
+  back_es: experimento
+  rule_ref: L5#11
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: stick on -o
+- id: l5-030
+  type: transformation
+  tier: primary
+  front_en: difference
+  back_es: diferencia
+  rule_ref: L5#10
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -ence → -encia
+- id: l5-031
+  type: transformation
+  tier: primary
+  front_en: influence
+  back_es: influencia
+  rule_ref: L5#10
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -ence → -encia
+- id: l5-032
+  type: transformation
+  tier: primary
+  front_en: existence
+  back_es: existencia
+  rule_ref: L5#10
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -ence → -encia
+- id: l5-033
+  type: transformation
+  tier: primary
+  front_en: consistency
+  back_es: consistencia
+  rule_ref: L5#10
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -ency → -encia
+- id: l5-034
+  type: transformation
+  tier: primary
+  front_en: inconsistency
+  back_es: inconsistencia
+  rule_ref: L5#10
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -ency → -encia
+- id: l5-035
+  type: transformation
+  tier: primary
+  front_en: incongruence
+  back_es: incongruencia
+  rule_ref: L5#10
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -ence → -encia
+- id: l5-036
+  type: transformation
+  tier: primary
+  front_en: me / myself
+  back_es: me
+  rule_ref: L5#4
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: /meh/
+- id: l5-037
+  type: transformation
+  tier: primary
+  front_en: to prepare myself / to get ready
+  back_es: prepararme
+  rule_ref: L5#4
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: preparar + me
+- id: l5-038
+  type: transformation
+  tier: primary
+  front_en: to oblige you (informal)
+  back_es: obligarte
+  rule_ref: L5#5
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: obligar + te
+- id: l5-039
+  type: transformation
+  tier: primary
+  front_en: to provoke you (informal)
+  back_es: provocarte
+  rule_ref: L5#5
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: provocar + te
+- id: l5-040
+  type: sentence
+  tier: primary
+  front_en: I want (with emphasis).
+  back_es: Yo quiero.
+  rule_ref: L5#1
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: l5-041
+  type: sentence
+  tier: primary
+  front_en: I don't want.
+  back_es: Yo no quiero.
+  rule_ref: L5#2
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: l5-042
+  type: sentence
+  tier: primary
+  front_en: I don't want to cancel.
+  back_es: Yo no quiero cancelar.
+  rule_ref: L5#2
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: l5-043
+  type: sentence
+  tier: primary
+  front_en: I want to celebrate.
+  back_es: Quiero celebrar.
+  rule_ref: L4#2, L4#9
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: l5-044
+  type: sentence
+  tier: primary
+  front_en: I want to illustrate.
+  back_es: Quiero ilustrar.
+  rule_ref: L4#2, L4#9
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: l5-045
+  type: sentence
+  tier: primary
+  front_en: I want to find out.
+  back_es: Quiero informarme.
+  rule_ref: L4#2, L5#4
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: literally inform myself
+- id: l5-046
+  type: sentence
+  tier: primary
+  front_en: I don't want to oblige you.
+  back_es: No quiero obligarte.
+  rule_ref: L4#3, L5#5
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: l5-047
+  type: sentence
+  tier: primary
+  front_en: I don't want to provoke you.
+  back_es: No quiero provocarte.
+  rule_ref: L4#3, L5#5
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: l5-048
+  type: sentence
+  tier: primary
+  front_en: I want to cancel it.
+  back_es: Quiero cancelarlo.
+  rule_ref: L4#2, L5#6
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: l5-049
+  type: sentence
+  tier: primary
+  front_en: I want to regulate it.
+  back_es: Quiero regularlo.
+  rule_ref: L4#2, L5#6, L5#8
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: l5-050
+  type: sentence
+  tier: primary
+  front_en: I want to save him.
+  back_es: Quiero salvarlo.
+  rule_ref: L4#2, L5#6
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: l5-051
+  type: sentence
+  tier: primary
+  front_en: I want to get ready.
+  back_es: Quiero prepararme.
+  rule_ref: L4#2, L5#4
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: literally prepare myself
+- id: l6-001
+  type: transformation
+  tier: primary
+  front_en: I try / I am trying
+  back_es: intento
+  rule_ref: L6#1, L6#2
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: -o = I
+- id: l6-003
+  type: transformation
+  tier: primary
+  front_en: to publish it
+  back_es: publicarlo
+  rule_ref: L6#3
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: -r + lo
+- id: l6-004
+  type: transformation
+  tier: primary
+  front_en: to administrate
+  back_es: administrar
+  rule_ref: L6#3
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: -ación → -ar
+- id: l6-005
+  type: transformation
+  tier: primary
+  front_en: to administrate it
+  back_es: administrarlo
+  rule_ref: L6#3
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: -ar + lo
+- id: l6-006
+  type: transformation
+  tier: primary
+  front_en: imitation
+  back_es: imitación
+  rule_ref: L6#3
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: -tion → -ción
+- id: l6-007
+  type: transformation
+  tier: primary
+  front_en: to imitate
+  back_es: imitar
+  rule_ref: L6#3
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: -ación → -ar
+- id: l6-008
+  type: transformation
+  tier: primary
+  front_en: to imitate it / him
+  back_es: imitarlo
+  rule_ref: L6#3
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: -ar + lo
+- id: l6-009
+  type: transformation
+  tier: primary
+  front_en: hospital
+  back_es: hospital
+  rule_ref: L6#4
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: 'silent h: /os-pi-TAL/'
+- id: l6-010
+  type: transformation
+  tier: primary
+  front_en: horrible
+  back_es: horrible
+  rule_ref: L6#4, L6#6
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: silent h, rolled rr
+- id: l6-011
+  type: transformation
+  tier: primary
+  front_en: habitual
+  back_es: habitual
+  rule_ref: L6#4
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: 'silent h: /a-bi-TUAL/'
+- id: l6-012
+  type: transformation
+  tier: primary
+  front_en: habitually
+  back_es: habitualmente
+  rule_ref: L6#4
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: silent h, -ly→-mente
+- id: l6-013
+  type: transformation
+  tier: primary
+  front_en: now
+  back_es: ahora
+  rule_ref: L6#7
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: 'silent h: /a-O-ra/'
+- id: l6-014
+  type: transformation
+  tier: primary
+  front_en: to (direction)
+  back_es: a
+  rule_ref: L6#8
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: l6-015
+  type: transformation
+  tier: primary
+  front_en: hour
+  back_es: hora
+  rule_ref: L6#8
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: silent h
+- id: l6-016
+  type: transformation
+  tier: primary
+  front_en: I go / I am going
+  back_es: voy
+  rule_ref: L6#9, L6#10
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: voyage; v=soft b
+- id: l6-017
+  type: transformation
+  tier: primary
+  front_en: let's go / we are going
+  back_es: vamos
+  rule_ref: L6#12
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: 'v=soft b: /BA-mos/'
+- id: l6-018
+  type: transformation
+  tier: primary
+  front_en: to visit
+  back_es: visitar
+  rule_ref: L6#10, L6#13, L6#14
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: v=soft b, clean /s/
+- id: l6-019
+  type: transformation
+  tier: primary
+  front_en: to visit him / it
+  back_es: visitarlo
+  rule_ref: L6#10, L6#14
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: -r + lo
+- id: l6-020
+  type: transformation
+  tier: primary
+  front_en: visible
+  back_es: visible
+  rule_ref: L6#10, L6#13
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: soft b, clean /s/ (no /z/)
+- id: l6-021
+  type: transformation
+  tier: primary
+  front_en: viral
+  back_es: viral
+  rule_ref: L6#10
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: v=soft b
+- id: l6-022
+  type: transformation
+  tier: primary
+  front_en: virus
+  back_es: virus
+  rule_ref: L6#10
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: v=soft b; pronounce as written
+- id: l6-023
+  type: transformation
+  tier: primary
+  front_en: convenient
+  back_es: conveniente
+  rule_ref: L6#10
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: v=soft b; -ent→-ente
+- id: l6-024
+  type: sentence
+  tier: primary
+  front_en: I'm trying to publish it.
+  back_es: Intento publicarlo.
+  rule_ref: L6#1
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: intento + -arlo
+- id: l6-025
+  type: sentence
+  tier: primary
+  front_en: I'm trying to administrate it.
+  back_es: Intento administrarlo.
+  rule_ref: L6#1
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: l6-026
+  type: sentence
+  tier: primary
+  front_en: I'm trying to imitate him.
+  back_es: Intento imitarlo.
+  rule_ref: L6#1
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: l6-027
+  type: sentence
+  tier: primary
+  front_en: I'm going.
+  back_es: Voy.
+  rule_ref: L6#9
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: voy alone = full sentence
+- id: l6-028
+  type: sentence
+  tier: primary
+  front_en: I'm going now.
+  back_es: Voy ahora.
+  rule_ref: L6#7, L6#9
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: l6-029
+  type: sentence
+  tier: primary
+  front_en: I'm not going now.
+  back_es: No voy ahora.
+  rule_ref: L6#7, L6#9
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: no + voy
+- id: l6-030
+  type: sentence
+  tier: primary
+  front_en: I want to visit him.
+  back_es: Quiero visitarlo.
+  rule_ref: L6#14
+  lessons:
+  - 6
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l6-031
+  type: sentence
+  tier: primary
+  front_en: I want to cancel it now.
+  back_es: Quiero cancelarlo ahora.
+  rule_ref: L6#7
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: ahora pinned to the end
+- id: l6-032
+  type: sentence
+  tier: primary
+  front_en: I don't want to cancel it now.
+  back_es: No quiero cancelarlo ahora.
+  rule_ref: L6#7
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: l7-001
+  type: transformation
+  tier: primary
+  front_en: continuation
+  back_es: continuación
+  rule_ref: L7#1
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: -tion → -ción
+- id: l7-002
+  type: transformation
+  tier: primary
+  front_en: to continue
+  back_es: continuar
+  rule_ref: L7#1
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: -ación → -ar
+- id: l7-003
+  type: transformation
+  tier: primary
+  front_en: to continue it
+  back_es: continuarlo
+  rule_ref: L7#1
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: -ar + lo
+- id: l7-004
+  type: transformation
+  tier: primary
+  front_en: demonstration
+  back_es: demostración
+  rule_ref: L7#5
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: 'no n: demos- not demons-'
+- id: l7-005
+  type: transformation
+  tier: primary
+  front_en: to demonstrate
+  back_es: demostrar
+  rule_ref: L7#5
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: no n in Spanish
+- id: l7-006
+  type: transformation
+  tier: primary
+  front_en: to show
+  back_es: mostrar
+  rule_ref: L7#5
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: drop the de- from demostrar
+- id: l7-007
+  type: transformation
+  tier: primary
+  front_en: to show you
+  back_es: mostrarte
+  rule_ref: L7#5, L7#8
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: -r + te
+- id: l7-008
+  type: transformation
+  tier: primary
+  front_en: something
+  back_es: algo
+  rule_ref: L7#6
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: /AL-go/
+- id: l7-009
+  type: transformation
+  tier: primary
+  front_en: to see
+  back_es: ver
+  rule_ref: L7#7
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: 'memory: view'
+- id: l7-010
+  type: transformation
+  tier: primary
+  front_en: to see them
+  back_es: verlos
+  rule_ref: L7#9
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: ver + los
+- id: l7-011
+  type: transformation
+  tier: primary
+  front_en: to try
+  back_es: intentar
+  rule_ref: L7#11
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: to-form of intento
+- id: l7-012
+  type: transformation
+  tier: primary
+  front_en: them (plural of lo)
+  back_es: los
+  rule_ref: L7#9
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: lo + s
+- id: l7-013
+  type: transformation
+  tier: primary
+  front_en: to pass / pass by
+  back_es: pasar
+  rule_ref: L7#13
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: verb of motion
+- id: l7-014
+  type: transformation
+  tier: primary
+  front_en: to confiscate it
+  back_es: confiscarlo
+  rule_ref: L7#4
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: -ación → -arlo
+- id: l7-015
+  type: transformation
+  tier: primary
+  front_en: to examine it
+  back_es: examinarlo
+  rule_ref: L7#4
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: -ación → -arlo
+- id: l7-016
+  type: transformation
+  tier: primary
+  front_en: to visit you (informal)
+  back_es: visitarte
+  rule_ref: L7#8
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: -r + te
+- id: l7-017
+  type: transformation
+  tier: primary
+  front_en: to visit him / formal you
+  back_es: visitarlo
+  rule_ref: L7#14
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: -r + lo
+- id: l7-018
+  type: transformation
+  tier: primary
+  front_en: formal
+  back_es: formal
+  rule_ref: L7#1
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: -al → -al
+- id: l7-019
+  type: transformation
+  tier: primary
+  front_en: formally
+  back_es: formalmente
+  rule_ref: L7#1
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: -ly → -mente
+- id: l7-020
+  type: sentence
+  tier: primary
+  front_en: I want to continue.
+  back_es: Quiero continuar.
+  rule_ref: L7#1
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-021
+  type: sentence
+  tier: primary
+  front_en: I want to continue it.
+  back_es: Quiero continuarlo.
+  rule_ref: L7#1
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-022
+  type: sentence
+  tier: primary
+  front_en: I'm trying to continue.
+  back_es: Intento continuar.
+  rule_ref: L7#1
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-023
+  type: sentence
+  tier: primary
+  front_en: I'm going to continue.
+  back_es: Voy a continuar.
+  rule_ref: L7#2, L7#3
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: voy a + verb (motion-verb a)
+- id: l7-024
+  type: sentence
+  tier: primary
+  front_en: I'm going to confiscate it.
+  back_es: Voy a confiscarlo.
+  rule_ref: L7#2, L7#4
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-025
+  type: sentence
+  tier: primary
+  front_en: I'm going to examine it.
+  back_es: Voy a examinarlo.
+  rule_ref: L7#2, L7#4
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-026
+  type: sentence
+  tier: primary
+  front_en: I want to see them.
+  back_es: Quiero verlos.
+  rule_ref: L7#10
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: no a (intento/quiero not motion)
+- id: l7-027
+  type: sentence
+  tier: primary
+  front_en: I'm going to see them.
+  back_es: Voy a verlos.
+  rule_ref: L7#2, L7#9
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: voy → a
+- id: l7-028
+  type: sentence
+  tier: primary
+  front_en: I'm trying to see them.
+  back_es: Intento verlos.
+  rule_ref: L7#10
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: no a after intento
+- id: l7-029
+  type: sentence
+  tier: primary
+  front_en: I'm going to try to see them.
+  back_es: Voy a intentar verlos.
+  rule_ref: L7#12
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: 'stack motion: only voy needs a'
+- id: l7-030
+  type: sentence
+  tier: primary
+  front_en: I'll pass by to visit you.
+  back_es: Voy a pasar a visitarte.
+  rule_ref: L7#13, L7#15
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: 'two a''s: voy + pasar (both motion)'
+- id: l7-031
+  type: sentence
+  tier: primary
+  front_en: I want to show you something.
+  back_es: Quiero mostrarte algo.
+  rule_ref: L7#6, L7#8
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-032
+  type: sentence
+  tier: primary
+  front_en: I want to pass by to show you.
+  back_es: Quiero pasar a mostrarte.
+  rule_ref: L7#13, L7#15
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: pasar (motion) → a
+- id: l4-027
+  type: transformation
+  tier: extended
+  front_en: nation
+  back_es: nación
+  rule_ref: L4#5
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: -tion → -ción
+- id: l4-035
+  type: transformation
+  tier: extended
+  front_en: education
+  back_es: educación
+  rule_ref: L4#5
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: -tion → -ción
+- id: l4-036
+  type: transformation
+  tier: extended
+  front_en: operation
+  back_es: operación
+  rule_ref: L4#5
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: -tion → -ción
+- id: l4-037
+  type: transformation
+  tier: extended
+  front_en: emotion
+  back_es: emoción
+  rule_ref: L4#5
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: -tion → -ción
+- id: l4-038
+  type: transformation
+  tier: extended
+  front_en: attention
+  back_es: atención
+  rule_ref: L4#5
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: -tion → -ción; one t
+- id: l4-040
+  type: transformation
+  tier: extended
+  front_en: invitation
+  back_es: invitación
+  rule_ref: L4#5
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: -tion → -ción
+- id: l4-041
+  type: transformation
+  tier: extended
+  front_en: reservation
+  back_es: reservación
+  rule_ref: L4#5
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: -tion → -ción
+- id: l4-042
+  type: transformation
+  tier: extended
+  front_en: cancellation
+  back_es: cancelación
+  rule_ref: L4#5
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: -tion → -ción; one l
+- id: l4-043
+  type: transformation
+  tier: extended
+  front_en: consideration
+  back_es: consideración
+  rule_ref: L4#5
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: -tion → -ción
+- id: l4-044
+  type: transformation
+  tier: extended
+  front_en: imagination
+  back_es: imaginación
+  rule_ref: L4#5
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: -tion → -ción; /-khi-/
+- id: l4-045
+  type: transformation
+  tier: extended
+  front_en: communication
+  back_es: comunicación
+  rule_ref: L4#5
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: -tion → -ción; one m
+- id: l4-046
+  type: transformation
+  tier: extended
+  front_en: explanation
+  back_es: explicación
+  rule_ref: L4#5
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: Spanish uses explic-
+- id: l4-047
+  type: transformation
+  tier: extended
+  front_en: decision
+  back_es: decisión
+  rule_ref: L4#4
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: -sion → -sión
+- id: l4-048
+  type: transformation
+  tier: extended
+  front_en: version
+  back_es: versión
+  rule_ref: L4#4
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: -sion → -sión
+- id: l4-049
+  type: transformation
+  tier: extended
+  front_en: tension
+  back_es: tensión
+  rule_ref: L4#4
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: -sion → -sión
+- id: l4-052
+  type: transformation
+  tier: extended
+  front_en: to invite
+  back_es: invitar
+  rule_ref: L6#10
+  lessons:
+  - 4
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: invitación → -ción off, +r
+- id: l4-053
+  type: transformation
+  tier: extended
+  front_en: to reserve
+  back_es: reservar
+  rule_ref: L4#9
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: reservación → -ción off, +r
+- id: l4-054
+  type: transformation
+  tier: extended
+  front_en: to cancel
+  back_es: cancelar
+  rule_ref: L4#9
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: cancelación → -ción off, +r
+- id: l4-055
+  type: transformation
+  tier: extended
+  front_en: to consider
+  back_es: considerar
+  rule_ref: L4#9
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: consideración → -ción off, +r
+- id: l4-056
+  type: transformation
+  tier: extended
+  front_en: to imagine
+  back_es: imaginar
+  rule_ref: L4#9
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: imaginación → -ción off, +r
+- id: l4-057
+  type: transformation
+  tier: extended
+  front_en: to communicate
+  back_es: comunicar
+  rule_ref: L4#9
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: comunicación → -ción off, +r
+- id: l4-058
+  type: transformation
+  tier: extended
+  front_en: to operate
+  back_es: operar
+  rule_ref: L4#9
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: operación → -ción off, +r
+- id: l4-059
+  type: transformation
+  tier: extended
+  front_en: to organize
+  back_es: organizar
+  rule_ref: L4#9
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: organización → -ción off, +r
+- id: l4-060
+  type: transformation
+  tier: extended
+  front_en: to confront
+  back_es: confrontar
+  rule_ref: L4#9
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: confrontación → -ción off, +r
+- id: l4-061
+  type: transformation
+  tier: extended
+  front_en: to converse
+  back_es: conversar
+  rule_ref: L4#9
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: conversación → -ción off, +r
+- id: l4-063
+  type: sentence
+  tier: extended
+  front_en: I want to confirm.
+  back_es: Quiero confirmar.
+  rule_ref: L4#2, L4#9
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: l4-064
+  type: sentence
+  tier: extended
+  front_en: I don't want to confirm.
+  back_es: No quiero confirmar.
+  rule_ref: L4#3, L4#9
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: l4-065
+  type: sentence
+  tier: extended
+  front_en: I want to sign.
+  back_es: Quiero firmar.
+  rule_ref: L4#2, L4#12
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: l4-066
+  type: sentence
+  tier: extended
+  front_en: I don't want to sign.
+  back_es: No quiero firmar.
+  rule_ref: L4#3, L4#12
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: l4-067
+  type: sentence
+  tier: extended
+  front_en: I want to converse.
+  back_es: Quiero conversar.
+  rule_ref: L4#2, L4#9
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: l4-068
+  type: sentence
+  tier: extended
+  front_en: I don't want to confront.
+  back_es: No quiero confrontar.
+  rule_ref: L4#3, L4#9
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: l4-069
+  type: sentence
+  tier: extended
+  front_en: I want to generate.
+  back_es: Quiero generar.
+  rule_ref: L4#2, L4#9
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: l4-070
+  type: sentence
+  tier: extended
+  front_en: I don't want to complicate.
+  back_es: No quiero complicar.
+  rule_ref: L4#3, L4#9, L4#13
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: l4-071
+  type: sentence
+  tier: extended
+  front_en: I don't love you.
+  back_es: No te quiero.
+  rule_ref: L4#1, L4#3
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+  hint: no + te quiero
+- id: l4-072
+  type: sentence
+  tier: extended
+  front_en: It's an opinion.
+  back_es: Es una opinión.
+  rule_ref: L4#4, L2#7
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: l4-073
+  type: sentence
+  tier: extended
+  front_en: It's a passion.
+  back_es: Es una pasión.
+  rule_ref: L4#4, L2#7
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: l4-074
+  type: sentence
+  tier: extended
+  front_en: It's a confirmation.
+  back_es: Es una confirmación.
+  rule_ref: L4#5, L2#7
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: l4-075
+  type: sentence
+  tier: extended
+  front_en: It's a conversation.
+  back_es: Es una conversación.
+  rule_ref: L4#5, L2#7
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: l4-076
+  type: sentence
+  tier: extended
+  front_en: It's a complication.
+  back_es: Es una complicación.
+  rule_ref: L4#5, L4#13, L2#7
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: l4-077
+  type: sentence
+  tier: extended
+  front_en: It's not a complication.
+  back_es: No es una complicación.
+  rule_ref: L4#5, L4#13, L2#9
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: l4-078
+  type: sentence
+  tier: extended
+  front_en: It's urgent.
+  back_es: Es urgente.
+  rule_ref: L3#1, L2#7
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: l4-079
+  type: sentence
+  tier: extended
+  front_en: It's not urgent.
+  back_es: No es urgente.
+  rule_ref: L3#1, L2#9
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: l5-052
+  type: transformation
+  tier: extended
+  front_en: importance
+  back_es: importancia
+  rule_ref: L5#10
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -ance → -ancia
+- id: l5-053
+  type: transformation
+  tier: extended
+  front_en: distance
+  back_es: distancia
+  rule_ref: L5#10
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -ance → -ancia
+- id: l5-054
+  type: transformation
+  tier: extended
+  front_en: elegance
+  back_es: elegancia
+  rule_ref: L5#10
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -ance → -ancia
+- id: l5-055
+  type: transformation
+  tier: extended
+  front_en: abundance
+  back_es: abundancia
+  rule_ref: L5#10
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -ance → -ancia
+- id: l5-056
+  type: transformation
+  tier: extended
+  front_en: ignorance
+  back_es: ignorancia
+  rule_ref: L5#10
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -ance → -ancia
+- id: l5-057
+  type: transformation
+  tier: extended
+  front_en: tolerance
+  back_es: tolerancia
+  rule_ref: L5#10
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -ance → -ancia
+- id: l5-058
+  type: transformation
+  tier: extended
+  front_en: patience
+  back_es: paciencia
+  rule_ref: L5#10
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -ence → -encia
+- id: l5-059
+  type: transformation
+  tier: extended
+  front_en: presence
+  back_es: presencia
+  rule_ref: L5#10
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -ence → -encia
+- id: l5-060
+  type: transformation
+  tier: extended
+  front_en: absence
+  back_es: ausencia
+  rule_ref: L5#10
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -ence → -encia
+- id: l5-061
+  type: transformation
+  tier: extended
+  front_en: frequency
+  back_es: frecuencia
+  rule_ref: L5#10
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -ency → -encia
+- id: l5-062
+  type: transformation
+  tier: extended
+  front_en: urgency
+  back_es: urgencia
+  rule_ref: L5#10
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -ency → -encia
+- id: l5-063
+  type: transformation
+  tier: extended
+  front_en: intelligence
+  back_es: inteligencia
+  rule_ref: L5#10
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -ence → -encia; one l
+- id: l5-064
+  type: transformation
+  tier: extended
+  front_en: independence
+  back_es: independencia
+  rule_ref: L5#10
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -ence → -encia
+- id: l5-065
+  type: transformation
+  tier: extended
+  front_en: to celebrate it
+  back_es: celebrarlo
+  rule_ref: L5#6
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: celebrar + lo
+- id: l5-066
+  type: transformation
+  tier: extended
+  front_en: to confirm it
+  back_es: confirmarlo
+  rule_ref: L5#6
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: confirmar + lo
+- id: l5-067
+  type: transformation
+  tier: extended
+  front_en: to inform you (informal)
+  back_es: informarte
+  rule_ref: L5#5
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: informar + te
+- id: l5-068
+  type: transformation
+  tier: extended
+  front_en: to inform him
+  back_es: informarlo
+  rule_ref: L5#6
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: informar + lo
+- id: l5-069
+  type: transformation
+  tier: extended
+  front_en: to situate myself
+  back_es: situarme
+  rule_ref: L5#4
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: situar + me
+- id: l5-070
+  type: sentence
+  tier: extended
+  front_en: I don't want to celebrate.
+  back_es: No quiero celebrar.
+  rule_ref: L4#3, L4#9
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: l5-071
+  type: sentence
+  tier: extended
+  front_en: I don't want to celebrate it.
+  back_es: No quiero celebrarlo.
+  rule_ref: L4#3, L5#6
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: l5-072
+  type: sentence
+  tier: extended
+  front_en: I want to confirm it.
+  back_es: Quiero confirmarlo.
+  rule_ref: L4#2, L5#6
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: l5-073
+  type: sentence
+  tier: extended
+  front_en: I don't want to confirm it.
+  back_es: No quiero confirmarlo.
+  rule_ref: L4#3, L5#6
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: l5-074
+  type: sentence
+  tier: extended
+  front_en: I want to inform you.
+  back_es: Quiero informarte.
+  rule_ref: L4#2, L5#5
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: l5-075
+  type: sentence
+  tier: extended
+  front_en: I don't want to inform you.
+  back_es: No quiero informarte.
+  rule_ref: L4#3, L5#5
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: l5-076
+  type: sentence
+  tier: extended
+  front_en: I want to participate.
+  back_es: Quiero participar.
+  rule_ref: L4#2, L4#9
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: l5-077
+  type: sentence
+  tier: extended
+  front_en: I don't want to participate.
+  back_es: No quiero participar.
+  rule_ref: L4#3, L4#9
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: l5-078
+  type: sentence
+  tier: extended
+  front_en: I want to create.
+  back_es: Quiero crear.
+  rule_ref: L4#2, L4#9
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: l5-079
+  type: sentence
+  tier: extended
+  front_en: I don't want to create it.
+  back_es: No quiero crearlo.
+  rule_ref: L4#3, L5#6
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: l5-080
+  type: sentence
+  tier: extended
+  front_en: I myself don't want to oblige you.
+  back_es: Yo no quiero obligarte.
+  rule_ref: L5#1, L5#2, L5#5
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: yo for emphasis
+- id: l5-081
+  type: sentence
+  tier: extended
+  front_en: I myself want to save him.
+  back_es: Yo quiero salvarlo.
+  rule_ref: L5#1, L4#2, L5#6
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: yo · quiero · -lo
+- id: l5-082
+  type: sentence
+  tier: extended
+  front_en: It's a difference.
+  back_es: Es una diferencia.
+  rule_ref: L5#10, L2#7
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: es · -encia
+- id: l5-083
+  type: sentence
+  tier: extended
+  front_en: It's an experience.
+  back_es: Es una experiencia.
+  rule_ref: L5#10, L2#7
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: es · -encia
+- id: l5-084
+  type: sentence
+  tier: extended
+  front_en: It's an influence.
+  back_es: Es una influencia.
+  rule_ref: L5#10, L2#7
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: l5-085
+  type: sentence
+  tier: extended
+  front_en: It's an inconsistency.
+  back_es: Es una inconsistencia.
+  rule_ref: L5#10, L2#7
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: t04_05-001
+  type: sentence
+  tier: extended
+  front_en: Naturally I want to confirm.
+  back_es: Naturalmente quiero confirmar.
+  rule_ref: L3#3, L4#2, L4#9
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -mente · quiero · -ar
+- id: t04_05-002
+  type: sentence
+  tier: extended
+  front_en: Generally I don't want to confirm.
+  back_es: Generalmente no quiero confirmar.
+  rule_ref: L3#3, L3#7, L4#3, L4#9
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -mente · no quiero · -ar
+- id: t04_05-003
+  type: sentence
+  tier: extended
+  front_en: Normally I want to participate.
+  back_es: Normalmente quiero participar.
+  rule_ref: L3#3, L3#6, L4#2, L4#9
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -mente · quiero · -ar
+- id: t04_05-004
+  type: sentence
+  tier: extended
+  front_en: Normally I don't want to participate.
+  back_es: Normalmente no quiero participar.
+  rule_ref: L3#3, L3#6, L4#3, L4#9
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -mente · no quiero · -ar
+- id: t04_05-005
+  type: sentence
+  tier: extended
+  front_en: Probably I want to celebrate.
+  back_es: Probablemente quiero celebrar.
+  rule_ref: L3#3, L3#8, L4#2, L4#9
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -mente · quiero · -ar
+- id: t04_05-006
+  type: sentence
+  tier: extended
+  front_en: Probably I don't want to celebrate.
+  back_es: Probablemente no quiero celebrar.
+  rule_ref: L3#3, L3#8, L4#3, L4#9
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -mente · no quiero · -ar
+- id: t04_05-007
+  type: sentence
+  tier: extended
+  front_en: Possibly I want to inform you.
+  back_es: Posiblemente quiero informarte.
+  rule_ref: L3#3, L3#8, L4#2, L5#5
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -mente · quiero · -te
+- id: t04_05-008
+  type: sentence
+  tier: extended
+  front_en: Really I want to celebrate it.
+  back_es: Realmente quiero celebrarlo.
+  rule_ref: L3#3, L3#4, L4#2, L5#6
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -mente · quiero · -lo
+- id: t04_05-009
+  type: sentence
+  tier: extended
+  front_en: Really I don't want to cancel it.
+  back_es: Realmente no quiero cancelarlo.
+  rule_ref: L3#3, L3#4, L4#3, L5#6
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -mente · no quiero · -lo
+- id: t04_05-010
+  type: sentence
+  tier: extended
+  front_en: Urgently I want to confirm.
+  back_es: Urgentemente quiero confirmar.
+  rule_ref: L3#3, L4#2, L4#9
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -mente · quiero · -ar
+- id: t04_05-011
+  type: sentence
+  tier: extended
+  front_en: Constantly I want to participate.
+  back_es: Constantemente quiero participar.
+  rule_ref: L3#3, L4#2, L4#9
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -mente · quiero · -ar
+- id: t04_05-012
+  type: sentence
+  tier: extended
+  front_en: Frequently I want to celebrate.
+  back_es: Frecuentemente quiero celebrar.
+  rule_ref: L3#3, L4#2, L4#9
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -mente · quiero · -ar
+- id: t04_05-013
+  type: sentence
+  tier: extended
+  front_en: It's a celebration.
+  back_es: Es una celebración.
+  rule_ref: L2#7, L4#5
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: es · -ción
+- id: t04_05-014
+  type: sentence
+  tier: extended
+  front_en: It's not a celebration.
+  back_es: No es una celebración.
+  rule_ref: L2#9, L4#5
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: no es · -ción
+- id: t04_05-015
+  type: sentence
+  tier: extended
+  front_en: It's an obligation.
+  back_es: Es una obligación.
+  rule_ref: L2#7, L4#5
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: es · -ción
+- id: t04_05-016
+  type: sentence
+  tier: extended
+  front_en: It's not an obligation.
+  back_es: No es una obligación.
+  rule_ref: L2#9, L4#5
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: no es · -ción
+- id: t04_05-017
+  type: sentence
+  tier: extended
+  front_en: It's a situation.
+  back_es: Es una situación.
+  rule_ref: L2#7, L4#5
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: es · -ción
+- id: t04_05-019
+  type: sentence
+  tier: extended
+  front_en: It's not a difference.
+  back_es: No es una diferencia.
+  rule_ref: L2#9, L5#10
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: no es · -encia
+- id: t04_05-021
+  type: sentence
+  tier: extended
+  front_en: It's an important conversation.
+  back_es: Es una conversación importante.
+  rule_ref: L2#7, L3#1, L4#5
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: noun · adj
+- id: t04_05-022
+  type: sentence
+  tier: extended
+  front_en: It's an urgent confirmation.
+  back_es: Es una confirmación urgente.
+  rule_ref: L2#7, L3#1, L4#5
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: noun · adj
+- id: t04_05-023
+  type: sentence
+  tier: extended
+  front_en: It's a different opinion.
+  back_es: Es una opinión diferente.
+  rule_ref: L2#7, L3#1, L4#4
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: noun · adj
+- id: t04_05-024
+  type: sentence
+  tier: extended
+  front_en: It's a permanent situation.
+  back_es: Es una situación permanente.
+  rule_ref: L2#7, L3#1, L4#5
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: noun · adj
+- id: t04_05-025
+  type: sentence
+  tier: extended
+  front_en: It's not a normal celebration.
+  back_es: No es una celebración normal.
+  rule_ref: L2#9, L2#2, L4#5
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: noun · -al
+- id: t04_05-026
+  type: sentence
+  tier: extended
+  front_en: It's a cultural celebration.
+  back_es: Es una celebración cultural.
+  rule_ref: L2#7, L2#2, L4#5
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: noun · -al
+- id: t04_05-027
+  type: sentence
+  tier: extended
+  front_en: It's a personal experience.
+  back_es: Es una experiencia personal.
+  rule_ref: L2#7, L2#2, L5#10
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: noun · -al
+- id: t04_05-028
+  type: sentence
+  tier: extended
+  front_en: It's important to confirm.
+  back_es: Es importante confirmar.
+  rule_ref: L2#7, L3#1, L4#9
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: es + adj + -ar
+- id: t04_05-029
+  type: sentence
+  tier: extended
+  front_en: It's not important to confirm.
+  back_es: No es importante confirmar.
+  rule_ref: L2#9, L3#1, L4#9
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: no es + adj + -ar
+- id: t04_05-030
+  type: sentence
+  tier: extended
+  front_en: It's urgent to confirm.
+  back_es: Es urgente confirmar.
+  rule_ref: L2#7, L3#1, L4#9
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: es + adj + -ar
+- id: t04_05-031
+  type: sentence
+  tier: extended
+  front_en: It's possible to participate.
+  back_es: Es posible participar.
+  rule_ref: L2#7, L3#8, L4#9
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: es + -ible + -ar
+- id: t04_05-032
+  type: sentence
+  tier: extended
+  front_en: It's not possible to confirm.
+  back_es: No es posible confirmar.
+  rule_ref: L2#9, L3#8, L4#9
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: no es + -ible + -ar
+- id: t04_05-033
+  type: sentence
+  tier: extended
+  front_en: It's important to celebrate.
+  back_es: Es importante celebrar.
+  rule_ref: L2#7, L3#1, L4#9
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: es + adj + -ar
+- id: t04_05-034
+  type: sentence
+  tier: extended
+  front_en: It's possible to save him.
+  back_es: Es posible salvarlo.
+  rule_ref: L2#7, L3#8, L5#6
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: es + -ible + -lo
+- id: t04_05-035
+  type: sentence
+  tier: extended
+  front_en: It's not possible to cancel it.
+  back_es: No es posible cancelarlo.
+  rule_ref: L2#9, L3#8, L5#6
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: no es + -ible + -lo
+- id: t04_05-036
+  type: sentence
+  tier: extended
+  front_en: I myself normally don't want to.
+  back_es: Yo normalmente no quiero.
+  rule_ref: L5#1, L3#3, L3#6, L4#3
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: yo · -mente · no quiero
+- id: t04_05-037
+  type: sentence
+  tier: extended
+  front_en: I myself really don't want to sign.
+  back_es: Yo realmente no quiero firmar.
+  rule_ref: L5#1, L3#3, L3#4, L4#3, L4#12
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: yo · -mente · no quiero · -ar
+- id: t04_05-039
+  type: sentence
+  tier: extended
+  front_en: Really I love you.
+  back_es: Realmente te quiero.
+  rule_ref: L3#3, L3#4, L4#1
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -mente · te quiero
+- id: t04_05-040
+  type: sentence
+  tier: extended
+  front_en: Really I don't love you.
+  back_es: Realmente no te quiero.
+  rule_ref: L3#3, L3#4, L4#1, L4#3
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+  hint: -mente · no te quiero
+- id: l6-033
+  type: transformation
+  tier: extended
+  front_en: honest
+  back_es: honesto
+  rule_ref: L6#4
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: silent h
+- id: l6-034
+  type: transformation
+  tier: extended
+  front_en: honor
+  back_es: honor
+  rule_ref: L6#4
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: silent h
+- id: l6-035
+  type: transformation
+  tier: extended
+  front_en: hostile
+  back_es: hostil
+  rule_ref: L6#4
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: silent h
+- id: l6-036
+  type: transformation
+  tier: extended
+  front_en: humid
+  back_es: húmedo
+  rule_ref: L6#4
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: silent h
+- id: l6-037
+  type: transformation
+  tier: extended
+  front_en: humor
+  back_es: humor
+  rule_ref: L6#4
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: silent h
+- id: l6-038
+  type: transformation
+  tier: extended
+  front_en: horror
+  back_es: horror
+  rule_ref: L6#4, L6#6
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: silent h, rolled rr
+- id: l6-039
+  type: transformation
+  tier: extended
+  front_en: to inhabit
+  back_es: habitar
+  rule_ref: L6#4
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: silent h; -ación→-ar
+- id: l6-040
+  type: transformation
+  tier: extended
+  front_en: history
+  back_es: historia
+  rule_ref: L6#4
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: silent h
+- id: l6-041
+  type: transformation
+  tier: extended
+  front_en: hotel
+  back_es: hotel
+  rule_ref: L6#4
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: silent h
+- id: l6-043
+  type: transformation
+  tier: extended
+  front_en: to vote
+  back_es: votar
+  rule_ref: L6#10
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: v=soft b
+- id: l6-044
+  type: transformation
+  tier: extended
+  front_en: voluntary
+  back_es: voluntario
+  rule_ref: L6#10
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: v=soft b
+- id: l6-045
+  type: transformation
+  tier: extended
+  front_en: to verify
+  back_es: verificar
+  rule_ref: L6#10
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: v=soft b
+- id: l6-046
+  type: transformation
+  tier: extended
+  front_en: violent
+  back_es: violento
+  rule_ref: L6#10
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: v=soft b; -ent→-ento
+- id: l6-047
+  type: transformation
+  tier: extended
+  front_en: vital
+  back_es: vital
+  rule_ref: L6#10
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: v=soft b
+- id: l6-048
+  type: transformation
+  tier: extended
+  front_en: to invent
+  back_es: inventar
+  rule_ref: L6#10
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: v=soft b
+- id: l6-049
+  type: transformation
+  tier: extended
+  front_en: to observe
+  back_es: observar
+  rule_ref: L6#10
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: v=soft b
+- id: l6-050
+  type: sentence
+  tier: extended
+  front_en: I'm trying to visit him.
+  back_es: Intento visitarlo.
+  rule_ref: L6#1, L6#14
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: l6-051
+  type: sentence
+  tier: extended
+  front_en: I'm not trying to imitate him.
+  back_es: No intento imitarlo.
+  rule_ref: L6#1
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: l6-052
+  type: sentence
+  tier: extended
+  front_en: I'm trying to invite him.
+  back_es: Intento invitarlo.
+  rule_ref: L6#1, L6#10
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: l6-053
+  type: sentence
+  tier: extended
+  front_en: I'm trying to verify it.
+  back_es: Intento verificarlo.
+  rule_ref: L6#1, L6#10
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: l6-054
+  type: sentence
+  tier: extended
+  front_en: I'm trying to publish it now.
+  back_es: Intento publicarlo ahora.
+  rule_ref: L6#1, L6#7
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: l6-055
+  type: sentence
+  tier: extended
+  front_en: I'm not trying to administrate it.
+  back_es: No intento administrarlo.
+  rule_ref: L6#1
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: l6-056
+  type: sentence
+  tier: extended
+  front_en: Let's go.
+  back_es: Vamos.
+  rule_ref: L6#12
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: l6-057
+  type: sentence
+  tier: extended
+  front_en: Let's go now.
+  back_es: Vamos ahora.
+  rule_ref: L6#7, L6#12
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: l6-058
+  type: sentence
+  tier: extended
+  front_en: I'm not going.
+  back_es: No voy.
+  rule_ref: L6#9
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: l6-059
+  type: sentence
+  tier: extended
+  front_en: It's horrible.
+  back_es: Es horrible.
+  rule_ref: L6#4, L6#6
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: silent h, rolled rr
+- id: l6-060
+  type: sentence
+  tier: extended
+  front_en: It's not horrible.
+  back_es: No es horrible.
+  rule_ref: L6#4, L6#6
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: l6-061
+  type: sentence
+  tier: extended
+  front_en: It's habitual.
+  back_es: Es habitual.
+  rule_ref: L6#4
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: l6-062
+  type: sentence
+  tier: extended
+  front_en: It's visible.
+  back_es: Es visible.
+  rule_ref: L6#10, L6#13
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: v=soft b, clean /s/
+- id: l6-063
+  type: sentence
+  tier: extended
+  front_en: It's not visible.
+  back_es: No es visible.
+  rule_ref: L6#10, L6#13
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: l6-064
+  type: sentence
+  tier: extended
+  front_en: It's convenient.
+  back_es: Es conveniente.
+  rule_ref: L6#10
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: l6-065
+  type: sentence
+  tier: extended
+  front_en: It's not convenient.
+  back_es: No es conveniente.
+  rule_ref: L6#10
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: l6-066
+  type: sentence
+  tier: extended
+  front_en: I want to cancel it, but not now.
+  back_es: Quiero cancelarlo, pero no ahora.
+  rule_ref: L6#7
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+  hint: pero + ahora
+- id: l6-067
+  type: sentence
+  tier: extended
+  front_en: I want to visit him now.
+  back_es: Quiero visitarlo ahora.
+  rule_ref: L6#7, L6#14
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: l6-068
+  type: sentence
+  tier: extended
+  front_en: I don't want to visit him now.
+  back_es: No quiero visitarlo ahora.
+  rule_ref: L6#7, L6#14
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: l7-033
+  type: sentence
+  tier: extended
+  front_en: I'm going to visit him.
+  back_es: Voy a visitarlo.
+  rule_ref: L7#2
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-034
+  type: sentence
+  tier: extended
+  front_en: I'm going to visit you.
+  back_es: Voy a visitarte.
+  rule_ref: L7#2, L7#8
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-035
+  type: sentence
+  tier: extended
+  front_en: I'm not going to visit him.
+  back_es: No voy a visitarlo.
+  rule_ref: L7#2
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: no + voy a
+- id: l7-036
+  type: sentence
+  tier: extended
+  front_en: I'm not going to continue.
+  back_es: No voy a continuar.
+  rule_ref: L7#2
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-037
+  type: sentence
+  tier: extended
+  front_en: I'm going to demonstrate it.
+  back_es: Voy a demostrarlo.
+  rule_ref: L7#2, L7#5
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-038
+  type: sentence
+  tier: extended
+  front_en: I'm going to show you.
+  back_es: Voy a mostrarte.
+  rule_ref: L7#2, L7#6, L7#8
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-039
+  type: sentence
+  tier: extended
+  front_en: I'm going to show you something.
+  back_es: Voy a mostrarte algo.
+  rule_ref: L7#2, L7#6
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-040
+  type: sentence
+  tier: extended
+  front_en: I'm going to try.
+  back_es: Voy a intentar.
+  rule_ref: L7#2, L7#11
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-041
+  type: sentence
+  tier: extended
+  front_en: I'm going to try to continue.
+  back_es: Voy a intentar continuar.
+  rule_ref: L7#11, L7#12
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-042
+  type: sentence
+  tier: extended
+  front_en: I won't try to see them.
+  back_es: No voy a intentar verlos.
+  rule_ref: L7#11, L7#12
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  notes: EN paraphrase to fit cap; ES uses no voy a + intentar.
+- id: l7-043
+  type: sentence
+  tier: extended
+  front_en: I'm going to try to visit you.
+  back_es: Voy a intentar visitarte.
+  rule_ref: L7#12
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: 'stack: only voy needs a'
+- id: l7-044
+  type: sentence
+  tier: extended
+  front_en: I'll pass by to visit him.
+  back_es: Voy a pasar a visitarlo.
+  rule_ref: L7#13, L7#14
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-046
+  type: sentence
+  tier: extended
+  front_en: I want to visit them.
+  back_es: Quiero visitarlos.
+  rule_ref: L7#9
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: los = plural lo
+- id: l7-047
+  type: sentence
+  tier: extended
+  front_en: I'm going to visit them.
+  back_es: Voy a visitarlos.
+  rule_ref: L7#2, L7#9
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-048
+  type: sentence
+  tier: extended
+  front_en: I'm trying to confiscate them.
+  back_es: Intento confiscarlos.
+  rule_ref: L7#9, L7#10
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-049
+  type: sentence
+  tier: extended
+  front_en: I'm going to examine them.
+  back_es: Voy a examinarlos.
+  rule_ref: L7#2, L7#9
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-050
+  type: sentence
+  tier: extended
+  front_en: I want to see it.
+  back_es: Quiero verlo.
+  rule_ref: L7#7
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-051
+  type: sentence
+  tier: extended
+  front_en: I'm not going to see them.
+  back_es: No voy a verlos.
+  rule_ref: L7#2, L7#9
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-052
+  type: transformation
+  tier: extended
+  front_en: investigation
+  back_es: investigación
+  rule_ref: L7#1
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: v=soft b; -tion→-ción
+- id: l7-053
+  type: transformation
+  tier: extended
+  front_en: to investigate
+  back_es: investigar
+  rule_ref: L7#1
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+  hint: -ación → -ar
+- id: l7-054
+  type: transformation
+  tier: extended
+  front_en: to investigate it
+  back_es: investigarlo
+  rule_ref: L7#1
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-055
+  type: transformation
+  tier: extended
+  front_en: observation
+  back_es: observación
+  rule_ref: L7#1
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-056
+  type: transformation
+  tier: extended
+  front_en: to observe it
+  back_es: observarlo
+  rule_ref: L7#1
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-057
+  type: sentence
+  tier: extended
+  front_en: I'm going to investigate it.
+  back_es: Voy a investigarlo.
+  rule_ref: L7#2
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-058
+  type: sentence
+  tier: extended
+  front_en: I'm going to observe them.
+  back_es: Voy a observarlos.
+  rule_ref: L7#2, L7#9
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-059
+  type: sentence
+  tier: extended
+  front_en: I'm not going to confiscate it.
+  back_es: No voy a confiscarlo.
+  rule_ref: L7#2
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-060
+  type: sentence
+  tier: extended
+  front_en: I'm trying to examine them.
+  back_es: Intento examinarlos.
+  rule_ref: L7#9, L7#10
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: l7-061
+  type: sentence
+  tier: extended
+  front_en: I'm going to demonstrate them.
+  back_es: Voy a demostrarlos.
+  rule_ref: L7#2, L7#5, L7#9
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
