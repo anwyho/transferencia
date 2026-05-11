@@ -49,6 +49,16 @@ _COGNATE_SUFFIXES: tuple[str, ...] = (
     "ial", "cial",
 )
 
+# Universal LT-implicit particles: words taught indirectly via the audio
+# lessons but not present in rules.md Vocabulary sections. Adding them
+# once cleans up validator noise without papering over real gaps.
+_UNIVERSAL_ALLOW: frozenset[str] = frozenset({
+    "y", "o", "u", "mi", "tu", "su", "sí", "no",
+    "mucho", "mucha", "muchos", "muchas",
+    "muy", "poco", "ya", "bueno", "buena",
+    "ay", "oh", "eh",
+})
+
 
 @dataclass(frozen=True)
 class VocabFocus:
@@ -171,6 +181,16 @@ def validate_story(
         else:
             allowed_words = allowed_vocab_through(story.lesson_max)
 
+    # Multi-word vocab entries (e.g. "te amo", "voy a", "la casa") also
+    # license their component words individually — otherwise "amo" alone
+    # flags despite "te amo" being in the lesson.
+    component_words: set[str] = set()
+    for entry in allowed_words:
+        if " " in entry:
+            for part in entry.split():
+                component_words.add(part)
+    allowed_words = allowed_words | component_words
+
     focus_phrases = {vf.es.lower() for vf in story.vocab_focus}
     focus_component_words: set[str] = set()
     for fw in focus_phrases:
@@ -183,6 +203,8 @@ def validate_story(
     warnings: list[ValidationWarning] = []
     for w in sorted(body_words):
         if w in allowed_words:
+            continue
+        if w in _UNIVERSAL_ALLOW:
             continue
         if w in focus_phrases or w in focus_component_words:
             continue
