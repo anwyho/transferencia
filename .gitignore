@@ -1,5 +1,7 @@
-# generated audio — regeneratable from cards via `make audio`
-audio/
+# Audio: TTS workspace (per-fragment cache + Anki media) stays ignored;
+# review-set MP3s and committed story audio under audio/ are tracked.
+audio/.cache/
+audio/.media/
 
 # generated builds
 dist/
