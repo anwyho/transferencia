@@ -84,6 +84,25 @@ If Piper falls short, A/B test Azure neural voices side-by-side before committin
 - Adding 100 new cards: ~18K chars
 - Sits comfortably under Azure's 500K/month, even in the first month
 
+## Marker clip + story per-kind pace map (2026-05-10)
+
+Two artifact types now share the Piper pipeline:
+
+- **Review sets** (`build/generate_review_sets.py`) inject a single Piper-rendered "Siguiente." clip between every card. The clip is rendered once into `audio/.cache/marker_siguiente.mp3` and reused across all bundles. No new voice required — uses the same `es_MX-claude-high` configured here.
+- **Immersion stories** (`build/generate_stories.py`) pick the body pace from the story's `kind` field. Defaults:
+
+  | `kind` | Pace | Notes |
+  |--------|------|-------|
+  | `animal_fable` | 1.0 | Crisp, classic timing |
+  | `scenario` | 0.95 | Slightly slower — listener is usually driving |
+  | `dialogue` | 0.95 | Same |
+  | `history` | 0.95 | Narrative pace |
+  | `memory` | 0.9 | Reflective; gives line-past room to breathe |
+
+  Preface always plays at `pace=1.0` in `en_US-amy-medium`. Body lines are 350 ms-spaced — speaker-label boundaries become natural breath beats without needing a second Spanish voice.
+
+  Multi-voice dialogue (one speaker per voice) was scoped but not built; Piper would need a second LatAm voice in `build/.piper-voices/` and a small per-line voice picker in `render_story_audio`. Single-voice is fine for v1.
+
 ## Stage 3 — Per-card voice variety (only after Stage 1 or 2 is shipped)
 
 Once one backend is dialed in, optionally mix voices so your ear doesn't memorize one speaker:

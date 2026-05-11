@@ -5,7 +5,9 @@ Daily practice plan. Designed to fit between work and life — not a full course
 ## Daily target
 
 - **5–20 minutes of flashcards** (Anki, any subdeck or whole deck)
-- **20–40 minutes of audio**: cumulative drill MP3 for current bundle
+- **20–40 minutes of audio**:
+  - `audio/review_set_<letter>.mp3` for the current bundle (the 20-min drive companion), or
+  - `audio/stories/<group>/*.mp3` for immersion + exposure on lighter days
 
 Total daily commitment: ~30–60 minutes. Audio time is mostly during the drive — it doesn't compete with desk hours.
 
@@ -13,13 +15,13 @@ Total daily commitment: ~30–60 minutes. Audio time is mostly during the drive 
 
 | Day | Audio | Why |
 |-----|-------|-----|
-| Mon | Cumulative drill MP3 (current bundle) | Active production, set the week's tone |
-| Tue | Cumulative drill MP3 | Reinforce |
-| Wed | Cumulative drill MP3 (prior bundle) | Mix in old material |
-| Thu | Cumulative drill MP3 (current bundle) | Re-loop |
-| Fri | Cumulative drill MP3 | Production push before weekend |
+| Mon | `review_set_<current>.mp3` | Active production, set the week's tone |
+| Tue | `review_set_<current>.mp3` | Reinforce; the set is 70/30 EN→ES so you're still producing |
+| Wed | `review_set_<prior>.mp3` | Mix in old material — last week's bundle |
+| Thu | Stories: current group | Immersion / passive ear; gives the production drills a rest |
+| Fri | `review_set_<current>.mp3` | Production push before the weekend |
 | Sat | Catch-up Anki (longer session if backlog) | Bring SRS queue current |
-| Sun | Re-listen earlier bundle's drill MP3 | Consolidation, low-effort |
+| Sun | Stories: an earlier group | Consolidation, low-effort listening |
 
 Anki happens every day. Audio rotates.
 
@@ -27,21 +29,21 @@ Anki happens every day. Audio rotates.
 
 Rough target: **one bundle per week**.
 
-- Day 1–2: hear cumulative drill MP3 cold; flag cards that hit you wrong
-- Day 3–5: drill cards in Anki; re-listen drill MP3 to validate
-- Day 6–7: re-listen + sweep failing cards
+- Day 1–2: hear `review_set_<current>.mp3` cold; flag cards that hit you wrong
+- Day 3–5: drill cards in Anki; re-listen the review set to validate
+- Day 6–7: re-listen + sweep failing cards; pick up the group's stories for the next-bundle theme
 - Following week: roll forward to next bundle
 
-Don't move forward until the *current* bundle's drill MP3 feels comfortable. If you're missing more than half the answers, you're not ready — re-loop.
+Don't move forward until the *current* bundle's review set feels comfortable. If you're missing more than half the answers, you're not ready — re-loop.
 
 ## When to skip ahead vs slow down
 
 Slow down if:
-- Cumulative drill MP3 has cards that surprise you more than half the time
+- The review set has cards that surprise you more than half the time
 - You're fatiguing in Anki (review queue > 30 min/day)
 
 Speed up (consider 2 bundles/week) if:
-- Drill MP3 feels easy on cold listen
+- Review set feels easy on cold listen
 - Anki ease is high (Anki is rating most cards "Easy")
 - You're hungry for new grammar
 
@@ -56,17 +58,21 @@ If unsure what to drill in Anki:
 - **Anxious about a specific rule?** Filter by `tag:rule::L4-big-rule`. Drill that pattern across all cards that touch it.
 - **Stuck on a card type?** Filter `tag:type::transformation` or `tag:type::sentence`.
 
-## Audio: what to listen to
+## Audio: which file when
 
-- **Just got out of a lesson?** Cumulative drill MP3 for the bundle that contains it.
-- **Long drive?** Cumulative drill MP3 — these tolerate interruption since they're segment-shuffled.
-- **Short errand?** Same — short drives still get a few cards in.
+- **Just got out of a lesson?** `audio/review_set_<letter>.mp3` for the bundle that contains it.
+- **20-min commute?** Same — review sets are sized to fit. The "Siguiente." marker between cards gives you a moment to reset between drills.
+- **Short errand?** Same — drop in for 5 min, drop out. The set tolerates interruption.
+- **Tired, just want to absorb Spanish?** Pick a story from `audio/stories/<group>/`. Listen to the English preface for the listen-fors, then let the Spanish wash over you. No production required.
+- **Long drive?** Pair a review set with one or two stories. Drill, then absorb.
+
+The stories grow with the course — group 1 stories (L1–10) live entirely on cognates + `es/no es` + a handful of helpers, and that's exactly enough drama to make two cats argue. Later groups get more characters, more conditional fantasies, more memory pieces.
 
 ## Sync to phone
 
 Pre-rendered MP3s land in `audio/`. To get them on your iPhone:
 
-1. **Easiest:** drag `audio/lesson_*.mp3` into an iCloud Drive folder. Files app on iPhone plays them directly. Bluetooth/CarPlay: yes.
+1. **Easiest:** drag `audio/review_set_*.mp3` and the `audio/stories/` tree into an iCloud Drive folder. Files app on iPhone plays them directly. Bluetooth/CarPlay: yes.
 2. **Cleaner:** generate a private podcast `feed.xml` from the audio folder, host on a static server, subscribe in Apple Podcasts. Auto-syncs new tracks.
 3. **Manual:** AirDrop one mp3 at a time.
 

@@ -74,15 +74,28 @@ These remain on the user's end — the plan can't run them.
 |--------|------|-------|
 | `dist/transferencia.apkg` | ~1.2 MB | ~2500 cards, 9 subdecks (bundles A–I) |
 | `dist/cards.json` | ~700 KB | flat array, ~2500 entries |
-| `audio/lesson_NN.mp3` | varies | cumulative drill |
+| `audio/review_set_<letter>.mp3` | ~12–18 MB | per-bundle 20-min drill, mono 96 kbps |
+| `audio/stories/<group>/<NN>_<slug>.mp3` | ~1–4 MB | per story, mono 96 kbps |
 
-The cumulative drill track grows fast because every card expands into 1–2 segments (en_es and, for sentences/transformations, also es_en). Later bundles' tracks will be longer still. Piper voices at higher quality may produce different sizes.
+Earlier the cumulative drill (`audio/lesson_NN.mp3`) grew unbounded because every card produced 1–2 segments. The per-bundle review-set format caps each track at ~20 min (1200 sec budgeted; acceptance band 17–22 min), keeping a daily drive listenable end-to-end. Piper voices at higher quality may produce different sizes.
 
 A `shadow` direction (Spanish→Spanish repeat) was originally part of the design and shipped briefly. Removed after a first pass through the cards — added bloat without enough learning value. See the deletion in the diff that removed `Direction.SHADOW`.
 
 ## Story system removed (2026-05)
 
 An earlier pass shipped a story-rendering subsystem (`build/lib/story.py`, `validate_story.py`, `--stories` mode in `generate_audio.py`, `stories/` directory of hand-authored Spanish narratives with literal-gloss layers, `audio/stories/` MP3s). It was wiped to make room for a redesigned story system. The card system stands alone and is unaffected. If you need the old code, recover from git history before this commit.
+
+## Audio rework: review sets + stories rebuilt (2026-05-10)
+
+The cumulative drill MP3 format (`audio/lesson_NN.mp3`) was retired in favour of per-bundle 20-minute review sets (`audio/review_set_<letter>.mp3`). Each set holds ~70% current-bundle cards and ~30% from prior bundles (recency-weighted), with direction biased 70/30 EN→ES per the user's preference for production-focused drills. A "Siguiente." Piper-rendered marker plays between cards. See [`docs/audio-review-sets.md`](audio-review-sets.md) for the algorithm.
+
+The story system was rebuilt around nine hand-picked thematic groups (3 stories × first 5 groups for now = 15 stories covering L1–49). Stories are markdown with YAML frontmatter (`stories/<group_slug>/<NN>_<slug>.md`); the renderer assembles preface (English) → body (Spanish at slightly slower pace) into one MP3 per story under `audio/stories/<group>/`. See [`docs/stories.md`](stories.md).
+
+`build/generate_audio.py` is gone; its responsibilities split into `build/generate_review_sets.py` and `build/generate_stories.py`. The Anki embedded-audio path (`generate_anki.py --with-audio`) was already using `build.lib.audio.encode_card_audio` directly, so nothing about it changed.
+
+The `.gitignore` now allows `audio/*.mp3` and `audio/stories/**/*.mp3` to be tracked. `audio/.cache/` (TTS fragments) and `audio/.media/` (Anki embed mirror) stay ignored.
+
+Co-agent contention: the card-author agent works in `cards/*.yml` and `docs/card-design.md` concurrently. Audio + story changes deliberately stay out of those paths; commits stage by exact path, not `git add -A`.
 
 ## Bundle restructure (2026-05)
 
