@@ -3,10 +3,24 @@ from __future__ import annotations
 
 import shutil
 import subprocess
+import sys
 from pathlib import Path
 from typing import Literal
 
 from build.lib.tts.cache import ensure_cached
+
+
+def _find_piper() -> str:
+    """Locate the piper binary: PATH first, then the active venv's bin/."""
+    if shutil.which("piper"):
+        return "piper"
+    candidate = Path(sys.executable).parent / "piper"
+    if candidate.exists():
+        return str(candidate)
+    raise RuntimeError(
+        "piper binary not found on PATH or alongside python; "
+        "install via `pip install piper-tts`"
+    )
 
 
 class PiperTTS:
@@ -27,8 +41,7 @@ class PiperTTS:
         self.voices_dir = Path(voices_dir)
         self.voice_es = voice_es
         self.voice_en = voice_en
-        if not shutil.which("piper"):
-            raise RuntimeError("piper binary not on PATH; install via `pip install piper-tts`")
+        self._piper_bin = _find_piper()
         self.backend_id = f"piper:es={voice_es}|en={voice_en}"
 
     def _voice_path(self, voice_id: str) -> Path:
@@ -53,12 +66,25 @@ class PiperTTS:
         def _do_synth(t: str, _lang: str, dst: Path) -> Path:
             length_scale = 1.0 / max(pace, 0.1)  # piper: bigger = slower
             cmd = [
-                "piper",
+                self._piper_bin,
                 "--model", str(self._voice_path(chosen)),
                 "--output-file", str(dst),
                 "--length-scale", f"{length_scale:.3f}",
             ]
-            subprocess.run(cmd, input=t, text=True, check=True, capture_output=True)
+            try:
+                subprocess.run(
+                    cmd, input=t, text=True, check=True, capture_output=True,
+                )
+            except subprocess.CalledProcessError as e:
+                # Piper may have created a zero-byte output file before failing.
+                # Remove it so the cache never serves a bad fragment.
+                if dst.exists() and dst.stat().st_size == 0:
+                    dst.unlink()
+                stderr_tail = (e.stderr or "")[-400:]
+                raise RuntimeError(
+                    f"piper synth failed for text {t!r}: rc={e.returncode}; "
+                    f"stderr: {stderr_tail}"
+                ) from e
             return dst
 
         return ensure_cached(self.cache_dir, text, lang, backend_id, _do_synth)

@@ -259,7 +259,12 @@ def render_story_audio(
         work += AudioSegment.silent(duration=1000)
 
     spanish = _spanish_body_text(story.body)
-    lines = [ln.strip() for ln in spanish.splitlines() if ln.strip()]
+    # Skip lines that are empty or punctuation-only — Piper crashes when
+    # asked to synth no actual phonemes.
+    lines = [
+        ln.strip() for ln in spanish.splitlines()
+        if ln.strip() and re.search(r"[a-záéíóúñü]", ln, re.IGNORECASE)
+    ]
     for ln in lines:
         wav = tts.synth(ln, "es", pace=pace_body)
         work += AudioSegment.from_file(str(wav))

@@ -1,4 +1,4 @@
-.PHONY: install test validate anki anki-with-audio cards-json audio audio-quick all clean
+.PHONY: install test validate anki anki-with-audio cards-json review-sets stories validate-stories all clean
 
 PYTHON ?= python3.11
 
@@ -20,17 +20,20 @@ anki-with-audio: validate
 cards-json: validate
 	$(PYTHON) build/generate_anki.py --export-json dist/cards.json
 
-audio: validate
-	$(PYTHON) build/generate_audio.py --all-tracks
+review-sets: validate
+	$(PYTHON) build/generate_review_sets.py --all
 
-audio-quick: validate
-	$(PYTHON) build/generate_audio.py --through 3 --backend mac_say
+stories:
+	$(PYTHON) build/generate_stories.py
 
-all: anki cards-json audio
+validate-stories:
+	$(PYTHON) build/generate_stories.py --validate-only
+
+all: anki cards-json review-sets stories
 
 clean:
 	@# Use `trash` instead of rm -rf — sends files to macOS Trash so deletes are recoverable.
 	@# Preserves audio/.cache/ (costly TTS fragments).
-	@for f in dist/*.apkg dist/*.json audio/lesson_*.mp3; do \
+	@for f in dist/*.apkg dist/*.json audio/review_set_*.mp3 audio/lesson_*.mp3; do \
 		[ -e "$$f" ] && trash "$$f" || true; \
 	done
