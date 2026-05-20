@@ -21,7 +21,7 @@ _REQUIRED_CARD_FIELDS = (
 
 _TOPIC_FILE_RE = re.compile(r"^topic_(\d+)_(\d+)_.*\.yml$")
 _LESSON_DIR_RE = re.compile(r"^lesson_(\d+)$")
-_BUNDLE_FILE_RE = re.compile(r"^[a-zñ]_.+\.yml$")
+_BUNDLE_FILE_RE = re.compile(r"^(nn|[a-zñ])_.+\.yml$")
 
 
 def _word_count(text: str) -> int:

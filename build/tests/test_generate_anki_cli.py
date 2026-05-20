@@ -78,4 +78,4 @@ def test_export_json_writes_flat_array(tmp_path, fixtures_dir):
     data = json.loads(out_json.read_text())
     assert isinstance(data, list)
     assert len(data) == 2
-    assert data[0]["id"] == "l99-001"
+    assert data[0]["id"] == "L99-001"

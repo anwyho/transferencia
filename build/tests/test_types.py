@@ -6,7 +6,7 @@ from build.lib.types import Card, CardType, Tier, Direction
 
 def test_card_minimal_fields():
     card = Card(
-        id="l3-001",
+        id="L3-001",
         type=CardType.TRANSFORMATION,
         tier=Tier.PRIMARY,
         front_en="important",
@@ -15,14 +15,14 @@ def test_card_minimal_fields():
         lessons=[3],
         directions=[Direction.EN_ES, Direction.ES_EN],
     )
-    assert card.id == "l3-001"
+    assert card.id == "L3-001"
     assert card.lessons == [3]
     assert Direction.EN_ES in card.directions
 
 
 def test_card_default_optional_fields():
     card = Card(
-        id="l3-002",
+        id="L3-002",
         type=CardType.SENTENCE,
         tier=Tier.PRIMARY,
         front_en="It's not different.",

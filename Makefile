@@ -1,4 +1,4 @@
-.PHONY: install test validate anki anki-with-audio cards-json review-sets stories validate-stories all clean
+.PHONY: install test validate anki anki-with-audio cards-json mochi review-sets stories validate-stories all clean
 
 PYTHON ?= python3.11
 
@@ -19,6 +19,9 @@ anki-with-audio: validate
 
 cards-json: validate
 	$(PYTHON) build/generate_anki.py --export-json dist/cards.json
+
+mochi: validate
+	$(PYTHON) build/generate_mochi.py
 
 review-sets: validate
 	$(PYTHON) build/generate_review_sets.py --all

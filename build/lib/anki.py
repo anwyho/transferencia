@@ -162,7 +162,9 @@ import re as _re
 from pathlib import Path
 
 _TOPIC_FILE_RE = _re.compile(r"^topic_(\d+)_(\d+)_(.+)\.yml$")
-_BUNDLE_FILE_RE = _re.compile(r"^([a-zñ])_(.+)\.yml$")
+# `nn_…` is the ASCII alias for the Ñ bundle (sorts between n_ and o_).
+_BUNDLE_FILE_RE = _re.compile(r"^(nn|[a-zñ])_(.+)\.yml$")
+_BUNDLE_LETTER_ALIAS = {"nn": "Ñ"}
 
 
 def deck_name_for_card(card: Card) -> str:
@@ -176,7 +178,8 @@ def deck_name_for_card(card: Card) -> str:
     if src.parent.name == "cards":
         m = _BUNDLE_FILE_RE.match(src.name)
         if m:
-            letter = m.group(1).upper()
+            raw = m.group(1)
+            letter = _BUNDLE_LETTER_ALIAS.get(raw, raw.upper())
             theme = m.group(2).replace("_", " ").title()
             return f"Transferencia::Bundle {letter} {theme}"
     if src.parent.name.startswith("lesson_"):
@@ -202,7 +205,7 @@ def build_package(
 ) -> None:
     """Build the .apkg from a list of Card objects.
 
-    `audio_for` maps card.id → media filename (e.g. {"l3-001": "card_l3-001_es.mp3"}).
+    `audio_for` maps card.id → media filename (e.g. {"L3-001": "card_l3-001_es.mp3"}).
     Cards with an entry get a `[sound:...]` reference embedded in the AudioEs field.
 
     `media_paths` is the list of actual file paths to bundle into the .apkg's

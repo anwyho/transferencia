@@ -10,7 +10,7 @@ def test_load_lesson_card_file(fixtures_dir):
     assert len(cards) == 2
 
     c1 = cards[0]
-    assert c1.id == "l99-001"
+    assert c1.id == "L99-001"
     assert c1.type == CardType.TRANSFORMATION
     assert c1.tier == Tier.PRIMARY
     assert c1.lessons == [99]
@@ -27,7 +27,7 @@ def test_load_card_file_with_missing_required_field_raises(tmp_path):
     bad.write_text("""
 lesson: 1
 cards:
-  - id: l1-001
+  - id: L1-001
     type: transformation
     tier: primary
     # missing front_en
@@ -45,7 +45,7 @@ def test_load_card_file_lesson_mismatch_raises(tmp_path):
     bad.write_text("""
 lesson: 1
 cards:
-  - id: l1-001
+  - id: L1-001
     type: transformation
     tier: primary
     front_en: "X"
@@ -85,7 +85,7 @@ def test_sentence_length_cap_l1_10_is_8_words(tmp_path):
     bad.write_text("""
 lesson: 1
 cards:
-  - id: l1-100
+  - id: L1-100
     type: sentence
     tier: primary
     front_en: "This is a very long sentence with way too many words."
@@ -104,7 +104,7 @@ def test_sentence_length_cap_l11_22_is_12_words(tmp_path):
     ok.write_text("""
 lesson: 11
 cards:
-  - id: l11-001
+  - id: L11-001
     type: sentence
     tier: primary
     front_en: "One two three four five six seven eight nine ten eleven twelve."

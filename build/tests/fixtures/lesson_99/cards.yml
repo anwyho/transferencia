@@ -1,7 +1,7 @@
 lesson: 99
 title: "Test fixture lesson"
 cards:
-  - id: l99-001
+  - id: L99-001
     type: transformation
     tier: primary
     front_en: "important"
@@ -10,7 +10,7 @@ cards:
     rule_ref: "L99#1"
     lessons: [99]
     directions: [en_es, es_en]
-  - id: l99-002
+  - id: L99-002
     type: sentence
     tier: primary
     front_en: "It's not different."

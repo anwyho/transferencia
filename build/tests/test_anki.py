@@ -7,7 +7,7 @@ from build.lib.types import Card, CardType, Direction, Tier
 
 def _sample_card(directions=None, tier=Tier.PRIMARY, type_=CardType.TRANSFORMATION):
     return Card(
-        id="l3-001",
+        id="L3-001",
         type=type_,
         tier=tier,
         front_en="important",
@@ -131,7 +131,7 @@ def test_build_package_with_media_files_embeds_audio(tmp_path):
     out = tmp_path / "with_audio.apkg"
     build_package(
         [card], out,
-        audio_for={"l3-001": "card_l3-001_es.mp3"},
+        audio_for={"L3-001": "card_l3-001_es.mp3"},
         media_paths=[fake_audio],
     )
     assert out.exists() and out.stat().st_size > 0
