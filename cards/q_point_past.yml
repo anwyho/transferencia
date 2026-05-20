@@ -544,6 +544,318 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L58-200
+  type: conjugation
+  tier: extended
+  front_en: point-past I form of trabajar
+  back_es: trabajé
+  hint: 'I worked · -é (accent crucial — *trabajo* = I work now)'
+  rule_ref: 'L58#3, L58#4'
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-201
+  type: conjugation
+  tier: extended
+  front_en: point-past she form of trabajar
+  back_es: trabajó
+  hint: he/she worked · -ó
+  rule_ref: 'L58#3'
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-202
+  type: conjugation
+  tier: extended
+  front_en: point-past I form of estudiar
+  back_es: estudié
+  hint: I studied · -é
+  rule_ref: 'L58#3'
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-203
+  type: conjugation
+  tier: extended
+  front_en: point-past she form of estudiar
+  back_es: estudió
+  hint: he/she studied · -ó
+  rule_ref: 'L58#3'
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-204
+  type: conjugation
+  tier: extended
+  front_en: point-past I form of pagar
+  back_es: pagué
+  hint: I paid · gu before é to preserve hard /g/
+  rule_ref: 'L58#3'
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-205
+  type: conjugation
+  tier: extended
+  front_en: point-past I form of llegar
+  back_es: llegué
+  hint: I arrived · gu before é (hard g)
+  rule_ref: 'L58#3'
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-206
+  type: conjugation
+  tier: extended
+  front_en: point-past I form of buscar
+  back_es: busqué
+  hint: I looked for · qu before é (hard c)
+  rule_ref: 'L58#3'
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-207
+  type: conjugation
+  tier: extended
+  front_en: point-past I form of organizar
+  back_es: organicé
+  hint: I organized · z → c before é
+  rule_ref: 'L58#3'
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-208
+  type: conjugation
+  tier: extended
+  front_en: point-past she form of preparar
+  back_es: preparó
+  hint: he/she prepared · -ó
+  rule_ref: 'L58#3'
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-209
+  type: conjugation
+  tier: extended
+  front_en: point-past they form of hablar
+  back_es: hablaron
+  hint: they spoke · -aron
+  rule_ref: 'L58#3'
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-210
+  type: conjugation
+  tier: extended
+  front_en: point-past they form of comprar
+  back_es: compraron
+  hint: they bought · -aron
+  rule_ref: 'L58#3'
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-220
+  type: sentence
+  tier: primary
+  front_en: I spoke yesterday.
+  back_es: Hablé ayer.
+  hint: '*hablé* (past) NOT *hablo* (present)'
+  rule_ref: 'L58#3, L58#13'
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-221
+  type: sentence
+  tier: primary
+  front_en: She spoke yesterday.
+  back_es: Habló ayer.
+  hint: '*habló* (past) NOT *hablo* (I)'
+  rule_ref: 'L58#3, L58#5'
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-222
+  type: sentence
+  tier: primary
+  front_en: 'I didn''t speak.'
+  back_es: No hablé.
+  hint: no + I-past
+  rule_ref: 'L58#5'
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-223
+  type: sentence
+  tier: primary
+  front_en: 'She didn''t speak.'
+  back_es: No habló.
+  hint: no + he/she-past
+  rule_ref: 'L58#3'
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-224
+  type: sentence
+  tier: primary
+  front_en: I bought it for me.
+  back_es: Me lo compró.
+  hint: 'wait — that''s ''''he bought it for me'''''
+  rule_ref: 'L58#7'
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-225
+  type: sentence
+  tier: primary
+  front_en: He bought it for me (emphasized).
+  back_es: Lo compró para mí.
+  hint: para mí for emphasis · drop me
+  rule_ref: 'L58#7'
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-226
+  type: sentence
+  tier: primary
+  front_en: It was sent yesterday.
+  back_es: Se envió ayer.
+  hint: 'passive *se* — no *lo* needed'
+  rule_ref: 'L58#11, L58#13'
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-227
+  type: sentence
+  tier: primary
+  front_en: 'I haven''t sent it to you yet.'
+  back_es: No te lo envié todavía.
+  hint: no + te + lo + verb + todavía
+  rule_ref: 'L58#9, L58#10'
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-228
+  type: sentence
+  tier: extended
+  front_en: He spoke with me.
+  back_es: Habló conmigo.
+  hint: '*conmigo* = with me (one word)'
+  rule_ref: 'L58#3'
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-229
+  type: sentence
+  tier: extended
+  front_en: I was going to do it but I forgot.
+  back_es: Lo iba a hacer pero lo olvidé.
+  hint: line-past + point-past mix
+  rule_ref: 'L58#15, L58#16'
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-240
+  type: sentence
+  tier: extended
+  front_en: He explained the problem.
+  back_es: Explicó el problema.
+  hint: 'explicó (-ar past) · *el problema* (-ma masc)'
+  rule_ref: 'L58#3'
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-241
+  type: sentence
+  tier: extended
+  front_en: I called my mother.
+  back_es: Llamé a mi madre.
+  hint: 'personal *a* before person · *llamé* I called'
+  rule_ref: 'L58#3'
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-242
+  type: sentence
+  tier: extended
+  front_en: I arrived late.
+  back_es: Llegué tarde.
+  hint: '*llegué* with gu (hard g before é)'
+  rule_ref: 'L58#3'
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-243
+  type: sentence
+  tier: extended
+  front_en: She helped me.
+  back_es: Me ayudó.
+  hint: me + ayudó (-ó past)
+  rule_ref: 'L58#3'
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-244
+  type: sentence
+  tier: extended
+  front_en: They worked a lot yesterday.
+  back_es: Trabajaron mucho ayer.
+  hint: '-aron (they) + ayer'
+  rule_ref: 'L58#3'
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
 - id: L59-001
   type: conjugation
   tier: primary
@@ -1268,6 +1580,294 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L59-200
+  type: conjugation
+  tier: extended
+  front_en: point-past I form of vender
+  back_es: vendí
+  hint: I sold · -í (accent on i)
+  rule_ref: 'L59#2'
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-201
+  type: conjugation
+  tier: extended
+  front_en: point-past she form of vender
+  back_es: vendió
+  hint: he/she sold · -ió
+  rule_ref: 'L59#2'
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-202
+  type: conjugation
+  tier: extended
+  front_en: point-past I form of perder
+  back_es: perdí
+  hint: I lost · -í (no e→ie split in past)
+  rule_ref: 'L59#2'
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-203
+  type: conjugation
+  tier: extended
+  front_en: point-past she form of perder
+  back_es: perdió
+  hint: he/she lost · -ió
+  rule_ref: 'L59#2'
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-204
+  type: conjugation
+  tier: extended
+  front_en: point-past I form of recibir
+  back_es: recibí
+  hint: I received · -í
+  rule_ref: 'L59#2'
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-205
+  type: conjugation
+  tier: extended
+  front_en: point-past she form of recibir
+  back_es: recibió
+  hint: he/she received · -ió
+  rule_ref: 'L59#2'
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-206
+  type: conjugation
+  tier: extended
+  front_en: point-past I form of decidir
+  back_es: decidí
+  hint: I decided · -í
+  rule_ref: 'L59#2'
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-207
+  type: conjugation
+  tier: extended
+  front_en: point-past they form of vivir
+  back_es: vivieron
+  hint: they lived · -ieron
+  rule_ref: 'L59#2'
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-208
+  type: conjugation
+  tier: extended
+  front_en: point-past they form of comer
+  back_es: comieron
+  hint: they ate · -ieron
+  rule_ref: 'L59#2'
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-209
+  type: conjugation
+  tier: extended
+  front_en: point-past I form of escribir
+  back_es: escribí
+  hint: I wrote · -í
+  rule_ref: 'L59#2'
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-210
+  type: conjugation
+  tier: extended
+  front_en: point-past I form of aprender
+  back_es: aprendí
+  hint: I learned · -í
+  rule_ref: 'L59#2'
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-220
+  type: sentence
+  tier: primary
+  front_en: I ate too much.
+  back_es: Comí mucho.
+  hint: comí (I ate) · accent on i
+  rule_ref: 'L59#2'
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-221
+  type: sentence
+  tier: primary
+  front_en: He ate more than I (did).
+  back_es: Comió más que yo.
+  hint: 'after que use *yo* NOT *mí*'
+  rule_ref: 'L59#6, L59#7'
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-222
+  type: sentence
+  tier: primary
+  front_en: 'I saw him, but he didn''t see me.'
+  back_es: Lo vi, pero no me vio.
+  hint: 'vi/vio (from *ver*) · object pronouns before verb'
+  rule_ref: 'L59#8, L59#9'
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-223
+  type: sentence
+  tier: primary
+  front_en: 'I didn''t see anything.'
+  back_es: No vi nada.
+  hint: 'double negative · *nada* AFTER verb'
+  rule_ref: 'L59#10'
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-224
+  type: sentence
+  tier: primary
+  front_en: Nobody saw anything.
+  back_es: Nadie vio nada.
+  hint: 'nadie + nada · no *no* needed when nadie leads'
+  rule_ref: 'L59#10, L59#11'
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-225
+  type: sentence
+  tier: primary
+  front_en: He spoke for half an hour.
+  back_es: Habló durante media hora.
+  hint: '*durante* = for (time)'
+  rule_ref: 'L59#13, L59#14'
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-226
+  type: sentence
+  tier: primary
+  front_en: He spoke for half an hour without stopping.
+  back_es: Habló durante media hora sin parar.
+  hint: '*sin* + to-form (NOT -ing)'
+  rule_ref: 'L59#15, L59#16'
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-227
+  type: sentence
+  tier: extended
+  front_en: I lost my keys.
+  back_es: Perdí las llaves.
+  hint: perdí (-er point-past)
+  rule_ref: 'L59#2'
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-228
+  type: sentence
+  tier: extended
+  front_en: 'She didn''t decide yet.'
+  back_es: No decidió todavía.
+  hint: decidió (-ir → -ió)
+  rule_ref: 'L59#2'
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-229
+  type: sentence
+  tier: extended
+  front_en: 'Why didn''t you (formal) eat anything?'
+  back_es: ¿Por qué no comió nada?
+  hint: por qué + double negative
+  rule_ref: 'L59#10'
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-240
+  type: sentence
+  tier: extended
+  front_en: I wrote it.
+  back_es: Lo escribí.
+  hint: '*lo* before *escribí*'
+  rule_ref: 'L59#2'
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-241
+  type: sentence
+  tier: extended
+  front_en: 'He didn''t understand anything.'
+  back_es: No entendió nada.
+  hint: entendió (-er past) + nada
+  rule_ref: 'L59#2, L59#10'
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-242
+  type: sentence
+  tier: extended
+  front_en: She learned Spanish.
+  back_es: Aprendió español.
+  hint: aprendió (-er past)
+  rule_ref: 'L59#2'
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
 - id: L60-001
   type: conjugation
   tier: primary
@@ -1758,6 +2358,174 @@ cards:
   back_es: Esperamos que sí.
   hint: idiomatic *que sí* tail
   rule_ref: L60#3
+  lessons:
+  - 60
+  directions:
+  - en_es
+  - es_en
+- id: L60-200
+  type: sentence
+  tier: primary
+  front_en: We spoke yesterday.
+  back_es: Hablamos ayer.
+  hint: '*hablamos* same as present · *ayer* anchors past'
+  rule_ref: 'L60#3, L60#8'
+  lessons:
+  - 60
+  directions:
+  - en_es
+  - es_en
+- id: L60-201
+  type: sentence
+  tier: primary
+  front_en: 'We''ll speak tomorrow.'
+  back_es: Hablamos mañana.
+  hint: 'same *hablamos* · *mañana* makes it future'
+  rule_ref: 'L60#9'
+  lessons:
+  - 60
+  directions:
+  - en_es
+  - es_en
+- id: L60-202
+  type: sentence
+  tier: primary
+  front_en: When we spoke, I understood everything.
+  back_es: Cuando hablamos, comprendí todo.
+  hint: comprendí signals hablamos = past
+  rule_ref: 'L60#10'
+  lessons:
+  - 60
+  directions:
+  - en_es
+  - es_en
+- id: L60-203
+  type: sentence
+  tier: primary
+  front_en: We ate yesterday.
+  back_es: Comimos ayer.
+  hint: '*comimos* (past) — differs from *comemos* (present)!'
+  rule_ref: 'L60#5, L60#6'
+  lessons:
+  - 60
+  directions:
+  - en_es
+  - es_en
+- id: L60-204
+  type: sentence
+  tier: primary
+  front_en: We eat (right now).
+  back_es: Comemos.
+  hint: '-emos = present · contrast with *comimos*'
+  rule_ref: 'L60#5'
+  lessons:
+  - 60
+  directions:
+  - en_es
+  - es_en
+- id: L60-205
+  type: sentence
+  tier: primary
+  front_en: 'We didn''t eat.'
+  back_es: No comimos.
+  hint: '-er point-past we-form'
+  rule_ref: 'L60#5'
+  lessons:
+  - 60
+  directions:
+  - en_es
+  - es_en
+- id: L60-206
+  type: sentence
+  tier: primary
+  front_en: We saw it.
+  back_es: Lo vimos.
+  hint: '*vimos* (we saw) NOT *vemos* (we see)'
+  rule_ref: 'L60#7'
+  lessons:
+  - 60
+  directions:
+  - en_es
+  - es_en
+- id: L60-207
+  type: sentence
+  tier: primary
+  front_en: We lost.
+  back_es: Perdimos.
+  hint: '*perdimos* (past) vs *perdemos* (present)'
+  rule_ref: 'L60#7'
+  lessons:
+  - 60
+  directions:
+  - en_es
+  - es_en
+- id: L60-208
+  type: sentence
+  tier: primary
+  front_en: We got lost.
+  back_es: Nos perdimos.
+  hint: reflexive + point-past
+  rule_ref: 'L60#14'
+  lessons:
+  - 60
+  directions:
+  - en_es
+  - es_en
+- id: L60-209
+  type: sentence
+  tier: primary
+  front_en: We always get lost.
+  back_es: Siempre nos perdemos.
+  hint: 'present (now) — *siempre* signals habitual'
+  rule_ref: 'L60#15'
+  lessons:
+  - 60
+  directions:
+  - en_es
+  - es_en
+- id: L60-210
+  type: sentence
+  tier: primary
+  front_en: 'We didn''t get lost yesterday.'
+  back_es: No nos perdimos ayer.
+  hint: 'negation + reflexive past · *ayer* anchors'
+  rule_ref: 'L60#14'
+  lessons:
+  - 60
+  directions:
+  - en_es
+  - es_en
+- id: L60-211
+  type: sentence
+  tier: primary
+  front_en: 'We don''t go out often, but we went out yesterday.'
+  back_es: No salimos a menudo, pero salimos ayer.
+  hint: '*salimos* covers both present + past · context decides'
+  rule_ref: 'L60#4, L60#16'
+  lessons:
+  - 60
+  directions:
+  - en_es
+  - es_en
+- id: L60-212
+  type: sentence
+  tier: extended
+  front_en: We waited a lot yesterday.
+  back_es: Esperamos mucho ayer.
+  hint: esperamos = waited (point-past) · -ar same as present
+  rule_ref: 'L60#3, L60#8'
+  lessons:
+  - 60
+  directions:
+  - en_es
+  - es_en
+- id: L60-213
+  type: sentence
+  tier: extended
+  front_en: We lived there for many years.
+  back_es: Vivimos allí durante muchos años.
+  hint: '*vivimos* covers both tenses · *durante* = for'
+  rule_ref: 'L60#4'
   lessons:
   - 60
   directions:
