@@ -351,6 +351,353 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L4-200
+  type: transformation
+  tier: primary
+  front_en: urgent
+  back_es: urgente
+  hint: '-ent → -ente'
+  rule_ref: 'L3#1'
+  lessons:
+  - 3
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-201
+  type: transformation
+  tier: primary
+  front_en: urgently
+  back_es: urgentemente
+  hint: '-ent → -ente · then + -mente'
+  rule_ref: 'L3#1, L3#3'
+  lessons:
+  - 3
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-202
+  type: transformation
+  tier: primary
+  front_en: I love you (very serious)
+  back_es: te amo
+  hint: stronger than te quiero
+  rule_ref: 'L4#1'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-203
+  type: transformation
+  tier: primary
+  front_en: opinion
+  back_es: opinión
+  hint: '-ion → -ión · /o-pi-NIÓN/'
+  rule_ref: 'L4#4'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-204
+  type: transformation
+  tier: primary
+  front_en: conversation
+  back_es: conversación
+  hint: 'con + versación · ''with verses'''
+  rule_ref: 'L4#5, L4#12'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-205
+  type: transformation
+  tier: primary
+  front_en: confrontation
+  back_es: confrontación
+  hint: 'con + frente — ''with the forehead'''
+  rule_ref: 'L4#5, L4#12'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-206
+  type: transformation
+  tier: primary
+  front_en: forehead / front
+  back_es: frente
+  hint: hook for con-frontación
+  rule_ref: 'L4#12'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-207
+  type: transformation
+  tier: extended
+  front_en: confirmation (not confermación)
+  back_es: confirmación
+  hint: 'positive transfer · don''t drag English ''confirm'' in'
+  rule_ref: 'L4#10, L4#5'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-210
+  type: transformation
+  tier: extended
+  front_en: investigation
+  back_es: investigación
+  hint: '-tion → -ción'
+  rule_ref: 'L4#5'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-211
+  type: transformation
+  tier: extended
+  front_en: to investigate
+  back_es: investigar
+  hint: '-ación → -ar'
+  rule_ref: 'L4#9'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-212
+  type: transformation
+  tier: extended
+  front_en: communication
+  back_es: comunicación
+  hint: '-tion → -ción'
+  rule_ref: 'L4#5'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-213
+  type: transformation
+  tier: extended
+  front_en: to communicate
+  back_es: comunicar
+  hint: '-ación → -ar'
+  rule_ref: 'L4#9'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-214
+  type: transformation
+  tier: extended
+  front_en: declaration
+  back_es: declaración
+  hint: '-tion → -ción'
+  rule_ref: 'L4#5'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-215
+  type: transformation
+  tier: extended
+  front_en: to declare
+  back_es: declarar
+  hint: '-ación → -ar'
+  rule_ref: 'L4#9'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-216
+  type: transformation
+  tier: extended
+  front_en: dedication
+  back_es: dedicación
+  hint: '-tion → -ción'
+  rule_ref: 'L4#5'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-217
+  type: transformation
+  tier: extended
+  front_en: to dedicate
+  back_es: dedicar
+  hint: '-ación → -ar'
+  rule_ref: 'L4#9'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-218
+  type: transformation
+  tier: extended
+  front_en: operation
+  back_es: operación
+  hint: '-tion → -ción'
+  rule_ref: 'L4#5'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-219
+  type: transformation
+  tier: extended
+  front_en: to operate
+  back_es: operar
+  hint: '-ación → -ar'
+  rule_ref: 'L4#9'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-220
+  type: transformation
+  tier: extended
+  front_en: cooperation
+  back_es: cooperación
+  hint: '-tion → -ción'
+  rule_ref: 'L4#5'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-221
+  type: transformation
+  tier: extended
+  front_en: to cooperate
+  back_es: cooperar
+  hint: '-ación → -ar'
+  rule_ref: 'L4#9'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-222
+  type: transformation
+  tier: extended
+  front_en: coordination
+  back_es: coordinación
+  hint: '-tion → -ción'
+  rule_ref: 'L4#5'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-223
+  type: transformation
+  tier: extended
+  front_en: to coordinate
+  back_es: coordinar
+  hint: '-ación → -ar'
+  rule_ref: 'L4#9'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-224
+  type: transformation
+  tier: extended
+  front_en: relation
+  back_es: relación
+  hint: '-tion → -ción'
+  rule_ref: 'L4#5'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-225
+  type: transformation
+  tier: extended
+  front_en: to relate
+  back_es: relacionar
+  hint: '-ación → -ar'
+  rule_ref: 'L4#9'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-230
+  type: transformation
+  tier: extended
+  front_en: to dominate
+  back_es: dominar
+  hint: '-ación → -ar (dominación)'
+  rule_ref: 'L4#9'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-231
+  type: transformation
+  tier: extended
+  front_en: to ignore
+  back_es: ignorar
+  hint: '-ación → -ar (ignorancia · no -ción cousin)'
+  rule_ref: 'L4#9'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-240
+  type: sentence
+  tier: extended
+  front_en: I want to investigate.
+  back_es: Quiero investigar.
+  rule_ref: 'L4#2, L4#9'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-241
+  type: sentence
+  tier: extended
+  front_en: 'I don''t want to declare.'
+  back_es: No quiero declarar.
+  rule_ref: 'L4#3, L4#9'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
+- id: L4-242
+  type: sentence
+  tier: extended
+  front_en: I want to cooperate.
+  back_es: Quiero cooperar.
+  rule_ref: 'L4#2, L4#9'
+  lessons:
+  - 4
+  directions:
+  - en_es
+  - es_en
 - id: L5-001
   type: transformation
   tier: primary
@@ -722,6 +1069,342 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L5-200
+  type: transformation
+  tier: primary
+  front_en: celebration
+  back_es: celebración
+  hint: '-tion → -ción'
+  rule_ref: 'L4#5'
+  lessons:
+  - 4
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: L5-201
+  type: transformation
+  tier: primary
+  front_en: light
+  back_es: luz
+  hint: z = /s/ for most · root of ilustrar
+  rule_ref: 'L4#7'
+  lessons:
+  - 4
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: L5-202
+  type: transformation
+  tier: primary
+  front_en: information
+  back_es: información
+  hint: '-tion → -ción'
+  rule_ref: 'L4#5'
+  lessons:
+  - 4
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: L5-203
+  type: transformation
+  tier: primary
+  front_en: to inform myself / to find out
+  back_es: informarme
+  hint: informar + me
+  rule_ref: 'L5#4, L5#5'
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: L5-204
+  type: transformation
+  tier: primary
+  front_en: obligation
+  back_es: obligación
+  hint: '-tion → -ción'
+  rule_ref: 'L4#5'
+  lessons:
+  - 4
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: L5-205
+  type: transformation
+  tier: primary
+  front_en: to regulate
+  back_es: regular
+  hint: rolled r at start · -ación → -ar
+  rule_ref: 'L4#9, L5#8'
+  lessons:
+  - 4
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: L5-206
+  type: transformation
+  tier: primary
+  front_en: salvation
+  back_es: salvación
+  hint: '-tion → -ción · soft v'
+  rule_ref: 'L4#5'
+  lessons:
+  - 4
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: L5-207
+  type: transformation
+  tier: primary
+  front_en: situation
+  back_es: situación
+  hint: '-tion → -ción'
+  rule_ref: 'L4#5'
+  lessons:
+  - 4
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: L5-208
+  type: transformation
+  tier: primary
+  front_en: participation
+  back_es: participación
+  hint: syllable by syllable · par-ti-ci-pa-CIÓN
+  rule_ref: 'L4#5, L5#12'
+  lessons:
+  - 4
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: L5-209
+  type: transformation
+  tier: primary
+  front_en: creation
+  back_es: creación
+  hint: '-tion → -ción · go the long way'
+  rule_ref: 'L4#5, L5#13'
+  lessons:
+  - 4
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: L5-210
+  type: transformation
+  tier: extended
+  front_en: experimentation
+  back_es: experimentación
+  hint: '-tion → -ción'
+  rule_ref: 'L4#5'
+  lessons:
+  - 4
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: L5-211
+  type: transformation
+  tier: extended
+  front_en: experiment (noun)
+  back_es: experimento
+  hint: '-o ending · vs experiencia'
+  rule_ref: 'L5#11'
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: L5-212
+  type: transformation
+  tier: extended
+  front_en: incongruence
+  back_es: incongruencia
+  hint: '-ence → -encia'
+  rule_ref: 'L5#10'
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: L5-220
+  type: sentence
+  tier: primary
+  front_en: 'I don''t want.'
+  back_es: Yo no quiero.
+  hint: yo before no · matches English order
+  rule_ref: 'L5#1, L5#2'
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: L5-221
+  type: sentence
+  tier: extended
+  front_en: 'I don''t want to cancel.'
+  back_es: Yo no quiero cancelar.
+  hint: yo-no-quiero order
+  rule_ref: 'L5#2, L5#1'
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: L5-222
+  type: transformation
+  tier: extended
+  front_en: real
+  back_es: real
+  hint: rolled r at start · relaxed mouth
+  rule_ref: 'L5#7, L5#8'
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: L5-223
+  type: transformation
+  tier: extended
+  front_en: hour (silent h preview)
+  back_es: hora
+  hint: word-initial h is silent — full rule in L6
+  rule_ref: 'L5#9'
+  lessons:
+  - 5
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: L5-230
+  type: transformation
+  tier: extended
+  front_en: instance
+  back_es: instancia
+  hint: '-ance → -ancia'
+  rule_ref: 'L5#10'
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: L5-231
+  type: transformation
+  tier: extended
+  front_en: circumstance
+  back_es: circunstancia
+  hint: '-ance → -ancia · note circun-'
+  rule_ref: 'L5#10'
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: L5-232
+  type: transformation
+  tier: extended
+  front_en: presence
+  back_es: presencia
+  hint: '-ence → -encia'
+  rule_ref: 'L5#10'
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: L5-233
+  type: transformation
+  tier: extended
+  front_en: absence
+  back_es: ausencia
+  hint: '-ence → -encia · ab- → au-'
+  rule_ref: 'L5#10'
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: L5-234
+  type: transformation
+  tier: extended
+  front_en: reference
+  back_es: referencia
+  hint: '-ence → -encia'
+  rule_ref: 'L5#10'
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: L5-235
+  type: transformation
+  tier: extended
+  front_en: intelligence
+  back_es: inteligencia
+  hint: '-ence → -encia · single l'
+  rule_ref: 'L5#10'
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: L5-236
+  type: transformation
+  tier: extended
+  front_en: frequency
+  back_es: frecuencia
+  hint: '-ency → -encia · qu → cu'
+  rule_ref: 'L5#10'
+  lessons:
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: L5-250
+  type: sentence
+  tier: extended
+  front_en: I want to find out.
+  back_es: Quiero informarme.
+  hint: 'literally ''inform myself'''
+  rule_ref: 'L4#2, L5#4, L5#5'
+  lessons:
+  - 4
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: L5-251
+  type: sentence
+  tier: extended
+  front_en: I want to save him.
+  back_es: Quiero salvarlo.
+  rule_ref: 'L4#2, L5#6, L5#5'
+  lessons:
+  - 4
+  - 5
+  directions:
+  - en_es
+  - es_en
+- id: L5-252
+  type: sentence
+  tier: extended
+  front_en: I want to regulate it.
+  back_es: Quiero regularlo.
+  rule_ref: 'L4#2, L5#6, L5#5'
+  lessons:
+  - 4
+  - 5
+  directions:
+  - en_es
+  - es_en
 - id: L6-001
   type: transformation
   tier: primary
@@ -1018,6 +1701,165 @@ cards:
   rule_ref: L2#9, L2#7, L6#13
   lessons:
   - 2
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: L6-200
+  type: transformation
+  tier: primary
+  front_en: imitation
+  back_es: imitación
+  hint: '-tion → -ción'
+  rule_ref: 'L4#5'
+  lessons:
+  - 4
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: L6-201
+  type: transformation
+  tier: primary
+  front_en: hospital
+  back_es: hospital
+  hint: silent h · /os-pi-TAL/
+  rule_ref: 'L6#4'
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: L6-202
+  type: transformation
+  tier: primary
+  front_en: habitual
+  back_es: habitual
+  hint: silent h · /a-bi-TUAL/
+  rule_ref: 'L6#4'
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: L6-203
+  type: transformation
+  tier: primary
+  front_en: viral
+  back_es: viral
+  hint: '-al stays · soft v'
+  rule_ref: 'L2#2, L6#10'
+  lessons:
+  - 2
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: L6-204
+  type: transformation
+  tier: primary
+  front_en: virus
+  back_es: virus
+  hint: same as English · clean /s/ · soft v
+  rule_ref: 'L6#10, L6#13'
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: L6-210
+  type: transformation
+  tier: extended
+  front_en: hotel
+  back_es: hotel
+  hint: silent h · /o-TEL/
+  rule_ref: 'L6#4'
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: L6-211
+  type: transformation
+  tier: extended
+  front_en: habit
+  back_es: hábito
+  hint: silent h · stress HÁ-bi-to
+  rule_ref: 'L6#4'
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: L6-212
+  type: transformation
+  tier: extended
+  front_en: human
+  back_es: humano
+  hint: silent h · /u-MA-no/
+  rule_ref: 'L6#4'
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: L6-213
+  type: transformation
+  tier: extended
+  front_en: honor
+  back_es: honor
+  hint: silent h · /o-NOR/
+  rule_ref: 'L6#4'
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: L6-214
+  type: transformation
+  tier: extended
+  front_en: chocolate
+  back_es: chocolate
+  hint: ch = English /ch/ · only time h has sound
+  rule_ref: 'L6#5'
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: L6-215
+  type: transformation
+  tier: extended
+  front_en: visible (soft b on v)
+  back_es: visible
+  hint: no air-burst on the v · /vi-SI-ble/
+  rule_ref: 'L6#10, L6#11, L6#13'
+  lessons:
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: L6-220
+  type: sentence
+  tier: extended
+  front_en: 'I''m trying to imitate.'
+  back_es: Intento imitar.
+  rule_ref: 'L6#1, L4#9'
+  lessons:
+  - 4
+  - 6
+  directions:
+  - en_es
+  - es_en
+- id: L6-221
+  type: sentence
+  tier: extended
+  front_en: I want to visit the hospital.
+  back_es: Quiero visitar el hospital.
+  hint: silent h on hospital
+  rule_ref: 'L4#2, L6#4, L6#14'
+  lessons:
+  - 4
   - 6
   directions:
   - en_es
@@ -1376,6 +2218,200 @@ cards:
   hint: both motion verbs — both need a
   rule_ref: L7#2, L7#13, L7#15
   lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: L7-200
+  type: transformation
+  tier: primary
+  front_en: continuation
+  back_es: continuación
+  hint: '-tion → -ción · ''carry on'' cousin'
+  rule_ref: 'L4#5, L7#1'
+  lessons:
+  - 4
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: L7-201
+  type: transformation
+  tier: primary
+  front_en: demonstration
+  back_es: demostración
+  hint: '-tion → -ción · no n in Spanish'
+  rule_ref: 'L4#5, L7#5'
+  lessons:
+  - 4
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: L7-202
+  type: transformation
+  tier: primary
+  front_en: formal
+  back_es: formal
+  hint: '-al stays'
+  rule_ref: 'L2#2'
+  lessons:
+  - 2
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: L7-203
+  type: sentence
+  tier: primary
+  front_en: 'I''m going to demonstrate.'
+  back_es: Voy a demostrar.
+  rule_ref: 'L7#2, L7#3, L7#4'
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: L7-204
+  type: sentence
+  tier: primary
+  front_en: 'I''m going to show you.'
+  back_es: Voy a mostrarte.
+  hint: voy a + mostrar + te
+  rule_ref: 'L7#2, L7#3, L7#4, L7#8'
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: L7-205
+  type: sentence
+  tier: primary
+  front_en: 'I''m going to visit him.'
+  back_es: Voy a visitarlo.
+  rule_ref: 'L7#2, L7#4'
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: L7-206
+  type: sentence
+  tier: primary
+  front_en: 'I''m going to investigate it.'
+  back_es: Voy a investigarlo.
+  hint: voy a + investigar + lo
+  rule_ref: 'L7#2, L7#4, L5#6'
+  lessons:
+  - 5
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: L7-207
+  type: sentence
+  tier: extended
+  front_en: Going to pass by to visit him.
+  back_es: Voy a pasar a visitarlo.
+  hint: both motion verbs — both need a
+  rule_ref: 'L7#13, L7#15, L7#16'
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: L7-208
+  type: sentence
+  tier: extended
+  front_en: 'I''m going to try to see them.'
+  back_es: Voy a intentar verlos.
+  hint: intentar not motion · no extra a
+  rule_ref: 'L7#10, L7#12, L7#16'
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: L7-209
+  type: sentence
+  tier: extended
+  front_en: 'I''m going to celebrate.'
+  back_es: Voy a celebrar.
+  rule_ref: 'L7#2, L7#4'
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: L7-210
+  type: sentence
+  tier: extended
+  front_en: 'I''m going to prepare.'
+  back_es: Voy a preparar.
+  rule_ref: 'L7#2, L7#4'
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: L7-211
+  type: sentence
+  tier: extended
+  front_en: 'I''m going to inform myself.'
+  back_es: Voy a informarme.
+  hint: voy a + informar + me
+  rule_ref: 'L7#2, L7#4, L5#4'
+  lessons:
+  - 5
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: L7-212
+  type: sentence
+  tier: extended
+  front_en: I want to see them now.
+  back_es: Quiero verlos ahora.
+  hint: no a — quiero is not motion
+  rule_ref: 'L7#9, L7#10, L6#7'
+  lessons:
+  - 6
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: L7-213
+  type: sentence
+  tier: extended
+  front_en: 'I''m passing by to see them.'
+  back_es: Voy a pasar a verlos.
+  hint: pasar is motion · second a needed
+  rule_ref: 'L7#13, L7#15, L7#9'
+  lessons:
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: L7-214
+  type: sentence
+  tier: extended
+  front_en: 'I''m going to coordinate it.'
+  back_es: Voy a coordinarlo.
+  rule_ref: 'L7#2, L7#4, L5#6'
+  lessons:
+  - 5
+  - 7
+  directions:
+  - en_es
+  - es_en
+- id: L7-215
+  type: sentence
+  tier: extended
+  front_en: 'I''m going to continue it.'
+  back_es: Voy a continuarlo.
+  rule_ref: 'L7#2, L7#4, L5#6'
+  lessons:
+  - 5
   - 7
   directions:
   - en_es

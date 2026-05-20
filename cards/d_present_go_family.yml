@@ -233,6 +233,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L11-020
+  type: transformation
+  tier: primary
+  front_en: to tolerate
+  back_es: tolerar
+  hint: '-ar verb · cf. *tolero* (I tolerate)'
+  rule_ref: 'L11#1'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
 - id: L11-021
   type: sentence
   tier: primary
@@ -514,6 +526,354 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L11-044
+  type: transformation
+  tier: primary
+  front_en: to eliminate / to delete
+  back_es: eliminar
+  hint: '-ar verb · -tion noun → *eliminación*'
+  rule_ref: 'L11#1, L11#13'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-045
+  type: transformation
+  tier: primary
+  front_en: to chew
+  back_es: masticar
+  hint: '-ar verb · cf. mastication'
+  rule_ref: 'L11#1, L11#13'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-046
+  type: transformation
+  tier: primary
+  front_en: chewing / mastication
+  back_es: masticación
+  hint: '-tion → -ción · cf. *masticar*'
+  rule_ref: 'L11#13'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-047
+  type: transformation
+  tier: primary
+  front_en: to last
+  back_es: durar
+  hint: '-ar verb · cf. *duración*'
+  rule_ref: 'L11#1, L11#13'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-048
+  type: transformation
+  tier: extended
+  front_en: to tweet
+  back_es: tuitear
+  hint: '-ar verb · all new verbs come in -ar'
+  rule_ref: 'L11#1'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-049
+  type: transformation
+  tier: extended
+  front_en: to use Facebook
+  back_es: facebookear
+  hint: '-ar verb · borrowed and -ar''d'
+  rule_ref: 'L11#1'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-050
+  type: transformation
+  tier: extended
+  front_en: to google
+  back_es: googlear
+  hint: '-ar verb · borrowed and -ar''d'
+  rule_ref: 'L11#1'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-051
+  type: transformation
+  tier: primary
+  front_en: to travel
+  back_es: viajar
+  hint: '-ar verb · /j/=/kh/ throaty'
+  rule_ref: 'L11#1'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-052
+  type: transformation
+  tier: primary
+  front_en: I travel
+  back_es: viajo
+  hint: viajar → ... · -ar + -o for I
+  rule_ref: 'L11#2'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-053
+  type: transformation
+  tier: primary
+  front_en: she travels
+  back_es: viaja
+  hint: viajar → ... · -ar key vowel /a/
+  rule_ref: 'L11#4'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-054
+  type: transformation
+  tier: primary
+  front_en: to work
+  back_es: trabajar
+  hint: '-ar verb · /j/=/kh/'
+  rule_ref: 'L11#1'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-055
+  type: transformation
+  tier: primary
+  front_en: I work
+  back_es: trabajo
+  hint: trabajar → ... · /tra-BA-kho/
+  rule_ref: 'L11#2'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-056
+  type: transformation
+  tier: primary
+  front_en: they work
+  back_es: trabajan
+  hint: trabaja + n
+  rule_ref: 'L11#5'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-057
+  type: transformation
+  tier: primary
+  front_en: to dance
+  back_es: bailar
+  hint: '-ar verb · -ar + -o → *bailo*'
+  rule_ref: 'L11#1'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-058
+  type: transformation
+  tier: primary
+  front_en: I dance
+  back_es: bailo
+  hint: bailar → ...
+  rule_ref: 'L11#2'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-059
+  type: transformation
+  tier: primary
+  front_en: to call
+  back_es: llamar
+  hint: '-ar verb · *ll* = /y/'
+  rule_ref: 'L11#1'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-060
+  type: transformation
+  tier: primary
+  front_en: she calls
+  back_es: llama
+  hint: 'llamar → ... · *ll* = /y/'
+  rule_ref: 'L11#4'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-061
+  type: transformation
+  tier: primary
+  front_en: to pay
+  back_es: pagar
+  hint: '-ar verb · cf. *page* (a bill)'
+  rule_ref: 'L11#1'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-062
+  type: transformation
+  tier: primary
+  front_en: I pay
+  back_es: pago
+  hint: pagar → ...
+  rule_ref: 'L11#2'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-063
+  type: transformation
+  tier: extended
+  front_en: to teach
+  back_es: enseñar
+  hint: '-ar verb · *ñ* with the tilde'
+  rule_ref: 'L11#1'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-064
+  type: transformation
+  tier: extended
+  front_en: she teaches
+  back_es: enseña
+  hint: enseñar → ... · /en-SE-nya/
+  rule_ref: 'L11#4'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-065
+  type: transformation
+  tier: extended
+  front_en: to ask (a question)
+  back_es: preguntar
+  hint: '-ar verb · cf. *pregunta* = question'
+  rule_ref: 'L11#1'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-066
+  type: transformation
+  tier: extended
+  front_en: they ask
+  back_es: preguntan
+  hint: pregunta + n
+  rule_ref: 'L11#5'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-067
+  type: transformation
+  tier: extended
+  front_en: to answer
+  back_es: contestar
+  hint: '-ar verb · cf. *contest* / replying'
+  rule_ref: 'L11#1'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-068
+  type: transformation
+  tier: extended
+  front_en: you answer
+  back_es: contestas
+  hint: contesta + s · informal you
+  rule_ref: 'L11#5'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-069
+  type: sentence
+  tier: primary
+  front_en: They work with Pablo.
+  back_es: Trabajan con Pablo.
+  hint: '*trabajan* = they work'
+  rule_ref: 'L11#5'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-070
+  type: sentence
+  tier: primary
+  front_en: I want to travel.
+  back_es: Quiero viajar.
+  hint: '*quiero* + to-form'
+  rule_ref: 'L11#1'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-071
+  type: sentence
+  tier: primary
+  front_en: 'I''m going to call him.'
+  back_es: Voy a llamarlo.
+  hint: '*-lo* on the to-form · *ll* = /y/'
+  rule_ref: 'L11#8, L11#10'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-072
+  type: sentence
+  tier: primary
+  front_en: I must pay it.
+  back_es: Debo pagarlo.
+  hint: '*debo* + *-lo* on to-form'
+  rule_ref: 'L11#10'
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
 - id: L12-001
   type: transformation
   tier: primary
@@ -607,6 +967,19 @@ cards:
   hint: come + s · informal
   rule_ref: L12#3, L12#4
   lessons:
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-009
+  type: transformation
+  tier: primary
+  front_en: to eat
+  back_es: comer
+  hint: '-er verb · also = *how* (como)'
+  rule_ref: 'L11#1, L12#4'
+  lessons:
+  - 11
   - 12
   directions:
   - en_es
@@ -998,6 +1371,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L12-042
+  type: transformation
+  tier: primary
+  front_en: opinion
+  back_es: opinión
+  hint: '-ión feminine · *la opinión*'
+  rule_ref: 'L12#11'
+  lessons:
+  - 12
+  directions:
+  - en_es
+  - es_en
 - id: L12-043
   type: transformation
   tier: extended
@@ -1183,6 +1568,246 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L12-058
+  type: transformation
+  tier: primary
+  front_en: to learn
+  back_es: aprender
+  hint: '-er verb · cf. *apprehend*'
+  rule_ref: 'L11#1, L12#4'
+  lessons:
+  - 11
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-059
+  type: transformation
+  tier: primary
+  front_en: I learn
+  back_es: aprendo
+  hint: aprender → ... · -er + -o for I
+  rule_ref: 'L11#2, L12#4'
+  lessons:
+  - 11
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-060
+  type: transformation
+  tier: primary
+  front_en: she learns
+  back_es: aprende
+  hint: aprender → ... · -er key vowel /e/
+  rule_ref: 'L12#4'
+  lessons:
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-061
+  type: transformation
+  tier: primary
+  front_en: to drink
+  back_es: beber
+  hint: '-er verb · /b/ both times'
+  rule_ref: 'L11#1, L12#4'
+  lessons:
+  - 11
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-062
+  type: transformation
+  tier: primary
+  front_en: they drink
+  back_es: beben
+  hint: bebe + n
+  rule_ref: 'L12#2, L12#4'
+  lessons:
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-063
+  type: transformation
+  tier: primary
+  front_en: to write
+  back_es: escribir
+  hint: '-ir verb · cf. *scribe*'
+  rule_ref: 'L11#1, L12#4'
+  lessons:
+  - 11
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-064
+  type: transformation
+  tier: primary
+  front_en: she writes
+  back_es: escribe
+  hint: escribir → ... · -ir uses /e/ too
+  rule_ref: 'L12#4'
+  lessons:
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-065
+  type: transformation
+  tier: primary
+  front_en: to decide
+  back_es: decidir
+  hint: '-ir verb · cf. *decide*'
+  rule_ref: 'L11#1, L12#4'
+  lessons:
+  - 11
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-066
+  type: transformation
+  tier: primary
+  front_en: you decide
+  back_es: decides
+  hint: decide + s · informal you
+  rule_ref: 'L12#3, L12#4'
+  lessons:
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-067
+  type: transformation
+  tier: extended
+  front_en: to receive
+  back_es: recibir
+  hint: '-ir verb · cf. *receive*'
+  rule_ref: 'L11#1, L12#4'
+  lessons:
+  - 11
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-068
+  type: transformation
+  tier: extended
+  front_en: they receive
+  back_es: reciben
+  hint: recibe + n
+  rule_ref: 'L12#2, L12#4'
+  lessons:
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-069
+  type: transformation
+  tier: extended
+  front_en: to live
+  back_es: vivir
+  hint: '-ir verb · cf. *vivid* / alive'
+  rule_ref: 'L11#1, L12#4'
+  lessons:
+  - 11
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-070
+  type: transformation
+  tier: extended
+  front_en: I live
+  back_es: vivo
+  hint: vivir → ... · -ir + -o for I
+  rule_ref: 'L11#2, L12#4'
+  lessons:
+  - 11
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-071
+  type: sentence
+  tier: primary
+  front_en: He eats with Pablo.
+  back_es: Come con Pablo.
+  hint: '*come* = he eats · -er key vowel /e/'
+  rule_ref: 'L12#4'
+  lessons:
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-072
+  type: sentence
+  tier: primary
+  front_en: 'I''m writing it.'
+  back_es: Lo escribo.
+  hint: '*lo* before *escribo* · -ir + -o'
+  rule_ref: 'L11#9, L12#4'
+  lessons:
+  - 11
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-073
+  type: sentence
+  tier: primary
+  front_en: 'They''re learning it.'
+  back_es: Lo aprenden.
+  hint: 'aprende + n · *lo* before verb'
+  rule_ref: 'L11#9, L12#2'
+  lessons:
+  - 11
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-074
+  type: sentence
+  tier: extended
+  front_en: I want to decide.
+  back_es: Quiero decidir.
+  hint: '*quiero* + to-form · -ir verb'
+  rule_ref: 'L11#1'
+  lessons:
+  - 11
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-075
+  type: sentence
+  tier: extended
+  front_en: 'I''m not selling the house.'
+  back_es: No vendo la casa.
+  hint: '*la casa* feminine · no + verb'
+  rule_ref: 'L12#7, L2#9'
+  lessons:
+  - 2
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-076
+  type: sentence
+  tier: extended
+  front_en: 'Why don''t they write to us?'
+  back_es: ¿Por qué no nos escriben?
+  hint: 'no + nos + *escriben* (they write)'
+  rule_ref: 'L12#19, L12#20'
+  lessons:
+  - 12
+  directions:
+  - en_es
+  - es_en
 - id: L13-001
   type: conjugation
   tier: primary
@@ -1271,6 +1896,28 @@ cards:
   - 13
   directions:
   - en_es
+- id: L13-009
+  type: conjugation
+  tier: primary
+  front_en: I form of tener
+  back_es: tengo
+  hint: '-go family · I have'
+  rule_ref: 'L13#9'
+  lessons:
+  - 13
+  directions:
+  - en_es
+- id: L13-010
+  type: conjugation
+  tier: primary
+  front_en: I form of venir
+  back_es: vengo
+  hint: '-go family · I''m coming'
+  rule_ref: 'L13#9'
+  lessons:
+  - 13
+  directions:
+  - en_es
 - id: L13-011
   type: conjugation
   tier: primary
@@ -1335,6 +1982,30 @@ cards:
   back_es: salir
   hint: -ir verb · irregular *salgo*
   rule_ref: L13#1, L13#9
+  lessons:
+  - 13
+  directions:
+  - en_es
+  - es_en
+- id: L13-017
+  type: transformation
+  tier: primary
+  front_en: to have
+  back_es: tener
+  hint: '-er verb · irregular I-form *tengo*'
+  rule_ref: 'L13#1, L13#9'
+  lessons:
+  - 13
+  directions:
+  - en_es
+  - es_en
+- id: L13-018
+  type: transformation
+  tier: primary
+  front_en: to come
+  back_es: venir
+  hint: '-ir verb · irregular I-form *vengo*'
+  rule_ref: 'L13#1, L13#9'
   lessons:
   - 13
   directions:
@@ -1695,6 +2366,17 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L13-048
+  type: conjugation
+  tier: extended
+  front_en: they form of salir
+  back_es: salen
+  hint: 'to leave · regular -ir · only *salgo* is odd'
+  rule_ref: 'L13#9'
+  lessons:
+  - 13
+  directions:
+  - en_es
 - id: L13-049
   type: sentence
   tier: extended
@@ -1714,6 +2396,169 @@ cards:
   back_es: Tengo una casa.
   hint: '*tengo* (-go) · *una* fem. indefinite'
   rule_ref: L13#9, L12#10
+  lessons:
+  - 12
+  - 13
+  directions:
+  - en_es
+  - es_en
+- id: L13-051
+  type: conjugation
+  tier: extended
+  front_en: you (informal) form of salir
+  back_es: sales
+  hint: 'sale + s · regular outside *salgo*'
+  rule_ref: 'L13#3, L13#9'
+  lessons:
+  - 13
+  directions:
+  - en_es
+- id: L13-052
+  type: transformation
+  tier: primary
+  front_en: she arrives
+  back_es: llega
+  hint: llegar → llega · key vowel /a/
+  rule_ref: 'L11#4, L13#8'
+  lessons:
+  - 11
+  - 13
+  directions:
+  - en_es
+  - es_en
+- id: L13-053
+  type: transformation
+  tier: primary
+  front_en: they buy
+  back_es: compran
+  hint: compra + n · -ar key vowel /a/
+  rule_ref: 'L11#5, L13#8'
+  lessons:
+  - 11
+  - 13
+  directions:
+  - en_es
+  - es_en
+- id: L13-054
+  type: transformation
+  tier: extended
+  front_en: you (informal) buy
+  back_es: compras
+  hint: compra + s · informal you
+  rule_ref: 'L11#5, L13#8'
+  lessons:
+  - 11
+  - 13
+  directions:
+  - en_es
+  - es_en
+- id: L13-055
+  type: sentence
+  tier: primary
+  front_en: 'I''m trying to do it.'
+  back_es: Intento hacerlo.
+  hint: '*intento* + *hacerlo* · -lo on to-form'
+  rule_ref: 'L11#10, L13#2'
+  lessons:
+  - 11
+  - 13
+  directions:
+  - en_es
+  - es_en
+- id: L13-056
+  type: sentence
+  tier: primary
+  front_en: I can do it.
+  back_es: Puedo hacerlo.
+  hint: '*puedo* + *hacerlo* · no *a*'
+  rule_ref: 'L13#5, L13#6, L11#10'
+  lessons:
+  - 11
+  - 13
+  directions:
+  - en_es
+  - es_en
+- id: L13-057
+  type: sentence
+  tier: primary
+  front_en: 'I''m coming with Pablo.'
+  back_es: Vengo con Pablo.
+  hint: '*vengo* = I come (-go family)'
+  rule_ref: 'L13#9'
+  lessons:
+  - 13
+  directions:
+  - en_es
+  - es_en
+- id: L13-058
+  type: sentence
+  tier: primary
+  front_en: 'I''m leaving with Pablo.'
+  back_es: Salgo con Pablo.
+  hint: '*salgo* = I leave (-go family)'
+  rule_ref: 'L13#9'
+  lessons:
+  - 13
+  directions:
+  - en_es
+  - es_en
+- id: L13-059
+  type: sentence
+  tier: primary
+  front_en: What is he doing?
+  back_es: ¿Qué hace?
+  hint: '*qué* + *hace* · drop subject'
+  rule_ref: 'L13#2'
+  lessons:
+  - 13
+  directions:
+  - en_es
+  - es_en
+- id: L13-060
+  type: sentence
+  tier: extended
+  front_en: He waits for me tomorrow.
+  back_es: Me espera mañana.
+  hint: '*me* before *espera* · no word for *for*'
+  rule_ref: 'L13#12, L13#13'
+  lessons:
+  - 13
+  directions:
+  - en_es
+  - es_en
+- id: L13-061
+  type: sentence
+  tier: extended
+  front_en: Can you do it?
+  back_es: ¿Puedes hacerlo?
+  hint: '*puedes* + *hacerlo*'
+  rule_ref: 'L13#3, L13#5, L11#10'
+  lessons:
+  - 11
+  - 13
+  directions:
+  - en_es
+  - es_en
+- id: L13-062
+  type: sentence
+  tier: extended
+  front_en: I have an opinion.
+  back_es: Tengo una opinión.
+  hint: '*tengo* (-go) · *una* fem. for *opinión*'
+  rule_ref: 'L13#9, L12#11'
+  lessons:
+  - 12
+  - 13
+  directions:
+  - en_es
+  - es_en
+- id: L13-063
+  type: sentence
+  tier: extended
+  front_en: 'Why aren''t you coming?'
+  back_es: ¿Por qué no vienes?
+  hint: '*vienes* = you come (informal)'
+  rule_ref: 'L12#20, L13#3'
   lessons:
   - 12
   - 13

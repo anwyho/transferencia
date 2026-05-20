@@ -639,6 +639,163 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L8-200
+  type: transformation
+  tier: extended
+  front_en: convenient
+  back_es: conveniente
+  hint: '*con + veniente* = with-coming · -ent → -ente'
+  rule_ref: 'L8#11, L3#1'
+  lessons:
+  - 3
+  - 8
+  directions:
+  - en_es
+  - es_en
+- id: L8-201
+  type: sentence
+  tier: extended
+  front_en: I must come.
+  back_es: Debo venir.
+  hint: '*debo* + -r form of *venir*'
+  rule_ref: 'L8#15, L8#11'
+  lessons:
+  - 8
+  directions:
+  - en_es
+  - es_en
+- id: L8-202
+  type: sentence
+  tier: extended
+  front_en: I must come home.
+  back_es: Debo venir a la casa.
+  hint: 'motion verb · extra *a*'
+  rule_ref: 'L8#15, L8#14'
+  lessons:
+  - 8
+  directions:
+  - en_es
+  - es_en
+- id: L8-203
+  type: sentence
+  tier: extended
+  front_en: She must visit her.
+  back_es: Debe visitarla.
+  hint: '*debe* = he/she must · same -o → -e swap'
+  rule_ref: 'L8#4, L8#15, L8#6'
+  lessons:
+  - 8
+  directions:
+  - en_es
+  - es_en
+- id: L8-204
+  type: transformation
+  tier: extended
+  front_en: he/she must · you (formal) must
+  back_es: debe
+  hint: 'swap -o → -e · same banding as *quiere*'
+  rule_ref: 'L8#4, L8#15'
+  lessons:
+  - 8
+  directions:
+  - en_es
+  - es_en
+- id: L8-205
+  type: sentence
+  tier: extended
+  front_en: 'He doesn''t want to come home.'
+  back_es: No quiere venir a la casa.
+  rule_ref: 'L8#4, L8#14, L2#9'
+  lessons:
+  - 2
+  - 8
+  directions:
+  - en_es
+  - es_en
+- id: L8-206
+  type: sentence
+  tier: extended
+  front_en: 'Why doesn''t she want to come?'
+  back_es: ¿Por qué no quiere venir?
+  hint: composite · por qué + no + quiere venir
+  rule_ref: 'L8#10, L8#11, L8#9'
+  lessons:
+  - 8
+  directions:
+  - en_es
+  - es_en
+- id: L8-207
+  type: sentence
+  tier: extended
+  front_en: Why not come visit me?
+  back_es: ¿Por qué no venir a visitarme?
+  hint: stacked · por qué + venir a + verb
+  rule_ref: 'L8#10, L8#14'
+  lessons:
+  - 8
+  directions:
+  - en_es
+  - es_en
+- id: L8-208
+  type: sentence
+  tier: extended
+  front_en: I want to identify her.
+  back_es: Quiero identificarla.
+  hint: 'stick *la* on -r'
+  rule_ref: 'L8#6'
+  lessons:
+  - 8
+  directions:
+  - en_es
+  - es_en
+- id: L8-209
+  type: sentence
+  tier: extended
+  front_en: Do you want to identify them (fem)?
+  back_es: ¿Quiere identificarlas?
+  hint: 'raise voice · *las* on -r'
+  rule_ref: 'L8#8, L8#16'
+  lessons:
+  - 8
+  directions:
+  - en_es
+  - es_en
+- id: L8-210
+  type: sentence
+  tier: extended
+  front_en: Yes, welcome (to a woman).
+  back_es: Sí, bienvenida.
+  hint: feminine -a
+  rule_ref: 'L8#1, L8#11'
+  lessons:
+  - 8
+  directions:
+  - en_es
+  - es_en
+- id: L8-211
+  type: sentence
+  tier: extended
+  front_en: I owe.
+  back_es: Debo.
+  hint: '*debo* on its own = I owe'
+  rule_ref: 'L8#15'
+  lessons:
+  - 8
+  directions:
+  - en_es
+  - es_en
+- id: L8-212
+  type: sentence
+  tier: extended
+  front_en: 'She doesn''t want to visit them (fem).'
+  back_es: No quiere visitarlas.
+  rule_ref: 'L8#4, L8#16, L2#9'
+  lessons:
+  - 2
+  - 8
+  directions:
+  - en_es
+  - es_en
 - id: L9-001
   type: transformation
   tier: primary
@@ -1204,6 +1361,211 @@ cards:
   lessons:
   - 8
   - 9
+  directions:
+  - en_es
+  - es_en
+- id: L9-200
+  type: sentence
+  tier: extended
+  front_en: I want to know why.
+  back_es: Quiero saber por qué.
+  hint: 'block: quiero saber + por qué'
+  rule_ref: 'L9#4, L8#10'
+  lessons:
+  - 8
+  - 9
+  directions:
+  - en_es
+  - es_en
+- id: L9-201
+  type: sentence
+  tier: extended
+  front_en: He wants to know if I come.
+  back_es: Quiere saber si vengo.
+  hint: 'stitch: quiere + saber + si + vengo'
+  rule_ref: 'L9#4, L9#3, L10#12'
+  lessons:
+  - 9
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L9-202
+  type: sentence
+  tier: extended
+  front_en: She wants to know if I want.
+  back_es: Quiere saber si quiero.
+  hint: stitch · quiere + saber + si + quiero
+  rule_ref: 'L9#4, L9#3'
+  lessons:
+  - 9
+  directions:
+  - en_es
+  - es_en
+- id: L9-203
+  type: sentence
+  tier: extended
+  front_en: 'I don''t know.'
+  back_es: No sé.
+  hint: '*sé* (I know) with accent · /seh/'
+  rule_ref: 'L9#1, L2#9'
+  lessons:
+  - 2
+  - 9
+  directions:
+  - en_es
+  - es_en
+- id: L9-204
+  type: transformation
+  tier: extended
+  front_en: I know
+  back_es: sé
+  hint: 'irregular I-form of *saber* · accent distinguishes from *se*'
+  rule_ref: 'L9#1'
+  lessons:
+  - 9
+  directions:
+  - en_es
+  - es_en
+- id: L9-205
+  type: sentence
+  tier: extended
+  front_en: Yes, I know.
+  back_es: Sí, sé.
+  hint: two accents · sí (yes) + sé (I know)
+  rule_ref: 'L9#3, L9#1'
+  lessons:
+  - 9
+  directions:
+  - en_es
+  - es_en
+- id: L9-206
+  type: sentence
+  tier: extended
+  front_en: 'I don''t want to imagine her.'
+  back_es: No quiero imaginarla.
+  hint: '*la* on -r'
+  rule_ref: 'L9#2, L8#6, L2#9'
+  lessons:
+  - 2
+  - 8
+  - 9
+  directions:
+  - en_es
+  - es_en
+- id: L9-207
+  type: sentence
+  tier: extended
+  front_en: I want to inform him.
+  back_es: Quiero informarlo.
+  hint: '*lo* on -r'
+  rule_ref: 'L9#2, L8#6'
+  lessons:
+  - 8
+  - 9
+  directions:
+  - en_es
+  - es_en
+- id: L9-208
+  type: transformation
+  tier: extended
+  front_en: to inform him / it
+  back_es: informarlo
+  hint: 'stick *lo* on -r'
+  rule_ref: 'L8#6'
+  lessons:
+  - 8
+  - 9
+  directions:
+  - en_es
+  - es_en
+- id: L9-209
+  type: sentence
+  tier: extended
+  front_en: He wants to justify himself.
+  back_es: Quiere justificarse.
+  hint: 'reflexive *-se* = himself · third-person of *-me*'
+  rule_ref: 'L9#11, L8#4'
+  lessons:
+  - 8
+  - 9
+  directions:
+  - en_es
+  - es_en
+- id: L9-210
+  type: sentence
+  tier: extended
+  front_en: I want to explain something to you.
+  back_es: Quiero explicarte algo.
+  hint: 'no *to* needed'
+  rule_ref: 'L9#13'
+  lessons:
+  - 9
+  directions:
+  - en_es
+  - es_en
+- id: L9-211
+  type: sentence
+  tier: extended
+  front_en: Not trying to justify myself, but explaining.
+  back_es: No intento justificarme, pero explico.
+  hint: '*intento* + *pero* + I-form *explico*'
+  rule_ref: 'L9#11, L9#15, L10#3'
+  lessons:
+  - 9
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L9-212
+  type: sentence
+  tier: extended
+  front_en: I want to know if she knows why.
+  back_es: Quiero saber si sabe por qué.
+  hint: stack · saber + si + sabe + por qué
+  rule_ref: 'L9#4, L8#10'
+  lessons:
+  - 8
+  - 9
+  directions:
+  - en_es
+  - es_en
+- id: L9-213
+  type: transformation
+  tier: extended
+  front_en: he/she knows · you (formal) know
+  back_es: sabe
+  hint: 'swap -o → -e from *saber* stem'
+  rule_ref: 'L9#1, L8#4'
+  lessons:
+  - 8
+  - 9
+  directions:
+  - en_es
+  - es_en
+- id: L9-214
+  type: sentence
+  tier: extended
+  front_en: If she wants to come, yes.
+  back_es: Si quiere venir, sí.
+  hint: '*si* (if) opens · *sí* (yes) closes'
+  rule_ref: 'L9#3, L8#11'
+  lessons:
+  - 8
+  - 9
+  directions:
+  - en_es
+  - es_en
+- id: L9-215
+  type: sentence
+  tier: extended
+  front_en: I want to start it later.
+  back_es: Quiero iniciarlo más tarde.
+  hint: iniciarlo + más tarde
+  rule_ref: 'L9#10, L10#9'
+  lessons:
+  - 9
+  - 10
   directions:
   - en_es
   - es_en
@@ -1809,6 +2171,386 @@ cards:
   rule_ref: L10#8, L10#10, L8#6
   lessons:
   - 8
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-200
+  type: transformation
+  tier: extended
+  front_en: to ventilate
+  back_es: ventilar
+  hint: '-ate → -ar'
+  rule_ref: 'L10#1'
+  lessons:
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-201
+  type: transformation
+  tier: extended
+  front_en: to try
+  back_es: intentar
+  hint: '-tion cousin: *intención*'
+  rule_ref: 'L10#1, L4#9'
+  lessons:
+  - 4
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-202
+  type: transformation
+  tier: extended
+  front_en: to segregate
+  back_es: segregar
+  hint: '-ate → -ar'
+  rule_ref: 'L10#1'
+  lessons:
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-203
+  type: transformation
+  tier: extended
+  front_en: to simulate
+  back_es: simular
+  hint: '-ate → -ar'
+  rule_ref: 'L10#1'
+  lessons:
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-204
+  type: transformation
+  tier: extended
+  front_en: to reveal
+  back_es: revelar
+  hint: '-eal → -elar (revelation hook)'
+  rule_ref: 'L10#1'
+  lessons:
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-205
+  type: transformation
+  tier: extended
+  front_en: to create
+  back_es: crear
+  hint: 'long route: creation → creación → crear'
+  rule_ref: 'L10#1, L5#13'
+  lessons:
+  - 5
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-206
+  type: transformation
+  tier: extended
+  front_en: signature
+  back_es: firma
+  hint: 'fem · cousin of *confirmar* (con + firma)'
+  rule_ref: 'L10#10, L4#12'
+  lessons:
+  - 4
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-207
+  type: transformation
+  tier: extended
+  front_en: to abstain
+  back_es: abstener
+  hint: '-tain → -tener'
+  rule_ref: 'L10#10'
+  lessons:
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-208
+  type: conjugation
+  tier: extended
+  front_en: I form of ventilar
+  back_es: ventilo
+  hint: to ventilate · chop -ar, add -o
+  rule_ref: 'L10#3'
+  lessons:
+  - 10
+  directions:
+  - en_es
+- id: L10-209
+  type: conjugation
+  tier: extended
+  front_en: I form of separar
+  back_es: separo
+  hint: to separate · chop -ar, add -o
+  rule_ref: 'L10#3'
+  lessons:
+  - 10
+  directions:
+  - en_es
+- id: L10-210
+  type: conjugation
+  tier: extended
+  front_en: I form of respirar
+  back_es: respiro
+  hint: to breathe · chop -ar, add -o
+  rule_ref: 'L10#3'
+  lessons:
+  - 10
+  directions:
+  - en_es
+- id: L10-211
+  type: conjugation
+  tier: extended
+  front_en: I form of simular
+  back_es: simulo
+  hint: to simulate · chop -ar, add -o
+  rule_ref: 'L10#3'
+  lessons:
+  - 10
+  directions:
+  - en_es
+- id: L10-212
+  type: conjugation
+  tier: extended
+  front_en: I form of revelar
+  back_es: revelo
+  hint: to reveal · chop -ar, add -o
+  rule_ref: 'L10#3'
+  lessons:
+  - 10
+  directions:
+  - en_es
+- id: L10-213
+  type: conjugation
+  tier: extended
+  front_en: I form of segregar
+  back_es: segrego
+  hint: to segregate · chop -ar, add -o
+  rule_ref: 'L10#3'
+  lessons:
+  - 10
+  directions:
+  - en_es
+- id: L10-214
+  type: conjugation
+  tier: extended
+  front_en: I form of saber
+  back_es: sé
+  hint: 'irregular · not *sabo* · accent vs reflexive *se*'
+  rule_ref: 'L10#6, L9#1'
+  lessons:
+  - 9
+  - 10
+  directions:
+  - en_es
+- id: L10-215
+  type: conjugation
+  tier: extended
+  front_en: I form of entretener
+  back_es: entretengo
+  hint: 'to entertain · follows *tengo* · -go family'
+  rule_ref: 'L10#11, L10#10'
+  lessons:
+  - 10
+  directions:
+  - en_es
+- id: L10-216
+  type: conjugation
+  tier: extended
+  front_en: I form of sostener
+  back_es: sostengo
+  hint: 'to sustain · follows *tengo* · -go family'
+  rule_ref: 'L10#11, L10#10'
+  lessons:
+  - 10
+  directions:
+  - en_es
+- id: L10-217
+  type: conjugation
+  tier: extended
+  front_en: I form of detener
+  back_es: detengo
+  hint: 'to detain · follows *tengo* · -go family'
+  rule_ref: 'L10#11, L10#10'
+  lessons:
+  - 10
+  directions:
+  - en_es
+- id: L10-218
+  type: sentence
+  tier: extended
+  front_en: I have to invite them.
+  back_es: Debo invitarlos.
+  hint: '*debo* = I must · *los* on -r'
+  rule_ref: 'L8#15, L8#16'
+  lessons:
+  - 8
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-219
+  type: sentence
+  tier: extended
+  front_en: 'I don''t know if I have it.'
+  back_es: No sé si lo tengo.
+  hint: no sé + si + lo tengo · two irregulars
+  rule_ref: 'L9#1, L9#3, L10#11, L8#6'
+  lessons:
+  - 8
+  - 9
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-220
+  type: sentence
+  tier: extended
+  front_en: 'I''m coming home tomorrow.'
+  back_es: Vengo a la casa mañana.
+  hint: '*vengo* irregular · motion *a* + *mañana*'
+  rule_ref: 'L10#12, L8#14, L10#7'
+  lessons:
+  - 8
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-221
+  type: sentence
+  tier: extended
+  front_en: I have to come tomorrow.
+  back_es: Debo venir mañana.
+  hint: '*debo* + *venir* + *mañana*'
+  rule_ref: 'L8#15, L8#11, L10#7'
+  lessons:
+  - 8
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-222
+  type: sentence
+  tier: extended
+  front_en: I have it later.
+  back_es: Lo tengo más tarde.
+  hint: '*lo* fronts · *tengo* irregular'
+  rule_ref: 'L10#11, L10#9, L8#6'
+  lessons:
+  - 8
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-223
+  type: sentence
+  tier: extended
+  front_en: I want to know if she comes.
+  back_es: Quiero saber si viene.
+  hint: '*viene* = he/she comes · -o → -e'
+  rule_ref: 'L9#4, L8#4, L8#11'
+  lessons:
+  - 8
+  - 9
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-224
+  type: transformation
+  tier: extended
+  front_en: he/she comes · you (formal) come
+  back_es: viene
+  hint: 'swap -o → -e from *vengo* family'
+  rule_ref: 'L8#4, L10#12'
+  lessons:
+  - 8
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-225
+  type: sentence
+  tier: extended
+  front_en: 'I don''t try.'
+  back_es: No intento.
+  hint: '*intento* I-form · *no* in front'
+  rule_ref: 'L10#3, L2#9'
+  lessons:
+  - 2
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-226
+  type: sentence
+  tier: extended
+  front_en: 'I''m going to try tomorrow.'
+  back_es: Voy a intentar mañana.
+  hint: '*voy a* + -r form · with mañana'
+  rule_ref: 'L10#8, L10#7'
+  lessons:
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-227
+  type: sentence
+  tier: extended
+  front_en: I want to entertain them.
+  back_es: Quiero entretenerlos.
+  hint: '-tain → -tener · *los* on -r'
+  rule_ref: 'L10#10, L8#16'
+  lessons:
+  - 8
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-228
+  type: sentence
+  tier: extended
+  front_en: 'I''m going to maintain the house.'
+  back_es: Voy a mantener la casa.
+  hint: 'voy a + -tener · *la casa*'
+  rule_ref: 'L10#8, L10#10, L8#12'
+  lessons:
+  - 8
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-229
+  type: sentence
+  tier: extended
+  front_en: 'I don''t have the signature.'
+  back_es: No tengo la firma.
+  hint: '*tengo* + *la firma* (fem)'
+  rule_ref: 'L10#11, L8#12, L2#9'
+  lessons:
+  - 2
+  - 8
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-230
+  type: sentence
+  tier: extended
+  front_en: I organize tomorrow.
+  back_es: Organizo mañana.
+  hint: 'plain present + *mañana* = future · /th/ or /s/ on z'
+  rule_ref: 'L10#3, L10#7, L10#14'
+  lessons:
   - 10
   directions:
   - en_es

@@ -432,6 +432,271 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L14-200
+  type: transformation
+  tier: primary
+  front_en: to want
+  back_es: querer
+  hint: 'infinitive · *quiero* / *quiere* / *quieren* / *quieres*'
+  rule_ref: 'L14#3'
+  lessons:
+  - 14
+  directions:
+  - en_es
+  - es_en
+- id: L14-201
+  type: transformation
+  tier: primary
+  front_en: to invite
+  back_es: invitar
+  hint: '-ar regular · *invitarlo* = to invite him'
+  rule_ref: 'L14#20'
+  lessons:
+  - 14
+  directions:
+  - en_es
+  - es_en
+- id: L14-202
+  type: transformation
+  tier: primary
+  front_en: to leave / go out
+  back_es: salir
+  hint: '-ir · -go family in I form (*salgo*)'
+  rule_ref: 'L14#8'
+  lessons:
+  - 14
+  directions:
+  - en_es
+  - es_en
+- id: L14-203
+  type: transformation
+  tier: primary
+  front_en: to have (possess)
+  back_es: tener
+  hint: 'infinitive · *tengo* / *tiene* / *tienen* / *tienes*'
+  rule_ref: 'L14#11'
+  lessons:
+  - 14
+  directions:
+  - en_es
+  - es_en
+- id: L14-204
+  type: transformation
+  tier: primary
+  front_en: to put
+  back_es: poner
+  hint: 'infinitive · -pose family base · *pongo*'
+  rule_ref: 'L14#13'
+  lessons:
+  - 14
+  directions:
+  - en_es
+  - es_en
+- id: L14-205
+  type: transformation
+  tier: primary
+  front_en: to do / to make
+  back_es: hacer
+  hint: 'silent h · *tengo que hacerlo*'
+  rule_ref: 'L14#12'
+  lessons:
+  - 14
+  directions:
+  - en_es
+  - es_en
+- id: L14-206
+  type: conjugation
+  tier: primary
+  front_en: she form of saber
+  back_es: sabe
+  hint: regular · he/she/usted knows
+  rule_ref: 'L14#2'
+  lessons:
+  - 14
+  directions:
+  - en_es
+- id: L14-207
+  type: conjugation
+  tier: primary
+  front_en: you (informal) form of saber
+  back_es: sabes
+  hint: regular -s ending
+  rule_ref: 'L14#2'
+  lessons:
+  - 14
+  directions:
+  - en_es
+- id: L14-208
+  type: conjugation
+  tier: primary
+  front_en: they form of saber
+  back_es: saben
+  hint: regular -n ending
+  rule_ref: 'L14#2'
+  lessons:
+  - 14
+  directions:
+  - en_es
+- id: L14-209
+  type: conjugation
+  tier: primary
+  front_en: I form of salir
+  back_es: salgo
+  hint: '-go family · *salgo a comer*'
+  rule_ref: 'L14#8, L14#10'
+  lessons:
+  - 14
+  directions:
+  - en_es
+- id: L14-210
+  type: conjugation
+  tier: primary
+  front_en: she form of salir
+  back_es: sale
+  hint: regular · he/she/usted leaves
+  rule_ref: 'L14#8'
+  lessons:
+  - 14
+  directions:
+  - en_es
+- id: L14-211
+  type: conjugation
+  tier: primary
+  front_en: you (informal) form of salir
+  back_es: sales
+  hint: regular -s
+  rule_ref: 'L14#8'
+  lessons:
+  - 14
+  directions:
+  - en_es
+- id: L14-213
+  type: conjugation
+  tier: primary
+  front_en: I form of tener
+  back_es: tengo
+  hint: '-go family · no split (ng holds the e)'
+  rule_ref: 'L14#11'
+  lessons:
+  - 14
+  directions:
+  - en_es
+- id: L14-214
+  type: conjugation
+  tier: primary
+  front_en: she form of tener
+  back_es: tiene
+  hint: e → ie split · he/she/usted has
+  rule_ref: 'L14#11'
+  lessons:
+  - 14
+  directions:
+  - en_es
+- id: L14-215
+  type: conjugation
+  tier: primary
+  front_en: you (informal) form of tener
+  back_es: tienes
+  hint: e → ie split + -s
+  rule_ref: 'L14#11'
+  lessons:
+  - 14
+  directions:
+  - en_es
+- id: L14-217
+  type: sentence
+  tier: primary
+  front_en: I have to invite him.
+  back_es: Tengo que invitarlo.
+  hint: 'spine + *invitar* + *lo*'
+  rule_ref: 'L14#12'
+  lessons:
+  - 14
+  directions:
+  - en_es
+  - es_en
+- id: L14-218
+  type: sentence
+  tier: primary
+  front_en: 'I''m going out later.'
+  back_es: Salgo más tarde.
+  hint: '*salgo* + *más tarde*'
+  rule_ref: 'L14#8'
+  lessons:
+  - 14
+  directions:
+  - en_es
+  - es_en
+- id: L14-219
+  type: sentence
+  tier: primary
+  front_en: I oppose it.
+  back_es: Lo opongo.
+  hint: '*oponer* → *opongo* · -pose + -go'
+  rule_ref: 'L14#13'
+  lessons:
+  - 14
+  directions:
+  - en_es
+  - es_en
+- id: L14-220
+  type: sentence
+  tier: primary
+  front_en: I put it.
+  back_es: Lo pongo.
+  hint: '*poner* → *pongo*'
+  rule_ref: 'L14#13'
+  lessons:
+  - 14
+  directions:
+  - en_es
+  - es_en
+- id: L14-221
+  type: sentence
+  tier: primary
+  front_en: He has to come now.
+  back_es: Tiene que venir ahora.
+  hint: 'spine ''he'' form: *tiene que*'
+  rule_ref: 'L14#11, L14#12'
+  lessons:
+  - 14
+  directions:
+  - en_es
+  - es_en
+- id: L14-222
+  type: sentence
+  tier: extended
+  front_en: I suppose he wants to.
+  back_es: Supongo que quiere.
+  hint: '*que* = that · *quiere* covers ''he wants'''
+  rule_ref: 'L14#14'
+  lessons:
+  - 14
+  directions:
+  - en_es
+  - es_en
+- id: L14-229
+  type: conjugation
+  tier: primary
+  front_en: I form of venir
+  back_es: vengo
+  hint: '-go family · no split (ng holds the e)'
+  rule_ref: 'L14#10, L14#15'
+  lessons:
+  - 14
+  directions:
+  - en_es
+- id: L14-230
+  type: conjugation
+  tier: primary
+  front_en: she form of venir
+  back_es: viene
+  hint: e → ie split · he/she/usted comes
+  rule_ref: 'L14#15'
+  lessons:
+  - 14
+  directions:
+  - en_es
 - id: L15-001
   type: conjugation
   tier: primary
@@ -863,6 +1128,76 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L15-200
+  type: transformation
+  tier: primary
+  front_en: what happened (past)
+  back_es: qué pasó
+  hint: 'stress on the LAST *o* = past · *qué pasa* = present'
+  rule_ref: 'L15#1'
+  lessons:
+  - 15
+  directions:
+  - en_es
+  - es_en
+- id: L15-201
+  type: transformation
+  tier: primary
+  front_en: to come
+  back_es: venir
+  hint: 'infinitive · *vengo* / *viene* / *vienen* / *vienes*'
+  rule_ref: 'L15#7'
+  lessons:
+  - 15
+  directions:
+  - en_es
+  - es_en
+- id: L15-202
+  type: transformation
+  tier: primary
+  front_en: to understand (regular, no split)
+  back_es: comprender
+  hint: '*comprendo* — keeps the e · less common than *entender*'
+  rule_ref: 'L15#14'
+  lessons:
+  - 15
+  directions:
+  - en_es
+  - es_en
+- id: L15-203
+  type: transformation
+  tier: primary
+  front_en: to want (infinitive)
+  back_es: querer
+  hint: 'splits to *quiero* when stressed'
+  rule_ref: 'L15#5'
+  lessons:
+  - 15
+  directions:
+  - en_es
+  - es_en
+- id: L15-204
+  type: conjugation
+  tier: primary
+  front_en: she form of entender
+  back_es: entiende
+  hint: e → ie · he/she/usted understands
+  rule_ref: 'L15#13'
+  lessons:
+  - 15
+  directions:
+  - en_es
+- id: L15-209
+  type: conjugation
+  tier: extended
+  front_en: you (informal) form of perder
+  back_es: pierdes
+  hint: e → ie · -s for tú
+  rule_ref: 'L15#15'
+  lessons:
+  - 15
+  directions:
+  - en_es
 - id: L16-001
   type: transformation
   tier: primary
@@ -1260,6 +1595,135 @@ cards:
   rule_ref: L16#11
   lessons:
   - 14
+  - 16
+  directions:
+  - en_es
+  - es_en
+- id: L16-200
+  type: conjugation
+  tier: primary
+  front_en: she form of empezar
+  back_es: empieza
+  hint: e → ie · he/she/usted starts
+  rule_ref: 'L16#2'
+  lessons:
+  - 16
+  directions:
+  - en_es
+- id: L16-201
+  type: conjugation
+  tier: primary
+  front_en: they form of empezar
+  back_es: empiezan
+  hint: e → ie · -n for plural
+  rule_ref: 'L16#2'
+  lessons:
+  - 16
+  directions:
+  - en_es
+- id: L16-203
+  type: transformation
+  tier: primary
+  front_en: to show
+  back_es: mostrar
+  hint: 'infinitive · strip *de-* from *demostrar*'
+  rule_ref: 'L16#13'
+  lessons:
+  - 16
+  directions:
+  - en_es
+  - es_en
+- id: L16-204
+  type: transformation
+  tier: primary
+  front_en: to demonstrate
+  back_es: demostrar
+  hint: '*de-* (of) + *mostrar*'
+  rule_ref: 'L16#13'
+  lessons:
+  - 16
+  directions:
+  - en_es
+  - es_en
+- id: L16-205
+  type: conjugation
+  tier: primary
+  front_en: they form of mostrar
+  back_es: muestran
+  hint: o → ue · they show
+  rule_ref: 'L16#13'
+  lessons:
+  - 16
+  directions:
+  - en_es
+- id: L16-206
+  type: conjugation
+  tier: primary
+  front_en: she form of encontrar
+  back_es: encuentra
+  hint: o → ue · he/she/usted finds
+  rule_ref: 'L16#11'
+  lessons:
+  - 16
+  directions:
+  - en_es
+- id: L16-207
+  type: conjugation
+  tier: primary
+  front_en: they form of encontrar
+  back_es: encuentran
+  hint: o → ue · they find
+  rule_ref: 'L16#11'
+  lessons:
+  - 16
+  directions:
+  - en_es
+- id: L16-210
+  type: sentence
+  tier: primary
+  front_en: I want to start now.
+  back_es: Quiero empezar ahora.
+  hint: 'spine + *empezar* (infinitive — no split)'
+  rule_ref: 'L16#2'
+  lessons:
+  - 14
+  - 16
+  directions:
+  - en_es
+  - es_en
+- id: L16-211
+  type: sentence
+  tier: primary
+  front_en: She closes the school.
+  back_es: Cierra la escuela.
+  hint: 'double-split: *cierra* (e→ie) + *escuela* (o→ue)'
+  rule_ref: 'L16#7'
+  lessons:
+  - 16
+  - 17
+  directions:
+  - en_es
+  - es_en
+- id: L16-212
+  type: sentence
+  tier: primary
+  front_en: She demonstrates the power.
+  back_es: Demuestra el poder.
+  hint: '*demostrar* → *demuestra* · *el poder* (noun)'
+  rule_ref: 'L16#4, L16#13'
+  lessons:
+  - 16
+  directions:
+  - en_es
+  - es_en
+- id: L16-213
+  type: sentence
+  tier: extended
+  front_en: I find the body.
+  back_es: Encuentro el cuerpo.
+  hint: 'double o-split: *encuentro* + *cuerpo*'
+  rule_ref: 'L16#7, L16#11'
+  lessons:
   - 16
   directions:
   - en_es
@@ -1703,3 +2167,302 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L17-200
+  type: conjugation
+  tier: primary
+  front_en: she form of poder
+  back_es: puede
+  hint: o → ue · he/she/usted can
+  rule_ref: 'L17#2'
+  lessons:
+  - 17
+  directions:
+  - en_es
+- id: L17-201
+  type: conjugation
+  tier: primary
+  front_en: they form of poder
+  back_es: pueden
+  hint: o → ue · they can
+  rule_ref: 'L17#2'
+  lessons:
+  - 17
+  directions:
+  - en_es
+- id: L17-202
+  type: conjugation
+  tier: primary
+  front_en: she form of pensar
+  back_es: piensa
+  hint: e → ie · he/she/usted thinks
+  rule_ref: 'L17#1'
+  lessons:
+  - 17
+  directions:
+  - en_es
+- id: L17-203
+  type: conjugation
+  tier: primary
+  front_en: she form of cerrar
+  back_es: cierra
+  hint: e → ie · he/she/usted closes
+  rule_ref: 'L17#1'
+  lessons:
+  - 17
+  directions:
+  - en_es
+- id: L17-204
+  type: conjugation
+  tier: primary
+  front_en: I form of hablar
+  back_es: hablo
+  hint: to speak · -ar regular
+  rule_ref: 'L17#1'
+  lessons:
+  - 17
+  directions:
+  - en_es
+- id: L17-205
+  type: conjugation
+  tier: primary
+  front_en: she form of hablar
+  back_es: habla
+  hint: to speak · he/she/usted speaks
+  rule_ref: 'L17#1'
+  lessons:
+  - 17
+  directions:
+  - en_es
+- id: L17-206
+  type: conjugation
+  tier: primary
+  front_en: I form of tomar
+  back_es: tomo
+  hint: to take/drink · -ar regular
+  rule_ref: 'L17#9'
+  lessons:
+  - 17
+  directions:
+  - en_es
+- id: L17-207
+  type: conjugation
+  tier: primary
+  front_en: she form of tomar
+  back_es: toma
+  hint: to take/drink · he/she/usted takes
+  rule_ref: 'L17#9'
+  lessons:
+  - 17
+  directions:
+  - en_es
+- id: L17-208
+  type: conjugation
+  tier: primary
+  front_en: they form of tomar
+  back_es: toman
+  hint: to take/drink · -n for plural
+  rule_ref: 'L17#9'
+  lessons:
+  - 17
+  directions:
+  - en_es
+- id: L17-209
+  type: conjugation
+  tier: extended
+  front_en: she form of perder
+  back_es: pierde
+  hint: e → ie · he/she/usted loses
+  rule_ref: 'L17#1'
+  lessons:
+  - 17
+  directions:
+  - en_es
+- id: L17-213
+  type: transformation
+  tier: primary
+  front_en: algebra
+  back_es: álgebra
+  hint: 'Arabic origin · *al-* loanword'
+  rule_ref: 'L17#8, L17#11'
+  lessons:
+  - 17
+  directions:
+  - en_es
+  - es_en
+- id: L17-214
+  type: transformation
+  tier: primary
+  front_en: possible
+  back_es: posible
+  hint: 'Spanish never doubles s · *posible* not *possible*'
+  rule_ref: 'L17#12'
+  lessons:
+  - 17
+  directions:
+  - en_es
+  - es_en
+- id: L17-215
+  type: transformation
+  tier: primary
+  front_en: passion
+  back_es: pasión
+  hint: one s · -tion → -ción
+  rule_ref: 'L17#12'
+  lessons:
+  - 17
+  directions:
+  - en_es
+  - es_en
+- id: L17-217
+  type: sentence
+  tier: primary
+  front_en: We can find it.
+  back_es: Podemos encontrarlo.
+  hint: 'spine *podemos* + ''to'' form + *lo*'
+  rule_ref: 'L17#5, L17#7'
+  lessons:
+  - 17
+  directions:
+  - en_es
+  - es_en
+- id: L17-218
+  type: sentence
+  tier: primary
+  front_en: 'I don''t sleep.'
+  back_es: No duermo.
+  hint: 'negation + *duermo* (o → ue)'
+  rule_ref: 'L17#2'
+  lessons:
+  - 17
+  directions:
+  - en_es
+  - es_en
+- id: L17-219
+  type: sentence
+  tier: primary
+  front_en: We understand the school.
+  back_es: Entendemos la escuela.
+  hint: 'we-form no split + noun split *escuela*'
+  rule_ref: 'L17#5, L17#7'
+  lessons:
+  - 17
+  directions:
+  - en_es
+  - es_en
+- id: L17-220
+  type: sentence
+  tier: primary
+  front_en: Do you think so?
+  back_es: ¿Piensas que sí?
+  hint: '*pensar* → *piensas* + *que sí*'
+  rule_ref: 'L17#1, L17#14'
+  lessons:
+  - 17
+  directions:
+  - en_es
+  - es_en
+- id: L17-221
+  type: sentence
+  tier: primary
+  front_en: We close later.
+  back_es: Cerramos más tarde.
+  hint: 'we-form *cerramos* — no split'
+  rule_ref: 'L17#5, L17#7'
+  lessons:
+  - 17
+  directions:
+  - en_es
+  - es_en
+- id: L17-222
+  type: sentence
+  tier: extended
+  front_en: 'We don''t drink sugar.'
+  back_es: No tomamos azúcar.
+  hint: 'we-form *tomamos* + Arabic *azúcar*'
+  rule_ref: 'L17#5, L17#9'
+  lessons:
+  - 17
+  directions:
+  - en_es
+  - es_en
+- id: L17-223
+  type: sentence
+  tier: extended
+  front_en: I want a pillow.
+  back_es: Quiero una almohada.
+  hint: '*almohada* — Arabic, silent h'
+  rule_ref: 'L17#11'
+  lessons:
+  - 17
+  directions:
+  - en_es
+  - es_en
+- id: L17-224
+  type: sentence
+  tier: extended
+  front_en: 'They can''t find it.'
+  back_es: No pueden encontrarlo.
+  hint: 'negation + spine *pueden* + ''to'' form + *lo*'
+  rule_ref: 'L17#2'
+  lessons:
+  - 17
+  directions:
+  - en_es
+  - es_en
+- id: L17-225
+  type: transformation
+  tier: primary
+  front_en: to hang
+  back_es: colgar
+  hint: 'infinitive · *cuelgo* (o→ue + -go) / *cuelga* / *colgamos*'
+  rule_ref: 'L17#2'
+  lessons:
+  - 17
+  directions:
+  - en_es
+  - es_en
+- id: L17-226
+  type: conjugation
+  tier: extended
+  front_en: you (informal) form of encontrar
+  back_es: encuentras
+  hint: o → ue · -s for tú
+  rule_ref: 'L17#2'
+  lessons:
+  - 17
+  directions:
+  - en_es
+- id: L17-227
+  type: transformation
+  tier: primary
+  front_en: to speak
+  back_es: hablar
+  hint: '-ar regular · *hablo* / *habla* / *hablan* / *hablamos*'
+  rule_ref: 'L17#5'
+  lessons:
+  - 17
+  directions:
+  - en_es
+  - es_en
+- id: L17-228
+  type: conjugation
+  tier: primary
+  front_en: they form of hablar
+  back_es: hablan
+  hint: to speak · -n for plural
+  rule_ref: 'L17#5'
+  lessons:
+  - 17
+  directions:
+  - en_es
+- id: L17-229
+  type: conjugation
+  tier: primary
+  front_en: you (informal) form of hablar
+  back_es: hablas
+  hint: to speak · -s for tú
+  rule_ref: 'L17#5'
+  lessons:
+  - 17
+  directions:
+  - en_es
