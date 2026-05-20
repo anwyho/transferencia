@@ -1,0 +1,43 @@
+front,back,id,type,tier,hint,rule_ref
+past mood they form of hablar,hablaran,L81-001,conjugation,primary,speak (past subj.) · they-point-past minus -on plus -an,L81#10
+past mood I form of hablar,hablara,L81-002,conjugation,primary,speak (past subj.) · they-mood-past minus n,L81#10
+past mood she form of hablar,hablara,L81-003,conjugation,primary,speak (past subj.) · same as I form,L81#10
+past mood you-informal form of hablar,hablaras,L81-004,conjugation,primary,speak (past subj.) · I-mood plus -s,L81#10
+past mood we form of hablar,habláramos,L81-005,conjugation,primary,speak (past subj.) · -mos with accent on a before it,L81#10
+past mood they form of comer,comieran,L81-006,conjugation,primary,eat (past subj.) · comieron → swap -on for -an,L81#10
+past mood I form of comer,comiera,L81-007,conjugation,primary,eat (past subj.) · drop n from they-mood,L81#10
+past mood you-informal form of comer,comieras,L81-008,conjugation,primary,eat (past subj.) · I-mood plus -s,L81#10
+past mood we form of comer,comiéramos,L81-009,conjugation,primary,eat (past subj.) · accent on the e before -mos,L81#10
+past mood they form of organizar,organizaran,L81-010,conjugation,primary,organize (past subj.) · organizaron → swap to -an,L81#10
+past mood we form of organizar,organizáramos,L81-011,conjugation,primary,organize (past subj.) · -áramos · accent on a,L81#10
+past mood she form of llamar,llamara,L81-012,conjugation,primary,call (past subj.) · llamaron → llamaran → drop n,L81#10
+I was hoping she would call me.,Esperaba que me llamara.,L81-027,sentence,primary,same as he · she/he/I share form,L81#13
+line-past she form of ser,era,L82-001,conjugation,primary,"be (was -ing) · think English ""era"" = a line in the past",L82#3
+line-past I form of ser,era,L82-002,conjugation,primary,be (was -ing) · same as she,L82#3
+past mood I form of poder,pudiera,L83-001,conjugation,primary,be able (past subj.) · pod- → pud- in point past,L83#5
+past mood you-informal form of poder,pudieras,L83-002,conjugation,primary,be able (past subj.) · pud- base + -ieras,L83#5
+past mood we form of poder,pudiéramos,L83-003,conjugation,primary,be able (past subj.) · pud- + accent + -mos,L83#5
+past mood I form of haber,hubiera,L83-004,conjugation,primary,have (past subj.) · hab- → hub- in point past,L83#8
+past mood you-informal form of haber,hubieras,L83-005,conjugation,primary,have (past subj.) · hub- + -ieras,L83#8
+past mood we form of haber,hubiéramos,L83-006,conjugation,primary,have (past subj.) · hub- + accent + -mos,L83#8
+past mood I form of ver,viera,L83-007,conjugation,primary,see (past subj.) · viste/vio → vieron → drop -on,L83#12
+past mood you-informal form of ver,vieras,L83-008,conjugation,primary,see (past subj.) · vier- + -as,L83#12
+past mood I form of comprar,comprara,L83-009,conjugation,primary,buy (past subj.) · compraron → comprara (swap -on for -a),L83#2
+past mood you-informal form of comprar,compraras,L83-010,conjugation,primary,buy (past subj.) · -aras for you,L83#2
+past mood you-informal form of contar,contaras,L83-011,conjugation,primary,count/tell (past subj.) · contaron → contaras (swap -on for -as),L83#2
+conditional I form of cocinar,cocinaría,L83-012,conjugation,primary,would cook · full infinitive + -ía,L83#6
+conditional I form of cancelar,cancelaría,L83-013,conjugation,primary,would cancel · -ía ending,L83#6
+conditional I form of comprender,comprendería,L83-014,conjugation,primary,would understand · full infinitive + -ía,L83#13
+conditional I form of entender,entendería,L83-015,conjugation,primary,would understand · full infinitive + -ía,L83#13
+conditional I form of haber,habría,L83-016,conjugation,primary,would have · e falls out · not habería,L83#9
+conditional we form of haber,habríamos,L83-017,conjugation,primary,would have · habr- + -íamos,L83#9
+past mood they form of llamar,llamaran,L81-037,conjugation,extended,call (past subj.) · llamaron → llamaran (swap -on for -an),L81#10
+past mood we form of llamar,llamáramos,L81-038,conjugation,extended,call (past subj.) · -áramos with accent,L81#10
+past mood they form of esperar,esperaran,L81-039,conjugation,extended,wait/hope (past subj.) · esperaron → swap -on for -an,L81#10
+past mood I form of necesitar,necesitara,L81-040,conjugation,extended,"need (past subj.) · necesitaron → drop -on, drop n",L81#10
+I don't want it to occur again.,No quiero que vuelva a ocurrir.,L81-042,sentence,extended,ocurrir = to happen,L81#7
+past mood they form of poder,pudieran,L83-039,conjugation,extended,be able (past subj.) · pud- + -ieran,L83#5
+past mood they form of haber,hubieran,L83-040,conjugation,extended,have (past subj.) · hub- + -ieran,L83#8
+conditional you-informal form of cancelar,cancelarías,L83-041,conjugation,extended,would cancel · full inf + -ías,L83#6
+conditional she form of gustar,gustaría,L83-042,conjugation,extended,would be pleasing · *me gustaría* — I would like,L83#6
+conditional you-informal form of haber,habrías,L83-043,conjugation,extended,would have · habr- + -ías,L83#9

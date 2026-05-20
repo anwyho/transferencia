@@ -1,0 +1,91 @@
+front,back,id,type,tier,hint,rule_ref
+spoken (past participle of hablar),hablado,L21-006,transformation,primary,-ar → -ado,L21#8
+prepared (past participle of preparar),preparado,L21-010,transformation,primary,-ar → -ado,L21#8
+for (a period of time) / per,por,L21-014,transformation,primary,por mucho tiempo · por favor,L21#13
+a lot / much,mucho,L21-016,transformation,primary,stressed MU-cho,L21#13
+please,por favor,L21-017,transformation,primary,literally 'for a favor',L21#13
+I have spoken.,He hablado.,L21-019,sentence,primary,he + hablado · two pieces,L21#9
+You have spoken.,Has hablado.,L21-020,sentence,primary,,"L21#5, L21#9"
+She has spoken.,Ha hablado.,L21-021,sentence,primary,,"L21#5, L21#9"
+We have spoken.,Hemos hablado.,L21-022,sentence,primary,,"L21#4, L21#9"
+They have spoken.,Han hablado.,L21-023,sentence,primary,,"L21#5, L21#9"
+I haven't spoken.,No he hablado.,L21-024,sentence,primary,no before haber,L21#10
+We haven't spoken.,No hemos hablado.,L21-025,sentence,primary,,L21#10
+I have taken.,He tomado.,L21-027,sentence,primary,,L21#9
+We have anticipated it.,Lo hemos anticipado.,L21-032,sentence,primary,"lo before haber, never between",L21#11
+I have anticipated it.,Lo he anticipado.,L21-033,sentence,primary,,L21#11
+Has she taken it?,¿Lo ha tomado?,L21-034,sentence,primary,,"L21#11, L21#15"
+for a long time,por mucho tiempo,L21-035,sentence,primary,por = duration,"L21#13, L21#14"
+I have worked a lot.,He trabajado mucho.,L21-037,sentence,primary,,L21#9
+Have you celebrated?,¿Has celebrado?,L21-038,sentence,primary,present-perfect question · just invert with ¿?,L21#15
+Haven't you celebrated?,¿No has celebrado?,L21-039,sentence,primary,,"L21#15, L21#10"
+Why haven't you celebrated?,¿Por qué no has celebrado?,L21-040,sentence,primary,por qué = why,L21#15
+Where have you celebrated?,¿Dónde has celebrado?,L21-041,sentence,primary,,L21#15
+We haven't celebrated it.,No lo hemos celebrado.,L21-051,sentence,extended,no + lo + hemos + part,"L21#10, L21#11"
+Why haven't you taken it?,¿Por qué no lo has tomado?,L21-052,sentence,extended,,"L21#10, L21#11, L21#15"
+I haven't anticipated it.,No lo he anticipado.,L21-055,sentence,extended,,"L21#10, L21#11"
+She has called for a long time.,Ha llamado por mucho tiempo.,L21-057,sentence,extended,,L21#13
+finished (past participle of terminar),terminado,L22-001,transformation,primary,-ar → -ado,L21#8
+sold (past participle of vender),vendido,L22-002,transformation,primary,-er → -ido,L22#1
+lost (past participle of perder),perdido,L22-003,transformation,primary,-er → -ido,L22#1
+come (past participle of venir),venido,L22-004,transformation,primary,-ir → -ido · bienvenido!,L22#1
+I (subject),yo,L22-009,transformation,primary,y pronounced /y/ here,L22#5
+you (informal subject),tú,L22-010,transformation,primary,accent distinguishes from tu (your),L22#5
+we (masc/mixed),nosotros,L22-013,transformation,primary,/s/ never /z/,"L22#5, L22#8"
+you (formal),usted,L22-014,transformation,primary,from *vuestra merced* = your honor,L22#9
+they (masc/mixed),ellos,L22-015,transformation,primary,ll = /y/ → eyos,L22#11
+you guys / you (formal plural),ustedes,L22-016,transformation,primary,-es because ends in consonant,L22#9
+them (masc),los,L22-019,transformation,primary,add -s for plural,L22#12
+them (fem),las,L22-020,transformation,primary,feminine plural,L22#12
+I have finished it.,Lo he terminado.,L22-023,sentence,primary,lo before haber,L22#4
+I have sold.,He vendido.,L22-025,sentence,primary,,L22#1
+I have lost.,He perdido.,L22-027,sentence,primary,,L22#1
+He has lost.,Él ha perdido.,L22-029,sentence,primary,él (he) for clarity,L22#13
+You have lost.,Has perdido.,L22-031,sentence,primary,,L22#1
+I (emphatically) have lost.,Yo he perdido.,L22-032,sentence,primary,yo for emphasis,L22#14
+YOU have lost.,Tú has perdido.,L22-033,sentence,primary,,L22#14
+WE have lost.,Nosotros hemos perdido.,L22-034,sentence,primary,,L22#14
+You see.,Tú ves.,L22-035,sentence,primary,tú = subject,"L22#5, L22#7"
+He sees you.,Te ve.,L22-036,sentence,primary,te = object · drop subject,"L22#6, L22#7"
+I love you.,Te quiero.,L22-037,sentence,primary,literally 'I want you',L22#6
+I see him.,Lo veo.,L22-038,sentence,primary,,L22#6
+He sees.,Él ve.,L22-042,sentence,primary,,L22#5
+We see.,Nosotros vemos.,L22-044,sentence,primary,,L22#5
+They see me.,Ellos me ven.,L22-047,sentence,primary,,"L22#11, L22#6"
+You (formal) see.,Usted ve.,L22-048,sentence,primary,,L22#9
+You (formal) see it. (Usted…),Usted lo ve.,L22-049,sentence,primary,lo stays before verb,L22#10
+You (formal) see them.,Usted los ve.,L22-050,sentence,primary,,"L22#10, L22#12"
+He has lost her.,La ha perdido.,L22-051,sentence,primary,la = her (object),"L22#13, L22#4"
+we (fem),nosotras,L22-052,transformation,extended,all-female group,L22#8
+they (fem),ellas,L22-053,transformation,extended,all-female group,L22#11
+me (object),me,L22-054,transformation,extended,object · not subject (yo),L22#6
+you (informal object),te,L22-055,transformation,extended,object · not subject (tú),"L22#6, L22#7"
+we sell,vendemos,L22-056,transformation,extended,-er we form,L22#2
+They have sold it.,Lo han vendido.,L22-058,sentence,extended,,"L22#4, L22#1"
+You (formal) see it. (Lo…),Lo ve usted.,L22-060,sentence,extended,usted flexible · lo not,L22#10
+They have come.,Ellos han venido.,L22-065,sentence,extended,,"L22#11, L22#1"
+Have you guys finished?,¿Han terminado?,L22-067,sentence,extended,han = they / ustedes,"L22#9, L21#15"
+the problem,el problema,L23-001,transformation,primary,-ma → masc · NOT *la problema*,"L23#1, L23#3"
+the system,el sistema,L23-002,transformation,primary,Greek-origin -ma · masculine,"L23#1, L23#4"
+the program,el programa,L23-003,transformation,primary,-ma → masculine,L23#1
+to understand (comprender…),comprender,L23-008,transformation,primary,or *entender*,L23#12
+to feel / perceive,sentir,L23-011,transformation,primary,also = to smell · 'sensation',L23#5
+myself,me,L23-013,transformation,primary,same word as 'me' object,L23#6
+ourselves,nos,L23-015,transformation,primary,same word as 'us' object,L23#6
+The problem.,El problema.,L23-016,sentence,primary,,"L23#1, L23#3"
+Have you felt the aroma?,¿Has sentido el aroma?,L23-020,sentence,primary,sentir = also to smell,"L23#5, L23#1"
+I haven't understood the problem.,No he entendido el problema.,L23-022,sentence,primary,,"L21#10, L23#1"
+I have got lost.,Me he perdido.,L23-024,sentence,primary,literally 'I have lost myself',"L23#6, L23#7, L23#9"
+You have got lost.,Te has perdido.,L23-025,sentence,primary,,"L23#6, L23#9"
+We have got lost.,Nos hemos perdido.,L23-026,sentence,primary,,"L23#6, L23#9"
+You have lost (something).,Tú has perdido.,L23-028,sentence,primary,no te → not reflexive,"L23#11, L22#14"
+I (emphatically) have got lost.,Yo me he perdido.,L23-030,sentence,primary,subject + reflexive + haber + part,L23#10
+YOU have got lost.,Tú te has perdido.,L23-031,sentence,primary,,L23#10
+WE have got lost.,Nosotros nos hemos perdido.,L23-032,sentence,primary,,L23#10
+Haven't you got lost?,¿No te has perdido?,L23-034,sentence,primary,,"L23#6, L21#10, L21#15"
+The climate is a problem.,El clima es un problema.,L23-041,sentence,extended,un = masc 'a',"L23#1, L23#3"
+She has got lost.,Se ha perdido.,L23-044,sentence,extended,se = 3rd-person reflexive,L23#9
+I haven't got lost.,No me he perdido.,L23-045,sentence,extended,no before me he,"L21#10, L23#6"
+We haven't got lost.,No nos hemos perdido.,L23-046,sentence,extended,,"L21#10, L23#6"
+Have you (formal) understood?,¿Ha entendido?,L23-049,sentence,extended,,"L22#9, L21#15"
+I have understood it.,Lo he entendido.,L23-051,sentence,extended,,"L22#4, L22#1"

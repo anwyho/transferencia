@@ -1,0 +1,106 @@
+front,back,id,type,tier,hint,rule_ref
+to choose,elegir,L74-001,transformation,primary,think 'elect' · -ir verb,L74#1
+on my behalf / in my place,por mí,L74-008,transformation,primary,por = swap/cause · accent on mí,L74#4
+for me (destined for me),para mí,L74-009,transformation,primary,para = destination · accent on mí,L74#4
+to break (no doer named),romperse,L74-011,transformation,primary,reflexive -se · drops the doer,"L74#5, L74#6"
+to return / come back,volver,L74-012,transformation,primary,think 'revolve',L74#10
+done (after haber),hecho,L74-022,transformation,primary,irregular past part. of hacer,L74#13
+fact,hecho,L74-023,transformation,primary,same word as 'done',L74#13
+also / as well,también,L74-024,transformation,primary,tan + bien · n→m before b,L74#16
+so (so tired),tan,L74-025,transformation,primary,hidden inside también,L74#15
+in order to / for,para,L74-026,transformation,primary,when 'to' = 'in order to',L74#7
+so that / in order that,para que,L74-027,transformation,primary,triggers mood tense after,L74#8
+I don't want you to choose for me.,No quiero que elijas por mí.,L74-029,sentence,primary,quiero que → mood · e→i in elijas,"L74#2, L74#4"
+I don't want it to break.,No quiero que se rompa.,L74-030,sentence,primary,-se = no doer named · mood after que,"L74#5, L74#6"
+I don't want him to break it.,No quiero que lo rompa.,L74-031,sentence,primary,lo = direct object · mood after que,L74#6
+We've met up to speak.,Nos hemos encontrado para hablar.,L74-032,sentence,primary,para + infinitive (same doer),"L74#7, L74#9"
+We've cooked so that they eat.,Hemos cocinado para que coman.,L74-033,sentence,primary,para que → mood (different doer),"L74#8, L74#9"
+I come back.,Vuelvo.,L74-034,sentence,primary,o→ue stressed · drop subject,L74#11
+So that you come back.,Para que vuelvas.,L74-036,sentence,primary,para que + mood,"L74#8, L74#12"
+I've done it so that you come back.,Lo he hecho para que vuelvas.,L74-037,sentence,primary,he hecho · para que + mood,"L74#13, L74#8, L74#12"
+They've done it so that we come back.,Lo han hecho para que volvamos.,L74-038,sentence,primary,han hecho · mood we form,"L74#13, L74#8, L74#12"
+So that you also come back.,Para que tú también vuelvas.,L74-039,sentence,primary,tú emphasized + también,"L74#8, L74#16"
+We've done everything so you also come back.,Hemos hecho todo para que tú también vuelvas.,L74-040,sentence,primary,hemos hecho · para que + mood,"L74#13, L74#8, L74#16"
+She chooses for me.,Elige por mí.,L74-044,sentence,primary,e→i · por mí,"L74#2, L74#4"
+do! / make! (informal command),haz,L75-001,transformation,primary,irregular · not 'hace',L75#1
+do it (informal command),hazlo,L75-002,transformation,primary,command + lo attached,L75#1
+where (known),donde,L75-003,transformation,primary,present after = known place,L75#3
+wherever you want,donde quieras,L75-004,transformation,primary,donde + mood = -ever,"L75#2, L75#3"
+how (known way),como,L75-005,transformation,primary,present after = known way,L75#5
+however you like,como te guste,L75-006,transformation,primary,como + mood = -ever,"L75#2, L75#5"
+whenever you need,cuando necesites,L75-008,transformation,primary,cuando + mood = -ever,"L75#2, L75#10"
+to follow / continue,seguir,L75-009,transformation,primary,-ir · e→i family,L75#12
+to get / manage to,conseguir,L75-015,transformation,primary,con- + seguir family,L75#14
+to chase,perseguir,L75-017,transformation,primary,per- + seguir family,L75#14
+to where,adonde,L75-019,transformation,primary,a + donde,L75#15
+I mean / uhh (filler),o sea,L75-024,transformation,primary,literally 'or it might be',L75#17
+Do it.,Hazlo.,L75-026,sentence,primary,irregular command + lo,L75#1
+Do it wherever you want.,Hazlo donde quieras.,L75-027,sentence,primary,donde + mood,"L75#1, L75#2, L75#4"
+Do it however you like.,Hazlo como te guste.,L75-028,sentence,primary,como + mood (gustar third-person),"L75#1, L75#2, L75#6"
+Eat whatever you prefer. (informal),Come lo que prefieras.,L75-030,sentence,primary,drop -s for informal command,L75#8
+Eat whatever you prefer. (formal),Coma lo que prefiera.,L75-031,sentence,primary,formal command = mood,L75#9
+Eat (you all) whatever you prefer.,Coman lo que prefieran.,L75-032,sentence,primary,plural formal · all mood,L75#9
+Whenever you need.,Cuando necesites.,L75-033,sentence,primary,future cuando → mood,L75#10
+I'll follow you wherever you go.,Te sigo adonde vayas.,L75-034,sentence,primary,sigo · adonde + mood ir,"L75#12, L75#15"
+I prefer it to be like this.,Prefiero que sea así.,L75-035,sentence,primary,prefiero que → mood ser,"L75#16, L75#19"
+"Whatever will be, will be. (Sea…)",Sea lo que sea.,L75-036,sentence,primary,mood ser bookends,"L75#16, L75#20"
+I chase him.,Lo persigo.,L75-040,sentence,primary,lo + e→i form,L75#14
+there is / there are,hay,L76-001,transformation,primary,from haber · never plural-changes,L76#1
+there was / there were,había,L76-002,transformation,primary,past of hay · never plural-changes,L76#6
+somebody,alguien,L76-003,transformation,primary,al- prefix: some-,L76#2
+there has to be / there must be,tiene que haber,L76-005,transformation,primary,"be = exist → haber, not ser","L76#10, L76#11"
+There is somebody here who wants to speak.,Hay alguien aquí que quiere hablar.,L76-009,sentence,primary,real person → present tense,L76#3
+Is there anybody here who speaks Spanish?,¿Hay alguien aquí que hable español?,L76-010,sentence,primary,unsure of existence → mood after que,L76#4
+There are two people here who speak Spanish.,Hay dos personas aquí que hablan español.,L76-011,sentence,primary,stated fact → present tense,L76#5
+There were two people here who spoke Spanish.,Había dos personas aquí que hablaban español.,L76-012,sentence,primary,line-past for characteristic,"L76#6, L76#8"
+There has to be something you can do.,Tiene que haber algo que puedas hacer.,L76-013,sentence,primary,tiene que haber · mood after que,"L76#10, L76#12"
+There was somebody.,Había alguien.,L76-015,sentence,primary,past hay = había,L76#6
+Is there anybody who can speak?,¿Hay alguien que pueda hablar?,L76-017,sentence,primary,unknown existence → mood,L76#4
+should,debería,L77-001,transformation,primary,would-form of deber,L77#1
+there should be,debería haber,L77-002,transformation,primary,be = exist → haber,"L77#2, L77#3"
+strong / hardcore (colloquial),fuerte,L77-007,transformation,primary,-ent → -ente cousin,L77#9
+how good!,¡qué bueno!,L77-010,transformation,primary,qué + adjective,L77#10
+"wow, that's heavy!",¡qué fuerte!,L77-011,transformation,primary,qué + adjective (colloquial),"L77#9, L77#10"
+it's okay / it's well,está bien,L77-012,transformation,primary,estar for state · bien adverb,L77#13
+it's not necessary / it doesn't make lack,no hace falta,L77-016,transformation,primary,literal: doesn't make lack,L77#17
+There should be something to eat.,Debería haber algo para comer.,L77-018,sentence,primary,debería haber · para + infinitive,L77#2
+It's terrible that you eat this.,Es terrible que comas esto.,L77-019,sentence,primary,es + adj + que → mood,"L77#4, L77#5"
+It's terrible if you eat this.,Es terrible si comes esto.,L77-020,sentence,primary,si → no mood,L77#6
+It's possible we'll go later.,Es posible que vayamos más tarde.,L77-021,sentence,primary,es + adj + que → mood ir,L77#7
+How heavy that he's here!,¡Qué fuerte que esté aquí!,L77-022,sentence,primary,qué+adj+que → mood estar,L77#11
+It's okay that you ask.,Está bien que preguntes.,L77-023,sentence,primary,está bien que → mood,"L77#13, L77#14"
+It's not necessary that I respond.,No es necesario que responda.,L77-024,sentence,primary,no es + adj + que → mood,L77#16
+I don't need to respond.,No hace falta que responda.,L77-025,sentence,primary,no hace falta que → mood,L77#17
+It's important we find it soon.,Es importante que lo encontremos pronto.,L77-026,sentence,primary,es + adj + que → mood,L77#18
+to find,encontrar,L74-046,transformation,extended,o→ue family,L74#5
+to meet up / find oneself,encontrarse,L74-047,transformation,extended,reflexive -se,L74#5
+to stir (Spanish),revolver,L74-048,transformation,extended,false friend · not 'revolve',L74#10
+I don't want it to break on me.,No quiero que se me rompa.,L74-050,sentence,extended,-se + me · doer absent,"L74#5, L74#6"
+I choose what I want.,Elijo lo que quiero.,L74-052,sentence,extended,known choice → present (no mood),L74#3
+They return when they want.,Vuelven cuando quieren.,L74-053,sentence,extended,general truth → present,L74#11
+I want them to return.,Quiero que vuelvan.,L74-054,sentence,extended,quiero que → mood,L74#12
+I've cooked too.,He cocinado también.,L74-056,sentence,extended,he + past part. + también,L74#16
+I'll go wherever you want.,Voy adonde quieras.,L75-042,sentence,extended,voy + adonde + mood,L75#15
+I'll do whatever you want.,Hago lo que quieras.,L75-043,sentence,extended,lo que + mood,"L75#2, L75#7"
+We'll speak whenever you want.,Hablamos cuando quieras.,L75-044,sentence,extended,cuando + mood (future),L75#10
+Continue however you can.,Sigue como puedas.,L75-045,sentence,extended,command + como + mood,"L75#5, L75#12"
+I follow you wherever you go.,Te sigo adonde vayas.,L75-046,sentence,extended,te sigo + mood ir,"L75#12, L75#15"
+We chase whoever runs.,Perseguimos a quien corra.,L75-047,sentence,extended,a quien + mood,"L75#2, L75#14"
+I want it to be like this.,Quiero que sea así.,L75-048,sentence,extended,quiero que → mood ser,"L75#16, L75#19"
+"I mean, like this.","O sea, así.",L75-050,sentence,extended,filler + así,"L75#17, L75#18"
+"Whatever it is, I'll be here.","Sea lo que sea, estaré aquí.",L75-051,sentence,extended,idiom + future estar,L75#20
+I get whatever I want.,Consigo lo que quiero.,L75-052,sentence,extended,known truth → present,L75#14
+Get whatever you can.,Consigue lo que puedas.,L75-053,sentence,extended,command + lo que + mood,"L75#2, L75#14"
+Is there anybody who knows?,¿Hay alguien que sepa?,L76-019,sentence,extended,unknown → mood saber,L76#4
+There must be a way.,Tiene que haber una forma.,L76-020,sentence,extended,be = exist → haber,L76#10
+There must be something better.,Tiene que haber algo mejor.,L76-021,sentence,extended,be = exist → haber,L76#10
+There were people who lived here.,Había personas que vivían aquí.,L76-022,sentence,extended,line-past for characteristic,"L76#6, L76#8"
+necessity,necesidad,L77-029,transformation,extended,-ity → -idad,L77#16
+It's possible they're here.,Es posible que estén aquí.,L77-031,sentence,extended,es + adj + que → mood estar,L77#7
+It's not possible that he knows.,No es posible que sepa.,L77-032,sentence,extended,no es + adj + que → mood,L77#7
+It's terrible that they don't have it.,Es terrible que no lo tengan.,L77-033,sentence,extended,es + adj + que → mood,L77#5
+It's good that you're here.,Es bueno que estés aquí.,L77-034,sentence,extended,es + adj + que → mood estar,L77#10
+It's important that you come back.,Es importante que vuelvas.,L77-035,sentence,extended,es + adj + que → mood,L77#18
+It's necessary that you do it.,Es necesario que lo hagas.,L77-036,sentence,extended,es + adj + que → mood hacer,L77#16
+It doesn't make lack that you come.,No hace falta que vengas.,L77-038,sentence,extended,no hace falta que → mood,L77#17
+It's okay that he doesn't respond.,Está bien que no responda.,L77-040,sentence,extended,está bien que → mood,"L77#13, L77#14"

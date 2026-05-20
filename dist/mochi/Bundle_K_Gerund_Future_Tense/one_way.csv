@@ -1,0 +1,24 @@
+front,back,id,type,tier,hint,rule_ref
+I form of vender,vendo,L34-014,conjugation,primary,to sell · regular -er,L34#13
+I form of desayunar,desayuno,L34-015,conjugation,primary,to have breakfast · = also *the breakfast*,L34#3
+I form of comprar,compro,L35-016,conjugation,primary,to buy · regular -ar,L35#11
+future I form of comer,comeré,L36-008,conjugation,primary,will eat · infinitive + -é (like *he*),"L36#5, L36#6"
+future you form of comer,comerás,L36-009,conjugation,primary,will eat · infinitive + -ás (like *has*),L36#6
+future she form of comer,comerá,L36-010,conjugation,primary,will eat · infinitive + -á (like *ha*),L36#6
+future we form of comer,comeremos,L36-011,conjugation,primary,will eat · infinitive + -emos (like *hemos*),L36#6
+future they form of comer,comerán,L36-012,conjugation,primary,will eat · infinitive + -án (like *han*),L36#6
+future I form of ir,iré,L36-013,conjugation,primary,will go · ir is regular in future,L36#9
+future you form of ir,irás,L36-014,conjugation,primary,will go,L36#9
+future she form of ir,irá,L36-015,conjugation,primary,will go,L36#9
+future we form of ir,iremos,L36-016,conjugation,primary,will go,L36#9
+future they form of ir,irán,L36-017,conjugation,primary,will go · homophone with *Irán* (the country),"L36#9, L36#10"
+future I form of preparar,prepararé,L36-018,conjugation,primary,"will prepare · think *preparar* first, then add -é",L36#14
+future I form of esperar,esperaré,L36-019,conjugation,primary,will wait/hope · = I will wait / hope,L36#14
+future I form of estar,estaré,L36-020,conjugation,primary,= I will be (state),L36#16
+future I form of ser,seré,L36-021,conjugation,primary,= I will be (characteristic),L36#17
+future I form of hablar,hablaré,L36-055,conjugation,extended,will speak,L36#5
+future we form of hablar,hablaremos,L36-056,conjugation,extended,will speak,L36#5
+future I form of vender,venderé,L36-057,conjugation,extended,will sell,L36#5
+future I form of comprar,compraré,L36-058,conjugation,extended,will buy,L36#5
+future we form of estar,estaremos,L36-059,conjugation,extended,will be,L36#16
+future they form of ser,serán,L36-060,conjugation,extended,will be,L36#17

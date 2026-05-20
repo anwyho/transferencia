@@ -1,0 +1,63 @@
+front,back,id,type,tier,hint,rule_ref
+I want,quiero,L4-001,transformation,primary,-o = I,L4#2
+I don't want,no quiero,L4-002,transformation,primary,no goes in front · same order as English,L4#3
+I love you (everyday),te quiero,L4-003,transformation,primary,literally 'I want you' · friends/lovers,L4#1
+"you (informal, object)",te,L4-004,transformation,primary,/teh/ — strip from te quiero,"L4#1, L4#2"
+passion,pasión,L4-006,transformation,primary,-sion → -sión · single s · no /sh/,"L4#4, L4#8"
+preparation,preparación,L4-007,transformation,primary,-tion → -ción · /pre-pa-ra-SIÓN/,"L4#5, L4#6"
+organization,organización,L4-008,transformation,primary,-tion → -ción · /or-ga-ni-sa-CIÓN/,"L4#5, L4#6"
+generation,generación,L4-009,transformation,primary,-tion → -ción · /j/→/kh/,"L4#5, L3#7"
+to prepare,preparar,L4-012,transformation,primary,-ación → -ar · drop -ción add -r,"L4#9, L4#11"
+to generate,generar,L4-013,transformation,primary,-ación → -ar · /khe-ne-RAR/,"L4#9, L3#7"
+to confirm,confirmar,L4-014,transformation,primary,-ación → -ar,L4#9
+with,con,L4-017,transformation,primary,"com- before p, con- elsewhere",L4#13
+signature,firma,L4-018,transformation,primary,cousin of confirmación,L4#12
+I want to prepare.,Quiero preparar.,L4-019,sentence,primary,-o = I · -ación → -ar,"L4#2, L4#9"
+I don't want.,No quiero.,L4-020,sentence,primary,,L4#3
+I don't want to complicate.,No quiero complicar.,L4-021,sentence,primary,,"L4#3, L4#9"
+I (for emphasis only),yo,L5-001,transformation,primary,drop unless stressing 'I',L5#1
+me / myself,me,L5-002,transformation,primary,/meh/ — hooks onto end of verb,L5#4
+it / him,lo,L5-003,transformation,primary,sticks on end of the -r form,L5#6
+but,pero,L5-004,transformation,primary,single r — soft tap,L5#8
+to prepare myself / to get ready,prepararme,L5-011,transformation,primary,preparar + me · pronoun on the end,"L5#4, L5#5"
+to oblige you (informal),obligarte,L5-012,transformation,primary,obligar + te,"L5#5, L5#3"
+to cancel it,cancelarlo,L5-013,transformation,primary,cancelar + lo,"L5#6, L5#5"
+to save him / to save it,salvarlo,L5-014,transformation,primary,salvar + lo,"L5#6, L5#5"
+experience,experiencia,L5-015,transformation,primary,-ence → -encia,L5#10
+difference,diferencia,L5-016,transformation,primary,-ence → -encia · single f,L5#10
+influence,influencia,L5-017,transformation,primary,-ence → -encia,L5#10
+I want to get ready.,Quiero prepararme.,L5-019,sentence,primary,literally 'prepare myself',"L4#2, L5#4, L5#5"
+I don't want to oblige you.,No quiero obligarte.,L5-020,sentence,primary,no quiero + obligar + te,"L4#3, L5#5"
+I want to cancel it.,Quiero cancelarlo.,L5-021,sentence,primary,,"L4#2, L5#6, L5#5"
+dog (rolled rr),perro,L5-022,transformation,extended,double rr rolls · vs pero (but),L5#8
+to experiment / to experience,experimentar,L5-026,transformation,extended,one verb covers both,L5#11
+I try / I'm trying,intento,L6-001,transformation,primary,-o = I · derive from intención,"L6#1, L6#2, L6#3"
+now,ahora,L6-006,transformation,primary,silent h · /a-O-ra/ · a + hora,"L6#4, L6#7"
+to (direction),a,L6-007,transformation,primary,from ahora = a + hora,L6#8
+hour,hora,L6-008,transformation,primary,silent h · /O-ra/,"L6#4, L6#8"
+I go / I'm going,voy,L6-009,transformation,primary,memory: voyage · soft b sound,"L6#9, L6#10"
+let's go,vamos,L6-010,transformation,primary,/BA-mos/ · soft b,"L6#12, L6#10"
+to visit,visitar,L6-015,transformation,primary,from visita(tion) · soft b on v,"L6#14, L6#10"
+I'm trying to publish it.,Intento publicarlo.,L6-018,sentence,primary,intento + publicar + lo,"L6#1, L5#6, L5#5"
+I'm trying to imitate him.,Intento imitarlo.,L6-019,sentence,primary,,"L6#1, L5#6, L5#5"
+I'm going now.,Voy ahora.,L6-020,sentence,primary,silent h on ahora,"L6#9, L6#7"
+habitually,habitualmente,L6-022,transformation,extended,habitual + -mente · silent h,"L3#3, L6#4"
+convenient,conveniente,L6-025,transformation,extended,-ent → -ente · soft b on v,"L3#1, L6#10"
+I'm not going now.,No voy ahora.,L6-028,sentence,extended,,"L4#3, L6#9, L6#7"
+It's horrible.,Es horrible.,L6-029,sentence,extended,silent h · rolled rr,"L2#7, L6#4, L6#6"
+It is not visible.,No es visible.,L6-030,sentence,extended,,"L2#9, L2#7, L6#13"
+to see,ver,L7-001,transformation,primary,memory: view,L7#7
+to try,intentar,L7-002,transformation,primary,the -ar form of intento,L7#11
+them,los,L7-003,transformation,primary,lo + s · plural of lo,L7#9
+something,algo,L7-004,transformation,primary,/AL-go/,L7#6
+to pass / to pass by,pasar,L7-005,transformation,primary,motion verb — wants 'a' before next verb,"L7#13, L7#3"
+to show,mostrar,L7-008,transformation,primary,drop de- from demostrar,L7#5
+to see them,verlos,L7-009,transformation,primary,ver + los,"L7#9, L5#5"
+to show you (informal),mostrarte,L7-010,transformation,primary,mostrar + te,"L7#8, L5#5"
+I'm going to continue.,Voy a continuar.,L7-013,sentence,primary,voy + a (motion) + verb,"L7#2, L7#3"
+I'm going to try.,Voy a intentar.,L7-014,sentence,primary,,"L7#2, L7#3, L7#11"
+I'm going to see them.,Voy a verlos.,L7-015,sentence,primary,voy a + ver + los,"L7#2, L7#9"
+I'm trying to see them.,Intento verlos.,L7-017,sentence,primary,no 'a' — intento is not motion,"L6#1, L7#9, L7#10"
+formally,formalmente,L7-023,transformation,extended,-ly → -mente,L3#3
+to visit you (formal) / to visit him,visitarlo,L7-025,transformation,extended,lo also = formal 'you',L7#14
+to visit you (informal),visitarte,L7-026,transformation,extended,visitar + te,"L7#8, L5#5"

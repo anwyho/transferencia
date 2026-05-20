@@ -1,0 +1,89 @@
+front,back,id,type,tier,hint,rule_ref
+speaking (right now),hablando,L34-001,transformation,primary,"-ar drops, +-ando",L34#8
+preparing (right now),preparando,L34-002,transformation,primary,-ar → -ando,L34#8
+having breakfast (right now),desayunando,L34-003,transformation,primary,desayunar = un-fast · -ar → -ando,"L34#8, L34#3"
+to sell,vender,L34-008,transformation,primary,vending machine,L34#13
+to have breakfast,desayunar,L34-009,transformation,primary,des- (un-) + ayunar (to fast) = break-fast,L34#3
+the breakfast,el desayuno,L34-010,transformation,primary,noun form of *desayunar*,L34#3
+desperate,desesperado,L34-012,transformation,primary,un-hopeful,L34#4
+tomorrow,mañana,L34-013,transformation,primary,ñ = ny sound,L34#11
+I'm speaking (right now).,Estoy hablando.,L34-017,sentence,primary,estar + -ando — this moment only,"L34#7, L34#9"
+I'm eating.,Estoy comiendo.,L34-018,sentence,primary,estar + -iendo,"L34#7, L34#9"
+She is eating.,Está comiendo.,L34-019,sentence,primary,third person *está*,L34#7
+I'm waiting here.,Estoy esperando aquí.,L34-021,sentence,primary,firmly right now,"L34#9, L34#10"
+I'll wait here.,Espero aquí.,L34-022,sentence,primary,plain present = future-ish nuance,"L34#10, L34#5"
+I'm selling it tomorrow.,Lo vendo mañana.,L34-023,sentence,primary,future context — NO -ing,"L34#11, L34#5"
+I'm selling it (right now).,Lo estoy vendiendo.,L34-024,sentence,primary,pronoun before estoy,"L34#9, L34#12"
+I'm preparing it tomorrow.,Lo preparo mañana.,L34-025,sentence,primary,future = plain present,"L34#11, L34#5"
+I'm preparing it (right now). (Lo…),Lo estoy preparando.,L34-026,sentence,primary,pronoun before estoy,"L34#9, L34#12"
+I'm preparing it (right now). (Estoy…),Estoy preparándolo.,L34-027,sentence,primary,same meaning — pronoun glued + accent,L34#12
+They are selling it (right now). (Lo…),Lo están vendiendo.,L34-028,sentence,primary,pronoun before están,L34#12
+They are selling it (right now). (Están…),Están vendiéndolo.,L34-029,sentence,primary,same — glued ending + accent,L34#12
+They are selling it tomorrow.,Lo venden mañana.,L34-030,sentence,primary,"future — plain present, NOT -iendo","L34#11, L34#5"
+I fall asleep.,Me duermo.,L34-031,sentence,primary,reflexive: I sleep myself,L34#2
+sincere (m),sincero,L35-001,transformation,primary,concept = characteristic → goes with ser,"L35#1, L35#2"
+sincere (f),sincera,L35-002,transformation,primary,-a for feminine,L35#1
+honest (m),honesto,L35-004,transformation,primary,silent h · characteristic → ser,L35#5
+honest (f),honesta,L35-005,transformation,primary,silent h,L35#5
+being,siendo,L35-006,transformation,primary,ser → siendo (irregular -iendo),L35#4
+to leave / to go out,salir,L35-007,transformation,primary,irregular: yo form = salgo,L35#6
+leaving (right now),saliendo,L35-008,transformation,primary,-ir → -iendo (regular gerund),L35#9
+soon,pronto,L35-009,transformation,primary,NOT right-now — no -iendo,L35#7
+week,semana,L35-011,transformation,primary,feminine,L35#12
+I am sincere (m).,Soy sincero.,L35-017,sentence,primary,characteristic = ser,L35#2
+I am sincere (f).,Soy sincera.,L35-018,sentence,primary,-a feminine,L35#2
+We are sincere (m).,Somos sinceros.,L35-019,sentence,primary,,L35#3
+We are sincere (f).,Somos sinceras.,L35-020,sentence,primary,,L35#3
+I am honest (m).,Soy honesto.,L35-021,sentence,primary,,"L35#5, L35#2"
+I am being sincere (m).,Estoy siendo sincero.,L35-022,sentence,primary,estar + siendo — in this moment,L35#4
+I am being sincere (f).,Estoy siendo sincera.,L35-023,sentence,primary,,L35#4
+We are being honest.,Estamos siendo honestos.,L35-024,sentence,primary,,L35#5
+She is being honest.,Está siendo honesta.,L35-025,sentence,primary,,"L35#5, L35#4"
+I'm leaving soon.,Salgo pronto.,L35-026,sentence,primary,soon ≠ right now,"L35#7, L35#6"
+I'm leaving tomorrow.,Salgo mañana.,L35-027,sentence,primary,"future context → present, NOT *saliendo*",L35#8
+I'm leaving (right now).,Estoy saliendo.,L35-028,sentence,primary,the ONLY -iendo case,L35#9
+She is leaving (right now).,Está saliendo.,L35-029,sentence,primary,,L35#9
+I buy them.,Los compro.,L35-030,sentence,primary,= also *I'm buying them*,L35#11
+I'm buying them tomorrow.,Los compro mañana.,L35-031,sentence,primary,future → present,"L35#11, L34#11"
+I'm buying them next week.,Los compro la semana que viene.,L35-032,sentence,primary,*next week* → present,L35#13
+I'm buying them now. (Los…),Los estoy comprando ahora.,L35-033,sentence,primary,ahora → -iendo,L35#14
+I'm buying them now. (Estoy…),Estoy comprándolos ahora.,L35-034,sentence,primary,glued + accent (preserves stress),"L35#14, L34#12"
+He is sincere.,Es sincero.,L35-035,sentence,extended,,L35#2
+They are being sincere.,Están siendo sinceros.,L35-037,sentence,extended,,L35#4
+They are leaving next week.,Salen la semana que viene.,L35-039,sentence,extended,future → present,L35#12
+We are leaving soon.,Salimos pronto.,L35-040,sentence,extended,,L35#7
+He's buying them soon.,Los compra pronto.,L35-041,sentence,extended,,"L35#11, L35#7"
+with them,con ellos,L36-001,transformation,primary,literally *with they*,L36#2
+to find / to encounter,encontrar,L36-004,transformation,primary,regular -ar in future,L36#5
+to remain / to stay,quedar,L36-005,transformation,primary,reflexive *me* for *stay*,L36#13
+to recommend,recomendar,L36-006,transformation,primary,past part. = recomendado,L36#12
+I will eat.,Comeré.,L36-027,sentence,primary,,L36#7
+We will eat.,Comeremos.,L36-028,sentence,primary,,L36#7
+I will go.,Iré.,L36-030,sentence,primary,,L36#9
+They will go to Iran.,Irán a Irán.,L36-032,sentence,primary,verb form = country name,L36#10
+Will you go?,¿Irás?,L36-033,sentence,primary,,L36#11
+Won't you go?,¿No irás?,L36-034,sentence,primary,,L36#11
+Why won't you go?,¿Por qué no irás?,L36-035,sentence,primary,,L36#11
+I will find it.,Lo encontraré.,L36-036,sentence,primary,lo before the verb,L36#5
+We will find it.,Lo encontraremos.,L36-037,sentence,primary,,L36#5
+They will find them.,Los encontrarán.,L36-038,sentence,primary,,L36#5
+I will stay here.,Me quedaré aquí.,L36-039,sentence,primary,*me* needed for *stay*,L36#13
+I will prepare.,Prepararé.,L36-040,sentence,extended,preparar + -é (NOT preparé),L36#14
+I will wait.,Esperaré.,L36-041,sentence,extended,,L36#14
+He will organize.,Organizará.,L36-042,sentence,extended,,L36#14
+I will be tired (m).,Estaré cansado.,L36-044,sentence,primary,state → estar,L36#16
+I will be tired (f).,Estaré cansada.,L36-045,sentence,primary,,L36#16
+It will be.,Será.,L36-046,sentence,primary,,L36#17
+"Whatever will be, will be. (Que…)","Que será, será.",L36-047,sentence,primary,the song line,L36#17
+I'm having breakfast with them tomorrow.,Desayuno con ellos mañana.,L36-048,sentence,primary,future context → present,"L36#1, L36#2"
+I'm going to have breakfast with them.,Voy a desayunar con ellos.,L36-049,sentence,primary,*voy a* + infinitive,L36#1
+I have slept.,He dormido.,L36-051,sentence,primary,he + past participle,L36#4
+We have slept.,Hemos dormido.,L36-052,sentence,primary,,L36#4
+They have recommended it.,Lo han recomendado.,L36-054,sentence,primary,"with haber, lo MUST go before",L36#12
+He will be tired.,Estará cansado.,L36-068,sentence,extended,,L36#16
+We will be sincere.,Seremos sinceros.,L36-070,sentence,extended,ser future for characteristic,"L36#17, L35#2"
+Will he eat?,¿Comerá?,L36-071,sentence,extended,,L36#11
+We will stay here.,Nos quedaremos aquí.,L36-074,sentence,extended,reflexive *nos* for *stay*,L36#13
+We have eaten.,Hemos comido.,L36-076,sentence,extended,-er → -ido,L36#4
+I'm going to wait.,Voy a esperar.,L36-077,sentence,extended,voy a + infinitive,L36#1
+We will go next week.,Iremos la semana que viene.,L36-080,sentence,extended,,"L36#9, L35#12"

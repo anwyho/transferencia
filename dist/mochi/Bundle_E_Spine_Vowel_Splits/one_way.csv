@@ -1,0 +1,43 @@
+front,back,id,type,tier,hint,rule_ref
+I form of saber,sé,L14-004,conjugation,primary,to know · irregular · accent on é · not *sabo*,L14#1
+I form of poner,pongo,L14-007,conjugation,primary,-go family · to put,"L14#10, L14#13"
+I form of suponer,supongo,L14-008,conjugation,primary,suppose · -pose → -poner · -go,"L14#10, L14#13"
+I form of componer,compongo,L14-009,conjugation,primary,compose · -pose → -poner · -go,"L14#10, L14#13"
+I form of oponer,opongo,L14-032,conjugation,extended,oppose · -pose → -poner · -go,"L14#10, L14#13"
+I form of exponer,expongo,L14-033,conjugation,extended,to expose · -pose family · -go,"L14#10, L14#13"
+I form of querer,quiero,L15-001,conjugation,primary,to want · e→ie · stress cracks the root vowel,"L15#3, L15#5"
+she form of querer,quiere,L15-002,conjugation,primary,to want · e→ie,"L15#3, L15#5"
+they form of querer,quieren,L15-003,conjugation,primary,to want · e→ie,"L15#3, L15#5"
+I form of pensar,pienso,L15-006,conjugation,primary,to think · e→ie · cf. *pensive*,"L15#3, L15#9"
+I form of entender,entiendo,L15-007,conjugation,primary,to understand · e→ie,L15#13
+I form of perder,pierdo,L15-008,conjugation,primary,to lose · e→ie · cf. perish,L15#15
+I form of comprender,comprendo,L15-027,conjugation,primary,to understand · no split — comprender keeps the e,L15#14
+you form of querer,quieres,L15-029,conjugation,extended,to want · e→ie · -s = you (informal),L15#5
+you form of pensar,piensas,L15-030,conjugation,extended,to think · e→ie,L15#9
+they form of pensar,piensan,L15-031,conjugation,extended,to think · e→ie,L15#9
+she form of perder,pierde,L15-032,conjugation,extended,to lose · e→ie,L15#15
+they form of perder,pierden,L15-033,conjugation,extended,to lose · e→ie,L15#15
+I form of empezar,empiezo,L16-002,conjugation,primary,to start · e→ie,L16#2
+I form of dormir,duermo,L16-006,conjugation,primary,"to sleep · o→ue · cf. dormant, dormitory",L16#9
+she form of dormir,duerme,L16-007,conjugation,primary,to sleep · o→ue,L16#9
+I form of encontrar,encuentro,L16-008,conjugation,primary,to find · o→ue · also = *un encuentro* (noun),"L16#11, L16#12"
+I form of mostrar,muestro,L16-009,conjugation,primary,to show · o→ue · strip *de-* from *demostrar*,L16#13
+she form of mostrar,muestra,L16-010,conjugation,primary,to show · o→ue · don't roll the single r,"L16#13, L16#14"
+you form of poder,puedes,L16-036,conjugation,extended,to be able · o→ue,L16#6
+they form of dormir,duermen,L16-037,conjugation,extended,to sleep · o→ue,L16#9
+we form of encontrar,encontramos,L17-001,conjugation,primary,to find · no split — stress moved off the root,"L17#5, L17#7"
+we form of mostrar,mostramos,L17-002,conjugation,primary,to show · no split — *-amos* takes the stress,"L17#5, L17#7"
+we form of pensar,pensamos,L17-003,conjugation,primary,to think · no split,"L17#5, L17#7"
+we form of poder,podemos,L17-004,conjugation,primary,to be able · no split · -er → -emos,"L17#5, L17#7"
+we form of entender,entendemos,L17-005,conjugation,primary,to understand · no split,"L17#5, L17#7"
+we form of hablar,hablamos,L17-006,conjugation,primary,to speak · -ar → -amos,L17#5
+we form of tomar,tomamos,L17-007,conjugation,primary,to take/drink · -ar → -amos · also = we drink,"L17#5, L17#9"
+we form of colgar,colgamos,L17-008,conjugation,primary,to hang · no split — only *cuelgo* etc. split,"L17#5, L17#7"
+we form of cerrar,cerramos,L17-009,conjugation,primary,to close · no split,"L17#5, L17#7"
+I form of colgar,cuelgo,L17-010,conjugation,primary,to hang · o→ue + -go (double trick),L17#2
+she form of colgar,cuelga,L17-011,conjugation,primary,to hang · o→ue · no -go in she form,L17#2
+I form of cerrar,cierro,L17-013,conjugation,primary,to close · e→ie · double rr stays,L17#1
+we form of querer,queremos,L17-030,conjugation,extended,to want · no split,"L17#5, L17#7"
+we form of venir,venimos,L17-031,conjugation,extended,to come · -ir → -imos · no split,"L17#5, L17#7"
+we form of dormir,dormimos,L17-032,conjugation,extended,to sleep · -ir → -imos · no split,"L17#5, L17#7"
+they form of colgar,cuelgan,L17-033,conjugation,extended,to hang · o→ue,L17#2

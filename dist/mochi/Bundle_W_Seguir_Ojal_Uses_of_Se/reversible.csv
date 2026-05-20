@@ -1,0 +1,105 @@
+front,back,id,type,tier,hint,rule_ref
+I continue (from seguir),sigo,L78-001,transformation,primary,e→i in I form,L78#1
+he continues / she continues / you (formal) continue,sigue,L78-002,transformation,primary,e→i in he form,L78#2
+being (the -ing form of ser),siendo,L78-003,transformation,primary,ser → siendo (e→ie + -ndo),L78#5
+free (no money),gratis,L78-004,transformation,primary,source of English *gratuitous*,L78#6
+imperative,imperativo,L78-005,transformation,primary,-ive → -ivo,L78#7
+to start (commence cousin),comenzar,L78-006,transformation,primary,cousin of *commence*,L78#8
+to start (more common),empezar,L78-007,transformation,primary,more common than *comenzar*,L78#8
+to finish / to terminate,terminar,L78-009,transformation,primary,-ate → -ar,L78#13
+selling them (gerund + them),vendiéndolos,L78-011,transformation,primary,gerund + lo glued · accent on stem vowel,L78#15
+it's probable that,es probable que,L78-012,transformation,primary,triggers mood after que,"L78#3, L78#4"
+it's imperative that,es imperativo que,L78-013,transformation,primary,triggers mood after que,L78#7
+it's spectacular that,es espectacular que,L78-014,transformation,primary,triggers mood after que,L78#10
+I continue speaking.,Sigo hablando.,L78-015,sentence,primary,seguir + gerund,L78#1
+He continues speaking.,Sigue hablando.,L78-016,sentence,primary,seguir + gerund,L78#2
+It's probable that he continues speaking.,Es probable que siga hablando.,L78-017,sentence,primary,es probable que → mood + gerund,"L78#3, L78#4"
+It's imperative that it continues being free.,Es imperativo que siga siendo gratis.,L78-018,sentence,primary,mood seguir + siendo,"L78#5, L78#6, L78#7"
+I continue selling.,Sigo vendiendo.,L78-019,sentence,primary,seguir + gerund,L78#1
+She continues selling.,Sigue vendiendo.,L78-020,sentence,primary,seguir + gerund,L78#2
+It's spectacular that they begin to speak Spanish.,Es espectacular que comiencen a hablar español.,L78-021,sentence,primary,comenzar a + INF · mood,"L78#9, L78#10"
+It's spectacular that they start out speaking Spanish.,Es espectacular que comiencen hablando español.,L78-022,sentence,primary,comenzar + gerund = start out,"L78#11, L78#12"
+I start to speak.,Empiezo a hablar.,L78-023,sentence,primary,empezar a + INF,L78#9
+I start out speaking.,Empiezo hablando.,L78-024,sentence,primary,empezar + gerund = start out,L78#11
+She begins to sell.,Comienza a vender.,L78-025,sentence,primary,comenzar a + INF,L78#9
+She starts out selling.,Comienza vendiendo.,L78-026,sentence,primary,comenzar + gerund = start out,L78#11
+I finish selling.,Termino de vender.,L78-027,sentence,primary,terminar de + INF,L78#14
+I end up selling them.,Termino vendiéndolos.,L78-028,sentence,primary,terminar + gerund = end up,L78#15
+She finishes selling.,Termina de vender.,L78-029,sentence,primary,terminar de + INF,L78#14
+She ends up selling them.,Termina vendiéndolos.,L78-030,sentence,primary,terminar + gerund = end up,L78#15
+when (in future) you guys finish,cuando terminen,L78-031,sentence,primary,cuando + future = mood,L78#17
+when (in future) you finish selling,cuando termines de vender,L78-032,sentence,primary,cuando + future · terminar de,"L78#17, L78#14"
+when (in future) he ends up selling them,cuando termine vendiéndolos,L78-033,sentence,primary,cuando + future · terminar + gerund,"L78#17, L78#15"
+It's probable that she continues selling.,Es probable que siga vendiendo.,L78-038,sentence,primary,mood seguir + gerund,"L78#3, L78#1"
+It's imperative that he continues.,Es imperativo que siga.,L78-039,sentence,primary,mood seguir,"L78#7, L78#3"
+He'll probably speak Spanish.,Es probable que hable español.,L78-041,sentence,primary,probably ≈ es probable que + mood,L78#4
+He'll probably continue.,Es probable que siga.,L78-042,sentence,primary,probably ≈ es probable que + mood,L78#4
+It continues being free.,Sigue siendo gratis.,L78-043,sentence,primary,seguir + siendo,"L78#5, L78#6"
+I continue eating.,Sigo comiendo.,L78-044,sentence,extended,seguir + gerund,L78#1
+They finish eating.,Terminan de comer.,L78-046,sentence,extended,terminar de + INF,L78#14
+They end up eating.,Terminan comiendo.,L78-047,sentence,extended,terminar + gerund = end up,L78#15
+It's probable that they continue selling.,Es probable que sigan vendiendo.,L78-049,sentence,extended,mood seguir + gerund,"L78#3, L78#1"
+to leave (a thing or message),dejar,L79-001,transformation,primary,not *salir* (go out),L79#1
+message,mensaje,L79-002,transformation,primary,masculine · -aje ending,L79#2
+a message,un mensaje,L79-003,transformation,primary,masculine article,L79#2
+leave me (formal command),déjeme,L79-004,transformation,primary,formal command + me glued · accent,L79#3
+call me (informal command),llámame,L79-005,transformation,primary,informal command + me glued · accent,L79#8
+essential,esencial,L79-007,transformation,primary,-tial → -cial · sp/st → es-,L79#9
+it's essential that,es esencial que,L79-009,transformation,primary,triggers mood after que,L79#10
+hopefully (Arabic origin),ojalá,L79-010,transformation,primary,from Arabic *ojo-Allah* (eye-God) · accent on á,L79#12
+eye / watch out!,ojo,L79-011,transformation,primary,"also = ""be careful""",L79#13
+mood form of ver (he sees),vea,L79-013,transformation,primary,built off irregular *veo* · -ea,L79#11
+mood form of ser (he be),sea,L79-014,transformation,primary,irregular mood root of ser,L79#15
+Leave me a message. (formal),Déjeme un mensaje.,L79-015,sentence,primary,formal command + me,"L79#3, L79#2"
+I want you to leave me a message.,Quiero que me dejes un mensaje.,L79-016,sentence,primary,querer que → mood,L79#4
+I want to tell him to leave me a message.,Quiero decirle que me deje un mensaje.,L79-017,sentence,primary,order via mood after que,L79#5
+"When he leaves you the message, call me.","Cuando te deje el mensaje, llámame.",L79-018,sentence,primary,cuando + future · command + me,"L79#7, L79#8"
+It's essential that he see my message.,Es esencial que vea mi mensaje.,L79-019,sentence,primary,es esencial que → mood ver,"L79#10, L79#11"
+Hopefully she leaves a message.,Ojalá deje un mensaje.,L79-020,sentence,primary,ojalá → mood,L79#14
+Hopefully it'll be soon.,Ojalá sea pronto.,L79-021,sentence,primary,ojalá → mood ser,"L79#14, L79#15, L79#16"
+Hopefully he leaves me a message.,Ojalá me deje un mensaje.,L79-022,sentence,primary,ojalá + mood + me,L79#14
+It's essential that you call me.,Es esencial que me llames.,L79-024,sentence,primary,es esencial que → mood + me,L79#10
+It's essential that he see it.,Es esencial que lo vea.,L79-025,sentence,primary,mood ver + lo,"L79#10, L79#11"
+I want him to leave it.,Quiero que lo deje.,L79-026,sentence,primary,querer que → mood + lo,L79#4
+"When he leaves it, call me.","Cuando lo deje, llámame.",L79-027,sentence,primary,cuando + future · command + me,"L79#7, L79#8"
+Watch out!,¡Ojo!,L79-028,sentence,primary,literally *eye*,L79#13
+Leave me the message. (formal),Déjeme el mensaje.,L79-031,sentence,primary,formal command + me,L79#3
+Call me. (informal),Llámame.,L79-032,sentence,primary,informal command + me,L79#8
+I want to tell her to call me.,Quiero decirle que me llame.,L79-033,sentence,primary,order via mood after que,L79#5
+I want her to see the message.,Quiero que vea el mensaje.,L79-039,sentence,extended,querer que → mood ver,"L79#4, L79#11"
+"When she sees the message, call me.","Cuando vea el mensaje, llámame.",L79-041,sentence,extended,cuando + future · mood ver,"L79#7, L79#11, L79#8"
+I know (a fact),sé,L80-001,transformation,primary,written accent · from saber,L80#1
+I know (with subject pronoun),yo sé,L80-003,transformation,primary,bare *sé* sounds tiny → add *yo*,L80#1
+he stays / he remains,se queda,L80-004,transformation,primary,self-se · *quedar* + se,L80#3
+to stay / to remain,quedar,L80-005,transformation,primary,-ar verb,L80#3
+door (cousin of *port*),puerta,L80-007,transformation,primary,o→ue · related to *puerto*,L80#8
+closes itself / closes by itself,se cierra,L80-008,transformation,primary,self-se · e→ie,L80#6
+I prepare it for him (phonetic se),se lo preparo,L80-009,transformation,primary,le+lo → se+lo (Spanish dislikes les lo),L80#4
+I prepare it,lo preparo,L80-011,transformation,primary,lo + verb,L80#4
+dinner (the noun),cena,L80-013,transformation,primary,feminine,L80#9
+it burned (point past),quemó,L80-015,transformation,primary,-ó point past,L80#17
+to finish / to run out,acabar,L80-016,transformation,primary,-ar verb,L80#11
+battery,batería,L80-017,transformation,primary,accent on í,L80#12
+I prepare it for him.,Se lo preparo.,L80-020,sentence,primary,phonetic se (le+lo → se+lo),L80#4
+The door closes (itself).,La puerta se cierra.,L80-021,sentence,primary,self-se · e→ie,L80#6
+The door closes on me.,La puerta se me cierra.,L80-022,sentence,primary,se + me = on me,"L80#5, L80#7"
+The door closes on me. (alt order),Se me cierra la puerta.,L80-023,sentence,primary,same meaning · noun moves,L80#7
+The dinner gets burned.,La cena se quema.,L80-024,sentence,primary,self-se,L80#10
+The dinner is burning on me.,La cena se me quema.,L80-025,sentence,primary,se + me = on me,"L80#5, L80#10"
+The battery runs out.,La batería se acaba.,L80-026,sentence,primary,self-se · *acabar*,L80#12
+The battery runs out on me.,La batería se me acaba.,L80-027,sentence,primary,se + me = on me,"L80#5, L80#12"
+My battery always runs out on me.,La batería siempre se me acaba.,L80-028,sentence,primary,siempre + se me + verb,L80#13
+Does the battery run out on you? (informal),¿La batería se te acaba?,L80-029,sentence,primary,se + te = on you (informal),L80#14
+Does the battery run out on you? (formal),¿La batería se le acaba?,L80-030,sentence,primary,se + le = on you (formal),L80#15
+The battery runs out on them.,La batería se les acaba.,L80-031,sentence,primary,se + les = on them,L80#16
+The dinner got burned. (point past),La cena se quemó.,L80-032,sentence,primary,self-se · point past,L80#17
+The dinner got burned on me.,La cena se me quemó.,L80-033,sentence,primary,se + me · point past,L80#17
+The dinner got burned on us.,La cena se nos quemó.,L80-034,sentence,primary,se + nos · point past,L80#17
+The door always closes on me.,La puerta siempre se me cierra.,L80-040,sentence,primary,siempre + se me + verb,L80#13
+They prepare it for him.,Se lo preparan.,L80-048,sentence,extended,phonetic se · they form,L80#4
+We prepare it for him.,Se lo preparamos.,L80-049,sentence,extended,phonetic se · we form,L80#4
+The dinner always burns on me.,La cena siempre se me quema.,L80-050,sentence,extended,siempre + se me + verb,L80#13
+The battery ran out on them.,La batería se les acabó.,L80-051,sentence,extended,se + les · point past,"L80#16, L80#17"
+The dinner is burning on you all.,La cena se les quema.,L80-054,sentence,extended,se + les = on you all,"L80#16, L80#10"
+I know that he stays.,Sé que se queda.,L80-055,sentence,extended,sé (I know) + self-se queda,"L80#1, L80#3"
+I know that the battery runs out.,Sé que la batería se acaba.,L80-056,sentence,extended,sé + self-se,"L80#1, L80#12"

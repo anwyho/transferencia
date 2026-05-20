@@ -3,8 +3,8 @@
 audio/.cache/
 audio/.media/
 
-# generated builds
-dist/
+# generated builds — tracked (commit alongside source so consumers don't need
+# Python/Piper to pull the latest .apkg / Mochi CSVs / cards.json).
 
 # Piper voice models
 build/.piper-voices/

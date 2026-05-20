@@ -1,0 +1,95 @@
+front,back,id,type,tier,hint,rule_ref
+ago (with time),hace,L64-001,transformation,primary,literally 'it makes' · sticks before time,L64#1
+two weeks ago,hace dos semanas,L64-002,transformation,primary,literally 'it makes X time' → ago,L64#1
+a month ago,hace un mes,L64-003,transformation,primary,mes is masculine → un,"L64#1, L64#5"
+month,mes,L64-004,transformation,primary,masculine · el mes / un mes,L64#5
+last night,anoche,L64-005,transformation,primary,not 'tonight' — that's *esta noche*,L64#10
+to respond,responder,L64-006,transformation,primary,-er verb,L64#3
+I saw him two weeks ago.,Lo vi hace dos semanas.,L64-021,sentence,primary,hace phrase glues right onto sentence,"L64#1, L64#2"
+I responded to her.,Le respondí.,L64-022,sentence,primary,drop 'to' — Spanish uses *le*,L64#3
+I responded it to her.,Se lo respondí.,L64-023,sentence,primary,le + lo → se lo,"L64#3, L64#4"
+I responded it to her a month ago.,Se lo respondí hace un mes.,L64-024,sentence,primary,se lo + past + hace,"L64#1, L64#4"
+Did you eat?,¿Comiste?,L64-025,sentence,primary,same sentence + question marks,"L64#7, L64#9"
+Did you go out last night?,¿Saliste anoche?,L64-026,sentence,primary,-ir past + last-night word,"L64#7, L64#10"
+Where did you live?,¿Dónde viviste?,L64-027,sentence,primary,closed-time → past-point,"L64#7, L64#11"
+nothing else,nada más,L65-001,transformation,primary,nothing + more,L65#1
+nobody else,nadie más,L65-002,transformation,primary,nobody + more,L65#1
+time / occasion,vez,L65-003,transformation,primary,feminine · /bes/ in Spain,L65#5
+once / one time,una vez,L65-004,transformation,primary,feminine → una,L65#6
+again / another time,otra vez,L65-005,transformation,primary,no *una*: just *otra*,"L65#6, L65#8"
+at the same time,a la vez,L65-006,transformation,primary,literally 'at the time',L65#19
+at what time?,¿a qué hora?,L65-007,transformation,primary,"hour-word, not occasion-word",L65#18
+my (sg),mi,L65-008,transformation,primary,no accent · agrees only with thing,"L65#12, L65#14"
+your (informal sg),tu,L65-009,transformation,primary,no accent · vs *tú* (you),"L65#12, L65#14"
+his / her / their / your-formal (sg),su,L65-010,transformation,primary,"one word, four owners",L65#12
+our (fem sg),nuestra,L65-012,transformation,primary,-a for fem thing,L65#14
+my (pl),mis,L65-013,transformation,primary,thing is plural → +s,"L65#13, L65#14"
+their (pl thing),sus,L65-014,transformation,primary,thing is plural · NOT because owners are many,L65#15
+own (masc sg),propio,L65-015,transformation,primary,cousin of 'property' · agrees with thing,L65#16
+everybody / everyone,todos,L65-016,transformation,primary,literally 'all' (plural),L65#20
+I didn't eat anything else.,No comí nada más.,L65-021,sentence,primary,double negative is normal,"L65#1, L65#2"
+I want to see them again.,Quiero verlos otra vez.,L65-022,sentence,primary,object glued onto 'to' form · again,"L65#6, L65#8"
+My house is your house.,Mi casa es tu casa.,L65-023,sentence,primary,my + your (no accents on possessives),"L65#12, L65#17"
+I want to go to their house.,Quiero ir a su casa.,L65-024,sentence,primary,thing is sg → su (not sus),L65#15
+I want to go to their houses.,Quiero ir a sus casas.,L65-025,sentence,primary,thing is pl → sus,L65#15
+I saw it with my own eyes.,Lo vi con mis propios ojos.,L65-026,sentence,primary,pl thing → mis propios,"L65#16, L65#4"
+I want to live in my own house.,Quiero vivir en mi propia casa.,L65-027,sentence,primary,own + fem thing,L65#16
+to hurt,doler,L66-001,transformation,primary,o-splits to ue in present,L66#3
+it hurts,duele,L66-002,transformation,primary,o → ue split,L66#3
+it hurts me,me duele,L66-003,transformation,primary,indirect-style · 'me' carries the owner,"L66#1, L66#3"
+pain (noun),dolor,L66-004,transformation,primary,noun form of *doler*,L66#5
+leg,pierna,L66-005,transformation,primary,feminine · *la pierna*,L66#2
+head,cabeza,L66-006,transformation,primary,feminine · *la cabeza*,L66#5
+headache,dolor de cabeza,L66-007,transformation,primary,literally 'pain of head',L66#5
+party (celebration),fiesta,L66-008,transformation,primary,feminine,L66#7
+only / just,solo,L66-009,transformation,primary,place after for emphasis,L66#8
+My leg hurts.,Me duele la pierna.,L66-010,sentence,primary,skip possessive · use *me* + *la*,"L66#1, L66#2"
+My head hurts.,Me duele la cabeza.,L66-011,sentence,primary,"body part takes 'the', not 'my'","L66#1, L66#2"
+My leg doesn't hurt anymore.,No me duele la pierna más.,L66-012,sentence,primary,anymore = más (with negation),L66#4
+My head doesn't hurt anymore.,No me duele la cabeza más.,L66-013,sentence,primary,more = anymore in negative,L66#4
+I have a headache.,Tengo dolor de cabeza.,L66-014,sentence,primary,tener + dolor de + body part,L66#6
+I had a headache. (line),Tenía dolor de cabeza.,L66-015,sentence,primary,line-past 'I had',L66#6
+My head was hurting. (line),Me dolía la cabeza.,L66-016,sentence,primary,line-past of *duele*,L66#6
+José's house,la casa de José,L66-017,sentence,primary,X's Y → the Y of X,L66#7
+We're going to José's house.,Vamos a la casa de José.,L66-018,sentence,primary,a + the-Y-of-X,L66#7
+We're going to María's party.,Vamos a la fiesta de María.,L66-019,sentence,primary,X's party: the party of X,L66#7
+I only spoke with you.,Solo hablé contigo.,L66-020,sentence,primary,solo + I-past · with-you = contigo,L66#8
+I spoke only with you. (emphatic),Hablé contigo solo.,L66-021,sentence,primary,solo at end → emphasis,L66#8
+I didn't speak with anybody else at María's party.,No hablé con nadie más en la fiesta de María.,L66-022,sentence,primary,double negative + the-party-of,"L66#9, L66#7"
+yes (vs *if*),sí,L67-001,transformation,primary,accent disambiguates from *si*,L67#9
+if (no accent),si,L67-002,transformation,primary,no accent · contrast with *sí*,L67#9
+"you (subject, with accent)",tú,L67-003,transformation,primary,accent · subject pronoun,L67#9
+where? (question),dónde,L67-009,transformation,primary,accent marks the question word,L67#10
+where (non-question),donde,L67-010,transformation,primary,no accent in non-question,L67#10
+how? (question),cómo,L67-011,transformation,primary,accent in question,L67#10
+tradition,tradición,L67-017,transformation,primary,ends in n but stress at end → accent,L67#7
+lesson,lección,L67-019,transformation,primary,"ends in n, stress at end → accent",L67#7
+lemon,limón,L67-020,transformation,primary,"Persian-origin · ends in n, stress at end",L67#7
+to find (infinitive),encontrar,L67-021,transformation,primary,"ends in r, stress at end → no accent",L67#5
+addictive,adictivo,L67-022,transformation,primary,"ends in vowel, stress on 2nd-last → no accent",L67#3
+It's for me. (with accent),Es para mí.,L67-023,sentence,primary,after prep → mí takes accent,L67#9
+My house.,Mi casa.,L67-024,sentence,primary,my-word takes no accent,L67#9
+Your house.,Tu casa.,L67-025,sentence,primary,your-word takes no accent,L67#9
+Where did he respond?,¿Dónde respondió?,L67-028,sentence,primary,question word + -ió (stress accent),"L67#10, L67#7"
+I saw her three weeks ago.,La vi hace tres semanas.,L64-036,sentence,extended,feminine object + hace,"L64#1, L64#2"
+They sold the car five months ago.,Vendieron el auto hace cinco meses.,L64-037,sentence,extended,-ieron + masc time,"L64#8, L64#1"
+Did you respond to her last night?,¿Le respondiste anoche?,L64-038,sentence,extended,le + you-informal -iste + last-night,"L64#3, L64#7, L64#10"
+They prepared it.,Lo prepararon.,L64-040,sentence,extended,object pronoun + -aron,L64#8
+I saw him once.,Lo vi una vez.,L65-030,sentence,extended,object + I-past + occasion count,"L65#4, L65#6"
+I want to see them one more time.,Quiero verlos una vez más.,L65-031,sentence,extended,object glued onto 'to' form,L65#6
+Did you go out to dance again?,¿Saliste a bailar otra vez?,L65-032,sentence,extended,motion verb + a + 'to' form,L65#9
+Did you arrive late again?,¿Llegaste tarde otra vez?,L65-033,sentence,extended,-ar past you-informal + again,L65#6
+Everybody arrived at my house at the same time.,Todos llegaron a mi casa a la vez.,L65-034,sentence,extended,everybody + they-past + at-the-time,"L65#20, L65#19"
+Did you visit our house?,¿Visitaste nuestra casa?,L65-035,sentence,extended,tu-past + our-fem-sg,L65#14
+We are with our friends. (fem),Estamos con nuestras amigas.,L65-036,sentence,extended,our-fem-pl,L65#14
+I am with my friends.,Estoy con mis amigos.,L65-037,sentence,extended,my-pl thing,L65#13
+She arrived late at my house again.,Llegó tarde a mi casa otra vez.,L65-038,sentence,extended,she-form past + my-thing + again,"L65#12, L65#6"
+His leg hurts.,Le duele la pierna.,L66-023,sentence,extended,le carries the owner · skip *su*,"L66#1, L66#2"
+I didn't speak with anybody else.,No hablé con nadie más.,L66-029,sentence,extended,double negative,L66#9
+They only arrived at our house.,Solo llegaron a nuestra casa.,L66-030,sentence,extended,solo + they-past + our-fem-sg,L66#8
+He lived there.,Vivió allí.,L67-031,sentence,extended,-ió ends in vowel + stress at end → accent,L67#7
+She arrived late.,Llegó tarde.,L67-032,sentence,extended,-ó stress at end → written accent,L67#7
+I spoke yesterday.,Hablé ayer.,L67-033,sentence,extended,-é · ends in vowel + stress at end → accent,L67#7
+How is she?,¿Cómo está?,L67-035,sentence,extended,question word accent + está (broken-rule),"L67#10, L67#12"
+When did they arrive?,¿Cuándo llegaron?,L67-036,sentence,extended,question word accent + they-past,L67#10
+concentration,concentración,L67-038,transformation,extended,"-ción · ends in n, stress at end → accent","L67#2, L67#7"

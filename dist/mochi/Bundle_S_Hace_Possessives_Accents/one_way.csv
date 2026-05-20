@@ -1,0 +1,24 @@
+front,back,id,type,tier,hint,rule_ref
+past-point you-informal form of hablar,hablaste,L64-008,conjugation,primary,speak (past) · -ar → -aste · s+t mark you-informal,L64#7
+past-point you-informal form of esperar,esperaste,L64-009,conjugation,primary,wait/hope (past) · -ar → -aste,L64#7
+past-point you-informal form of llegar,llegaste,L64-010,conjugation,primary,arrive (past) · -ar → -aste,L64#7
+past-point you-informal form of comer,comiste,L64-011,conjugation,primary,eat (past) · -er → -iste · /i/-heavy past,"L64#7, L64#12"
+past-point you-informal form of vivir,viviste,L64-012,conjugation,primary,live (past) · -ir → -iste,L64#7
+past-point you-informal form of salir,saliste,L64-013,conjugation,primary,leave (past) · -ir → -iste,L64#7
+past-point you-informal form of vender,vendiste,L64-014,conjugation,primary,sell (past) · -er → -iste,L64#7
+past-point they form of hablar,hablaron,L64-015,conjugation,primary,speak (past) · -ar → -aron,L64#8
+past-point they form of esperar,esperaron,L64-016,conjugation,primary,wait/hope (past) · -ar → -aron,L64#8
+past-point they form of llegar,llegaron,L64-017,conjugation,primary,arrive (past) · -ar → -aron,L64#8
+past-point they form of comer,comieron,L64-018,conjugation,primary,eat (past) · -er → -ieron · the lone /e/ marks -er/-ir,"L64#8, L64#13"
+past-point they form of salir,salieron,L64-019,conjugation,primary,leave (past) · -ir → -ieron,L64#8
+past-point they form of vender,vendieron,L64-020,conjugation,primary,sell (past) · -er → -ieron,L64#8
+past-point I form of ver,vi,L65-017,conjugation,primary,see (past) · ver is short — no accent,L65#4
+past-point she form of ver,vio,L65-018,conjugation,primary,see (past) · short form · no accent,L65#4
+past-point you-informal form of ver,viste,L65-019,conjugation,primary,see (past) · -iste with no extra vowel,L65#4
+past-point they form of ver,vieron,L65-020,conjugation,primary,"see (past) · stress on /e/ · short form, no accent",L65#4
+past-point you-informal form of trabajar,trabajaste,L64-032,conjugation,extended,work (past) · -ar → -aste · /j/ = /h/,L64#7
+past-point they form of trabajar,trabajaron,L64-033,conjugation,extended,work (past) · -ar → -aron,L64#8
+past-point you-informal form of preparar,preparaste,L64-034,conjugation,extended,prepare (past) · -ar → -aste,L64#7
+past-point they form of vivir,vivieron,L64-035,conjugation,extended,live (past) · -ir → -ieron,L64#8
+past-point we form of ver,vimos,L65-028,conjugation,extended,see (past) · -imos · short stem,L65#4
+past-point I form of encontrar,encontré,L65-029,conjugation,extended,find (past) · -é (accent) for I,L65#21

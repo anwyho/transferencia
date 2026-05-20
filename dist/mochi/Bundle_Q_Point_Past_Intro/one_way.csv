@@ -1,0 +1,22 @@
+front,back,id,type,tier,hint,rule_ref
+point-past I form of hablar,hablé,L58-001,conjugation,primary,speak (past) · -ar → -é (accent on e),L58#3
+point-past I form of comprar,compré,L58-002,conjugation,primary,buy (past) · -ar → -é (accent on e),L58#3
+point-past I form of enviar,envié,L58-003,conjugation,primary,"send (past) · -ar → -é · cousin of ""envoy","L58#3, L58#8"
+point-past I form of olvidar,olvidé,L58-004,conjugation,primary,forget (past) · -ar → -é,"L58#3, L58#14"
+point-past he form of hablar,habló,L58-007,conjugation,primary,speak (past) · -ar → -ó (accent on o),L58#3
+point-past he form of comprar,compró,L58-010,conjugation,primary,buy (past) · -ar → -ó,L58#3
+point-past he form of enviar,envió,L58-011,conjugation,primary,send (past) · -ar → -ó,"L58#3, L58#8"
+point-past he form of olvidar,olvidó,L58-012,conjugation,primary,forget (past) · -ar → -ó,"L58#3, L58#14"
+point-past I form of comer,comí,L59-001,conjugation,primary,eat (past) · -er/-ir → -í (accent on i),L59#2
+point-past I form of vivir,viví,L59-002,conjugation,primary,live (past) · -er/-ir → -í,L59#2
+point-past I form of ver,vi,L59-003,conjugation,primary,"see (past) · short — only one syllable, no accent needed",L59#8
+point-past I form of salir,salí,L59-004,conjugation,primary,leave (past) · -ir → -í · regular here,"L59#2, L59#4"
+point-past he form of comer,comió,L59-007,conjugation,primary,eat (past) · -er/-ir → -ió,L59#2
+point-past he form of vivir,vivió,L59-009,conjugation,primary,live (past) · -er/-ir → -ió,L59#2
+point-past he form of ver,vio,L59-010,conjugation,primary,see (past) · short irregular · no accent,L59#8
+point-past he form of salir,salió,L59-011,conjugation,primary,leave (past) · -ir → -ió,"L59#2, L59#4"
+point-past he form of durar,duró,L59-012,conjugation,primary,last (past) · -ar → -ó,"L58#3, L59#12"
+than (in comparisons),que,L59-031,transformation,primary,"no accent · same word as ""that""",L59#6
+point-past we form of hablar,hablamos,L60-001,conjugation,primary,"same as present ""we speak"" — context decides","L60#2, L60#3"
+point-past we form of comer,comimos,L60-002,conjugation,primary,eat (past) · -er differs from present (comemos → comimos),"L60#5, L60#6"
+point-past we form of vivir,vivimos,L60-003,conjugation,primary,live (past) · same as present — -ir matches itself,"L60#4, L60#6"

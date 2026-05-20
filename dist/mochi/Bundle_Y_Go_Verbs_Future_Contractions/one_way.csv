@@ -1,0 +1,67 @@
+front,back,id,type,tier,hint,rule_ref
+I form of decir,digo,L84-004,conjugation,primary,to say · -go family · stem also vowel-shifts,"L84#2, L84#7"
+I form of oír,oigo,L84-005,conjugation,primary,to hear · -go family · extra i before -go,"L84#2, L84#9"
+I form of traer,traigo,L84-006,conjugation,primary,to bring · -go family · extra i before -go,"L84#2, L84#10"
+you (inf.) form of tener,tienes,L84-007,conjugation,extended,to have · only I-form is -go · vowel-split elsewhere,L84#3
+mood I/he/she form of tener,tenga,L84-016,conjugation,primary,have (subj.) · -go → -ga · spreads to all persons,L84#12
+mood you (inf.) form of tener,tengas,L84-017,conjugation,primary,have (subj.) · -ga base + -s,L84#12
+mood we form of tener,tengamos,L84-018,conjugation,primary,have (subj.) · -ga base + -mos,L84#12
+mood I/he/she form of venir,venga,L84-019,conjugation,primary,come (subj.) · -go → -ga · *venga vale* hook,"L84#12, L84#13"
+mood you (inf.) form of venir,vengas,L84-020,conjugation,primary,come (subj.) · -ga + -s,L84#12
+mood I/he/she form of poner,ponga,L84-021,conjugation,primary,put (subj.) · -go → -ga,L84#12
+mood I/he/she form of decir,diga,L84-022,conjugation,primary,say (subj.) · -go → -ga · phone-answer hook,"L84#12, L84#14"
+mood I/he/she form of hacer,haga,L84-023,conjugation,primary,do (subj.) · -go → -ga · silent h,L84#12
+mood I/he/she form of traer,traiga,L84-024,conjugation,extended,bring (subj.) · -igo → -iga,L84#12
+mood you (inf.) form of traer,traigas,L84-025,conjugation,extended,bring (subj.) · -iga + -s,L84#12
+mood we form of poner,pongamos,L84-033,conjugation,extended,put (subj.) · -ga + -mos,L84#12
+mood they form of hacer,hagan,L84-034,conjugation,extended,do (subj.) · -ga + -n,L84#12
+mood I/he/she form of oír,oiga,L84-035,conjugation,extended,hear (subj.) · -igo → -iga,L84#12
+informal command of tener,ten,L85-001,conjugation,primary,to have · drop -go off the I-form,L85#4
+informal command of salir,sal,L85-002,conjugation,primary,to leave · drop -go off the I-form,L85#4
+informal command of venir,ven,L85-003,conjugation,primary,to come · drop -go off the I-form,L85#4
+informal command of decir,di,L85-004,conjugation,primary,to say · drop -go off the I-form,L85#4
+informal command of poner,pon,L85-005,conjugation,primary,to put · drop -go off the I-form,L85#4
+formal command of salir,salga,L85-006,conjugation,primary,to leave · formal cmd = mood -ga,L85#1
+formal plural command of salir,salgan,L85-007,conjugation,extended,to leave · -ga + -n for formal plural,L85#1
+formal command of decir,diga,L85-027,conjugation,extended,to say · formal cmd = mood,L85#1
+formal plural command of poner,pongan,L85-028,conjugation,extended,to put · -ga + -n for formal plural,L85#1
+I will have (tener),tendré,L86-001,conjugation,primary,contraction · -er → -dr-,L86#4
+you (inf.) will have (tener),tendrás,L86-002,conjugation,extended,contraction stem + -ás,"L86#4, L86#1"
+she will have (tener),tendrá,L86-003,conjugation,extended,contraction stem + -á,"L86#4, L86#1"
+we will have (tener),tendremos,L86-004,conjugation,primary,contraction stem + -emos,"L86#4, L86#1"
+they will have (tener),tendrán,L86-005,conjugation,primary,contraction stem + -án,"L86#4, L86#1"
+I will come (venir),vendré,L86-006,conjugation,primary,contraction · -ir → -dr-,L86#5
+we will come (venir),vendremos,L86-008,conjugation,primary,contraction stem + -emos,L86#5
+I will put (poner),pondré,L86-009,conjugation,primary,contraction · -er → -dr-,L86#6
+we will put (poner),pondremos,L86-010,conjugation,primary,contraction stem + -emos,L86#6
+I will leave (salir),saldré,L86-011,conjugation,primary,contraction · -ir → -dr-,L86#7
+you (inf.) will leave (salir),saldrás,L86-012,conjugation,primary,contraction stem + -ás,L86#7
+I will do/make (hacer),haré,L86-013,conjugation,primary,extra-irregular · drop the c,L86#10
+they will do/make (hacer),harán,L86-015,conjugation,primary,extra-irregular stem + -án,L86#10
+I will say/tell (decir),diré,L86-016,conjugation,primary,extra-irregular · drop the c,L86#10
+she will say/tell (decir),dirá,L86-017,conjugation,primary,extra-irregular stem + -á,L86#10
+I will be able (poder),podré,L86-018,conjugation,primary,drop the e of poder,L86#13
+I would have (tener),tendría,L86-020,conjugation,primary,same stem as future · -ía,"L86#4, L86#8"
+I would come (venir),vendría,L86-021,conjugation,primary,same stem as future · -ía,"L86#5, L86#8"
+we would come (venir),vendríamos,L86-022,conjugation,primary,same stem as future · -íamos,"L86#5, L86#8"
+I would put (poner),pondría,L86-023,conjugation,primary,same stem as future · -ía,"L86#6, L86#8"
+I would leave (salir),saldría,L86-024,conjugation,extended,same stem as future · -ía,"L86#7, L86#8"
+you (inf.) would leave (salir),saldrías,L86-025,conjugation,primary,same stem as future · -ías,"L86#7, L86#8"
+I would do/make (hacer),haría,L86-026,conjugation,primary,extra-irregular · -ía,"L86#10, L86#8"
+we would do/make (hacer),haríamos,L86-027,conjugation,primary,extra-irregular · -íamos,"L86#10, L86#8"
+I will bring (traer),traeré,L86-041,conjugation,extended,traer does NOT contract,L86#9
+I will attract (atraer),atraeré,L86-042,conjugation,extended,atraer does NOT contract,L86#9
+line-past they form of ser,eran,L87-004,conjugation,primary,be (was -ing) · era + -n,L87#2
+line-past they form of ir,iban,L87-008,conjugation,primary,go (was -ing) · iba + -n,L87#3
+line-past they form of ver,veían,L87-011,conjugation,extended,see (was -ing) · extra e + -ían,L87#4
+point-past I form of tener,tuve,L87-012,conjugation,primary,have (past) · root tuv- · -e ending (no accent),"L87#5, L87#7"
+point-past she form of tener,tuvo,L87-014,conjugation,primary,have (past) · tuv- + -o (no accent),L87#7
+point-past we form of tener,tuvimos,L87-015,conjugation,primary,have (past) · tuv- + -imos,L87#7
+point-past they form of tener,tuvieron,L87-016,conjugation,primary,have (past) · tuv- + -ieron,L87#7
+point-past I form of estar,estuve,L87-017,conjugation,primary,be (past) · root estuv- · pair with tuve,L87#8
+point-past they form of estar,estuvieron,L87-021,conjugation,primary,be (past) · estuv- + -ieron,L87#8
+point-past I form of decir,dije,L87-022,conjugation,primary,say (past) · root dij- · -e (no accent),L87#11
+point-past she form of decir,dijo,L87-023,conjugation,primary,say (past) · root dij- · -o (no accent),L87#11
+point-past they form of poder,pudieron,L87-025,conjugation,primary,be able (past) · root pud- · model for the family,L87#5
+point-past I form of poder,pude,L87-026,conjugation,primary,be able (past) · root pud- · -e (no accent),L87#5
+line-past I/he/she form of hablar,hablaba,L87-033,conjugation,extended,speak (was -ing) · line-past super regular · -ar → -aba,L87#1

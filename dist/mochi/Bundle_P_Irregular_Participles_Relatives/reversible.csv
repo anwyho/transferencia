@@ -1,0 +1,112 @@
+front,back,id,type,tier,hint,rule_ref
+"closed (m sg, adjective)",cerrado,L54-001,transformation,primary,-ar verb → -ado · agrees like adj,"L54#1, L54#15"
+closed (f sg),cerrada,L54-002,transformation,primary,-ado → -ada for fem,L54#3
+closed (m pl),cerrados,L54-003,transformation,primary,agrees like adj · plural -s,L54#3
+closed (f pl),cerradas,L54-004,transformation,primary,-ada + s,L54#3
+wet (m sg),mojado,L54-005,transformation,primary,-ar → -ado,L54#15
+the door,la puerta,L54-007,transformation,primary,feminine,L54#7
+the chair,la silla,L54-008,transformation,primary,feminine · double-l = /y/,L54#11
+the movie,la película,L54-009,transformation,primary,feminine · stress on -LÍ-,L54#18
+the idea,la idea,L54-010,transformation,primary,feminine,L54#17
+a person (always fem),una persona,L54-011,transformation,primary,word is fem even for a man,L54#9
+It is closed. (the door),Está cerrada.,L54-012,sentence,primary,estar + state · fem agreement,"L54#4, L54#7"
+It is closed. (m),Está cerrado.,L54-013,sentence,primary,estar — never ser for state,L54#4
+The door is closed.,La puerta está cerrada.,L54-014,sentence,primary,state → estar,"L54#4, L54#7"
+I am lost. (f),Estoy perdida.,L54-016,sentence,primary,agrees with fem speaker,"L54#3, L54#4"
+They are sold. (houses),Están vendidas.,L54-018,sentence,primary,-er → -ido · fem pl,L54#16
+They are sold. (m),Están vendidos.,L54-019,sentence,primary,state → estar · m pl,L54#16
+She is a closed person.,Es una persona cerrada.,L54-023,sentence,primary,noun dominates → ser,"L54#8, L54#11"
+He is a lost person.,Es una persona perdida.,L54-024,sentence,primary,persona is fem · ser (naming),"L54#8, L54#9"
+It is a wet chair.,Es una silla mojada.,L54-025,sentence,primary,naming → ser even with adj,L54#11
+The chair is wet.,La silla está mojada.,L54-026,sentence,primary,state → estar,L54#12
+lost (m sg),perdido,L54-027,transformation,extended,-er → -ido,L54#15
+sold (f sg),vendida,L54-028,transformation,extended,-er → -ido → fem -ida,"L54#15, L54#3"
+He is closed to the idea.,Está cerrado a la idea.,L54-030,sentence,extended,cerrado a + thing,L54#17
+The doors are closed.,Las puertas están cerradas.,L54-031,sentence,extended,fem pl agreement,"L54#3, L54#4"
+The chairs are wet.,Las sillas están mojadas.,L54-032,sentence,extended,state → estar · fem pl,L54#12
+I have gotten tired.,Me he cansado.,L54-033,sentence,extended,reflexive + haber · part doesn't agree,"L54#13, L54#2"
+I would like to have gone.,Me gustaría haber ido.,L54-034,sentence,extended,haber + part (ir → ido),L54#5
+It's a wet door.,Es una puerta mojada.,L54-036,sentence,extended,naming → ser,L54#11
+broken (irregular participle of romper),roto,L55-001,transformation,primary,irregular -to ending,L55#10
+said / told (irregular participle of decir),dicho,L55-002,transformation,primary,irregular -cho ending,"L55#10, L55#16"
+done / made (irregular participle of hacer),hecho,L55-003,transformation,primary,irregular -cho · pair with dicho,"L55#10, L55#16"
+to cancel,cancelar,L55-008,transformation,primary,-ar verb · cognate,L55#1
+cancelled (m),cancelado,L55-009,transformation,primary,-ar → -ado,L55#2
+complicated (m),complicado,L55-010,transformation,primary,-ar → -ado · cognate,L55#5
+I have broken them.,Los he roto.,L55-013,sentence,primary,part doesn't agree after haber,"L54#2, L55#10"
+It has broken.,Se ha roto.,L55-014,sentence,primary,se ha + part = it became X,L55#4
+It is broken. (m),Está roto.,L55-015,sentence,primary,estar + state · irreg part as adj,L55#11
+It is broken. (f),Está rota.,L55-016,sentence,primary,irreg part agrees as adj,L55#11
+They are open.,Están abiertos.,L55-017,sentence,primary,irreg part agrees · m pl,L55#11
+I have opened it.,Lo he abierto.,L55-018,sentence,primary,lo + haber + irreg part,L55#10
+I have said it.,Lo he dicho.,L55-019,sentence,primary,lo + haber + irreg part,L55#10
+I have told him.,Le he dicho.,L55-020,sentence,primary,le = to him/her,L55#10
+He is dead.,Está muerto.,L55-025,sentence,primary,muerto only with estar,L55#12
+I have cancelled.,He cancelado.,L55-026,sentence,primary,haber + -ado,L55#1
+a saying,un dicho,L55-029,transformation,extended,irreg part doubles as noun,L55#17
+a fact,un hecho,L55-030,transformation,extended,irreg part doubles as noun,L55#17
+war,guerra,L55-031,transformation,extended,W↔G pair (war → guerra),L55#19
+smoke (noun),humo,L55-032,transformation,extended,F↔H · cousin of *fume*,L55#18
+deep,hondo,L55-033,transformation,extended,F↔H · cousin of *profound*,L55#18
+"I'm dead. (f, exhausted)",Estoy muerta.,L55-034,sentence,extended,idiom = exhausted,L55#13
+I'm dying. (laughing),Me muero.,L55-035,sentence,extended,idiom · reflexive,L55#14
+It has got complicated.,Se ha complicado.,L55-036,sentence,extended,se ha + part = it became,L55#4
+I should have cancelled.,Debería haber cancelado.,L55-037,sentence,extended,debería + haber + part,L55#8
+I could have gone.,Podría haber ido.,L55-038,sentence,extended,podría + haber + part,L55#8
+I should have done it.,Lo debería haber hecho.,L55-039,sentence,extended,pronoun before debería,L55#9
+You should have done it.,Deberías haberlo hecho.,L55-040,sentence,extended,pronoun stuck on haber,L55#9
+that / which / who (relative),que,L56-001,transformation,primary,covers all three · no accent,"L56#5, L56#6"
+which? (question word),cuál,L56-002,transformation,primary,question · accent on -á,L56#11
+"who? (question, sg)",quién,L56-003,transformation,primary,accent · sg form,L56#13
+"who? (question, pl)",quiénes,L56-004,transformation,primary,pl when more than one person,L56#14
+"who / whom (relative, sg)",quien,L56-005,transformation,primary,relative · no accent,L56#7
+"which (relative, fem sg)",la cual,L56-006,transformation,primary,matches gender · article + cual,L56#7
+the girl,la chica,L56-007,transformation,primary,feminine,L56#5
+Where are you from?,¿De dónde eres?,L56-010,sentence,primary,prep moves to front,L56#1
+We're going to the United States.,Vamos a Estados Unidos.,L56-011,sentence,primary,no article with country,L56#3
+The girl I work with.,La chica con que trabajo.,L56-012,sentence,primary,con before que · never trailing,"L56#5, L56#12"
+The girl I work with. (with quien),La chica con quien trabajo.,L56-013,sentence,primary,con + quien · for people,L56#7
+It's the girl I was working with.,Es la chica con que trabajaba.,L56-014,sentence,primary,line-past · prep at front,"L56#5, L56#9"
+The girl I was going to the party with.,La chica con que iba a la fiesta.,L56-015,sentence,primary,con que + iba,"L56#5, L56#10"
+Which one do you want?,¿Cuál quieres?,L56-016,sentence,primary,"cuál = which · no ""one"" needed",L56#11
+I don't know which one he wants.,No sé cuál quiere.,L56-017,sentence,primary,indirect question · cuál keeps accent,L56#11
+I don't know which he wants to see.,No sé cuál quiere ver.,L56-018,sentence,primary,cuál + chain of verbs,L56#11
+I don't know which he wants to do it with.,No sé con cuál quiere hacerlo.,L56-019,sentence,primary,"con at front, never trailing",L56#12
+Who is going?,¿Quién va?,L56-020,sentence,primary,quién + he/she form,L56#13
+Who (plural) is going?,¿Quiénes van?,L56-021,sentence,primary,quiénes → plural verb,L56#14
+Who is here?,¿Quién está aquí?,L56-022,sentence,primary,estar + location,"L56#13, L56#15"
+Who is (there)?,¿Quién está?,L56-023,sentence,primary,drop *aquí* · estar implies it,L56#15
+I don't know who I have to do it with.,No sé con quién tengo que hacerlo.,L56-024,sentence,primary,con quién + tengo que,"L56#16, L56#17"
+I don't know who I have to do it for.,No sé para quién tengo que hacerlo.,L56-025,sentence,primary,para at front,L56#17
+I don't know who I have to do it because of.,No sé por quién tengo que hacerlo.,L56-026,sentence,primary,por (cause) at front,L56#17
+"which (relative, fem sg, alt)",la que,L56-027,transformation,extended,article + que · matches fem,L56#7
+to unite,unir,L56-029,transformation,extended,peel -ido off *unido* → un- + ir,L56#4
+The girl I work with. (with la cual),La chica con la cual trabajo.,L56-030,sentence,extended,la cual matches fem,L56#7
+The girl I work with. (with la que),La chica con la que trabajo.,L56-031,sentence,extended,la que · article + que,L56#7
+Where is the party?,¿Dónde está la fiesta?,L56-032,sentence,extended,estar + location,L56#15
+I don't know who is here.,No sé quién está aquí.,L56-033,sentence,extended,indirect question,"L56#13, L56#15"
+I don't know who (pl) I have to do it with.,No sé con quiénes tengo que hacerlo.,L56-035,sentence,extended,con quiénes for plural,"L56#14, L56#16"
+easy,fácil,L57-004,transformation,primary,cousin of *facilitate* · accent on fá,L57#6
+together (m sg),junto,L57-005,transformation,primary,cousin of *junction*,L57#4
+together (mixed/m pl),juntos,L57-006,transformation,primary,agrees with people · m pl,L57#5
+together (f pl),juntas,L57-007,transformation,primary,agrees · all-fem group,L57#5
+like this / like that,así,L57-008,transformation,primary,shortcut for *de esta forma*,L57#8
+bad,malo,L57-009,transformation,primary,mnemonic *malnourished*,L57#3
+the thing about (unit),lo de,L57-010,transformation,primary,lo + de = the business about,L57#9
+We don't speak like that.,No hablamos así.,L57-011,sentence,primary,-ar we + así,"L57#1, L57#8"
+We don't eat like that.,No comemos así.,L57-012,sentence,primary,-er we + así,"L57#1, L57#8"
+We don't live like that.,No vivimos así.,L57-013,sentence,primary,-ir we + así,"L57#1, L57#8"
+Where do you guys live?,¿Dónde viven?,L57-014,sentence,primary,viven = -ir they/you-guys,L57#2
+The interesting thing,lo interesante,L57-015,sentence,primary,"lo + adj = ""the X thing""",L57#3
+The complicated thing,lo complicado,L57-016,sentence,primary,lo + adj,L57#3
+The good thing / the bad thing,lo bueno / lo malo,L57-017,sentence,primary,lo + adj pair,L57#3
+The thing about Juan,lo de Juan,L57-022,sentence,primary,lo de + name,L57#9
+The thing about the party,lo de la fiesta,L57-023,sentence,primary,lo de + noun phrase,L57#9
+We talk about the party thing.,Hablamos de lo de la fiesta.,L57-024,sentence,primary,de + lo de — both fine,"L57#9, L57#10"
+But I don't want to organize it like this.,Pero no quiero organizarlo así.,L57-027,sentence,primary,pronoun stuck on infinitive,"L57#13, L57#8"
+in this way,de esta forma,L57-031,transformation,extended,emphatic version of *así*,L57#12
+in this manner,de esta manera,L57-032,transformation,extended,emphatic version of *así*,L57#12
+about / on (preposition),sobre,L57-033,transformation,extended,also = on top of,L57#10
+We talk about the party. (with sobre),Hablamos sobre lo de la fiesta.,L57-034,sentence,extended,sobre + lo de,L57#10
+They come together. (f),Vienen juntas.,L57-036,sentence,extended,juntas agrees · all-fem,"L57#5, L57#7"
+It's easy.,Es fácil.,L57-039,sentence,extended,ser + fácil,L57#6

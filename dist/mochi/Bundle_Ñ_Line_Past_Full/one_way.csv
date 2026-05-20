@@ -1,0 +1,23 @@
+front,back,id,type,tier,hint,rule_ref
+line-past I/he/she form of cenar,cenaba,L47-001,conjugation,primary,"dine (was -ing) · chop -ar, add -aba · one form covers many subjects","L47#1, L47#2"
+line-past you-informal form of cenar,cenabas,L47-002,conjugation,primary,dine (was -ing) · -aba + -s,L47#1
+line-past they form of cenar,cenaban,L47-003,conjugation,primary,dine (was -ing) · -aba + -n,L47#1
+line-past we form of cenar,cenábamos,L47-004,conjugation,primary,dine (was -ing) · -ábamos with accent on á,L47#1
+line-past I/he/she form of quemar,quemaba,L47-005,conjugation,primary,"burn (was -ing) · chop -ar, add -aba",L47#1
+line-past we form of quemar,quemábamos,L47-006,conjugation,primary,burn (was -ing) · -ábamos with accent,L47#1
+line-past I/he/she form of comer,comía,L48-001,conjugation,primary,"eat (was -ing) · chop -er, add -ía","L48#1, L48#4"
+line-past we form of comer,comíamos,L48-004,conjugation,primary,eat (was -ing) · -íamos,L48#4
+line-past I/he/she form of vender,vendía,L48-005,conjugation,primary,sell (was -ing),L48#1
+line-past I/he/she form of romper,rompía,L48-006,conjugation,primary,break (was -ing) · -er → -ía,L48#1
+would form (I/he/she) of comer,comería,L48-007,conjugation,primary,would eat · would: ADD -ía to full -er form,"L48#2, L48#3"
+would form (I/he/she) of romper,rompería,L48-008,conjugation,primary,would break · ADD -ía to *romper* (don't chop),"L48#2, L48#3"
+she form of decir,dice,L48-009,conjugation,primary,to say · slightly irregular,L48#8
+we form of decir,decimos,L48-012,conjugation,primary,to say · we escapes irregularity,"L48#8, L48#9"
+line-past I/he/she form of tener,tenía,L49-016,conjugation,primary,have (was -ing) · accent on í,L49#7
+line-past we form of tener,teníamos,L49-017,conjugation,primary,have (was -ing),L49#7
+line-past I/he/she form of ver,veía,L49-019,conjugation,primary,see (was -ing) · keep the extra *e* from *veo*,L49#12
+line-past we form of ver,veíamos,L49-020,conjugation,primary,see (was -ing),L49#12
+line-past I/he/she form of ser,era,L49-023,conjugation,primary,be (was -ing) · an *era* = a line of time past,L49#13
+line-past we form of ser,éramos,L49-025,conjugation,primary,be (was -ing) · accent on é,"L49#13, L49#15"
+line-past I/he/she form of ir,iba,L49-027,conjugation,primary,go (was -ing) · blend of -aba and -ía sounds,L49#16
+line-past we form of ir,íbamos,L49-029,conjugation,primary,go (was -ing) · accent on í,L49#16

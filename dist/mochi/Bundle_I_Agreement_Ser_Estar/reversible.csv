@@ -1,0 +1,108 @@
+front,back,id,type,tier,hint,rule_ref
+"car (standard, masc)",carro,L28-001,transformation,primary,rolled rr — feel the double r,"L28#1, L28#2"
+"car (machine sense, fem)",máquina,L28-002,transformation,primary,*la máquina* — feminine,"L28#1, L28#6"
+money,dinero,L28-003,transformation,primary,neutral register,L28#1
+expensive (m),caro,L28-004,transformation,primary,one r — contrast with *carro*,"L28#2, L28#5"
+expensive (f),cara,L28-005,transformation,primary,-o → -a,L28#5
+"expensive (m, plural)",caros,L28-006,transformation,primary,-o + s,L28#7
+"expensive (f, plural)",caras,L28-007,transformation,primary,-a + s,L28#7
+"the (m, plural)",los,L28-008,transformation,primary,*el* → *los*,L28#3
+"the (f, plural)",las,L28-009,transformation,primary,*la* → *las*,L28#3
+they are / you guys are,son,L28-010,transformation,primary,plural of *es* · pair them,L28#4
+teacher (male),profesor,L28-011,transformation,primary,consonant ending,L28#9
+teacher (female),profesora,L28-012,transformation,primary,stick -a for feminine person,L28#9
+"teachers (m, plural)",profesores,L28-013,transformation,primary,consonant + -es,L28#12
+doctor (female),doctora,L28-014,transformation,primary,stick -a,L28#9
+"doctors (m, plural)",doctores,L28-015,transformation,primary,consonant + -es,L28#12
+global (any gender),global,L28-017,transformation,primary,-l ending — no flip,L28#10
+addictive (m),adictivo,L28-018,transformation,primary,-ive → -ivo · double dd → d,"L28#13, L28#18"
+positive (m),positivo,L28-019,transformation,primary,/s/ not /z/,"L28#13, L28#15"
+intuitive (m),intuitivo,L28-020,transformation,primary,-ive → -ivo,L28#13
+connotation,connotación,L28-027,transformation,primary,nn survives — only rr/nn keep doubles,L28#18
+very,muy,L28-028,transformation,primary,/moo-ee/ — y sounds like i,L28#16
+The car is expensive.,El carro es caro.,L28-031,sentence,primary,,"L28#5, L28#6"
+The machine (car) is expensive.,La máquina es cara.,L28-032,sentence,primary,fem noun → cara,"L28#5, L28#6"
+The cars are expensive.,Los carros son caros.,L28-033,sentence,primary,,"L28#3, L28#7, L28#4"
+The machines are expensive.,Las máquinas son caras.,L28-034,sentence,primary,,"L28#3, L28#7, L28#4"
+He is a teacher.,Es profesor.,L28-035,sentence,primary,no *a* needed,L28#9
+She is a teacher.,Es profesora.,L28-036,sentence,primary,,L28#9
+They (women) are teachers.,Son profesoras.,L28-037,sentence,primary,,"L28#4, L28#9, L28#7"
+They are teachers (mixed group).,Son profesores.,L28-038,sentence,primary,mixed → masculine plural,"L28#4, L28#8, L28#12"
+She is a doctor.,Es doctora.,L28-039,sentence,primary,,L28#9
+The global situation.,La situación global.,L28-040,sentence,primary,-l adj — no flip,L28#10
+It is addictive.,Es adictivo.,L28-041,sentence,primary,neuter = masc singular,"L28#14, L28#13"
+They (women) are intuitive.,Son intuitivas.,L28-042,sentence,primary,-ivo → -ivas for fem plural,"L28#4, L28#13, L28#7"
+She is very attractive.,Ella es muy atractiva.,L28-043,sentence,primary,-ivo → -iva,"L28#17, L28#16, L28#13"
+She is very creative.,Ella es muy creativa.,L28-044,sentence,primary,,"L28#17, L28#16, L28#13"
+They are aggressive.,Ellos son agresivos.,L28-045,sentence,primary,,"L28#17, L28#4, L28#18"
+but (single r),pero,L28-058,transformation,extended,single r — vs *perro* (dog),L28#2
+dog (double r),perro,L28-059,transformation,extended,double r — vs *pero* (but),L28#2
+the dogs,los perros,L28-060,transformation,extended,el → los · -o + s,"L28#3, L28#7"
+The dogs are very aggressive.,Los perros son muy agresivos.,L28-062,sentence,extended,,"L28#3, L28#4, L28#16, L28#18"
+It's not addictive.,No es adictivo.,L28-063,sentence,extended,,"L28#13, L28#14"
+It's very expensive (f).,Es muy cara.,L28-064,sentence,extended,,"L28#16, L28#5, L28#6"
+The money is not expensive.,El dinero no es caro.,L28-065,sentence,extended,,L28#5
+He is creative and very attractive.,Es creativo y muy atractivo.,L28-068,sentence,extended,,"L28#13, L28#16"
+a human being,un ser humano,L29-001,transformation,primary,verb-as-noun pattern,"L29#2, L29#3"
+humanity,humanidad,L29-002,transformation,primary,-ity → -idad,L29#3
+to be (states),estar,L29-003,transformation,primary,for states — cousin of *state*,"L29#1, L29#4"
+tired (m),cansado,L29-009,transformation,primary,state — pairs with *estar*,"L29#12, L29#6"
+tired (f),cansada,L29-010,transformation,primary,-ado → -ada,"L29#12, L28#5"
+dead (f),muerta,L29-012,transformation,primary,state in Spanish · *mort-gage* link,L29#15
+I am tired (m).,Estoy cansado.,L29-013,sentence,primary,,"L29#4, L29#9, L29#12"
+I am tired (f).,Estoy cansada.,L29-014,sentence,primary,,"L29#4, L29#9, L29#12"
+You are tired (f).,Estás cansada.,L29-015,sentence,primary,,"L29#4, L29#10, L29#12"
+We are tired (mixed/men).,Estamos cansados.,L29-017,sentence,primary,,"L29#11, L29#12, L28#8"
+We are tired (all women).,Estamos cansadas.,L29-018,sentence,primary,,"L29#11, L29#12"
+They are tired (women).,Están cansadas.,L29-019,sentence,primary,,"L29#10, L29#12"
+I am always tired (f).,Siempre estoy cansada.,L29-020,sentence,primary,,"L29#13, L29#14"
+I am dead (f).,Estoy muerta.,L29-021,sentence,primary,state — use *estar*,"L29#15, L29#9"
+A human being.,Un ser humano.,L29-022,sentence,primary,,"L29#2, L29#3"
+He is a doctor.,Es doctor.,L29-023,sentence,primary,profession = characteristic → *ser*,L29#7
+She is a doctor and she is tired.,Es doctora y está cansada.,L29-024,sentence,primary,characteristic + state in one breath,"L29#7, L29#4"
+reality,realidad,L29-025,transformation,extended,-ity → -idad,L29#3
+possibility,posibilidad,L29-026,transformation,extended,-ity → -idad · -ible stem,L29#3
+"I am always dead (exhausted, f).",Siempre estoy muerta.,L29-028,sentence,extended,,"L29#13, L29#15, L29#9"
+He is a human being.,Es un ser humano.,L29-029,sentence,extended,,"L29#2, L29#3"
+Humanity is creative.,La humanidad es creativa.,L29-030,sentence,extended,,"L29#3, L28#13"
+We are dead (women).,Estamos muertas.,L29-031,sentence,extended,,"L29#11, L29#15"
+They are always tired (men).,Siempre están cansados.,L29-032,sentence,extended,,"L29#13, L29#10, L29#12"
+You (formal) are tired.,Usted está cansado.,L29-033,sentence,extended,,"L29#10, L29#12, L30#8"
+She is intuitive but she is tired.,Es intuitiva pero está cansada.,L29-034,sentence,extended,ser characteristic + estar state,"L29#7, L29#4, L28#13"
+"I am always tired (f, alt order).",Estoy cansada siempre.,L29-035,sentence,extended,*siempre* at end — same meaning,L29#14
+how,cómo,L30-001,transformation,primary,with accent — question word,L30#1
+later,más tarde,L30-005,transformation,primary,literally *more late*,L30#6
+you (informal),tú,L30-007,transformation,primary,accent — vs *tu* (your),L30#8
+we (mixed/men),nosotros,L30-009,transformation,primary,default masculine,"L30#8, L30#9"
+we (all women),nosotras,L30-010,transformation,primary,fem form — like adjectives,L30#9
+they have / you guys have,tienen,L30-012,transformation,primary,they-form of *tener*,L30#10
+to have to (must),tener que,L30-013,transformation,primary,obligation needs *que* + infinitive,L30#11
+to owe / must / probably,deber,L30-014,transformation,primary,debt-cousin · also = probability,L30#12
+they must / they owe,deben,L30-015,transformation,primary,they-form of *deber*,"L30#12, L30#13"
+to stay (remain oneself),quedarse,L30-016,transformation,primary,reflexive — *se* tacked on,L30#14
+How are you? (informal),¿Cómo estás?,L30-018,sentence,primary,,"L30#1, L29#10"
+How are you guys?,¿Cómo están?,L30-019,sentence,primary,,"L30#1, L29#10"
+Where are you?,¿Dónde estás?,L30-020,sentence,primary,,"L30#2, L29#10"
+I don't know where we are.,No sé dónde estamos.,L30-021,sentence,primary,,"L30#3, L30#2, L29#11"
+I am here.,Estoy aquí.,L30-022,sentence,primary,,"L29#9, L30#4"
+I'm going to be here later.,Voy a estar aquí más tarde.,L30-023,sentence,primary,,"L30#6, L30#4, L29#5"
+Where do you guys have to be later?,¿Dónde tienen que estar más tarde?,L30-024,sentence,primary,,"L30#11, L30#6, L29#5"
+He must be here.,Debe estar aquí.,L30-025,sentence,primary,probability *deber*,"L30#12, L29#5, L30#4"
+He must be tired.,Debe estar cansado.,L30-026,sentence,primary,,"L30#12, L29#12"
+They (women) must be tired.,Deben estar cansadas.,L30-027,sentence,primary,,"L30#13, L29#12"
+We are very tired (women).,Nosotras estamos muy cansadas.,L30-028,sentence,primary,,"L30#9, L29#11, L28#16, L29#12"
+She must be very tired.,Debe estar muy cansada.,L30-029,sentence,primary,,"L30#12, L28#16, L29#12"
+I stay because I am tired.,Me quedo porque estoy cansado.,L30-030,sentence,primary,,"L30#14, L30#16, L29#9, L29#12"
+We're not going to stay.,No vamos a quedarnos.,L30-031,sentence,primary,reflexive on end of infinitive,"L30#14, L30#15"
+We're not going to stay (alt).,No nos vamos a quedar.,L30-032,sentence,primary,reflexive on front of conjugated verb,"L30#14, L30#15"
+I have to be here later.,Tengo que estar aquí más tarde.,L30-034,sentence,primary,*tengo* = I-form of *tener*,"L30#11, L30#6, L30#4"
+Where is he?,¿Dónde está?,L30-036,sentence,extended,,"L30#2, L29#10"
+How are they (women)?,¿Cómo están ellas?,L30-037,sentence,extended,,"L30#1, L29#10, L28#8"
+"I am here, you are there.","Yo estoy aquí, tú estás allá.",L30-038,sentence,extended,*allá* = there (mirror of *acá*),"L30#8, L29#9, L30#4"
+She is here (acá).,Está acá.,L30-039,sentence,extended,*acá* interchangeable with *aquí*,"L29#10, L30#4"
+I don't know how they are.,No sé cómo están.,L30-040,sentence,extended,,"L30#3, L30#1, L29#10"
+You guys have to stay.,Tienen que quedarse.,L30-041,sentence,extended,,"L30#11, L30#14"
+They (women) must be doctors.,Deben ser doctoras.,L30-044,sentence,extended,,"L30#13, L29#1, L28#9, L28#7"
+You (formal) must be tired.,Usted debe estar cansado.,L30-046,sentence,extended,,"L30#8, L30#12, L29#12"
+We (women) are always here.,Nosotras siempre estamos aquí.,L30-047,sentence,extended,,"L30#9, L29#13, L30#4"
+It is intensive but it is creative.,Es intensivo pero es creativo.,L30-049,sentence,extended,,"L28#14, L28#13"

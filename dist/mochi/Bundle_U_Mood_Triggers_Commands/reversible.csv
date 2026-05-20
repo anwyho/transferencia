@@ -1,0 +1,95 @@
+front,back,id,type,tier,hint,rule_ref
+I tell / I count,cuento,L71-001,transformation,primary,o-split · also = a story (noun),L71#1
+a story,un cuento,L71-002,transformation,primary,same form as *I tell*,L71#1
+to count on,contar con,L71-003,transformation,primary,Spanish uses *with* where English uses *on*,L71#3
+I hope you wait.,Espero que esperes.,L71-004,sentence,primary,hope-that triggers mood,L71#5
+I like that,me gusta que,L71-005,transformation,primary,subjective → triggers mood tense,L71#14
+to the (masculine),al,L71-006,transformation,primary,a + el contracts to one word,L71#11
+I want you to tell me.,Quiero que me cuentes.,L71-016,sentence,primary,que + mood · little word before,L71#2
+I want you all to tell me something.,Quiero que me cuenten algo.,L71-017,sentence,primary,-en for plural mood,L71#2
+I want you to count on me.,Quiero que cuentes conmigo.,L71-018,sentence,primary,count *with* me — no personal a needed,"L71#3, L71#9"
+I hope you count on me.,Espero que cuentes conmigo.,L71-019,sentence,primary,hope-that triggers mood,"L71#5, L71#3"
+We hope they count on María.,Esperamos que cuenten con María.,L71-020,sentence,primary,con → no personal a,"L71#5, L71#9"
+I hope they see María.,Espero que vean a María.,L71-022,sentence,primary,ver mood from veo · personal a,"L71#6, L71#7"
+I hope you understand David.,Espero que comprendas a David.,L71-023,sentence,primary,action done TO a specific person,"L71#7, L71#10"
+I hope she understands David.,Espero que comprenda a David.,L71-024,sentence,primary,-a ending for she-form mood,"L71#7, L71#10"
+I want him to see the man.,Quiero que vea al hombre.,L71-025,sentence,primary,a + el = al · personal a,"L71#11, L71#12"
+I want the man to see.,Quiero que el hombre vea.,L71-026,sentence,primary,subject before verb · no personal a,L71#13
+I like that the teacher visits.,Me gusta que la profesora visite.,L71-027,sentence,primary,like-that triggers mood,L71#14
+I like that he visits the teacher.,Me gusta que visite a la profesora.,L71-028,sentence,primary,teacher is being visited → personal a,"L71#14, L71#16"
+To escape death.,Escapar a la muerte.,L71-029,sentence,primary,personification with personal a,L71#18
+I need to find the plumber.,Necesito encontrar al plomero.,L71-030,sentence,primary,specific person → a + el = al,"L71#17, L71#11"
+I need to find a plumber.,Necesito encontrar un plomero.,L71-031,sentence,primary,any plumber → no personal a,L71#17
+I hope they see the doctor.,Espero que vean al doctor.,L71-033,sentence,extended,a + el · ver mood plural,"L71#6, L71#11"
+We hope you understand María.,Esperamos que comprendas a María.,L71-034,sentence,extended,personal a before the person understood,"L71#7, L71#10"
+I like that they visit my mother.,Me gusta que visiten a mi madre.,L71-035,sentence,extended,specific person being visited,"L71#14, L71#16"
+I want them to count on me.,Quiero que cuenten conmigo.,L71-036,sentence,extended,con-construction · no personal a,"L71#3, L71#9"
+She tells me a story.,Me cuenta un cuento.,L71-037,sentence,extended,cuento doubles as noun,L71#1
+I want you to see María.,Quiero que veas a María.,L71-040,sentence,extended,ver mood · personal a,"L71#6, L71#7"
+I count on you.,Cuento contigo.,L71-043,sentence,extended,con + ti contracts,L71#3
+I forget it.,Lo olvido.,L72-001,sentence,primary,olvidar needs object · little word before,L72#11
+to shut up (reflexive),callarse,L72-002,transformation,primary,callar = to quiet · -se = oneself,L72#18
+Don't speak.,No hables.,L72-006,sentence,primary,negative → mood (-ar takes -es),L72#2
+Don't stay.,No te quedes.,L72-007,sentence,primary,little word before · mood -es,"L72#2, L72#8"
+Don't stay there.,No te quedes ahí.,L72-008,sentence,primary,contrast with *no te quedas* (statement),"L72#3, L72#4"
+Don't give it.,No lo des.,L72-009,sentence,primary,mood of *das* · little word before,"L72#2, L72#8"
+Don't give it to him.,No se lo des a él.,L72-010,sentence,primary,le → se before lo · clarify with a él,L72#5
+Eat (you all).,Coman.,L72-011,sentence,primary,positive plural → mood (-er takes -an),L72#6
+Wait (you all).,Esperen.,L72-012,sentence,primary,positive plural → mood (-ar takes -en),L72#6
+Wait for me (you all).,Espérenme.,L72-013,sentence,primary,positive command → little word at END · accent,L72#7
+Wait for him (you all).,Espérenlo.,L72-014,sentence,primary,little word stuck on end,L72#7
+Wait for them (you all).,Espérenlos.,L72-015,sentence,primary,little word at end · accent shifts back,L72#7
+Don't wait for them.,No los esperen.,L72-016,sentence,primary,negative → little word BEFORE,L72#8
+Eat (formal).,Coma.,L72-017,sentence,primary,formal positive → mood,L72#10
+Eat it (formal).,Cómalo.,L72-018,sentence,primary,positive → little word stuck on end,"L72#10, L72#7"
+Don't eat it (formal).,No lo coma.,L72-019,sentence,primary,negative → little word before,"L72#8, L72#10"
+Don't eat it (you all).,No lo coman.,L72-021,sentence,primary,negative plural → mood -an,L72#8
+Forget it (formal).,Olvídelo.,L72-023,sentence,primary,positive formal · little word at end,"L72#11, L72#10"
+Forget (formal).,Olvídese.,L72-024,sentence,primary,olvidar needs an object → reflexive -se,L72#11
+Let's not forget it.,No lo olvidemos.,L72-029,sentence,primary,let's = nosotros mood · -ar → -emos,L72#12
+Let's not forget.,No nos olvidemos.,L72-030,sentence,primary,reflexive nos · olvidar needs an object,L72#12
+Buy what's missing (you all).,Compren lo que falta.,L72-031,sentence,primary,positive plural mood + lo que (non-question what),L72#13
+Buy.,Compra.,L72-032,sentence,primary,positive informal → drop -s from *compras*,L72#14
+Buy it.,Cómpralo.,L72-034,sentence,primary,positive informal · little word at end · accent,"L72#14, L72#16"
+Buy it for me.,Cómpramelo.,L72-035,sentence,primary,two little words tacked onto end,L72#16
+Eat it.,Cómelo.,L72-036,sentence,primary,drop -s + attach lo → accent,"L72#14, L72#16"
+Forget (yourself).,Olvídate.,L72-038,sentence,primary,olvidar needs object → reflexive at end,L72#16
+Don't sell it.,No lo vendas.,L72-040,sentence,primary,negative flips to mood · little word before,"L72#17, L72#8"
+Shut up!,¡Cállate!,L72-041,sentence,primary,drop -s + attach reflexive · accent,"L72#18, L72#16"
+Shut up (you all)!,¡Cállense!,L72-042,sentence,primary,positive plural → mood + reflexive at end,"L72#18, L72#7"
+Buy what's missing.,Compren lo que hace falta.,L72-047,sentence,extended,alt form · *hace falta* = it's necessary,L72#13
+Don't shut up.,No te calles.,L72-051,sentence,extended,negative → mood · reflexive before,"L72#18, L72#8"
+"Eat it (formal, you all).",Cómanlo.,L72-053,sentence,extended,positive plural formal · little word end,"L72#10, L72#7"
+Don't stay here.,No te quedes aquí.,L72-054,sentence,extended,contrast with statement *no te quedas aquí*,L72#3
+Speak to me.,Háblame.,L72-056,sentence,extended,little word at end · accent,L72#16
+together (mixed/male),juntos,L73-002,transformation,primary,"think *junction, junta*",L73#10
+together (all female),juntas,L73-003,transformation,primary,agreement -as,L73#10
+to finish,terminar,L73-005,transformation,primary,cognate of *terminate*,L73#5
+Wait. (informal),Espera.,L73-014,sentence,primary,drop -s from *esperas*,L73#1
+Let's wait.,Esperemos.,L73-015,sentence,primary,-ar → -emos,L73#2
+Let's not wait.,No esperemos.,L73-016,sentence,primary,just put *no* in front,L73#4
+Let him wait.,Que espere.,L73-017,sentence,primary,que + mood for third-person command,L73#5
+Let it finish already.,Que termine ya.,L73-018,sentence,primary,que + mood + ya,"L73#5, L73#6"
+Let him shut up.,Que se calle.,L73-019,sentence,primary,que + reflexive + mood,"L73#5, L73#7"
+When we speak (generally).,Cuando hablamos.,L73-020,sentence,primary,general truth → normal present,L73#8
+When we speak (in the future).,Cuando hablemos.,L73-021,sentence,primary,future event → mood (Spanish is superstitious),L73#9
+"When we eat together, we'll speak.","Cuando comamos juntos, hablamos.",L73-022,sentence,primary,cuando + mood (future) · main verb stays present,L73#11
+We see her when we go (generally).,La vemos cuando vamos.,L73-023,sentence,primary,general → present,L73#13
+We will see her when we go.,La vemos cuando vayamos.,L73-024,sentence,primary,future cuando → ir mood (vayamos),"L73#13, L73#12"
+I want you to go.,Quiero que vayas.,L73-025,sentence,primary,que + ir mood,L73#12
+I hope they go.,Espero que vayan.,L73-026,sentence,primary,hope-that + ir mood plural,L73#12
+I want them to go together.,Quiero que vayan juntos.,L73-027,sentence,primary,que + ir mood plural · juntos agrees,"L73#12, L73#10"
+Let's not go.,No vayamos.,L73-028,sentence,primary,negative *let's* → mood (vayamos),"L73#4, L73#12"
+Let's eat. (Comamos…),Comamos.,L73-030,sentence,primary,-er → -amos,L73#11
+Let's speak.,Hablemos.,L73-031,sentence,primary,-ar → -emos,L73#2
+Finish it.,Termínalo.,L73-033,sentence,primary,drop -s · attach lo · accent,L73#1
+Shall we wait?,¿Esperemos?,L73-035,sentence,extended,"same form, softer tone",L73#3
+"When you go, tell me.","Cuando vayas, dime.",L73-037,sentence,extended,future cuando + drop-s shortcut on dime,"L73#9, L73#12"
+"When they finish, we'll go.","Cuando terminen, vamos.",L73-038,sentence,extended,future cuando → mood · main verb stays present,"L73#9, L73#11"
+Let's not eat.,No comamos.,L73-042,sentence,extended,-er → -amos · negate with *no*,"L73#4, L73#11"
+Let's not speak.,No hablemos.,L73-044,sentence,extended,-ar → -emos · with *no*,"L73#4, L73#2"
+"When we go together, we'll eat.","Cuando vayamos juntos, comemos.",L73-045,sentence,extended,cuando + ir mood · main verb present,"L73#11, L73#12"
+Wait!,¡Espera!,L73-049,sentence,extended,drop -s · exclamation,L73#1
+We'll see them when we go.,Los vemos cuando vayamos.,L73-054,sentence,extended,future cuando → ir mood,"L73#13, L73#12"
+Let's finish already.,Terminemos ya.,L73-055,sentence,extended,-ar → -emos · ya = already,"L73#2, L73#6"
+"When they go, they speak.","Cuando van, hablan.",L73-056,sentence,extended,"general truth → both present, no mood",L73#8

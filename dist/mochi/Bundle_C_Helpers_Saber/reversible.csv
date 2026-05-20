@@ -1,0 +1,99 @@
+front,back,id,type,tier,hint,rule_ref
+the (feminine),la,L8-001,transformation,primary,fem -a · also = her / it (fem) / you (formal fem),"L8#1, L8#6"
+them (masculine),los,L8-002,transformation,primary,lo + plural -s,L8#16
+them (feminine),las,L8-003,transformation,primary,la + plural -s,L8#16
+"you (formal, feminine)",la,L8-004,transformation,primary,same form as her / it (fem),"L8#6, L8#7"
+"you (formal, masculine)",lo,L8-005,transformation,primary,same form as him / it,"L8#6, L8#7"
+house,casa,L8-006,transformation,primary,fem -a · *la casa*,"L8#3, L8#12"
+he/she wants · you (formal) want,quiere,L8-007,transformation,primary,swap -o → -e · four meanings band together,"L8#4, L8#5"
+to come,venir,L8-008,transformation,primary,/be-NIR/ soft b · hook: *conveniente*,L8#11
+I owe / I must,debo,L8-009,transformation,primary,hook: English *debt* (silent b),L8#15
+why (por…),por qué,L8-010,transformation,primary,two words · accent on é,L8#10
+because,porque,L8-011,transformation,primary,one word · no accent,L8#10
+welcome (to a man),bienvenido,L8-013,transformation,primary,*bien + venido* = well-come,L8#11
+welcome (to a woman),bienvenida,L8-014,transformation,primary,-o → -a for feminine,"L8#1, L8#11"
+to,a,L8-015,transformation,primary,*a la casa* = to the house,L8#13
+to the house,a la casa,L8-016,transformation,primary,a + la + casa,"L8#12, L8#13"
+identification,identificación,L8-017,transformation,primary,-tion → -ción,L4#5
+to identify,identificar,L8-018,transformation,primary,"chop -ción, add -r",L4#9
+to identify him / it,identificarlo,L8-019,transformation,primary,stick *lo* on the end,L8#6
+to identify them (masculine),identificarlos,L8-020,transformation,primary,stick *los* on the end,L8#16
+I want to see her.,Quiero verla.,L8-022,sentence,primary,object pronoun sticks on the -r,L8#6
+He wants to visit me.,Quiere visitarme.,L8-023,sentence,primary,no *he* needed · verb shows subject,"L8#4, L8#5"
+Do you want to visit me?,¿Quiere visitarme?,L8-024,sentence,primary,just lift your voice · no *do*,L8#8
+She doesn't want to visit me.,No quiere visitarme.,L8-025,sentence,primary,*no* in front · subject baked in,"L8#5, L2#9"
+Don't you want to visit me?,¿No quiere visitarme?,L8-026,sentence,primary,no twisty *do/don't*,L8#9
+Why don't you want to visit me?,¿Por qué no quiere visitarme?,L8-027,sentence,primary,por qué + no + quiere,"L8#10, L8#9"
+Do you want to come?,¿Quiere venir?,L8-028,sentence,primary,raise voice · no *do*,"L8#8, L8#11"
+Do you want to come home?,¿Quiere venir a la casa?,L8-029,sentence,primary,motion verb takes *a* before next,L8#14
+Do you want to come visit me?,¿Quiere venir a visitarme?,L8-030,sentence,primary,*venir a* + verb,L8#14
+Don't you want to come visit me?,¿No quiere venir a visitarme?,L8-031,sentence,primary,,"L8#9, L8#14"
+Why don't you want to come? (formal),¿Por qué no quiere venir?,L8-032,sentence,primary,,"L8#10, L8#11"
+I must continue.,Debo continuar.,L8-033,sentence,primary,*debo* like English *must*,L8#15
+I must identify him.,Debo identificarlo.,L8-034,sentence,primary,,"L8#15, L8#6"
+I must identify them (masc).,Debo identificarlos.,L8-035,sentence,primary,,"L8#15, L8#16"
+She wants to come.,Quiere venir.,L8-037,sentence,primary,,"L8#4, L8#11"
+She doesn't want to come.,No quiere venir.,L8-038,sentence,primary,,"L8#5, L8#11, L2#9"
+I want to visit them (fem).,Quiero visitarlas.,L8-040,sentence,primary,,L8#16
+He doesn't want to come visit me.,No quiere venir a visitarme.,L8-045,sentence,extended,*venir a* + verb · negative,"L8#14, L2#9"
+I want to come home.,Quiero venir a la casa.,L8-046,sentence,extended,,"L8#14, L8#12"
+Welcome!,¡Bienvenido!,L8-049,sentence,extended,to a man · -o ending,L8#11
+Welcome! (to a woman),¡Bienvenida!,L8-050,sentence,extended,swap -o → -a,"L8#1, L8#11"
+It's convenient.,Es conveniente.,L8-051,sentence,extended,,"L2#7, L8#11, L3#1"
+It's not convenient.,No es conveniente.,L8-052,sentence,extended,,"L2#9, L2#7, L8#11"
+to know,saber,L9-001,transformation,primary,"hook: *savvy* · spelled with b, sounds v",L9#1
+yes,sí,L9-002,transformation,primary,accent on í · differs from *si* (if),L9#3
+if,si,L9-003,transformation,primary,no accent · differs from *sí* (yes),L9#3
+imagination,imaginación,L9-006,transformation,primary,-tion → -ción · /j/→/kh/,"L4#5, L3#7"
+to imagine,imaginar,L9-007,transformation,primary,"chop -ción, add -r",L4#9
+to start / initiate,iniciar,L9-009,transformation,primary,hook: *initiation*,L9#10
+to start it,iniciarlo,L9-010,transformation,primary,,"L9#10, L8#6"
+to inform me / let me know,informarme,L9-011,transformation,primary,stick *me* on -r,"L4#9, L5#4"
+justification,justificación,L9-012,transformation,primary,/khus-ti-fi-ka-SION/ · /j/→/kh/,"L4#5, L9#14"
+to justify myself,justificarme,L9-014,transformation,primary,reflexive: *-me* on -r,L9#11
+explanation,explicación,L9-015,transformation,primary,EXCEPTION · not *explanación*,L9#12
+to explain,explicar,L9-016,transformation,primary,from *explicación* · cf. *inexplicable*,L9#12
+to explain to you,explicarte,L9-017,transformation,primary,no *to* needed · *-te* on -r,L9#13
+I want to know.,Quiero saber.,L9-019,sentence,primary,*quiero* + *saber*,L9#2
+I don't want to know.,No quiero saber.,L9-020,sentence,primary,,"L9#2, L2#9"
+She wants to know.,Quiere saber.,L9-021,sentence,primary,,"L8#4, L9#1"
+He doesn't want to know.,No quiere saber.,L9-022,sentence,primary,,"L8#4, L9#1, L2#9"
+Why doesn't she want to know?,¿Por qué no quiere saber?,L9-023,sentence,primary,,"L8#10, L9#1"
+"Yes, I want to know.","Sí, quiero saber.",L9-024,sentence,primary,*sí* with accent = yes,"L9#3, L9#2"
+I want to know if she wants.,Quiero saber si quiere.,L9-025,sentence,primary,stitch: quiero saber + si + quiere,"L9#4, L9#5"
+I want to know if she knows.,Quiero saber si sabe.,L9-026,sentence,primary,*sabe* = he/she knows,"L9#4, L9#5"
+Want to know if he wants to come?,¿Quiere saber si quiere venir?,L9-027,sentence,primary,stitch: quiere saber + si + quiere venir,"L9#4, L8#11"
+I don't want to imagine it.,No quiero imaginarlo.,L9-028,sentence,primary,,"L9#2, L8#6, L2#9"
+I'm not trying to justify myself.,No intento justificarme.,L9-031,sentence,primary,*intento* + *-me* on -r,"L9#11, L2#9"
+But I want to explain.,Pero quiero explicar.,L9-032,sentence,primary,*pero* = but,"L9#15, L9#12"
+But I want to explain you something.,Pero quiero explicarte algo.,L9-033,sentence,primary,no *to* needed · *-te* on -r,"L9#13, L9#15"
+"Yes, but not now.","Sí, pero no ahora.",L9-034,sentence,primary,,"L9#3, L9#15"
+"If she wants, yes.","Si quiere, sí.",L9-035,sentence,primary,*si* (if) vs *sí* (yes) in one breath,"L9#3, L8#4"
+"I want to invite him, but not now.","Quiero invitarlo, pero no ahora.",L9-041,sentence,extended,,"L9#15, L9#2"
+I want to explain something to you.,Quiero explicarte algo.,L9-042,sentence,extended,,L9#13
+It's inexplicable.,Es inexplicable.,L9-044,sentence,extended,,"L2#7, L3#8, L9#12"
+I want to know why.,Quiero saber por qué.,L9-046,sentence,extended,,"L9#2, L8#10"
+I don't want to justify myself.,No quiero justificarme.,L9-047,sentence,extended,,"L9#11, L2#9"
+to separate,separar,L10-001,transformation,primary,-ate → -ar,L10#1
+to donate,donar,L10-003,transformation,primary,-ate → -ar,L10#1
+to eat,comer,L10-005,transformation,primary,-er verb,L10#1
+to have,tener,L10-008,transformation,primary,also = *-tain* in English compounds,L10#10
+to contain,contener,L10-009,transformation,primary,-tain → -tener,L10#10
+to obtain,obtener,L10-010,transformation,primary,-tain → -tener,L10#10
+tomorrow / morning,mañana,L10-015,transformation,primary,ñ = /ny/,L10#7
+late,tarde,L10-016,transformation,primary,hook: *tardy*,L10#9
+more,más,L10-017,transformation,primary,hook: *massive*,L10#9
+I'm going to eat.,Voy a comer.,L10-027,sentence,primary,*voy a* + -r form,L10#8
+I'm going to eat late.,Voy a comer tarde.,L10-028,sentence,primary,,"L10#8, L10#9"
+I'm eating tomorrow.,Como mañana.,L10-029,sentence,primary,plain present for future · with *mañana*,"L10#7, L10#3"
+I'm eating with Pablo tomorrow.,Como con Pablo mañana.,L10-030,sentence,primary,,"L10#7, L10#3"
+I'm going to eat with Pablo tomorrow.,Voy a comer con Pablo mañana.,L10-031,sentence,primary,,"L10#8, L10#7"
+I don't donate.,No dono.,L10-032,sentence,primary,*no* + I-form,"L10#3, L2#9"
+I want to have it.,Quiero tenerlo.,L10-033,sentence,primary,,"L10#10, L8#6"
+I'm coming tomorrow.,Vengo mañana.,L10-036,sentence,primary,*vengo* irregular · plain present + *mañana*,"L10#12, L10#7"
+I have it.,Lo tengo.,L10-037,sentence,primary,object pronoun fronts the verb,"L10#11, L8#6"
+I don't have it.,No lo tengo.,L10-049,sentence,extended,,"L10#11, L8#6, L2#9"
+I want to have it later.,Quiero tenerlo más tarde.,L10-051,sentence,extended,,"L10#10, L10#9"
+I create with Pablo.,Creo con Pablo.,L10-053,sentence,extended,,L10#3
+I'm not coming tomorrow.,No vengo mañana.,L10-054,sentence,extended,,"L10#12, L10#7, L2#9"
+Between you and me.,Entre tú y yo.,L10-055,sentence,extended,Spanish keeps subject pronouns here,L10#10

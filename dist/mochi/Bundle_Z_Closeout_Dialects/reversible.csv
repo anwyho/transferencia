@@ -1,0 +1,79 @@
+front,back,id,type,tier,hint,rule_ref
+suit (clothing),traje,L88-033,transformation,primary,"same form as ""I brought""",L88#5
+wine,vino,L88-034,transformation,primary,"same form as ""he came""",L88#4
+I wanted that... (+ past mood),quería que,L88-035,transformation,primary,line-past + que · triggers past mood,L88#13
+Where did you put it?,¿Dónde lo pusiste?,L88-036,sentence,primary,pus- base · object pronoun before verb,L88#1
+I did it.,Lo hice.,L88-037,sentence,primary,hic- · -e no accent,L88#3
+She did it.,Lo hizo.,L88-038,sentence,primary,c → z before o,L88#3
+They did it.,Lo hicieron.,L88-039,sentence,primary,hic- + -ieron,L88#3
+He came with wine.,Vino con vino.,L88-040,sentence,primary,same word — verb + noun (pun),L88#4
+I brought a suit.,Traje un traje.,L88-041,sentence,primary,verb + noun · same form,L88#5
+I didn't go.,No fui.,L88-042,sentence,primary,"also ""I wasn't"" · context decides","L88#6, L88#7"
+He didn't go.,No fue.,L88-043,sentence,primary,"also ""he wasn't""","L88#6, L88#7"
+They didn't go.,No fueron.,L88-044,sentence,primary,"dropped i · also ""they weren't""","L88#7, L88#8"
+If I were you.,Si yo fuera tú.,L88-045,sentence,primary,si + past mood · hypothetical,L88#10
+If I were you (formal).,Si fuera usted.,L88-046,sentence,primary,si + past mood · drop subject,L88#10
+"If I had it, I would tell you.","Si lo tuviera, te lo contaría.",L88-047,sentence,primary,"si + past mood, then conditional","L88#11, L88#12"
+I wanted them to do it.,Quería que lo hicieran.,L88-048,sentence,primary,quería que + past mood,L88#13
+I wanted us to do it.,Quería que lo hiciéramos.,L88-049,sentence,primary,quería que + past mood (we form),L88#13
+They came late.,Vinieron tarde.,L88-068,sentence,primary,vin- · -ieron,L88#4
+He came with wine and a suit.,Vino con vino y un traje.,L88-058,sentence,extended,triple pun · same words different meanings,"L88#4, L88#5"
+"If you were me, what would you do?","Si fueras yo, ¿qué harías?",L88-059,sentence,extended,si + past mood · then conditional,L88#10
+I wanted you to come.,Quería que vinieras.,L88-060,sentence,extended,quería que + past mood (you form),L88#13
+We brought everything.,Trajimos todo.,L88-064,sentence,extended,traj- · -imos,L88#5
+They put it on the table.,Lo pusieron en la mesa.,L88-065,sentence,extended,pus- · -ieron,L88#1
+He didn't bring anything.,No trajo nada.,L88-066,sentence,extended,traj- · -o · double negative ok,L88#5
+She said it yesterday.,Lo dijo ayer.,L88-067,sentence,extended,dij- · -o no accent,L88#8
+too / too much / too many,demasiado,L89-001,transformation,primary,"de + más + -iado · ""of more""",L89#2
+"extra / spare (""of more"")",de más,L89-002,transformation,primary,"literally ""of more""",L89#2
+aggressive (m.),agresivo,L89-003,transformation,primary,-ive → -ivo · single g,L89#3
+aggressive (f.),agresiva,L89-004,transformation,primary,-ivo → -iva,L89#3
+"wing (fem., takes el)",el ala,L89-005,transformation,primary,short fem. a-...-a takes el,L89#4
+"water (fem., takes el)",el agua,L89-006,transformation,primary,short fem. a-...-a takes el,L89#4
+"classroom (fem., takes el)",el aula,L89-007,transformation,primary,short fem. a-...-a takes el,L89#4
+"pillow (fem., takes la)",la almohada,L89-008,transformation,primary,4 syllables · keeps la,L89#6
+"carpet (fem., takes la)",la alfombra,L89-009,transformation,primary,3 syllables · keeps la,L89#6
+a / one (before masc. noun),un,L89-010,transformation,primary,uno drops -o before masc. noun,L89#7
+some (before masc. noun),algún,L89-011,transformation,primary,alguno drops -o · accent on u,"L89#7, L89#10"
+no / none (before masc. noun),ningún,L89-012,transformation,primary,ninguno drops -o · accent on u,"L89#7, L89#10"
+some (before fem. noun),alguna,L89-013,transformation,primary,feminine — no shortening,L89#9
+no / none (before fem. noun),ninguna,L89-014,transformation,primary,feminine — no shortening,L89#9
+I have four too many.,Tengo cuatro de más.,L89-015,sentence,primary,de más = extra/spare,L89#2
+Too many houses.,Demasiadas casas.,L89-016,sentence,primary,demasiado matches noun (fem. pl.),L89#3
+Too many cars.,Demasiados coches.,L89-017,sentence,primary,demasiado matches noun (masc. pl.),L89#3
+Too aggressive (m.).,Demasiado agresivo.,L89-018,sentence,primary,with adj. — demasiado stays put,L89#3
+The cold water.,El agua fría.,L89-021,sentence,primary,el for sound · adj. still feminine,"L89#4, L89#5"
+A man.,Un hombre.,L89-022,sentence,primary,uno → un before masc.,L89#7
+Some man.,Algún hombre.,L89-023,sentence,primary,alguno → algún · accent on u,"L89#7, L89#10"
+No man.,Ningún hombre.,L89-024,sentence,primary,ninguno → ningún · accent on u,"L89#7, L89#10"
+A woman.,Una mujer.,L89-025,sentence,primary,feminine — no shortening,L89#9
+Some woman.,Alguna mujer.,L89-026,sentence,primary,feminine — full form,L89#9
+No woman.,Ninguna mujer.,L89-027,sentence,primary,feminine — full form,L89#9
+I want one.,Quiero uno.,L89-028,sentence,primary,no noun follows · keep full form,L89#8
+I don't want any.,No quiero ninguno.,L89-029,sentence,primary,no noun follows · keep full form,L89#8
+The wing.,El ala.,L89-031,sentence,primary,short fem. a-...-a · takes el,L89#4
+The classroom.,El aula.,L89-032,sentence,primary,short fem. a-...-a · takes el,L89#4
+The pillow.,La almohada.,L89-033,sentence,primary,4 syllables · keeps la,L89#6
+The carpet.,La alfombra.,L89-034,sentence,primary,3 syllables · keeps la,L89#6
+I have one extra.,Tengo uno de más.,L89-035,sentence,extended,no noun follows uno · keep full form,"L89#2, L89#8"
+him/her (Spain leísmo),le,L90-001,transformation,primary,Spain uses le for people · LatAm uses lo/la,L90#1
+"them (Spain leísmo, people)",les,L90-002,transformation,primary,Spain uses les for people · LatAm uses los/las,L90#1
+you-all informal (Spain only),vosotros,L90-003,transformation,primary,Spain only · not used in LatAm,L90#2
+you (Río de la Plata),vos,L90-004,transformation,primary,alternative to tú · ~30% of speakers,L90#4
+Spanish-speaker,hispanohablante,L90-007,transformation,primary,hispano + hablante (-ant → -ante),L90#9
+to practice,practicar,L90-008,transformation,primary,-ice → -icar,L90#9
+to analyze,analizar,L90-009,transformation,primary,-yze → -izar,L90#9
+I see him. (Spain),Le veo.,L90-012,sentence,primary,Spain leísmo · le for people,L90#1
+I see her. (Latin America),La veo.,L90-014,sentence,primary,"LatAm uses la for ""her"" · Spain uses le",L90#1
+You can. (Río de la Plata),Vos podés.,L90-015,sentence,primary,vos + end-stressed form · no diphthong,"L90#4, L90#5"
+You want. (Río de la Plata),Vos querés.,L90-016,sentence,primary,vos + end-stressed form · no diphthong,"L90#4, L90#5"
+Now we speak Spanish.,Ahora hablamos español.,L90-017,sentence,primary,ahora + we form,L90#9
+Now we are Spanish-speakers.,Ahora somos hispanohablantes.,L90-018,sentence,primary,ser we form + plural noun,L90#9
+I have to perfect my Spanish.,Tengo que perfeccionar mi español.,L90-019,sentence,primary,tener que + infinitive · my = mi,L90#9
+"I see them. (Spain, people)",Les veo.,L90-020,sentence,primary,Spain leísmo · les for people,L90#1
+Where are you? (aspirated s region),¿Dónde estás?,L90-027,sentence,extended,heard as /ehtás/ in some accents,L90#3
+How are you? (aspirated s),¿Cómo estás?,L90-028,sentence,extended,heard as /cómo ehtás/,L90#3
+I'm waiting. (aspirated s),Espero.,L90-029,sentence,extended,heard as /ehpero/ in some accents,L90#3
+Where do you live? (vos),¿Dónde vivís?,L90-030,sentence,extended,vos -ir verbs end in -ís,"L90#4, L90#5"
+You all are Spanish-speakers. (Spain),Vosotros sois hispanohablantes.,L90-033,sentence,extended,vosotros + sois (Spain only),"L90#2, L90#9"
+You all speak Spanish. (Spain),Vosotros habláis español.,L90-034,sentence,extended,vosotros + habláis (Spain only),"L90#2, L90#9"

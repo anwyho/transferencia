@@ -1,0 +1,131 @@
+front,back,id,type,tier,hint,rule_ref
+"for (destined for, in order to)",para,L50-001,transformation,primary,"para → destination, recipient, purpose","L50#1, L50#2"
+"for (because of, exchange, period)",por,L50-002,transformation,primary,"por → cause, swap, duration","L50#1, L50#7, L50#11"
+for me,para mí,L50-003,transformation,primary,mí (with accent) after prep,"L50#2, L50#3"
+for you (informal),para ti,L50-004,transformation,primary,ti (no accent) after prep,"L50#2, L50#3"
+from me,de mí,L50-007,transformation,primary,"after any prep: mí, ti",L50#3
+Why?,¿por qué?,L50-009,transformation,primary,literally 'because of what',L50#7
+reason,razón,L50-011,transformation,primary,feminine · /ra-SÓN/ (/ra-THÓN/ in Spain),L50#8
+this reason,esta razón,L50-012,transformation,primary,razón is feminine → esta,L50#8
+the day,el día,L50-016,transformation,primary,masculine despite -a · 'light' root,L50#12
+every day,todos los días,L50-018,transformation,primary,"plural todos, not todo",L50#13
+I stay,me quedo,L50-019,transformation,primary,reflexive · -o = I,L50#14
+I will stay,me quedaré,L50-020,transformation,primary,future = full 'to' form + -é,"L50#14, L50#15"
+I would stay,me quedaría,L50-021,transformation,primary,would = full 'to' form + -ía,"L50#16, L50#17"
+I would like,me gustaría,L50-022,transformation,primary,hook for 'would' · 'it would please me',L50#16
+but I have to work,pero tengo que trabajar,L50-023,transformation,primary,trabajar: jar = /har/,L50#17
+Thanks for coming.,Gracias por venir.,L50-024,sentence,primary,gracias por + 'to' form,"L50#1, L50#7"
+This one is for you.,Este es para ti.,L50-025,sentence,primary,destined for → para,"L50#2, L50#6"
+These are for you.,Estos son para ti.,L50-026,sentence,primary,plural masc,"L50#2, L50#6"
+Why? Because I don't want to.,¿Por qué? Porque no quiero.,L50-027,sentence,primary,two words vs one,L50#7
+"For this reason, I don't want to go.","Por esta razón, no quiero ir.",L50-028,sentence,primary,por = because of,"L50#7, L50#8"
+I'm buying it for you.,Lo compro para ti.,L50-029,sentence,primary,destined for you,"L50#2, L50#9"
+I'm buying it because of you.,Lo compro por ti.,L50-030,sentence,primary,your influence → por,"L50#7, L50#9"
+I'm staying for three days.,Me quedo por tres días.,L50-032,sentence,primary,duration → por,"L50#11, L50#12"
+I will stay for three days.,Me quedaré por tres días.,L50-033,sentence,primary,future -é,"L50#11, L50#14"
+I would stay for three days.,Me quedaría por tres días.,L50-034,sentence,primary,would -ía,"L50#11, L50#16"
+"I would stay three days, but I have to work.","Me quedaría tres días, pero tengo que trabajar.",L50-035,sentence,primary,would + but-clause,"L50#16, L50#17"
+I'm there for you.,Estoy para ti.,L51-001,transformation,primary,estar already implies location,L51#1
+Are you (there)?,¿Estás?,L51-002,transformation,primary,no 'there' word needed,L51#2
+Is Juan there?,¿Está Juan?,L51-003,transformation,primary,estar covers 'there',L51#2
+I'm here because of you.,Estoy por ti.,L51-004,transformation,primary,por = because of,L51#3
+I have come because of you.,He venido por ti.,L51-005,transformation,primary,never porque de,L51#4
+that one (masc),ese,L51-006,transformation,primary,drop t of este → ese,L51#6
+"to change, to exchange",cambiar,L51-009,transformation,primary,-ar verb,L51#5
+I would change this one for that one.,Cambiaría este por ese.,L51-010,sentence,primary,exchange → por,"L51#5, L51#6"
+Would you change these for those? (fem),¿Cambiarías estas por esas?,L51-011,sentence,primary,fem plural match,"L51#5, L51#6"
+Thanks for calling.,Gracias por llamar.,L51-012,sentence,primary,"after por: 'to' form, not -ing",L51#8
+Thanks for calling me.,Gracias por llamarme.,L51-013,sentence,primary,object sticks on end of 'to' form,L51#8
+Why wouldn't you change these for those?,¿Por qué no cambiarías estas por esas?,L51-014,sentence,primary,por qué + would-question,"L51#5, L51#6"
+It is because of you that we have come.,Es por ti que hemos venido.,L51-015,sentence,primary,highlight: es … que,L51#4
+tired (masc),cansado,L51-016,transformation,primary,-o for masc speaker,L51#10
+tired (fem),cansada,L51-017,transformation,primary,-a for fem speaker,L51#10
+I'm tired of working. (fem),Estoy cansada de trabajar.,L51-018,sentence,primary,"after de: 'to' form, not -ing","L51#11, L51#8"
+I was tired of working. (fem),Estaba cansada de trabajar.,L51-019,sentence,primary,estaba = was,"L51#12, L51#11"
+We were tired of working.,Estábamos cansados de trabajar.,L51-020,sentence,primary,estábamos + cansados,"L51#12, L51#11"
+"form, way",forma,L51-021,transformation,primary,feminine,L51#13
+to believe,creer,L51-022,transformation,primary,two e's,L51#14
+to argue (false friend: discuss),discutir,L51-024,transformation,primary,"looks like discuss, means argue",L51#16
+current (NOT actual),actual,L51-025,transformation,primary,false friend · means current,L51#17
+currently,actualmente,L51-026,transformation,primary,-mente · current-ly,L51#17
+It's a way of doing it.,Es una forma de hacerlo.,L51-028,sentence,primary,after de: 'to' form,"L51#13, L51#8"
+I don't believe in arguing.,No creo en discutir.,L51-029,sentence,primary,after en: 'to' form · discutir = argue,"L51#15, L51#16"
+I don't believe in arguing in this way.,No creo en discutir de esta forma.,L51-030,sentence,primary,de esta forma = in this way,"L51#15, L51#18"
+We have spoken to resolve it.,Hemos hablado para resolverlo.,L52-001,sentence,primary,to = in order to → para,"L52#1, L52#2"
+We have spoken to try to resolve it.,Hemos hablado para intentar resolverlo.,L52-002,sentence,primary,para + intentar + resolverlo,"L52#1, L52#2"
+I am here to see you.,Estoy aquí para verte.,L52-003,sentence,primary,in-order-to → para,"L52#1, L52#4"
+I've called you to speak about it.,Te he llamado para hablarlo.,L52-004,sentence,primary,hablarlo carries 'about it',L52#5
+speaking (-ing form),hablando,L52-005,transformation,primary,-ar → -ando,L52#6
+eating (-ing form),comiendo,L52-006,transformation,primary,-er → -iendo,L52#6
+I'm eating right now.,Estoy comiendo.,L52-009,sentence,primary,estar + -iendo,L52#7
+I'm speaking right now.,Estoy hablando.,L52-010,sentence,primary,estar + -ando,L52#7
+I'm explaining it. (object on gerund),Estoy explicándolo.,L52-011,sentence,primary,pronoun glued to gerund · accent,L52#8
+I'm explaining it. (object before estar),Lo estoy explicando.,L52-012,sentence,primary,pronoun before estar · both work,L52#8
+course,curso,L52-013,transformation,primary,u not a,L52#12
+I'm taking a Spanish course.,Estoy tomando un curso de español.,L52-014,sentence,primary,ongoing context,L52#11
+I was taking a Spanish course.,Estaba tomando un curso de español.,L52-015,sentence,primary,estaba + -ando,"L52#10, L52#13"
+Swimming is healthy.,Nadar es saludable.,L52-017,sentence,primary,general statement → 'to' form,"L52#14, L52#15"
+Dancing is healthy.,Bailar es saludable.,L52-018,sentence,primary,"'to' form, not -ando","L52#14, L52#15"
+irritating,irritante,L52-021,transformation,primary,-ar → -ante,"L52#16, L52#17"
+frustrating,frustrante,L52-022,transformation,primary,-ar → -ante,"L52#16, L52#17"
+waning (the moon),menguante,L52-023,transformation,primary,-ar → -ante · la luna menguante,"L52#17, L52#18"
+living (adjective),viviente,L52-024,transformation,primary,-ir → -iente,L52#17
+A living being.,Un ser viviente.,L52-026,sentence,primary,ser as noun,L52#20
+Monday,lunes,L52-027,transformation,primary,from luna (moon),L52#19
+Tuesday,martes,L52-028,transformation,primary,from Mars,L52#19
+Wednesday,miércoles,L52-029,transformation,primary,from Mercury,L52#19
+"I could (past, was able)",podía,L53-001,transformation,primary,line-past · -er + -ía,"L53#3, L53#4"
+"I could (future, would be able)",podría,L53-002,transformation,primary,would-ending · e drops: poderí→podrí,L53#2
+we could (future),podríamos,L53-003,transformation,primary,would-ending we form,L53#2
+they could (past),podían,L53-004,transformation,primary,line-past they form,L53#4
+I couldn't do it.,No podía hacerlo.,L53-006,sentence,primary,past 'could' → podía,"L53#3, L53#5"
+I couldn't do it yesterday.,No podía hacerlo ayer.,L53-007,sentence,primary,past + ayer,"L53#3, L53#8"
+I couldn't do it because I didn't have the time.,No podía hacerlo porque no tenía el tiempo.,L53-008,sentence,primary,past + reason,"L53#3, L53#6"
+I had (helper for past-of-past),había,L53-009,transformation,primary,line-past of haber,L53#9
+they had (helper),habían,L53-011,transformation,primary,they form of haber line-past,L53#9
+already,ya,L53-012,transformation,primary,usually at start of sentence,L53#11
+I had eaten.,Había comido.,L53-013,sentence,primary,había + participle,"L53#9, L53#10"
+I had already eaten.,Ya había comido.,L53-014,sentence,primary,ya at start,L53#11
+We had already eaten.,Ya habíamos comido.,L53-015,sentence,primary,we form,"L53#9, L53#11"
+he wanted / I wanted,quería,L53-016,transformation,primary,line-past of querer · ongoing,L53#12
+He wanted to dine with me.,Quería cenar conmigo.,L53-020,sentence,primary,quería + conmigo,"L53#12, L53#13"
+"He wanted to dine with me, but I had already dined.","Él quería cenar conmigo, pero yo ya había cenado.",L53-021,sentence,primary,use él / yo to disambiguate,"L53#14, L53#11"
+to look for,buscar,L53-022,transformation,primary,no 'for' needed — *buscar* covers it,L53#16
+he was looking for it,lo buscaba,L53-023,transformation,primary,line-past + lo,L53#16
+I would have (helper),habría,L53-026,transformation,primary,would-ending · e drops,L53#18
+I had lost it.,Lo había perdido.,L53-027,sentence,primary,lo + había + perdido,"L53#9, L53#17"
+He was looking for it because I had lost it.,Lo buscaba porque yo lo había perdido.,L53-028,sentence,primary,two pasts · yo for clarity,"L53#16, L53#9"
+I would have got lost.,Me habría perdido.,L53-030,sentence,primary,reflexive · lost myself,L53#19
+for us,para nosotros,L50-036,transformation,extended,regular pronoun after prep,L50#4
+from him,de él,L50-037,transformation,extended,after de,"L50#3, L50#4"
+I will buy,compraré,L50-038,transformation,extended,future: comprar + -é,L50#14
+I would buy,compraría,L50-039,transformation,extended,would: comprar + -ía,L50#16
+I would like to stay for three days.,Me gustaría quedarme por tres días.,L50-042,sentence,extended,me gustaría + 'to' form,"L50#16, L50#11"
+These are for him.,Estos son para él.,L50-044,sentence,extended,plural masc + para él,"L50#6, L50#4"
+I'm not staying every day.,No me quedo todos los días.,L50-045,sentence,extended,negative + every day,L50#13
+I was (estar past),estaba,L51-031,transformation,extended,estar line-past · I/he/she,L51#12
+"you were (estar past, informal)",estabas,L51-032,transformation,extended,-as for you-informal,L51#12
+they were (estar past),estaban,L51-033,transformation,extended,-an for they,L51#12
+creation,creación,L51-034,transformation,extended,from crear · -ación,L51#14
+Are you tired of working? (fem),¿Estás cansada de trabajar?,L51-037,sentence,extended,estar + cansada + de,"L51#11, L51#10"
+I don't believe in arguing about it.,No creo en discutirlo.,L51-038,sentence,extended,object on 'to' form,"L51#15, L51#8"
+In this way it is possible.,De esta forma es posible.,L51-039,sentence,extended,"de esta forma, not en",L51#18
+"Currently, my job is interesting.","Actualmente, mi trabajo es interesante.",L51-040,sentence,extended,false-friend currently,L51#17
+It's because of you that I'm tired. (fem),Es por ti que estoy cansada.,L51-041,sentence,extended,es … que · por = because of,"L51#3, L51#10"
+I have come because of her.,He venido por ella.,L51-042,sentence,extended,por ella · never porque de,L51#4
+to swim,nadar,L52-032,transformation,extended,-ar verb,L52#14
+health,salud,L52-034,transformation,extended,the toast,L52#15
+the waning moon,la luna menguante,L52-036,transformation,extended,"adjective uses -ante, not -ando",L52#18
+We are taking a Spanish course.,Estamos tomando un curso de español.,L52-037,sentence,extended,estamos + -ando,"L52#7, L52#11"
+It is frustrating.,Es frustrante.,L52-039,sentence,extended,-ar → -ante,L52#17
+Dancing is interesting.,Bailar es interesante.,L52-040,sentence,extended,general → 'to' form,"L52#14, L52#17"
+I'm tired of dancing on Mondays.,Estoy cansada de bailar los lunes.,L52-041,sentence,extended,after de: 'to' form · 'on Mondays' = los lunes,"L52#19, L51#11"
+Thursday is irritating.,El jueves es irritante.,L52-042,sentence,extended,el + day · -ante,"L52#19, L52#17"
+"you could (past, informal)",podías,L53-031,transformation,extended,line-past -ías,L53#4
+we could (past),podíamos,L53-032,transformation,extended,line-past we form,L53#4
+"you had (helper, informal)",habías,L53-033,transformation,extended,haber line-past -ías,L53#9
+I could do it tomorrow.,Podría hacerlo mañana.,L53-034,sentence,extended,future could · podría,L53#2
+We could resolve it.,Podríamos resolverlo.,L53-035,sentence,extended,we-future-could,L53#2
+I was looking for you.,Te buscaba.,L53-039,sentence,extended,line-past + te,L53#16
+Would you dine with me?,¿Cenarías conmigo?,L53-040,sentence,extended,would-ending on cenar · conmigo,L53#13
+I would have called you to explain it.,Te habría llamado para explicarlo.,L53-043,sentence,extended,habría + part · para = in order to,"L53#18, L52#1"

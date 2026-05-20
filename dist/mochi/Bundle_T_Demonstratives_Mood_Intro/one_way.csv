@@ -1,0 +1,24 @@
+front,back,id,type,tier,hint,rule_ref
+mood-tense she form of hablar,hable,L69-001,conjugation,primary,to speak · -ar verb takes -e ending,"L69#3, L69#4"
+mood-tense you-inf form of hablar,hables,L69-002,conjugation,primary,to speak · -ar verb · swap to -es,"L69#3, L69#4"
+mood-tense they form of hablar,hablen,L69-003,conjugation,primary,to speak · -ar verb · swap to -en,"L69#3, L69#4"
+mood-tense I form of hablar,hable,L69-004,conjugation,primary,to speak · I and she share same form,"L69#4, L69#6"
+mood-tense we form of hablar,hablemos,L69-005,conjugation,primary,"to speak · -ar → -emos (use /e/, not /i/)",L69#7
+mood-tense she form of comer,coma,L69-006,conjugation,primary,to eat · -er verb takes -a ending,"L69#3, L69#5"
+mood-tense you-inf form of comer,comas,L69-007,conjugation,primary,to eat · -er verb · swap to -as,"L69#3, L69#5"
+mood-tense they form of comer,coman,L69-008,conjugation,primary,to eat · -er verb · swap to -an,"L69#3, L69#5"
+mood-tense I form of comer,coma,L69-009,conjugation,primary,to eat · I shares form with she,"L69#5, L69#6"
+mood-tense we form of comer,comamos,L69-010,conjugation,primary,to eat · -er → -amos,L69#7
+mood-tense she form of esperar,espere,L69-011,conjugation,primary,to wait/hope · -ar swaps groups,"L69#3, L69#10"
+mood-tense you-inf form of esperar,esperes,L69-012,conjugation,primary,to wait/hope · -ar → -es,"L69#3, L69#10"
+mood-tense she form of cocinar,cocine,L69-030,conjugation,extended,to cook · -ar swap,L69#3
+mood-tense they form of cocinar,cocinen,L69-031,conjugation,extended,to cook,L69#3
+mood-tense we form of esperar,esperemos,L69-032,conjugation,extended,to wait/hope · -ar → -emos,L69#7
+mood-tense she form of vivir,viva,L69-033,conjugation,extended,to live · -ir verb takes -a,L69#5
+mood-tense we form of vivir,vivamos,L69-034,conjugation,extended,to live · -ir → -amos (not -imos),L69#7
+mood-tense they form of vivir,vivan,L69-035,conjugation,extended,to live · -ir verb · -an,L69#5
+mood-tense she form of preparar,prepare,L70-017,conjugation,primary,to prepare · -ar swaps to -e,L70#6
+mood-tense we form of preferir,prefiramos,L70-018,conjugation,primary,to prefer · -ir → -amos · no e→ie split in we,"L70#11, L70#12"
+mood-tense she form of quedarse,se quede,L70-019,conjugation,primary,to stay · reflexive + -ar swap,L70#13
+mood-tense they form of quedarse,se queden,L70-020,conjugation,primary,to stay · reflexive + -ar swap,L70#13
+mood-tense you-inf form of dar,des,L70-021,conjugation,primary,"to give · -ar swap, short form",L70#14

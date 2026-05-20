@@ -1,0 +1,21 @@
+front,back,id,type,tier,hint,rule_ref
+I-will form of bailar,bailaré,L41-009,conjugation,primary,will dance · full verb + -é · stress on end,"L41#5, L41#6, L41#7"
+we-will form of bailar,bailaremos,L41-012,conjugation,primary,will dance · full verb + -emos,"L41#5, L41#6"
+I-would form of bailar,bailaría,L41-014,conjugation,primary,would dance · full verb + -ía,"L41#9, L41#11"
+we-would form of bailar,bailaríamos,L41-016,conjugation,primary,would dance · accent stays on í,L41#11
+I-would form of comer,comería,L41-018,conjugation,primary,would eat · same endings for -er,"L41#12, L41#15"
+I-will form of comer,comeré,L41-036,conjugation,extended,will eat · -er uses same endings,L41#8
+they-will form of comer,comerán,L41-037,conjugation,extended,will eat,L41#8
+we-will form of vivir,viviremos,L41-038,conjugation,extended,will live · -ir uses same endings,L41#8
+we-would form of comer,comeríamos,L41-039,conjugation,extended,would eat,"L41#11, L41#12"
+they-would form of imaginar,imaginarían,L41-040,conjugation,extended,would imagine,L41#11
+I-would form of hablar,hablaría,L42-001,conjugation,primary,would speak · full verb + -ía,"L42#1, L42#2"
+we-would form of hablar,hablaríamos,L42-002,conjugation,primary,would speak,L42#2
+they-would form of hablar,hablarían,L42-003,conjugation,primary,would speak,L42#2
+I-could form of poder,podría,L42-005,conjugation,primary,could be able · drops e: pod(e)ría → podría,"L42#14, L42#15"
+we-could form of poder,podríamos,L42-007,conjugation,primary,could be able · contracted,"L42#15, L42#16"
+I-would-have form of haber,habría,L43-001,conjugation,primary,would have have · haber drops final e: hab(e)ría → habría,"L43#1, L43#2"
+we-would-have form of haber,habríamos,L43-003,conjugation,primary,would have have · contracted,L43#2
+they-would-have form of haber,habrían,L43-004,conjugation,primary,would have have · contracted,L43#2
+I-should form of deber,debería,L43-005,conjugation,primary,to owe / to must · deber + -ía = should,"L43#13, L43#14"
+I-would-give form of dar,daría,L43-009,conjugation,primary,would give · dar + -ía,L43#19
