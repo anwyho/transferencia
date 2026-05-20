@@ -55,8 +55,7 @@ build/scripts/fetch_piper_voices.sh
 make all
 
 # Outputs:
-#   dist/transferencia.apkg                     → import into Anki
-#   dist/cards.json                             → flat dump for Phase 2 / iOS Shortcut
+#   dist/transferencia.apkg                     → import into Anki or Mochi
 #   audio/review_set_<letter>.mp3               → per-bundle 20-min drill
 #   audio/stories/<group>/<NN>_<slug>.mp3       → immersion stories
 ```
@@ -72,8 +71,7 @@ make PYTHON=.venv/bin/python install   # or any other make target
 Useful targets while iterating:
 
 - `make validate` — parse all card YAML
-- `make anki` — build `dist/transferencia.apkg`
-- `make mochi` — emit per-bundle Mochi CSVs under `dist/mochi/Bundle_X_…/{reversible,one_way}.csv`. In Mochi, create a parent deck per bundle and two subdecks (`reversible`, `one_way`); import each CSV into the matching subdeck. Toggle "Review cards in reverse" ON for `reversible` subdecks (so Mochi schedules EN→ES and ES→EN per card) and OFF for `one_way` (conjugation drills where reverse makes no sense).
+- `make anki` — build `dist/transferencia.apkg`. One Anki card per source row; reversibility expressed as subdecks: `Transferencia::Bundle X Y::reversible` (English ↔ Spanish drills) and `Transferencia::Bundle X Y::one_way` (conjugation-style cards). Importable into Anki directly or into Mochi via Mochi's Anki import; in Mochi, toggle "Review cards in reverse" ON for the `reversible` subdecks only.
 - `make review-sets` — render all per-bundle review sets
 - `make stories` — render all immersion stories
 - `make validate-stories` — vocab-window check on stories (advisory warnings)

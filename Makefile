@@ -1,4 +1,4 @@
-.PHONY: install test validate anki anki-with-audio cards-json mochi review-sets stories validate-stories all clean
+.PHONY: install test validate anki anki-with-audio review-sets stories validate-stories all clean
 
 PYTHON ?= python3.11
 
@@ -17,12 +17,6 @@ anki: validate
 anki-with-audio: validate
 	$(PYTHON) build/generate_anki.py --out dist/transferencia.apkg --with-audio --audio-bitrate 48k
 
-cards-json: validate
-	$(PYTHON) build/generate_anki.py --export-json dist/cards.json
-
-mochi: validate
-	$(PYTHON) build/generate_mochi.py
-
 review-sets: validate
 	$(PYTHON) build/generate_review_sets.py --all
 
@@ -32,11 +26,11 @@ stories:
 validate-stories:
 	$(PYTHON) build/generate_stories.py --validate-only
 
-all: anki cards-json review-sets stories
+all: anki review-sets stories
 
 clean:
 	@# Use `trash` instead of rm -rf — sends files to macOS Trash so deletes are recoverable.
 	@# Preserves audio/.cache/ (costly TTS fragments).
-	@for f in dist/*.apkg dist/*.json audio/review_set_*.mp3 audio/lesson_*.mp3; do \
+	@for f in dist/*.apkg audio/review_set_*.mp3 audio/lesson_*.mp3; do \
 		[ -e "$$f" ] && trash "$$f" || true; \
 	done

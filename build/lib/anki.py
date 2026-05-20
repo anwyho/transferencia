@@ -113,6 +113,11 @@ def build_note(card: Card, *, audio_filename: str | None = None) -> genanki.Note
     """
     dirs = set(d.value for d in card.directions)
     audio_field = f"[sound:{audio_filename}]" if audio_filename else ""
+    # Always emit a single Anki card per note (EN→ES direction). Reversibility
+    # is expressed via subdeck placement (Bundle X::reversible), and the
+    # downstream Mochi import toggles "Review cards in reverse" on that subdeck
+    # to schedule the reverse direction. Emitting both card templates here would
+    # double the import count in Mochi.
     fields = [
         card.id,
         card.front_en,
@@ -121,8 +126,8 @@ def build_note(card: Card, *, audio_filename: str | None = None) -> genanki.Note
         _format_rule_ref(card.rule_ref),
         card.type.value,
         card.tier.value,
-        "1" if "en_es" in dirs else "",
-        "1" if "es_en" in dirs else "",
+        "1",
+        "",
         audio_field,
     ]
 
@@ -170,7 +175,9 @@ _BUNDLE_LETTER_ALIAS = {"nn": "Ñ"}
 def deck_name_for_card(card: Card) -> str:
     """Return the subdeck name a card belongs to.
 
-    - cards/<letter>_<theme>.yml → 'Transferencia::Bundle <LETTER> <Theme Title>'
+    - cards/<letter>_<theme>.yml →
+        'Transferencia::Bundle <LETTER> <Theme>::reversible' if directions
+        contain both en_es + es_en, else '::one_way'.
     - lessons/lesson_NN/cards.yml or lesson_NN/cards.yml → 'Transferencia::Lesson NN'
     - cards_topical/topic_AA_BB_<theme>.yml → 'Transferencia::Topic::AA-BB <Theme Title>'
     """
@@ -181,7 +188,9 @@ def deck_name_for_card(card: Card) -> str:
             raw = m.group(1)
             letter = _BUNDLE_LETTER_ALIAS.get(raw, raw.upper())
             theme = m.group(2).replace("_", " ").title()
-            return f"Transferencia::Bundle {letter} {theme}"
+            ds = {d.value for d in card.directions}
+            subdeck = "reversible" if ("en_es" in ds and "es_en" in ds) else "one_way"
+            return f"Transferencia::Bundle {letter} {theme}::{subdeck}"
     if src.parent.name.startswith("lesson_"):
         m = _re.match(r"lesson_(\d+)", src.parent.name)
         if m:

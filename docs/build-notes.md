@@ -72,8 +72,7 @@ These remain on the user's end — the plan can't run them.
 
 | Output | Size | Notes |
 |--------|------|-------|
-| `dist/transferencia.apkg` | ~1.2 MB | ~2500 cards, 9 subdecks (bundles A–I) |
-| `dist/cards.json` | ~700 KB | flat array, ~2500 entries |
+| `dist/transferencia.apkg` | ~1.2 MB | 2890 cards, 50 subdecks (27 bundles × 2 layers: ::reversible + ::one_way) |
 | `audio/review_set_<letter>.mp3` | ~12–18 MB | per-bundle 20-min drill, mono 96 kbps |
 | `audio/stories/<group>/<NN>_<slug>.mp3` | ~1–4 MB | per story, mono 96 kbps |
 
