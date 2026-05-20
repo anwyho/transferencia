@@ -71,7 +71,7 @@ make PYTHON=.venv/bin/python install   # or any other make target
 Useful targets while iterating:
 
 - `make validate` — parse all card YAML
-- `make anki` — build `dist/transferencia.apkg`. One Anki card per source row; reversibility expressed as subdecks: `Transferencia::Bundle X Y::reversible` (English ↔ Spanish drills) and `Transferencia::Bundle X Y::one_way` (conjugation-style cards). Importable into Anki directly or into Mochi via Mochi's Anki import; in Mochi, toggle "Review cards in reverse" ON for the `reversible` subdecks only.
+- `make anki` — build `dist/transferencia.apkg`. One Anki card per source row; reversibility expressed as subdecks: `Transferencia::Bundle X Y::X-reversible` (English ↔ Spanish drills) and `Transferencia::Bundle X Y::X-one_way` (conjugation-style cards). Importable into Anki directly or into Mochi via Mochi's Anki import; in Mochi, toggle "Review cards in reverse" ON for the `*-reversible` subdecks only.
 - `make review-sets` — render all per-bundle review sets
 - `make stories` — render all immersion stories
 - `make validate-stories` — vocab-window check on stories (advisory warnings)

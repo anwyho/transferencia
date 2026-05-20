@@ -189,7 +189,7 @@ def deck_name_for_card(card: Card) -> str:
             letter = _BUNDLE_LETTER_ALIAS.get(raw, raw.upper())
             theme = m.group(2).replace("_", " ").title()
             ds = {d.value for d in card.directions}
-            subdeck = "reversible" if ("en_es" in ds and "es_en" in ds) else "one_way"
+            subdeck = f"{letter}-reversible" if ("en_es" in ds and "es_en" in ds) else f"{letter}-one_way"
             return f"Transferencia::Bundle {letter} {theme}::{subdeck}"
     if src.parent.name.startswith("lesson_"):
         m = _re.match(r"lesson_(\d+)", src.parent.name)
