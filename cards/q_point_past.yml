@@ -727,9 +727,9 @@ cards:
 - id: L58-224
   type: sentence
   tier: primary
-  front_en: I bought it for me.
+  front_en: He bought it for me.
   back_es: Me lo compró.
-  hint: 'wait — that''s ''''he bought it for me'''''
+  hint: me (for me) + lo (it) + compró (he bought) — Spanish stacks: indirect + direct + verb
   rule_ref: 'L58#7'
   lessons:
   - 58
