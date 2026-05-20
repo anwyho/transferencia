@@ -11,7 +11,7 @@ A personal study repository for Mihalis Eleftheriou's free [Language Transfer �
 │       ├── rules.md            # the rules and patterns the teacher introduces
 │       └── transcript.md       # verbatim transcript of the audio lesson
 ├── cards/                      # one yml per bundle, named <letter>_<theme>.yml
-│                               # (a_foundation.yml … z_closeout.yml + ñ_line_past_full.yml)
+│                               # (a_foundation.yml … z_closeout.yml + nn_line_past_full.yml for Ñ)
 ├── stories/                    # one subdir per thematic group, <NN>_<group>/<NN>_<slug>.md
 ├── audio/                      # generated MP3s (tracked); audio/.cache + audio/.media ignored
 │   ├── review_set_<letter>.mp3 # per-bundle 20-min drill MP3 (e.g. review_set_e.mp3)
@@ -73,6 +73,7 @@ Useful targets while iterating:
 
 - `make validate` — parse all card YAML
 - `make anki` — build `dist/transferencia.apkg`
+- `make mochi` — emit per-bundle Mochi CSVs under `dist/mochi/Bundle_X_…/{reversible,one_way}.csv`. In Mochi, create a parent deck per bundle and two subdecks (`reversible`, `one_way`); import each CSV into the matching subdeck. Toggle "Review cards in reverse" ON for `reversible` subdecks (so Mochi schedules EN→ES and ES→EN per card) and OFF for `one_way` (conjugation drills where reverse makes no sense).
 - `make review-sets` — render all per-bundle review sets
 - `make stories` — render all immersion stories
 - `make validate-stories` — vocab-window check on stories (advisory warnings)

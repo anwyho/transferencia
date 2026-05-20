@@ -101,7 +101,7 @@ Co-agent contention: the card-author agent works in `cards/*.yml` and `docs/card
 
 Original layout had `lesson_NN/cards.yml` per-lesson plus `cards_topical/topic_NN_MM_*.yml` cross-lesson files. Restructured into a single source of truth: `cards/<letter>_<theme>.yml`, one per Spanish-alphabet bundle (A–Z + Ñ, 27 total). Lesson rules + transcripts moved into `lessons/lesson_NN/`. `CROSS_REFERENCES.md` moved to `docs/cross-references.md`.
 
-The combiner (`/tmp/combine_cards.py` was a one-shot) merged duplicates by `(front_en, back_es, type)`, keeping the union of `directions` and the wider `lessons:` array. Existing per-lesson IDs (`l3-001`, `t01_03-002`) preserved unchanged so Anki review history survives.
+The combiner (`/tmp/combine_cards.py` was a one-shot) merged duplicates by `(front_en, back_es, type)`, keeping the union of `directions` and the wider `lessons:` array. Existing per-lesson IDs (`L3-001`, `t01_03-002`) preserved unchanged so Anki review history survives.
 
 Bundle file format adds a `bundle:` letter and `lessons:` array. The validation rule loosened from "extended cards must reach the file's max lesson" to "max(card.lessons) must fall inside the bundle's range" — necessary because combined bundles include cards anchored to multiple lessons.
 

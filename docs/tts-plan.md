@@ -153,5 +153,5 @@ build/generate_audio.py --through 3
 build/generate_audio.py --through 3 --backend piper --voice-es es_MX-claude-high --voice-en en_US-amy-medium --pace 1.1
 
 # A/B compare
-build/scripts/tts_compare.py --cards l3-001,l3-014,l3-031 --backends piper,mac_say
+build/scripts/tts_compare.py --cards L3-001,L3-014,L3-031 --backends piper,mac_say
 ```

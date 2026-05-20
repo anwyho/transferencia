@@ -12,7 +12,7 @@ bundle: A
 title: "Foundation: vowels, es / no es, convertible-word rules"
 lessons: [1, 2, 3]
 cards:
-  - id: l3-001
+  - id: L3-001
     type: transformation
     tier: primary
     front_en: "important"
@@ -55,7 +55,7 @@ cards:
 Apply a rule to derive a Spanish word from an English one. The Language Transfer signature drill.
 
 ```yaml
-- id: l3-002
+- id: L3-002
   type: transformation
   tier: primary
   front_en: "different"
@@ -89,7 +89,7 @@ Hints live on the **back** so the recall test on the front is honest. They can s
 Mental translation. The bread and butter.
 
 ```yaml
-- id: l3-014
+- id: L3-014
   type: sentence
   tier: primary
   front_en: "It's not different."
@@ -110,7 +110,7 @@ Sentence rules:
 Verb form drill.
 
 ```yaml
-- id: l13-008
+- id: L13-008
   type: conjugation
   tier: primary
   front_en: "I form of hacer"

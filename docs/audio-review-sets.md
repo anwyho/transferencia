@@ -1,6 +1,6 @@
 # Audio Review Sets
 
-Per-bundle drill MP3s for hands-free practice in the car. One file per Spanish-alphabet bundle: `audio/review_set_a.mp3`, `audio/review_set_b.mp3`, ..., `audio/review_set_ñ.mp3`, ..., `audio/review_set_z.mp3`.
+Per-bundle drill MP3s for hands-free practice in the car. One file per Spanish-alphabet bundle: `audio/review_set_a.mp3`, `audio/review_set_b.mp3`, ..., `audio/review_set_nn.mp3` (Ñ — ASCII alias so it sorts between n and o), ..., `audio/review_set_z.mp3`.
 
 Target duration: ~20 minutes (acceptance band 17–22 min). Each set contains:
 

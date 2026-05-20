@@ -22,7 +22,7 @@ Distribution: **9 bundles of 4 lessons + 18 bundles of 3 lessons = 90**. Each bu
 | 12 | **L. Pronoun migration + reflexive *se* + prepositions** | 37–39 | *(not yet built)* | *lo/la → le/les* when meaning is "to/for him/her"; future of *dar*; *darse cuenta*; full reflexive *se* (*-se* dictionary form); *quedarse*; *con/para/de* + *mí/ti* (after-prep pronouns). |
 | 13 | **M. Preposition pairs + conditional + *gustar*** | 40–43 *(4)* | *(not yet built)* | *enamorarse de*, *pensar en*, *soñar con*; *conmigo/contigo*; *ñ*; conditional (-ía/-ías/-íamos/-ían); *gustar* = "to be pleasing" (back-to-front); *habría* + part = "would have"; *debería* = should. |
 | 14 | **N. Gender exceptions + gustar family + line-past intro** | 44–46 | *(not yet built)* | *la mano, la foto, la moto*; *interesar/parecer*; *bien/bueno*; *poner/-pose*; *podría/debería* practice; three-pasts panorama; line-past *-aba* for *-ar*. |
-| 15 | **Ñ. Line-past full** | 47–49 | *(not yet built)* | *-aba* expansion + *se* for "got"; line-past *-ía* for *-er/-ir* + *se vende*; irregular *era / iba / veía*; *llamar/tener* line forms (*tenía*). |
+| 15 | **Ñ. Line-past full** | 47–49 | `cards/nn_line_past_full.yml` | *-aba* expansion + *se* for "got"; line-past *-ía* for *-er/-ir* + *se vende*; irregular *era / iba / veía*; *llamar/tener* line forms (*tenía*). |
 | 16 | **O. *Para vs por* + pluperfect** | 50–53 *(4)* | *(not yet built)* | *para* (destined for) vs *por* (because of / time / exchange); *estar para/por*; "no *-ing* after prepositions"; *para = in order to*; days of week from planets; *podía* (line) vs *podría* (would); *había* + part (pluperfect). |
 | 17 | **P. Irregular participles + relatives + -emos/-imos** | 54–57 *(4)* | *(not yet built)* | *-ado/-ido* as adjectives with *estar*; irregular past participles *roto/dicho/hecho/visto/abierto/cerrado*; "prepositions can't end a sentence"; *que/cual/quien*; -emos vs -imos diff (the one *-er* vs *-ir* split that survives in present); *lo + adj*; *queriendo*. |
 | 18 | **Q. Point-past intro** | 58–60 | *(not yet built)* | Point-past *-ar* (*-é / -ó*) with critical accents; passive *se envió*; point-past *-er/-ir* (*-í / -ió*); double negatives; "we" point-past anomaly (*-er* differs: *comemos* vs *comimos*). |
@@ -62,7 +62,7 @@ Full concept-driven rebuild complete (2026-05). All 27 bundles authored, A throu
 - Cross-bundle (front_en, back_es) duplicates: 0 after dedup pass. Ambiguous fronts disambiguated with bracketed suffixes.
 - Hints standardized on rule-pattern phrasing (no Spanish-answer leak).
 
-Bundle Ñ filename uses the literal *ñ*: `cards/ñ_line_past_full.yml`. macOS APFS + Git handle it; the parser regex (`^[a-zñ]_.+\.yml$`) accepts it.
+Bundle Ñ's filename uses the ASCII alias **`nn_`**: `cards/nn_line_past_full.yml`. This makes the file sort lexicographically between `n_…` and `o_…` (the literal `ñ` codepoint sorts after `z`, which broke `ls cards/` order). The bundle metadata inside the file still says `bundle: Ñ`, and the Anki deck name still renders as *Bundle Ñ Line-Past Full*. Parser regex: `^(nn|[a-zñ])_.+\.yml$`.
 
 Cards live at `cards/<letter>_<theme>.yml`. Each file has frontmatter:
 
@@ -93,4 +93,3 @@ Each bundle wraps either one tight thematic unit or one accumulating thread. Not
 
 Yes, the Ñ slot is real. The Spanish alphabet has 27 letters: A B C D E F G H I J K L M N **Ñ** O P Q R S T U V W X Y Z. Bundle Ñ sits between N and O — same as in a dictionary.
 
-If a tool ever chokes on `ñ_line_past_full.yml`, the file can be renamed to `n2_line_past_full.yml` (or similar) without breaking semantics — the bundle metadata says it's Ñ.
