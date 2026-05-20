@@ -1,12 +1,12 @@
 bundle: V
-title: 'Mood expansion: para que, donde/como/cuando + mood, hay/había + mood, qué fuerte'
+title: 'Bundle V Mood Expansion (L74-77)'
 lessons:
 - 74
 - 75
 - 76
 - 77
 cards:
-- id: l74-001
+- id: L74-001
   type: transformation
   tier: primary
   front_en: to choose
@@ -18,51 +18,51 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-003
+- id: L74-003
   type: conjugation
   tier: primary
   front_en: I form of elegir
   back_es: elijo
-  hint: e→i stressed · g→j before o
+  hint: to choose · e→i stressed · g→j before o
   rule_ref: L74#2, L74#3
   lessons:
   - 74
   directions:
   - en_es
-- id: l74-005
+- id: L74-005
   type: conjugation
   tier: primary
   front_en: she form of elegir
   back_es: elige
-  hint: e→i stressed
+  hint: to choose · e→i stressed
   rule_ref: L74#2
   lessons:
   - 74
   directions:
   - en_es
-- id: l74-006
+- id: L74-006
   type: conjugation
   tier: primary
   front_en: we form of elegir
   back_es: elegimos
-  hint: stress shifts off e · stays as e
+  hint: to choose · stress shifts off e · stays as e
   rule_ref: L74#2
   lessons:
   - 74
   directions:
   - en_es
-- id: l74-007
+- id: L74-007
   type: conjugation
   tier: primary
   front_en: they form of elegir
   back_es: eligen
-  hint: e→i stressed
+  hint: to choose · e→i stressed
   rule_ref: L74#2
   lessons:
   - 74
   directions:
   - en_es
-- id: l74-008
+- id: L74-008
   type: transformation
   tier: primary
   front_en: on my behalf / in my place
@@ -74,7 +74,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-009
+- id: L74-009
   type: transformation
   tier: primary
   front_en: for me (destined for me)
@@ -86,7 +86,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-011
+- id: L74-011
   type: transformation
   tier: primary
   front_en: to break (no doer named)
@@ -98,7 +98,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-012
+- id: L74-012
   type: transformation
   tier: primary
   front_en: to return / come back
@@ -110,84 +110,84 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-013
+- id: L74-013
   type: conjugation
   tier: primary
   front_en: I form of volver
   back_es: vuelvo
-  hint: o→ue stressed
+  hint: to return · o→ue stressed
   rule_ref: L74#11
   lessons:
   - 74
   directions:
   - en_es
-- id: l74-015
+- id: L74-015
   type: conjugation
   tier: primary
   front_en: she form of volver
   back_es: vuelve
-  hint: o→ue stressed
+  hint: to return · o→ue stressed
   rule_ref: L74#11
   lessons:
   - 74
   directions:
   - en_es
-- id: l74-016
+- id: L74-016
   type: conjugation
   tier: primary
   front_en: we form of volver
   back_es: volvemos
-  hint: stress shifts off o · stays as o
+  hint: to return · stress shifts off o · stays as o
   rule_ref: L74#11
   lessons:
   - 74
   directions:
   - en_es
-- id: l74-017
+- id: L74-017
   type: conjugation
   tier: primary
   front_en: they form of volver
   back_es: vuelven
-  hint: o→ue stressed
+  hint: to return · o→ue stressed
   rule_ref: L74#11
   lessons:
   - 74
   directions:
   - en_es
-- id: l74-018
+- id: L74-018
   type: conjugation
   tier: primary
   front_en: mood I form of volver
   back_es: vuelva
-  hint: o→ue keeps splitting · -er → -a endings
+  hint: return (subj.) · o→ue keeps splitting · -er → -a endings
   rule_ref: L74#12
   lessons:
   - 74
   directions:
   - en_es
-- id: l74-020
+- id: L74-020
   type: conjugation
   tier: primary
   front_en: mood we form of volver
   back_es: volvamos
-  hint: stress off o · mood -amos
+  hint: return (subj.) · stress off o · mood -amos
   rule_ref: L74#12
   lessons:
   - 74
   directions:
   - en_es
-- id: l74-021
+- id: L74-021
   type: conjugation
   tier: primary
   front_en: mood they form of volver
   back_es: vuelvan
-  hint: o→ue · mood -an
+  hint: return (subj.) · o→ue · mood -an
   rule_ref: L74#12
   lessons:
   - 74
   directions:
   - en_es
-- id: l74-022
+- id: L74-022
   type: transformation
   tier: primary
   front_en: done (after haber)
@@ -199,7 +199,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-023
+- id: L74-023
   type: transformation
   tier: primary
   front_en: fact
@@ -211,7 +211,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-024
+- id: L74-024
   type: transformation
   tier: primary
   front_en: also / as well
@@ -223,7 +223,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-025
+- id: L74-025
   type: transformation
   tier: primary
   front_en: so (so tired)
@@ -235,7 +235,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-026
+- id: L74-026
   type: transformation
   tier: primary
   front_en: in order to / for
@@ -247,7 +247,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-027
+- id: L74-027
   type: transformation
   tier: primary
   front_en: so that / in order that
@@ -259,7 +259,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-029
+- id: L74-029
   type: sentence
   tier: primary
   front_en: I don't want you to choose for me.
@@ -271,7 +271,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-030
+- id: L74-030
   type: sentence
   tier: primary
   front_en: I don't want it to break.
@@ -283,7 +283,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-031
+- id: L74-031
   type: sentence
   tier: primary
   front_en: I don't want him to break it.
@@ -295,7 +295,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-032
+- id: L74-032
   type: sentence
   tier: primary
   front_en: We've met up to speak.
@@ -307,7 +307,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-033
+- id: L74-033
   type: sentence
   tier: primary
   front_en: We've cooked so that they eat.
@@ -319,7 +319,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-034
+- id: L74-034
   type: sentence
   tier: primary
   front_en: I come back.
@@ -331,7 +331,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-036
+- id: L74-036
   type: sentence
   tier: primary
   front_en: So that you come back.
@@ -343,7 +343,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-037
+- id: L74-037
   type: sentence
   tier: primary
   front_en: I've done it so that you come back.
@@ -355,7 +355,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-038
+- id: L74-038
   type: sentence
   tier: primary
   front_en: They've done it so that we come back.
@@ -367,7 +367,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-039
+- id: L74-039
   type: sentence
   tier: primary
   front_en: So that you also come back.
@@ -379,7 +379,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-040
+- id: L74-040
   type: sentence
   tier: primary
   front_en: We've done everything so you also come back.
@@ -391,19 +391,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-043
-  type: sentence
-  tier: primary
-  front_en: It's a fact.
-  back_es: Es un hecho.
-  hint: hecho also = fact
-  rule_ref: L74#13
-  lessons:
-  - 74
-  directions:
-  - en_es
-  - es_en
-- id: l74-044
+- id: L74-044
   type: sentence
   tier: primary
   front_en: She chooses for me.
@@ -415,7 +403,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-001
+- id: L75-001
   type: transformation
   tier: primary
   front_en: do! / make! (informal command)
@@ -427,7 +415,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-002
+- id: L75-002
   type: transformation
   tier: primary
   front_en: do it (informal command)
@@ -439,7 +427,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-003
+- id: L75-003
   type: transformation
   tier: primary
   front_en: where (known)
@@ -451,7 +439,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-004
+- id: L75-004
   type: transformation
   tier: primary
   front_en: wherever you want
@@ -463,7 +451,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-005
+- id: L75-005
   type: transformation
   tier: primary
   front_en: how (known way)
@@ -475,7 +463,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-006
+- id: L75-006
   type: transformation
   tier: primary
   front_en: however you like
@@ -487,7 +475,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-008
+- id: L75-008
   type: transformation
   tier: primary
   front_en: whenever you need
@@ -499,7 +487,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-009
+- id: L75-009
   type: transformation
   tier: primary
   front_en: to follow / continue
@@ -511,40 +499,40 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-010
+- id: L75-010
   type: conjugation
   tier: primary
   front_en: I form of seguir
   back_es: sigo
-  hint: e→i · gu→g before o
+  hint: to follow · e→i · gu→g before o
   rule_ref: L75#12, L75#13
   lessons:
   - 75
   directions:
   - en_es
-- id: l75-013
+- id: L75-013
   type: conjugation
   tier: primary
   front_en: we form of seguir
   back_es: seguimos
-  hint: stress shifts · e stays
+  hint: to follow · stress shifts · e stays
   rule_ref: L75#12
   lessons:
   - 75
   directions:
   - en_es
-- id: l75-014
+- id: L75-014
   type: conjugation
   tier: primary
   front_en: they form of seguir
   back_es: siguen
-  hint: e→i stressed
+  hint: to follow · e→i stressed
   rule_ref: L75#12
   lessons:
   - 75
   directions:
   - en_es
-- id: l75-015
+- id: L75-015
   type: transformation
   tier: primary
   front_en: to get / manage to
@@ -556,18 +544,18 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-016
+- id: L75-016
   type: conjugation
   tier: primary
   front_en: I form of conseguir
   back_es: consigo
-  hint: same e→i · gu→g
+  hint: to get / manage to · same e→i · gu→g
   rule_ref: L75#14
   lessons:
   - 75
   directions:
   - en_es
-- id: l75-017
+- id: L75-017
   type: transformation
   tier: primary
   front_en: to chase
@@ -579,18 +567,18 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-018
+- id: L75-018
   type: conjugation
   tier: primary
   front_en: I form of perseguir
   back_es: persigo
-  hint: e→i · gu→g
+  hint: to chase · e→i · gu→g
   rule_ref: L75#14
   lessons:
   - 75
   directions:
   - en_es
-- id: l75-019
+- id: L75-019
   type: transformation
   tier: primary
   front_en: to where
@@ -602,40 +590,40 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-020
+- id: L75-020
   type: conjugation
   tier: primary
   front_en: mood I form of ser
   back_es: sea
-  hint: irregular root s-e-a
+  hint: be (subj.) · irregular root s-e-a
   rule_ref: L75#16
   lessons:
   - 75
   directions:
   - en_es
-- id: l75-022
+- id: L75-022
   type: conjugation
   tier: primary
   front_en: mood we form of ser
   back_es: seamos
-  hint: sea + mos
+  hint: be (subj.) · sea + mos
   rule_ref: L75#16
   lessons:
   - 75
   directions:
   - en_es
-- id: l75-023
+- id: L75-023
   type: conjugation
   tier: primary
   front_en: mood they form of ser
   back_es: sean
-  hint: sea + n
+  hint: be (subj.) · sea + n
   rule_ref: L75#16
   lessons:
   - 75
   directions:
   - en_es
-- id: l75-024
+- id: L75-024
   type: transformation
   tier: primary
   front_en: I mean / uhh (filler)
@@ -647,7 +635,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-026
+- id: L75-026
   type: sentence
   tier: primary
   front_en: Do it.
@@ -659,7 +647,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-027
+- id: L75-027
   type: sentence
   tier: primary
   front_en: Do it wherever you want.
@@ -671,7 +659,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-028
+- id: L75-028
   type: sentence
   tier: primary
   front_en: Do it however you like.
@@ -683,19 +671,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-029
-  type: sentence
-  tier: primary
-  front_en: Do whatever you prefer.
-  back_es: Haz lo que prefieras.
-  hint: haz + lo que + mood
-  rule_ref: L75#1, L75#2, L75#7
-  lessons:
-  - 75
-  directions:
-  - en_es
-  - es_en
-- id: l75-030
+- id: L75-030
   type: sentence
   tier: primary
   front_en: Eat whatever you prefer. (informal)
@@ -707,7 +683,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-031
+- id: L75-031
   type: sentence
   tier: primary
   front_en: Eat whatever you prefer. (formal)
@@ -719,7 +695,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-032
+- id: L75-032
   type: sentence
   tier: primary
   front_en: Eat (you all) whatever you prefer.
@@ -731,7 +707,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-033
+- id: L75-033
   type: sentence
   tier: primary
   front_en: Whenever you need.
@@ -743,7 +719,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-034
+- id: L75-034
   type: sentence
   tier: primary
   front_en: I'll follow you wherever you go.
@@ -755,7 +731,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-035
+- id: L75-035
   type: sentence
   tier: primary
   front_en: I prefer it to be like this.
@@ -767,7 +743,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-036
+- id: L75-036
   type: sentence
   tier: primary
   front_en: Whatever will be, will be. (Sea…)
@@ -779,7 +755,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-040
+- id: L75-040
   type: sentence
   tier: primary
   front_en: I chase him.
@@ -791,7 +767,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l76-001
+- id: L76-001
   type: transformation
   tier: primary
   front_en: there is / there are
@@ -803,7 +779,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l76-002
+- id: L76-002
   type: transformation
   tier: primary
   front_en: there was / there were
@@ -815,7 +791,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l76-003
+- id: L76-003
   type: transformation
   tier: primary
   front_en: somebody
@@ -827,7 +803,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l76-005
+- id: L76-005
   type: transformation
   tier: primary
   front_en: there has to be / there must be
@@ -839,7 +815,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l76-009
+- id: L76-009
   type: sentence
   tier: primary
   front_en: There is somebody here who wants to speak.
@@ -851,7 +827,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l76-010
+- id: L76-010
   type: sentence
   tier: primary
   front_en: Is there anybody here who speaks Spanish?
@@ -863,7 +839,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l76-011
+- id: L76-011
   type: sentence
   tier: primary
   front_en: There are two people here who speak Spanish.
@@ -875,7 +851,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l76-012
+- id: L76-012
   type: sentence
   tier: primary
   front_en: There were two people here who spoke Spanish.
@@ -887,7 +863,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l76-013
+- id: L76-013
   type: sentence
   tier: primary
   front_en: There has to be something you can do.
@@ -899,7 +875,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l76-015
+- id: L76-015
   type: sentence
   tier: primary
   front_en: There was somebody.
@@ -911,7 +887,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l76-017
+- id: L76-017
   type: sentence
   tier: primary
   front_en: Is there anybody who can speak?
@@ -923,7 +899,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l77-001
+- id: L77-001
   type: transformation
   tier: primary
   front_en: should
@@ -935,7 +911,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l77-002
+- id: L77-002
   type: transformation
   tier: primary
   front_en: there should be
@@ -947,7 +923,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l77-007
+- id: L77-007
   type: transformation
   tier: primary
   front_en: strong / hardcore (colloquial)
@@ -959,7 +935,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l77-010
+- id: L77-010
   type: transformation
   tier: primary
   front_en: how good!
@@ -971,7 +947,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l77-011
+- id: L77-011
   type: transformation
   tier: primary
   front_en: wow, that's heavy!
@@ -983,7 +959,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l77-012
+- id: L77-012
   type: transformation
   tier: primary
   front_en: it's okay / it's well
@@ -995,7 +971,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l77-016
+- id: L77-016
   type: transformation
   tier: primary
   front_en: it's not necessary / it doesn't make lack
@@ -1007,7 +983,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l77-018
+- id: L77-018
   type: sentence
   tier: primary
   front_en: There should be something to eat.
@@ -1019,7 +995,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l77-019
+- id: L77-019
   type: sentence
   tier: primary
   front_en: It's terrible that you eat this.
@@ -1031,7 +1007,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l77-020
+- id: L77-020
   type: sentence
   tier: primary
   front_en: It's terrible if you eat this.
@@ -1043,7 +1019,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l77-021
+- id: L77-021
   type: sentence
   tier: primary
   front_en: It's possible we'll go later.
@@ -1055,7 +1031,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l77-022
+- id: L77-022
   type: sentence
   tier: primary
   front_en: How heavy that he's here!
@@ -1067,7 +1043,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l77-023
+- id: L77-023
   type: sentence
   tier: primary
   front_en: It's okay that you ask.
@@ -1079,7 +1055,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l77-024
+- id: L77-024
   type: sentence
   tier: primary
   front_en: It's not necessary that I respond.
@@ -1091,7 +1067,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l77-025
+- id: L77-025
   type: sentence
   tier: primary
   front_en: I don't need to respond.
@@ -1103,7 +1079,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l77-026
+- id: L77-026
   type: sentence
   tier: primary
   front_en: It's important we find it soon.
@@ -1115,7 +1091,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-046
+- id: L74-046
   type: transformation
   tier: extended
   front_en: to find
@@ -1127,7 +1103,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-047
+- id: L74-047
   type: transformation
   tier: extended
   front_en: to meet up / find oneself
@@ -1139,7 +1115,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-048
+- id: L74-048
   type: transformation
   tier: extended
   front_en: to stir (Spanish)
@@ -1151,7 +1127,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-049
+- id: L74-049
   type: transformation
   tier: extended
   front_en: pa (casual short of para)
@@ -1162,7 +1138,7 @@ cards:
   - 74
   directions:
   - en_es
-- id: l74-050
+- id: L74-050
   type: sentence
   tier: extended
   front_en: I don't want it to break on me.
@@ -1174,19 +1150,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-051
-  type: sentence
-  tier: extended
-  front_en: We've cooked so you also eat.
-  back_es: Hemos cocinado para que tú también comas.
-  hint: para que + tú + también
-  rule_ref: L74#8, L74#16
-  lessons:
-  - 74
-  directions:
-  - en_es
-  - es_en
-- id: l74-052
+- id: L74-052
   type: sentence
   tier: extended
   front_en: I choose what I want.
@@ -1198,7 +1162,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-053
+- id: L74-053
   type: sentence
   tier: extended
   front_en: They return when they want.
@@ -1210,7 +1174,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-054
+- id: L74-054
   type: sentence
   tier: extended
   front_en: I want them to return.
@@ -1222,19 +1186,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-055
-  type: sentence
-  tier: extended
-  front_en: So that we come back together.
-  back_es: Para que volvamos juntos.
-  hint: para que + mood we
-  rule_ref: L74#8, L74#12
-  lessons:
-  - 74
-  directions:
-  - en_es
-  - es_en
-- id: l74-056
+- id: L74-056
   type: sentence
   tier: extended
   front_en: I've cooked too.
@@ -1246,30 +1198,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l74-057
-  type: sentence
-  tier: extended
-  front_en: It's a done fact.
-  back_es: Es un hecho hecho.
-  hint: hecho twice · 'done fact'
-  rule_ref: L74#13
-  lessons:
-  - 74
-  directions:
-  - en_es
-- id: l75-041
-  type: sentence
-  tier: extended
-  front_en: Do it like this.
-  back_es: Hazlo así.
-  hint: command + así
-  rule_ref: L75#1, L75#18
-  lessons:
-  - 75
-  directions:
-  - en_es
-  - es_en
-- id: l75-042
+- id: L75-042
   type: sentence
   tier: extended
   front_en: I'll go wherever you want.
@@ -1281,7 +1210,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-043
+- id: L75-043
   type: sentence
   tier: extended
   front_en: I'll do whatever you want.
@@ -1293,7 +1222,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-044
+- id: L75-044
   type: sentence
   tier: extended
   front_en: We'll speak whenever you want.
@@ -1305,7 +1234,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-045
+- id: L75-045
   type: sentence
   tier: extended
   front_en: Continue however you can.
@@ -1317,7 +1246,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-046
+- id: L75-046
   type: sentence
   tier: extended
   front_en: I follow you wherever you go.
@@ -1329,7 +1258,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-047
+- id: L75-047
   type: sentence
   tier: extended
   front_en: We chase whoever runs.
@@ -1341,7 +1270,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-048
+- id: L75-048
   type: sentence
   tier: extended
   front_en: I want it to be like this.
@@ -1353,19 +1282,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-049
-  type: sentence
-  tier: extended
-  front_en: I don't want them to be like that.
-  back_es: No quiero que sean así.
-  hint: mood they form of ser
-  rule_ref: L75#16
-  lessons:
-  - 75
-  directions:
-  - en_es
-  - es_en
-- id: l75-050
+- id: L75-050
   type: sentence
   tier: extended
   front_en: I mean, like this.
@@ -1377,7 +1294,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-051
+- id: L75-051
   type: sentence
   tier: extended
   front_en: Whatever it is, I'll be here.
@@ -1389,7 +1306,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-052
+- id: L75-052
   type: sentence
   tier: extended
   front_en: I get whatever I want.
@@ -1401,7 +1318,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l75-053
+- id: L75-053
   type: sentence
   tier: extended
   front_en: Get whatever you can.
@@ -1413,7 +1330,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l76-019
+- id: L76-019
   type: sentence
   tier: extended
   front_en: Is there anybody who knows?
@@ -1425,7 +1342,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l76-020
+- id: L76-020
   type: sentence
   tier: extended
   front_en: There must be a way.
@@ -1437,7 +1354,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l76-021
+- id: L76-021
   type: sentence
   tier: extended
   front_en: There must be something better.
@@ -1449,7 +1366,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l76-022
+- id: L76-022
   type: sentence
   tier: extended
   front_en: There were people who lived here.
@@ -1461,43 +1378,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l76-023
-  type: sentence
-  tier: extended
-  front_en: Is there something I can do?
-  back_es: ¿Hay algo que pueda hacer?
-  hint: unknown → mood poder
-  rule_ref: L76#4, L76#10
-  lessons:
-  - 76
-  directions:
-  - en_es
-  - es_en
-- id: l76-024
-  type: sentence
-  tier: extended
-  front_en: There has to be a reason.
-  back_es: Tiene que haber una razón.
-  hint: tiene que haber + noun
-  rule_ref: L76#10
-  lessons:
-  - 76
-  directions:
-  - en_es
-  - es_en
-- id: l76-025
-  type: sentence
-  tier: extended
-  front_en: There were many people.
-  back_es: Había muchas personas.
-  hint: había never plural-changes
-  rule_ref: L76#6
-  lessons:
-  - 76
-  directions:
-  - en_es
-  - es_en
-- id: l77-029
+- id: L77-029
   type: transformation
   tier: extended
   front_en: necessity
@@ -1509,7 +1390,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l77-030
+- id: L77-030
   type: sentence
   tier: extended
   front_en: How incredible that he came!
@@ -1520,7 +1401,7 @@ cards:
   - 77
   directions:
   - en_es
-- id: l77-031
+- id: L77-031
   type: sentence
   tier: extended
   front_en: It's possible they're here.
@@ -1532,7 +1413,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l77-032
+- id: L77-032
   type: sentence
   tier: extended
   front_en: It's not possible that he knows.
@@ -1544,7 +1425,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l77-033
+- id: L77-033
   type: sentence
   tier: extended
   front_en: It's terrible that they don't have it.
@@ -1556,7 +1437,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l77-034
+- id: L77-034
   type: sentence
   tier: extended
   front_en: It's good that you're here.
@@ -1568,7 +1449,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l77-035
+- id: L77-035
   type: sentence
   tier: extended
   front_en: It's important that you come back.
@@ -1580,7 +1461,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l77-036
+- id: L77-036
   type: sentence
   tier: extended
   front_en: It's necessary that you do it.
@@ -1592,7 +1473,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l77-037
+- id: L77-037
   type: sentence
   tier: extended
   front_en: How heavy that they say that!
@@ -1603,7 +1484,7 @@ cards:
   - 77
   directions:
   - en_es
-- id: l77-038
+- id: L77-038
   type: sentence
   tier: extended
   front_en: It doesn't make lack that you come.
@@ -1615,19 +1496,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l77-039
-  type: sentence
-  tier: extended
-  front_en: It's possible we'll come back later.
-  back_es: Es posible que volvamos más tarde.
-  hint: es + adj + que → mood volver
-  rule_ref: L77#7, L77#8
-  lessons:
-  - 77
-  directions:
-  - en_es
-  - es_en
-- id: l77-040
+- id: L77-040
   type: sentence
   tier: extended
   front_en: It's okay that he doesn't respond.

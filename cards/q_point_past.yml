@@ -1,99 +1,99 @@
 bundle: Q
-title: 'Point-past intro: -é/-ó for -ar, -í/-ió for -er/-ir, double negatives'
+title: 'Bundle Q Point-Past Intro (L58-60)'
 lessons:
 - 58
 - 59
 - 60
 cards:
-- id: l58-001
+- id: L58-001
   type: conjugation
   tier: primary
   front_en: point-past I form of hablar
   back_es: hablé
-  hint: -ar → -é (accent on e)
+  hint: speak (past) · -ar → -é (accent on e)
   rule_ref: L58#3
   lessons:
   - 58
   directions:
   - en_es
-- id: l58-002
+- id: L58-002
   type: conjugation
   tier: primary
   front_en: point-past I form of comprar
   back_es: compré
-  hint: -ar → -é (accent on e)
+  hint: buy (past) · -ar → -é (accent on e)
   rule_ref: L58#3
   lessons:
   - 58
   directions:
   - en_es
-- id: l58-003
+- id: L58-003
   type: conjugation
   tier: primary
   front_en: point-past I form of enviar
   back_es: envié
-  hint: -ar → -é · cousin of "envoy"
+  hint: send (past) · -ar → -é · cousin of "envoy
   rule_ref: L58#3, L58#8
   lessons:
   - 58
   directions:
   - en_es
-- id: l58-004
+- id: L58-004
   type: conjugation
   tier: primary
   front_en: point-past I form of olvidar
   back_es: olvidé
-  hint: -ar → -é
+  hint: forget (past) · -ar → -é
   rule_ref: L58#3, L58#14
   lessons:
   - 58
   directions:
   - en_es
-- id: l58-007
+- id: L58-007
   type: conjugation
   tier: primary
   front_en: point-past he form of hablar
   back_es: habló
-  hint: -ar → -ó (accent on o)
+  hint: speak (past) · -ar → -ó (accent on o)
   rule_ref: L58#3
   lessons:
   - 58
   directions:
   - en_es
-- id: l58-010
+- id: L58-010
   type: conjugation
   tier: primary
   front_en: point-past he form of comprar
   back_es: compró
-  hint: -ar → -ó
+  hint: buy (past) · -ar → -ó
   rule_ref: L58#3
   lessons:
   - 58
   directions:
   - en_es
-- id: l58-011
+- id: L58-011
   type: conjugation
   tier: primary
   front_en: point-past he form of enviar
   back_es: envió
-  hint: -ar → -ó
+  hint: send (past) · -ar → -ó
   rule_ref: L58#3, L58#8
   lessons:
   - 58
   directions:
   - en_es
-- id: l58-012
+- id: L58-012
   type: conjugation
   tier: primary
   front_en: point-past he form of olvidar
   back_es: olvidó
-  hint: -ar → -ó
+  hint: forget (past) · -ar → -ó
   rule_ref: L58#3, L58#14
   lessons:
   - 58
   directions:
   - en_es
-- id: l58-015
+- id: L58-015
   type: transformation
   tier: primary
   front_en: I spoke
@@ -105,7 +105,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l58-024
+- id: L58-024
   type: transformation
   tier: primary
   front_en: still / yet
@@ -117,7 +117,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l58-027
+- id: L58-027
   type: sentence
   tier: primary
   front_en: I spoke.
@@ -129,7 +129,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l58-028
+- id: L58-028
   type: sentence
   tier: primary
   front_en: He spoke.
@@ -141,7 +141,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l58-029
+- id: L58-029
   type: sentence
   tier: primary
   front_en: I didn't speak.
@@ -153,7 +153,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l58-030
+- id: L58-030
   type: sentence
   tier: primary
   front_en: He didn't speak.
@@ -165,7 +165,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l58-031
+- id: L58-031
   type: sentence
   tier: primary
   front_en: I bought.
@@ -176,19 +176,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l58-032
-  type: sentence
-  tier: primary
-  front_en: I bought it.
-  back_es: Lo compré.
-  hint: object before verb
-  rule_ref: L58#3
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l58-033
+- id: L58-033
   type: sentence
   tier: primary
   front_en: I didn't buy it.
@@ -200,65 +188,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l58-034
-  type: sentence
-  tier: primary
-  front_en: He bought it.
-  back_es: Lo compró.
-  rule_ref: L58#3
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l58-035
-  type: sentence
-  tier: primary
-  front_en: He bought it for me.
-  back_es: Me lo compró.
-  hint: stack indirect (me) + direct (lo) + verb · no need for *para*
-  rule_ref: L58#3, L58#7
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l58-036
-  type: sentence
-  tier: primary
-  front_en: He bought it for me. (emphasized)
-  back_es: Lo compró para mí.
-  hint: '*para mí* tacked on for emphasis'
-  rule_ref: L58#3, L58#7
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l58-037
-  type: sentence
-  tier: primary
-  front_en: I sent it.
-  back_es: Lo envié.
-  rule_ref: L58#3, L58#8
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l58-038
-  type: sentence
-  tier: primary
-  front_en: I sent it to you.
-  back_es: Te lo envié.
-  hint: indirect (te) + direct (lo) + verb
-  rule_ref: L58#3, L58#9
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l58-039
+- id: L58-039
   type: sentence
   tier: primary
   front_en: I didn't send it to you.
@@ -269,30 +199,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l58-040
-  type: sentence
-  tier: primary
-  front_en: I didn't send it to you yet.
-  back_es: No te lo envié todavía.
-  hint: '*todavía* at end = "yet"'
-  rule_ref: L58#3, L58#9, L58#10
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l58-041
-  type: sentence
-  tier: primary
-  front_en: He sent it yesterday.
-  back_es: Lo envió ayer.
-  rule_ref: L58#3, L58#13
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l58-042
+- id: L58-042
   type: sentence
   tier: primary
   front_en: It was sent.
@@ -304,7 +211,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l58-043
+- id: L58-043
   type: sentence
   tier: primary
   front_en: It was sent yesterday.
@@ -316,63 +223,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l58-044
-  type: sentence
-  tier: primary
-  front_en: He spoke with me.
-  back_es: Habló conmigo.
-  rule_ref: L58#3
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l58-045
-  type: sentence
-  tier: primary
-  front_en: I don't know why he didn't speak with me.
-  back_es: No sé por qué no habló conmigo.
-  hint: 11 words — within cap
-  rule_ref: L58#3
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l58-046
-  type: sentence
-  tier: primary
-  front_en: I forgot.
-  back_es: Olvidé.
-  rule_ref: L58#3, L58#14
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l58-047
-  type: sentence
-  tier: primary
-  front_en: He forgot.
-  back_es: Olvidó.
-  rule_ref: L58#3, L58#14
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l58-048
-  type: sentence
-  tier: primary
-  front_en: I forgot it.
-  back_es: Lo olvidé.
-  rule_ref: L58#3, L58#14
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l58-049
+- id: L58-049
   type: sentence
   tier: primary
   front_en: I was going to do it but I forgot.
@@ -384,106 +235,198 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l59-001
+- id: L58-050
+  type: transformation
+  tier: extended
+  front_en: I prepared
+  back_es: preparé
+  hint: -ar I-past → -é
+  rule_ref: L58#3
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-051
+  type: transformation
+  tier: extended
+  front_en: he prepared
+  back_es: preparó
+  hint: -ar he-past → -ó
+  rule_ref: L58#3
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-054
+  type: sentence
+  tier: extended
+  front_en: He sent it to me yesterday.
+  back_es: Me lo envió ayer.
+  hint: indirect + direct + verb
+  rule_ref: L58#9, L58#13
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-055
+  type: sentence
+  tier: extended
+  front_en: I didn't forget.
+  back_es: No olvidé.
+  rule_ref: L58#14
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-056
+  type: sentence
+  tier: extended
+  front_en: I didn't forget it.
+  back_es: No lo olvidé.
+  rule_ref: L58#14
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-058
+  type: sentence
+  tier: extended
+  front_en: It was sent to you.
+  back_es: Se te envió.
+  hint: passive *se* + indirect *te*
+  rule_ref: L58#11
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-060
+  type: sentence
+  tier: extended
+  front_en: He didn't buy it for me.
+  back_es: No me lo compró.
+  rule_ref: L58#3, L58#7
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L58-063
+  type: sentence
+  tier: extended
+  front_en: She forgot it yesterday.
+  back_es: Lo olvidó ayer.
+  rule_ref: L58#14, L58#13
+  lessons:
+  - 58
+  directions:
+  - en_es
+  - es_en
+- id: L59-001
   type: conjugation
   tier: primary
   front_en: point-past I form of comer
   back_es: comí
-  hint: -er/-ir → -í (accent on i)
+  hint: eat (past) · -er/-ir → -í (accent on i)
   rule_ref: L59#2
   lessons:
   - 59
   directions:
   - en_es
-- id: l59-002
+- id: L59-002
   type: conjugation
   tier: primary
   front_en: point-past I form of vivir
   back_es: viví
-  hint: -er/-ir → -í
+  hint: live (past) · -er/-ir → -í
   rule_ref: L59#2
   lessons:
   - 59
   directions:
   - en_es
-- id: l59-003
+- id: L59-003
   type: conjugation
   tier: primary
   front_en: point-past I form of ver
   back_es: vi
-  hint: short — only one syllable, no accent needed
+  hint: see (past) · short — only one syllable, no accent needed
   rule_ref: L59#8
   lessons:
   - 59
   directions:
   - en_es
-- id: l59-004
+- id: L59-004
   type: conjugation
   tier: primary
   front_en: point-past I form of salir
   back_es: salí
-  hint: -ir → -í · regular here
+  hint: leave (past) · -ir → -í · regular here
   rule_ref: L59#2, L59#4
   lessons:
   - 59
   directions:
   - en_es
-- id: l59-007
+- id: L59-007
   type: conjugation
   tier: primary
   front_en: point-past he form of comer
   back_es: comió
-  hint: -er/-ir → -ió
+  hint: eat (past) · -er/-ir → -ió
   rule_ref: L59#2
   lessons:
   - 59
   directions:
   - en_es
-- id: l59-009
+- id: L59-009
   type: conjugation
   tier: primary
   front_en: point-past he form of vivir
   back_es: vivió
-  hint: -er/-ir → -ió
+  hint: live (past) · -er/-ir → -ió
   rule_ref: L59#2
   lessons:
   - 59
   directions:
   - en_es
-- id: l59-010
+- id: L59-010
   type: conjugation
   tier: primary
   front_en: point-past he form of ver
   back_es: vio
-  hint: short irregular · no accent
+  hint: see (past) · short irregular · no accent
   rule_ref: L59#8
   lessons:
   - 59
   directions:
   - en_es
-- id: l59-011
+- id: L59-011
   type: conjugation
   tier: primary
   front_en: point-past he form of salir
   back_es: salió
-  hint: -ir → -ió
+  hint: leave (past) · -ir → -ió
   rule_ref: L59#2, L59#4
   lessons:
   - 59
   directions:
   - en_es
-- id: l59-012
+- id: L59-012
   type: conjugation
   tier: primary
   front_en: point-past he form of durar
   back_es: duró
-  hint: -ar → -ó
+  hint: last (past) · -ar → -ó
   rule_ref: L58#3, L59#12
   lessons:
   - 59
   directions:
   - en_es
-- id: l59-021
+- id: L59-021
   type: transformation
   tier: primary
   front_en: nothing
@@ -495,7 +438,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l59-022
+- id: L59-022
   type: transformation
   tier: primary
   front_en: nobody
@@ -507,7 +450,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l59-023
+- id: L59-023
   type: transformation
   tier: primary
   front_en: to last
@@ -519,7 +462,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l59-024
+- id: L59-024
   type: transformation
   tier: primary
   front_en: during / for (with time)
@@ -531,7 +474,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l59-025
+- id: L59-025
   type: transformation
   tier: primary
   front_en: without
@@ -543,7 +486,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l59-026
+- id: L59-026
   type: transformation
   tier: primary
   front_en: to stop
@@ -555,7 +498,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l59-028
+- id: L59-028
   type: transformation
   tier: primary
   front_en: shoes
@@ -567,7 +510,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l59-030
+- id: L59-030
   type: transformation
   tier: primary
   front_en: half an hour
@@ -579,7 +522,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l59-031
+- id: L59-031
   type: transformation
   tier: primary
   front_en: than (in comparisons)
@@ -590,7 +533,7 @@ cards:
   - 59
   directions:
   - en_es
-- id: l59-033
+- id: L59-033
   type: sentence
   tier: primary
   front_en: I ate.
@@ -601,7 +544,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l59-034
+- id: L59-034
   type: sentence
   tier: primary
   front_en: He ate.
@@ -612,7 +555,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l59-035
+- id: L59-035
   type: sentence
   tier: primary
   front_en: I left.
@@ -623,44 +566,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l59-036
-  type: sentence
-  tier: primary
-  front_en: He left.
-  back_es: Salió.
-  rule_ref: L59#2, L59#4
-  lessons:
-  - 59
-  directions:
-  - en_es
-  - es_en
-- id: l59-037
-  type: sentence
-  tier: primary
-  front_en: She didn't leave yet.
-  back_es: No salió todavía.
-  hint: '*todavía* at end'
-  rule_ref: L59#2, L58#10
-  lessons:
-  - 58
-  - 59
-  directions:
-  - en_es
-  - es_en
-- id: l59-038
-  type: sentence
-  tier: primary
-  front_en: I don't know why she didn't leave yet.
-  back_es: No sé por qué no salió todavía.
-  hint: 11 words — within cap
-  rule_ref: L59#2, L58#10
-  lessons:
-  - 58
-  - 59
-  directions:
-  - en_es
-  - es_en
-- id: l59-039
+- id: L59-039
   type: sentence
   tier: primary
   front_en: I ate more than he (did).
@@ -672,7 +578,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l59-040
+- id: L59-040
   type: sentence
   tier: primary
   front_en: He ate more than I (did).
@@ -684,7 +590,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l59-041
+- id: L59-041
   type: sentence
   tier: primary
   front_en: I saw it.
@@ -695,7 +601,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l59-042
+- id: L59-042
   type: sentence
   tier: primary
   front_en: I didn't see it.
@@ -706,7 +612,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l59-043
+- id: L59-043
   type: sentence
   tier: primary
   front_en: He saw me.
@@ -717,7 +623,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l59-044
+- id: L59-044
   type: sentence
   tier: primary
   front_en: He didn't see me.
@@ -728,7 +634,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l59-045
+- id: L59-045
   type: sentence
   tier: primary
   front_en: I saw him, but he didn't see me.
@@ -740,7 +646,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l59-046
+- id: L59-046
   type: sentence
   tier: primary
   front_en: I didn't see anything.
@@ -752,7 +658,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l59-047
+- id: L59-047
   type: sentence
   tier: primary
   front_en: I didn't eat anything.
@@ -764,7 +670,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l59-048
+- id: L59-048
   type: sentence
   tier: primary
   front_en: Didn't you (formal) eat anything?
@@ -776,19 +682,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l59-049
-  type: sentence
-  tier: primary
-  front_en: Why didn't you eat anything?
-  back_es: ¿Por qué no comió nada?
-  hint: '*por qué* + double negative'
-  rule_ref: L59#10
-  lessons:
-  - 59
-  directions:
-  - en_es
-  - es_en
-- id: l59-050
+- id: L59-050
   type: sentence
   tier: primary
   front_en: Nobody saw anything.
@@ -800,7 +694,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l59-051
+- id: L59-051
   type: sentence
   tier: primary
   front_en: It lasted two minutes.
@@ -811,7 +705,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l59-052
+- id: L59-052
   type: sentence
   tier: primary
   front_en: I lasted two minutes.
@@ -823,7 +717,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l59-053
+- id: L59-053
   type: sentence
   tier: primary
   front_en: For two minutes.
@@ -835,43 +729,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l59-054
-  type: sentence
-  tier: primary
-  front_en: He ate for half an hour.
-  back_es: Comió durante media hora.
-  rule_ref: L59#2, L59#13
-  lessons:
-  - 59
-  directions:
-  - en_es
-  - es_en
-- id: l59-055
-  type: sentence
-  tier: primary
-  front_en: He spoke for half an hour.
-  back_es: Habló durante media hora.
-  rule_ref: L58#3, L59#13
-  lessons:
-  - 58
-  - 59
-  directions:
-  - en_es
-  - es_en
-- id: l59-056
-  type: sentence
-  tier: primary
-  front_en: He spoke for half an hour without stopping.
-  back_es: Habló durante media hora sin parar.
-  hint: '*sin* + unchanged form (parar)'
-  rule_ref: L58#3, L59#13, L59#15
-  lessons:
-  - 58
-  - 59
-  directions:
-  - en_es
-  - es_en
-- id: l59-057
+- id: L59-057
   type: sentence
   tier: primary
   front_en: A pair of shoes.
@@ -882,7 +740,90 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-001
+- id: L59-058
+  type: transformation
+  tier: extended
+  front_en: I lived
+  back_es: viví
+  hint: -ir I-past → -í
+  rule_ref: L59#2
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-059
+  type: transformation
+  tier: extended
+  front_en: he lived
+  back_es: vivió
+  hint: -ir he-past → -ió
+  rule_ref: L59#2
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-062
+  type: sentence
+  tier: extended
+  front_en: I didn't see anybody.
+  back_es: No vi a nadie.
+  hint: personal *a* before *nadie*
+  rule_ref: L59#11
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-064
+  type: sentence
+  tier: extended
+  front_en: Nobody ate.
+  back_es: Nadie comió.
+  hint: '*nadie* alone is enough negative'
+  rule_ref: L59#11
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-067
+  type: sentence
+  tier: extended
+  front_en: It lasted half an hour.
+  back_es: Duró media hora.
+  rule_ref: L59#12, L59#13
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-068
+  type: sentence
+  tier: extended
+  front_en: For half an hour without stopping.
+  back_es: Durante media hora sin parar.
+  hint: 5 words in Spanish
+  rule_ref: L59#13, L59#15
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L59-070
+  type: sentence
+  tier: extended
+  front_en: I hope that he ate.
+  back_es: Espero que comió.
+  hint: '*espero que* + past'
+  rule_ref: L59#5
+  lessons:
+  - 59
+  directions:
+  - en_es
+  - es_en
+- id: L60-001
   type: conjugation
   tier: primary
   front_en: point-past we form of hablar
@@ -893,29 +834,29 @@ cards:
   - 60
   directions:
   - en_es
-- id: l60-002
+- id: L60-002
   type: conjugation
   tier: primary
   front_en: point-past we form of comer
   back_es: comimos
-  hint: er DIFFERS from present (comemos → ...)
+  hint: eat (past) · -er differs from present (comemos → comimos)
   rule_ref: L60#5, L60#6
   lessons:
   - 60
   directions:
   - en_es
-- id: l60-003
+- id: L60-003
   type: conjugation
   tier: primary
   front_en: point-past we form of vivir
   back_es: vivimos
-  hint: same as present — -ir matches itself
+  hint: live (past) · same as present — -ir matches itself
   rule_ref: L60#4, L60#6
   lessons:
   - 60
   directions:
   - en_es
-- id: l60-009
+- id: L60-009
   type: transformation
   tier: primary
   front_en: we spoke
@@ -927,7 +868,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-010
+- id: L60-010
   type: transformation
   tier: primary
   front_en: we ate
@@ -939,7 +880,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-011
+- id: L60-011
   type: transformation
   tier: primary
   front_en: we lived
@@ -951,19 +892,19 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-012
+- id: L60-012
   type: transformation
   tier: primary
   front_en: we saw
   back_es: vimos
-  hint: present *vemos* → past *...*
+  hint: present *vemos* → past *vimos*
   rule_ref: L60#7
   lessons:
   - 60
   directions:
   - en_es
   - es_en
-- id: l60-013
+- id: L60-013
   type: transformation
   tier: primary
   front_en: we left
@@ -975,7 +916,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-014
+- id: L60-014
   type: transformation
   tier: primary
   front_en: we lost
@@ -987,7 +928,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-015
+- id: L60-015
   type: transformation
   tier: primary
   front_en: we understood
@@ -999,7 +940,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-017
+- id: L60-017
   type: transformation
   tier: primary
   front_en: everything
@@ -1011,7 +952,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-019
+- id: L60-019
   type: transformation
   tier: primary
   front_en: often
@@ -1023,7 +964,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-021
+- id: L60-021
   type: transformation
   tier: primary
   front_en: to despair
@@ -1035,7 +976,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-022
+- id: L60-022
   type: transformation
   tier: primary
   front_en: no problem
@@ -1047,7 +988,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-023
+- id: L60-023
   type: transformation
   tier: primary
   front_en: to get lost
@@ -1059,7 +1000,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-024
+- id: L60-024
   type: sentence
   tier: primary
   front_en: When we speak, I understand everything.
@@ -1071,7 +1012,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-025
+- id: L60-025
   type: sentence
   tier: primary
   front_en: When we spoke, I understood everything.
@@ -1083,7 +1024,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-026
+- id: L60-026
   type: sentence
   tier: primary
   front_en: We spoke yesterday.
@@ -1096,7 +1037,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-027
+- id: L60-027
   type: sentence
   tier: primary
   front_en: We'll speak tomorrow.
@@ -1108,32 +1049,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-028
-  type: sentence
-  tier: primary
-  front_en: We waited a lot.
-  back_es: Esperamos mucho.
-  hint: ambiguous tense · context implies past
-  rule_ref: L60#3
-  lessons:
-  - 60
-  directions:
-  - en_es
-  - es_en
-- id: l60-029
-  type: sentence
-  tier: primary
-  front_en: We waited a lot yesterday.
-  back_es: Esperamos mucho ayer.
-  hint: '*ayer* anchors past'
-  rule_ref: L60#3, L58#13
-  lessons:
-  - 58
-  - 60
-  directions:
-  - en_es
-  - es_en
-- id: l60-030
+- id: L60-030
   type: sentence
   tier: primary
   front_en: We didn't eat.
@@ -1145,7 +1061,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-031
+- id: L60-031
   type: sentence
   tier: primary
   front_en: We got lost.
@@ -1157,7 +1073,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-032
+- id: L60-032
   type: sentence
   tier: primary
   front_en: We always get lost.
@@ -1169,7 +1085,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-033
+- id: L60-033
   type: sentence
   tier: primary
   front_en: We didn't get lost yesterday.
@@ -1181,7 +1097,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-034
+- id: L60-034
   type: sentence
   tier: primary
   front_en: We don't go out often, but we went out yesterday.
@@ -1194,334 +1110,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l58-050
-  type: transformation
-  tier: extended
-  front_en: I prepared
-  back_es: preparé
-  hint: -ar I-past → -é
-  rule_ref: L58#3
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l58-051
-  type: transformation
-  tier: extended
-  front_en: he prepared
-  back_es: preparó
-  hint: -ar he-past → -ó
-  rule_ref: L58#3
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l58-052
-  type: transformation
-  tier: extended
-  front_en: I separated
-  back_es: separé
-  hint: -ar I-past → -é
-  rule_ref: L58#3
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l58-053
-  type: transformation
-  tier: extended
-  front_en: she separated
-  back_es: separó
-  hint: -ar he/she-past → -ó
-  rule_ref: L58#3
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l58-054
-  type: sentence
-  tier: extended
-  front_en: He sent it to me yesterday.
-  back_es: Me lo envió ayer.
-  hint: indirect + direct + verb
-  rule_ref: L58#9, L58#13
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l58-055
-  type: sentence
-  tier: extended
-  front_en: I didn't forget.
-  back_es: No olvidé.
-  rule_ref: L58#14
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l58-056
-  type: sentence
-  tier: extended
-  front_en: I didn't forget it.
-  back_es: No lo olvidé.
-  rule_ref: L58#14
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l58-057
-  type: sentence
-  tier: extended
-  front_en: He bought it yesterday.
-  back_es: Lo compró ayer.
-  rule_ref: L58#3, L58#13
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l58-058
-  type: sentence
-  tier: extended
-  front_en: It was sent to you.
-  back_es: Se te envió.
-  hint: passive *se* + indirect *te*
-  rule_ref: L58#11
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l58-059
-  type: sentence
-  tier: extended
-  front_en: I didn't speak with him.
-  back_es: No hablé con él.
-  rule_ref: L58#3
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l58-060
-  type: sentence
-  tier: extended
-  front_en: He didn't buy it for me.
-  back_es: No me lo compró.
-  rule_ref: L58#3, L58#7
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l58-061
-  type: sentence
-  tier: extended
-  front_en: I bought it for you. (Te…)
-  back_es: Te lo compré.
-  rule_ref: L58#3, L58#7
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l59-058
-  type: transformation
-  tier: extended
-  front_en: I lived
-  back_es: viví
-  hint: -ir I-past → -í
-  rule_ref: L59#2
-  lessons:
-  - 59
-  directions:
-  - en_es
-  - es_en
-- id: l59-059
-  type: transformation
-  tier: extended
-  front_en: he lived
-  back_es: vivió
-  hint: -ir he-past → -ió
-  rule_ref: L59#2
-  lessons:
-  - 59
-  directions:
-  - en_es
-  - es_en
-- id: l59-060
-  type: transformation
-  tier: extended
-  front_en: I stopped
-  back_es: paré
-  hint: -ar I-past → -é
-  rule_ref: L58#3, L59#16
-  lessons:
-  - 59
-  directions:
-  - en_es
-  - es_en
-- id: l59-061
-  type: transformation
-  tier: extended
-  front_en: he stopped
-  back_es: paró
-  hint: -ar he-past → -ó
-  rule_ref: L58#3, L59#16
-  lessons:
-  - 59
-  directions:
-  - en_es
-  - es_en
-- id: l59-062
-  type: sentence
-  tier: extended
-  front_en: I didn't see anybody.
-  back_es: No vi a nadie.
-  hint: personal *a* before *nadie*
-  rule_ref: L59#11
-  lessons:
-  - 59
-  directions:
-  - en_es
-  - es_en
-- id: l59-063
-  type: sentence
-  tier: extended
-  front_en: He didn't say anything.
-  back_es: No dijo nada.
-  hint: '*dijo* irregular · double negative'
-  rule_ref: L59#10
-  lessons:
-  - 59
-  directions:
-  - en_es
-  - es_en
-  notes: dijo introduced earlier (n bundle / decir)
-- id: l59-064
-  type: sentence
-  tier: extended
-  front_en: Nobody ate.
-  back_es: Nadie comió.
-  hint: '*nadie* alone is enough negative'
-  rule_ref: L59#11
-  lessons:
-  - 59
-  directions:
-  - en_es
-  - es_en
-- id: l59-065
-  type: sentence
-  tier: extended
-  front_en: I didn't see him yesterday.
-  back_es: No lo vi ayer.
-  rule_ref: L59#8, L58#13
-  lessons:
-  - 58
-  - 59
-  directions:
-  - en_es
-  - es_en
-- id: l59-066
-  type: sentence
-  tier: extended
-  front_en: He saw me yesterday.
-  back_es: Me vio ayer.
-  rule_ref: L59#8, L58#13
-  lessons:
-  - 58
-  - 59
-  directions:
-  - en_es
-  - es_en
-- id: l59-067
-  type: sentence
-  tier: extended
-  front_en: It lasted half an hour.
-  back_es: Duró media hora.
-  rule_ref: L59#12, L59#13
-  lessons:
-  - 59
-  directions:
-  - en_es
-  - es_en
-- id: l59-068
-  type: sentence
-  tier: extended
-  front_en: For half an hour without stopping.
-  back_es: Durante media hora sin parar.
-  hint: 5 words in Spanish
-  rule_ref: L59#13, L59#15
-  lessons:
-  - 59
-  directions:
-  - en_es
-  - es_en
-- id: l59-069
-  type: sentence
-  tier: extended
-  front_en: I left without speaking.
-  back_es: Salí sin hablar.
-  hint: '*sin* + unchanged form'
-  rule_ref: L59#2, L59#15
-  lessons:
-  - 59
-  directions:
-  - en_es
-  - es_en
-- id: l59-070
-  type: sentence
-  tier: extended
-  front_en: I hope that he ate.
-  back_es: Espero que comió.
-  hint: '*espero que* + past'
-  rule_ref: L59#5
-  lessons:
-  - 59
-  directions:
-  - en_es
-  - es_en
-- id: l59-071
-  type: sentence
-  tier: extended
-  front_en: Nobody saw me.
-  back_es: Nadie me vio.
-  rule_ref: L59#11
-  lessons:
-  - 59
-  directions:
-  - en_es
-  - es_en
-- id: l59-072
-  type: sentence
-  tier: extended
-  front_en: I don't know why he left.
-  back_es: No sé por qué salió.
-  rule_ref: L59#2
-  lessons:
-  - 59
-  directions:
-  - en_es
-  - es_en
-- id: l59-073
-  type: sentence
-  tier: extended
-  front_en: It didn't last.
-  back_es: No duró.
-  rule_ref: L59#12
-  lessons:
-  - 59
-  directions:
-  - en_es
-  - es_en
-- id: l60-035
+- id: L60-035
   type: transformation
   tier: extended
   front_en: we waited
@@ -1533,7 +1122,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-036
+- id: L60-036
   type: transformation
   tier: extended
   front_en: we bought
@@ -1545,7 +1134,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-037
+- id: L60-037
   type: transformation
   tier: extended
   front_en: we sent
@@ -1557,19 +1146,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-038
-  type: transformation
-  tier: extended
-  front_en: we forgot
-  back_es: olvidamos
-  hint: -ar we-past = same as present
-  rule_ref: L60#3
-  lessons:
-  - 60
-  directions:
-  - en_es
-  - es_en
-- id: l60-039
+- id: L60-039
   type: sentence
   tier: extended
   front_en: We ate yesterday.
@@ -1582,7 +1159,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-040
+- id: L60-040
   type: sentence
   tier: extended
   front_en: We saw him yesterday.
@@ -1594,7 +1171,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-041
+- id: L60-041
   type: sentence
   tier: extended
   front_en: We didn't lose anything.
@@ -1607,20 +1184,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-042
-  type: sentence
-  tier: extended
-  front_en: We left without eating.
-  back_es: Salimos sin comer.
-  hint: '*sin* + unchanged form · ambiguous tense'
-  rule_ref: L60#7, L59#15
-  lessons:
-  - 59
-  - 60
-  directions:
-  - en_es
-  - es_en
-- id: l60-043
+- id: L60-043
   type: sentence
   tier: extended
   front_en: We often get lost.
@@ -1631,7 +1195,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-044
+- id: L60-044
   type: sentence
   tier: extended
   front_en: I am desperate.
@@ -1643,7 +1207,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l60-045
+- id: L60-045
   type: sentence
   tier: extended
   front_en: It's no problem.
@@ -1655,109 +1219,13 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l58-062
-  type: sentence
-  tier: primary
-  front_en: He didn't send it.
-  back_es: No lo envió.
-  rule_ref: L58#3, L58#8
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l59-074
-  type: sentence
-  tier: primary
-  front_en: I didn't see anything yesterday.
-  back_es: No vi nada ayer.
-  hint: double negative + time anchor
-  rule_ref: L59#10, L58#13
-  lessons:
-  - 58
-  - 59
-  directions:
-  - en_es
-  - es_en
-- id: l60-046
+- id: L60-046
   type: sentence
   tier: primary
   front_en: We understood everything.
   back_es: Comprendimos todo.
   hint: -er we-past → -imos
   rule_ref: L60#5, L60#10
-  lessons:
-  - 60
-  directions:
-  - en_es
-  - es_en
-- id: l58-063
-  type: sentence
-  tier: extended
-  front_en: She forgot it yesterday.
-  back_es: Lo olvidó ayer.
-  rule_ref: L58#14, L58#13
-  lessons:
-  - 58
-  directions:
-  - en_es
-  - es_en
-- id: l59-075
-  type: sentence
-  tier: extended
-  front_en: Nobody waited.
-  back_es: Nadie esperó.
-  hint: -ar he-past + *nadie*
-  rule_ref: L58#3, L59#11
-  lessons:
-  - 59
-  directions:
-  - en_es
-  - es_en
-- id: l59-076
-  type: sentence
-  tier: extended
-  front_en: He spoke without thinking.
-  back_es: Habló sin pensar.
-  hint: '*sin* + unchanged form (pensar)'
-  rule_ref: L58#3, L59#15
-  lessons:
-  - 59
-  directions:
-  - en_es
-  - es_en
-- id: l60-047
-  type: sentence
-  tier: extended
-  front_en: We always speak Spanish.
-  back_es: Siempre hablamos español.
-  notes: leverages flexible *siempre* position
-  rule_ref: L60#3, L60#15
-  lessons:
-  - 60
-  directions:
-  - en_es
-  - es_en
-- id: l60-048
-  type: sentence
-  tier: extended
-  front_en: We didn't see anything.
-  back_es: No vimos nada.
-  hint: -er we-past + double negative
-  rule_ref: L60#7, L59#10
-  lessons:
-  - 59
-  - 60
-  directions:
-  - en_es
-  - es_en
-- id: l60-049
-  type: sentence
-  tier: extended
-  front_en: We hope so.
-  back_es: Esperamos que sí.
-  hint: idiomatic *que sí* tail
-  rule_ref: L60#3
   lessons:
   - 60
   directions:

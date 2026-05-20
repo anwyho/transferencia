@@ -1,12 +1,12 @@
 bundle: P
-title: 'Irregular participles + relatives + -emos/-imos: roto, dicho, hecho, que/cual/quien'
+title: 'Bundle P Irregular Participles + Relatives (L54-57)'
 lessons:
 - 54
 - 55
 - 56
 - 57
 cards:
-- id: l54-001
+- id: L54-001
   type: transformation
   tier: primary
   front_en: closed (m sg, adjective)
@@ -18,7 +18,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-002
+- id: L54-002
   type: transformation
   tier: primary
   front_en: closed (f sg)
@@ -30,7 +30,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-003
+- id: L54-003
   type: transformation
   tier: primary
   front_en: closed (m pl)
@@ -42,7 +42,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-004
+- id: L54-004
   type: transformation
   tier: primary
   front_en: closed (f pl)
@@ -54,7 +54,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-005
+- id: L54-005
   type: transformation
   tier: primary
   front_en: wet (m sg)
@@ -66,19 +66,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-006
-  type: transformation
-  tier: primary
-  front_en: wet (f sg)
-  back_es: mojada
-  hint: agrees with fem noun
-  rule_ref: L54#3
-  lessons:
-  - 54
-  directions:
-  - en_es
-  - es_en
-- id: l54-007
+- id: L54-007
   type: transformation
   tier: primary
   front_en: the door
@@ -90,7 +78,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-008
+- id: L54-008
   type: transformation
   tier: primary
   front_en: the chair
@@ -102,7 +90,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-009
+- id: L54-009
   type: transformation
   tier: primary
   front_en: the movie
@@ -114,7 +102,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-010
+- id: L54-010
   type: transformation
   tier: primary
   front_en: the idea
@@ -126,7 +114,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-011
+- id: L54-011
   type: transformation
   tier: primary
   front_en: a person (always fem)
@@ -138,7 +126,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-012
+- id: L54-012
   type: sentence
   tier: primary
   front_en: It is closed. (the door)
@@ -150,7 +138,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-013
+- id: L54-013
   type: sentence
   tier: primary
   front_en: It is closed. (m)
@@ -162,7 +150,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-014
+- id: L54-014
   type: sentence
   tier: primary
   front_en: The door is closed.
@@ -174,19 +162,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-015
-  type: sentence
-  tier: primary
-  front_en: I am lost. (m)
-  back_es: Estoy perdido.
-  hint: estar + state
-  rule_ref: L54#4
-  lessons:
-  - 54
-  directions:
-  - en_es
-  - es_en
-- id: l54-016
+- id: L54-016
   type: sentence
   tier: primary
   front_en: I am lost. (f)
@@ -198,19 +174,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-017
-  type: sentence
-  tier: primary
-  front_en: She is lost.
-  back_es: Está perdida.
-  hint: state → estar · fem
-  rule_ref: L54#4, L54#3
-  lessons:
-  - 54
-  directions:
-  - en_es
-  - es_en
-- id: l54-018
+- id: L54-018
   type: sentence
   tier: primary
   front_en: They are sold. (houses)
@@ -222,7 +186,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-019
+- id: L54-019
   type: sentence
   tier: primary
   front_en: They are sold. (m)
@@ -234,43 +198,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-020
-  type: sentence
-  tier: primary
-  front_en: It is finished. (m)
-  back_es: Está terminado.
-  hint: estar + state
-  rule_ref: L54#4
-  lessons:
-  - 54
-  directions:
-  - en_es
-  - es_en
-- id: l54-021
-  type: sentence
-  tier: primary
-  front_en: The movie is finished.
-  back_es: La película está terminada.
-  hint: fem agreement
-  rule_ref: L54#4, L54#18
-  lessons:
-  - 54
-  directions:
-  - en_es
-  - es_en
-- id: l54-022
-  type: sentence
-  tier: primary
-  front_en: I am tired. (f)
-  back_es: Estoy cansada.
-  hint: estar + state · fem speaker
-  rule_ref: L54#4, L54#13
-  lessons:
-  - 54
-  directions:
-  - en_es
-  - es_en
-- id: l54-023
+- id: L54-023
   type: sentence
   tier: primary
   front_en: She is a closed person.
@@ -282,7 +210,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-024
+- id: L54-024
   type: sentence
   tier: primary
   front_en: He is a lost person.
@@ -294,7 +222,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-025
+- id: L54-025
   type: sentence
   tier: primary
   front_en: It is a wet chair.
@@ -306,7 +234,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-026
+- id: L54-026
   type: sentence
   tier: primary
   front_en: The chair is wet.
@@ -318,7 +246,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-027
+- id: L54-027
   type: transformation
   tier: extended
   front_en: lost (m sg)
@@ -330,7 +258,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-028
+- id: L54-028
   type: transformation
   tier: extended
   front_en: sold (f sg)
@@ -342,19 +270,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-029
-  type: transformation
-  tier: extended
-  front_en: finished (f pl)
-  back_es: terminadas
-  hint: -ar → -ada → -adas
-  rule_ref: L54#3
-  lessons:
-  - 54
-  directions:
-  - en_es
-  - es_en
-- id: l54-030
+- id: L54-030
   type: sentence
   tier: extended
   front_en: He is closed to the idea.
@@ -366,7 +282,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-031
+- id: L54-031
   type: sentence
   tier: extended
   front_en: The doors are closed.
@@ -378,7 +294,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-032
+- id: L54-032
   type: sentence
   tier: extended
   front_en: The chairs are wet.
@@ -390,7 +306,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-033
+- id: L54-033
   type: sentence
   tier: extended
   front_en: I have gotten tired.
@@ -402,7 +318,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-034
+- id: L54-034
   type: sentence
   tier: extended
   front_en: I would like to have gone.
@@ -414,19 +330,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l54-035
-  type: sentence
-  tier: extended
-  front_en: The idea is lost.
-  back_es: La idea está perdida.
-  hint: state → estar · fem
-  rule_ref: L54#4, L54#17
-  lessons:
-  - 54
-  directions:
-  - en_es
-  - es_en
-- id: l54-036
+- id: L54-036
   type: sentence
   tier: extended
   front_en: It's a wet door.
@@ -438,7 +342,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-001
+- id: L55-001
   type: transformation
   tier: primary
   front_en: broken (irregular participle of romper)
@@ -450,7 +354,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-002
+- id: L55-002
   type: transformation
   tier: primary
   front_en: said / told (irregular participle of decir)
@@ -462,7 +366,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-003
+- id: L55-003
   type: transformation
   tier: primary
   front_en: done / made (irregular participle of hacer)
@@ -474,55 +378,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-004
-  type: transformation
-  tier: primary
-  front_en: opened / open (irregular participle of abrir)
-  back_es: abierto
-  hint: irregular -to · /ie/ break
-  rule_ref: L55#10
-  lessons:
-  - 55
-  directions:
-  - en_es
-  - es_en
-- id: l55-005
-  type: transformation
-  tier: primary
-  front_en: dead (irregular participle of morir)
-  back_es: muerto
-  hint: irregular -to · /ue/ break
-  rule_ref: L55#10
-  lessons:
-  - 55
-  directions:
-  - en_es
-  - es_en
-- id: l55-006
-  type: transformation
-  tier: primary
-  front_en: to open
-  back_es: abrir
-  hint: -ir verb
-  rule_ref: L55#10
-  lessons:
-  - 55
-  directions:
-  - en_es
-  - es_en
-- id: l55-007
-  type: transformation
-  tier: primary
-  front_en: to die
-  back_es: morir
-  hint: -ir verb
-  rule_ref: L55#10
-  lessons:
-  - 55
-  directions:
-  - en_es
-  - es_en
-- id: l55-008
+- id: L55-008
   type: transformation
   tier: primary
   front_en: to cancel
@@ -534,7 +390,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-009
+- id: L55-009
   type: transformation
   tier: primary
   front_en: cancelled (m)
@@ -546,7 +402,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-010
+- id: L55-010
   type: transformation
   tier: primary
   front_en: complicated (m)
@@ -558,7 +414,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-011
+- id: L55-011
   type: transformation
   tier: primary
   front_en: I should (would-form of deber)
@@ -569,7 +425,7 @@ cards:
   - 55
   directions:
   - en_es
-- id: l55-012
+- id: L55-012
   type: transformation
   tier: primary
   front_en: you should (informal, would-form of deber)
@@ -580,7 +436,7 @@ cards:
   - 55
   directions:
   - en_es
-- id: l55-013
+- id: L55-013
   type: sentence
   tier: primary
   front_en: I have broken them.
@@ -593,7 +449,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-014
+- id: L55-014
   type: sentence
   tier: primary
   front_en: It has broken.
@@ -605,7 +461,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-015
+- id: L55-015
   type: sentence
   tier: primary
   front_en: It is broken. (m)
@@ -617,7 +473,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-016
+- id: L55-016
   type: sentence
   tier: primary
   front_en: It is broken. (f)
@@ -629,7 +485,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-017
+- id: L55-017
   type: sentence
   tier: primary
   front_en: They are open.
@@ -641,7 +497,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-018
+- id: L55-018
   type: sentence
   tier: primary
   front_en: I have opened it.
@@ -653,7 +509,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-019
+- id: L55-019
   type: sentence
   tier: primary
   front_en: I have said it.
@@ -665,7 +521,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-020
+- id: L55-020
   type: sentence
   tier: primary
   front_en: I have told him.
@@ -677,55 +533,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-021
-  type: sentence
-  tier: primary
-  front_en: I have done it.
-  back_es: Lo he hecho.
-  hint: lo + haber + irreg part
-  rule_ref: L55#10
-  lessons:
-  - 55
-  directions:
-  - en_es
-  - es_en
-- id: l55-022
-  type: sentence
-  tier: primary
-  front_en: It is done.
-  back_es: Está hecho.
-  hint: estar + irreg part as adj
-  rule_ref: L55#11
-  lessons:
-  - 55
-  directions:
-  - en_es
-  - es_en
-- id: l55-023
-  type: sentence
-  tier: primary
-  front_en: Made in Spain.
-  back_es: Hecho en España.
-  hint: idiom · part as adj
-  rule_ref: L55#11
-  lessons:
-  - 55
-  directions:
-  - en_es
-  - es_en
-- id: l55-024
-  type: sentence
-  tier: primary
-  front_en: He has died.
-  back_es: Ha muerto.
-  hint: haber + irreg part
-  rule_ref: L55#10, L55#15
-  lessons:
-  - 55
-  directions:
-  - en_es
-  - es_en
-- id: l55-025
+- id: L55-025
   type: sentence
   tier: primary
   front_en: He is dead.
@@ -737,7 +545,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-026
+- id: L55-026
   type: sentence
   tier: primary
   front_en: I have cancelled.
@@ -749,7 +557,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-027
+- id: L55-027
   type: transformation
   tier: extended
   front_en: she/he could (would-form of poder)
@@ -760,7 +568,7 @@ cards:
   - 55
   directions:
   - en_es
-- id: l55-028
+- id: L55-028
   type: transformation
   tier: extended
   front_en: we could (would-form of poder)
@@ -771,7 +579,7 @@ cards:
   - 55
   directions:
   - en_es
-- id: l55-029
+- id: L55-029
   type: transformation
   tier: extended
   front_en: a saying
@@ -783,7 +591,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-030
+- id: L55-030
   type: transformation
   tier: extended
   front_en: a fact
@@ -795,19 +603,19 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-031
+- id: L55-031
   type: transformation
   tier: extended
   front_en: war
   back_es: guerra
-  hint: W↔G pair (war/...)
+  hint: W↔G pair (war → guerra)
   rule_ref: L55#19
   lessons:
   - 55
   directions:
   - en_es
   - es_en
-- id: l55-032
+- id: L55-032
   type: transformation
   tier: extended
   front_en: smoke (noun)
@@ -819,7 +627,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-033
+- id: L55-033
   type: transformation
   tier: extended
   front_en: deep
@@ -831,7 +639,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-034
+- id: L55-034
   type: sentence
   tier: extended
   front_en: I'm dead. (f, exhausted)
@@ -843,7 +651,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-035
+- id: L55-035
   type: sentence
   tier: extended
   front_en: I'm dying. (laughing)
@@ -855,7 +663,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-036
+- id: L55-036
   type: sentence
   tier: extended
   front_en: It has got complicated.
@@ -867,7 +675,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-037
+- id: L55-037
   type: sentence
   tier: extended
   front_en: I should have cancelled.
@@ -879,7 +687,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-038
+- id: L55-038
   type: sentence
   tier: extended
   front_en: I could have gone.
@@ -891,7 +699,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-039
+- id: L55-039
   type: sentence
   tier: extended
   front_en: I should have done it.
@@ -903,7 +711,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l55-040
+- id: L55-040
   type: sentence
   tier: extended
   front_en: You should have done it.
@@ -915,7 +723,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-001
+- id: L56-001
   type: transformation
   tier: primary
   front_en: that / which / who (relative)
@@ -927,7 +735,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-002
+- id: L56-002
   type: transformation
   tier: primary
   front_en: which? (question word)
@@ -939,7 +747,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-003
+- id: L56-003
   type: transformation
   tier: primary
   front_en: who? (question, sg)
@@ -951,7 +759,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-004
+- id: L56-004
   type: transformation
   tier: primary
   front_en: who? (question, pl)
@@ -963,7 +771,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-005
+- id: L56-005
   type: transformation
   tier: primary
   front_en: who / whom (relative, sg)
@@ -975,7 +783,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-006
+- id: L56-006
   type: transformation
   tier: primary
   front_en: which (relative, fem sg)
@@ -987,7 +795,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-007
+- id: L56-007
   type: transformation
   tier: primary
   front_en: the girl
@@ -999,7 +807,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-008
+- id: L56-008
   type: transformation
   tier: primary
   front_en: I was working / used to work
@@ -1010,7 +818,7 @@ cards:
   - 56
   directions:
   - en_es
-- id: l56-009
+- id: L56-009
   type: transformation
   tier: primary
   front_en: I/he/she was going (line-past of ir)
@@ -1021,7 +829,7 @@ cards:
   - 56
   directions:
   - en_es
-- id: l56-010
+- id: L56-010
   type: sentence
   tier: primary
   front_en: Where are you from?
@@ -1033,7 +841,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-011
+- id: L56-011
   type: sentence
   tier: primary
   front_en: We're going to the United States.
@@ -1045,7 +853,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-012
+- id: L56-012
   type: sentence
   tier: primary
   front_en: The girl I work with.
@@ -1057,7 +865,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-013
+- id: L56-013
   type: sentence
   tier: primary
   front_en: The girl I work with. (with quien)
@@ -1069,7 +877,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-014
+- id: L56-014
   type: sentence
   tier: primary
   front_en: It's the girl I was working with.
@@ -1081,7 +889,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-015
+- id: L56-015
   type: sentence
   tier: primary
   front_en: The girl I was going to the party with.
@@ -1093,7 +901,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-016
+- id: L56-016
   type: sentence
   tier: primary
   front_en: Which one do you want?
@@ -1105,7 +913,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-017
+- id: L56-017
   type: sentence
   tier: primary
   front_en: I don't know which one he wants.
@@ -1117,7 +925,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-018
+- id: L56-018
   type: sentence
   tier: primary
   front_en: I don't know which he wants to see.
@@ -1129,7 +937,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-019
+- id: L56-019
   type: sentence
   tier: primary
   front_en: I don't know which he wants to do it with.
@@ -1141,7 +949,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-020
+- id: L56-020
   type: sentence
   tier: primary
   front_en: Who is going?
@@ -1153,7 +961,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-021
+- id: L56-021
   type: sentence
   tier: primary
   front_en: Who (plural) is going?
@@ -1165,7 +973,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-022
+- id: L56-022
   type: sentence
   tier: primary
   front_en: Who is here?
@@ -1177,7 +985,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-023
+- id: L56-023
   type: sentence
   tier: primary
   front_en: Who is (there)?
@@ -1189,7 +997,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-024
+- id: L56-024
   type: sentence
   tier: primary
   front_en: I don't know who I have to do it with.
@@ -1201,7 +1009,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-025
+- id: L56-025
   type: sentence
   tier: primary
   front_en: I don't know who I have to do it for.
@@ -1213,7 +1021,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-026
+- id: L56-026
   type: sentence
   tier: primary
   front_en: I don't know who I have to do it because of.
@@ -1225,7 +1033,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-027
+- id: L56-027
   type: transformation
   tier: extended
   front_en: which (relative, fem sg, alt)
@@ -1237,19 +1045,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-028
-  type: transformation
-  tier: extended
-  front_en: which (relative, pl)
-  back_es: cuales
-  hint: matches plural
-  rule_ref: L56#7
-  lessons:
-  - 56
-  directions:
-  - en_es
-  - es_en
-- id: l56-029
+- id: L56-029
   type: transformation
   tier: extended
   front_en: to unite
@@ -1261,7 +1057,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-030
+- id: L56-030
   type: sentence
   tier: extended
   front_en: The girl I work with. (with la cual)
@@ -1273,7 +1069,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-031
+- id: L56-031
   type: sentence
   tier: extended
   front_en: The girl I work with. (with la que)
@@ -1285,7 +1081,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-032
+- id: L56-032
   type: sentence
   tier: extended
   front_en: Where is the party?
@@ -1297,7 +1093,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-033
+- id: L56-033
   type: sentence
   tier: extended
   front_en: I don't know who is here.
@@ -1309,19 +1105,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-034
-  type: sentence
-  tier: extended
-  front_en: The girl I was going with.
-  back_es: La chica con que iba.
-  hint: line-past iba
-  rule_ref: L56#5, L56#10
-  lessons:
-  - 56
-  directions:
-  - en_es
-  - es_en
-- id: l56-035
+- id: L56-035
   type: sentence
   tier: extended
   front_en: I don't know who (pl) I have to do it with.
@@ -1333,64 +1117,40 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l56-036
-  type: sentence
-  tier: extended
-  front_en: It's the girl I work with.
-  back_es: Es la chica con quien trabajo.
-  hint: ser + relative clause
-  rule_ref: L56#7
-  lessons:
-  - 56
-  directions:
-  - en_es
-  - es_en
-- id: l56-037
-  type: sentence
-  tier: extended
-  front_en: Who is coming to the party?
-  back_es: ¿Quién viene a la fiesta?
-  hint: quién + viene
-  rule_ref: L56#13
-  lessons:
-  - 56
-  directions:
-  - en_es
-  - es_en
-- id: l57-001
+- id: L57-001
   type: conjugation
   tier: primary
   front_en: we form of comer
   back_es: comemos
-  hint: -er → -emos
+  hint: to eat · -er → -emos
   rule_ref: L57#1
   lessons:
   - 57
   directions:
   - en_es
-- id: l57-002
+- id: L57-002
   type: conjugation
   tier: primary
   front_en: he form of comer
   back_es: come
-  hint: -e ending shared by -er/-ir
+  hint: to eat · -e ending shared by -er/-ir
   rule_ref: L57#2
   lessons:
   - 57
   directions:
   - en_es
-- id: l57-003
+- id: L57-003
   type: conjugation
   tier: primary
   front_en: they form of comer
   back_es: comen
-  hint: -en shared by -er/-ir
+  hint: to eat · -en shared by -er/-ir
   rule_ref: L57#2
   lessons:
   - 57
   directions:
   - en_es
-- id: l57-004
+- id: L57-004
   type: transformation
   tier: primary
   front_en: easy
@@ -1402,7 +1162,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l57-005
+- id: L57-005
   type: transformation
   tier: primary
   front_en: together (m sg)
@@ -1414,7 +1174,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l57-006
+- id: L57-006
   type: transformation
   tier: primary
   front_en: together (mixed/m pl)
@@ -1426,7 +1186,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l57-007
+- id: L57-007
   type: transformation
   tier: primary
   front_en: together (f pl)
@@ -1438,7 +1198,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l57-008
+- id: L57-008
   type: transformation
   tier: primary
   front_en: like this / like that
@@ -1450,7 +1210,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l57-009
+- id: L57-009
   type: transformation
   tier: primary
   front_en: bad
@@ -1462,7 +1222,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l57-010
+- id: L57-010
   type: transformation
   tier: primary
   front_en: the thing about (unit)
@@ -1474,7 +1234,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l57-011
+- id: L57-011
   type: sentence
   tier: primary
   front_en: We don't speak like that.
@@ -1486,7 +1246,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l57-012
+- id: L57-012
   type: sentence
   tier: primary
   front_en: We don't eat like that.
@@ -1498,7 +1258,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l57-013
+- id: L57-013
   type: sentence
   tier: primary
   front_en: We don't live like that.
@@ -1510,7 +1270,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l57-014
+- id: L57-014
   type: sentence
   tier: primary
   front_en: Where do you guys live?
@@ -1522,7 +1282,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l57-015
+- id: L57-015
   type: sentence
   tier: primary
   front_en: The interesting thing
@@ -1534,7 +1294,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l57-016
+- id: L57-016
   type: sentence
   tier: primary
   front_en: The complicated thing
@@ -1546,7 +1306,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l57-017
+- id: L57-017
   type: sentence
   tier: primary
   front_en: The good thing / the bad thing
@@ -1558,55 +1318,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l57-018
-  type: sentence
-  tier: primary
-  front_en: The easy thing
-  back_es: lo fácil
-  hint: lo + adj
-  rule_ref: L57#3, L57#6
-  lessons:
-  - 57
-  directions:
-  - en_es
-  - es_en
-- id: l57-019
-  type: sentence
-  tier: primary
-  front_en: The interesting thing is they live here.
-  back_es: Lo interesante es que viven aquí.
-  hint: lo + adj + es que + clause
-  rule_ref: L57#3, L57#2
-  lessons:
-  - 57
-  directions:
-  - en_es
-  - es_en
-- id: l57-020
-  type: sentence
-  tier: primary
-  front_en: The interesting thing is they live together.
-  back_es: Lo interesante es que viven juntos.
-  hint: juntos agrees with subject
-  rule_ref: L57#3, L57#5
-  lessons:
-  - 57
-  directions:
-  - en_es
-  - es_en
-- id: l57-021
-  type: sentence
-  tier: primary
-  front_en: The easy thing is they come together.
-  back_es: Lo fácil es que vienen juntos.
-  hint: lo fácil + vienen
-  rule_ref: L57#3, L57#7
-  lessons:
-  - 57
-  directions:
-  - en_es
-  - es_en
-- id: l57-022
+- id: L57-022
   type: sentence
   tier: primary
   front_en: The thing about Juan
@@ -1618,7 +1330,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l57-023
+- id: L57-023
   type: sentence
   tier: primary
   front_en: The thing about the party
@@ -1630,7 +1342,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l57-024
+- id: L57-024
   type: sentence
   tier: primary
   front_en: We talk about the party thing.
@@ -1642,31 +1354,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l57-025
-  type: sentence
-  tier: primary
-  front_en: I don't want to talk about Juan's business like this.
-  back_es: No quiero hablar de lo de Juan así.
-  hint: lo de + así
-  rule_ref: L57#9, L57#13
-  lessons:
-  - 57
-  directions:
-  - en_es
-  - es_en
-- id: l57-026
-  type: sentence
-  tier: primary
-  front_en: I want to organize tomorrow's thing.
-  back_es: Quiero organizar lo de mañana.
-  hint: lo de mañana = tomorrow's business
-  rule_ref: L57#9, L57#11
-  lessons:
-  - 57
-  directions:
-  - en_es
-  - es_en
-- id: l57-027
+- id: L57-027
   type: sentence
   tier: primary
   front_en: But I don't want to organize it like this.
@@ -1678,40 +1366,40 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l57-028
+- id: L57-028
   type: conjugation
   tier: extended
   front_en: we form of vender
   back_es: vendemos
-  hint: -er → -emos
+  hint: to sell · -er → -emos
   rule_ref: L57#1
   lessons:
   - 57
   directions:
   - en_es
-- id: l57-029
+- id: L57-029
   type: conjugation
   tier: extended
   front_en: we form of abrir
   back_es: abrimos
-  hint: -ir → -imos
+  hint: to open · -ir → -imos
   rule_ref: L57#1
   lessons:
   - 57
   directions:
   - en_es
-- id: l57-030
+- id: L57-030
   type: conjugation
   tier: extended
   front_en: we form of romper
   back_es: rompemos
-  hint: -er → -emos
+  hint: to break · -er → -emos
   rule_ref: L57#1
   lessons:
   - 57
   directions:
   - en_es
-- id: l57-031
+- id: L57-031
   type: transformation
   tier: extended
   front_en: in this way
@@ -1723,7 +1411,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l57-032
+- id: L57-032
   type: transformation
   tier: extended
   front_en: in this manner
@@ -1735,7 +1423,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l57-033
+- id: L57-033
   type: transformation
   tier: extended
   front_en: about / on (preposition)
@@ -1747,7 +1435,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l57-034
+- id: L57-034
   type: sentence
   tier: extended
   front_en: We talk about the party. (with sobre)
@@ -1759,19 +1447,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l57-035
-  type: sentence
-  tier: extended
-  front_en: We don't live together.
-  back_es: No vivimos juntos.
-  hint: -ir we + juntos agrees
-  rule_ref: L57#1, L57#5
-  lessons:
-  - 57
-  directions:
-  - en_es
-  - es_en
-- id: l57-036
+- id: L57-036
   type: sentence
   tier: extended
   front_en: They come together. (f)
@@ -1783,31 +1459,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l57-037
-  type: sentence
-  tier: extended
-  front_en: The bad thing is that he comes tomorrow.
-  back_es: Lo malo es que viene mañana.
-  hint: lo + adj + clause
-  rule_ref: L57#3
-  lessons:
-  - 57
-  directions:
-  - en_es
-  - es_en
-- id: l57-038
-  type: sentence
-  tier: extended
-  front_en: The good thing is that we eat together.
-  back_es: Lo bueno es que comemos juntos.
-  hint: lo + adj + we + juntos
-  rule_ref: L57#3, L57#1
-  lessons:
-  - 57
-  directions:
-  - en_es
-  - es_en
-- id: l57-039
+- id: L57-039
   type: sentence
   tier: extended
   front_en: It's easy.

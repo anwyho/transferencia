@@ -1,11 +1,11 @@
 bundle: C
-title: 'Helpers + saber + first I-form: quiere, debo, sí/si, sentence stitching'
+title: 'Bundle C Helpers + Saber (L8-10)'
 lessons:
 - 8
 - 9
 - 10
 cards:
-- id: l8-001
+- id: L8-001
   type: transformation
   tier: primary
   front_en: the (feminine)
@@ -17,7 +17,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-002
+- id: L8-002
   type: transformation
   tier: primary
   front_en: them (masculine)
@@ -29,7 +29,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-003
+- id: L8-003
   type: transformation
   tier: primary
   front_en: them (feminine)
@@ -41,7 +41,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-004
+- id: L8-004
   type: transformation
   tier: primary
   front_en: you (formal, feminine)
@@ -53,7 +53,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-005
+- id: L8-005
   type: transformation
   tier: primary
   front_en: you (formal, masculine)
@@ -65,31 +65,31 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-006
+- id: L8-006
   type: transformation
   tier: primary
   front_en: house
   back_es: casa
-  hint: fem -a · *la ...*
+  hint: fem -a · *la casa*
   rule_ref: L8#3, L8#12
   lessons:
   - 8
   directions:
   - en_es
   - es_en
-- id: l8-007
+- id: L8-007
   type: transformation
   tier: primary
   front_en: he/she wants · you (formal) want
   back_es: quiere
-  hint: quiero → ... · four meanings band together
+  hint: swap -o → -e · four meanings band together
   rule_ref: L8#4, L8#5
   lessons:
   - 8
   directions:
   - en_es
   - es_en
-- id: l8-008
+- id: L8-008
   type: transformation
   tier: primary
   front_en: to come
@@ -101,7 +101,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-009
+- id: L8-009
   type: transformation
   tier: primary
   front_en: I owe / I must
@@ -113,7 +113,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-010
+- id: L8-010
   type: transformation
   tier: primary
   front_en: why (por…)
@@ -125,7 +125,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-011
+- id: L8-011
   type: transformation
   tier: primary
   front_en: because
@@ -137,7 +137,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-013
+- id: L8-013
   type: transformation
   tier: primary
   front_en: welcome (to a man)
@@ -149,7 +149,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-014
+- id: L8-014
   type: transformation
   tier: primary
   front_en: welcome (to a woman)
@@ -161,7 +161,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-015
+- id: L8-015
   type: transformation
   tier: primary
   front_en: to
@@ -173,7 +173,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-016
+- id: L8-016
   type: transformation
   tier: primary
   front_en: to the house
@@ -185,33 +185,33 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-017
+- id: L8-017
   type: transformation
   tier: primary
   front_en: identification
   back_es: identificación
   hint: -tion → -ción
-  rule_ref: L4#1
+  rule_ref: L4#5
   lessons:
   - 4
   - 8
   directions:
   - en_es
   - es_en
-- id: l8-018
+- id: L8-018
   type: transformation
   tier: primary
   front_en: to identify
   back_es: identificar
   hint: chop -ción, add -r
-  rule_ref: L4#2
+  rule_ref: L4#9
   lessons:
   - 4
   - 8
   directions:
   - en_es
   - es_en
-- id: l8-019
+- id: L8-019
   type: transformation
   tier: primary
   front_en: to identify him / it
@@ -223,7 +223,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-020
+- id: L8-020
   type: transformation
   tier: primary
   front_en: to identify them (masculine)
@@ -235,19 +235,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-021
-  type: transformation
-  tier: primary
-  front_en: to identify them (feminine)
-  back_es: identificarlas
-  hint: stick *las* on the end
-  rule_ref: L8#16
-  lessons:
-  - 8
-  directions:
-  - en_es
-  - es_en
-- id: l8-022
+- id: L8-022
   type: sentence
   tier: primary
   front_en: I want to see her.
@@ -259,7 +247,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-023
+- id: L8-023
   type: sentence
   tier: primary
   front_en: He wants to visit me.
@@ -271,7 +259,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-024
+- id: L8-024
   type: sentence
   tier: primary
   front_en: Do you want to visit me?
@@ -283,7 +271,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-025
+- id: L8-025
   type: sentence
   tier: primary
   front_en: She doesn't want to visit me.
@@ -296,7 +284,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-026
+- id: L8-026
   type: sentence
   tier: primary
   front_en: Don't you want to visit me?
@@ -308,7 +296,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-027
+- id: L8-027
   type: sentence
   tier: primary
   front_en: Why don't you want to visit me?
@@ -320,7 +308,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-028
+- id: L8-028
   type: sentence
   tier: primary
   front_en: Do you want to come?
@@ -332,7 +320,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-029
+- id: L8-029
   type: sentence
   tier: primary
   front_en: Do you want to come home?
@@ -344,7 +332,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-030
+- id: L8-030
   type: sentence
   tier: primary
   front_en: Do you want to come visit me?
@@ -356,7 +344,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-031
+- id: L8-031
   type: sentence
   tier: primary
   front_en: Don't you want to come visit me?
@@ -367,7 +355,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-032
+- id: L8-032
   type: sentence
   tier: primary
   front_en: Why don't you want to come? (formal)
@@ -378,7 +366,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-033
+- id: L8-033
   type: sentence
   tier: primary
   front_en: I must continue.
@@ -390,7 +378,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-034
+- id: L8-034
   type: sentence
   tier: primary
   front_en: I must identify him.
@@ -401,7 +389,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-035
+- id: L8-035
   type: sentence
   tier: primary
   front_en: I must identify them (masc).
@@ -412,18 +400,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-036
-  type: sentence
-  tier: primary
-  front_en: I must identify them (fem).
-  back_es: Debo identificarlas.
-  rule_ref: L8#15, L8#16
-  lessons:
-  - 8
-  directions:
-  - en_es
-  - es_en
-- id: l8-037
+- id: L8-037
   type: sentence
   tier: primary
   front_en: She wants to come.
@@ -434,7 +411,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-038
+- id: L8-038
   type: sentence
   tier: primary
   front_en: She doesn't want to come.
@@ -446,19 +423,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-039
-  type: sentence
-  tier: primary
-  front_en: I must visit her.
-  back_es: Debo visitarla.
-  hint: '*la* sticks on the -r'
-  rule_ref: L8#15, L8#6
-  lessons:
-  - 8
-  directions:
-  - en_es
-  - es_en
-- id: l8-040
+- id: L8-040
   type: sentence
   tier: primary
   front_en: I want to visit them (fem).
@@ -469,54 +434,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-041
-  type: transformation
-  tier: extended
-  front_en: to visit him
-  back_es: visitarlo
-  hint: stick *lo* on -r
-  rule_ref: L8#6
-  lessons:
-  - 8
-  directions:
-  - en_es
-  - es_en
-- id: l8-042
-  type: transformation
-  tier: extended
-  front_en: to visit them (feminine)
-  back_es: visitarlas
-  hint: stick *las* on -r
-  rule_ref: L8#16
-  lessons:
-  - 8
-  directions:
-  - en_es
-  - es_en
-- id: l8-043
-  type: transformation
-  tier: extended
-  front_en: to visit her
-  back_es: visitarla
-  hint: stick *la* on -r
-  rule_ref: L8#6
-  lessons:
-  - 8
-  directions:
-  - en_es
-  - es_en
-- id: l8-044
-  type: sentence
-  tier: extended
-  front_en: Why don't you want to come home?
-  back_es: ¿Por qué no quiere venir a la casa?
-  rule_ref: L8#10, L8#14
-  lessons:
-  - 8
-  directions:
-  - en_es
-  - es_en
-- id: l8-045
+- id: L8-045
   type: sentence
   tier: extended
   front_en: He doesn't want to come visit me.
@@ -529,7 +447,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-046
+- id: L8-046
   type: sentence
   tier: extended
   front_en: I want to come home.
@@ -540,29 +458,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-047
-  type: sentence
-  tier: extended
-  front_en: She wants to visit them (fem).
-  back_es: Quiere visitarlas.
-  rule_ref: L8#4, L8#16
-  lessons:
-  - 8
-  directions:
-  - en_es
-  - es_en
-- id: l8-048
-  type: sentence
-  tier: extended
-  front_en: I must visit him.
-  back_es: Debo visitarlo.
-  rule_ref: L8#15, L8#6
-  lessons:
-  - 8
-  directions:
-  - en_es
-  - es_en
-- id: l8-049
+- id: L8-049
   type: sentence
   tier: extended
   front_en: Welcome!
@@ -574,7 +470,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-050
+- id: L8-050
   type: sentence
   tier: extended
   front_en: Welcome! (to a woman)
@@ -586,7 +482,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-051
+- id: L8-051
   type: sentence
   tier: extended
   front_en: It's convenient.
@@ -599,7 +495,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-052
+- id: L8-052
   type: sentence
   tier: extended
   front_en: It's not convenient.
@@ -612,34 +508,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l8-053
-  type: sentence
-  tier: extended
-  front_en: Because it's important.
-  back_es: Porque es importante.
-  hint: '*porque* (one word) = because'
-  rule_ref: L8#10, L2#7, L3#1
-  lessons:
-  - 2
-  - 3
-  - 8
-  directions:
-  - en_es
-  - es_en
-- id: l8-054
-  type: sentence
-  tier: extended
-  front_en: Why? Because it's legal.
-  back_es: ¿Por qué? Porque es legal.
-  hint: por qué vs porque contrast
-  rule_ref: L8#10, L2#7, L2#2
-  lessons:
-  - 2
-  - 8
-  directions:
-  - en_es
-  - es_en
-- id: l9-001
+- id: L9-001
   type: transformation
   tier: primary
   front_en: to know
@@ -651,7 +520,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-002
+- id: L9-002
   type: transformation
   tier: primary
   front_en: 'yes'
@@ -663,7 +532,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-003
+- id: L9-003
   type: transformation
   tier: primary
   front_en: if
@@ -675,13 +544,13 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-006
+- id: L9-006
   type: transformation
   tier: primary
   front_en: imagination
   back_es: imaginación
   hint: -tion → -ción · /j/→/kh/
-  rule_ref: L4#1, L3#7
+  rule_ref: L4#5, L3#7
   lessons:
   - 3
   - 4
@@ -689,33 +558,20 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-007
+- id: L9-007
   type: transformation
   tier: primary
   front_en: to imagine
   back_es: imaginar
   hint: chop -ción, add -r
-  rule_ref: L4#2
+  rule_ref: L4#9
   lessons:
   - 4
   - 9
   directions:
   - en_es
   - es_en
-- id: l9-008
-  type: transformation
-  tier: primary
-  front_en: to imagine it
-  back_es: imaginarlo
-  hint: stick *lo* on -r
-  rule_ref: L8#6
-  lessons:
-  - 8
-  - 9
-  directions:
-  - en_es
-  - es_en
-- id: l9-009
+- id: L9-009
   type: transformation
   tier: primary
   front_en: to start / initiate
@@ -727,7 +583,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-010
+- id: L9-010
   type: transformation
   tier: primary
   front_en: to start it
@@ -739,26 +595,26 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-011
+- id: L9-011
   type: transformation
   tier: primary
   front_en: to inform me / let me know
   back_es: informarme
   hint: stick *me* on -r
-  rule_ref: L4#2
+  rule_ref: L4#9, L5#4
   lessons:
   - 4
   - 9
   directions:
   - en_es
   - es_en
-- id: l9-012
+- id: L9-012
   type: transformation
   tier: primary
   front_en: justification
   back_es: justificación
   hint: /khus-ti-fi-ka-SION/ · /j/→/kh/
-  rule_ref: L4#1, L9#14
+  rule_ref: L4#5, L9#14
   lessons:
   - 3
   - 4
@@ -766,20 +622,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-013
-  type: transformation
-  tier: primary
-  front_en: to justify
-  back_es: justificar
-  hint: chop -ción, add -r
-  rule_ref: L4#2
-  lessons:
-  - 4
-  - 9
-  directions:
-  - en_es
-  - es_en
-- id: l9-014
+- id: L9-014
   type: transformation
   tier: primary
   front_en: to justify myself
@@ -791,7 +634,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-015
+- id: L9-015
   type: transformation
   tier: primary
   front_en: explanation
@@ -803,7 +646,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-016
+- id: L9-016
   type: transformation
   tier: primary
   front_en: to explain
@@ -815,7 +658,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-017
+- id: L9-017
   type: transformation
   tier: primary
   front_en: to explain to you
@@ -827,20 +670,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-018
-  type: transformation
-  tier: primary
-  front_en: inexplicable
-  back_es: inexplicable
-  hint: -able stays · same root as *explicar*
-  rule_ref: L3#8, L9#12
-  lessons:
-  - 3
-  - 9
-  directions:
-  - en_es
-  - es_en
-- id: l9-019
+- id: L9-019
   type: sentence
   tier: primary
   front_en: I want to know.
@@ -852,7 +682,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-020
+- id: L9-020
   type: sentence
   tier: primary
   front_en: I don't want to know.
@@ -864,7 +694,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-021
+- id: L9-021
   type: sentence
   tier: primary
   front_en: She wants to know.
@@ -876,7 +706,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-022
+- id: L9-022
   type: sentence
   tier: primary
   front_en: He doesn't want to know.
@@ -889,7 +719,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-023
+- id: L9-023
   type: sentence
   tier: primary
   front_en: Why doesn't she want to know?
@@ -901,7 +731,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-024
+- id: L9-024
   type: sentence
   tier: primary
   front_en: Yes, I want to know.
@@ -913,7 +743,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-025
+- id: L9-025
   type: sentence
   tier: primary
   front_en: I want to know if she wants.
@@ -925,7 +755,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-026
+- id: L9-026
   type: sentence
   tier: primary
   front_en: I want to know if she knows.
@@ -937,7 +767,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-027
+- id: L9-027
   type: sentence
   tier: primary
   front_en: Want to know if he wants to come?
@@ -950,7 +780,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-028
+- id: L9-028
   type: sentence
   tier: primary
   front_en: I don't want to imagine it.
@@ -963,31 +793,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-029
-  type: sentence
-  tier: primary
-  front_en: He wants to start it now.
-  back_es: Quiere iniciarlo ahora.
-  rule_ref: L8#4, L9#10
-  lessons:
-  - 8
-  - 9
-  directions:
-  - en_es
-  - es_en
-- id: l9-030
-  type: sentence
-  tier: primary
-  front_en: Why doesn't he want to inform me?
-  back_es: ¿Por qué no quiere informarme?
-  rule_ref: L8#10, L9#1
-  lessons:
-  - 8
-  - 9
-  directions:
-  - en_es
-  - es_en
-- id: l9-031
+- id: L9-031
   type: sentence
   tier: primary
   front_en: I'm not trying to justify myself.
@@ -1000,7 +806,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-032
+- id: L9-032
   type: sentence
   tier: primary
   front_en: But I want to explain.
@@ -1012,7 +818,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-033
+- id: L9-033
   type: sentence
   tier: primary
   front_en: But I want to explain you something.
@@ -1024,7 +830,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-034
+- id: L9-034
   type: sentence
   tier: primary
   front_en: Yes, but not now.
@@ -1035,7 +841,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-035
+- id: L9-035
   type: sentence
   tier: primary
   front_en: If she wants, yes.
@@ -1048,70 +854,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-036
-  type: transformation
-  tier: extended
-  front_en: to imagine me
-  back_es: imaginarme
-  rule_ref: L4#2
-  lessons:
-  - 4
-  - 9
-  directions:
-  - en_es
-  - es_en
-- id: l9-037
-  type: transformation
-  tier: extended
-  front_en: to invite him
-  back_es: invitarlo
-  hint: stick *lo* on -r
-  rule_ref: L8#6
-  lessons:
-  - 8
-  - 9
-  directions:
-  - en_es
-  - es_en
-- id: l9-038
-  type: transformation
-  tier: extended
-  front_en: to invite me
-  back_es: invitarme
-  hint: stick *me* on -r
-  rule_ref: L4#2
-  lessons:
-  - 4
-  - 9
-  directions:
-  - en_es
-  - es_en
-- id: l9-039
-  type: sentence
-  tier: extended
-  front_en: If you want, I explain.
-  back_es: Si quiere, explico.
-  hint: '*explico* = I explain'
-  rule_ref: L9#3, L9#12, L10#3
-  lessons:
-  - 9
-  - 10
-  directions:
-  - en_es
-  - es_en
-- id: l9-040
-  type: sentence
-  tier: extended
-  front_en: Why doesn't he want to invite me?
-  back_es: ¿Por qué no quiere invitarme?
-  rule_ref: L8#10, L9#1
-  lessons:
-  - 8
-  - 9
-  directions:
-  - en_es
-  - es_en
-- id: l9-041
+- id: L9-041
   type: sentence
   tier: extended
   front_en: I want to invite him, but not now.
@@ -1122,7 +865,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-042
+- id: L9-042
   type: sentence
   tier: extended
   front_en: I want to explain something to you.
@@ -1133,20 +876,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-043
-  type: sentence
-  tier: extended
-  front_en: She doesn't want to imagine it.
-  back_es: No quiere imaginarlo.
-  rule_ref: L8#4, L9#1, L2#9
-  lessons:
-  - 2
-  - 8
-  - 9
-  directions:
-  - en_es
-  - es_en
-- id: l9-044
+- id: L9-044
   type: sentence
   tier: extended
   front_en: It's inexplicable.
@@ -1159,19 +889,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-045
-  type: sentence
-  tier: extended
-  front_en: I want to know if it's possible.
-  back_es: Quiero saber si es posible.
-  rule_ref: L9#4, L9#3, L3#8
-  lessons:
-  - 3
-  - 9
-  directions:
-  - en_es
-  - es_en
-- id: l9-046
+- id: L9-046
   type: sentence
   tier: extended
   front_en: I want to know why.
@@ -1183,7 +901,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-047
+- id: L9-047
   type: sentence
   tier: extended
   front_en: I don't want to justify myself.
@@ -1195,32 +913,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l9-048
-  type: sentence
-  tier: extended
-  front_en: She wants to know if it's legal.
-  back_es: Quiere saber si es legal.
-  rule_ref: L9#4, L9#3, L2#2
-  lessons:
-  - 2
-  - 9
-  directions:
-  - en_es
-  - es_en
-- id: l9-049
-  type: sentence
-  tier: extended
-  front_en: I want to invite her.
-  back_es: Quiero invitarla.
-  hint: stick *la* on -r
-  rule_ref: L9#2, L8#6
-  lessons:
-  - 8
-  - 9
-  directions:
-  - en_es
-  - es_en
-- id: l10-001
+- id: L10-001
   type: transformation
   tier: primary
   front_en: to separate
@@ -1232,7 +925,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l10-003
+- id: L10-003
   type: transformation
   tier: primary
   front_en: to donate
@@ -1244,7 +937,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l10-005
+- id: L10-005
   type: transformation
   tier: primary
   front_en: to eat
@@ -1256,19 +949,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l10-007
-  type: transformation
-  tier: primary
-  front_en: to breathe
-  back_es: respirar
-  hint: 'hook: *respiration*'
-  rule_ref: L10#1
-  lessons:
-  - 10
-  directions:
-  - en_es
-  - es_en
-- id: l10-008
+- id: L10-008
   type: transformation
   tier: primary
   front_en: to have
@@ -1280,7 +961,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l10-009
+- id: L10-009
   type: transformation
   tier: primary
   front_en: to contain
@@ -1292,7 +973,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l10-010
+- id: L10-010
   type: transformation
   tier: primary
   front_en: to obtain
@@ -1304,56 +985,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l10-011
-  type: transformation
-  tier: primary
-  front_en: to maintain
-  back_es: mantener
-  hint: -tain → -tener
-  rule_ref: L10#10
-  lessons:
-  - 10
-  directions:
-  - en_es
-  - es_en
-- id: l10-012
-  type: transformation
-  tier: primary
-  front_en: to sustain
-  back_es: sostener
-  hint: -tain → -tener · *sus-* → *sos-*
-  rule_ref: L10#10
-  lessons:
-  - 10
-  directions:
-  - en_es
-  - es_en
-- id: l10-013
-  type: transformation
-  tier: primary
-  front_en: to entertain
-  back_es: entretener
-  hint: -tain → -tener · *entre-*
-  rule_ref: L10#10
-  lessons:
-  - 10
-  directions:
-  - en_es
-  - es_en
-- id: l10-014
-  type: transformation
-  tier: primary
-  front_en: to have it
-  back_es: tenerlo
-  hint: stick *lo* on -r
-  rule_ref: L10#10, L8#6
-  lessons:
-  - 8
-  - 10
-  directions:
-  - en_es
-  - es_en
-- id: l10-015
+- id: L10-015
   type: transformation
   tier: primary
   front_en: tomorrow / morning
@@ -1365,7 +997,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l10-016
+- id: L10-016
   type: transformation
   tier: primary
   front_en: late
@@ -1377,7 +1009,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l10-017
+- id: L10-017
   type: transformation
   tier: primary
   front_en: more
@@ -1389,96 +1021,84 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l10-019
-  type: transformation
-  tier: primary
-  front_en: between
-  back_es: entre
-  hint: '*... tú y yo* = between you and I'
-  rule_ref: L10#10
-  lessons:
-  - 10
-  directions:
-  - en_es
-  - es_en
-- id: l10-020
+- id: L10-020
   type: conjugation
   tier: primary
   front_en: I form of intentar
   back_es: intento
-  hint: chop -ar, add -o · *...*
+  hint: to try · chop -ar, add -o · stress on -TEN-
   rule_ref: L10#3, L10#4
   lessons:
   - 10
   directions:
   - en_es
-- id: l10-021
+- id: L10-021
   type: conjugation
   tier: primary
   front_en: I form of donar
   back_es: dono
-  hint: chop -ar, add -o
+  hint: to donate · chop -ar, add -o
   rule_ref: L10#3
   lessons:
   - 10
   directions:
   - en_es
-- id: l10-022
+- id: L10-022
   type: conjugation
   tier: primary
   front_en: I form of crear
   back_es: creo
-  hint: also = I believe
+  hint: to create · also = I believe
   rule_ref: L10#3
   lessons:
   - 10
   directions:
   - en_es
-- id: l10-023
+- id: L10-023
   type: conjugation
   tier: primary
   front_en: I form of comer
   back_es: como
-  hint: also = how / like (homophone)
+  hint: to eat · also = how / like (homophone)
   rule_ref: L10#3
   lessons:
   - 10
   directions:
   - en_es
-- id: l10-024
+- id: L10-024
   type: conjugation
   tier: primary
   front_en: I form of organizar
   back_es: organizo
-  hint: 'Spain: /organitho/'
+  hint: 'to organize · Spain: /organitho/'
   rule_ref: L10#3, L10#14
   lessons:
   - 10
   directions:
   - en_es
-- id: l10-025
+- id: L10-025
   type: conjugation
   tier: primary
   front_en: I form of tener
   back_es: tengo
-  hint: irregular -go family · not *teno*
+  hint: to have · irregular -go family · not *teno*
   rule_ref: L10#11
   lessons:
   - 10
   directions:
   - en_es
-- id: l10-026
+- id: L10-026
   type: conjugation
   tier: primary
   front_en: I form of venir
   back_es: vengo
-  hint: irregular -go family
+  hint: to come · irregular -go family
   rule_ref: L10#12
   lessons:
   - 10
   directions:
   - en_es
-- id: l10-027
+- id: L10-027
   type: sentence
   tier: primary
   front_en: I'm going to eat.
@@ -1490,7 +1110,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l10-028
+- id: L10-028
   type: sentence
   tier: primary
   front_en: I'm going to eat late.
@@ -1501,7 +1121,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l10-029
+- id: L10-029
   type: sentence
   tier: primary
   front_en: I'm eating tomorrow.
@@ -1513,7 +1133,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l10-030
+- id: L10-030
   type: sentence
   tier: primary
   front_en: I'm eating with Pablo tomorrow.
@@ -1524,7 +1144,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l10-031
+- id: L10-031
   type: sentence
   tier: primary
   front_en: I'm going to eat with Pablo tomorrow.
@@ -1535,7 +1155,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l10-032
+- id: L10-032
   type: sentence
   tier: primary
   front_en: I don't donate.
@@ -1548,7 +1168,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l10-033
+- id: L10-033
   type: sentence
   tier: primary
   front_en: I want to have it.
@@ -1560,29 +1180,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l10-034
-  type: sentence
-  tier: primary
-  front_en: I'm going to have it.
-  back_es: Voy a tenerlo.
-  rule_ref: L10#8, L10#10
-  lessons:
-  - 10
-  directions:
-  - en_es
-  - es_en
-- id: l10-035
-  type: sentence
-  tier: primary
-  front_en: I'm going to have it later.
-  back_es: Voy a tenerlo más tarde.
-  rule_ref: L10#8, L10#9
-  lessons:
-  - 10
-  directions:
-  - en_es
-  - es_en
-- id: l10-036
+- id: L10-036
   type: sentence
   tier: primary
   front_en: I'm coming tomorrow.
@@ -1594,7 +1192,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l10-037
+- id: L10-037
   type: sentence
   tier: primary
   front_en: I have it.
@@ -1607,119 +1205,95 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l10-039
-  type: transformation
-  tier: extended
-  front_en: to retain
-  back_es: retener
-  hint: -tain → -tener
-  rule_ref: L10#10
-  lessons:
-  - 10
-  directions:
-  - en_es
-  - es_en
-- id: l10-040
-  type: transformation
-  tier: extended
-  front_en: to detain
-  back_es: detener
-  hint: -tain → -tener
-  rule_ref: L10#10
-  lessons:
-  - 10
-  directions:
-  - en_es
-  - es_en
-- id: l10-041
+- id: L10-041
   type: conjugation
   tier: extended
   front_en: I form of contener
   back_es: contengo
-  hint: follows tengo · -go family
+  hint: to contain · follows tengo · -go family
   rule_ref: L10#11, L10#10
   lessons:
   - 10
   directions:
   - en_es
-- id: l10-042
+- id: L10-042
   type: conjugation
   tier: extended
   front_en: I form of obtener
   back_es: obtengo
-  hint: follows tengo · -go family
+  hint: to obtain · follows tengo · -go family
   rule_ref: L10#11
   lessons:
   - 10
   directions:
   - en_es
-- id: l10-043
+- id: L10-043
   type: conjugation
   tier: extended
   front_en: I form of mantener
   back_es: mantengo
-  hint: follows tengo · -go family
+  hint: to maintain · follows tengo · -go family
   rule_ref: L10#11
   lessons:
   - 10
   directions:
   - en_es
-- id: l10-044
+- id: L10-044
   type: conjugation
   tier: extended
   front_en: I form of imaginar
   back_es: imagino
-  hint: chop -ar, add -o
+  hint: to imagine · chop -ar, add -o
   rule_ref: L10#3
   lessons:
   - 10
   directions:
   - en_es
-- id: l10-045
+- id: L10-045
   type: conjugation
   tier: extended
   front_en: I form of justificar
   back_es: justifico
-  hint: chop -ar, add -o · /j/→/kh/
+  hint: to justify · chop -ar, add -o · /j/→/kh/
   rule_ref: L10#3, L3#7
   lessons:
   - 10
   directions:
   - en_es
-- id: l10-046
+- id: L10-046
   type: conjugation
   tier: extended
   front_en: I form of explicar
   back_es: explico
-  hint: chop -ar, add -o
+  hint: to explain · chop -ar, add -o
   rule_ref: L10#3
   lessons:
   - 10
   directions:
   - en_es
-- id: l10-047
+- id: L10-047
   type: conjugation
   tier: extended
   front_en: I form of informar
   back_es: informo
-  hint: chop -ar, add -o
+  hint: to inform · chop -ar, add -o
   rule_ref: L10#3
   lessons:
   - 10
   directions:
   - en_es
-- id: l10-048
+- id: L10-048
   type: conjugation
   tier: extended
   front_en: I form of iniciar
   back_es: inicio
-  hint: chop -ar, add -o
+  hint: to start · chop -ar, add -o
   rule_ref: L10#3
   lessons:
   - 10
   directions:
   - en_es
-- id: l10-049
+- id: L10-049
   type: sentence
   tier: extended
   front_en: I don't have it.
@@ -1732,19 +1306,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l10-050
-  type: sentence
-  tier: extended
-  front_en: I'm going to organize it.
-  back_es: Voy a organizarlo.
-  rule_ref: L10#8, L8#6
-  lessons:
-  - 8
-  - 10
-  directions:
-  - en_es
-  - es_en
-- id: l10-051
+- id: L10-051
   type: sentence
   tier: extended
   front_en: I want to have it later.
@@ -1755,18 +1317,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l10-052
-  type: sentence
-  tier: extended
-  front_en: I'm going to organize tomorrow.
-  back_es: Voy a organizar mañana.
-  rule_ref: L10#8, L10#7
-  lessons:
-  - 10
-  directions:
-  - en_es
-  - es_en
-- id: l10-053
+- id: L10-053
   type: sentence
   tier: extended
   front_en: I create with Pablo.
@@ -1777,7 +1328,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l10-054
+- id: L10-054
   type: sentence
   tier: extended
   front_en: I'm not coming tomorrow.
@@ -1789,7 +1340,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l10-055
+- id: L10-055
   type: sentence
   tier: extended
   front_en: Between you and me.
@@ -1797,31 +1348,6 @@ cards:
   hint: Spanish keeps subject pronouns here
   rule_ref: L10#10
   lessons:
-  - 10
-  directions:
-  - en_es
-  - es_en
-- id: l10-056
-  type: sentence
-  tier: extended
-  front_en: I want to know if I have it.
-  back_es: Quiero saber si lo tengo.
-  rule_ref: L9#4, L10#11, L8#6
-  lessons:
-  - 8
-  - 9
-  - 10
-  directions:
-  - en_es
-  - es_en
-- id: l10-057
-  type: sentence
-  tier: extended
-  front_en: I'm going to maintain it.
-  back_es: Voy a mantenerlo.
-  rule_ref: L10#8, L10#10, L8#6
-  lessons:
-  - 8
   - 10
   directions:
   - en_es

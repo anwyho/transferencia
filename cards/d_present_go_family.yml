@@ -1,179 +1,95 @@
 bundle: D
-title: 'Regular present + -go family start: two verb groups, -ción, -idad, pronoun stacking'
+title: 'Bundle D Present + -Go Family (L11-13)'
 lessons:
 - 11
 - 12
 - 13
 cards:
-- id: l11-001
+- id: L11-001
   type: transformation
   tier: primary
   front_en: I speak
   back_es: hablo
-  hint: hablar → ... · silent h · /AB-lo/
+  hint: hablar → hablo · silent h · /AB-lo/
   rule_ref: L11#2, L11#7
   lessons:
   - 11
   directions:
   - en_es
   - es_en
-- id: l11-002
+- id: L11-002
   type: transformation
   tier: primary
   front_en: I tolerate
   back_es: tolero
-  hint: tolerar → ... · stress to-LE-ro
+  hint: tolerar → tolero · stress to-LE-ro
   rule_ref: L11#2, L11#3
   lessons:
   - 11
   directions:
   - en_es
   - es_en
-- id: l11-003
+- id: L11-003
   type: transformation
   tier: primary
   front_en: I eliminate
   back_es: elimino
-  hint: eliminar → ... · /e-li-MI-no/
+  hint: eliminar → elimino · /e-li-MI-no/
   rule_ref: L11#2, L11#6
   lessons:
   - 11
   directions:
   - en_es
   - es_en
-- id: l11-004
-  type: transformation
-  tier: primary
-  front_en: I chew
-  back_es: mastico
-  hint: masticar → ... · cf. mastication
-  rule_ref: L11#2, L11#13
-  lessons:
-  - 11
-  directions:
-  - en_es
-  - es_en
-- id: l11-005
-  type: transformation
-  tier: primary
-  front_en: I exaggerate
-  back_es: exagero
-  hint: exagerar → ... · /j/→/kh/
-  rule_ref: L11#2
-  lessons:
-  - 11
-  directions:
-  - en_es
-  - es_en
-- id: l11-006
-  type: transformation
-  tier: primary
-  front_en: I collaborate
-  back_es: colaboro
-  hint: colaborar → ... · single l
-  rule_ref: L11#2
-  lessons:
-  - 11
-  directions:
-  - en_es
-  - es_en
-- id: l11-007
-  type: transformation
-  tier: primary
-  front_en: I invite
-  back_es: invito
-  hint: invitar → ...
-  rule_ref: L11#2
-  lessons:
-  - 11
-  directions:
-  - en_es
-  - es_en
-- id: l11-008
+- id: L11-008
   type: transformation
   tier: primary
   front_en: I tweet
   back_es: tuiteo
-  hint: tuitear → ... · new verbs all -ar
+  hint: tuitear → tuiteo · new verbs all -ar
   rule_ref: L11#1, L11#2
   lessons:
   - 11
   directions:
   - en_es
   - es_en
-- id: l11-009
+- id: L11-009
   type: transformation
   tier: primary
   front_en: it lasts
   back_es: dura
-  hint: durar → ... · -ar key vowel /a/
+  hint: durar → dura · -ar key vowel /a/
   rule_ref: L11#4
   lessons:
   - 11
   directions:
   - en_es
   - es_en
-- id: l11-010
+- id: L11-010
   type: transformation
   tier: primary
   front_en: he speaks
   back_es: habla
-  hint: hablar → ... · silent h
+  hint: hablar → habla · silent h
   rule_ref: L11#4, L11#7
   lessons:
   - 11
   directions:
   - en_es
   - es_en
-- id: l11-011
+- id: L11-011
   type: transformation
   tier: primary
   front_en: she eliminates
   back_es: elimina
-  hint: eliminar → ...
+  hint: eliminar → elimina
   rule_ref: L11#4
   lessons:
   - 11
   directions:
   - en_es
   - es_en
-- id: l11-012
-  type: transformation
-  tier: primary
-  front_en: he exaggerates
-  back_es: exagera
-  hint: exagerar → ...
-  rule_ref: L11#4
-  lessons:
-  - 11
-  directions:
-  - en_es
-  - es_en
-- id: l11-013
-  type: transformation
-  tier: primary
-  front_en: he collaborates
-  back_es: colabora
-  hint: colaborar → ...
-  rule_ref: L11#4
-  lessons:
-  - 11
-  directions:
-  - en_es
-  - es_en
-- id: l11-014
-  type: transformation
-  tier: primary
-  front_en: she invites
-  back_es: invita
-  hint: invitar → ...
-  rule_ref: L11#4
-  lessons:
-  - 11
-  directions:
-  - en_es
-  - es_en
-- id: l11-015
+- id: L11-015
   type: transformation
   tier: primary
   front_en: they speak
@@ -185,7 +101,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l11-016
+- id: L11-016
   type: transformation
   tier: primary
   front_en: you speak
@@ -197,7 +113,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l11-017
+- id: L11-017
   type: transformation
   tier: primary
   front_en: they collaborate
@@ -209,7 +125,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l11-018
+- id: L11-018
   type: transformation
   tier: primary
   front_en: duration
@@ -221,7 +137,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l11-019
+- id: L11-019
   type: transformation
   tier: primary
   front_en: to bite
@@ -233,7 +149,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l11-021
+- id: L11-021
   type: sentence
   tier: primary
   front_en: It lasts a lot.
@@ -245,7 +161,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l11-022
+- id: L11-022
   type: sentence
   tier: primary
   front_en: It doesn't last long.
@@ -258,7 +174,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l11-023
+- id: L11-023
   type: sentence
   tier: primary
   front_en: He isn't exaggerating.
@@ -271,7 +187,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l11-024
+- id: L11-024
   type: sentence
   tier: primary
   front_en: They don't speak with Pablo.
@@ -284,7 +200,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l11-025
+- id: L11-025
   type: sentence
   tier: primary
   front_en: I want to speak.
@@ -296,7 +212,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l11-026
+- id: L11-026
   type: sentence
   tier: primary
   front_en: I'm going to speak.
@@ -308,7 +224,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l11-027
+- id: L11-027
   type: sentence
   tier: primary
   front_en: I want it.
@@ -320,7 +236,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l11-028
+- id: L11-028
   type: sentence
   tier: primary
   front_en: I want to see it. (Quiero…)
@@ -332,7 +248,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l11-029
+- id: L11-029
   type: sentence
   tier: primary
   front_en: I want to see it. (Lo…)
@@ -344,7 +260,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l11-030
+- id: L11-030
   type: sentence
   tier: primary
   front_en: It's important to speak about it.
@@ -357,31 +273,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l11-031
-  type: sentence
-  tier: primary
-  front_en: I must invite him. (Debo…)
-  back_es: Debo invitarlo.
-  hint: '*debo* = I must · attach to to-form'
-  rule_ref: L11#10
-  lessons:
-  - 11
-  directions:
-  - en_es
-  - es_en
-- id: l11-032
-  type: sentence
-  tier: primary
-  front_en: I must invite him. (Lo…)
-  back_es: Lo debo invitar.
-  hint: same meaning · *lo* up front
-  rule_ref: L11#10
-  lessons:
-  - 11
-  directions:
-  - en_es
-  - es_en
-- id: l11-033
+- id: L11-033
   type: sentence
   tier: primary
   front_en: How are you?
@@ -393,43 +285,19 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l11-034
+- id: L11-034
   type: transformation
   tier: extended
   front_en: I google
   back_es: googleo
-  hint: googlear → ... · new verbs all -ar
+  hint: googlear → googleo · new verbs all -ar
   rule_ref: L11#1, L11#2
   lessons:
   - 11
   directions:
   - en_es
   - es_en
-- id: l11-035
-  type: transformation
-  tier: extended
-  front_en: they tolerate
-  back_es: toleran
-  hint: tolera + n
-  rule_ref: L11#5
-  lessons:
-  - 11
-  directions:
-  - en_es
-  - es_en
-- id: l11-036
-  type: transformation
-  tier: extended
-  front_en: you tolerate
-  back_es: toleras
-  hint: tolera + s · informal
-  rule_ref: L11#5
-  lessons:
-  - 11
-  directions:
-  - en_es
-  - es_en
-- id: l11-037
+- id: L11-037
   type: transformation
   tier: extended
   front_en: exaggeration
@@ -441,7 +309,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l11-038
+- id: L11-038
   type: transformation
   tier: extended
   front_en: collaboration
@@ -453,7 +321,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l11-039
+- id: L11-039
   type: sentence
   tier: extended
   front_en: I tolerate it.
@@ -465,19 +333,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l11-040
-  type: sentence
-  tier: extended
-  front_en: I want to tolerate it.
-  back_es: Quiero tolerarlo.
-  hint: '*-lo* on the to-form'
-  rule_ref: L11#10
-  lessons:
-  - 11
-  directions:
-  - en_es
-  - es_en
-- id: l11-041
+- id: L11-041
   type: sentence
   tier: extended
   front_en: I'm going to eliminate it.
@@ -489,7 +345,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l11-042
+- id: L11-042
   type: sentence
   tier: extended
   front_en: I don't tolerate it.
@@ -502,7 +358,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l11-043
+- id: L11-043
   type: sentence
   tier: extended
   front_en: He must speak about it.
@@ -514,19 +370,19 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-001
+- id: L12-001
   type: transformation
   tier: primary
   front_en: I sell
   back_es: vendo
-  hint: vender → ... · *vending machine*
+  hint: vender → vendo · *vending machine*
   rule_ref: L12#4
   lessons:
   - 12
   directions:
   - en_es
   - es_en
-- id: l12-002
+- id: L12-002
   type: transformation
   tier: primary
   front_en: he sells
@@ -538,7 +394,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-003
+- id: L12-003
   type: transformation
   tier: primary
   front_en: they sell
@@ -550,7 +406,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-004
+- id: L12-004
   type: transformation
   tier: primary
   front_en: you sell
@@ -562,32 +418,19 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-005
-  type: transformation
-  tier: primary
-  front_en: I eat
-  back_es: como
-  hint: comer → ... · also = *how* or *like*
-  rule_ref: L11#2, L12#4
-  lessons:
-  - 11
-  - 12
-  directions:
-  - en_es
-  - es_en
-- id: l12-006
+- id: L12-006
   type: transformation
   tier: primary
   front_en: he eats
   back_es: come
-  hint: comer → ... · key vowel /e/
+  hint: comer → come · key vowel /e/
   rule_ref: L12#4
   lessons:
   - 12
   directions:
   - en_es
   - es_en
-- id: l12-007
+- id: L12-007
   type: transformation
   tier: primary
   front_en: they eat
@@ -599,7 +442,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-008
+- id: L12-008
   type: transformation
   tier: primary
   front_en: you eat
@@ -611,7 +454,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-010
+- id: L12-010
   type: transformation
   tier: primary
   front_en: association
@@ -623,7 +466,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-011
+- id: L12-011
   type: transformation
   tier: primary
   front_en: celebration
@@ -635,7 +478,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-012
+- id: L12-012
   type: transformation
   tier: primary
   front_en: administration
@@ -647,7 +490,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-013
+- id: L12-013
   type: transformation
   tier: primary
   front_en: diversity
@@ -659,7 +502,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-014
+- id: L12-014
   type: transformation
   tier: primary
   front_en: nationality
@@ -671,7 +514,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-015
+- id: L12-015
   type: transformation
   tier: primary
   front_en: creativity
@@ -683,67 +526,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-016
-  type: transformation
-  tier: primary
-  front_en: electricity
-  back_es: electricidad
-  hint: -ity → -idad · feminine
-  rule_ref: L12#13
-  lessons:
-  - 12
-  directions:
-  - en_es
-  - es_en
-- id: l12-017
-  type: transformation
-  tier: primary
-  front_en: generosity
-  back_es: generosidad
-  hint: -ity → -idad · /j/→/kh/
-  rule_ref: L12#13
-  lessons:
-  - 12
-  directions:
-  - en_es
-  - es_en
-- id: l12-018
-  type: transformation
-  tier: primary
-  front_en: community
-  back_es: comunidad
-  hint: -ity → -idad · cf. *común* (irreg)
-  rule_ref: L12#13, L12#17
-  lessons:
-  - 12
-  directions:
-  - en_es
-  - es_en
-- id: l12-019
-  type: transformation
-  tier: primary
-  front_en: opportunity
-  back_es: oportunidad
-  hint: -ity → -idad · single p
-  rule_ref: L12#13
-  lessons:
-  - 12
-  directions:
-  - en_es
-  - es_en
-- id: l12-020
-  type: transformation
-  tier: primary
-  front_en: personality
-  back_es: personalidad
-  hint: -ity → -idad · cf. *persona*
-  rule_ref: L12#13
-  lessons:
-  - 12
-  directions:
-  - en_es
-  - es_en
-- id: l12-021
+- id: L12-021
   type: transformation
   tier: primary
   front_en: electric
@@ -755,7 +538,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-022
+- id: L12-022
   type: transformation
   tier: primary
   front_en: generous
@@ -767,7 +550,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-023
+- id: L12-023
   type: transformation
   tier: primary
   front_en: clear / of course
@@ -779,7 +562,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-024
+- id: L12-024
   type: transformation
   tier: primary
   front_en: the person
@@ -791,7 +574,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-025
+- id: L12-025
   type: transformation
   tier: primary
   front_en: the house
@@ -803,7 +586,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-026
+- id: L12-026
   type: transformation
   tier: primary
   front_en: common
@@ -815,7 +598,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-027
+- id: L12-027
   type: sentence
   tier: primary
   front_en: I'm selling it.
@@ -827,7 +610,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-028
+- id: L12-028
   type: sentence
   tier: primary
   front_en: I'm selling the houses.
@@ -839,7 +622,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-029
+- id: L12-029
   type: sentence
   tier: primary
   front_en: I'm selling them.
@@ -851,7 +634,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-030
+- id: L12-030
   type: sentence
   tier: primary
   front_en: He's selling something.
@@ -863,7 +646,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-031
+- id: L12-031
   type: sentence
   tier: primary
   front_en: They're not selling it.
@@ -876,7 +659,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-032
+- id: L12-032
   type: sentence
   tier: primary
   front_en: Why aren't they selling it?
@@ -888,7 +671,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-033
+- id: L12-033
   type: sentence
   tier: primary
   front_en: They're selling it to me.
@@ -900,7 +683,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-034
+- id: L12-034
   type: sentence
   tier: primary
   front_en: They don't sell it to me.
@@ -912,7 +695,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-035
+- id: L12-035
   type: sentence
   tier: primary
   front_en: Why don't they sell it to me?
@@ -924,7 +707,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-036
+- id: L12-036
   type: sentence
   tier: primary
   front_en: They're selling it to us.
@@ -936,7 +719,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-037
+- id: L12-037
   type: sentence
   tier: primary
   front_en: They're not selling it to us.
@@ -948,118 +731,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-038
-  type: sentence
-  tier: primary
-  front_en: Why don't they sell it to us?
-  back_es: ¿Por qué no nos lo venden?
-  hint: full stack
-  rule_ref: L12#19, L12#20
-  lessons:
-  - 12
-  directions:
-  - en_es
-  - es_en
-- id: l12-039
-  type: sentence
-  tier: primary
-  front_en: I want to sell it. (Quiero…)
-  back_es: Quiero venderlo.
-  hint: '*-lo* attached to to-form'
-  rule_ref: L11#10, L12#4
-  lessons:
-  - 11
-  - 12
-  directions:
-  - en_es
-  - es_en
-- id: l12-040
-  type: sentence
-  tier: primary
-  front_en: I want to sell it. (Lo…)
-  back_es: Lo quiero vender.
-  hint: same meaning · *lo* up front
-  rule_ref: L11#10, L12#4
-  lessons:
-  - 11
-  - 12
-  directions:
-  - en_es
-  - es_en
-- id: l12-041
-  type: transformation
-  tier: extended
-  front_en: contamination
-  back_es: contaminación
-  hint: -tion → -ción · cf. *contaminar*
-  rule_ref: L12#11, L12#12
-  lessons:
-  - 12
-  directions:
-  - en_es
-  - es_en
-- id: l12-043
-  type: transformation
-  tier: extended
-  front_en: clarity
-  back_es: claridad
-  hint: -ity → -idad · cf. *claro*
-  rule_ref: L12#13
-  lessons:
-  - 12
-  directions:
-  - en_es
-  - es_en
-- id: l12-044
-  type: transformation
-  tier: extended
-  front_en: sincerity
-  back_es: sinceridad
-  hint: -ity → -idad · cf. *sincero*
-  rule_ref: L12#13
-  lessons:
-  - 12
-  directions:
-  - en_es
-  - es_en
-- id: l12-045
-  type: transformation
-  tier: extended
-  front_en: opportune
-  back_es: oportuno
-  hint: from *oportunidad*
-  rule_ref: L12#15
-  lessons:
-  - 12
-  directions:
-  - en_es
-  - es_en
-- id: l12-046
-  type: transformation
-  tier: extended
-  front_en: sincere
-  back_es: sincero
-  hint: from *sinceridad*
-  rule_ref: L12#15
-  lessons:
-  - 12
-  directions:
-  - en_es
-  - es_en
-- id: l12-047
-  type: transformation
-  tier: extended
-  front_en: to contaminate
-  back_es: contaminar
-  hint: -ar verb · cf. *contaminación*
-  rule_ref: L11#1
-  lessons:
-  - 11
-  - 12
-  directions:
-  - en_es
-  - es_en
-- id: l12-048
+- id: L12-048
   type: transformation
   tier: extended
   front_en: he contaminates
@@ -1071,7 +743,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-049
+- id: L12-049
   type: transformation
   tier: extended
   front_en: generous (fem.)
@@ -1083,7 +755,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-050
+- id: L12-050
   type: sentence
   tier: extended
   front_en: Of course it's possible.
@@ -1097,7 +769,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-051
+- id: L12-051
   type: sentence
   tier: extended
   front_en: He's selling the house.
@@ -1109,31 +781,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-052
-  type: sentence
-  tier: extended
-  front_en: He's selling it.
-  back_es: La vende.
-  hint: '*la* = it (fem.) for *casa*'
-  rule_ref: L12#7, L12#8
-  lessons:
-  - 12
-  directions:
-  - en_es
-  - es_en
-- id: l12-053
-  type: sentence
-  tier: extended
-  front_en: I'm not selling it to you.
-  back_es: No te lo vendo.
-  hint: no + te + lo + verb
-  rule_ref: L12#19, L12#20
-  lessons:
-  - 12
-  directions:
-  - en_es
-  - es_en
-- id: l12-054
+- id: L12-054
   type: sentence
   tier: extended
   front_en: Why don't you sell it?
@@ -1145,7 +793,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-055
+- id: L12-055
   type: sentence
   tier: extended
   front_en: They're eating something.
@@ -1157,7 +805,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-056
+- id: L12-056
   type: sentence
   tier: extended
   front_en: They're not eating it.
@@ -1170,7 +818,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l12-057
+- id: L12-057
   type: sentence
   tier: extended
   front_en: It's not common.
@@ -1183,95 +831,95 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l13-001
+- id: L13-001
   type: conjugation
   tier: primary
   front_en: I form of hacer
   back_es: hago
-  hint: -go family · silent h
+  hint: to do · -go family · silent h
   rule_ref: L13#2, L13#9
   lessons:
   - 13
   directions:
   - en_es
-- id: l13-002
+- id: L13-002
   type: conjugation
   tier: primary
   front_en: she form of hacer
   back_es: hace
-  hint: -er key vowel /e/ · silent h
+  hint: to do · -er key vowel /e/ · silent h
   rule_ref: L13#2
   lessons:
   - 13
   directions:
   - en_es
-- id: l13-003
+- id: L13-003
   type: conjugation
   tier: primary
   front_en: you (informal) form of hacer
   back_es: haces
-  hint: hace + s
+  hint: to do · hace + s
   rule_ref: L13#3
   lessons:
   - 13
   directions:
   - en_es
-- id: l13-004
+- id: L13-004
   type: conjugation
   tier: primary
   front_en: they form of hacer
   back_es: hacen
-  hint: hace + n
+  hint: to do · hace + n
   rule_ref: L13#3
   lessons:
   - 13
   directions:
   - en_es
-- id: l13-005
+- id: L13-005
   type: conjugation
   tier: primary
   front_en: I form of poder
   back_es: puedo
-  hint: I can / I am able · soft d
+  hint: to be able · I can / I am able · soft d
   rule_ref: L13#5
   lessons:
   - 13
   directions:
   - en_es
-- id: l13-006
+- id: L13-006
   type: conjugation
   tier: primary
   front_en: she form of poder
   back_es: puede
-  hint: he/she can
+  hint: to be able · he/she can
   rule_ref: L13#5
   lessons:
   - 13
   directions:
   - en_es
-- id: l13-007
+- id: L13-007
   type: conjugation
   tier: primary
   front_en: you (informal) form of poder
   back_es: puedes
-  hint: puede + s
+  hint: to be able · puede + s
   rule_ref: L13#3, L13#5
   lessons:
   - 13
   directions:
   - en_es
-- id: l13-008
+- id: L13-008
   type: conjugation
   tier: primary
   front_en: they form of poder
   back_es: pueden
-  hint: puede + n
+  hint: to be able · puede + n
   rule_ref: L13#3, L13#5
   lessons:
   - 13
   directions:
   - en_es
-- id: l13-011
+- id: L13-011
   type: conjugation
   tier: primary
   front_en: I form of salir
@@ -1282,29 +930,29 @@ cards:
   - 13
   directions:
   - en_es
-- id: l13-012
+- id: L13-012
   type: conjugation
   tier: primary
   front_en: I form of esperar
   back_es: espero
-  hint: stop the vowel-harmony pull
+  hint: to wait/hope · stop the vowel-harmony pull
   rule_ref: L13#11, L13#12
   lessons:
   - 13
   directions:
   - en_es
-- id: l13-013
+- id: L13-013
   type: conjugation
   tier: primary
   front_en: she form of esperar
   back_es: espera
-  hint: -ar key vowel /a/
+  hint: to wait/hope · -ar key vowel /a/
   rule_ref: L13#12
   lessons:
   - 13
   directions:
   - en_es
-- id: l13-014
+- id: L13-014
   type: transformation
   tier: primary
   front_en: to do / to make
@@ -1316,7 +964,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l13-015
+- id: L13-015
   type: transformation
   tier: primary
   front_en: to be able / can
@@ -1328,7 +976,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l13-016
+- id: L13-016
   type: transformation
   tier: primary
   front_en: to leave / go out
@@ -1340,7 +988,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l13-019
+- id: L13-019
   type: transformation
   tier: primary
   front_en: to wait / to hope
@@ -1352,7 +1000,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l13-020
+- id: L13-020
   type: transformation
   tier: primary
   front_en: necessary
@@ -1364,7 +1012,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l13-021
+- id: L13-021
   type: transformation
   tier: primary
   front_en: to know / savvy
@@ -1376,7 +1024,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l13-022
+- id: L13-022
   type: transformation
   tier: primary
   front_en: vocabulary
@@ -1388,7 +1036,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l13-023
+- id: L13-023
   type: sentence
   tier: primary
   front_en: He's doing it.
@@ -1401,7 +1049,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l13-024
+- id: L13-024
   type: sentence
   tier: primary
   front_en: They're doing it.
@@ -1414,7 +1062,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l13-025
+- id: L13-025
   type: sentence
   tier: primary
   front_en: What are you doing?
@@ -1426,7 +1074,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l13-026
+- id: L13-026
   type: sentence
   tier: primary
   front_en: Can you come?
@@ -1438,7 +1086,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l13-027
+- id: L13-027
   type: sentence
   tier: primary
   front_en: Can't you come?
@@ -1451,7 +1099,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l13-028
+- id: L13-028
   type: sentence
   tier: primary
   front_en: Why can't you come?
@@ -1464,7 +1112,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l13-029
+- id: L13-029
   type: sentence
   tier: primary
   front_en: I want to know why you can't come.
@@ -1476,7 +1124,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l13-030
+- id: L13-030
   type: sentence
   tier: primary
   front_en: They wait for me.
@@ -1488,7 +1136,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l13-031
+- id: L13-031
   type: sentence
   tier: primary
   front_en: They're not waiting for me.
@@ -1501,62 +1149,62 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l13-032
+- id: L13-032
   type: conjugation
   tier: extended
   front_en: you (informal) form of esperar
   back_es: esperas
-  hint: espera + s
+  hint: to wait/hope · espera + s
   rule_ref: L13#3
   lessons:
   - 13
   directions:
   - en_es
-- id: l13-033
+- id: L13-033
   type: conjugation
   tier: extended
   front_en: they form of esperar
   back_es: esperan
-  hint: espera + n
+  hint: to wait/hope · espera + n
   rule_ref: L13#3
   lessons:
   - 13
   directions:
   - en_es
-- id: l13-034
+- id: L13-034
   type: conjugation
   tier: extended
   front_en: she form of salir
   back_es: sale
-  hint: regular -ir form · only *salgo* is odd
+  hint: to leave · regular -ir form · only *salgo* is odd
   rule_ref: L13#9
   lessons:
   - 13
   directions:
   - en_es
-- id: l13-035
+- id: L13-035
   type: conjugation
   tier: extended
   front_en: she form of tener
   back_es: tiene
-  hint: only *tengo* is the -go irreg
+  hint: to have · only *tengo* is the -go irreg
   rule_ref: L13#9
   lessons:
   - 13
   directions:
   - en_es
-- id: l13-036
+- id: L13-036
   type: conjugation
   tier: extended
   front_en: she form of venir
   back_es: viene
-  hint: only *vengo* is the -go irreg
+  hint: to come · only *vengo* is the -go irreg
   rule_ref: L13#9
   lessons:
   - 13
   directions:
   - en_es
-- id: l13-037
+- id: L13-037
   type: transformation
   tier: extended
   front_en: contrary
@@ -1568,7 +1216,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l13-038
+- id: L13-038
   type: transformation
   tier: extended
   front_en: mouth
@@ -1580,59 +1228,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l13-039
-  type: transformation
-  tier: extended
-  front_en: to buy
-  back_es: comprar
-  hint: -ar verb
-  rule_ref: L11#1
-  lessons:
-  - 11
-  - 13
-  directions:
-  - en_es
-  - es_en
-- id: l13-040
-  type: transformation
-  tier: extended
-  front_en: I buy
-  back_es: compro
-  hint: comprar → ...
-  rule_ref: L11#2
-  lessons:
-  - 11
-  - 13
-  directions:
-  - en_es
-  - es_en
-- id: l13-041
-  type: transformation
-  tier: extended
-  front_en: to arrive
-  back_es: llegar
-  hint: -ar verb · *ll* = /y/
-  rule_ref: L11#1
-  lessons:
-  - 11
-  - 13
-  directions:
-  - en_es
-  - es_en
-- id: l13-042
-  type: transformation
-  tier: extended
-  front_en: I arrive
-  back_es: llego
-  hint: llegar → ...
-  rule_ref: L11#2
-  lessons:
-  - 11
-  - 13
-  directions:
-  - en_es
-  - es_en
-- id: l13-043
+- id: L13-043
   type: sentence
   tier: primary
   front_en: You (informal) are doing it.
@@ -1645,19 +1241,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l13-044
-  type: sentence
-  tier: extended
-  front_en: I can come.
-  back_es: Puedo venir.
-  hint: '*puedo* + to-form · no *a*'
-  rule_ref: L13#5, L13#6
-  lessons:
-  - 13
-  directions:
-  - en_es
-  - es_en
-- id: l13-045
+- id: L13-045
   type: sentence
   tier: extended
   front_en: I'm waiting for him.
@@ -1669,7 +1253,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l13-046
+- id: L13-046
   type: sentence
   tier: extended
   front_en: He waits for us.
@@ -1681,7 +1265,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l13-047
+- id: L13-047
   type: sentence
   tier: extended
   front_en: It's necessary to do it.
@@ -1695,19 +1279,19 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l13-049
+- id: L13-049
   type: sentence
   tier: extended
   front_en: I'm coming.
   back_es: Vengo.
-  hint: '*...* (-go family)'
+  hint: '*vengo* (-go family)'
   rule_ref: L13#9
   lessons:
   - 13
   directions:
   - en_es
   - es_en
-- id: l13-050
+- id: L13-050
   type: sentence
   tier: extended
   front_en: I have a house.

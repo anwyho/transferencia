@@ -1,67 +1,67 @@
 bundle: H
-title: 'Indirect pronouns + dar + agreement intro: te lo doy, numbers 6-10, llamar'
+title: 'Bundle H Indirect Pronouns + Dar (L24-27)'
 lessons:
 - 24
 - 25
 - 26
 - 27
 cards:
-- id: l24-001
+- id: L24-001
   type: conjugation
   tier: primary
   front_en: I form of dar
   back_es: doy
-  hint: -oy family · same ending as voy, soy
+  hint: to give · -oy family · same ending as voy, soy
   rule_ref: L24#2, L24#3
   lessons:
   - 24
   directions:
   - en_es
-- id: l24-002
+- id: L24-002
   type: conjugation
   tier: primary
   front_en: you form of dar
   back_es: das
-  hint: regular -as ending
+  hint: to give · regular -as ending
   rule_ref: L24#3
   lessons:
   - 24
   directions:
   - en_es
-- id: l24-003
+- id: L24-003
   type: conjugation
   tier: primary
   front_en: she form of dar
   back_es: da
-  hint: covers he / she / it / usted
+  hint: to give · covers he / she / it / usted
   rule_ref: L24#3
   lessons:
   - 24
   directions:
   - en_es
-- id: l24-004
+- id: L24-004
   type: conjugation
   tier: primary
   front_en: we form of dar
   back_es: damos
-  hint: regular -amos
+  hint: to give · regular -amos
   rule_ref: L24#3
   lessons:
   - 24
   directions:
   - en_es
-- id: l24-005
+- id: L24-005
   type: conjugation
   tier: primary
   front_en: they form of dar
   back_es: dan
-  hint: covers they / ustedes
+  hint: to give · covers they / ustedes
   rule_ref: L24#3, L24#9
   lessons:
   - 24
   directions:
   - en_es
-- id: l24-006
+- id: L24-006
   type: transformation
   tier: primary
   front_en: to give
@@ -73,7 +73,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l24-008
+- id: L24-008
   type: transformation
   tier: primary
   front_en: you guys / plural formal you
@@ -85,7 +85,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l24-009
+- id: L24-009
   type: sentence
   tier: primary
   front_en: I give.
@@ -96,7 +96,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l24-010
+- id: L24-010
   type: sentence
   tier: primary
   front_en: I give it.
@@ -108,7 +108,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l24-017
+- id: L24-017
   type: sentence
   tier: primary
   front_en: They give me something.
@@ -120,7 +120,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l24-019
+- id: L24-019
   type: sentence
   tier: primary
   front_en: They give it to me.
@@ -132,7 +132,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l24-020
+- id: L24-020
   type: sentence
   tier: primary
   front_en: I give it to you.
@@ -144,7 +144,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l24-021
+- id: L24-021
   type: sentence
   tier: primary
   front_en: I'll give it to you tomorrow.
@@ -156,7 +156,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l24-022
+- id: L24-022
   type: sentence
   tier: primary
   front_en: THEY give it to me.
@@ -168,7 +168,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l24-023
+- id: L24-023
   type: sentence
   tier: primary
   front_en: She gives it to me.
@@ -179,31 +179,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l24-024
-  type: sentence
-  tier: primary
-  front_en: We give it to you.
-  back_es: Te lo damos.
-  hint: we-form stacking
-  rule_ref: L24#4, L24#3
-  lessons:
-  - 24
-  directions:
-  - en_es
-  - es_en
-- id: l24-027
-  type: sentence
-  tier: primary
-  front_en: Are you (formal) giving it to me tomorrow?
-  back_es: ¿Me lo da mañana?
-  hint: intonation makes the question
-  rule_ref: L24#4, L24#6
-  lessons:
-  - 24
-  directions:
-  - en_es
-  - es_en
-- id: l24-028
+- id: L24-028
   type: sentence
   tier: primary
   front_en: Are YOU (formal) giving it to me tomorrow?
@@ -215,19 +191,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l24-029
-  type: sentence
-  tier: primary
-  front_en: Are you guys giving it to us tomorrow?
-  back_es: ¿Nos lo dan mañana?
-  hint: nos = us / to us
-  rule_ref: L24#4, L24#9
-  lessons:
-  - 24
-  directions:
-  - en_es
-  - es_en
-- id: l24-030
+- id: L24-030
   type: sentence
   tier: primary
   front_en: Are YOU GUYS giving it to us tomorrow?
@@ -239,7 +203,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l24-032
+- id: L24-032
   type: sentence
   tier: primary
   front_en: Are you guys giving me something?
@@ -250,7 +214,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l24-034
+- id: L24-034
   type: sentence
   tier: primary
   front_en: I want to give.
@@ -261,7 +225,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l24-035
+- id: L24-035
   type: sentence
   tier: primary
   front_en: I want to give it to you. (Te…)
@@ -273,7 +237,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l24-036
+- id: L24-036
   type: sentence
   tier: primary
   front_en: I want to give it to you. (Quiero…)
@@ -285,7 +249,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l24-037
+- id: L24-037
   type: sentence
   tier: primary
   front_en: I want to give you something.
@@ -296,891 +260,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l24-038
-  type: sentence
-  tier: primary
-  front_en: She wants to give it to us.
-  back_es: Nos lo quiere dar.
-  rule_ref: L24#11, L24#4
-  lessons:
-  - 24
-  directions:
-  - en_es
-  - es_en
-- id: l24-039
-  type: sentence
-  tier: primary
-  front_en: I have to give it to you tomorrow.
-  back_es: Tengo que dártelo mañana.
-  hint: stick to end of dar · 9 words
-  rule_ref: L24#11, L24#6
-  lessons:
-  - 24
-  directions:
-  - en_es
-  - es_en
-- id: l25-001
-  type: transformation
-  tier: primary
-  front_en: six
-  back_es: seis
-  hint: /seys/
-  rule_ref: L25#12
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-002
-  type: transformation
-  tier: primary
-  front_en: seven
-  back_es: siete
-  hint: e-split (sete → ...) · like start of *set*
-  rule_ref: L25#12
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-003
-  type: transformation
-  tier: primary
-  front_en: eight
-  back_es: ocho
-  hint: '*octa*gon, *octo*pus, *Oct*ober'
-  rule_ref: L25#12
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-004
-  type: transformation
-  tier: primary
-  front_en: nine
-  back_es: nueve
-  hint: o-split (nove → ...) · *Nov*ember
-  rule_ref: L25#12
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-005
-  type: transformation
-  tier: primary
-  front_en: ten
-  back_es: diez
-  hint: '*Dec*ember (was 10th month)'
-  rule_ref: L25#12
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-007
-  type: transformation
-  tier: primary
-  front_en: to cook
-  back_es: cocinar
-  hint: cocina + -ar · cousin of *concoction*
-  rule_ref: L25#7
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-008
-  type: conjugation
-  tier: primary
-  front_en: I form of cocinar
-  back_es: cocino
-  hint: regular -o
-  rule_ref: L25#8
-  lessons:
-  - 25
-  directions:
-  - en_es
-- id: l25-010
-  type: conjugation
-  tier: primary
-  front_en: she form of cocinar
-  back_es: cocina
-  hint: same as the noun *...* — context decides
-  rule_ref: L25#8
-  lessons:
-  - 25
-  directions:
-  - en_es
-- id: l25-013
-  type: transformation
-  tier: primary
-  front_en: to remain / be left over
-  back_es: quedar
-  hint: q-u-e-d-a-r · /kedar/, never /kwedar/
-  rule_ref: L25#13, L25#14
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-014
-  type: transformation
-  tier: primary
-  front_en: I stay (I remain myself)
-  back_es: me quedo
-  hint: reflexive — me is required, not optional
-  rule_ref: L25#15, L25#19
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-016
-  type: transformation
-  tier: primary
-  front_en: we stay
-  back_es: nos quedamos
-  rule_ref: L25#16
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-019
-  type: transformation
-  tier: primary
-  front_en: here
-  back_es: aquí
-  hint: Spain · LatAm uses *acá*
-  rule_ref: L25#18
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-020
-  type: transformation
-  tier: primary
-  front_en: until
-  back_es: hasta
-  hint: silent h
-  rule_ref: L25#17
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-022
-  type: sentence
-  tier: primary
-  front_en: He speaks to me.
-  back_es: Me habla.
-  hint: me = me / to me / for me — no extra word
-  rule_ref: L25#1, L25#2
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-024
-  type: sentence
-  tier: primary
-  front_en: He's speaking to me about it.
-  back_es: Me lo habla.
-  hint: stacking — me first, lo second
-  rule_ref: L25#1
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-025
-  type: sentence
-  tier: primary
-  front_en: He buys it for me.
-  back_es: Me lo compra.
-  hint: no *para* — me already carries *for*
-  rule_ref: L25#1
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-026
-  type: sentence
-  tier: primary
-  front_en: I buy it for you.
-  back_es: Te lo compro.
-  rule_ref: L25#1
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-027
-  type: sentence
-  tier: primary
-  front_en: Shall I buy it for you?
-  back_es: ¿Te lo compro?
-  hint: rising tone = question
-  rule_ref: L25#3
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-029
-  type: sentence
-  tier: primary
-  front_en: Do you want to do it for me? (Me…)
-  back_es: ¿Me lo quieres hacer?
-  hint: or *¿Quieres hacérmelo?*
-  rule_ref: L25#1, L25#5
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-030
-  type: sentence
-  tier: primary
-  front_en: I cook.
-  back_es: Cocino.
-  rule_ref: L25#8
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-032
-  type: sentence
-  tier: primary
-  front_en: Can you cook?
-  back_es: ¿Puedes cocinar?
-  rule_ref: L25#9
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-033
-  type: sentence
-  tier: primary
-  front_en: Can you cook something for me?
-  back_es: ¿Me puedes cocinar algo?
-  hint: me before changed verb (puedes)
-  rule_ref: L25#10, L25#2
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-035
-  type: sentence
-  tier: primary
-  front_en: at six o'clock
-  back_es: a las seis
-  hint: '*horas* dropped'
-  rule_ref: L25#11, L25#12
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-037
-  type: sentence
-  tier: primary
-  front_en: I have cooked at six o'clock.
-  back_es: He cocinado a las seis.
-  rule_ref: L25#11
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-040
-  type: sentence
-  tier: primary
-  front_en: I stay.
-  back_es: Me quedo.
-  hint: literally *I remain myself*
-  rule_ref: L25#15
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-041
-  type: sentence
-  tier: primary
-  front_en: I'm staying here.
-  back_es: Me quedo aquí.
-  rule_ref: L25#15, L25#18
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-042
-  type: sentence
-  tier: primary
-  front_en: I'm staying here until ten.
-  back_es: Me quedo aquí hasta las diez.
-  rule_ref: L25#17, L25#11
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-043
-  type: sentence
-  tier: primary
-  front_en: We're staying until nine.
-  back_es: Nos quedamos hasta las nueve.
-  rule_ref: L25#17, L25#11
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-046
-  type: sentence
-  tier: primary
-  front_en: I'm staying (emphatic).
-  back_es: Yo me quedo.
-  hint: subject for emphasis (me is still required)
-  rule_ref: L25#19
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l26-007
-  type: transformation
-  tier: primary
-  front_en: to call / phone
-  back_es: llamar
-  hint: ll = /y/ — /yamar/
-  rule_ref: L26#15
-  lessons:
-  - 26
-  directions:
-  - en_es
-  - es_en
-- id: l26-008
-  type: conjugation
-  tier: primary
-  front_en: I form of llamar
-  back_es: llamo
-  rule_ref: L26#18
-  lessons:
-  - 26
-  directions:
-  - en_es
-- id: l26-013
-  type: transformation
-  tier: primary
-  front_en: my name is / I call myself
-  back_es: me llamo
-  hint: literally *I call myself*
-  rule_ref: L26#16
-  lessons:
-  - 26
-  directions:
-  - en_es
-  - es_en
-- id: l26-016
-  type: sentence
-  tier: primary
-  front_en: My name is Mihalis.
-  back_es: Me llamo Mihalis.
-  hint: '*I call myself Mihalis*'
-  rule_ref: L26#16
-  lessons:
-  - 26
-  directions:
-  - en_es
-  - es_en
-- id: l26-017
-  type: sentence
-  tier: primary
-  front_en: What's your name?
-  back_es: ¿Cómo te llamas?
-  hint: '*how do you call yourself*'
-  rule_ref: L26#17
-  lessons:
-  - 26
-  directions:
-  - en_es
-  - es_en
-- id: l26-020
-  type: sentence
-  tier: primary
-  front_en: I'm going to stay.
-  back_es: Voy a quedarme.
-  hint: reflexive stuck to end of -ar form
-  rule_ref: L26#1, L26#6
-  lessons:
-  - 26
-  directions:
-  - en_es
-  - es_en
-- id: l26-022
-  type: sentence
-  tier: primary
-  front_en: I want to stay.
-  back_es: Quiero quedarme.
-  rule_ref: L26#1
-  lessons:
-  - 26
-  directions:
-  - en_es
-  - es_en
-- id: l26-023
-  type: sentence
-  tier: primary
-  front_en: Do you want to stay?
-  back_es: ¿Quieres quedarte?
-  hint: te matches the doer (you)
-  rule_ref: L26#2
-  lessons:
-  - 26
-  directions:
-  - en_es
-  - es_en
-- id: l26-024
-  type: sentence
-  tier: primary
-  front_en: We must stay.
-  back_es: Debemos quedarnos.
-  hint: or *Nos debemos quedar.*
-  rule_ref: L26#1, L26#3
-  lessons:
-  - 26
-  directions:
-  - en_es
-  - es_en
-- id: l26-026
-  type: sentence
-  tier: primary
-  front_en: I have to stay.
-  back_es: Tengo que quedarme.
-  rule_ref: L26#1
-  lessons:
-  - 26
-  directions:
-  - en_es
-  - es_en
-- id: l26-027
-  type: sentence
-  tier: primary
-  front_en: You have to stay here.
-  back_es: Tienes que quedarte aquí.
-  rule_ref: L26#1, L26#2
-  lessons:
-  - 26
-  directions:
-  - en_es
-  - es_en
-- id: l26-028
-  type: sentence
-  tier: primary
-  front_en: I can stay.
-  back_es: Puedo quedarme.
-  rule_ref: L26#1
-  lessons:
-  - 26
-  directions:
-  - en_es
-  - es_en
-- id: l26-029
-  type: sentence
-  tier: primary
-  front_en: We can stay.
-  back_es: Podemos quedarnos.
-  rule_ref: L26#1
-  lessons:
-  - 26
-  directions:
-  - en_es
-  - es_en
-- id: l26-030
-  type: sentence
-  tier: primary
-  front_en: I'm planning to stay.
-  back_es: Pienso quedarme.
-  hint: '*pensar* + to-form = plan to'
-  rule_ref: L26#10, L26#1
-  lessons:
-  - 26
-  directions:
-  - en_es
-  - es_en
-- id: l26-031
-  type: sentence
-  tier: primary
-  front_en: Are you planning to stay here tonight?
-  back_es: ¿Piensas quedarte aquí esta noche?
-  hint: '*esta noche* = tonight'
-  rule_ref: L26#10
-  lessons:
-  - 26
-  directions:
-  - en_es
-  - es_en
-- id: l26-032
-  type: sentence
-  tier: primary
-  front_en: You're not staying here.
-  back_es: No te quedas aquí.
-  hint: no goes in front of everything
-  rule_ref: L26#4
-  lessons:
-  - 26
-  directions:
-  - en_es
-  - es_en
-- id: l26-033
-  type: sentence
-  tier: primary
-  front_en: Aren't you staying here?
-  back_es: ¿No te quedas aquí?
-  rule_ref: L26#4, L26#5
-  lessons:
-  - 26
-  directions:
-  - en_es
-  - es_en
-- id: l26-034
-  type: sentence
-  tier: primary
-  front_en: Why aren't you staying here?
-  back_es: ¿Por qué no te quedas aquí?
-  rule_ref: L26#5, L26#4
-  lessons:
-  - 26
-  directions:
-  - en_es
-  - es_en
-- id: l26-035
-  type: sentence
-  tier: primary
-  front_en: I can't stay.
-  back_es: No puedo quedarme.
-  rule_ref: L26#4
-  lessons:
-  - 26
-  directions:
-  - en_es
-  - es_en
-- id: l26-036
-  type: sentence
-  tier: primary
-  front_en: I can't stay tonight.
-  back_es: No puedo quedarme esta noche.
-  rule_ref: L26#4
-  lessons:
-  - 26
-  directions:
-  - en_es
-  - es_en
-- id: l26-038
-  type: sentence
-  tier: primary
-  front_en: We have stayed.
-  back_es: Nos hemos quedado.
-  hint: reflexive BEFORE haber
-  rule_ref: L26#11
-  lessons:
-  - 26
-  directions:
-  - en_es
-  - es_en
-- id: l26-039
-  type: sentence
-  tier: primary
-  front_en: We haven't stayed.
-  back_es: No nos hemos quedado.
-  rule_ref: L26#11, L26#14
-  lessons:
-  - 26
-  directions:
-  - en_es
-  - es_en
-- id: l26-040
-  type: sentence
-  tier: primary
-  front_en: You have stayed.
-  back_es: Te has quedado.
-  rule_ref: L26#11
-  lessons:
-  - 26
-  directions:
-  - en_es
-  - es_en
-- id: l26-042
-  type: sentence
-  tier: primary
-  front_en: Haven't YOU stayed?
-  back_es: ¿Tú no te has quedado?
-  hint: tú for emphasis
-  rule_ref: L26#14, L26#11
-  lessons:
-  - 26
-  directions:
-  - en_es
-  - es_en
-- id: l27-001
-  type: transformation
-  tier: primary
-  front_en: car (Spain)
-  back_es: coche
-  hint: masc · from *coach*
-  rule_ref: L27#4, L27#5
-  lessons:
-  - 27
-  directions:
-  - en_es
-  - es_en
-- id: l27-002
-  type: transformation
-  tier: primary
-  front_en: car (Latin America)
-  back_es: carro
-  hint: masc · rolled rr
-  rule_ref: L27#4
-  lessons:
-  - 27
-  directions:
-  - en_es
-  - es_en
-- id: l27-003
-  type: transformation
-  tier: primary
-  front_en: car (short for *automóbil*)
-  back_es: auto
-  hint: masc
-  rule_ref: L27#4
-  lessons:
-  - 27
-  directions:
-  - en_es
-  - es_en
-- id: l27-004
-  type: transformation
-  tier: primary
-  front_en: machine / car (fem)
-  back_es: máquina
-  hint: /makina/ · qu = /k/
-  rule_ref: L27#4, L27#5
-  lessons:
-  - 27
-  directions:
-  - en_es
-  - es_en
-- id: l27-005
-  type: transformation
-  tier: primary
-  front_en: red (masc)
-  back_es: rojo
-  hint: rolling r · j = /kh/ → /rokho/
-  rule_ref: L27#14
-  lessons:
-  - 27
-  directions:
-  - en_es
-  - es_en
-- id: l27-007
-  type: transformation
-  tier: primary
-  front_en: big
-  back_es: grande
-  hint: same root as *grand*
-  rule_ref: L27#6
-  lessons:
-  - 27
-  directions:
-  - en_es
-  - es_en
-- id: l27-008
-  type: transformation
-  tier: primary
-  front_en: big (plural)
-  back_es: grandes
-  hint: adjective adds -s for plural
-  rule_ref: L27#7
-  lessons:
-  - 27
-  directions:
-  - en_es
-  - es_en
-- id: l27-009
-  type: transformation
-  tier: primary
-  front_en: in
-  back_es: en
-  hint: single word, e-n
-  rule_ref: L27#13
-  lessons:
-  - 27
-  directions:
-  - en_es
-  - es_en
-- id: l27-012
-  type: sentence
-  tier: primary
-  front_en: the global situation
-  back_es: la situación global
-  hint: adjective AFTER noun · -ión fem
-  rule_ref: L27#1, L27#3
-  lessons:
-  - 27
-  directions:
-  - en_es
-  - es_en
-- id: l27-013
-  type: sentence
-  tier: primary
-  front_en: the digital camera
-  back_es: la cámara digital
-  rule_ref: L27#1
-  lessons:
-  - 27
-  directions:
-  - en_es
-  - es_en
-- id: l27-015
-  type: sentence
-  tier: primary
-  front_en: I want to buy a digital camera.
-  back_es: Quiero comprar una cámara digital.
-  rule_ref: L27#1, L27#2
-  lessons:
-  - 27
-  directions:
-  - en_es
-  - es_en
-- id: l27-018
-  type: sentence
-  tier: primary
-  front_en: the big house
-  back_es: la casa grande
-  rule_ref: L27#1, L27#6
-  lessons:
-  - 27
-  directions:
-  - en_es
-  - es_en
-- id: l27-019
-  type: sentence
-  tier: primary
-  front_en: the big houses
-  back_es: las casas grandes
-  hint: noun + adjective both pluralize
-  rule_ref: L27#7, L27#8
-  lessons:
-  - 27
-  directions:
-  - en_es
-  - es_en
-- id: l27-020
-  type: sentence
-  tier: primary
-  front_en: the big car
-  back_es: el auto grande
-  hint: masc article + adj-after-noun
-  rule_ref: L27#1, L27#8
-  lessons:
-  - 27
-  directions:
-  - en_es
-  - es_en
-- id: l27-022
-  type: sentence
-  tier: primary
-  front_en: Do you see the big car?
-  back_es: ¿Ves el coche grande?
-  hint: skip *can* — *ves* alone is natural
-  rule_ref: L27#11
-  lessons:
-  - 27
-  directions:
-  - en_es
-  - es_en
-- id: l27-024
-  type: sentence
-  tier: primary
-  front_en: I can't find it.
-  back_es: No puedo encontrarlo.
-  hint: helper-verb shortcut · -lo on infinitive
-  rule_ref: L27#9, L27#10
-  lessons:
-  - 27
-  directions:
-  - en_es
-  - es_en
-- id: l27-025
-  type: sentence
-  tier: primary
-  front_en: I don't find it.
-  back_es: No lo encuentro.
-  hint: more native — o → ue split
-  rule_ref: L27#9, L27#12
-  lessons:
-  - 27
-  directions:
-  - en_es
-  - es_en
-- id: l27-026
-  type: sentence
-  tier: primary
-  front_en: I'm staying in the red car.
-  back_es: Me quedo en el auto rojo.
-  hint: build verb backbone first
-  rule_ref: L27#16, L27#19
-  lessons:
-  - 27
-  directions:
-  - en_es
-  - es_en
-- id: l27-027
-  type: sentence
-  tier: primary
-  front_en: I have stayed in the red car.
-  back_es: Me he quedado en el auto rojo.
-  hint: 9 words · me before haber
-  rule_ref: L27#17
-  lessons:
-  - 27
-  directions:
-  - en_es
-  - es_en
-- id: l27-028
-  type: sentence
-  tier: primary
-  front_en: I have bought a red car.
-  back_es: He comprado un auto rojo.
-  rule_ref: L27#18, L27#1
-  lessons:
-  - 27
-  directions:
-  - en_es
-  - es_en
-- id: l27-029
-  type: sentence
-  tier: primary
-  front_en: I have bought myself a red car.
-  back_es: Me he comprado un auto rojo.
-  hint: me he comprado = bought for myself
-  rule_ref: L27#18, L27#1
-  lessons:
-  - 27
-  directions:
-  - en_es
-  - es_en
-- id: l24-040
+- id: L24-040
   type: sentence
   tier: extended
   front_en: You give me something.
@@ -1191,40 +271,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l24-041
-  type: sentence
-  tier: extended
-  front_en: She gives them to me.
-  back_es: Me los da.
-  rule_ref: L24#4
-  lessons:
-  - 24
-  directions:
-  - en_es
-  - es_en
-- id: l24-042
-  type: sentence
-  tier: extended
-  front_en: We give them to you.
-  back_es: Te los damos.
-  rule_ref: L24#4
-  lessons:
-  - 24
-  directions:
-  - en_es
-  - es_en
-- id: l24-043
-  type: sentence
-  tier: extended
-  front_en: They give it to us.
-  back_es: Nos lo dan.
-  rule_ref: L24#4
-  lessons:
-  - 24
-  directions:
-  - en_es
-  - es_en
-- id: l24-044
+- id: L24-044
   type: sentence
   tier: extended
   front_en: She doesn't give it to me.
@@ -1236,30 +283,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l24-045
-  type: sentence
-  tier: extended
-  front_en: I want to give you something tomorrow.
-  back_es: Quiero darte algo mañana.
-  hint: te stuck on dar
-  rule_ref: L24#11, L24#6
-  lessons:
-  - 24
-  directions:
-  - en_es
-  - es_en
-- id: l24-046
-  type: sentence
-  tier: extended
-  front_en: Don't you want to give it to me?
-  back_es: ¿No me lo quieres dar?
-  rule_ref: L24#11
-  lessons:
-  - 24
-  directions:
-  - en_es
-  - es_en
-- id: l24-047
+- id: L24-047
   type: sentence
   tier: extended
   front_en: Tomorrow I'll give it to you.
@@ -1271,7 +295,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l24-048
+- id: L24-048
   type: sentence
   tier: extended
   front_en: You guys give me something.
@@ -1283,42 +307,298 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l24-049
-  type: sentence
-  tier: extended
-  front_en: I can give it to you. (Te…)
-  back_es: Te lo puedo dar.
-  rule_ref: L24#11
+- id: L25-001
+  type: transformation
+  tier: primary
+  front_en: six
+  back_es: seis
+  hint: /seys/
+  rule_ref: L25#12
   lessons:
-  - 24
+  - 25
   directions:
   - en_es
   - es_en
-- id: l24-050
-  type: sentence
-  tier: extended
-  front_en: I can give it to you. (Puedo…)
-  back_es: Puedo dártelo.
-  hint: alt — stuck on dar
-  rule_ref: L24#11
+- id: L25-002
+  type: transformation
+  tier: primary
+  front_en: seven
+  back_es: siete
+  hint: e-split (sete → siete) · like start of *set*
+  rule_ref: L25#12
   lessons:
-  - 24
+  - 25
   directions:
   - en_es
   - es_en
-- id: l24-051
-  type: sentence
-  tier: extended
-  front_en: SHE gives.
-  back_es: Ella da.
-  hint: emphasis subject
-  rule_ref: L24#8
+- id: L25-003
+  type: transformation
+  tier: primary
+  front_en: eight
+  back_es: ocho
+  hint: '*octa*gon, *octo*pus, *Oct*ober'
+  rule_ref: L25#12
   lessons:
-  - 24
+  - 25
   directions:
   - en_es
   - es_en
-- id: l25-048
+- id: L25-007
+  type: transformation
+  tier: primary
+  front_en: to cook
+  back_es: cocinar
+  hint: cocina + -ar · cousin of *concoction*
+  rule_ref: L25#7
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-008
+  type: conjugation
+  tier: primary
+  front_en: I form of cocinar
+  back_es: cocino
+  hint: to cook · regular -o
+  rule_ref: L25#8
+  lessons:
+  - 25
+  directions:
+  - en_es
+- id: L25-010
+  type: conjugation
+  tier: primary
+  front_en: she form of cocinar
+  back_es: cocina
+  hint: to cook · same as the noun *la cocina* (kitchen) — context decides
+  rule_ref: L25#8
+  lessons:
+  - 25
+  directions:
+  - en_es
+- id: L25-013
+  type: transformation
+  tier: primary
+  front_en: to remain / be left over
+  back_es: quedar
+  hint: q-u-e-d-a-r · /kedar/, never /kwedar/
+  rule_ref: L25#13, L25#14
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-014
+  type: transformation
+  tier: primary
+  front_en: I stay (I remain myself)
+  back_es: me quedo
+  hint: reflexive — me is required, not optional
+  rule_ref: L25#15, L25#19
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-016
+  type: transformation
+  tier: primary
+  front_en: we stay
+  back_es: nos quedamos
+  rule_ref: L25#16
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-019
+  type: transformation
+  tier: primary
+  front_en: here
+  back_es: aquí
+  hint: Spain · LatAm uses *acá*
+  rule_ref: L25#18
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-020
+  type: transformation
+  tier: primary
+  front_en: until
+  back_es: hasta
+  hint: silent h
+  rule_ref: L25#17
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-022
+  type: sentence
+  tier: primary
+  front_en: He speaks to me.
+  back_es: Me habla.
+  hint: me = me / to me / for me — no extra word
+  rule_ref: L25#1, L25#2
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-024
+  type: sentence
+  tier: primary
+  front_en: He's speaking to me about it.
+  back_es: Me lo habla.
+  hint: stacking — me first, lo second
+  rule_ref: L25#1
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-025
+  type: sentence
+  tier: primary
+  front_en: He buys it for me.
+  back_es: Me lo compra.
+  hint: no *para* — me already carries *for*
+  rule_ref: L25#1
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-027
+  type: sentence
+  tier: primary
+  front_en: Shall I buy it for you?
+  back_es: ¿Te lo compro?
+  hint: rising tone = question
+  rule_ref: L25#3
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-030
+  type: sentence
+  tier: primary
+  front_en: I cook.
+  back_es: Cocino.
+  rule_ref: L25#8
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-032
+  type: sentence
+  tier: primary
+  front_en: Can you cook?
+  back_es: ¿Puedes cocinar?
+  rule_ref: L25#9
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-033
+  type: sentence
+  tier: primary
+  front_en: Can you cook something for me?
+  back_es: ¿Me puedes cocinar algo?
+  hint: me before changed verb (puedes)
+  rule_ref: L25#10, L25#2
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-035
+  type: sentence
+  tier: primary
+  front_en: at six o'clock
+  back_es: a las seis
+  hint: '*horas* dropped'
+  rule_ref: L25#11, L25#12
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-037
+  type: sentence
+  tier: primary
+  front_en: I have cooked at six o'clock.
+  back_es: He cocinado a las seis.
+  rule_ref: L25#11
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-040
+  type: sentence
+  tier: primary
+  front_en: I stay.
+  back_es: Me quedo.
+  hint: literally *I remain myself*
+  rule_ref: L25#15
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-041
+  type: sentence
+  tier: primary
+  front_en: I'm staying here.
+  back_es: Me quedo aquí.
+  rule_ref: L25#15, L25#18
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-042
+  type: sentence
+  tier: primary
+  front_en: I'm staying here until ten.
+  back_es: Me quedo aquí hasta las diez.
+  rule_ref: L25#17, L25#11
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-043
+  type: sentence
+  tier: primary
+  front_en: We're staying until nine.
+  back_es: Nos quedamos hasta las nueve.
+  rule_ref: L25#17, L25#11
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-046
+  type: sentence
+  tier: primary
+  front_en: I'm staying (emphatic).
+  back_es: Yo me quedo.
+  hint: subject for emphasis (me is still required)
+  rule_ref: L25#19
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-048
   type: transformation
   tier: extended
   front_en: there (here, LatAm variant)
@@ -1330,41 +610,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l25-049
-  type: sentence
-  tier: extended
-  front_en: He buys me something.
-  back_es: Me compra algo.
-  rule_ref: L25#1
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-050
-  type: sentence
-  tier: extended
-  front_en: Shall I cook it for you?
-  back_es: ¿Te lo cocino?
-  rule_ref: L25#1, L25#3
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-051
-  type: sentence
-  tier: extended
-  front_en: They cook for us.
-  back_es: Nos cocinan.
-  hint: nos = us / for us
-  rule_ref: L25#1, L25#8
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-052
+- id: L25-052
   type: sentence
   tier: extended
   front_en: Do you want to do it for me? (Quieres…)
@@ -1376,7 +622,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l25-053
+- id: L25-053
   type: sentence
   tier: extended
   front_en: I have cooked at ten.
@@ -1387,18 +633,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l25-054
-  type: sentence
-  tier: extended
-  front_en: We cook at seven.
-  back_es: Cocinamos a las siete.
-  rule_ref: L25#11, L25#12
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-055
+- id: L25-055
   type: sentence
   tier: extended
   front_en: Until ten o'clock.
@@ -1409,29 +644,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l25-056
-  type: sentence
-  tier: extended
-  front_en: I want to stay here until eight.
-  back_es: Quiero quedarme aquí hasta las ocho.
-  rule_ref: L25#17, L25#15
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-057
-  type: sentence
-  tier: extended
-  front_en: We're staying until six.
-  back_es: Nos quedamos hasta las seis.
-  rule_ref: L25#17
-  lessons:
-  - 25
-  directions:
-  - en_es
-  - es_en
-- id: l25-058
+- id: L25-058
   type: sentence
   tier: extended
   front_en: She stays here.
@@ -1442,7 +655,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l25-059
+- id: L25-059
   type: sentence
   tier: extended
   front_en: They stay until nine.
@@ -1453,18 +666,239 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l25-060
-  type: sentence
-  tier: extended
-  front_en: Can you buy it for me?
-  back_es: ¿Me lo puedes comprar?
-  rule_ref: L25#1, L25#9
+- id: L26-007
+  type: transformation
+  tier: primary
+  front_en: to call / phone
+  back_es: llamar
+  hint: ll = /y/ — /yamar/
+  rule_ref: L26#15
   lessons:
-  - 25
+  - 26
   directions:
   - en_es
   - es_en
-- id: l26-043
+- id: L26-008
+  type: conjugation
+  tier: primary
+  front_en: I form of llamar
+  back_es: llamo
+  hint: to call
+  rule_ref: L26#18
+  lessons:
+  - 26
+  directions:
+  - en_es
+- id: L26-013
+  type: transformation
+  tier: primary
+  front_en: my name is / I call myself
+  back_es: me llamo
+  hint: literally *I call myself*
+  rule_ref: L26#16
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-016
+  type: sentence
+  tier: primary
+  front_en: My name is Mihalis.
+  back_es: Me llamo Mihalis.
+  hint: '*I call myself Mihalis*'
+  rule_ref: L26#16
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-017
+  type: sentence
+  tier: primary
+  front_en: What's your name?
+  back_es: ¿Cómo te llamas?
+  hint: '*how do you call yourself*'
+  rule_ref: L26#17
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-020
+  type: sentence
+  tier: primary
+  front_en: I'm going to stay.
+  back_es: Voy a quedarme.
+  hint: reflexive stuck to end of -ar form
+  rule_ref: L26#1, L26#6
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-022
+  type: sentence
+  tier: primary
+  front_en: I want to stay.
+  back_es: Quiero quedarme.
+  rule_ref: L26#1
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-023
+  type: sentence
+  tier: primary
+  front_en: Do you want to stay?
+  back_es: ¿Quieres quedarte?
+  hint: te matches the doer (you)
+  rule_ref: L26#2
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-024
+  type: sentence
+  tier: primary
+  front_en: We must stay.
+  back_es: Debemos quedarnos.
+  hint: or *Nos debemos quedar.*
+  rule_ref: L26#1, L26#3
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-030
+  type: sentence
+  tier: primary
+  front_en: I'm planning to stay.
+  back_es: Pienso quedarme.
+  hint: '*pensar* + to-form = plan to'
+  rule_ref: L26#10, L26#1
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-031
+  type: sentence
+  tier: primary
+  front_en: Are you planning to stay here tonight?
+  back_es: ¿Piensas quedarte aquí esta noche?
+  hint: '*esta noche* = tonight'
+  rule_ref: L26#10
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-032
+  type: sentence
+  tier: primary
+  front_en: You're not staying here.
+  back_es: No te quedas aquí.
+  hint: no goes in front of everything
+  rule_ref: L26#4
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-033
+  type: sentence
+  tier: primary
+  front_en: Aren't you staying here?
+  back_es: ¿No te quedas aquí?
+  rule_ref: L26#4, L26#5
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-034
+  type: sentence
+  tier: primary
+  front_en: Why aren't you staying here?
+  back_es: ¿Por qué no te quedas aquí?
+  rule_ref: L26#5, L26#4
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-035
+  type: sentence
+  tier: primary
+  front_en: I can't stay.
+  back_es: No puedo quedarme.
+  rule_ref: L26#4
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-036
+  type: sentence
+  tier: primary
+  front_en: I can't stay tonight.
+  back_es: No puedo quedarme esta noche.
+  rule_ref: L26#4
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-038
+  type: sentence
+  tier: primary
+  front_en: We have stayed.
+  back_es: Nos hemos quedado.
+  hint: reflexive BEFORE haber
+  rule_ref: L26#11
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-039
+  type: sentence
+  tier: primary
+  front_en: We haven't stayed.
+  back_es: No nos hemos quedado.
+  rule_ref: L26#11, L26#14
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-040
+  type: sentence
+  tier: primary
+  front_en: You have stayed.
+  back_es: Te has quedado.
+  rule_ref: L26#11
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-042
+  type: sentence
+  tier: primary
+  front_en: Haven't YOU stayed?
+  back_es: ¿Tú no te has quedado?
+  hint: tú for emphasis
+  rule_ref: L26#14, L26#11
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-043
   type: transformation
   tier: extended
   front_en: September
@@ -1476,7 +910,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l26-045
+- id: L26-045
   type: sentence
   tier: extended
   front_en: We're planning to stay.
@@ -1488,7 +922,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l26-046
+- id: L26-046
   type: sentence
   tier: extended
   front_en: I want to know why you have to stay.
@@ -1500,18 +934,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l26-047
-  type: sentence
-  tier: extended
-  front_en: Tonight I can't stay.
-  back_es: Esta noche no puedo quedarme.
-  rule_ref: L26#4
-  lessons:
-  - 26
-  directions:
-  - en_es
-  - es_en
-- id: l26-048
+- id: L26-048
   type: sentence
   tier: extended
   front_en: Why don't you want to stay?
@@ -1522,7 +945,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l26-049
+- id: L26-049
   type: sentence
   tier: extended
   front_en: They are calling me.
@@ -1534,7 +957,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l26-050
+- id: L26-050
   type: sentence
   tier: extended
   front_en: What's his name?
@@ -1546,7 +969,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l26-051
+- id: L26-051
   type: sentence
   tier: extended
   front_en: What are you guys called?
@@ -1558,31 +981,220 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l26-052
-  type: sentence
-  tier: extended
-  front_en: I have to call you tonight.
-  back_es: Tengo que llamarte esta noche.
-  hint: te stuck on llamar
-  rule_ref: L26#1, L26#15
+- id: L27-001
+  type: transformation
+  tier: primary
+  front_en: car (Spain)
+  back_es: coche
+  hint: masc · from *coach*
+  rule_ref: L27#4, L27#5
   lessons:
-  - 26
+  - 27
   directions:
   - en_es
   - es_en
-- id: l27-030
+- id: L27-002
   type: transformation
-  tier: extended
-  front_en: automobile
-  back_es: automóbil
-  hint: auto is the short form
+  tier: primary
+  front_en: car (Latin America)
+  back_es: carro
+  hint: masc · rolled rr
   rule_ref: L27#4
   lessons:
   - 27
   directions:
   - en_es
   - es_en
-- id: l27-031
+- id: L27-003
+  type: transformation
+  tier: primary
+  front_en: car (short for *automóbil*)
+  back_es: auto
+  hint: masc
+  rule_ref: L27#4
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-005
+  type: transformation
+  tier: primary
+  front_en: red (masc)
+  back_es: rojo
+  hint: rolling r · j = /kh/ → /rokho/
+  rule_ref: L27#14
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-007
+  type: transformation
+  tier: primary
+  front_en: big
+  back_es: grande
+  hint: same root as *grand*
+  rule_ref: L27#6
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-008
+  type: transformation
+  tier: primary
+  front_en: big (plural)
+  back_es: grandes
+  hint: adjective adds -s for plural
+  rule_ref: L27#7
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-009
+  type: transformation
+  tier: primary
+  front_en: in
+  back_es: en
+  hint: single word, e-n
+  rule_ref: L27#13
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-012
+  type: sentence
+  tier: primary
+  front_en: the global situation
+  back_es: la situación global
+  hint: adjective AFTER noun · -ión fem
+  rule_ref: L27#1, L27#3
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-013
+  type: sentence
+  tier: primary
+  front_en: the digital camera
+  back_es: la cámara digital
+  rule_ref: L27#1
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-015
+  type: sentence
+  tier: primary
+  front_en: I want to buy a digital camera.
+  back_es: Quiero comprar una cámara digital.
+  rule_ref: L27#1, L27#2
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-019
+  type: sentence
+  tier: primary
+  front_en: the big houses
+  back_es: las casas grandes
+  hint: noun + adjective both pluralize
+  rule_ref: L27#7, L27#8
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-022
+  type: sentence
+  tier: primary
+  front_en: Do you see the big car?
+  back_es: ¿Ves el coche grande?
+  hint: skip *can* — *ves* alone is natural
+  rule_ref: L27#11
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-024
+  type: sentence
+  tier: primary
+  front_en: I can't find it.
+  back_es: No puedo encontrarlo.
+  hint: helper-verb shortcut · -lo on infinitive
+  rule_ref: L27#9, L27#10
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-025
+  type: sentence
+  tier: primary
+  front_en: I don't find it.
+  back_es: No lo encuentro.
+  hint: more native — o → ue split
+  rule_ref: L27#9, L27#12
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-026
+  type: sentence
+  tier: primary
+  front_en: I'm staying in the red car.
+  back_es: Me quedo en el auto rojo.
+  hint: build verb backbone first
+  rule_ref: L27#16, L27#19
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-027
+  type: sentence
+  tier: primary
+  front_en: I have stayed in the red car.
+  back_es: Me he quedado en el auto rojo.
+  hint: 9 words · me before haber
+  rule_ref: L27#17
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-028
+  type: sentence
+  tier: primary
+  front_en: I have bought a red car.
+  back_es: He comprado un auto rojo.
+  rule_ref: L27#18, L27#1
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-029
+  type: sentence
+  tier: primary
+  front_en: I have bought myself a red car.
+  back_es: Me he comprado un auto rojo.
+  hint: me he comprado = bought for myself
+  rule_ref: L27#18, L27#1
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-031
   type: transformation
   tier: extended
   front_en: the houses
@@ -1594,7 +1206,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l27-032
+- id: L27-032
   type: transformation
   tier: extended
   front_en: the cars (LatAm)
@@ -1606,7 +1218,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l27-035
+- id: L27-035
   type: sentence
   tier: extended
   front_en: the red house
@@ -1618,7 +1230,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l27-036
+- id: L27-036
   type: sentence
   tier: extended
   front_en: the red cars
@@ -1630,18 +1242,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l27-037
-  type: sentence
-  tier: extended
-  front_en: I want to buy the big house.
-  back_es: Quiero comprar la casa grande.
-  rule_ref: L27#1, L27#6
-  lessons:
-  - 27
-  directions:
-  - en_es
-  - es_en
-- id: l27-038
+- id: L27-038
   type: sentence
   tier: extended
   front_en: Do you see the red car?
@@ -1652,7 +1253,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l27-039
+- id: L27-039
   type: sentence
   tier: extended
   front_en: I can't find the red car.

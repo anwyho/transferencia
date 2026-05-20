@@ -1,11 +1,11 @@
 bundle: L
-title: 'Pronoun migration + reflexive se + prepositions: lo→le, darse cuenta, conmigo, mí/ti'
+title: 'Bundle L Pronoun Migration + Reflexive Se (L37-39)'
 lessons:
 - 37
 - 38
 - 39
 cards:
-- id: l37-001
+- id: L37-001
   type: conjugation
   tier: primary
   front_en: I form of future dar
@@ -16,7 +16,7 @@ cards:
   - 37
   directions:
   - en_es
-- id: l37-002
+- id: L37-002
   type: conjugation
   tier: primary
   front_en: you form of future dar
@@ -27,7 +27,7 @@ cards:
   - 37
   directions:
   - en_es
-- id: l37-003
+- id: L37-003
   type: conjugation
   tier: primary
   front_en: she form of future dar
@@ -38,7 +38,7 @@ cards:
   - 37
   directions:
   - en_es
-- id: l37-004
+- id: L37-004
   type: conjugation
   tier: primary
   front_en: we form of future dar
@@ -49,7 +49,7 @@ cards:
   - 37
   directions:
   - en_es
-- id: l37-005
+- id: L37-005
   type: conjugation
   tier: primary
   front_en: they form of future dar
@@ -60,19 +60,19 @@ cards:
   - 37
   directions:
   - en_es
-- id: l37-008
+- id: L37-008
   type: transformation
   tier: primary
   front_en: account
   back_es: cuenta
-  hint: as in *darse ...* = realize
+  hint: as in *darse cuenta* = realize
   rule_ref: L37#10
   lessons:
   - 37
   directions:
   - en_es
   - es_en
-- id: l37-010
+- id: L37-010
   type: transformation
   tier: primary
   front_en: the kitchen
@@ -83,7 +83,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-011
+- id: L37-011
   type: transformation
   tier: primary
   front_en: I see
@@ -95,7 +95,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-013
+- id: L37-013
   type: sentence
   tier: primary
   front_en: I give them.
@@ -107,7 +107,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-014
+- id: L37-014
   type: sentence
   tier: primary
   front_en: I see it.
@@ -118,7 +118,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-017
+- id: L37-017
   type: sentence
   tier: primary
   front_en: He's cooking them.
@@ -130,7 +130,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-020
+- id: L37-020
   type: sentence
   tier: primary
   front_en: Will they give it to me?
@@ -142,7 +142,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-021
+- id: L37-021
   type: sentence
   tier: primary
   front_en: They will give it to you.
@@ -153,7 +153,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-022
+- id: L37-022
   type: sentence
   tier: primary
   front_en: They will give it to us.
@@ -164,7 +164,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-023
+- id: L37-023
   type: sentence
   tier: primary
   front_en: They won't give it to us.
@@ -176,7 +176,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-024
+- id: L37-024
   type: sentence
   tier: extended
   front_en: Will they give it (fem) to me?
@@ -188,7 +188,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-025
+- id: L37-025
   type: sentence
   tier: primary
   front_en: He's cooking them (fem) for us.
@@ -200,7 +200,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-026
+- id: L37-026
   type: sentence
   tier: primary
   front_en: They will give you something.
@@ -211,7 +211,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-027
+- id: L37-027
   type: sentence
   tier: primary
   front_en: He's cooking me something.
@@ -223,7 +223,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-028
+- id: L37-028
   type: sentence
   tier: primary
   front_en: I give them something.
@@ -235,7 +235,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-029
+- id: L37-029
   type: sentence
   tier: primary
   front_en: I have spoken to him.
@@ -247,7 +247,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-030
+- id: L37-030
   type: sentence
   tier: primary
   front_en: We have spoken to her.
@@ -258,53 +258,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-031
-  type: sentence
-  tier: primary
-  front_en: He's cooking him something.
-  back_es: Le cocina algo.
-  hint: him = indirect → *le* (not *lo*)
-  rule_ref: L37#11, L37#14
-  lessons:
-  - 37
-  directions:
-  - en_es
-  - es_en
-- id: l37-032
-  type: sentence
-  tier: primary
-  front_en: I speak to him.
-  back_es: Le hablo.
-  hint: '*le* not *lo* — meaning is *to*'
-  rule_ref: L37#11, L37#14
-  lessons:
-  - 37
-  directions:
-  - en_es
-  - es_en
-- id: l37-033
-  type: sentence
-  tier: primary
-  front_en: They speak to them.
-  back_es: Les hablan.
-  rule_ref: L37#11, L37#12
-  lessons:
-  - 37
-  directions:
-  - en_es
-  - es_en
-- id: l37-034
-  type: sentence
-  tier: primary
-  front_en: They have spoken to them.
-  back_es: Les han hablado.
-  rule_ref: L37#11, L37#18
-  lessons:
-  - 37
-  directions:
-  - en_es
-  - es_en
-- id: l37-035
+- id: L37-035
   type: sentence
   tier: extended
   front_en: They have spoken about it.
@@ -316,7 +270,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-036
+- id: L37-036
   type: sentence
   tier: primary
   front_en: I realize.
@@ -328,7 +282,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-037
+- id: L37-037
   type: sentence
   tier: primary
   front_en: Do you realize?
@@ -340,7 +294,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-038
+- id: L37-038
   type: sentence
   tier: primary
   front_en: We realize.
@@ -351,7 +305,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-039
+- id: L37-039
   type: sentence
   tier: extended
   front_en: I give myself.
@@ -363,31 +317,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-040
-  type: sentence
-  tier: extended
-  front_en: She will give it to him.
-  back_es: Se lo dará.
-  hint: le + lo → se lo (sneak peek L38)
-  rule_ref: L37#11, L37#4
-  lessons:
-  - 37
-  directions:
-  - en_es
-  - es_en
-  notes: le→se before lo/la — taught explicitly later, OK to expose here as anomaly.
-- id: l37-041
-  type: sentence
-  tier: extended
-  front_en: He won't give it to me.
-  back_es: No me lo dará.
-  rule_ref: L37#4, L37#1
-  lessons:
-  - 37
-  directions:
-  - en_es
-  - es_en
-- id: l37-042
+- id: L37-042
   type: sentence
   tier: extended
   front_en: We see her.
@@ -398,7 +328,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-043
+- id: L37-043
   type: sentence
   tier: extended
   front_en: They see them (masc).
@@ -409,18 +339,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-044
-  type: sentence
-  tier: extended
-  front_en: I have spoken to them.
-  back_es: Les he hablado.
-  rule_ref: L37#11, L37#18
-  lessons:
-  - 37
-  directions:
-  - en_es
-  - es_en
-- id: l37-045
+- id: L37-045
   type: sentence
   tier: extended
   front_en: He's cooking the tarts.
@@ -432,7 +351,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-046
+- id: L37-046
   type: sentence
   tier: extended
   front_en: He's cooking them for me.
@@ -444,19 +363,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-047
-  type: sentence
-  tier: extended
-  front_en: I give them to her.
-  back_es: Se los doy.
-  hint: le+los → se los
-  rule_ref: L37#11, L37#4
-  lessons:
-  - 37
-  directions:
-  - en_es
-  - es_en
-- id: l37-048
+- id: L37-048
   type: sentence
   tier: extended
   front_en: We will give you something.
@@ -467,7 +374,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-049
+- id: L37-049
   type: sentence
   tier: extended
   front_en: I don't realize.
@@ -478,18 +385,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l37-050
-  type: sentence
-  tier: extended
-  front_en: We have spoken to them.
-  back_es: Les hemos hablado.
-  rule_ref: L37#11, L37#18
-  lessons:
-  - 37
-  directions:
-  - en_es
-  - es_en
-- id: l38-001
+- id: L38-001
   type: transformation
   tier: primary
   front_en: I (subject pronoun)
@@ -500,7 +396,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-005
+- id: L38-005
   type: transformation
   tier: primary
   front_en: we (masc)
@@ -511,7 +407,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-006
+- id: L38-006
   type: transformation
   tier: primary
   front_en: we (all-female)
@@ -522,18 +418,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-007
-  type: transformation
-  tier: primary
-  front_en: you guys
-  back_es: ustedes
-  rule_ref: L38#12
-  lessons:
-  - 38
-  directions:
-  - en_es
-  - es_en
-- id: l38-008
+- id: L38-008
   type: transformation
   tier: primary
   front_en: himself / herself / themselves
@@ -545,7 +430,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-009
+- id: L38-009
   type: sentence
   tier: primary
   front_en: I speak to myself.
@@ -557,7 +442,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-010
+- id: L38-010
   type: sentence
   tier: primary
   front_en: He speaks to himself.
@@ -569,7 +454,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-011
+- id: L38-011
   type: sentence
   tier: primary
   front_en: They speak to themselves.
@@ -581,7 +466,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-013
+- id: L38-013
   type: sentence
   tier: primary
   front_en: We speak to each other.
@@ -593,7 +478,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-014
+- id: L38-014
   type: sentence
   tier: primary
   front_en: She speaks to herself.
@@ -605,7 +490,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-015
+- id: L38-015
   type: transformation
   tier: primary
   front_en: to stay (oneself)
@@ -617,7 +502,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-017
+- id: L38-017
   type: sentence
   tier: primary
   front_en: You stay.
@@ -628,7 +513,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-018
+- id: L38-018
   type: sentence
   tier: primary
   front_en: He stays.
@@ -639,7 +524,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-019
+- id: L38-019
   type: sentence
   tier: primary
   front_en: We stay.
@@ -650,18 +535,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-020
-  type: sentence
-  tier: primary
-  front_en: They stay.
-  back_es: Se quedan.
-  rule_ref: L38#9, L38#3
-  lessons:
-  - 38
-  directions:
-  - en_es
-  - es_en
-- id: l38-021
+- id: L38-021
   type: sentence
   tier: primary
   front_en: Are you staying?
@@ -673,7 +547,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-022
+- id: L38-022
   type: sentence
   tier: primary
   front_en: Aren't you staying?
@@ -685,7 +559,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-023
+- id: L38-023
   type: transformation
   tier: primary
   front_en: to want
@@ -697,7 +571,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-028
+- id: L38-028
   type: sentence
   tier: primary
   front_en: He wants to stay.
@@ -709,7 +583,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-029
+- id: L38-029
   type: sentence
   tier: primary
   front_en: She realizes.
@@ -721,7 +595,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-030
+- id: L38-030
   type: sentence
   tier: primary
   front_en: They realize.
@@ -732,7 +606,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-032
+- id: L38-032
   type: sentence
   tier: primary
   front_en: We don't realize.
@@ -743,7 +617,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-033
+- id: L38-033
   type: sentence
   tier: primary
   front_en: She realizes (emphasis).
@@ -755,7 +629,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-034
+- id: L38-034
   type: sentence
   tier: primary
   front_en: It fits me well.
@@ -767,7 +641,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-035
+- id: L38-035
   type: sentence
   tier: primary
   front_en: Why don't you stay?
@@ -778,7 +652,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-036
+- id: L38-036
   type: sentence
   tier: extended
   front_en: I'm staying (emphasis).
@@ -789,7 +663,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-037
+- id: L38-037
   type: sentence
   tier: extended
   front_en: We (all-female) stay.
@@ -800,19 +674,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-038
-  type: sentence
-  tier: extended
-  front_en: You guys stay.
-  back_es: Se quedan.
-  hint: ustedes uses se-form
-  rule_ref: L38#9, L38#3
-  lessons:
-  - 38
-  directions:
-  - en_es
-  - es_en
-- id: l38-039
+- id: L38-039
   type: sentence
   tier: extended
   front_en: They want to stay.
@@ -823,7 +685,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-040
+- id: L38-040
   type: sentence
   tier: extended
   front_en: She wants to stay.
@@ -834,7 +696,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-041
+- id: L38-041
   type: sentence
   tier: extended
   front_en: We want to stay.
@@ -846,7 +708,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-042
+- id: L38-042
   type: sentence
   tier: extended
   front_en: He speaks to himself (emphasis).
@@ -857,7 +719,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-043
+- id: L38-043
   type: sentence
   tier: extended
   front_en: He doesn't realize.
@@ -868,7 +730,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-044
+- id: L38-044
   type: sentence
   tier: extended
   front_en: They don't realize.
@@ -879,7 +741,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-045
+- id: L38-045
   type: sentence
   tier: extended
   front_en: You stay (emphasis).
@@ -890,30 +752,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-046
-  type: sentence
-  tier: extended
-  front_en: I want to realize.
-  back_es: Quiero darme cuenta.
-  hint: self-word *me* attached
-  rule_ref: L38#14, L38#19
-  lessons:
-  - 38
-  directions:
-  - en_es
-  - es_en
-- id: l38-047
-  type: sentence
-  tier: extended
-  front_en: He wants to realize.
-  back_es: Quiere darse cuenta.
-  rule_ref: L38#14, L38#19
-  lessons:
-  - 38
-  directions:
-  - en_es
-  - es_en
-- id: l38-048
+- id: L38-048
   type: sentence
   tier: extended
   front_en: We speak to ourselves.
@@ -925,29 +764,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l38-049
-  type: sentence
-  tier: extended
-  front_en: You guys realize.
-  back_es: Ustedes se dan cuenta.
-  rule_ref: L38#12, L38#19
-  lessons:
-  - 38
-  directions:
-  - en_es
-  - es_en
-- id: l38-050
-  type: sentence
-  tier: extended
-  front_en: I don't want to stay.
-  back_es: No quiero quedarme.
-  rule_ref: L38#14, L38#15, L38#11
-  lessons:
-  - 38
-  directions:
-  - en_es
-  - es_en
-- id: l39-002
+- id: L39-002
   type: transformation
   tier: primary
   front_en: for
@@ -958,7 +775,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-003
+- id: L39-003
   type: transformation
   tier: primary
   front_en: of / from
@@ -969,7 +786,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-004
+- id: L39-004
   type: transformation
   tier: primary
   front_en: in / on
@@ -980,7 +797,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-005
+- id: L39-005
   type: transformation
   tier: primary
   front_en: me (after a preposition)
@@ -992,7 +809,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-006
+- id: L39-006
   type: transformation
   tier: primary
   front_en: you (after a preposition)
@@ -1004,7 +821,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-007
+- id: L39-007
   type: sentence
   tier: primary
   front_en: For me.
@@ -1016,7 +833,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-008
+- id: L39-008
   type: sentence
   tier: primary
   front_en: For you.
@@ -1027,7 +844,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-009
+- id: L39-009
   type: sentence
   tier: primary
   front_en: With him.
@@ -1039,7 +856,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-010
+- id: L39-010
   type: sentence
   tier: primary
   front_en: With her.
@@ -1050,7 +867,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-011
+- id: L39-011
   type: sentence
   tier: primary
   front_en: With them.
@@ -1061,62 +878,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-012
-  type: sentence
-  tier: primary
-  front_en: With us.
-  back_es: Con nosotros.
-  rule_ref: L39#2, L39#1
-  lessons:
-  - 39
-  directions:
-  - en_es
-  - es_en
-- id: l39-013
-  type: sentence
-  tier: primary
-  front_en: With you guys.
-  back_es: Con ustedes.
-  rule_ref: L39#2, L39#1
-  lessons:
-  - 39
-  directions:
-  - en_es
-  - es_en
-- id: l39-014
-  type: sentence
-  tier: primary
-  front_en: For her.
-  back_es: Para ella.
-  rule_ref: L39#2, L39#4
-  lessons:
-  - 39
-  directions:
-  - en_es
-  - es_en
-- id: l39-015
-  type: sentence
-  tier: primary
-  front_en: For them.
-  back_es: Para ellos.
-  rule_ref: L39#2, L39#4
-  lessons:
-  - 39
-  directions:
-  - en_es
-  - es_en
-- id: l39-016
-  type: sentence
-  tier: primary
-  front_en: For us (all-female).
-  back_es: Para nosotras.
-  rule_ref: L39#2, L39#4
-  lessons:
-  - 39
-  directions:
-  - en_es
-  - es_en
-- id: l39-017
+- id: L39-017
   type: sentence
   tier: primary
   front_en: From him.
@@ -1127,7 +889,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-018
+- id: L39-018
   type: sentence
   tier: primary
   front_en: From me.
@@ -1138,7 +900,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-019
+- id: L39-019
   type: sentence
   tier: primary
   front_en: Is it from you guys?
@@ -1150,7 +912,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-020
+- id: L39-020
   type: sentence
   tier: primary
   front_en: It's for you guys.
@@ -1161,7 +923,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-021
+- id: L39-021
   type: sentence
   tier: primary
   front_en: It is with you guys.
@@ -1173,7 +935,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-023
+- id: L39-023
   type: transformation
   tier: primary
   front_en: a favor
@@ -1184,7 +946,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-024
+- id: L39-024
   type: sentence
   tier: primary
   front_en: He's doing me a favor.
@@ -1195,7 +957,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-025
+- id: L39-025
   type: sentence
   tier: primary
   front_en: He's doing her a favor.
@@ -1207,7 +969,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-026
+- id: L39-026
   type: transformation
   tier: primary
   front_en: to tell / to say
@@ -1219,7 +981,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-027
+- id: L39-027
   type: sentence
   tier: primary
   front_en: I want to say.
@@ -1230,7 +992,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-028
+- id: L39-028
   type: sentence
   tier: primary
   front_en: I want to tell him.
@@ -1242,7 +1004,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-029
+- id: L39-029
   type: sentence
   tier: primary
   front_en: I want to tell him (variant).
@@ -1254,7 +1016,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-030
+- id: L39-030
   type: sentence
   tier: primary
   front_en: I want to say it.
@@ -1266,7 +1028,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-032
+- id: L39-032
   type: sentence
   tier: primary
   front_en: I buy.
@@ -1277,7 +1039,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-034
+- id: L39-034
   type: sentence
   tier: primary
   front_en: I buy for them.
@@ -1289,7 +1051,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-036
+- id: L39-036
   type: sentence
   tier: primary
   front_en: They buy them for me.
@@ -1300,7 +1062,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-037
+- id: L39-037
   type: sentence
   tier: extended
   front_en: With me.
@@ -1313,41 +1075,7 @@ cards:
   - en_es
   - es_en
   notes: conmigo/contigo are conventional but not formally in lesson rules — included as common idiom.
-- id: l39-038
-  type: sentence
-  tier: extended
-  front_en: With you.
-  back_es: Contigo.
-  hint: con+ti irregular fusion
-  rule_ref: L39#5, L39#1
-  lessons:
-  - 39
-  directions:
-  - en_es
-  - es_en
-- id: l39-039
-  type: sentence
-  tier: extended
-  front_en: With them (fem).
-  back_es: Con ellas.
-  rule_ref: L39#2, L39#1
-  lessons:
-  - 39
-  directions:
-  - en_es
-  - es_en
-- id: l39-040
-  type: sentence
-  tier: extended
-  front_en: For you guys.
-  back_es: Para ustedes.
-  rule_ref: L39#2, L39#4
-  lessons:
-  - 39
-  directions:
-  - en_es
-  - es_en
-- id: l39-041
+- id: L39-041
   type: sentence
   tier: extended
   front_en: From you guys.
@@ -1358,18 +1086,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-042
-  type: sentence
-  tier: extended
-  front_en: From us.
-  back_es: De nosotros.
-  rule_ref: L39#6, L39#2
-  lessons:
-  - 39
-  directions:
-  - en_es
-  - es_en
-- id: l39-043
+- id: L39-043
   type: sentence
   tier: extended
   front_en: I buy for them (literal).
@@ -1381,29 +1098,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-045
-  type: sentence
-  tier: extended
-  front_en: I want to tell her.
-  back_es: Quiero decirle.
-  rule_ref: L39#13, L39#11
-  lessons:
-  - 39
-  directions:
-  - en_es
-  - es_en
-- id: l39-046
-  type: sentence
-  tier: extended
-  front_en: I want to tell them.
-  back_es: Les quiero decir.
-  rule_ref: L39#13, L39#15
-  lessons:
-  - 39
-  directions:
-  - en_es
-  - es_en
-- id: l39-047
+- id: L39-047
   type: sentence
   tier: extended
   front_en: She's doing them a favor.
@@ -1414,7 +1109,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-048
+- id: L39-048
   type: sentence
   tier: extended
   front_en: I don't want to say it.
@@ -1425,7 +1120,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-049
+- id: L39-049
   type: sentence
   tier: extended
   front_en: Is it for me?
@@ -1436,7 +1131,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l39-050
+- id: L39-050
   type: sentence
   tier: extended
   front_en: It's from her.

@@ -1,12 +1,12 @@
 bundle: S
-title: 'Hace + time, possessives, accents: -aste/-iste, -aron/-ieron, mi/tu/su, sí/si tú/tu'
+title: 'Bundle S Hace + Possessives + Accents (L64-67)'
 lessons:
 - 64
 - 65
 - 66
 - 67
 cards:
-- id: l64-001
+- id: L64-001
   type: transformation
   tier: primary
   front_en: ago (with time)
@@ -18,7 +18,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l64-002
+- id: L64-002
   type: transformation
   tier: primary
   front_en: two weeks ago
@@ -30,7 +30,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l64-003
+- id: L64-003
   type: transformation
   tier: primary
   front_en: a month ago
@@ -42,7 +42,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l64-004
+- id: L64-004
   type: transformation
   tier: primary
   front_en: month
@@ -54,7 +54,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l64-005
+- id: L64-005
   type: transformation
   tier: primary
   front_en: last night
@@ -66,7 +66,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l64-006
+- id: L64-006
   type: transformation
   tier: primary
   front_en: to respond
@@ -78,162 +78,150 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l64-007
-  type: transformation
-  tier: primary
-  front_en: discrimination
-  back_es: discriminación
-  hint: -tion → -ción · i not e
-  rule_ref: L64#1
-  lessons:
-  - 64
-  directions:
-  - en_es
-  - es_en
-- id: l64-008
+- id: L64-008
   type: conjugation
   tier: primary
   front_en: past-point you-informal form of hablar
   back_es: hablaste
-  hint: -ar → -aste · s+t mark you-informal
+  hint: speak (past) · -ar → -aste · s+t mark you-informal
   rule_ref: L64#7
   lessons:
   - 64
   directions:
   - en_es
-- id: l64-009
+- id: L64-009
   type: conjugation
   tier: primary
   front_en: past-point you-informal form of esperar
   back_es: esperaste
-  hint: -ar → -aste
+  hint: wait/hope (past) · -ar → -aste
   rule_ref: L64#7
   lessons:
   - 64
   directions:
   - en_es
-- id: l64-010
+- id: L64-010
   type: conjugation
   tier: primary
   front_en: past-point you-informal form of llegar
   back_es: llegaste
-  hint: -ar → -aste
+  hint: arrive (past) · -ar → -aste
   rule_ref: L64#7
   lessons:
   - 64
   directions:
   - en_es
-- id: l64-011
+- id: L64-011
   type: conjugation
   tier: primary
   front_en: past-point you-informal form of comer
   back_es: comiste
-  hint: -er → -iste · /i/-heavy past
+  hint: eat (past) · -er → -iste · /i/-heavy past
   rule_ref: L64#7, L64#12
   lessons:
   - 64
   directions:
   - en_es
-- id: l64-012
+- id: L64-012
   type: conjugation
   tier: primary
   front_en: past-point you-informal form of vivir
   back_es: viviste
-  hint: -ir → -iste
+  hint: live (past) · -ir → -iste
   rule_ref: L64#7
   lessons:
   - 64
   directions:
   - en_es
-- id: l64-013
+- id: L64-013
   type: conjugation
   tier: primary
   front_en: past-point you-informal form of salir
   back_es: saliste
-  hint: -ir → -iste
+  hint: leave (past) · -ir → -iste
   rule_ref: L64#7
   lessons:
   - 64
   directions:
   - en_es
-- id: l64-014
+- id: L64-014
   type: conjugation
   tier: primary
   front_en: past-point you-informal form of vender
   back_es: vendiste
-  hint: -er → -iste
+  hint: sell (past) · -er → -iste
   rule_ref: L64#7
   lessons:
   - 64
   directions:
   - en_es
-- id: l64-015
+- id: L64-015
   type: conjugation
   tier: primary
   front_en: past-point they form of hablar
   back_es: hablaron
-  hint: -ar → -aron
+  hint: speak (past) · -ar → -aron
   rule_ref: L64#8
   lessons:
   - 64
   directions:
   - en_es
-- id: l64-016
+- id: L64-016
   type: conjugation
   tier: primary
   front_en: past-point they form of esperar
   back_es: esperaron
-  hint: -ar → -aron
+  hint: wait/hope (past) · -ar → -aron
   rule_ref: L64#8
   lessons:
   - 64
   directions:
   - en_es
-- id: l64-017
+- id: L64-017
   type: conjugation
   tier: primary
   front_en: past-point they form of llegar
   back_es: llegaron
-  hint: -ar → -aron
+  hint: arrive (past) · -ar → -aron
   rule_ref: L64#8
   lessons:
   - 64
   directions:
   - en_es
-- id: l64-018
+- id: L64-018
   type: conjugation
   tier: primary
   front_en: past-point they form of comer
   back_es: comieron
-  hint: -er → -ieron · the lone /e/ marks -er/-ir
+  hint: eat (past) · -er → -ieron · the lone /e/ marks -er/-ir
   rule_ref: L64#8, L64#13
   lessons:
   - 64
   directions:
   - en_es
-- id: l64-019
+- id: L64-019
   type: conjugation
   tier: primary
   front_en: past-point they form of salir
   back_es: salieron
-  hint: -ir → -ieron
+  hint: leave (past) · -ir → -ieron
   rule_ref: L64#8
   lessons:
   - 64
   directions:
   - en_es
-- id: l64-020
+- id: L64-020
   type: conjugation
   tier: primary
   front_en: past-point they form of vender
   back_es: vendieron
-  hint: -er → -ieron
+  hint: sell (past) · -er → -ieron
   rule_ref: L64#8
   lessons:
   - 64
   directions:
   - en_es
-- id: l64-021
+- id: L64-021
   type: sentence
   tier: primary
   front_en: I saw him two weeks ago.
@@ -245,7 +233,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l64-022
+- id: L64-022
   type: sentence
   tier: primary
   front_en: I responded to her.
@@ -257,7 +245,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l64-023
+- id: L64-023
   type: sentence
   tier: primary
   front_en: I responded it to her.
@@ -269,7 +257,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l64-024
+- id: L64-024
   type: sentence
   tier: primary
   front_en: I responded it to her a month ago.
@@ -281,7 +269,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l64-025
+- id: L64-025
   type: sentence
   tier: primary
   front_en: Did you eat?
@@ -293,7 +281,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l64-026
+- id: L64-026
   type: sentence
   tier: primary
   front_en: Did you go out last night?
@@ -305,7 +293,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l64-027
+- id: L64-027
   type: sentence
   tier: primary
   front_en: Where did you live?
@@ -317,19 +305,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l64-028
-  type: sentence
-  tier: primary
-  front_en: When did you arrive?
-  back_es: ¿Cuándo llegaste?
-  hint: -ar past + question word with accent
-  rule_ref: L64#7
-  lessons:
-  - 64
-  directions:
-  - en_es
-  - es_en
-- id: l65-001
+- id: L65-001
   type: transformation
   tier: primary
   front_en: nothing else
@@ -341,7 +317,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-002
+- id: L65-002
   type: transformation
   tier: primary
   front_en: nobody else
@@ -353,7 +329,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-003
+- id: L65-003
   type: transformation
   tier: primary
   front_en: time / occasion
@@ -365,7 +341,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-004
+- id: L65-004
   type: transformation
   tier: primary
   front_en: once / one time
@@ -377,7 +353,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-005
+- id: L65-005
   type: transformation
   tier: primary
   front_en: again / another time
@@ -389,7 +365,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-006
+- id: L65-006
   type: transformation
   tier: primary
   front_en: at the same time
@@ -401,7 +377,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-007
+- id: L65-007
   type: transformation
   tier: primary
   front_en: at what time?
@@ -413,7 +389,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-008
+- id: L65-008
   type: transformation
   tier: primary
   front_en: my (sg)
@@ -425,7 +401,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-009
+- id: L65-009
   type: transformation
   tier: primary
   front_en: your (informal sg)
@@ -437,7 +413,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-010
+- id: L65-010
   type: transformation
   tier: primary
   front_en: his / her / their / your-formal (sg)
@@ -449,19 +425,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-011
-  type: transformation
-  tier: primary
-  front_en: our (masc sg)
-  back_es: nuestro
-  hint: -o for masc thing
-  rule_ref: L65#12, L65#14
-  lessons:
-  - 65
-  directions:
-  - en_es
-  - es_en
-- id: l65-012
+- id: L65-012
   type: transformation
   tier: primary
   front_en: our (fem sg)
@@ -473,7 +437,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-013
+- id: L65-013
   type: transformation
   tier: primary
   front_en: my (pl)
@@ -485,7 +449,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-014
+- id: L65-014
   type: transformation
   tier: primary
   front_en: their (pl thing)
@@ -497,7 +461,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-015
+- id: L65-015
   type: transformation
   tier: primary
   front_en: own (masc sg)
@@ -509,7 +473,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-016
+- id: L65-016
   type: transformation
   tier: primary
   front_en: everybody / everyone
@@ -521,51 +485,51 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-017
+- id: L65-017
   type: conjugation
   tier: primary
   front_en: past-point I form of ver
   back_es: vi
-  hint: ver is short — no accent
+  hint: see (past) · ver is short — no accent
   rule_ref: L65#4
   lessons:
   - 65
   directions:
   - en_es
-- id: l65-018
+- id: L65-018
   type: conjugation
   tier: primary
   front_en: past-point she form of ver
   back_es: vio
-  hint: short form · no accent
+  hint: see (past) · short form · no accent
   rule_ref: L65#4
   lessons:
   - 65
   directions:
   - en_es
-- id: l65-019
+- id: L65-019
   type: conjugation
   tier: primary
   front_en: past-point you-informal form of ver
   back_es: viste
-  hint: -iste with no extra vowel
+  hint: see (past) · -iste with no extra vowel
   rule_ref: L65#4
   lessons:
   - 65
   directions:
   - en_es
-- id: l65-020
+- id: L65-020
   type: conjugation
   tier: primary
   front_en: past-point they form of ver
   back_es: vieron
-  hint: stress on /e/ · short form, no accent
+  hint: see (past) · stress on /e/ · short form, no accent
   rule_ref: L65#4
   lessons:
   - 65
   directions:
   - en_es
-- id: l65-021
+- id: L65-021
   type: sentence
   tier: primary
   front_en: I didn't eat anything else.
@@ -577,7 +541,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-022
+- id: L65-022
   type: sentence
   tier: primary
   front_en: I want to see them again.
@@ -589,7 +553,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-023
+- id: L65-023
   type: sentence
   tier: primary
   front_en: My house is your house.
@@ -601,7 +565,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-024
+- id: L65-024
   type: sentence
   tier: primary
   front_en: I want to go to their house.
@@ -613,7 +577,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-025
+- id: L65-025
   type: sentence
   tier: primary
   front_en: I want to go to their houses.
@@ -625,7 +589,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-026
+- id: L65-026
   type: sentence
   tier: primary
   front_en: I saw it with my own eyes.
@@ -637,7 +601,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-027
+- id: L65-027
   type: sentence
   tier: primary
   front_en: I want to live in my own house.
@@ -649,7 +613,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l66-001
+- id: L66-001
   type: transformation
   tier: primary
   front_en: to hurt
@@ -661,7 +625,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l66-002
+- id: L66-002
   type: transformation
   tier: primary
   front_en: it hurts
@@ -673,7 +637,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l66-003
+- id: L66-003
   type: transformation
   tier: primary
   front_en: it hurts me
@@ -685,7 +649,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l66-004
+- id: L66-004
   type: transformation
   tier: primary
   front_en: pain (noun)
@@ -697,31 +661,31 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l66-005
+- id: L66-005
   type: transformation
   tier: primary
   front_en: leg
   back_es: pierna
-  hint: feminine · la ...
+  hint: feminine · *la pierna*
   rule_ref: L66#2
   lessons:
   - 66
   directions:
   - en_es
   - es_en
-- id: l66-006
+- id: L66-006
   type: transformation
   tier: primary
   front_en: head
   back_es: cabeza
-  hint: feminine · la ...
+  hint: feminine · *la cabeza*
   rule_ref: L66#5
   lessons:
   - 66
   directions:
   - en_es
   - es_en
-- id: l66-007
+- id: L66-007
   type: transformation
   tier: primary
   front_en: headache
@@ -733,7 +697,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l66-008
+- id: L66-008
   type: transformation
   tier: primary
   front_en: party (celebration)
@@ -745,7 +709,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l66-009
+- id: L66-009
   type: transformation
   tier: primary
   front_en: only / just
@@ -757,7 +721,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l66-010
+- id: L66-010
   type: sentence
   tier: primary
   front_en: My leg hurts.
@@ -769,7 +733,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l66-011
+- id: L66-011
   type: sentence
   tier: primary
   front_en: My head hurts.
@@ -781,7 +745,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l66-012
+- id: L66-012
   type: sentence
   tier: primary
   front_en: My leg doesn't hurt anymore.
@@ -793,7 +757,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l66-013
+- id: L66-013
   type: sentence
   tier: primary
   front_en: My head doesn't hurt anymore.
@@ -805,7 +769,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l66-014
+- id: L66-014
   type: sentence
   tier: primary
   front_en: I have a headache.
@@ -817,7 +781,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l66-015
+- id: L66-015
   type: sentence
   tier: primary
   front_en: I had a headache. (line)
@@ -829,7 +793,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l66-016
+- id: L66-016
   type: sentence
   tier: primary
   front_en: My head was hurting. (line)
@@ -841,7 +805,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l66-017
+- id: L66-017
   type: sentence
   tier: primary
   front_en: José's house
@@ -853,7 +817,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l66-018
+- id: L66-018
   type: sentence
   tier: primary
   front_en: We're going to José's house.
@@ -865,7 +829,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l66-019
+- id: L66-019
   type: sentence
   tier: primary
   front_en: We're going to María's party.
@@ -877,7 +841,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l66-020
+- id: L66-020
   type: sentence
   tier: primary
   front_en: I only spoke with you.
@@ -889,7 +853,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l66-021
+- id: L66-021
   type: sentence
   tier: primary
   front_en: I spoke only with you. (emphatic)
@@ -901,7 +865,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l66-022
+- id: L66-022
   type: sentence
   tier: primary
   front_en: I didn't speak with anybody else at María's party.
@@ -913,7 +877,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l67-001
+- id: L67-001
   type: transformation
   tier: primary
   front_en: yes (vs *if*)
@@ -925,7 +889,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l67-002
+- id: L67-002
   type: transformation
   tier: primary
   front_en: if (no accent)
@@ -937,7 +901,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l67-003
+- id: L67-003
   type: transformation
   tier: primary
   front_en: you (subject, with accent)
@@ -949,67 +913,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l67-004
-  type: transformation
-  tier: primary
-  front_en: your (informal, no accent)
-  back_es: tu
-  hint: no accent · agrees with thing
-  rule_ref: L67#9
-  lessons:
-  - 67
-  directions:
-  - en_es
-  - es_en
-- id: l67-005
-  type: transformation
-  tier: primary
-  front_en: me (after preposition)
-  back_es: mí
-  hint: accent · use after *para, por, de*
-  rule_ref: L67#9
-  lessons:
-  - 67
-  directions:
-  - en_es
-  - es_en
-- id: l67-006
-  type: transformation
-  tier: primary
-  front_en: my (no accent)
-  back_es: mi
-  hint: no accent · sits before thing
-  rule_ref: L67#9
-  lessons:
-  - 67
-  directions:
-  - en_es
-  - es_en
-- id: l67-007
-  type: transformation
-  tier: primary
-  front_en: I know (with accent)
-  back_es: sé
-  hint: accent · vs *se* (himself / le→se)
-  rule_ref: L67#9
-  lessons:
-  - 67
-  directions:
-  - en_es
-  - es_en
-- id: l67-008
-  type: transformation
-  tier: primary
-  front_en: himself / herself (no accent)
-  back_es: se
-  hint: no accent · also from le → se
-  rule_ref: L67#9
-  lessons:
-  - 67
-  directions:
-  - en_es
-  - es_en
-- id: l67-009
+- id: L67-009
   type: transformation
   tier: primary
   front_en: where? (question)
@@ -1021,7 +925,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l67-010
+- id: L67-010
   type: transformation
   tier: primary
   front_en: where (non-question)
@@ -1033,7 +937,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l67-011
+- id: L67-011
   type: transformation
   tier: primary
   front_en: how? (question)
@@ -1045,67 +949,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l67-012
-  type: transformation
-  tier: primary
-  front_en: how / like (non-question)
-  back_es: como
-  hint: no accent in non-question
-  rule_ref: L67#10
-  lessons:
-  - 67
-  directions:
-  - en_es
-  - es_en
-- id: l67-013
-  type: transformation
-  tier: primary
-  front_en: when? (question)
-  back_es: cuándo
-  hint: accent in question
-  rule_ref: L67#10
-  lessons:
-  - 67
-  directions:
-  - en_es
-  - es_en
-- id: l67-014
-  type: transformation
-  tier: primary
-  front_en: when (non-question)
-  back_es: cuando
-  hint: no accent in non-question
-  rule_ref: L67#10
-  lessons:
-  - 67
-  directions:
-  - en_es
-  - es_en
-- id: l67-015
-  type: transformation
-  tier: primary
-  front_en: how much? (question)
-  back_es: cuánto
-  hint: accent in question
-  rule_ref: L67#10
-  lessons:
-  - 67
-  directions:
-  - en_es
-  - es_en
-- id: l67-016
-  type: transformation
-  tier: primary
-  front_en: as much as (non-question)
-  back_es: cuanto
-  hint: no accent in non-question
-  rule_ref: L67#10
-  lessons:
-  - 67
-  directions:
-  - en_es
-  - es_en
-- id: l67-017
+- id: L67-017
   type: transformation
   tier: primary
   front_en: tradition
@@ -1117,19 +961,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l67-018
-  type: transformation
-  tier: primary
-  front_en: division
-  back_es: división
-  hint: ends in n, stress at end → accent
-  rule_ref: L67#7
-  lessons:
-  - 67
-  directions:
-  - en_es
-  - es_en
-- id: l67-019
+- id: L67-019
   type: transformation
   tier: primary
   front_en: lesson
@@ -1141,7 +973,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l67-020
+- id: L67-020
   type: transformation
   tier: primary
   front_en: lemon
@@ -1153,7 +985,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l67-021
+- id: L67-021
   type: transformation
   tier: primary
   front_en: to find (infinitive)
@@ -1165,7 +997,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l67-022
+- id: L67-022
   type: transformation
   tier: primary
   front_en: addictive
@@ -1177,7 +1009,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l67-023
+- id: L67-023
   type: sentence
   tier: primary
   front_en: It's for me. (with accent)
@@ -1189,7 +1021,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l67-024
+- id: L67-024
   type: sentence
   tier: primary
   front_en: My house.
@@ -1201,7 +1033,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l67-025
+- id: L67-025
   type: sentence
   tier: primary
   front_en: Your house.
@@ -1213,31 +1045,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l67-026
-  type: sentence
-  tier: primary
-  front_en: Yes, I want it.
-  back_es: Sí lo quiero.
-  hint: yes-word takes accent · vs *si* (if)
-  rule_ref: L67#9
-  lessons:
-  - 67
-  directions:
-  - en_es
-  - es_en
-- id: l67-027
-  type: sentence
-  tier: primary
-  front_en: If I want it…
-  back_es: Si lo quiero…
-  hint: if-word takes no accent
-  rule_ref: L67#9
-  lessons:
-  - 67
-  directions:
-  - en_es
-  - es_en
-- id: l67-028
+- id: L67-028
   type: sentence
   tier: primary
   front_en: Where did he respond?
@@ -1249,87 +1057,51 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l64-029
-  type: transformation
-  tier: extended
-  front_en: three weeks ago
-  back_es: hace tres semanas
-  hint: hace + count + time
-  rule_ref: L64#1
-  lessons:
-  - 64
-  directions:
-  - en_es
-  - es_en
-- id: l64-030
-  type: transformation
-  tier: extended
-  front_en: five months ago
-  back_es: hace cinco meses
-  hint: meses pl · masculine
-  rule_ref: L64#1, L64#5
-  lessons:
-  - 64
-  directions:
-  - en_es
-  - es_en
-- id: l64-031
-  type: transformation
-  tier: extended
-  front_en: a week ago
-  back_es: hace una semana
-  hint: semana is feminine → una
-  rule_ref: L64#1
-  lessons:
-  - 64
-  directions:
-  - en_es
-  - es_en
-- id: l64-032
+- id: L64-032
   type: conjugation
   tier: extended
   front_en: past-point you-informal form of trabajar
   back_es: trabajaste
-  hint: -ar → -aste · /j/ = /h/
+  hint: work (past) · -ar → -aste · /j/ = /h/
   rule_ref: L64#7
   lessons:
   - 64
   directions:
   - en_es
-- id: l64-033
+- id: L64-033
   type: conjugation
   tier: extended
   front_en: past-point they form of trabajar
   back_es: trabajaron
-  hint: -ar → -aron
+  hint: work (past) · -ar → -aron
   rule_ref: L64#8
   lessons:
   - 64
   directions:
   - en_es
-- id: l64-034
+- id: L64-034
   type: conjugation
   tier: extended
   front_en: past-point you-informal form of preparar
   back_es: preparaste
-  hint: -ar → -aste
+  hint: prepare (past) · -ar → -aste
   rule_ref: L64#7
   lessons:
   - 64
   directions:
   - en_es
-- id: l64-035
+- id: L64-035
   type: conjugation
   tier: extended
   front_en: past-point they form of vivir
   back_es: vivieron
-  hint: -ir → -ieron
+  hint: live (past) · -ir → -ieron
   rule_ref: L64#8
   lessons:
   - 64
   directions:
   - en_es
-- id: l64-036
+- id: L64-036
   type: sentence
   tier: extended
   front_en: I saw her three weeks ago.
@@ -1341,7 +1113,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l64-037
+- id: L64-037
   type: sentence
   tier: extended
   front_en: They sold the car five months ago.
@@ -1353,7 +1125,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l64-038
+- id: L64-038
   type: sentence
   tier: extended
   front_en: Did you respond to her last night?
@@ -1365,19 +1137,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l64-039
-  type: sentence
-  tier: extended
-  front_en: Why didn't you wait for me?
-  back_es: ¿Por qué no me esperaste?
-  hint: por qué + no + you-informal past
-  rule_ref: L64#7
-  lessons:
-  - 64
-  directions:
-  - en_es
-  - es_en
-- id: l64-040
+- id: L64-040
   type: sentence
   tier: extended
   front_en: They prepared it.
@@ -1389,29 +1149,29 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-028
+- id: L65-028
   type: conjugation
   tier: extended
   front_en: past-point we form of ver
   back_es: vimos
-  hint: -imos · short stem
+  hint: see (past) · -imos · short stem
   rule_ref: L65#4
   lessons:
   - 65
   directions:
   - en_es
-- id: l65-029
+- id: L65-029
   type: conjugation
   tier: extended
   front_en: past-point I form of encontrar
   back_es: encontré
-  hint: -é (accent) for I
+  hint: find (past) · -é (accent) for I
   rule_ref: L65#21
   lessons:
   - 65
   directions:
   - en_es
-- id: l65-030
+- id: L65-030
   type: sentence
   tier: extended
   front_en: I saw him once.
@@ -1423,7 +1183,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-031
+- id: L65-031
   type: sentence
   tier: extended
   front_en: I want to see them one more time.
@@ -1435,7 +1195,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-032
+- id: L65-032
   type: sentence
   tier: extended
   front_en: Did you go out to dance again?
@@ -1447,7 +1207,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-033
+- id: L65-033
   type: sentence
   tier: extended
   front_en: Did you arrive late again?
@@ -1459,7 +1219,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-034
+- id: L65-034
   type: sentence
   tier: extended
   front_en: Everybody arrived at my house at the same time.
@@ -1471,7 +1231,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-035
+- id: L65-035
   type: sentence
   tier: extended
   front_en: Did you visit our house?
@@ -1483,7 +1243,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-036
+- id: L65-036
   type: sentence
   tier: extended
   front_en: We are with our friends. (fem)
@@ -1495,7 +1255,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-037
+- id: L65-037
   type: sentence
   tier: extended
   front_en: I am with my friends.
@@ -1507,7 +1267,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l65-038
+- id: L65-038
   type: sentence
   tier: extended
   front_en: She arrived late at my house again.
@@ -1519,7 +1279,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l66-023
+- id: L66-023
   type: sentence
   tier: extended
   front_en: His leg hurts.
@@ -1531,67 +1291,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l66-024
-  type: sentence
-  tier: extended
-  front_en: Your head hurts.
-  back_es: Te duele la cabeza.
-  hint: te carries the owner · skip *tu*
-  rule_ref: L66#1, L66#2
-  lessons:
-  - 66
-  directions:
-  - en_es
-  - es_en
-- id: l66-025
-  type: sentence
-  tier: extended
-  front_en: My eyes hurt.
-  back_es: Me duelen los ojos.
-  hint: plural body part → -en
-  rule_ref: L66#1, L66#3
-  lessons:
-  - 66
-  directions:
-  - en_es
-  - es_en
-- id: l66-026
-  type: sentence
-  tier: extended
-  front_en: I had a headache last night.
-  back_es: Tenía dolor de cabeza anoche.
-  hint: line-past + last-night
-  rule_ref: L66#6
-  lessons:
-  - 66
-  directions:
-  - en_es
-  - es_en
-- id: l66-027
-  type: sentence
-  tier: extended
-  front_en: We're going to María's house.
-  back_es: Vamos a la casa de María.
-  hint: the-Y-of-X
-  rule_ref: L66#7
-  lessons:
-  - 66
-  directions:
-  - en_es
-  - es_en
-- id: l66-028
-  type: sentence
-  tier: extended
-  front_en: At José's party I only spoke with you.
-  back_es: En la fiesta de José solo hablé contigo.
-  hint: X's party → the-party-of-X · solo+I-past
-  rule_ref: L66#7, L66#8
-  lessons:
-  - 66
-  directions:
-  - en_es
-  - es_en
-- id: l66-029
+- id: L66-029
   type: sentence
   tier: extended
   front_en: I didn't speak with anybody else.
@@ -1603,7 +1303,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l66-030
+- id: L66-030
   type: sentence
   tier: extended
   front_en: They only arrived at our house.
@@ -1615,55 +1315,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l66-031
-  type: sentence
-  tier: extended
-  front_en: Does your head hurt?
-  back_es: ¿Te duele la cabeza?
-  hint: question marks + te-duele
-  rule_ref: L66#1
-  lessons:
-  - 66
-  directions:
-  - en_es
-  - es_en
-- id: l66-032
-  type: sentence
-  tier: extended
-  front_en: Her leg doesn't hurt anymore.
-  back_es: No le duele la pierna más.
-  hint: le + doesn't-hurt + anymore
-  rule_ref: L66#1, L66#4
-  lessons:
-  - 66
-  directions:
-  - en_es
-  - es_en
-- id: l67-029
-  type: sentence
-  tier: extended
-  front_en: For me, it's important.
-  back_es: Para mí, es importante.
-  hint: prep + accented mí
-  rule_ref: L67#9
-  lessons:
-  - 67
-  directions:
-  - en_es
-  - es_en
-- id: l67-030
-  type: sentence
-  tier: extended
-  front_en: I know where he lives.
-  back_es: Sé dónde vive.
-  hint: I-know (accent) + question-like word (accent)
-  rule_ref: L67#9, L67#10
-  lessons:
-  - 67
-  directions:
-  - en_es
-  - es_en
-- id: l67-031
+- id: L67-031
   type: sentence
   tier: extended
   front_en: He lived there.
@@ -1675,7 +1327,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l67-032
+- id: L67-032
   type: sentence
   tier: extended
   front_en: She arrived late.
@@ -1687,7 +1339,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l67-033
+- id: L67-033
   type: sentence
   tier: extended
   front_en: I spoke yesterday.
@@ -1699,19 +1351,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l67-034
-  type: sentence
-  tier: extended
-  front_en: She found it.
-  back_es: Lo encontró.
-  hint: -ó stressed end → accent
-  rule_ref: L67#7
-  lessons:
-  - 67
-  directions:
-  - en_es
-  - es_en
-- id: l67-035
+- id: L67-035
   type: sentence
   tier: extended
   front_en: How is she?
@@ -1723,7 +1363,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l67-036
+- id: L67-036
   type: sentence
   tier: extended
   front_en: When did they arrive?
@@ -1735,49 +1375,13 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l67-037
-  type: sentence
-  tier: extended
-  front_en: How much do you want?
-  back_es: ¿Cuánto quieres?
-  hint: question word accent
-  rule_ref: L67#10
-  lessons:
-  - 67
-  directions:
-  - en_es
-  - es_en
-- id: l67-038
+- id: L67-038
   type: transformation
   tier: extended
   front_en: concentration
   back_es: concentración
   hint: -ción · ends in n, stress at end → accent
   rule_ref: L67#2, L67#7
-  lessons:
-  - 67
-  directions:
-  - en_es
-  - es_en
-- id: l67-039
-  type: sentence
-  tier: extended
-  front_en: I know it.
-  back_es: Lo sé.
-  hint: I-know form takes accent · vs *se*
-  rule_ref: L67#9
-  lessons:
-  - 67
-  directions:
-  - en_es
-  - es_en
-- id: l67-040
-  type: sentence
-  tier: extended
-  front_en: He responded it to her. (le + lo → se lo)
-  back_es: Se lo respondió.
-  hint: no accent on se-word · le→se
-  rule_ref: L67#9
   lessons:
   - 67
   directions:

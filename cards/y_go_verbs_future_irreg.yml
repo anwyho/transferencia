@@ -1,56 +1,56 @@
 bundle: Y
-title: 'Go-verbs + future contractions + irreg point-past start: tengo→tenga, tendré, tuve'
+title: 'Bundle Y Go-Verbs + Future Contractions (L84-87)'
 lessons:
 - 84
 - 85
 - 86
 - 87
 cards:
-- id: l84-004
+- id: L84-004
   type: conjugation
   tier: primary
   front_en: I form of decir
   back_es: digo
-  hint: -go family · stem also vowel-shifts
+  hint: to say · -go family · stem also vowel-shifts
   rule_ref: L84#2, L84#7
   lessons:
   - 84
   directions:
   - en_es
-- id: l84-005
+- id: L84-005
   type: conjugation
   tier: primary
   front_en: I form of oír
   back_es: oigo
-  hint: -go family · extra i before -go
+  hint: to hear · -go family · extra i before -go
   rule_ref: L84#2, L84#9
   lessons:
   - 84
   directions:
   - en_es
-- id: l84-006
+- id: L84-006
   type: conjugation
   tier: primary
   front_en: I form of traer
   back_es: traigo
-  hint: -go family · extra i before -go
+  hint: to bring · -go family · extra i before -go
   rule_ref: L84#2, L84#10
   lessons:
   - 84
   directions:
   - en_es
-- id: l84-007
+- id: L84-007
   type: conjugation
   tier: extended
   front_en: you (inf.) form of tener
   back_es: tienes
-  hint: only I-form is -go · vowel-split elsewhere
+  hint: to have · only I-form is -go · vowel-split elsewhere
   rule_ref: L84#3
   lessons:
   - 84
   directions:
   - en_es
-- id: l84-011
+- id: L84-011
   type: transformation
   tier: primary
   front_en: to extract
@@ -62,7 +62,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l84-012
+- id: L84-012
   type: transformation
   tier: primary
   front_en: to attract
@@ -74,7 +74,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l84-013
+- id: L84-013
   type: transformation
   tier: primary
   front_en: to contract
@@ -86,19 +86,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l84-014
-  type: transformation
-  tier: primary
-  front_en: to distract
-  back_es: distraer
-  hint: dis- + traer → -tract
-  rule_ref: L84#11
-  lessons:
-  - 84
-  directions:
-  - en_es
-  - es_en
-- id: l84-015
+- id: L84-015
   type: transformation
   tier: primary
   front_en: I get distracted
@@ -110,117 +98,117 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l84-016
+- id: L84-016
   type: conjugation
   tier: primary
   front_en: mood I/he/she form of tener
   back_es: tenga
-  hint: -go → -ga · spreads to all persons
+  hint: have (subj.) · -go → -ga · spreads to all persons
   rule_ref: L84#12
   lessons:
   - 84
   directions:
   - en_es
-- id: l84-017
+- id: L84-017
   type: conjugation
   tier: primary
   front_en: mood you (inf.) form of tener
   back_es: tengas
-  hint: -ga base + -s
+  hint: have (subj.) · -ga base + -s
   rule_ref: L84#12
   lessons:
   - 84
   directions:
   - en_es
-- id: l84-018
+- id: L84-018
   type: conjugation
   tier: primary
   front_en: mood we form of tener
   back_es: tengamos
-  hint: -ga base + -mos
+  hint: have (subj.) · -ga base + -mos
   rule_ref: L84#12
   lessons:
   - 84
   directions:
   - en_es
-- id: l84-019
+- id: L84-019
   type: conjugation
   tier: primary
   front_en: mood I/he/she form of venir
   back_es: venga
-  hint: go → -ga · ... vale hook
+  hint: come (subj.) · -go → -ga · *venga vale* hook
   rule_ref: L84#12, L84#13
   lessons:
   - 84
   directions:
   - en_es
-- id: l84-020
+- id: L84-020
   type: conjugation
   tier: primary
   front_en: mood you (inf.) form of venir
   back_es: vengas
-  hint: -ga + -s
+  hint: come (subj.) · -ga + -s
   rule_ref: L84#12
   lessons:
   - 84
   directions:
   - en_es
-- id: l84-021
+- id: L84-021
   type: conjugation
   tier: primary
   front_en: mood I/he/she form of poner
   back_es: ponga
-  hint: -go → -ga
+  hint: put (subj.) · -go → -ga
   rule_ref: L84#12
   lessons:
   - 84
   directions:
   - en_es
-- id: l84-022
+- id: L84-022
   type: conjugation
   tier: primary
   front_en: mood I/he/she form of decir
   back_es: diga
-  hint: -go → -ga · phone-answer hook
+  hint: say (subj.) · -go → -ga · phone-answer hook
   rule_ref: L84#12, L84#14
   lessons:
   - 84
   directions:
   - en_es
-- id: l84-023
+- id: L84-023
   type: conjugation
   tier: primary
   front_en: mood I/he/she form of hacer
   back_es: haga
-  hint: -go → -ga · silent h
+  hint: do (subj.) · -go → -ga · silent h
   rule_ref: L84#12
   lessons:
   - 84
   directions:
   - en_es
-- id: l84-024
+- id: L84-024
   type: conjugation
   tier: extended
   front_en: mood I/he/she form of traer
   back_es: traiga
-  hint: -igo → -iga
+  hint: bring (subj.) · -igo → -iga
   rule_ref: L84#12
   lessons:
   - 84
   directions:
   - en_es
-- id: l84-025
+- id: L84-025
   type: conjugation
   tier: extended
   front_en: mood you (inf.) form of traer
   back_es: traigas
-  hint: -iga + -s
+  hint: bring (subj.) · -iga + -s
   rule_ref: L84#12
   lessons:
   - 84
   directions:
   - en_es
-- id: l84-026
+- id: L84-026
   type: sentence
   tier: primary
   front_en: I want you to come.
@@ -232,7 +220,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l84-027
+- id: L84-027
   type: sentence
   tier: primary
   front_en: I want you to bring it.
@@ -244,7 +232,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l84-028
+- id: L84-028
   type: sentence
   tier: primary
   front_en: I don't want you to distract me.
@@ -256,7 +244,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l84-029
+- id: L84-029
   type: sentence
   tier: primary
   front_en: Tell me. (formal)
@@ -268,7 +256,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l84-030
+- id: L84-030
   type: sentence
   tier: primary
   front_en: Come on, ok.
@@ -280,177 +268,117 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l84-031
-  type: sentence
-  tier: primary
-  front_en: I want you to do it.
-  back_es: Quiero que lo hagas.
-  hint: quiero que + mood
-  rule_ref: L84#16, L84#12
-  lessons:
-  - 84
-  directions:
-  - en_es
-  - es_en
-- id: l84-032
-  type: sentence
-  tier: primary
-  front_en: I want you to put it here.
-  back_es: Quiero que lo pongas aquí.
-  hint: quiero que + mood
-  rule_ref: L84#16, L84#12
-  lessons:
-  - 84
-  directions:
-  - en_es
-  - es_en
-- id: l84-033
+- id: L84-033
   type: conjugation
   tier: extended
   front_en: mood we form of poner
   back_es: pongamos
-  hint: -ga + -mos
+  hint: put (subj.) · -ga + -mos
   rule_ref: L84#12
   lessons:
   - 84
   directions:
   - en_es
-- id: l84-034
+- id: L84-034
   type: conjugation
   tier: extended
   front_en: mood they form of hacer
   back_es: hagan
-  hint: -ga + -n
+  hint: do (subj.) · -ga + -n
   rule_ref: L84#12
   lessons:
   - 84
   directions:
   - en_es
-- id: l84-035
+- id: L84-035
   type: conjugation
   tier: extended
   front_en: mood I/he/she form of oír
   back_es: oiga
-  hint: -igo → -iga
+  hint: hear (subj.) · -igo → -iga
   rule_ref: L84#12
   lessons:
   - 84
   directions:
   - en_es
-- id: l84-036
-  type: sentence
-  tier: extended
-  front_en: I want you to say it.
-  back_es: Quiero que lo digas.
-  hint: quiero que + mood
-  rule_ref: L84#16, L84#12
-  lessons:
-  - 84
-  directions:
-  - en_es
-  - es_en
-- id: l84-037
-  type: sentence
-  tier: extended
-  front_en: I want you to leave.
-  back_es: Quiero que salgas.
-  hint: quiero que + mood
-  rule_ref: L84#16, L84#12
-  lessons:
-  - 84
-  directions:
-  - en_es
-  - es_en
-- id: l84-038
-  type: sentence
-  tier: extended
-  front_en: She wants me to come.
-  back_es: Quiere que venga.
-  hint: -ga covers I/she
-  rule_ref: L84#16, L84#12
-  lessons:
-  - 84
-  directions:
-  - en_es
-  - es_en
-- id: l85-001
+- id: L85-001
   type: conjugation
   tier: primary
   front_en: informal command of tener
   back_es: ten
-  hint: drop -go off the I-form
+  hint: to have · drop -go off the I-form
   rule_ref: L85#4
   lessons:
   - 85
   directions:
   - en_es
-- id: l85-002
+- id: L85-002
   type: conjugation
   tier: primary
   front_en: informal command of salir
   back_es: sal
-  hint: drop -go off the I-form
+  hint: to leave · drop -go off the I-form
   rule_ref: L85#4
   lessons:
   - 85
   directions:
   - en_es
-- id: l85-003
+- id: L85-003
   type: conjugation
   tier: primary
   front_en: informal command of venir
   back_es: ven
-  hint: drop -go off the I-form
+  hint: to come · drop -go off the I-form
   rule_ref: L85#4
   lessons:
   - 85
   directions:
   - en_es
-- id: l85-004
+- id: L85-004
   type: conjugation
   tier: primary
   front_en: informal command of decir
   back_es: di
-  hint: drop -go off the I-form
+  hint: to say · drop -go off the I-form
   rule_ref: L85#4
   lessons:
   - 85
   directions:
   - en_es
-- id: l85-005
+- id: L85-005
   type: conjugation
   tier: primary
   front_en: informal command of poner
   back_es: pon
-  hint: drop -go off the I-form
+  hint: to put · drop -go off the I-form
   rule_ref: L85#4
   lessons:
   - 85
   directions:
   - en_es
-- id: l85-006
+- id: L85-006
   type: conjugation
   tier: primary
   front_en: formal command of salir
   back_es: salga
-  hint: formal cmd = mood -ga
+  hint: to leave · formal cmd = mood -ga
   rule_ref: L85#1
   lessons:
   - 85
   directions:
   - en_es
-- id: l85-007
+- id: L85-007
   type: conjugation
   tier: extended
   front_en: formal plural command of salir
   back_es: salgan
-  hint: -ga + -n for formal plural
+  hint: to leave · -ga + -n for formal plural
   rule_ref: L85#1
   lessons:
   - 85
   directions:
   - en_es
-- id: l85-010
+- id: L85-010
   type: sentence
   tier: primary
   front_en: Have it. (informal)
@@ -462,7 +390,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l85-011
+- id: L85-011
   type: sentence
   tier: primary
   front_en: Have it. (formal)
@@ -474,7 +402,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l85-012
+- id: L85-012
   type: sentence
   tier: primary
   front_en: Tell me. (informal)
@@ -486,7 +414,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l85-013
+- id: L85-013
   type: sentence
   tier: primary
   front_en: Put it here. (formal)
@@ -498,7 +426,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l85-014
+- id: L85-014
   type: sentence
   tier: primary
   front_en: Don't put it here. (formal)
@@ -510,19 +438,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l85-015
-  type: sentence
-  tier: primary
-  front_en: Don't leave. (formal plural)
-  back_es: No salgan.
-  hint: negative cmd → mood form
-  rule_ref: L85#1
-  lessons:
-  - 85
-  directions:
-  - en_es
-  - es_en
-- id: l85-016
+- id: L85-016
   type: sentence
   tier: primary
   front_en: Leave. (informal)
@@ -534,19 +450,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l85-017
-  type: sentence
-  tier: primary
-  front_en: Come. (informal)
-  back_es: Ven.
-  hint: drop -go off I-form
-  rule_ref: L85#4
-  lessons:
-  - 85
-  directions:
-  - en_es
-  - es_en
-- id: l85-018
+- id: L85-018
   type: sentence
   tier: primary
   front_en: Tell me when you come.
@@ -558,125 +462,29 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l85-020
-  type: sentence
-  tier: primary
-  front_en: Put it. (informal)
-  back_es: Ponlo.
-  hint: drop -go + attached pronoun
-  rule_ref: L85#4, L85#2
-  lessons:
-  - 85
-  directions:
-  - en_es
-  - es_en
-- id: l85-021
-  type: sentence
-  tier: primary
-  front_en: Tell it to me. (informal)
-  back_es: Dímelo.
-  hint: drop -go + me + lo · accent on í
-  rule_ref: L85#4, L85#2
-  lessons:
-  - 85
-  directions:
-  - en_es
-  - es_en
-- id: l85-022
-  type: sentence
-  tier: primary
-  front_en: Don't tell me. (informal)
-  back_es: No me digas.
-  hint: negative cmd → mood + pronoun before
-  rule_ref: L85#1, L85#2
-  lessons:
-  - 85
-  directions:
-  - en_es
-  - es_en
-- id: l85-023
-  type: sentence
-  tier: primary
-  front_en: Don't tell me. (formal)
-  back_es: No me diga.
-  hint: negative cmd (formal) → mood
-  rule_ref: L85#1, L85#2
-  lessons:
-  - 85
-  directions:
-  - en_es
-  - es_en
-- id: l85-024
-  type: sentence
-  tier: primary
-  front_en: Come here. (informal)
-  back_es: Ven aquí.
-  hint: drop -go + place
-  rule_ref: L85#4
-  lessons:
-  - 85
-  directions:
-  - en_es
-  - es_en
-- id: l85-025
-  type: sentence
-  tier: primary
-  front_en: Don't come. (informal)
-  back_es: No vengas.
-  hint: negative cmd → mood -ga
-  rule_ref: L85#1
-  lessons:
-  - 85
-  directions:
-  - en_es
-  - es_en
-- id: l85-026
-  type: sentence
-  tier: primary
-  front_en: Don't come. (formal)
-  back_es: No venga.
-  hint: negative cmd (formal) → mood
-  rule_ref: L85#1
-  lessons:
-  - 85
-  directions:
-  - en_es
-  - es_en
-- id: l85-027
+- id: L85-027
   type: conjugation
   tier: extended
   front_en: formal command of decir
   back_es: diga
-  hint: formal cmd = mood
+  hint: to say · formal cmd = mood
   rule_ref: L85#1
   lessons:
   - 85
   directions:
   - en_es
-- id: l85-028
+- id: L85-028
   type: conjugation
   tier: extended
   front_en: formal plural command of poner
   back_es: pongan
-  hint: -ga + -n for formal plural
+  hint: to put · -ga + -n for formal plural
   rule_ref: L85#1
   lessons:
   - 85
   directions:
   - en_es
-- id: l85-029
-  type: sentence
-  tier: extended
-  front_en: Don't leave. (informal)
-  back_es: No salgas.
-  hint: negative cmd (informal) → mood
-  rule_ref: L85#1
-  lessons:
-  - 85
-  directions:
-  - en_es
-  - es_en
-- id: l85-030
+- id: L85-030
   type: sentence
   tier: extended
   front_en: Listen to me. (informal)
@@ -688,7 +496,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l85-031
+- id: L85-031
   type: sentence
   tier: extended
   front_en: Bring it. (informal)
@@ -700,19 +508,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l85-032
-  type: sentence
-  tier: extended
-  front_en: Bring it. (formal)
-  back_es: Tráigalo.
-  hint: mood -iga + pronoun + accent
-  rule_ref: L85#1, L85#2
-  lessons:
-  - 85
-  directions:
-  - en_es
-  - es_en
-- id: l85-033
+- id: L85-033
   type: sentence
   tier: extended
   front_en: Tell me when you leave.
@@ -724,7 +520,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l85-034
+- id: L85-034
   type: sentence
   tier: extended
   front_en: Come on, come on.
@@ -736,7 +532,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l86-001
+- id: L86-001
   type: conjugation
   tier: primary
   front_en: I will have (tener)
@@ -747,7 +543,7 @@ cards:
   - 86
   directions:
   - en_es
-- id: l86-002
+- id: L86-002
   type: conjugation
   tier: extended
   front_en: you (inf.) will have (tener)
@@ -758,7 +554,7 @@ cards:
   - 86
   directions:
   - en_es
-- id: l86-003
+- id: L86-003
   type: conjugation
   tier: extended
   front_en: she will have (tener)
@@ -769,7 +565,7 @@ cards:
   - 86
   directions:
   - en_es
-- id: l86-004
+- id: L86-004
   type: conjugation
   tier: primary
   front_en: we will have (tener)
@@ -780,7 +576,7 @@ cards:
   - 86
   directions:
   - en_es
-- id: l86-005
+- id: L86-005
   type: conjugation
   tier: primary
   front_en: they will have (tener)
@@ -791,7 +587,7 @@ cards:
   - 86
   directions:
   - en_es
-- id: l86-006
+- id: L86-006
   type: conjugation
   tier: primary
   front_en: I will come (venir)
@@ -802,7 +598,7 @@ cards:
   - 86
   directions:
   - en_es
-- id: l86-008
+- id: L86-008
   type: conjugation
   tier: primary
   front_en: we will come (venir)
@@ -813,7 +609,7 @@ cards:
   - 86
   directions:
   - en_es
-- id: l86-009
+- id: L86-009
   type: conjugation
   tier: primary
   front_en: I will put (poner)
@@ -824,7 +620,7 @@ cards:
   - 86
   directions:
   - en_es
-- id: l86-010
+- id: L86-010
   type: conjugation
   tier: primary
   front_en: we will put (poner)
@@ -835,7 +631,7 @@ cards:
   - 86
   directions:
   - en_es
-- id: l86-011
+- id: L86-011
   type: conjugation
   tier: primary
   front_en: I will leave (salir)
@@ -846,7 +642,7 @@ cards:
   - 86
   directions:
   - en_es
-- id: l86-012
+- id: L86-012
   type: conjugation
   tier: primary
   front_en: you (inf.) will leave (salir)
@@ -857,7 +653,7 @@ cards:
   - 86
   directions:
   - en_es
-- id: l86-013
+- id: L86-013
   type: conjugation
   tier: primary
   front_en: I will do/make (hacer)
@@ -868,7 +664,7 @@ cards:
   - 86
   directions:
   - en_es
-- id: l86-015
+- id: L86-015
   type: conjugation
   tier: primary
   front_en: they will do/make (hacer)
@@ -879,7 +675,7 @@ cards:
   - 86
   directions:
   - en_es
-- id: l86-016
+- id: L86-016
   type: conjugation
   tier: primary
   front_en: I will say/tell (decir)
@@ -890,7 +686,7 @@ cards:
   - 86
   directions:
   - en_es
-- id: l86-017
+- id: L86-017
   type: conjugation
   tier: primary
   front_en: she will say/tell (decir)
@@ -901,7 +697,7 @@ cards:
   - 86
   directions:
   - en_es
-- id: l86-018
+- id: L86-018
   type: conjugation
   tier: primary
   front_en: I will be able (poder)
@@ -912,7 +708,7 @@ cards:
   - 86
   directions:
   - en_es
-- id: l86-020
+- id: L86-020
   type: conjugation
   tier: primary
   front_en: I would have (tener)
@@ -923,7 +719,7 @@ cards:
   - 86
   directions:
   - en_es
-- id: l86-021
+- id: L86-021
   type: conjugation
   tier: primary
   front_en: I would come (venir)
@@ -934,7 +730,7 @@ cards:
   - 86
   directions:
   - en_es
-- id: l86-022
+- id: L86-022
   type: conjugation
   tier: primary
   front_en: we would come (venir)
@@ -945,7 +741,7 @@ cards:
   - 86
   directions:
   - en_es
-- id: l86-023
+- id: L86-023
   type: conjugation
   tier: primary
   front_en: I would put (poner)
@@ -956,7 +752,7 @@ cards:
   - 86
   directions:
   - en_es
-- id: l86-024
+- id: L86-024
   type: conjugation
   tier: extended
   front_en: I would leave (salir)
@@ -967,7 +763,7 @@ cards:
   - 86
   directions:
   - en_es
-- id: l86-025
+- id: L86-025
   type: conjugation
   tier: primary
   front_en: you (inf.) would leave (salir)
@@ -978,7 +774,7 @@ cards:
   - 86
   directions:
   - en_es
-- id: l86-026
+- id: L86-026
   type: conjugation
   tier: primary
   front_en: I would do/make (hacer)
@@ -989,7 +785,7 @@ cards:
   - 86
   directions:
   - en_es
-- id: l86-027
+- id: L86-027
   type: conjugation
   tier: primary
   front_en: we would do/make (hacer)
@@ -1000,18 +796,7 @@ cards:
   - 86
   directions:
   - en_es
-- id: l86-028
-  type: conjugation
-  tier: primary
-  front_en: I would say/tell (decir)
-  back_es: diría
-  hint: extra-irregular · -ía
-  rule_ref: L86#10, L86#8
-  lessons:
-  - 86
-  directions:
-  - en_es
-- id: l86-029
+- id: L86-029
   type: sentence
   tier: primary
   front_en: I will put it here.
@@ -1023,7 +808,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l86-030
+- id: L86-030
   type: sentence
   tier: primary
   front_en: I would put it here.
@@ -1035,7 +820,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l86-031
+- id: L86-031
   type: sentence
   tier: primary
   front_en: We will put it here.
@@ -1047,19 +832,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l86-032
-  type: sentence
-  tier: primary
-  front_en: We would put it here.
-  back_es: Lo pondríamos aquí.
-  hint: contraction stem + -íamos
-  rule_ref: L86#6, L86#8
-  lessons:
-  - 86
-  directions:
-  - en_es
-  - es_en
-- id: l86-033
+- id: L86-033
   type: sentence
   tier: primary
   front_en: Will you go out tonight?
@@ -1071,7 +844,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l86-034
+- id: L86-034
   type: sentence
   tier: primary
   front_en: Would you go out tonight?
@@ -1083,7 +856,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l86-035
+- id: L86-035
   type: sentence
   tier: primary
   front_en: Are you going out tonight?
@@ -1095,7 +868,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l86-036
+- id: L86-036
   type: sentence
   tier: primary
   front_en: I'll tell you later.
@@ -1107,7 +880,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l86-037
+- id: L86-037
   type: sentence
   tier: primary
   front_en: I'll tell you later. (present)
@@ -1119,7 +892,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l86-038
+- id: L86-038
   type: sentence
   tier: primary
   front_en: We would do it, but we're busy now.
@@ -1131,7 +904,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l86-039
+- id: L86-039
   type: sentence
   tier: primary
   front_en: We would come later, but no time.
@@ -1143,18 +916,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l86-040
-  type: conjugation
-  tier: extended
-  front_en: you (inf.) would have (tener)
-  back_es: tendrías
-  hint: contraction + -ías
-  rule_ref: L86#4, L86#8
-  lessons:
-  - 86
-  directions:
-  - en_es
-- id: l86-041
+- id: L86-041
   type: conjugation
   tier: extended
   front_en: I will bring (traer)
@@ -1165,7 +927,7 @@ cards:
   - 86
   directions:
   - en_es
-- id: l86-042
+- id: L86-042
   type: conjugation
   tier: extended
   front_en: I will attract (atraer)
@@ -1176,7 +938,7 @@ cards:
   - 86
   directions:
   - en_es
-- id: l86-043
+- id: L86-043
   type: sentence
   tier: extended
   front_en: I will have it tomorrow.
@@ -1188,7 +950,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l86-044
+- id: L86-044
   type: sentence
   tier: extended
   front_en: I will come later.
@@ -1200,7 +962,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l86-045
+- id: L86-045
   type: sentence
   tier: extended
   front_en: She will tell me later.
@@ -1212,19 +974,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l86-046
-  type: sentence
-  tier: extended
-  front_en: They will do it tomorrow.
-  back_es: Lo harán mañana.
-  hint: extra-irreg future
-  rule_ref: L86#10
-  lessons:
-  - 86
-  directions:
-  - en_es
-  - es_en
-- id: l86-047
+- id: L86-047
   type: sentence
   tier: extended
   front_en: I will be able tomorrow.
@@ -1236,7 +986,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l86-048
+- id: L86-048
   type: sentence
   tier: extended
   front_en: We will be able later.
@@ -1248,7 +998,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l86-049
+- id: L86-049
   type: sentence
   tier: extended
   front_en: I will bring it tomorrow.
@@ -1260,150 +1010,150 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l87-004
+- id: L87-004
   type: conjugation
   tier: primary
   front_en: line-past they form of ser
   back_es: eran
-  hint: era + -n
+  hint: be (was -ing) · era + -n
   rule_ref: L87#2
   lessons:
   - 87
   directions:
   - en_es
-- id: l87-008
+- id: L87-008
   type: conjugation
   tier: primary
   front_en: line-past they form of ir
   back_es: iban
-  hint: iba + -n
+  hint: go (was -ing) · iba + -n
   rule_ref: L87#3
   lessons:
   - 87
   directions:
   - en_es
-- id: l87-011
+- id: L87-011
   type: conjugation
   tier: extended
   front_en: line-past they form of ver
   back_es: veían
-  hint: extra e + -ían
+  hint: see (was -ing) · extra e + -ían
   rule_ref: L87#4
   lessons:
   - 87
   directions:
   - en_es
-- id: l87-012
+- id: L87-012
   type: conjugation
   tier: primary
   front_en: point-past I form of tener
   back_es: tuve
-  hint: root tuv- · -e ending (no accent)
+  hint: have (past) · root tuv- · -e ending (no accent)
   rule_ref: L87#5, L87#7
   lessons:
   - 87
   directions:
   - en_es
-- id: l87-014
+- id: L87-014
   type: conjugation
   tier: primary
   front_en: point-past she form of tener
   back_es: tuvo
-  hint: tuv- + -o (no accent)
+  hint: have (past) · tuv- + -o (no accent)
   rule_ref: L87#7
   lessons:
   - 87
   directions:
   - en_es
-- id: l87-015
+- id: L87-015
   type: conjugation
   tier: primary
   front_en: point-past we form of tener
   back_es: tuvimos
-  hint: tuv- + -imos
+  hint: have (past) · tuv- + -imos
   rule_ref: L87#7
   lessons:
   - 87
   directions:
   - en_es
-- id: l87-016
+- id: L87-016
   type: conjugation
   tier: primary
   front_en: point-past they form of tener
   back_es: tuvieron
-  hint: tuv- + -ieron
+  hint: have (past) · tuv- + -ieron
   rule_ref: L87#7
   lessons:
   - 87
   directions:
   - en_es
-- id: l87-017
+- id: L87-017
   type: conjugation
   tier: primary
   front_en: point-past I form of estar
   back_es: estuve
-  hint: root estuv- · pair with tuve
+  hint: be (past) · root estuv- · pair with tuve
   rule_ref: L87#8
   lessons:
   - 87
   directions:
   - en_es
-- id: l87-021
+- id: L87-021
   type: conjugation
   tier: primary
   front_en: point-past they form of estar
   back_es: estuvieron
-  hint: estuv- + -ieron
+  hint: be (past) · estuv- + -ieron
   rule_ref: L87#8
   lessons:
   - 87
   directions:
   - en_es
-- id: l87-022
+- id: L87-022
   type: conjugation
   tier: primary
   front_en: point-past I form of decir
   back_es: dije
-  hint: root dij- · -e (no accent)
+  hint: say (past) · root dij- · -e (no accent)
   rule_ref: L87#11
   lessons:
   - 87
   directions:
   - en_es
-- id: l87-023
+- id: L87-023
   type: conjugation
   tier: primary
   front_en: point-past she form of decir
   back_es: dijo
-  hint: root dij- · -o (no accent)
+  hint: say (past) · root dij- · -o (no accent)
   rule_ref: L87#11
   lessons:
   - 87
   directions:
   - en_es
-- id: l87-025
+- id: L87-025
   type: conjugation
   tier: primary
   front_en: point-past they form of poder
   back_es: pudieron
-  hint: root pud- · model for the family
+  hint: be able (past) · root pud- · model for the family
   rule_ref: L87#5
   lessons:
   - 87
   directions:
   - en_es
-- id: l87-026
+- id: L87-026
   type: conjugation
   tier: primary
   front_en: point-past I form of poder
   back_es: pude
-  hint: root pud- · -e (no accent)
+  hint: be able (past) · root pud- · -e (no accent)
   rule_ref: L87#5
   lessons:
   - 87
   directions:
   - en_es
-- id: l87-027
+- id: L87-027
   type: sentence
   tier: primary
   front_en: Where were you? (point)
@@ -1415,7 +1165,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l87-028
+- id: L87-028
   type: sentence
   tier: primary
   front_en: Where were you all? (point)
@@ -1427,7 +1177,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l87-029
+- id: L87-029
   type: sentence
   tier: primary
   front_en: Where were you? (line)
@@ -1439,7 +1189,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l87-030
+- id: L87-030
   type: sentence
   tier: primary
   front_en: I wasn't there. (point)
@@ -1451,7 +1201,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l87-031
+- id: L87-031
   type: sentence
   tier: primary
   front_en: I had to go. (point)
@@ -1463,7 +1213,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l87-032
+- id: L87-032
   type: sentence
   tier: primary
   front_en: I had to go. (line)
@@ -1475,30 +1225,18 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l87-033
+- id: L87-033
   type: conjugation
   tier: extended
   front_en: line-past I/he/she form of hablar
   back_es: hablaba
-  hint: line-past super regular · -ar → -aba
+  hint: speak (was -ing) · line-past super regular · -ar → -aba
   rule_ref: L87#1
   lessons:
   - 87
   directions:
   - en_es
-- id: l87-037
-  type: sentence
-  tier: extended
-  front_en: We were there. (point)
-  back_es: Estuvimos allí.
-  hint: estuv- + -imos
-  rule_ref: L87#8
-  lessons:
-  - 87
-  directions:
-  - en_es
-  - es_en
-- id: l87-038
+- id: L87-038
   type: sentence
   tier: extended
   front_en: I had a problem. (point)
@@ -1510,7 +1248,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l87-039
+- id: L87-039
   type: sentence
   tier: extended
   front_en: She told me yesterday.
@@ -1522,7 +1260,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l87-040
+- id: L87-040
   type: sentence
   tier: extended
   front_en: I told you yesterday.
@@ -1534,7 +1272,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l87-041
+- id: L87-041
   type: sentence
   tier: extended
   front_en: I couldn't do it. (point)
@@ -1546,7 +1284,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l87-042
+- id: L87-042
   type: sentence
   tier: extended
   front_en: He used to go there.
@@ -1558,7 +1296,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l87-043
+- id: L87-043
   type: sentence
   tier: extended
   front_en: We used to see her.
@@ -1570,7 +1308,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l87-044
+- id: L87-044
   type: sentence
   tier: extended
   front_en: It was different.
@@ -1582,7 +1320,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l87-045
+- id: L87-045
   type: sentence
   tier: extended
   front_en: We were friends.

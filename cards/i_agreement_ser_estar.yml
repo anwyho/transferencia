@@ -1,11 +1,11 @@
 bundle: I
-title: 'Full agreement + ser/estar split: -o/-a, -os/-as, -es, son, estoy/estás'
+title: 'Bundle I Agreement + Ser/Estar (L28-30)'
 lessons:
 - 28
 - 29
 - 30
 cards:
-- id: l28-001
+- id: L28-001
   type: transformation
   tier: primary
   front_en: car (standard, masc)
@@ -17,19 +17,19 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-002
+- id: L28-002
   type: transformation
   tier: primary
   front_en: car (machine sense, fem)
   back_es: máquina
-  hint: '*la ...* — feminine'
+  hint: '*la máquina* — feminine'
   rule_ref: L28#1, L28#6
   lessons:
   - 28
   directions:
   - en_es
   - es_en
-- id: l28-003
+- id: L28-003
   type: transformation
   tier: primary
   front_en: money
@@ -41,7 +41,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-004
+- id: L28-004
   type: transformation
   tier: primary
   front_en: expensive (m)
@@ -53,7 +53,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-005
+- id: L28-005
   type: transformation
   tier: primary
   front_en: expensive (f)
@@ -65,7 +65,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-006
+- id: L28-006
   type: transformation
   tier: primary
   front_en: expensive (m, plural)
@@ -77,7 +77,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-007
+- id: L28-007
   type: transformation
   tier: primary
   front_en: expensive (f, plural)
@@ -89,7 +89,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-008
+- id: L28-008
   type: transformation
   tier: primary
   front_en: the (m, plural)
@@ -101,7 +101,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-009
+- id: L28-009
   type: transformation
   tier: primary
   front_en: the (f, plural)
@@ -113,7 +113,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-010
+- id: L28-010
   type: transformation
   tier: primary
   front_en: they are / you guys are
@@ -125,7 +125,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-011
+- id: L28-011
   type: transformation
   tier: primary
   front_en: teacher (male)
@@ -137,7 +137,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-012
+- id: L28-012
   type: transformation
   tier: primary
   front_en: teacher (female)
@@ -149,7 +149,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-013
+- id: L28-013
   type: transformation
   tier: primary
   front_en: teachers (m, plural)
@@ -161,7 +161,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-014
+- id: L28-014
   type: transformation
   tier: primary
   front_en: doctor (female)
@@ -173,7 +173,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-015
+- id: L28-015
   type: transformation
   tier: primary
   front_en: doctors (m, plural)
@@ -185,19 +185,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-016
-  type: transformation
-  tier: primary
-  front_en: situation
-  back_es: situación
-  hint: -tion → -ción · accent -ón
-  rule_ref: L28#1
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-017
+- id: L28-017
   type: transformation
   tier: primary
   front_en: global (any gender)
@@ -209,7 +197,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-018
+- id: L28-018
   type: transformation
   tier: primary
   front_en: addictive (m)
@@ -221,7 +209,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-019
+- id: L28-019
   type: transformation
   tier: primary
   front_en: positive (m)
@@ -233,7 +221,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-020
+- id: L28-020
   type: transformation
   tier: primary
   front_en: intuitive (m)
@@ -245,79 +233,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-021
-  type: transformation
-  tier: primary
-  front_en: attractive (m)
-  back_es: atractivo
-  hint: double tt collapses
-  rule_ref: L28#13, L28#18
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-022
-  type: transformation
-  tier: primary
-  front_en: creative (m)
-  back_es: creativo
-  hint: -ive → -ivo
-  rule_ref: L28#13
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-023
-  type: transformation
-  tier: primary
-  front_en: aggressive (m)
-  back_es: agresivo
-  hint: gg & ss collapse
-  rule_ref: L28#13, L28#18
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-024
-  type: transformation
-  tier: primary
-  front_en: negative (m)
-  back_es: negativo
-  hint: -ive → -ivo
-  rule_ref: L28#13
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-025
-  type: transformation
-  tier: primary
-  front_en: intensive
-  back_es: intensivo
-  hint: neuter = masc singular
-  rule_ref: L28#13, L28#14
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-026
-  type: transformation
-  tier: primary
-  front_en: native (m)
-  back_es: nativo
-  hint: -ive → -ivo
-  rule_ref: L28#13
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-027
+- id: L28-027
   type: transformation
   tier: primary
   front_en: connotation
@@ -329,7 +245,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-028
+- id: L28-028
   type: transformation
   tier: primary
   front_en: very
@@ -341,7 +257,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-031
+- id: L28-031
   type: sentence
   tier: primary
   front_en: The car is expensive.
@@ -352,7 +268,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-032
+- id: L28-032
   type: sentence
   tier: primary
   front_en: The machine (car) is expensive.
@@ -364,7 +280,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-033
+- id: L28-033
   type: sentence
   tier: primary
   front_en: The cars are expensive.
@@ -375,7 +291,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-034
+- id: L28-034
   type: sentence
   tier: primary
   front_en: The machines are expensive.
@@ -386,7 +302,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-035
+- id: L28-035
   type: sentence
   tier: primary
   front_en: He is a teacher.
@@ -398,7 +314,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-036
+- id: L28-036
   type: sentence
   tier: primary
   front_en: She is a teacher.
@@ -409,7 +325,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-037
+- id: L28-037
   type: sentence
   tier: primary
   front_en: They (women) are teachers.
@@ -420,7 +336,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-038
+- id: L28-038
   type: sentence
   tier: primary
   front_en: They are teachers (mixed group).
@@ -432,7 +348,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-039
+- id: L28-039
   type: sentence
   tier: primary
   front_en: She is a doctor.
@@ -443,7 +359,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-040
+- id: L28-040
   type: sentence
   tier: primary
   front_en: The global situation.
@@ -455,7 +371,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-041
+- id: L28-041
   type: sentence
   tier: primary
   front_en: It is addictive.
@@ -467,7 +383,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-042
+- id: L28-042
   type: sentence
   tier: primary
   front_en: They (women) are intuitive.
@@ -479,7 +395,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-043
+- id: L28-043
   type: sentence
   tier: primary
   front_en: She is very attractive.
@@ -491,7 +407,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-044
+- id: L28-044
   type: sentence
   tier: primary
   front_en: She is very creative.
@@ -502,7 +418,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-045
+- id: L28-045
   type: sentence
   tier: primary
   front_en: They are aggressive.
@@ -513,18 +429,98 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l28-046
-  type: sentence
-  tier: primary
-  front_en: He is very negative.
-  back_es: Él es muy negativo.
-  rule_ref: L28#17, L28#16, L28#13
+- id: L28-058
+  type: transformation
+  tier: extended
+  front_en: but (single r)
+  back_es: pero
+  hint: single r — vs *perro* (dog)
+  rule_ref: L28#2
   lessons:
   - 28
   directions:
   - en_es
   - es_en
-- id: l29-001
+- id: L28-059
+  type: transformation
+  tier: extended
+  front_en: dog (double r)
+  back_es: perro
+  hint: double r — vs *pero* (but)
+  rule_ref: L28#2
+  lessons:
+  - 28
+  directions:
+  - en_es
+  - es_en
+- id: L28-060
+  type: transformation
+  tier: extended
+  front_en: the dogs
+  back_es: los perros
+  hint: el → los · -o + s
+  rule_ref: L28#3, L28#7
+  lessons:
+  - 28
+  directions:
+  - en_es
+  - es_en
+- id: L28-062
+  type: sentence
+  tier: extended
+  front_en: The dogs are very aggressive.
+  back_es: Los perros son muy agresivos.
+  rule_ref: L28#3, L28#4, L28#16, L28#18
+  lessons:
+  - 28
+  directions:
+  - en_es
+  - es_en
+- id: L28-063
+  type: sentence
+  tier: extended
+  front_en: It's not addictive.
+  back_es: No es adictivo.
+  rule_ref: L28#13, L28#14
+  lessons:
+  - 28
+  directions:
+  - en_es
+  - es_en
+- id: L28-064
+  type: sentence
+  tier: extended
+  front_en: It's very expensive (f).
+  back_es: Es muy cara.
+  rule_ref: L28#16, L28#5, L28#6
+  lessons:
+  - 28
+  directions:
+  - en_es
+  - es_en
+- id: L28-065
+  type: sentence
+  tier: extended
+  front_en: The money is not expensive.
+  back_es: El dinero no es caro.
+  rule_ref: L28#5
+  lessons:
+  - 28
+  directions:
+  - en_es
+  - es_en
+- id: L28-068
+  type: sentence
+  tier: extended
+  front_en: He is creative and very attractive.
+  back_es: Es creativo y muy atractivo.
+  rule_ref: L28#13, L28#16
+  lessons:
+  - 28
+  directions:
+  - en_es
+  - es_en
+- id: L29-001
   type: transformation
   tier: primary
   front_en: a human being
@@ -536,7 +532,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l29-002
+- id: L29-002
   type: transformation
   tier: primary
   front_en: humanity
@@ -548,74 +544,74 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l29-003
+- id: L29-003
   type: transformation
   tier: primary
   front_en: to be (states)
   back_es: estar
-  hint: state-*...* — cousin of *state*
+  hint: for states — cousin of *state*
   rule_ref: L29#1, L29#4
   lessons:
   - 29
   directions:
   - en_es
   - es_en
-- id: l29-004
+- id: L29-004
   type: conjugation
   tier: primary
   front_en: I form of estar
   back_es: estoy
-  hint: -oy like *voy* · stress on -oy
+  hint: to be · -oy like *voy* · stress on -oy
   rule_ref: L29#9
   lessons:
   - 29
   directions:
   - en_es
-- id: l29-005
+- id: L29-005
   type: conjugation
   tier: primary
   front_en: you (inf) form of estar
   back_es: estás
-  hint: accent on -ás
+  hint: to be · accent on -ás
   rule_ref: L29#10
   lessons:
   - 29
   directions:
   - en_es
-- id: l29-006
+- id: L29-006
   type: conjugation
   tier: primary
   front_en: she form of estar
   back_es: está
-  hint: accent on -á
+  hint: to be · accent on -á
   rule_ref: L29#10
   lessons:
   - 29
   directions:
   - en_es
-- id: l29-007
+- id: L29-007
   type: conjugation
   tier: primary
   front_en: we form of estar
   back_es: estamos
-  hint: stress in normal spot
+  hint: to be · stress in normal spot
   rule_ref: L29#10, L29#11
   lessons:
   - 29
   directions:
   - en_es
-- id: l29-008
+- id: L29-008
   type: conjugation
   tier: primary
   front_en: they form of estar
   back_es: están
-  hint: accent on -án
+  hint: to be · accent on -án
   rule_ref: L29#10
   lessons:
   - 29
   directions:
   - en_es
-- id: l29-009
+- id: L29-009
   type: transformation
   tier: primary
   front_en: tired (m)
@@ -627,7 +623,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l29-010
+- id: L29-010
   type: transformation
   tier: primary
   front_en: tired (f)
@@ -639,7 +635,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l29-012
+- id: L29-012
   type: transformation
   tier: primary
   front_en: dead (f)
@@ -651,7 +647,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l29-013
+- id: L29-013
   type: sentence
   tier: primary
   front_en: I am tired (m).
@@ -662,7 +658,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l29-014
+- id: L29-014
   type: sentence
   tier: primary
   front_en: I am tired (f).
@@ -673,7 +669,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l29-015
+- id: L29-015
   type: sentence
   tier: primary
   front_en: You are tired (f).
@@ -684,18 +680,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l29-016
-  type: sentence
-  tier: primary
-  front_en: She is tired.
-  back_es: Está cansada.
-  rule_ref: L29#4, L29#10, L29#12
-  lessons:
-  - 29
-  directions:
-  - en_es
-  - es_en
-- id: l29-017
+- id: L29-017
   type: sentence
   tier: primary
   front_en: We are tired (mixed/men).
@@ -706,7 +691,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l29-018
+- id: L29-018
   type: sentence
   tier: primary
   front_en: We are tired (all women).
@@ -717,7 +702,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l29-019
+- id: L29-019
   type: sentence
   tier: primary
   front_en: They are tired (women).
@@ -728,7 +713,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l29-020
+- id: L29-020
   type: sentence
   tier: primary
   front_en: I am always tired (f).
@@ -739,7 +724,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l29-021
+- id: L29-021
   type: sentence
   tier: primary
   front_en: I am dead (f).
@@ -751,7 +736,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l29-022
+- id: L29-022
   type: sentence
   tier: primary
   front_en: A human being.
@@ -762,7 +747,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l29-023
+- id: L29-023
   type: sentence
   tier: primary
   front_en: He is a doctor.
@@ -774,7 +759,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l29-024
+- id: L29-024
   type: sentence
   tier: primary
   front_en: She is a doctor and she is tired.
@@ -786,7 +771,121 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-001
+- id: L29-025
+  type: transformation
+  tier: extended
+  front_en: reality
+  back_es: realidad
+  hint: -ity → -idad
+  rule_ref: L29#3
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: L29-026
+  type: transformation
+  tier: extended
+  front_en: possibility
+  back_es: posibilidad
+  hint: -ity → -idad · -ible stem
+  rule_ref: L29#3
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: L29-028
+  type: sentence
+  tier: extended
+  front_en: I am always dead (exhausted, f).
+  back_es: Siempre estoy muerta.
+  rule_ref: L29#13, L29#15, L29#9
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: L29-029
+  type: sentence
+  tier: extended
+  front_en: He is a human being.
+  back_es: Es un ser humano.
+  rule_ref: L29#2, L29#3
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: L29-030
+  type: sentence
+  tier: extended
+  front_en: Humanity is creative.
+  back_es: La humanidad es creativa.
+  rule_ref: L29#3, L28#13
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: L29-031
+  type: sentence
+  tier: extended
+  front_en: We are dead (women).
+  back_es: Estamos muertas.
+  rule_ref: L29#11, L29#15
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: L29-032
+  type: sentence
+  tier: extended
+  front_en: They are always tired (men).
+  back_es: Siempre están cansados.
+  rule_ref: L29#13, L29#10, L29#12
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: L29-033
+  type: sentence
+  tier: extended
+  front_en: You (formal) are tired.
+  back_es: Usted está cansado.
+  rule_ref: L29#10, L29#12, L30#8
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: L29-034
+  type: sentence
+  tier: extended
+  front_en: She is intuitive but she is tired.
+  back_es: Es intuitiva pero está cansada.
+  hint: ser characteristic + estar state
+  rule_ref: L29#7, L29#4, L28#13
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: L29-035
+  type: sentence
+  tier: extended
+  front_en: I am always tired (f, alt order).
+  back_es: Estoy cansada siempre.
+  hint: '*siempre* at end — same meaning'
+  rule_ref: L29#14
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: L30-001
   type: transformation
   tier: primary
   front_en: how
@@ -798,7 +897,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-005
+- id: L30-005
   type: transformation
   tier: primary
   front_en: later
@@ -810,7 +909,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-007
+- id: L30-007
   type: transformation
   tier: primary
   front_en: you (informal)
@@ -822,7 +921,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-009
+- id: L30-009
   type: transformation
   tier: primary
   front_en: we (mixed/men)
@@ -834,7 +933,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-010
+- id: L30-010
   type: transformation
   tier: primary
   front_en: we (all women)
@@ -846,7 +945,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-012
+- id: L30-012
   type: transformation
   tier: primary
   front_en: they have / you guys have
@@ -858,7 +957,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-013
+- id: L30-013
   type: transformation
   tier: primary
   front_en: to have to (must)
@@ -870,7 +969,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-014
+- id: L30-014
   type: transformation
   tier: primary
   front_en: to owe / must / probably
@@ -882,7 +981,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-015
+- id: L30-015
   type: transformation
   tier: primary
   front_en: they must / they owe
@@ -894,7 +993,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-016
+- id: L30-016
   type: transformation
   tier: primary
   front_en: to stay (remain oneself)
@@ -906,7 +1005,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-018
+- id: L30-018
   type: sentence
   tier: primary
   front_en: How are you? (informal)
@@ -918,7 +1017,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-019
+- id: L30-019
   type: sentence
   tier: primary
   front_en: How are you guys?
@@ -930,7 +1029,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-020
+- id: L30-020
   type: sentence
   tier: primary
   front_en: Where are you?
@@ -942,7 +1041,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-021
+- id: L30-021
   type: sentence
   tier: primary
   front_en: I don't know where we are.
@@ -954,7 +1053,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-022
+- id: L30-022
   type: sentence
   tier: primary
   front_en: I am here.
@@ -966,7 +1065,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-023
+- id: L30-023
   type: sentence
   tier: primary
   front_en: I'm going to be here later.
@@ -978,7 +1077,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-024
+- id: L30-024
   type: sentence
   tier: primary
   front_en: Where do you guys have to be later?
@@ -990,7 +1089,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-025
+- id: L30-025
   type: sentence
   tier: primary
   front_en: He must be here.
@@ -1003,7 +1102,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-026
+- id: L30-026
   type: sentence
   tier: primary
   front_en: He must be tired.
@@ -1015,7 +1114,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-027
+- id: L30-027
   type: sentence
   tier: primary
   front_en: They (women) must be tired.
@@ -1027,7 +1126,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-028
+- id: L30-028
   type: sentence
   tier: primary
   front_en: We are very tired (women).
@@ -1040,7 +1139,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-029
+- id: L30-029
   type: sentence
   tier: primary
   front_en: She must be very tired.
@@ -1053,7 +1152,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-030
+- id: L30-030
   type: sentence
   tier: primary
   front_en: I stay because I am tired.
@@ -1065,7 +1164,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-031
+- id: L30-031
   type: sentence
   tier: primary
   front_en: We're not going to stay.
@@ -1077,7 +1176,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-032
+- id: L30-032
   type: sentence
   tier: primary
   front_en: We're not going to stay (alt).
@@ -1089,20 +1188,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-033
-  type: sentence
-  tier: primary
-  front_en: We're not going to stay because we are very tired.
-  back_es: No vamos a quedarnos porque estamos muy cansados.
-  rule_ref: L30#14, L30#15, L30#16, L29#11, L28#16
-  lessons:
-  - 28
-  - 29
-  - 30
-  directions:
-  - en_es
-  - es_en
-- id: l30-034
+- id: L30-034
   type: sentence
   tier: primary
   front_en: I have to be here later.
@@ -1115,368 +1201,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-035
-  type: sentence
-  tier: primary
-  front_en: She must be a doctor.
-  back_es: Debe ser doctora.
-  hint: characteristic → *ser* infinitive
-  rule_ref: L30#12, L29#1, L28#9
-  lessons:
-  - 28
-  - 29
-  - 30
-  directions:
-  - en_es
-  - es_en
-- id: l28-049
-  type: transformation
-  tier: extended
-  front_en: objective (m)
-  back_es: objetivo
-  hint: -ive → -ivo
-  rule_ref: L28#13
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-050
-  type: transformation
-  tier: extended
-  front_en: subjective (m)
-  back_es: subjetivo
-  hint: -ive → -ivo
-  rule_ref: L28#13
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-051
-  type: transformation
-  tier: extended
-  front_en: effective (m)
-  back_es: efectivo
-  hint: ff → single f
-  rule_ref: L28#13, L28#18
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-052
-  type: transformation
-  tier: extended
-  front_en: effective (f)
-  back_es: efectiva
-  hint: -ivo → -iva
-  rule_ref: L28#13, L28#5
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-053
-  type: transformation
-  tier: extended
-  front_en: passive (m)
-  back_es: pasivo
-  hint: ss → single s
-  rule_ref: L28#13, L28#18
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-054
-  type: transformation
-  tier: extended
-  front_en: expressive (m)
-  back_es: expresivo
-  hint: ss → single s
-  rule_ref: L28#13, L28#18
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-055
-  type: transformation
-  tier: extended
-  front_en: decisive (m)
-  back_es: decisivo
-  hint: -ive → -ivo
-  rule_ref: L28#13
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-056
-  type: transformation
-  tier: extended
-  front_en: money (slang, lit. silver)
-  back_es: plata
-  hint: LatAm slang
-  rule_ref: L28#1
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-057
-  type: transformation
-  tier: extended
-  front_en: money (Spain slang)
-  back_es: pasta
-  hint: Spain only
-  rule_ref: L28#1
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-058
-  type: transformation
-  tier: extended
-  front_en: but (single r)
-  back_es: pero
-  hint: single r — vs *perro* (dog)
-  rule_ref: L28#2
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-059
-  type: transformation
-  tier: extended
-  front_en: dog (double r)
-  back_es: perro
-  hint: double r — vs *pero* (but)
-  rule_ref: L28#2
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-060
-  type: transformation
-  tier: extended
-  front_en: the dogs
-  back_es: los perros
-  hint: el → los · -o + s
-  rule_ref: L28#3, L28#7
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-061
-  type: transformation
-  tier: extended
-  front_en: the machines
-  back_es: las máquinas
-  hint: la → las · -a + s
-  rule_ref: L28#3, L28#7
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l29-025
-  type: transformation
-  tier: extended
-  front_en: reality
-  back_es: realidad
-  hint: -ity → -idad
-  rule_ref: L29#3
-  lessons:
-  - 29
-  directions:
-  - en_es
-  - es_en
-- id: l29-026
-  type: transformation
-  tier: extended
-  front_en: possibility
-  back_es: posibilidad
-  hint: -ity → -idad · -ible stem
-  rule_ref: L29#3
-  lessons:
-  - 29
-  directions:
-  - en_es
-  - es_en
-- id: l28-062
-  type: sentence
-  tier: extended
-  front_en: The dogs are very aggressive.
-  back_es: Los perros son muy agresivos.
-  rule_ref: L28#3, L28#4, L28#16, L28#18
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-063
-  type: sentence
-  tier: extended
-  front_en: It's not addictive.
-  back_es: No es adictivo.
-  rule_ref: L28#13, L28#14
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-064
-  type: sentence
-  tier: extended
-  front_en: It's very expensive (f).
-  back_es: Es muy cara.
-  rule_ref: L28#16, L28#5, L28#6
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-065
-  type: sentence
-  tier: extended
-  front_en: The money is not expensive.
-  back_es: El dinero no es caro.
-  rule_ref: L28#5
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-066
-  type: sentence
-  tier: extended
-  front_en: They are positive (women).
-  back_es: Son positivas.
-  rule_ref: L28#4, L28#13, L28#7
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-067
-  type: sentence
-  tier: extended
-  front_en: She is very intuitive.
-  back_es: Ella es muy intuitiva.
-  rule_ref: L28#17, L28#16, L28#13
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l28-068
-  type: sentence
-  tier: extended
-  front_en: He is creative and very attractive.
-  back_es: Es creativo y muy atractivo.
-  rule_ref: L28#13, L28#16
-  lessons:
-  - 28
-  directions:
-  - en_es
-  - es_en
-- id: l29-028
-  type: sentence
-  tier: extended
-  front_en: I am always dead (exhausted, f).
-  back_es: Siempre estoy muerta.
-  rule_ref: L29#13, L29#15, L29#9
-  lessons:
-  - 29
-  directions:
-  - en_es
-  - es_en
-- id: l29-029
-  type: sentence
-  tier: extended
-  front_en: He is a human being.
-  back_es: Es un ser humano.
-  rule_ref: L29#2, L29#3
-  lessons:
-  - 29
-  directions:
-  - en_es
-  - es_en
-- id: l29-030
-  type: sentence
-  tier: extended
-  front_en: Humanity is creative.
-  back_es: La humanidad es creativa.
-  rule_ref: L29#3, L28#13
-  lessons:
-  - 29
-  directions:
-  - en_es
-  - es_en
-- id: l29-031
-  type: sentence
-  tier: extended
-  front_en: We are dead (women).
-  back_es: Estamos muertas.
-  rule_ref: L29#11, L29#15
-  lessons:
-  - 29
-  directions:
-  - en_es
-  - es_en
-- id: l29-032
-  type: sentence
-  tier: extended
-  front_en: They are always tired (men).
-  back_es: Siempre están cansados.
-  rule_ref: L29#13, L29#10, L29#12
-  lessons:
-  - 29
-  directions:
-  - en_es
-  - es_en
-- id: l29-033
-  type: sentence
-  tier: extended
-  front_en: You (formal) are tired.
-  back_es: Usted está cansado.
-  rule_ref: L29#10, L29#12, L30#8
-  lessons:
-  - 29
-  directions:
-  - en_es
-  - es_en
-- id: l29-034
-  type: sentence
-  tier: extended
-  front_en: She is intuitive but she is tired.
-  back_es: Es intuitiva pero está cansada.
-  hint: ser characteristic + estar state
-  rule_ref: L29#7, L29#4, L28#13
-  lessons:
-  - 29
-  directions:
-  - en_es
-  - es_en
-- id: l29-035
-  type: sentence
-  tier: extended
-  front_en: I am always tired (f, alt order).
-  back_es: Estoy cansada siempre.
-  hint: '*siempre* at end — same meaning'
-  rule_ref: L29#14
-  lessons:
-  - 29
-  directions:
-  - en_es
-  - es_en
-- id: l30-036
+- id: L30-036
   type: sentence
   tier: extended
   front_en: Where is he?
@@ -1487,7 +1212,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-037
+- id: L30-037
   type: sentence
   tier: extended
   front_en: How are they (women)?
@@ -1499,7 +1224,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-038
+- id: L30-038
   type: sentence
   tier: extended
   front_en: I am here, you are there.
@@ -1512,7 +1237,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-039
+- id: L30-039
   type: sentence
   tier: extended
   front_en: She is here (acá).
@@ -1525,7 +1250,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-040
+- id: L30-040
   type: sentence
   tier: extended
   front_en: I don't know how they are.
@@ -1537,7 +1262,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-041
+- id: L30-041
   type: sentence
   tier: extended
   front_en: You guys have to stay.
@@ -1548,33 +1273,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-042
-  type: sentence
-  tier: extended
-  front_en: We have to be here later.
-  back_es: Tenemos que estar aquí más tarde.
-  rule_ref: L30#11, L30#6, L30#4
-  lessons:
-  - 29
-  - 30
-  directions:
-  - en_es
-  - es_en
-- id: l30-043
-  type: sentence
-  tier: extended
-  front_en: He must be a teacher.
-  back_es: Debe ser profesor.
-  hint: characteristic → *ser*
-  rule_ref: L30#12, L29#1, L28#9
-  lessons:
-  - 28
-  - 29
-  - 30
-  directions:
-  - en_es
-  - es_en
-- id: l30-044
+- id: L30-044
   type: sentence
   tier: extended
   front_en: They (women) must be doctors.
@@ -1587,20 +1286,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-045
-  type: sentence
-  tier: extended
-  front_en: I stay because she is very tired.
-  back_es: Me quedo porque ella está muy cansada.
-  rule_ref: L30#14, L30#16, L28#17, L28#16
-  lessons:
-  - 28
-  - 29
-  - 30
-  directions:
-  - en_es
-  - es_en
-- id: l30-046
+- id: L30-046
   type: sentence
   tier: extended
   front_en: You (formal) must be tired.
@@ -1612,7 +1298,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-047
+- id: L30-047
   type: sentence
   tier: extended
   front_en: We (women) are always here.
@@ -1624,19 +1310,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l30-048
-  type: sentence
-  tier: extended
-  front_en: The teachers (women) are very intuitive.
-  back_es: Las profesoras son muy intuitivas.
-  rule_ref: L28#3, L28#4, L28#16, L28#13
-  lessons:
-  - 28
-  - 30
-  directions:
-  - en_es
-  - es_en
-- id: l30-049
+- id: L30-049
   type: sentence
   tier: extended
   front_en: It is intensive but it is creative.

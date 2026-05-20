@@ -1,24 +1,24 @@
 bundle: O
-title: 'Para vs por + pluperfect: estar para/por, días de la semana, podía vs podría, había + part'
+title: 'Bundle O Para vs Por + Pluperfect (L50-53)'
 lessons:
 - 50
 - 51
 - 52
 - 53
 cards:
-- id: l50-001
+- id: L50-001
   type: transformation
   tier: primary
   front_en: for (destined for, in order to)
   back_es: para
-  hint: '... → destination, recipient, purpose'
+  hint: para → destination, recipient, purpose
   rule_ref: L50#1, L50#2
   lessons:
   - 50
   directions:
   - en_es
   - es_en
-- id: l50-002
+- id: L50-002
   type: transformation
   tier: primary
   front_en: for (because of, exchange, period)
@@ -30,7 +30,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-003
+- id: L50-003
   type: transformation
   tier: primary
   front_en: for me
@@ -42,7 +42,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-004
+- id: L50-004
   type: transformation
   tier: primary
   front_en: for you (informal)
@@ -54,7 +54,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-007
+- id: L50-007
   type: transformation
   tier: primary
   front_en: from me
@@ -66,7 +66,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-009
+- id: L50-009
   type: transformation
   tier: primary
   front_en: Why?
@@ -78,7 +78,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-011
+- id: L50-011
   type: transformation
   tier: primary
   front_en: reason
@@ -90,7 +90,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-012
+- id: L50-012
   type: transformation
   tier: primary
   front_en: this reason
@@ -102,7 +102,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-016
+- id: L50-016
   type: transformation
   tier: primary
   front_en: the day
@@ -114,7 +114,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-018
+- id: L50-018
   type: transformation
   tier: primary
   front_en: every day
@@ -126,7 +126,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-019
+- id: L50-019
   type: transformation
   tier: primary
   front_en: I stay
@@ -138,7 +138,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-020
+- id: L50-020
   type: transformation
   tier: primary
   front_en: I will stay
@@ -150,7 +150,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-021
+- id: L50-021
   type: transformation
   tier: primary
   front_en: I would stay
@@ -162,7 +162,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-022
+- id: L50-022
   type: transformation
   tier: primary
   front_en: I would like
@@ -174,7 +174,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-023
+- id: L50-023
   type: transformation
   tier: primary
   front_en: but I have to work
@@ -186,7 +186,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-024
+- id: L50-024
   type: sentence
   tier: primary
   front_en: Thanks for coming.
@@ -198,7 +198,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-025
+- id: L50-025
   type: sentence
   tier: primary
   front_en: This one is for you.
@@ -210,7 +210,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-026
+- id: L50-026
   type: sentence
   tier: primary
   front_en: These are for you.
@@ -222,7 +222,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-027
+- id: L50-027
   type: sentence
   tier: primary
   front_en: Why? Because I don't want to.
@@ -234,7 +234,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-028
+- id: L50-028
   type: sentence
   tier: primary
   front_en: For this reason, I don't want to go.
@@ -246,7 +246,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-029
+- id: L50-029
   type: sentence
   tier: primary
   front_en: I'm buying it for you.
@@ -258,7 +258,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-030
+- id: L50-030
   type: sentence
   tier: primary
   front_en: I'm buying it because of you.
@@ -270,19 +270,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-031
-  type: sentence
-  tier: primary
-  front_en: I have bought it because of you.
-  back_es: Lo he comprado por ti.
-  hint: he + participle
-  rule_ref: L50#7, L50#9
-  lessons:
-  - 50
-  directions:
-  - en_es
-  - es_en
-- id: l50-032
+- id: L50-032
   type: sentence
   tier: primary
   front_en: I'm staying for three days.
@@ -294,7 +282,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-033
+- id: L50-033
   type: sentence
   tier: primary
   front_en: I will stay for three days.
@@ -306,7 +294,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-034
+- id: L50-034
   type: sentence
   tier: primary
   front_en: I would stay for three days.
@@ -318,7 +306,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-035
+- id: L50-035
   type: sentence
   tier: primary
   front_en: I would stay three days, but I have to work.
@@ -330,7 +318,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-001
+- id: L51-001
   type: transformation
   tier: primary
   front_en: I'm there for you.
@@ -342,7 +330,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-002
+- id: L51-002
   type: transformation
   tier: primary
   front_en: Are you (there)?
@@ -354,7 +342,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-003
+- id: L51-003
   type: transformation
   tier: primary
   front_en: Is Juan there?
@@ -366,7 +354,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-004
+- id: L51-004
   type: transformation
   tier: primary
   front_en: I'm here because of you.
@@ -378,7 +366,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-005
+- id: L51-005
   type: transformation
   tier: primary
   front_en: I have come because of you.
@@ -390,7 +378,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-006
+- id: L51-006
   type: transformation
   tier: primary
   front_en: that one (masc)
@@ -402,7 +390,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-009
+- id: L51-009
   type: transformation
   tier: primary
   front_en: to change, to exchange
@@ -414,7 +402,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-010
+- id: L51-010
   type: sentence
   tier: primary
   front_en: I would change this one for that one.
@@ -426,7 +414,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-011
+- id: L51-011
   type: sentence
   tier: primary
   front_en: Would you change these for those? (fem)
@@ -438,7 +426,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-012
+- id: L51-012
   type: sentence
   tier: primary
   front_en: Thanks for calling.
@@ -450,7 +438,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-013
+- id: L51-013
   type: sentence
   tier: primary
   front_en: Thanks for calling me.
@@ -462,7 +450,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-014
+- id: L51-014
   type: sentence
   tier: primary
   front_en: Why wouldn't you change these for those?
@@ -474,7 +462,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-015
+- id: L51-015
   type: sentence
   tier: primary
   front_en: It is because of you that we have come.
@@ -486,7 +474,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-016
+- id: L51-016
   type: transformation
   tier: primary
   front_en: tired (masc)
@@ -498,7 +486,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-017
+- id: L51-017
   type: transformation
   tier: primary
   front_en: tired (fem)
@@ -510,7 +498,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-018
+- id: L51-018
   type: sentence
   tier: primary
   front_en: I'm tired of working. (fem)
@@ -522,7 +510,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-019
+- id: L51-019
   type: sentence
   tier: primary
   front_en: I was tired of working. (fem)
@@ -534,7 +522,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-020
+- id: L51-020
   type: sentence
   tier: primary
   front_en: We were tired of working.
@@ -546,7 +534,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-021
+- id: L51-021
   type: transformation
   tier: primary
   front_en: form, way
@@ -558,7 +546,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-022
+- id: L51-022
   type: transformation
   tier: primary
   front_en: to believe
@@ -570,7 +558,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-024
+- id: L51-024
   type: transformation
   tier: primary
   front_en: 'to argue (false friend: discuss)'
@@ -582,7 +570,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-025
+- id: L51-025
   type: transformation
   tier: primary
   front_en: current (NOT actual)
@@ -594,7 +582,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-026
+- id: L51-026
   type: transformation
   tier: primary
   front_en: currently
@@ -606,7 +594,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-028
+- id: L51-028
   type: sentence
   tier: primary
   front_en: It's a way of doing it.
@@ -618,7 +606,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-029
+- id: L51-029
   type: sentence
   tier: primary
   front_en: I don't believe in arguing.
@@ -630,7 +618,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-030
+- id: L51-030
   type: sentence
   tier: primary
   front_en: I don't believe in arguing in this way.
@@ -642,7 +630,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-001
+- id: L52-001
   type: sentence
   tier: primary
   front_en: We have spoken to resolve it.
@@ -654,7 +642,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-002
+- id: L52-002
   type: sentence
   tier: primary
   front_en: We have spoken to try to resolve it.
@@ -666,7 +654,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-003
+- id: L52-003
   type: sentence
   tier: primary
   front_en: I am here to see you.
@@ -678,7 +666,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-004
+- id: L52-004
   type: sentence
   tier: primary
   front_en: I've called you to speak about it.
@@ -690,7 +678,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-005
+- id: L52-005
   type: transformation
   tier: primary
   front_en: speaking (-ing form)
@@ -702,7 +690,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-006
+- id: L52-006
   type: transformation
   tier: primary
   front_en: eating (-ing form)
@@ -714,7 +702,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-009
+- id: L52-009
   type: sentence
   tier: primary
   front_en: I'm eating right now.
@@ -726,7 +714,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-010
+- id: L52-010
   type: sentence
   tier: primary
   front_en: I'm speaking right now.
@@ -738,7 +726,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-011
+- id: L52-011
   type: sentence
   tier: primary
   front_en: I'm explaining it. (object on gerund)
@@ -750,7 +738,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-012
+- id: L52-012
   type: sentence
   tier: primary
   front_en: I'm explaining it. (object before estar)
@@ -762,7 +750,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-013
+- id: L52-013
   type: transformation
   tier: primary
   front_en: course
@@ -774,7 +762,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-014
+- id: L52-014
   type: sentence
   tier: primary
   front_en: I'm taking a Spanish course.
@@ -786,7 +774,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-015
+- id: L52-015
   type: sentence
   tier: primary
   front_en: I was taking a Spanish course.
@@ -798,7 +786,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-017
+- id: L52-017
   type: sentence
   tier: primary
   front_en: Swimming is healthy.
@@ -810,7 +798,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-018
+- id: L52-018
   type: sentence
   tier: primary
   front_en: Dancing is healthy.
@@ -822,7 +810,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-021
+- id: L52-021
   type: transformation
   tier: primary
   front_en: irritating
@@ -834,7 +822,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-022
+- id: L52-022
   type: transformation
   tier: primary
   front_en: frustrating
@@ -846,19 +834,19 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-023
+- id: L52-023
   type: transformation
   tier: primary
   front_en: waning (the moon)
   back_es: menguante
-  hint: ar → -ante · la luna ...
+  hint: -ar → -ante · la luna menguante
   rule_ref: L52#17, L52#18
   lessons:
   - 52
   directions:
   - en_es
   - es_en
-- id: l52-024
+- id: L52-024
   type: transformation
   tier: primary
   front_en: living (adjective)
@@ -870,7 +858,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-026
+- id: L52-026
   type: sentence
   tier: primary
   front_en: A living being.
@@ -882,7 +870,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-027
+- id: L52-027
   type: transformation
   tier: primary
   front_en: Monday
@@ -894,7 +882,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-028
+- id: L52-028
   type: transformation
   tier: primary
   front_en: Tuesday
@@ -906,7 +894,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-029
+- id: L52-029
   type: transformation
   tier: primary
   front_en: Wednesday
@@ -918,31 +906,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-030
-  type: transformation
-  tier: primary
-  front_en: Thursday
-  back_es: jueves
-  hint: from Jupiter · /khe/
-  rule_ref: L52#19
-  lessons:
-  - 52
-  directions:
-  - en_es
-  - es_en
-- id: l52-031
-  type: transformation
-  tier: primary
-  front_en: Friday
-  back_es: viernes
-  hint: from Venus
-  rule_ref: L52#19
-  lessons:
-  - 52
-  directions:
-  - en_es
-  - es_en
-- id: l53-001
+- id: L53-001
   type: transformation
   tier: primary
   front_en: I could (past, was able)
@@ -954,7 +918,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-002
+- id: L53-002
   type: transformation
   tier: primary
   front_en: I could (future, would be able)
@@ -966,7 +930,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-003
+- id: L53-003
   type: transformation
   tier: primary
   front_en: we could (future)
@@ -978,7 +942,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-004
+- id: L53-004
   type: transformation
   tier: primary
   front_en: they could (past)
@@ -990,7 +954,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-006
+- id: L53-006
   type: sentence
   tier: primary
   front_en: I couldn't do it.
@@ -1002,7 +966,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-007
+- id: L53-007
   type: sentence
   tier: primary
   front_en: I couldn't do it yesterday.
@@ -1014,7 +978,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-008
+- id: L53-008
   type: sentence
   tier: primary
   front_en: I couldn't do it because I didn't have the time.
@@ -1026,7 +990,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-009
+- id: L53-009
   type: transformation
   tier: primary
   front_en: I had (helper for past-of-past)
@@ -1038,7 +1002,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-011
+- id: L53-011
   type: transformation
   tier: primary
   front_en: they had (helper)
@@ -1050,7 +1014,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-012
+- id: L53-012
   type: transformation
   tier: primary
   front_en: already
@@ -1062,7 +1026,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-013
+- id: L53-013
   type: sentence
   tier: primary
   front_en: I had eaten.
@@ -1074,7 +1038,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-014
+- id: L53-014
   type: sentence
   tier: primary
   front_en: I had already eaten.
@@ -1086,7 +1050,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-015
+- id: L53-015
   type: sentence
   tier: primary
   front_en: We had already eaten.
@@ -1098,7 +1062,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-016
+- id: L53-016
   type: transformation
   tier: primary
   front_en: he wanted / I wanted
@@ -1110,7 +1074,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-020
+- id: L53-020
   type: sentence
   tier: primary
   front_en: He wanted to dine with me.
@@ -1122,7 +1086,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-021
+- id: L53-021
   type: sentence
   tier: primary
   front_en: He wanted to dine with me, but I had already dined.
@@ -1134,19 +1098,19 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-022
+- id: L53-022
   type: transformation
   tier: primary
   front_en: to look for
   back_es: buscar
-  hint: no 'for' needed — ... covers it
+  hint: no 'for' needed — *buscar* covers it
   rule_ref: L53#16
   lessons:
   - 53
   directions:
   - en_es
   - es_en
-- id: l53-023
+- id: L53-023
   type: transformation
   tier: primary
   front_en: he was looking for it
@@ -1158,7 +1122,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-026
+- id: L53-026
   type: transformation
   tier: primary
   front_en: I would have (helper)
@@ -1170,7 +1134,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-027
+- id: L53-027
   type: sentence
   tier: primary
   front_en: I had lost it.
@@ -1182,7 +1146,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-028
+- id: L53-028
   type: sentence
   tier: primary
   front_en: He was looking for it because I had lost it.
@@ -1194,7 +1158,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-030
+- id: L53-030
   type: sentence
   tier: primary
   front_en: I would have got lost.
@@ -1206,7 +1170,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-036
+- id: L50-036
   type: transformation
   tier: extended
   front_en: for us
@@ -1218,7 +1182,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-037
+- id: L50-037
   type: transformation
   tier: extended
   front_en: from him
@@ -1230,7 +1194,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-038
+- id: L50-038
   type: transformation
   tier: extended
   front_en: I will buy
@@ -1242,7 +1206,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-039
+- id: L50-039
   type: transformation
   tier: extended
   front_en: I would buy
@@ -1254,31 +1218,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-040
-  type: sentence
-  tier: extended
-  front_en: For this reason, I don't want to come.
-  back_es: Por esta razón, no quiero venir.
-  hint: por = because of
-  rule_ref: L50#7, L50#8
-  lessons:
-  - 50
-  directions:
-  - en_es
-  - es_en
-- id: l50-041
-  type: sentence
-  tier: extended
-  front_en: I would buy it for her.
-  back_es: Lo compraría para ella.
-  hint: would + destined for
-  rule_ref: L50#2, L50#16
-  lessons:
-  - 50
-  directions:
-  - en_es
-  - es_en
-- id: l50-042
+- id: L50-042
   type: sentence
   tier: extended
   front_en: I would like to stay for three days.
@@ -1290,19 +1230,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-043
-  type: sentence
-  tier: extended
-  front_en: Why don't you want to come? (informal)
-  back_es: ¿Por qué no quieres venir?
-  hint: por qué + question
-  rule_ref: L50#7
-  lessons:
-  - 50
-  directions:
-  - en_es
-  - es_en
-- id: l50-044
+- id: L50-044
   type: sentence
   tier: extended
   front_en: These are for him.
@@ -1314,7 +1242,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l50-045
+- id: L50-045
   type: sentence
   tier: extended
   front_en: I'm not staying every day.
@@ -1326,7 +1254,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-031
+- id: L51-031
   type: transformation
   tier: extended
   front_en: I was (estar past)
@@ -1338,7 +1266,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-032
+- id: L51-032
   type: transformation
   tier: extended
   front_en: you were (estar past, informal)
@@ -1350,7 +1278,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-033
+- id: L51-033
   type: transformation
   tier: extended
   front_en: they were (estar past)
@@ -1362,7 +1290,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-034
+- id: L51-034
   type: transformation
   tier: extended
   front_en: creation
@@ -1374,19 +1302,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-036
-  type: sentence
-  tier: extended
-  front_en: I would change those (fem) for these (fem).
-  back_es: Cambiaría esas por estas.
-  hint: fem plural pair · por = exchange
-  rule_ref: L51#5, L51#6
-  lessons:
-  - 51
-  directions:
-  - en_es
-  - es_en
-- id: l51-037
+- id: L51-037
   type: sentence
   tier: extended
   front_en: Are you tired of working? (fem)
@@ -1398,7 +1314,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-038
+- id: L51-038
   type: sentence
   tier: extended
   front_en: I don't believe in arguing about it.
@@ -1410,7 +1326,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-039
+- id: L51-039
   type: sentence
   tier: extended
   front_en: In this way it is possible.
@@ -1422,7 +1338,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-040
+- id: L51-040
   type: sentence
   tier: extended
   front_en: Currently, my job is interesting.
@@ -1434,7 +1350,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-041
+- id: L51-041
   type: sentence
   tier: extended
   front_en: It's because of you that I'm tired. (fem)
@@ -1446,7 +1362,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l51-042
+- id: L51-042
   type: sentence
   tier: extended
   front_en: I have come because of her.
@@ -1458,7 +1374,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-032
+- id: L52-032
   type: transformation
   tier: extended
   front_en: to swim
@@ -1470,7 +1386,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-034
+- id: L52-034
   type: transformation
   tier: extended
   front_en: health
@@ -1482,7 +1398,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-036
+- id: L52-036
   type: transformation
   tier: extended
   front_en: the waning moon
@@ -1494,7 +1410,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-037
+- id: L52-037
   type: sentence
   tier: extended
   front_en: We are taking a Spanish course.
@@ -1506,19 +1422,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-038
-  type: sentence
-  tier: extended
-  front_en: I am here to call you.
-  back_es: Estoy aquí para llamarte.
-  hint: in-order-to → para
-  rule_ref: L52#1, L52#5
-  lessons:
-  - 52
-  directions:
-  - en_es
-  - es_en
-- id: l52-039
+- id: L52-039
   type: sentence
   tier: extended
   front_en: It is frustrating.
@@ -1530,7 +1434,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-040
+- id: L52-040
   type: sentence
   tier: extended
   front_en: Dancing is interesting.
@@ -1542,7 +1446,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-041
+- id: L52-041
   type: sentence
   tier: extended
   front_en: I'm tired of dancing on Mondays.
@@ -1555,7 +1459,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-042
+- id: L52-042
   type: sentence
   tier: extended
   front_en: Thursday is irritating.
@@ -1567,19 +1471,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l52-043
-  type: sentence
-  tier: extended
-  front_en: I'm calling you to explain it.
-  back_es: Te llamo para explicarlo.
-  hint: para = in order to
-  rule_ref: L52#1, L52#5
-  lessons:
-  - 52
-  directions:
-  - en_es
-  - es_en
-- id: l53-031
+- id: L53-031
   type: transformation
   tier: extended
   front_en: you could (past, informal)
@@ -1591,7 +1483,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-032
+- id: L53-032
   type: transformation
   tier: extended
   front_en: we could (past)
@@ -1603,7 +1495,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-033
+- id: L53-033
   type: transformation
   tier: extended
   front_en: you had (helper, informal)
@@ -1615,7 +1507,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-034
+- id: L53-034
   type: sentence
   tier: extended
   front_en: I could do it tomorrow.
@@ -1627,7 +1519,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-035
+- id: L53-035
   type: sentence
   tier: extended
   front_en: We could resolve it.
@@ -1639,31 +1531,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-036
-  type: sentence
-  tier: extended
-  front_en: They had already dined.
-  back_es: Ya habían cenado.
-  hint: ya + they form
-  rule_ref: L53#9, L53#11
-  lessons:
-  - 53
-  directions:
-  - en_es
-  - es_en
-- id: l53-038
-  type: sentence
-  tier: extended
-  front_en: We had already lost it.
-  back_es: Ya lo habíamos perdido.
-  hint: we form + ya
-  rule_ref: L53#9, L53#11
-  lessons:
-  - 53
-  directions:
-  - en_es
-  - es_en
-- id: l53-039
+- id: L53-039
   type: sentence
   tier: extended
   front_en: I was looking for you.
@@ -1675,7 +1543,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-040
+- id: L53-040
   type: sentence
   tier: extended
   front_en: Would you dine with me?
@@ -1687,32 +1555,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l53-041
-  type: sentence
-  tier: extended
-  front_en: I couldn't dine with him yesterday.
-  back_es: No podía cenar con él ayer.
-  hint: past could + ayer
-  rule_ref: L53#3, L53#8
-  lessons:
-  - 53
-  directions:
-  - en_es
-  - es_en
-- id: l53-042
-  type: sentence
-  tier: extended
-  front_en: He had been looking for it.
-  back_es: Lo había estado buscando.
-  hint: había + estado + gerund (pluperfect-progressive)
-  rule_ref: L53#9, L52#7
-  lessons:
-  - 52
-  - 53
-  directions:
-  - en_es
-  - es_en
-- id: l53-043
+- id: L53-043
   type: sentence
   tier: extended
   front_en: I would have called you to explain it.

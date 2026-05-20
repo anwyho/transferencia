@@ -1,11 +1,11 @@
 bundle: N
-title: 'Gender exceptions + gustar family + line-past intro: la mano, interesar/parecer, -aba'
+title: 'Bundle N Gender Exceptions + Line-Past Intro (L44-46)'
 lessons:
 - 44
 - 45
 - 46
 cards:
-- id: l44-003
+- id: L44-003
   type: transformation
   tier: primary
   front_en: the paradigm
@@ -17,7 +17,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-004
+- id: L44-004
   type: transformation
   tier: primary
   front_en: the diagram
@@ -29,7 +29,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-005
+- id: L44-005
   type: transformation
   tier: primary
   front_en: the outline / scheme
@@ -41,7 +41,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-006
+- id: L44-006
   type: transformation
   tier: primary
   front_en: the planet
@@ -53,7 +53,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-007
+- id: L44-007
   type: transformation
   tier: primary
   front_en: the planets
@@ -65,7 +65,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-009
+- id: L44-009
   type: transformation
   tier: primary
   front_en: the hand
@@ -77,7 +77,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-010
+- id: L44-010
   type: transformation
   tier: primary
   front_en: the hands
@@ -89,7 +89,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-011
+- id: L44-011
   type: transformation
   tier: primary
   front_en: the photo
@@ -101,7 +101,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-012
+- id: L44-012
   type: transformation
   tier: primary
   front_en: the motorbike
@@ -113,7 +113,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-014
+- id: L44-014
   type: transformation
   tier: primary
   front_en: the camera
@@ -125,7 +125,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-015
+- id: L44-015
   type: transformation
   tier: primary
   front_en: this car
@@ -137,7 +137,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-016
+- id: L44-016
   type: transformation
   tier: primary
   front_en: that car
@@ -149,7 +149,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-018
+- id: L44-018
   type: transformation
   tier: primary
   front_en: that night
@@ -161,7 +161,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-019
+- id: L44-019
   type: transformation
   tier: primary
   front_en: these hands
@@ -173,7 +173,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-020
+- id: L44-020
   type: transformation
   tier: primary
   front_en: those nights
@@ -185,7 +185,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-021
+- id: L44-021
   type: transformation
   tier: primary
   front_en: this hand
@@ -197,7 +197,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-023
+- id: L44-023
   type: transformation
   tier: primary
   front_en: to handle / manage / drive
@@ -209,31 +209,31 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-025
+- id: L44-025
   type: transformation
   tier: primary
   front_en: to take
   back_es: tomar
-  hint: 'used for photos: ... una foto'
+  hint: 'used for photos: tomar una foto'
   rule_ref: L44#12
   lessons:
   - 44
   directions:
   - en_es
   - es_en
-- id: l44-026
+- id: L44-026
   type: transformation
   tier: primary
   front_en: to take (out / a photo)
   back_es: sacar
-  hint: '... una foto = take a photo'
+  hint: '*sacar una foto* = take a photo'
   rule_ref: L44#13
   lessons:
   - 44
   directions:
   - en_es
   - es_en
-- id: l44-028
+- id: L44-028
   type: sentence
   tier: primary
   front_en: I want that car.
@@ -244,7 +244,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-030
+- id: L44-030
   type: sentence
   tier: primary
   front_en: I don't want that car.
@@ -255,7 +255,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-031
+- id: L44-031
   type: sentence
   tier: primary
   front_en: It's very big.
@@ -267,7 +267,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-033
+- id: L44-033
   type: sentence
   tier: primary
   front_en: Can you give me a hand?
@@ -279,7 +279,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-034
+- id: L44-034
   type: sentence
   tier: primary
   front_en: Could you give me a hand?
@@ -291,7 +291,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-036
+- id: L44-036
   type: sentence
   tier: primary
   front_en: They should give me a hand.
@@ -303,7 +303,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-037
+- id: L44-037
   type: sentence
   tier: primary
   front_en: They should give us a hand.
@@ -314,7 +314,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-038
+- id: L44-038
   type: sentence
   tier: primary
   front_en: I manage the problem.
@@ -326,7 +326,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-040
+- id: L44-040
   type: sentence
   tier: primary
   front_en: I'm taking a photo.
@@ -338,7 +338,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-042
+- id: L44-042
   type: sentence
   tier: primary
   front_en: I would like to take a photo.
@@ -349,7 +349,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-043
+- id: L44-043
   type: sentence
   tier: primary
   front_en: But I don't have my camera.
@@ -361,7 +361,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-047
+- id: L44-047
   type: transformation
   tier: extended
   front_en: this problem
@@ -373,7 +373,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-048
+- id: L44-048
   type: transformation
   tier: extended
   front_en: that system
@@ -385,7 +385,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-049
+- id: L44-049
   type: sentence
   tier: extended
   front_en: This problem is very big.
@@ -397,7 +397,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-050
+- id: L44-050
   type: sentence
   tier: extended
   front_en: I'm taking a photo of the planet.
@@ -409,7 +409,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-051
+- id: L44-051
   type: sentence
   tier: extended
   front_en: I'd like to take a photo tonight.
@@ -420,7 +420,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-052
+- id: L44-052
   type: sentence
   tier: extended
   front_en: Could you give us a hand tonight?
@@ -431,7 +431,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l44-053
+- id: L44-053
   type: sentence
   tier: extended
   front_en: I don't want that car, it's too big.
@@ -442,7 +442,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-001
+- id: L45-001
   type: transformation
   tier: primary
   front_en: to interest / to be interesting to
@@ -454,7 +454,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-002
+- id: L45-002
   type: transformation
   tier: primary
   front_en: interesting
@@ -466,7 +466,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-003
+- id: L45-003
   type: transformation
   tier: primary
   front_en: to seem
@@ -478,7 +478,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-004
+- id: L45-004
   type: transformation
   tier: primary
   front_en: to put
@@ -490,7 +490,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-007
+- id: L45-007
   type: transformation
   tier: primary
   front_en: salt
@@ -502,7 +502,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-015
+- id: L45-015
   type: sentence
   tier: primary
   front_en: It interests me.
@@ -513,7 +513,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-017
+- id: L45-017
   type: sentence
   tier: primary
   front_en: Does it interest you?
@@ -524,7 +524,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-019
+- id: L45-019
   type: sentence
   tier: primary
   front_en: Why doesn't it interest you?
@@ -536,7 +536,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-020
+- id: L45-020
   type: sentence
   tier: primary
   front_en: It interests him.
@@ -548,7 +548,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-022
+- id: L45-022
   type: sentence
   tier: primary
   front_en: It would interest you.
@@ -560,7 +560,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-023
+- id: L45-023
   type: sentence
   tier: primary
   front_en: It would interest me to see it.
@@ -571,7 +571,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-024
+- id: L45-024
   type: sentence
   tier: primary
   front_en: Does it interest you to dance tonight?
@@ -582,7 +582,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-025
+- id: L45-025
   type: sentence
   tier: primary
   front_en: It seems to me.
@@ -593,7 +593,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-026
+- id: L45-026
   type: sentence
   tier: primary
   front_en: It seems to me that...
@@ -605,7 +605,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-027
+- id: L45-027
   type: sentence
   tier: primary
   front_en: Seems fine to me.
@@ -617,7 +617,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-028
+- id: L45-028
   type: sentence
   tier: primary
   front_en: It doesn't seem right to me.
@@ -628,7 +628,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-030
+- id: L45-030
   type: sentence
   tier: primary
   front_en: Doesn't it seem right to you?
@@ -640,7 +640,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-031
+- id: L45-031
   type: sentence
   tier: primary
   front_en: It seems he doesn't like it.
@@ -651,7 +651,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-032
+- id: L45-032
   type: sentence
   tier: primary
   front_en: It seems he doesn't want to go out tonight.
@@ -662,7 +662,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-033
+- id: L45-033
   type: sentence
   tier: primary
   front_en: It interests them to go out.
@@ -673,7 +673,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-034
+- id: L45-034
   type: sentence
   tier: primary
   front_en: Would it interest you to go out?
@@ -684,7 +684,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-035
+- id: L45-035
   type: sentence
   tier: primary
   front_en: I want to put it here.
@@ -696,7 +696,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-037
+- id: L45-037
   type: sentence
   tier: primary
   front_en: I want to put salt on it.
@@ -708,7 +708,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-039
+- id: L45-039
   type: sentence
   tier: primary
   front_en: I'd like to put a little more salt.
@@ -719,7 +719,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-040
+- id: L45-040
   type: sentence
   tier: primary
   front_en: I'd like to put a little more salt on them.
@@ -731,7 +731,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-041
+- id: L45-041
   type: sentence
   tier: primary
   front_en: Could you put it here?
@@ -742,7 +742,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-042
+- id: L45-042
   type: sentence
   tier: primary
   front_en: I want to compose.
@@ -753,7 +753,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-045
+- id: L45-045
   type: sentence
   tier: extended
   front_en: Does it interest her to go out to dance tonight?
@@ -764,18 +764,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-046
-  type: sentence
-  tier: extended
-  front_en: It would interest us to see it.
-  back_es: Nos interesaría verlo.
-  rule_ref: L45#9, L45#17
-  lessons:
-  - 45
-  directions:
-  - en_es
-  - es_en
-- id: l45-047
+- id: L45-047
   type: sentence
   tier: extended
   front_en: It seems good to me. (Me parece bueno)
@@ -787,18 +776,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-048
-  type: sentence
-  tier: extended
-  front_en: It seems to me that it's interesting.
-  back_es: Me parece que es interesante.
-  rule_ref: L45#12, L45#4
-  lessons:
-  - 45
-  directions:
-  - en_es
-  - es_en
-- id: l45-049
+- id: L45-049
   type: sentence
   tier: extended
   front_en: I suppose it interests him.
@@ -809,7 +787,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-050
+- id: L45-050
   type: sentence
   tier: extended
   front_en: I'd like to put more salt here.
@@ -820,7 +798,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-051
+- id: L45-051
   type: sentence
   tier: extended
   front_en: It doesn't interest them at all.
@@ -832,18 +810,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l45-053
-  type: sentence
-  tier: extended
-  front_en: Would it interest you to put it here?
-  back_es: ¿Te interesaría ponerlo aquí?
-  rule_ref: L45#9, L45#20
-  lessons:
-  - 45
-  directions:
-  - en_es
-  - es_en
-- id: l45-054
+- id: L45-054
   type: sentence
   tier: extended
   front_en: Why doesn't it seem right to him?
@@ -854,7 +821,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-001
+- id: L46-001
   type: conjugation
   tier: primary
   front_en: I form of haber (past helper)
@@ -865,7 +832,7 @@ cards:
   - 46
   directions:
   - en_es
-- id: l46-006
+- id: L46-006
   type: transformation
   tier: primary
   front_en: eaten (participle)
@@ -877,7 +844,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-007
+- id: L46-007
   type: transformation
   tier: primary
   front_en: spoken (participle)
@@ -889,7 +856,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-009
+- id: L46-009
   type: transformation
   tier: primary
   front_en: been able (participle)
@@ -901,31 +868,19 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-010
-  type: transformation
-  tier: primary
-  front_en: left / gone out (participle)
-  back_es: salido
-  hint: -ir → -ido
-  rule_ref: L46#3
-  lessons:
-  - 46
-  directions:
-  - en_es
-  - es_en
-- id: l46-011
+- id: L46-011
   type: transformation
   tier: primary
   front_en: I would have (haber in would-time)
   back_es: habría
-  hint: habería → ... (e drops)
+  hint: habería → habría (e drops)
   rule_ref: L46#6
   lessons:
   - 46
   directions:
   - en_es
   - es_en
-- id: l46-015
+- id: L46-015
   type: sentence
   tier: primary
   front_en: I have eaten.
@@ -936,7 +891,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-017
+- id: L46-017
   type: sentence
   tier: primary
   front_en: They have danced.
@@ -947,7 +902,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-019
+- id: L46-019
   type: sentence
   tier: primary
   front_en: I have been able to eat.
@@ -959,7 +914,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-020
+- id: L46-020
   type: sentence
   tier: primary
   front_en: I haven't been able to eat.
@@ -970,7 +925,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-022
+- id: L46-022
   type: sentence
   tier: primary
   front_en: You have eaten.
@@ -982,7 +937,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-023
+- id: L46-023
   type: sentence
   tier: primary
   front_en: I would have gone out.
@@ -994,7 +949,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-024
+- id: L46-024
   type: sentence
   tier: primary
   front_en: I would have been able to go out.
@@ -1005,7 +960,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-025
+- id: L46-025
   type: sentence
   tier: primary
   front_en: I wouldn't have been able to go out.
@@ -1016,7 +971,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-027
+- id: L46-027
   type: sentence
   tier: primary
   front_en: We would have danced.
@@ -1027,18 +982,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-028
-  type: sentence
-  tier: primary
-  front_en: They wouldn't have spoken.
-  back_es: No habrían hablado.
-  rule_ref: L46#6, L46#8
-  lessons:
-  - 46
-  directions:
-  - en_es
-  - es_en
-- id: l46-029
+- id: L46-029
   type: transformation
   tier: primary
   front_en: I/he was speaking (line past)
@@ -1050,7 +994,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-030
+- id: L46-030
   type: transformation
   tier: primary
   front_en: you (informal) were speaking
@@ -1062,7 +1006,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-032
+- id: L46-032
   type: transformation
   tier: primary
   front_en: we were speaking
@@ -1074,7 +1018,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-033
+- id: L46-033
   type: transformation
   tier: primary
   front_en: I/he was waiting
@@ -1086,7 +1030,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-034
+- id: L46-034
   type: transformation
   tier: primary
   front_en: I/he was trying
@@ -1097,7 +1041,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-035
+- id: L46-035
   type: sentence
   tier: primary
   front_en: I used to speak.
@@ -1109,7 +1053,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-036
+- id: L46-036
   type: sentence
   tier: primary
   front_en: We were speaking.
@@ -1120,7 +1064,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-037
+- id: L46-037
   type: sentence
   tier: primary
   front_en: I was waiting for you.
@@ -1132,7 +1076,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-038
+- id: L46-038
   type: sentence
   tier: primary
   front_en: I was waiting for him.
@@ -1144,7 +1088,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-039
+- id: L46-039
   type: sentence
   tier: primary
   front_en: I was waiting for her.
@@ -1156,7 +1100,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-040
+- id: L46-040
   type: sentence
   tier: primary
   front_en: We were waiting for him.
@@ -1167,7 +1111,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-041
+- id: L46-041
   type: sentence
   tier: primary
   front_en: We were waiting for them.
@@ -1178,7 +1122,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-042
+- id: L46-042
   type: sentence
   tier: primary
   front_en: I was trying.
@@ -1189,19 +1133,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-043
-  type: sentence
-  tier: primary
-  front_en: They were trying to find it.
-  back_es: Intentaban encontrarlo.
-  hint: -lo on the 'to' form
-  rule_ref: L46#10
-  lessons:
-  - 46
-  directions:
-  - en_es
-  - es_en
-- id: l46-044
+- id: L46-044
   type: sentence
   tier: primary
   front_en: They were trying to find it for me. (encontrármelo)
@@ -1213,66 +1145,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-045
-  type: transformation
-  tier: extended
-  front_en: looked / watched (participle)
-  back_es: mirado
-  hint: -ar → -ado
-  rule_ref: L46#3
-  lessons:
-  - 46
-  directions:
-  - en_es
-  - es_en
-- id: l46-046
-  type: transformation
-  tier: extended
-  front_en: tried (participle)
-  back_es: intentado
-  hint: -ar → -ado
-  rule_ref: L46#3
-  lessons:
-  - 46
-  directions:
-  - en_es
-  - es_en
-- id: l46-047
-  type: transformation
-  tier: extended
-  front_en: drunk (participle)
-  back_es: bebido
-  hint: -er → -ido
-  rule_ref: L46#3
-  lessons:
-  - 46
-  directions:
-  - en_es
-  - es_en
-- id: l46-048
-  type: transformation
-  tier: extended
-  front_en: lived (participle)
-  back_es: vivido
-  hint: -ir → -ido
-  rule_ref: L46#3
-  lessons:
-  - 46
-  directions:
-  - en_es
-  - es_en
-- id: l46-050
-  type: transformation
-  tier: extended
-  front_en: I/he was dancing
-  back_es: bailaba
-  rule_ref: L46#9
-  lessons:
-  - 46
-  directions:
-  - en_es
-  - es_en
-- id: l46-051
+- id: L46-051
   type: transformation
   tier: extended
   front_en: they were trying
@@ -1283,40 +1156,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-052
-  type: transformation
-  tier: extended
-  front_en: we were waiting
-  back_es: esperábamos
-  rule_ref: L46#10
-  lessons:
-  - 46
-  directions:
-  - en_es
-  - es_en
-- id: l46-053
-  type: sentence
-  tier: extended
-  front_en: We have eaten here.
-  back_es: Hemos comido aquí.
-  rule_ref: L46#2, L46#3
-  lessons:
-  - 46
-  directions:
-  - en_es
-  - es_en
-- id: l46-054
-  type: sentence
-  tier: extended
-  front_en: They have gone out tonight.
-  back_es: Han salido esta noche.
-  rule_ref: L46#2
-  lessons:
-  - 46
-  directions:
-  - en_es
-  - es_en
-- id: l46-055
+- id: L46-055
   type: sentence
   tier: extended
   front_en: You haven't spoken.
@@ -1327,29 +1167,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-057
-  type: sentence
-  tier: extended
-  front_en: She would have danced tonight.
-  back_es: Habría bailado esta noche.
-  rule_ref: L46#6
-  lessons:
-  - 46
-  directions:
-  - en_es
-  - es_en
-- id: l46-058
-  type: sentence
-  tier: extended
-  front_en: You wouldn't have spoken.
-  back_es: No habrías hablado.
-  rule_ref: L46#6, L46#8
-  lessons:
-  - 46
-  directions:
-  - en_es
-  - es_en
-- id: l46-059
+- id: L46-059
   type: sentence
   tier: extended
   front_en: He used to dance every day.
@@ -1361,7 +1179,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-060
+- id: L46-060
   type: sentence
   tier: extended
   front_en: I used to wait here.
@@ -1372,7 +1190,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-061
+- id: L46-061
   type: sentence
   tier: extended
   front_en: We were waiting for you guys.
@@ -1384,7 +1202,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-062
+- id: L46-062
   type: sentence
   tier: extended
   front_en: They were trying to find it for me. (para mí)
@@ -1396,29 +1214,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-063
-  type: sentence
-  tier: extended
-  front_en: I have tried to find it.
-  back_es: He intentado encontrarlo.
-  rule_ref: L46#2, L46#3
-  lessons:
-  - 46
-  directions:
-  - en_es
-  - es_en
-- id: l46-065
-  type: sentence
-  tier: extended
-  front_en: We were trying to find it.
-  back_es: Intentábamos encontrarlo.
-  rule_ref: L46#10
-  lessons:
-  - 46
-  directions:
-  - en_es
-  - es_en
-- id: l46-068
+- id: L46-068
   type: sentence
   tier: extended
   front_en: I haven't been able to find it.
@@ -1429,19 +1225,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-069
-  type: sentence
-  tier: extended
-  front_en: It seems she was waiting for him.
-  back_es: Parece que lo esperaba.
-  rule_ref: L46#13, L45#12
-  lessons:
-  - 45
-  - 46
-  directions:
-  - en_es
-  - es_en
-- id: l46-070
+- id: L46-070
   type: sentence
   tier: extended
   front_en: I was managing the problem.
@@ -1454,63 +1238,13 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l46-071
-  type: sentence
-  tier: extended
-  front_en: They were taking photos.
-  back_es: Tomaban fotos.
-  rule_ref: L46#10, L44#11
-  lessons:
-  - 44
-  - 46
-  directions:
-  - en_es
-  - es_en
-- id: l46-072
-  type: sentence
-  tier: extended
-  front_en: I have taken a photo.
-  back_es: He tomado una foto.
-  rule_ref: L46#2, L44#11
-  lessons:
-  - 44
-  - 46
-  directions:
-  - en_es
-  - es_en
-- id: l46-073
+- id: L46-073
   type: sentence
   tier: extended
   front_en: It interested me.
   back_es: Me interesaba.
   hint: line past of interesar
   rule_ref: L46#9, L45#5
-  lessons:
-  - 45
-  - 46
-  directions:
-  - en_es
-  - es_en
-- id: l46-075
-  type: sentence
-  tier: extended
-  front_en: I would have given you a hand.
-  back_es: Te habría dado una mano.
-  hint: habría + dado (participle of dar)
-  rule_ref: L46#6, L44#16
-  lessons:
-  - 44
-  - 46
-  directions:
-  - en_es
-  - es_en
-- id: l46-076
-  type: sentence
-  tier: extended
-  front_en: He has put salt on it.
-  back_es: Le ha puesto sal.
-  hint: puesto = irregular participle of poner
-  rule_ref: L46#2, L45#21
   lessons:
   - 45
   - 46

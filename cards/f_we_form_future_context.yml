@@ -1,11 +1,11 @@
 bundle: F
-title: 'We form + ir + future-via-context: -emos vs -imos, vamos, ver, vamos a'
+title: 'Bundle F We Form + Future Context (L18-20)'
 lessons:
 - 18
 - 19
 - 20
 cards:
-- id: l18-001
+- id: L18-001
   type: transformation
   tier: primary
   front_en: to prefer
@@ -17,7 +17,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l18-003
+- id: L18-003
   type: transformation
   tier: primary
   front_en: to live
@@ -29,7 +29,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l18-004
+- id: L18-004
   type: transformation
   tier: primary
   front_en: here (Spain)
@@ -41,7 +41,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l18-006
+- id: L18-006
   type: transformation
   tier: primary
   front_en: where
@@ -53,7 +53,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l18-007
+- id: L18-007
   type: transformation
   tier: primary
   front_en: always
@@ -65,117 +65,117 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l18-010
+- id: L18-010
   type: conjugation
   tier: primary
   front_en: we form of preferir
   back_es: preferimos
-  hint: -ir → -imos · stress off root, no split
+  hint: to prefer · -ir → -imos · stress off root, no split
   rule_ref: L18#1, L18#2
   lessons:
   - 18
   directions:
   - en_es
-- id: l18-012
+- id: L18-012
   type: conjugation
   tier: primary
   front_en: we form of vivir
   back_es: vivimos
-  hint: -ir → -imos
+  hint: to live · -ir → -imos
   rule_ref: L18#1, L18#4
   lessons:
   - 18
   directions:
   - en_es
-- id: l18-014
+- id: L18-014
   type: conjugation
   tier: primary
   front_en: we form of perder
   back_es: perdemos
-  hint: -er → -emos · no split
+  hint: to lose · -er → -emos · no split
   rule_ref: L18#1, L18#13
   lessons:
   - 18
   directions:
   - en_es
-- id: l18-020
+- id: L18-020
   type: conjugation
   tier: primary
   front_en: he form of vivir
   back_es: vive
-  hint: -ir borrows the -e of -er
+  hint: to live · -ir borrows the -e of -er
   rule_ref: L18#4
   lessons:
   - 18
   directions:
   - en_es
-- id: l18-021
+- id: L18-021
   type: conjugation
   tier: primary
   front_en: they form of vivir
   back_es: viven
-  hint: -en
+  hint: to live · -en
   rule_ref: L18#4
   lessons:
   - 18
   directions:
   - en_es
-- id: l18-024
+- id: L18-024
   type: conjugation
   tier: primary
   front_en: he form of venir
   back_es: viene
-  hint: e splits to ie · stressed
+  hint: to come · e splits to ie · stressed
   rule_ref: L18#3
   lessons:
   - 18
   directions:
   - en_es
-- id: l18-025
+- id: L18-025
   type: conjugation
   tier: primary
   front_en: they form of venir
   back_es: vienen
-  hint: e splits to ie
+  hint: to come · e splits to ie
   rule_ref: L18#3
   lessons:
   - 18
   directions:
   - en_es
-- id: l18-026
+- id: L18-026
   type: conjugation
   tier: primary
   front_en: I form of preferir
   back_es: prefiero
-  hint: e splits to ie
+  hint: to prefer · e splits to ie
   rule_ref: L18#2
   lessons:
   - 18
   directions:
   - en_es
-- id: l18-027
+- id: L18-027
   type: conjugation
   tier: primary
   front_en: he form of preferir
   back_es: prefiere
-  hint: e splits to ie
+  hint: to prefer · e splits to ie
   rule_ref: L18#2
   lessons:
   - 18
   directions:
   - en_es
-- id: l18-028
+- id: L18-028
   type: conjugation
   tier: primary
   front_en: they form of preferir
   back_es: prefieren
-  hint: e splits to ie
+  hint: to prefer · e splits to ie
   rule_ref: L18#2
   lessons:
   - 18
   directions:
   - en_es
-- id: l18-029
+- id: L18-029
   type: sentence
   tier: primary
   front_en: I live here.
@@ -187,7 +187,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l18-030
+- id: L18-030
   type: sentence
   tier: primary
   front_en: I don't live here.
@@ -198,7 +198,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l18-031
+- id: L18-031
   type: sentence
   tier: primary
   front_en: They live here.
@@ -209,7 +209,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l18-032
+- id: L18-032
   type: sentence
   tier: primary
   front_en: We live here.
@@ -221,7 +221,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l18-033
+- id: L18-033
   type: sentence
   tier: primary
   front_en: Where do they live?
@@ -232,7 +232,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l18-034
+- id: L18-034
   type: sentence
   tier: primary
   front_en: I want to know where they live.
@@ -244,7 +244,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l18-035
+- id: L18-035
   type: sentence
   tier: primary
   front_en: But he lives here.
@@ -256,7 +256,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l18-036
+- id: L18-036
   type: sentence
   tier: primary
   front_en: I don't live here, but he does.
@@ -268,7 +268,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l18-037
+- id: L18-037
   type: sentence
   tier: primary
   front_en: We come tomorrow.
@@ -281,7 +281,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l18-038
+- id: L18-038
   type: sentence
   tier: primary
   front_en: We prefer to eat here.
@@ -293,7 +293,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l18-039
+- id: L18-039
   type: sentence
   tier: primary
   front_en: We always lose.
@@ -305,19 +305,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l18-040
-  type: sentence
-  tier: primary
-  front_en: We understand.
-  back_es: Entendemos.
-  hint: -er → -emos · no split (stress off root)
-  rule_ref: L18#1, L18#12
-  lessons:
-  - 18
-  directions:
-  - en_es
-  - es_en
-- id: l18-041
+- id: L18-041
   type: sentence
   tier: primary
   front_en: We don't understand.
@@ -328,7 +316,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l18-042
+- id: L18-042
   type: sentence
   tier: primary
   front_en: He doesn't understand.
@@ -340,7 +328,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l18-043
+- id: L18-043
   type: sentence
   tier: primary
   front_en: Why doesn't he understand?
@@ -351,7 +339,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l18-044
+- id: L18-044
   type: sentence
   tier: primary
   front_en: I want to know why he doesn't understand.
@@ -362,7 +350,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l18-045
+- id: L18-045
   type: sentence
   tier: primary
   front_en: Long live the revolution!
@@ -373,800 +361,29 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l19-001
-  type: transformation
-  tier: primary
-  front_en: to go
-  back_es: ir
-  hint: just two letters · doubly weird verb
-  rule_ref: L19#2
-  lessons:
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-003
-  type: transformation
-  tier: primary
-  front_en: to where? / where to?
-  back_es: ¿a dónde?
-  hint: '*a* + *dónde*'
-  rule_ref: L19#4
-  lessons:
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-005
-  type: transformation
-  tier: primary
-  front_en: tonight
-  back_es: esta noche
-  hint: literally *this night* · *noche* is feminine
-  rule_ref: L19#7, L19#8
-  lessons:
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-007
-  type: transformation
-  tier: primary
-  front_en: the meat
-  back_es: la carne
-  hint: 'feminine · mnemonic: carnage'
-  rule_ref: L19#9
-  lessons:
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-008
-  type: transformation
-  tier: primary
-  front_en: and
-  back_es: y
-  hint: single letter
-  rule_ref: L19#10
-  lessons:
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-012
-  type: transformation
-  tier: primary
-  front_en: good
-  back_es: bueno
-  hint: from *bon/bene* · e splits to ue
-  rule_ref: L19#12
-  lessons:
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-013
-  type: transformation
-  tier: primary
-  front_en: well
-  back_es: bien
-  hint: stressed e splits to ie · cousin of *bueno*
-  rule_ref: L19#12
-  lessons:
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-014
-  type: transformation
-  tier: primary
-  front_en: welcome
-  back_es: bienvenido
-  hint: '*bien* + *venido* (come)'
-  rule_ref: L19#12
-  lessons:
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-015
-  type: transformation
-  tier: primary
-  front_en: the opinion
-  back_es: la opinión
-  hint: -ión → feminine
-  rule_ref: L19#8
-  lessons:
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-016
-  type: transformation
-  tier: primary
-  front_en: the opportunity
-  back_es: la oportunidad
-  hint: -idad → feminine · single p
-  rule_ref: L19#8
-  lessons:
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-017
-  type: conjugation
-  tier: primary
-  front_en: I form of ir
-  back_es: voy
-  hint: voy-age · from a different old verb
-  rule_ref: L19#2, L19#3
-  lessons:
-  - 19
-  directions:
-  - en_es
-- id: l19-018
-  type: conjugation
-  tier: primary
-  front_en: you form of ir
-  back_es: vas
-  hint: work back from *vamos*
-  rule_ref: L19#1, L19#3
-  lessons:
-  - 19
-  directions:
-  - en_es
-- id: l19-019
-  type: conjugation
-  tier: primary
-  front_en: he form of ir
-  back_es: va
-  hint: no -e (because *ir* uses /a/ here)
-  rule_ref: L19#1, L19#3
-  lessons:
-  - 19
-  directions:
-  - en_es
-- id: l19-020
-  type: conjugation
-  tier: primary
-  front_en: we form of ir
-  back_es: vamos
-  hint: irregular · -amos · also *let's go*
-  rule_ref: L19#3, L20#13
-  lessons:
-  - 19
-  directions:
-  - en_es
-- id: l19-021
-  type: conjugation
-  tier: primary
-  front_en: they form of ir
-  back_es: van
-  hint: -an
-  rule_ref: L19#1, L19#3
-  lessons:
-  - 19
-  directions:
-  - en_es
-- id: l19-022
-  type: sentence
-  tier: primary
-  front_en: Where are you going?
-  back_es: ¿A dónde vas?
-  hint: '*a* = to · question mark on both sides'
-  rule_ref: L19#4, L19#3
-  lessons:
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-023
-  type: sentence
-  tier: primary
-  front_en: I want to go.
-  back_es: Quiero ir.
-  hint: '*ir* plugs into *quiero*'
-  rule_ref: L19#5
-  lessons:
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-024
-  type: sentence
-  tier: primary
-  front_en: I can go.
-  back_es: Puedo ir.
-  rule_ref: L19#5
-  lessons:
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-025
-  type: sentence
-  tier: primary
-  front_en: I must go.
-  back_es: Debo ir.
-  hint: '*debo* = must (serious)'
-  rule_ref: L19#5, L19#6
-  lessons:
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-026
-  type: sentence
-  tier: primary
-  front_en: I have to go.
-  back_es: Tengo que ir.
-  hint: '*tengo* + *que* = have to (lighter)'
-  rule_ref: L19#6
-  lessons:
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-027
-  type: sentence
-  tier: primary
-  front_en: I have to go now.
-  back_es: Tengo que ir ahora.
-  hint: silent h in *ahora*
-  rule_ref: L19#6, L19#11
-  lessons:
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-028
-  type: sentence
-  tier: primary
-  front_en: I have to go tonight.
-  back_es: Tengo que ir esta noche.
-  rule_ref: L19#6, L19#7
-  lessons:
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-029
-  type: sentence
-  tier: primary
-  front_en: I don't eat meat.
-  back_es: No como carne.
-  hint: '*la carne* — feminine'
-  rule_ref: L19#9
-  lessons:
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-031
-  type: sentence
-  tier: primary
-  front_en: I don't eat meat and I don't drink alcohol.
-  back_es: No como carne y no tomo alcohol.
-  hint: '*y* = and'
-  rule_ref: L19#10, L19#9, L19#11
-  lessons:
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-032
-  type: sentence
-  tier: primary
-  front_en: I eat meat and I drink alcohol.
-  back_es: Como carne y tomo alcohol.
-  rule_ref: L19#10
-  lessons:
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-033
-  type: sentence
-  tier: primary
-  front_en: We're going to Madrid.
-  back_es: Vamos a Madrid.
-  hint: '*a* = to'
-  rule_ref: L19#3, L19#4
-  lessons:
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-034
-  type: sentence
-  tier: primary
-  front_en: They're going now.
-  back_es: Van ahora.
-  rule_ref: L19#3, L19#11
-  lessons:
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-035
-  type: sentence
-  tier: primary
-  front_en: She's going tonight.
-  back_es: Va esta noche.
-  rule_ref: L19#3, L19#7
-  lessons:
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l20-001
-  type: transformation
-  tier: primary
-  front_en: to see / to view
-  back_es: ver
-  hint: -er verb · mostly regular
-  rule_ref: L20#3
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-005
-  type: transformation
-  tier: primary
-  front_en: her / it (fem)
-  back_es: la
-  hint: object pronoun · before changed verb
-  rule_ref: L20#5, L20#6
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-006
-  type: transformation
-  tier: primary
-  front_en: him / it (masc)
-  back_es: lo
-  hint: object pronoun
-  rule_ref: L20#6
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-009
-  type: transformation
-  tier: primary
-  front_en: us / ourselves / each other
-  back_es: nos
-  hint: all three meanings
-  rule_ref: L20#15
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-012
-  type: transformation
-  tier: primary
-  front_en: the week
-  back_es: la semana
-  hint: feminine
-  rule_ref: L20#11
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-013
-  type: transformation
-  tier: primary
-  front_en: next week
-  back_es: la semana que viene
-  hint: literally *the week that comes*
-  rule_ref: L20#11, L20#12
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-014
-  type: transformation
-  tier: primary
-  front_en: see you
-  back_es: nos vemos
-  hint: literally *we see each other*
-  rule_ref: L20#15, L20#16
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-015
-  type: transformation
-  tier: primary
-  front_en: we're going to / let's
-  back_es: vamos a
-  hint: '*vamos* + *a* + to-form'
-  rule_ref: L20#8
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-017
-  type: conjugation
-  tier: primary
-  front_en: I form of ver
-  back_es: veo
-  hint: keep the e · /beo/
-  rule_ref: L20#4
-  lessons:
-  - 20
-  directions:
-  - en_es
-- id: l20-020
-  type: conjugation
-  tier: primary
-  front_en: we form of ver
-  back_es: vemos
-  hint: -er → -emos
-  rule_ref: L20#3, L18#1
-  lessons:
-  - 18
-  - 20
-  directions:
-  - en_es
-- id: l20-022
-  type: sentence
-  tier: primary
-  front_en: I see her later.
-  back_es: La veo más tarde.
-  hint: '*la* before the changed verb'
-  rule_ref: L20#5, L20#1, L20#2
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-023
-  type: sentence
-  tier: primary
-  front_en: I'm seeing her tonight.
-  back_es: La veo esta noche.
-  hint: present + time = future
-  rule_ref: L20#1, L20#5
-  lessons:
-  - 19
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-024
-  type: sentence
-  tier: primary
-  front_en: We're seeing her soon.
-  back_es: La vemos pronto.
-  rule_ref: L20#1, L20#5, L20#2
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-025
-  type: sentence
-  tier: primary
-  front_en: We're seeing them (fem) soon.
-  back_es: Las vemos pronto.
-  rule_ref: L20#1, L20#6, L20#2
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-026
-  type: sentence
-  tier: primary
-  front_en: He's seeing them (fem) soon.
-  back_es: Las ve pronto.
-  rule_ref: L20#1, L20#6, L20#2
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-027
-  type: sentence
-  tier: primary
-  front_en: You're seeing her soon.
-  back_es: La ves pronto.
-  rule_ref: L20#1, L20#5, L20#2
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-028
-  type: sentence
-  tier: primary
-  front_en: You're seeing them (fem) soon.
-  back_es: Las ves pronto.
-  rule_ref: L20#1, L20#6, L20#2
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-029
-  type: sentence
-  tier: primary
-  front_en: Are you seeing them soon?
-  back_es: ¿Las ves pronto?
-  rule_ref: L20#10
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-030
-  type: sentence
-  tier: primary
-  front_en: Aren't you seeing them soon?
-  back_es: ¿No las ves pronto?
-  hint: '*no* before the pronoun'
-  rule_ref: L20#10
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-031
-  type: sentence
-  tier: primary
-  front_en: Why aren't you seeing them soon?
-  back_es: ¿Por qué no las ves pronto?
-  rule_ref: L20#10
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-032
-  type: sentence
-  tier: primary
-  front_en: We're going to see her.
-  back_es: Vamos a verla.
-  hint: '*la* sticks onto *ver*'
-  rule_ref: L20#8
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-033
-  type: sentence
-  tier: primary
-  front_en: Are you going to see him soon?
-  back_es: ¿Vas a verlo pronto?
-  hint: '*lo* sticks onto *ver*'
-  rule_ref: L20#8
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-034
-  type: sentence
-  tier: primary
-  front_en: Are you going to see us soon?
-  back_es: ¿Vas a vernos pronto?
-  hint: or *¿Nos vas a ver pronto?* — both correct
-  rule_ref: L20#8, L20#9
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-035
-  type: sentence
-  tier: primary
-  front_en: Why aren't you going to see us soon?
-  back_es: ¿Por qué no vas a vernos pronto?
-  rule_ref: L20#8, L20#10
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-036
-  type: sentence
-  tier: primary
-  front_en: Let's speak next week.
-  back_es: Hablamos la semana que viene.
-  hint: we-form = let's
-  rule_ref: L20#13, L20#11
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-037
-  type: sentence
-  tier: primary
-  front_en: See you.
-  back_es: Nos vemos.
-  rule_ref: L20#15, L20#16
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-038
-  type: sentence
-  tier: primary
-  front_en: See you next week.
-  back_es: Nos vemos la semana que viene.
-  rule_ref: L20#15, L20#11
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-039
-  type: sentence
-  tier: primary
-  front_en: Let's go.
-  back_es: Vamos.
-  hint: we-form doubles as *let's*
-  rule_ref: L20#13, L19#3
-  lessons:
-  - 19
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-040
-  type: sentence
-  tier: primary
-  front_en: Are you going to see her tonight?
-  back_es: ¿Vas a verla esta noche?
-  rule_ref: L20#8, L19#7
-  lessons:
-  - 19
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-041
-  type: sentence
-  tier: primary
-  front_en: We're going to see them (fem) tomorrow.
-  back_es: Vamos a verlas mañana.
-  rule_ref: L20#8, L20#2
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-042
-  type: sentence
-  tier: primary
-  front_en: I'm going to see him later.
-  back_es: Voy a verlo más tarde.
-  rule_ref: L20#8, L20#2
-  lessons:
-  - 19
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-043
-  type: sentence
-  tier: primary
-  front_en: She sees us tomorrow.
-  back_es: Nos ve mañana.
-  hint: '*nos* before changed verb'
-  rule_ref: L20#5, L20#1, L20#2
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-044
-  type: sentence
-  tier: primary
-  front_en: I see you (informal) later.
-  back_es: Te veo más tarde.
-  rule_ref: L20#5, L20#1, L20#2
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-045
-  type: sentence
-  tier: primary
-  front_en: You see me tomorrow.
-  back_es: Me ves mañana.
-  rule_ref: L20#5, L20#1, L20#2
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-066
-  type: sentence
-  tier: primary
-  front_en: I have to see her tonight.
-  back_es: Tengo que verla esta noche.
-  hint: '*la* attaches to *ver*'
-  rule_ref: L19#6, L20#8, L19#7
-  lessons:
-  - 19
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-067
-  type: sentence
-  tier: primary
-  front_en: We're going to drink tonight.
-  back_es: Vamos a tomar esta noche.
-  rule_ref: L20#8, L19#7
-  lessons:
-  - 19
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l18-046
+- id: L18-046
   type: conjugation
   tier: extended
   front_en: you form of preferir
   back_es: prefieres
-  hint: e splits to ie
+  hint: to prefer · e splits to ie
   rule_ref: L18#2
   lessons:
   - 18
   directions:
   - en_es
-- id: l18-047
+- id: L18-047
   type: conjugation
   tier: extended
   front_en: you form of venir
   back_es: vienes
-  hint: e splits to ie
+  hint: to come · e splits to ie
   rule_ref: L18#3
   lessons:
   - 18
   directions:
   - en_es
-- id: l18-048
-  type: sentence
-  tier: extended
-  front_en: We prefer to live here.
-  back_es: Preferimos vivir aquí.
-  rule_ref: L18#1, L18#2, L18#4
-  lessons:
-  - 18
-  directions:
-  - en_es
-  - es_en
-- id: l18-049
-  type: sentence
-  tier: extended
-  front_en: We sell the meat.
-  back_es: Vendemos la carne.
-  hint: -er → -emos
-  rule_ref: L18#1, L19#9
-  lessons:
-  - 18
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l18-050
+- id: L18-050
   type: sentence
   tier: extended
   front_en: We always lose in summer.
@@ -1177,7 +394,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l18-051
+- id: L18-051
   type: sentence
   tier: extended
   front_en: We always speak Spanish here.
@@ -1188,7 +405,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l18-052
+- id: L18-052
   type: sentence
   tier: extended
   front_en: I prefer to come tomorrow.
@@ -1200,7 +417,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l18-053
+- id: L18-053
   type: sentence
   tier: extended
   front_en: Where do you live?
@@ -1211,7 +428,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l18-054
+- id: L18-054
   type: sentence
   tier: extended
   front_en: We don't live here.
@@ -1222,7 +439,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l18-055
+- id: L18-055
   type: sentence
   tier: extended
   front_en: She prefers summer.
@@ -1233,20 +450,333 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l19-036
-  type: sentence
-  tier: extended
-  front_en: We have to go now.
-  back_es: Tenemos que ir ahora.
-  hint: we-form of *tener* = *tenemos*
-  rule_ref: L19#6, L18#1, L19#11
+- id: L19-001
+  type: transformation
+  tier: primary
+  front_en: to go
+  back_es: ir
+  hint: just two letters · doubly weird verb
+  rule_ref: L19#2
   lessons:
-  - 18
   - 19
   directions:
   - en_es
   - es_en
-- id: l19-037
+- id: L19-003
+  type: transformation
+  tier: primary
+  front_en: to where? / where to?
+  back_es: ¿a dónde?
+  hint: '*a* + *dónde*'
+  rule_ref: L19#4
+  lessons:
+  - 19
+  directions:
+  - en_es
+  - es_en
+- id: L19-005
+  type: transformation
+  tier: primary
+  front_en: tonight
+  back_es: esta noche
+  hint: literally *this night* · *noche* is feminine
+  rule_ref: L19#7, L19#8
+  lessons:
+  - 19
+  directions:
+  - en_es
+  - es_en
+- id: L19-007
+  type: transformation
+  tier: primary
+  front_en: the meat
+  back_es: la carne
+  hint: 'feminine · mnemonic: carnage'
+  rule_ref: L19#9
+  lessons:
+  - 19
+  directions:
+  - en_es
+  - es_en
+- id: L19-008
+  type: transformation
+  tier: primary
+  front_en: and
+  back_es: y
+  hint: single letter
+  rule_ref: L19#10
+  lessons:
+  - 19
+  directions:
+  - en_es
+  - es_en
+- id: L19-012
+  type: transformation
+  tier: primary
+  front_en: good
+  back_es: bueno
+  hint: from *bon/bene* · e splits to ue
+  rule_ref: L19#12
+  lessons:
+  - 19
+  directions:
+  - en_es
+  - es_en
+- id: L19-013
+  type: transformation
+  tier: primary
+  front_en: well
+  back_es: bien
+  hint: stressed e splits to ie · cousin of *bueno*
+  rule_ref: L19#12
+  lessons:
+  - 19
+  directions:
+  - en_es
+  - es_en
+- id: L19-014
+  type: transformation
+  tier: primary
+  front_en: welcome
+  back_es: bienvenido
+  hint: '*bien* + *venido* (come)'
+  rule_ref: L19#12
+  lessons:
+  - 19
+  directions:
+  - en_es
+  - es_en
+- id: L19-015
+  type: transformation
+  tier: primary
+  front_en: the opinion
+  back_es: la opinión
+  hint: -ión → feminine
+  rule_ref: L19#8
+  lessons:
+  - 19
+  directions:
+  - en_es
+  - es_en
+- id: L19-016
+  type: transformation
+  tier: primary
+  front_en: the opportunity
+  back_es: la oportunidad
+  hint: -idad → feminine · single p
+  rule_ref: L19#8
+  lessons:
+  - 19
+  directions:
+  - en_es
+  - es_en
+- id: L19-017
+  type: conjugation
+  tier: primary
+  front_en: I form of ir
+  back_es: voy
+  hint: to go · voy-age · from a different old verb
+  rule_ref: L19#2, L19#3
+  lessons:
+  - 19
+  directions:
+  - en_es
+- id: L19-018
+  type: conjugation
+  tier: primary
+  front_en: you form of ir
+  back_es: vas
+  hint: to go · work back from *vamos*
+  rule_ref: L19#1, L19#3
+  lessons:
+  - 19
+  directions:
+  - en_es
+- id: L19-019
+  type: conjugation
+  tier: primary
+  front_en: he form of ir
+  back_es: va
+  hint: to go · no -e (because *ir* uses /a/ here)
+  rule_ref: L19#1, L19#3
+  lessons:
+  - 19
+  directions:
+  - en_es
+- id: L19-020
+  type: conjugation
+  tier: primary
+  front_en: we form of ir
+  back_es: vamos
+  hint: irregular · -amos · also *let's go*
+  rule_ref: L19#3, L20#13
+  lessons:
+  - 19
+  directions:
+  - en_es
+- id: L19-021
+  type: conjugation
+  tier: primary
+  front_en: they form of ir
+  back_es: van
+  hint: to go · -an
+  rule_ref: L19#1, L19#3
+  lessons:
+  - 19
+  directions:
+  - en_es
+- id: L19-022
+  type: sentence
+  tier: primary
+  front_en: Where are you going?
+  back_es: ¿A dónde vas?
+  hint: '*a* = to · question mark on both sides'
+  rule_ref: L19#4, L19#3
+  lessons:
+  - 19
+  directions:
+  - en_es
+  - es_en
+- id: L19-023
+  type: sentence
+  tier: primary
+  front_en: I want to go.
+  back_es: Quiero ir.
+  hint: '*ir* plugs into *quiero*'
+  rule_ref: L19#5
+  lessons:
+  - 19
+  directions:
+  - en_es
+  - es_en
+- id: L19-024
+  type: sentence
+  tier: primary
+  front_en: I can go.
+  back_es: Puedo ir.
+  rule_ref: L19#5
+  lessons:
+  - 19
+  directions:
+  - en_es
+  - es_en
+- id: L19-025
+  type: sentence
+  tier: primary
+  front_en: I must go.
+  back_es: Debo ir.
+  hint: '*debo* = must (serious)'
+  rule_ref: L19#5, L19#6
+  lessons:
+  - 19
+  directions:
+  - en_es
+  - es_en
+- id: L19-026
+  type: sentence
+  tier: primary
+  front_en: I have to go.
+  back_es: Tengo que ir.
+  hint: '*tengo* + *que* = have to (lighter)'
+  rule_ref: L19#6
+  lessons:
+  - 19
+  directions:
+  - en_es
+  - es_en
+- id: L19-027
+  type: sentence
+  tier: primary
+  front_en: I have to go now.
+  back_es: Tengo que ir ahora.
+  hint: silent h in *ahora*
+  rule_ref: L19#6, L19#11
+  lessons:
+  - 19
+  directions:
+  - en_es
+  - es_en
+- id: L19-028
+  type: sentence
+  tier: primary
+  front_en: I have to go tonight.
+  back_es: Tengo que ir esta noche.
+  rule_ref: L19#6, L19#7
+  lessons:
+  - 19
+  directions:
+  - en_es
+  - es_en
+- id: L19-029
+  type: sentence
+  tier: primary
+  front_en: I don't eat meat.
+  back_es: No como carne.
+  hint: '*la carne* — feminine'
+  rule_ref: L19#9
+  lessons:
+  - 19
+  directions:
+  - en_es
+  - es_en
+- id: L19-031
+  type: sentence
+  tier: primary
+  front_en: I don't eat meat and I don't drink alcohol.
+  back_es: No como carne y no tomo alcohol.
+  hint: '*y* = and'
+  rule_ref: L19#10, L19#9, L19#11
+  lessons:
+  - 19
+  directions:
+  - en_es
+  - es_en
+- id: L19-032
+  type: sentence
+  tier: primary
+  front_en: I eat meat and I drink alcohol.
+  back_es: Como carne y tomo alcohol.
+  rule_ref: L19#10
+  lessons:
+  - 19
+  directions:
+  - en_es
+  - es_en
+- id: L19-033
+  type: sentence
+  tier: primary
+  front_en: We're going to Madrid.
+  back_es: Vamos a Madrid.
+  hint: '*a* = to'
+  rule_ref: L19#3, L19#4
+  lessons:
+  - 19
+  directions:
+  - en_es
+  - es_en
+- id: L19-034
+  type: sentence
+  tier: primary
+  front_en: They're going now.
+  back_es: Van ahora.
+  rule_ref: L19#3, L19#11
+  lessons:
+  - 19
+  directions:
+  - en_es
+  - es_en
+- id: L19-035
+  type: sentence
+  tier: primary
+  front_en: She's going tonight.
+  back_es: Va esta noche.
+  rule_ref: L19#3, L19#7
+  lessons:
+  - 19
+  directions:
+  - en_es
+  - es_en
+- id: L19-037
   type: sentence
   tier: extended
   front_en: Where are they going?
@@ -1257,42 +787,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l19-038
-  type: sentence
-  tier: extended
-  front_en: I'm going tonight.
-  back_es: Voy esta noche.
-  rule_ref: L19#3, L19#7
-  lessons:
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-039
-  type: sentence
-  tier: extended
-  front_en: We must go now.
-  back_es: Debemos ir ahora.
-  rule_ref: L19#5, L18#1, L19#11
-  lessons:
-  - 18
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-040
-  type: sentence
-  tier: extended
-  front_en: I have to know where they live.
-  back_es: Tengo que saber dónde viven.
-  rule_ref: L19#6, L18#10, L18#4
-  lessons:
-  - 18
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-041
+- id: L19-041
   type: sentence
   tier: extended
   front_en: She doesn't eat meat.
@@ -1303,30 +798,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l19-042
-  type: sentence
-  tier: extended
-  front_en: We eat and we drink.
-  back_es: Comemos y tomamos.
-  rule_ref: L18#1, L19#10
-  lessons:
-  - 18
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-043
-  type: sentence
-  tier: extended
-  front_en: Why are you going now?
-  back_es: ¿Por qué vas ahora?
-  rule_ref: L19#3, L19#11
-  lessons:
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-044
+- id: L19-044
   type: sentence
   tier: extended
   front_en: I want to know your opinion.
@@ -1339,7 +811,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l19-045
+- id: L19-045
   type: sentence
   tier: extended
   front_en: It's a good opportunity.
@@ -1351,7 +823,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l19-047
+- id: L19-047
   type: sentence
   tier: extended
   front_en: I don't have to go tonight.
@@ -1362,55 +834,313 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l19-048
-  type: sentence
-  tier: extended
-  front_en: But I have to go now.
-  back_es: Pero tengo que ir ahora.
-  rule_ref: L19#6, L19#11
-  lessons:
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-049
-  type: sentence
-  tier: extended
-  front_en: Can we go tonight?
-  back_es: ¿Podemos ir esta noche?
-  hint: we-form of *poder*
-  rule_ref: L19#5, L18#1, L19#7
-  lessons:
-  - 18
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l19-050
-  type: sentence
-  tier: extended
-  front_en: We want to go to Madrid.
-  back_es: Queremos ir a Madrid.
-  hint: we-form of *querer*
-  rule_ref: L19#5, L18#1, L19#4
-  lessons:
-  - 18
-  - 19
-  directions:
-  - en_es
-  - es_en
-- id: l20-046
-  type: sentence
-  tier: extended
-  front_en: I see him tomorrow.
-  back_es: Lo veo mañana.
-  rule_ref: L20#5, L20#6, L20#2
+- id: L20-001
+  type: transformation
+  tier: primary
+  front_en: to see / to view
+  back_es: ver
+  hint: -er verb · mostly regular
+  rule_ref: L20#3
   lessons:
   - 20
   directions:
   - en_es
   - es_en
-- id: l20-047
+- id: L20-005
+  type: transformation
+  tier: primary
+  front_en: her / it (fem)
+  back_es: la
+  hint: object pronoun · before changed verb
+  rule_ref: L20#5, L20#6
+  lessons:
+  - 20
+  directions:
+  - en_es
+  - es_en
+- id: L20-006
+  type: transformation
+  tier: primary
+  front_en: him / it (masc)
+  back_es: lo
+  hint: object pronoun
+  rule_ref: L20#6
+  lessons:
+  - 20
+  directions:
+  - en_es
+  - es_en
+- id: L20-009
+  type: transformation
+  tier: primary
+  front_en: us / ourselves / each other
+  back_es: nos
+  hint: all three meanings
+  rule_ref: L20#15
+  lessons:
+  - 20
+  directions:
+  - en_es
+  - es_en
+- id: L20-012
+  type: transformation
+  tier: primary
+  front_en: the week
+  back_es: la semana
+  hint: feminine
+  rule_ref: L20#11
+  lessons:
+  - 20
+  directions:
+  - en_es
+  - es_en
+- id: L20-013
+  type: transformation
+  tier: primary
+  front_en: next week
+  back_es: la semana que viene
+  hint: literally *the week that comes*
+  rule_ref: L20#11, L20#12
+  lessons:
+  - 20
+  directions:
+  - en_es
+  - es_en
+- id: L20-014
+  type: transformation
+  tier: primary
+  front_en: see you
+  back_es: nos vemos
+  hint: literally *we see each other*
+  rule_ref: L20#15, L20#16
+  lessons:
+  - 20
+  directions:
+  - en_es
+  - es_en
+- id: L20-015
+  type: transformation
+  tier: primary
+  front_en: we're going to / let's
+  back_es: vamos a
+  hint: '*vamos* + *a* + to-form'
+  rule_ref: L20#8
+  lessons:
+  - 20
+  directions:
+  - en_es
+  - es_en
+- id: L20-017
+  type: conjugation
+  tier: primary
+  front_en: I form of ver
+  back_es: veo
+  hint: to see · keep the e · /beo/
+  rule_ref: L20#4
+  lessons:
+  - 20
+  directions:
+  - en_es
+- id: L20-020
+  type: conjugation
+  tier: primary
+  front_en: we form of ver
+  back_es: vemos
+  hint: to see · -er → -emos
+  rule_ref: L20#3, L18#1
+  lessons:
+  - 18
+  - 20
+  directions:
+  - en_es
+- id: L20-022
+  type: sentence
+  tier: primary
+  front_en: I see her later.
+  back_es: La veo más tarde.
+  hint: '*la* before the changed verb'
+  rule_ref: L20#5, L20#1, L20#2
+  lessons:
+  - 20
+  directions:
+  - en_es
+  - es_en
+- id: L20-023
+  type: sentence
+  tier: primary
+  front_en: I'm seeing her tonight.
+  back_es: La veo esta noche.
+  hint: present + time = future
+  rule_ref: L20#1, L20#5
+  lessons:
+  - 19
+  - 20
+  directions:
+  - en_es
+  - es_en
+- id: L20-024
+  type: sentence
+  tier: primary
+  front_en: We're seeing her soon.
+  back_es: La vemos pronto.
+  rule_ref: L20#1, L20#5, L20#2
+  lessons:
+  - 20
+  directions:
+  - en_es
+  - es_en
+- id: L20-025
+  type: sentence
+  tier: primary
+  front_en: We're seeing them (fem) soon.
+  back_es: Las vemos pronto.
+  rule_ref: L20#1, L20#6, L20#2
+  lessons:
+  - 20
+  directions:
+  - en_es
+  - es_en
+- id: L20-029
+  type: sentence
+  tier: primary
+  front_en: Are you seeing them soon?
+  back_es: ¿Las ves pronto?
+  rule_ref: L20#10
+  lessons:
+  - 20
+  directions:
+  - en_es
+  - es_en
+- id: L20-030
+  type: sentence
+  tier: primary
+  front_en: Aren't you seeing them soon?
+  back_es: ¿No las ves pronto?
+  hint: '*no* before the pronoun'
+  rule_ref: L20#10
+  lessons:
+  - 20
+  directions:
+  - en_es
+  - es_en
+- id: L20-031
+  type: sentence
+  tier: primary
+  front_en: Why aren't you seeing them soon?
+  back_es: ¿Por qué no las ves pronto?
+  rule_ref: L20#10
+  lessons:
+  - 20
+  directions:
+  - en_es
+  - es_en
+- id: L20-032
+  type: sentence
+  tier: primary
+  front_en: We're going to see her.
+  back_es: Vamos a verla.
+  hint: '*la* sticks onto *ver*'
+  rule_ref: L20#8
+  lessons:
+  - 20
+  directions:
+  - en_es
+  - es_en
+- id: L20-033
+  type: sentence
+  tier: primary
+  front_en: Are you going to see him soon?
+  back_es: ¿Vas a verlo pronto?
+  hint: '*lo* sticks onto *ver*'
+  rule_ref: L20#8
+  lessons:
+  - 20
+  directions:
+  - en_es
+  - es_en
+- id: L20-034
+  type: sentence
+  tier: primary
+  front_en: Are you going to see us soon?
+  back_es: ¿Vas a vernos pronto?
+  hint: or *¿Nos vas a ver pronto?* — both correct
+  rule_ref: L20#8, L20#9
+  lessons:
+  - 20
+  directions:
+  - en_es
+  - es_en
+- id: L20-036
+  type: sentence
+  tier: primary
+  front_en: Let's speak next week.
+  back_es: Hablamos la semana que viene.
+  hint: we-form = let's
+  rule_ref: L20#13, L20#11
+  lessons:
+  - 20
+  directions:
+  - en_es
+  - es_en
+- id: L20-037
+  type: sentence
+  tier: primary
+  front_en: See you.
+  back_es: Nos vemos.
+  rule_ref: L20#15, L20#16
+  lessons:
+  - 20
+  directions:
+  - en_es
+  - es_en
+- id: L20-038
+  type: sentence
+  tier: primary
+  front_en: See you next week.
+  back_es: Nos vemos la semana que viene.
+  rule_ref: L20#15, L20#11
+  lessons:
+  - 20
+  directions:
+  - en_es
+  - es_en
+- id: L20-039
+  type: sentence
+  tier: primary
+  front_en: Let's go.
+  back_es: Vamos.
+  hint: we-form doubles as *let's*
+  rule_ref: L20#13, L19#3
+  lessons:
+  - 19
+  - 20
+  directions:
+  - en_es
+  - es_en
+- id: L20-043
+  type: sentence
+  tier: primary
+  front_en: She sees us tomorrow.
+  back_es: Nos ve mañana.
+  hint: '*nos* before changed verb'
+  rule_ref: L20#5, L20#1, L20#2
+  lessons:
+  - 20
+  directions:
+  - en_es
+  - es_en
+- id: L20-044
+  type: sentence
+  tier: primary
+  front_en: I see you (informal) later.
+  back_es: Te veo más tarde.
+  rule_ref: L20#5, L20#1, L20#2
+  lessons:
+  - 20
+  directions:
+  - en_es
+  - es_en
+- id: L20-047
   type: sentence
   tier: extended
   front_en: We see each other tomorrow.
@@ -1421,64 +1151,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l20-048
-  type: sentence
-  tier: extended
-  front_en: He doesn't see me.
-  back_es: No me ve.
-  hint: '*no* + *me* + verb'
-  rule_ref: L20#5, L20#10
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-049
-  type: sentence
-  tier: extended
-  front_en: I'm going to see you tomorrow.
-  back_es: Voy a verte mañana.
-  hint: or *te voy a ver mañana*
-  rule_ref: L20#8, L20#9, L20#2
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-050
-  type: sentence
-  tier: extended
-  front_en: Are you going to see her next week?
-  back_es: ¿Vas a verla la semana que viene?
-  rule_ref: L20#8, L20#11
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-051
-  type: sentence
-  tier: extended
-  front_en: They see us soon.
-  back_es: Nos ven pronto.
-  rule_ref: L20#5, L20#2
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-052
-  type: sentence
-  tier: extended
-  front_en: I don't see her.
-  back_es: No la veo.
-  rule_ref: L20#5, L20#10
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-053
+- id: L20-053
   type: sentence
   tier: extended
   front_en: Why don't you see them?
@@ -1489,31 +1162,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l20-054
-  type: sentence
-  tier: extended
-  front_en: We're going to eat tonight.
-  back_es: Vamos a comer esta noche.
-  rule_ref: L20#8, L19#7
-  lessons:
-  - 19
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-055
-  type: sentence
-  tier: extended
-  front_en: I'm not going to drink alcohol.
-  back_es: No voy a tomar alcohol.
-  rule_ref: L20#8, L19#11
-  lessons:
-  - 19
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-056
+- id: L20-056
   type: sentence
   tier: extended
   front_en: Let's eat. (Comemos…)
@@ -1526,76 +1175,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l20-057
-  type: sentence
-  tier: extended
-  front_en: Let's see.
-  back_es: Vemos.
-  hint: we-form of *ver*
-  rule_ref: L20#13, L20#3
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-058
-  type: sentence
-  tier: extended
-  front_en: See you later.
-  back_es: Nos vemos más tarde.
-  rule_ref: L20#15, L20#16, L20#2
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-059
-  type: sentence
-  tier: extended
-  front_en: See you soon, bye.
-  back_es: Nos vemos pronto, ciao.
-  rule_ref: L20#15, L20#16
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-060
-  type: sentence
-  tier: extended
-  front_en: He's not going to see us.
-  back_es: No va a vernos.
-  hint: or *no nos va a ver*
-  rule_ref: L20#8, L20#9, L20#10
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-061
-  type: sentence
-  tier: extended
-  front_en: We're seeing them (mixed) tomorrow.
-  back_es: Los vemos mañana.
-  rule_ref: L20#1, L20#6, L20#2
-  lessons:
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-062
-  type: sentence
-  tier: extended
-  front_en: I'm going to see her tonight.
-  back_es: Voy a verla esta noche.
-  rule_ref: L20#8, L19#7
-  lessons:
-  - 19
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-063
+- id: L20-063
   type: sentence
   tier: extended
   front_en: We come next week.
@@ -1607,7 +1187,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l20-064
+- id: L20-064
   type: sentence
   tier: extended
   front_en: I prefer to see her later.
@@ -1616,17 +1196,6 @@ cards:
   rule_ref: L18#2, L20#8, L20#2
   lessons:
   - 18
-  - 20
-  directions:
-  - en_es
-  - es_en
-- id: l20-065
-  type: sentence
-  tier: extended
-  front_en: Why aren't you going to see him?
-  back_es: ¿Por qué no vas a verlo?
-  rule_ref: L20#8, L20#10
-  lessons:
   - 20
   directions:
   - en_es

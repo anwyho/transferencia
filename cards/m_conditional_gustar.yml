@@ -1,12 +1,12 @@
 bundle: M
-title: 'Preposition pairs + conditional + gustar: enamorarse de, pensar en, -ía, gustar, habría'
+title: 'Bundle M Conditional + Gustar (L40-43)'
 lessons:
 - 40
 - 41
 - 42
 - 43
 cards:
-- id: l40-001
+- id: L40-001
   type: transformation
   tier: primary
   front_en: to fall in love (with oneself)
@@ -18,7 +18,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-002
+- id: L40-002
   type: transformation
   tier: primary
   front_en: I fall in love
@@ -30,7 +30,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-004
+- id: L40-004
   type: transformation
   tier: primary
   front_en: I think
@@ -42,7 +42,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-006
+- id: L40-006
   type: transformation
   tier: primary
   front_en: to dream
@@ -54,7 +54,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-007
+- id: L40-007
   type: transformation
   tier: primary
   front_en: I dream
@@ -66,7 +66,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-009
+- id: L40-009
   type: transformation
   tier: primary
   front_en: with me
@@ -78,7 +78,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-010
+- id: L40-010
   type: transformation
   tier: primary
   front_en: with you (informal)
@@ -90,7 +90,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-011
+- id: L40-011
   type: sentence
   tier: primary
   front_en: I fall in love with you.
@@ -102,7 +102,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-012
+- id: L40-012
   type: sentence
   tier: primary
   front_en: I fall in love with him.
@@ -114,7 +114,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-013
+- id: L40-013
   type: sentence
   tier: primary
   front_en: I'm falling in love. (Me…)
@@ -126,7 +126,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-014
+- id: L40-014
   type: sentence
   tier: primary
   front_en: I'm thinking about you.
@@ -138,7 +138,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-015
+- id: L40-015
   type: sentence
   tier: primary
   front_en: We think about her.
@@ -150,7 +150,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-016
+- id: L40-016
   type: sentence
   tier: primary
   front_en: I dream about her.
@@ -162,7 +162,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-017
+- id: L40-017
   type: sentence
   tier: primary
   front_en: She dreams about him.
@@ -174,7 +174,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-018
+- id: L40-018
   type: sentence
   tier: primary
   front_en: I dream about you.
@@ -186,7 +186,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-019
+- id: L40-019
   type: sentence
   tier: primary
   front_en: Do you want to come with me?
@@ -197,7 +197,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-020
+- id: L40-020
   type: sentence
   tier: primary
   front_en: Don't you want to come with me?
@@ -209,7 +209,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-021
+- id: L40-021
   type: sentence
   tier: primary
   front_en: Why don't you want to come with me?
@@ -220,7 +220,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-022
+- id: L40-022
   type: sentence
   tier: primary
   front_en: I'm going with you.
@@ -232,7 +232,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-023
+- id: L40-023
   type: sentence
   tier: primary
   front_en: You have to come with me.
@@ -243,7 +243,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-024
+- id: L40-024
   type: sentence
   tier: primary
   front_en: Can you come with me?
@@ -254,7 +254,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-025
+- id: L40-025
   type: sentence
   tier: primary
   front_en: It depends.
@@ -266,7 +266,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-026
+- id: L40-026
   type: sentence
   tier: primary
   front_en: It depends on her.
@@ -278,7 +278,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-029
+- id: L40-029
   type: sentence
   tier: primary
   front_en: It depends on if she wants to go.
@@ -290,7 +290,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-031
+- id: L40-031
   type: transformation
   tier: extended
   front_en: morning / tomorrow
@@ -302,7 +302,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-032
+- id: L40-032
   type: transformation
   tier: extended
   front_en: she dreams
@@ -314,7 +314,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-033
+- id: L40-033
   type: transformation
   tier: extended
   front_en: you (informal) dream
@@ -326,19 +326,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-034
-  type: transformation
-  tier: extended
-  front_en: they dream
-  back_es: sueñan
-  hint: o → ue split
-  rule_ref: L40#8
-  lessons:
-  - 40
-  directions:
-  - en_es
-  - es_en
-- id: l40-035
+- id: L40-035
   type: sentence
   tier: extended
   front_en: I'm falling in love. (Estoy…)
@@ -350,7 +338,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-036
+- id: L40-036
   type: sentence
   tier: extended
   front_en: We think about him.
@@ -361,7 +349,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-037
+- id: L40-037
   type: sentence
   tier: extended
   front_en: We dream about you.
@@ -373,7 +361,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-038
+- id: L40-038
   type: sentence
   tier: extended
   front_en: From me / from you.
@@ -385,7 +373,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-039
+- id: L40-039
   type: sentence
   tier: extended
   front_en: It doesn't depend on me.
@@ -397,7 +385,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-040
+- id: L40-040
   type: sentence
   tier: extended
   front_en: Yes, I want to go with you.
@@ -409,7 +397,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-041
+- id: L40-041
   type: sentence
   tier: extended
   front_en: Why don't you come with me?
@@ -420,7 +408,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l40-042
+- id: L40-042
   type: sentence
   tier: extended
   front_en: I think about him constantly.
@@ -431,7 +419,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l41-001
+- id: L41-001
   type: transformation
   tier: primary
   front_en: to dance
@@ -443,7 +431,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l41-004
+- id: L41-004
   type: transformation
   tier: primary
   front_en: time, weather
@@ -455,7 +443,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l41-005
+- id: L41-005
   type: transformation
   tier: primary
   front_en: transformation
@@ -467,62 +455,62 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l41-009
+- id: L41-009
   type: conjugation
   tier: primary
   front_en: I-will form of bailar
   back_es: bailaré
-  hint: full verb + -é · stress on end
+  hint: will dance · full verb + -é · stress on end
   rule_ref: L41#5, L41#6, L41#7
   lessons:
   - 41
   directions:
   - en_es
-- id: l41-012
+- id: L41-012
   type: conjugation
   tier: primary
   front_en: we-will form of bailar
   back_es: bailaremos
-  hint: full verb + -emos
+  hint: will dance · full verb + -emos
   rule_ref: L41#5, L41#6
   lessons:
   - 41
   directions:
   - en_es
-- id: l41-014
+- id: L41-014
   type: conjugation
   tier: primary
   front_en: I-would form of bailar
   back_es: bailaría
-  hint: full verb + -ía
+  hint: would dance · full verb + -ía
   rule_ref: L41#9, L41#11
   lessons:
   - 41
   directions:
   - en_es
-- id: l41-016
+- id: L41-016
   type: conjugation
   tier: primary
   front_en: we-would form of bailar
   back_es: bailaríamos
-  hint: accent stays on í
+  hint: would dance · accent stays on í
   rule_ref: L41#11
   lessons:
   - 41
   directions:
   - en_es
-- id: l41-018
+- id: L41-018
   type: conjugation
   tier: primary
   front_en: I-would form of comer
   back_es: comería
-  hint: same endings for -er
+  hint: would eat · same endings for -er
   rule_ref: L41#12, L41#15
   lessons:
   - 41
   directions:
   - en_es
-- id: l41-019
+- id: L41-019
   type: sentence
   tier: primary
   front_en: We're going to dance.
@@ -534,7 +522,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l41-020
+- id: L41-020
   type: sentence
   tier: primary
   front_en: We dance later.
@@ -546,7 +534,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l41-021
+- id: L41-021
   type: sentence
   tier: primary
   front_en: We're going to dance later.
@@ -557,7 +545,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l41-022
+- id: L41-022
   type: sentence
   tier: primary
   front_en: I will dance.
@@ -569,7 +557,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l41-023
+- id: L41-023
   type: sentence
   tier: primary
   front_en: We will dance.
@@ -580,7 +568,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l41-024
+- id: L41-024
   type: sentence
   tier: primary
   front_en: They will dance.
@@ -591,7 +579,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l41-025
+- id: L41-025
   type: sentence
   tier: primary
   front_en: I would dance.
@@ -603,7 +591,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l41-026
+- id: L41-026
   type: sentence
   tier: primary
   front_en: We would dance.
@@ -614,7 +602,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l41-027
+- id: L41-027
   type: sentence
   tier: primary
   front_en: I would go.
@@ -626,7 +614,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l41-028
+- id: L41-028
   type: sentence
   tier: primary
   front_en: She wouldn't go.
@@ -638,7 +626,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l41-029
+- id: L41-029
   type: sentence
   tier: primary
   front_en: I would eat.
@@ -650,7 +638,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l41-030
+- id: L41-030
   type: sentence
   tier: primary
   front_en: I'd eat, but I don't have time.
@@ -661,7 +649,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l41-031
+- id: L41-031
   type: sentence
   tier: primary
   front_en: It would transform the situation.
@@ -672,7 +660,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l41-032
+- id: L41-032
   type: sentence
   tier: primary
   front_en: It would get transformed.
@@ -684,7 +672,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l41-033
+- id: L41-033
   type: sentence
   tier: primary
   front_en: It gets contaminated.
@@ -696,7 +684,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l41-034
+- id: L41-034
   type: sentence
   tier: primary
   front_en: It would get contaminated.
@@ -707,7 +695,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l41-035
+- id: L41-035
   type: sentence
   tier: primary
   front_en: I would imagine that he doesn't want to go.
@@ -719,70 +707,62 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l41-036
+- id: L41-036
   type: conjugation
   tier: extended
   front_en: I-will form of comer
   back_es: comeré
-  hint: -er uses same endings
+  hint: will eat · -er uses same endings
   rule_ref: L41#8
   lessons:
   - 41
   directions:
   - en_es
-- id: l41-037
+- id: L41-037
   type: conjugation
   tier: extended
   front_en: they-will form of comer
   back_es: comerán
+  hint: will eat
   rule_ref: L41#8
   lessons:
   - 41
   directions:
   - en_es
-- id: l41-038
+- id: L41-038
   type: conjugation
   tier: extended
   front_en: we-will form of vivir
   back_es: viviremos
-  hint: -ir uses same endings
+  hint: will live · -ir uses same endings
   rule_ref: L41#8
   lessons:
   - 41
   directions:
   - en_es
-- id: l41-039
+- id: L41-039
   type: conjugation
   tier: extended
   front_en: we-would form of comer
   back_es: comeríamos
+  hint: would eat
   rule_ref: L41#11, L41#12
   lessons:
   - 41
   directions:
   - en_es
-- id: l41-040
+- id: L41-040
   type: conjugation
   tier: extended
   front_en: they-would form of imaginar
   back_es: imaginarían
+  hint: would imagine
   rule_ref: L41#11
   lessons:
   - 41
   directions:
   - en_es
-- id: l41-041
-  type: sentence
-  tier: extended
-  front_en: You will dance.
-  back_es: Bailarás.
-  rule_ref: L41#6
-  lessons:
-  - 41
-  directions:
-  - en_es
-  - es_en
-- id: l41-042
+- id: L41-042
   type: sentence
   tier: extended
   front_en: You would dance.
@@ -793,7 +773,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l41-043
+- id: L41-043
   type: sentence
   tier: extended
   front_en: They would dance.
@@ -804,7 +784,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l41-044
+- id: L41-044
   type: sentence
   tier: extended
   front_en: I imagine.
@@ -816,7 +796,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l41-045
+- id: L41-045
   type: sentence
   tier: extended
   front_en: We would imagine that it's important.
@@ -827,7 +807,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l41-046
+- id: L41-046
   type: sentence
   tier: extended
   front_en: It contaminates.
@@ -838,7 +818,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l41-047
+- id: L41-047
   type: sentence
   tier: extended
   front_en: I will eat later.
@@ -849,60 +829,62 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l42-001
+- id: L42-001
   type: conjugation
   tier: primary
   front_en: I-would form of hablar
   back_es: hablaría
-  hint: full verb + -ía
+  hint: would speak · full verb + -ía
   rule_ref: L42#1, L42#2
   lessons:
   - 42
   directions:
   - en_es
-- id: l42-002
+- id: L42-002
   type: conjugation
   tier: primary
   front_en: we-would form of hablar
   back_es: hablaríamos
+  hint: would speak
   rule_ref: L42#2
   lessons:
   - 42
   directions:
   - en_es
-- id: l42-003
+- id: L42-003
   type: conjugation
   tier: primary
   front_en: they-would form of hablar
   back_es: hablarían
+  hint: would speak
   rule_ref: L42#2
   lessons:
   - 42
   directions:
   - en_es
-- id: l42-005
+- id: L42-005
   type: conjugation
   tier: primary
   front_en: I-could form of poder
   back_es: podría
-  hint: 'drops e: pod(e)ría → ...'
+  hint: 'could be able · drops e: pod(e)ría → podría'
   rule_ref: L42#14, L42#15
   lessons:
   - 42
   directions:
   - en_es
-- id: l42-007
+- id: L42-007
   type: conjugation
   tier: primary
   front_en: we-could form of poder
   back_es: podríamos
-  hint: contracted
+  hint: could be able · contracted
   rule_ref: L42#15, L42#16
   lessons:
   - 42
   directions:
   - en_es
-- id: l42-009
+- id: L42-009
   type: transformation
   tier: primary
   front_en: to be pleasing (to like)
@@ -914,7 +896,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l42-011
+- id: L42-011
   type: sentence
   tier: primary
   front_en: I like it.
@@ -926,7 +908,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l42-012
+- id: L42-012
   type: sentence
   tier: primary
   front_en: I like them.
@@ -938,7 +920,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l42-013
+- id: L42-013
   type: sentence
   tier: primary
   front_en: I would like.
@@ -950,7 +932,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l42-014
+- id: L42-014
   type: sentence
   tier: primary
   front_en: I would like to eat now.
@@ -961,7 +943,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l42-015
+- id: L42-015
   type: sentence
   tier: primary
   front_en: We would like to eat now.
@@ -973,7 +955,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l42-016
+- id: L42-016
   type: sentence
   tier: primary
   front_en: I would like to see you.
@@ -985,7 +967,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l42-017
+- id: L42-017
   type: sentence
   tier: primary
   front_en: Could you come to my house?
@@ -997,7 +979,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l42-018
+- id: L42-018
   type: sentence
   tier: primary
   front_en: Could you tell me something? (Podrías…)
@@ -1009,7 +991,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l42-019
+- id: L42-019
   type: sentence
   tier: primary
   front_en: I would speak.
@@ -1020,7 +1002,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l42-020
+- id: L42-020
   type: sentence
   tier: primary
   front_en: We would speak.
@@ -1031,7 +1013,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l42-021
+- id: L42-021
   type: sentence
   tier: primary
   front_en: They would speak.
@@ -1042,7 +1024,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l42-022
+- id: L42-022
   type: sentence
   tier: primary
   front_en: They wouldn't speak.
@@ -1053,7 +1035,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l42-023
+- id: L42-023
   type: sentence
   tier: primary
   front_en: Could you tell me something? (Me…)
@@ -1065,7 +1047,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l42-024
+- id: L42-024
   type: sentence
   tier: primary
   front_en: Could you tell me if you want to come?
@@ -1076,7 +1058,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l42-025
+- id: L42-025
   type: sentence
   tier: primary
   front_en: I could.
@@ -1087,7 +1069,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l42-026
+- id: L42-026
   type: sentence
   tier: primary
   front_en: We could.
@@ -1098,7 +1080,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l42-027
+- id: L42-027
   type: sentence
   tier: primary
   front_en: They could.
@@ -1109,7 +1091,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l42-028
+- id: L42-028
   type: sentence
   tier: primary
   front_en: You could.
@@ -1120,7 +1102,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l42-029
+- id: L42-029
   type: sentence
   tier: extended
   front_en: They please me.
@@ -1132,7 +1114,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l42-030
+- id: L42-030
   type: sentence
   tier: extended
   front_en: We would like to speak.
@@ -1143,7 +1125,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l42-031
+- id: L42-031
   type: sentence
   tier: extended
   front_en: I would like to come.
@@ -1154,7 +1136,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l42-032
+- id: L42-032
   type: sentence
   tier: extended
   front_en: Could you come with me?
@@ -1165,29 +1147,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l42-033
-  type: sentence
-  tier: extended
-  front_en: We could speak later.
-  back_es: Podríamos hablar más tarde.
-  rule_ref: L42#16
-  lessons:
-  - 42
-  directions:
-  - en_es
-  - es_en
-- id: l42-034
-  type: sentence
-  tier: extended
-  front_en: Could you tell me if it's possible?
-  back_es: ¿Podrías decirme si es posible?
-  rule_ref: L42#18, L42#19
-  lessons:
-  - 42
-  directions:
-  - en_es
-  - es_en
-- id: l42-035
+- id: L42-035
   type: sentence
   tier: extended
   front_en: We would like to see you.
@@ -1198,42 +1158,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l42-036
-  type: sentence
-  tier: extended
-  front_en: I would like to think about it.
-  back_es: Me gustaría pensarlo.
-  hint: pensar + lo
-  rule_ref: L42#9
-  lessons:
-  - 42
-  directions:
-  - en_es
-  - es_en
-- id: l42-037
-  type: sentence
-  tier: extended
-  front_en: They would like to dance.
-  back_es: Les gustaría bailar.
-  hint: les = to them
-  rule_ref: L42#9
-  lessons:
-  - 42
-  directions:
-  - en_es
-  - es_en
-- id: l42-038
-  type: sentence
-  tier: extended
-  front_en: She would speak with him.
-  back_es: Hablaría con él.
-  rule_ref: L42#2
-  lessons:
-  - 42
-  directions:
-  - en_es
-  - es_en
-- id: l42-039
+- id: L42-039
   type: sentence
   tier: extended
   front_en: I wouldn't speak.
@@ -1244,62 +1169,62 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-001
+- id: L43-001
   type: conjugation
   tier: primary
   front_en: I-would-have form of haber
   back_es: habría
-  hint: 'haber drops final e: hab(e)ría → ...'
+  hint: 'would have have · haber drops final e: hab(e)ría → habría'
   rule_ref: L43#1, L43#2
   lessons:
   - 43
   directions:
   - en_es
-- id: l43-003
+- id: L43-003
   type: conjugation
   tier: primary
   front_en: we-would-have form of haber
   back_es: habríamos
-  hint: contracted
+  hint: would have have · contracted
   rule_ref: L43#2
   lessons:
   - 43
   directions:
   - en_es
-- id: l43-004
+- id: L43-004
   type: conjugation
   tier: primary
   front_en: they-would-have form of haber
   back_es: habrían
-  hint: contracted
+  hint: would have have · contracted
   rule_ref: L43#2
   lessons:
   - 43
   directions:
   - en_es
-- id: l43-005
+- id: L43-005
   type: conjugation
   tier: primary
   front_en: I-should form of deber
   back_es: debería
-  hint: deber + -ía = should
+  hint: to owe / to must · deber + -ía = should
   rule_ref: L43#13, L43#14
   lessons:
   - 43
   directions:
   - en_es
-- id: l43-009
+- id: L43-009
   type: conjugation
   tier: primary
   front_en: I-would-give form of dar
   back_es: daría
-  hint: dar + -ía
+  hint: would give · dar + -ía
   rule_ref: L43#19
   lessons:
   - 43
   directions:
   - en_es
-- id: l43-011
+- id: L43-011
   type: transformation
   tier: primary
   front_en: gone (past part. of ir)
@@ -1311,7 +1236,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-012
+- id: L43-012
   type: transformation
   tier: primary
   front_en: eaten (past part. of comer)
@@ -1323,7 +1248,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-013
+- id: L43-013
   type: transformation
   tier: primary
   front_en: been able (past part. of poder)
@@ -1335,7 +1260,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-014
+- id: L43-014
   type: transformation
   tier: primary
   front_en: pleased (past part. of gustar)
@@ -1347,7 +1272,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-016
+- id: L43-016
   type: sentence
   tier: primary
   front_en: I would have gone.
@@ -1359,7 +1284,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-017
+- id: L43-017
   type: sentence
   tier: primary
   front_en: We would have eaten.
@@ -1370,7 +1295,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-018
+- id: L43-018
   type: sentence
   tier: primary
   front_en: We would have been able to go.
@@ -1382,7 +1307,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-019
+- id: L43-019
   type: sentence
   tier: primary
   front_en: They would have been able to eat.
@@ -1393,7 +1318,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-020
+- id: L43-020
   type: sentence
   tier: primary
   front_en: They would have come to eat.
@@ -1405,7 +1330,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-021
+- id: L43-021
   type: sentence
   tier: primary
   front_en: I would have liked it.
@@ -1417,7 +1342,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-022
+- id: L43-022
   type: sentence
   tier: primary
   front_en: We would have liked it.
@@ -1428,7 +1353,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-023
+- id: L43-023
   type: sentence
   tier: primary
   front_en: We would have liked them.
@@ -1440,7 +1365,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-024
+- id: L43-024
   type: sentence
   tier: primary
   front_en: I would have spoken.
@@ -1452,7 +1377,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-025
+- id: L43-025
   type: sentence
   tier: primary
   front_en: They would have spoken.
@@ -1463,7 +1388,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-028
+- id: L43-028
   type: sentence
   tier: primary
   front_en: You should come to my house.
@@ -1474,7 +1399,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-029
+- id: L43-029
   type: sentence
   tier: primary
   front_en: You should come to my house to eat.
@@ -1485,7 +1410,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-030
+- id: L43-030
   type: sentence
   tier: primary
   front_en: We should speak.
@@ -1497,7 +1422,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-031
+- id: L43-031
   type: sentence
   tier: primary
   front_en: We should speak about it.
@@ -1509,7 +1434,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-032
+- id: L43-032
   type: sentence
   tier: primary
   front_en: We should speak to him.
@@ -1521,7 +1446,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-033
+- id: L43-033
   type: sentence
   tier: primary
   front_en: We should speak with him.
@@ -1533,7 +1458,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-034
+- id: L43-034
   type: sentence
   tier: primary
   front_en: They would give me.
@@ -1544,7 +1469,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-035
+- id: L43-035
   type: sentence
   tier: primary
   front_en: They would give it to me.
@@ -1556,7 +1481,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-036
+- id: L43-036
   type: transformation
   tier: extended
   front_en: spoken (past part. of hablar)
@@ -1568,19 +1493,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-037
-  type: transformation
-  tier: extended
-  front_en: come (past part. of venir)
-  back_es: venido
-  hint: -ir → -ido
-  rule_ref: L43#4
-  lessons:
-  - 43
-  directions:
-  - en_es
-  - es_en
-- id: l43-038
+- id: L43-038
   type: sentence
   tier: extended
   front_en: You would have eaten.
@@ -1591,7 +1504,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-039
+- id: L43-039
   type: sentence
   tier: extended
   front_en: She would have come.
@@ -1602,7 +1515,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-040
+- id: L43-040
   type: sentence
   tier: extended
   front_en: We would have been able to come.
@@ -1613,7 +1526,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-041
+- id: L43-041
   type: sentence
   tier: extended
   front_en: They should eat.
@@ -1624,7 +1537,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-042
+- id: L43-042
   type: sentence
   tier: extended
   front_en: We should speak to them.
@@ -1635,7 +1548,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-043
+- id: L43-043
   type: sentence
   tier: extended
   front_en: We should speak with her.
@@ -1646,7 +1559,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-044
+- id: L43-044
   type: sentence
   tier: extended
   front_en: I would give it to you.
@@ -1658,7 +1571,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l43-045
+- id: L43-045
   type: sentence
   tier: extended
   front_en: I shouldn't go.

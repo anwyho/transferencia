@@ -1,11 +1,11 @@
 bundle: W
-title: 'Seguir + ojalá + all uses of se: terminar de, empezar a, se me, all se patterns'
+title: 'Bundle W Seguir + Ojalá + Uses of Se (L78-80)'
 lessons:
 - 78
 - 79
 - 80
 cards:
-- id: l78-001
+- id: L78-001
   type: transformation
   tier: primary
   front_en: I continue (from seguir)
@@ -17,7 +17,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-002
+- id: L78-002
   type: transformation
   tier: primary
   front_en: he continues / she continues / you (formal) continue
@@ -29,19 +29,19 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-003
+- id: L78-003
   type: transformation
   tier: primary
   front_en: being (the -ing form of ser)
   back_es: siendo
-  hint: ser → ... (e→ie+ndo)
+  hint: ser → siendo (e→ie + -ndo)
   rule_ref: L78#5
   lessons:
   - 78
   directions:
   - en_es
   - es_en
-- id: l78-004
+- id: L78-004
   type: transformation
   tier: primary
   front_en: free (no money)
@@ -53,7 +53,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-005
+- id: L78-005
   type: transformation
   tier: primary
   front_en: imperative
@@ -65,7 +65,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-006
+- id: L78-006
   type: transformation
   tier: primary
   front_en: to start (commence cousin)
@@ -77,7 +77,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-007
+- id: L78-007
   type: transformation
   tier: primary
   front_en: to start (more common)
@@ -89,7 +89,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-009
+- id: L78-009
   type: transformation
   tier: primary
   front_en: to finish / to terminate
@@ -101,7 +101,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-011
+- id: L78-011
   type: transformation
   tier: primary
   front_en: selling them (gerund + them)
@@ -113,7 +113,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-012
+- id: L78-012
   type: transformation
   tier: primary
   front_en: it's probable that
@@ -125,7 +125,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-013
+- id: L78-013
   type: transformation
   tier: primary
   front_en: it's imperative that
@@ -137,7 +137,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-014
+- id: L78-014
   type: transformation
   tier: primary
   front_en: it's spectacular that
@@ -149,7 +149,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-015
+- id: L78-015
   type: sentence
   tier: primary
   front_en: I continue speaking.
@@ -161,7 +161,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-016
+- id: L78-016
   type: sentence
   tier: primary
   front_en: He continues speaking.
@@ -173,7 +173,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-017
+- id: L78-017
   type: sentence
   tier: primary
   front_en: It's probable that he continues speaking.
@@ -185,7 +185,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-018
+- id: L78-018
   type: sentence
   tier: primary
   front_en: It's imperative that it continues being free.
@@ -197,7 +197,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-019
+- id: L78-019
   type: sentence
   tier: primary
   front_en: I continue selling.
@@ -209,7 +209,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-020
+- id: L78-020
   type: sentence
   tier: primary
   front_en: She continues selling.
@@ -221,7 +221,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-021
+- id: L78-021
   type: sentence
   tier: primary
   front_en: It's spectacular that they begin to speak Spanish.
@@ -233,7 +233,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-022
+- id: L78-022
   type: sentence
   tier: primary
   front_en: It's spectacular that they start out speaking Spanish.
@@ -245,7 +245,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-023
+- id: L78-023
   type: sentence
   tier: primary
   front_en: I start to speak.
@@ -257,7 +257,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-024
+- id: L78-024
   type: sentence
   tier: primary
   front_en: I start out speaking.
@@ -269,7 +269,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-025
+- id: L78-025
   type: sentence
   tier: primary
   front_en: She begins to sell.
@@ -281,7 +281,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-026
+- id: L78-026
   type: sentence
   tier: primary
   front_en: She starts out selling.
@@ -293,7 +293,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-027
+- id: L78-027
   type: sentence
   tier: primary
   front_en: I finish selling.
@@ -305,7 +305,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-028
+- id: L78-028
   type: sentence
   tier: primary
   front_en: I end up selling them.
@@ -317,7 +317,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-029
+- id: L78-029
   type: sentence
   tier: primary
   front_en: She finishes selling.
@@ -329,7 +329,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-030
+- id: L78-030
   type: sentence
   tier: primary
   front_en: She ends up selling them.
@@ -341,7 +341,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-031
+- id: L78-031
   type: sentence
   tier: primary
   front_en: when (in future) you guys finish
@@ -353,7 +353,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-032
+- id: L78-032
   type: sentence
   tier: primary
   front_en: when (in future) you finish selling
@@ -365,7 +365,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-033
+- id: L78-033
   type: sentence
   tier: primary
   front_en: when (in future) he ends up selling them
@@ -377,51 +377,51 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-034
+- id: L78-034
   type: conjugation
   tier: primary
   front_en: mood she form of seguir
   back_es: siga
-  hint: e→i · mood swap to -a
+  hint: follow (subj.) · e→i · mood swap to -a
   rule_ref: L78#3
   lessons:
   - 78
   directions:
   - en_es
-- id: l78-035
+- id: L78-035
   type: conjugation
   tier: primary
   front_en: mood they form of comenzar
   back_es: comiencen
-  hint: e→ie · mood swap to -en
+  hint: start (subj.) · e→ie · mood swap to -en
   rule_ref: L78#10
   lessons:
   - 78
   directions:
   - en_es
-- id: l78-036
+- id: L78-036
   type: conjugation
   tier: primary
   front_en: mood they form of terminar
   back_es: terminen
-  hint: -ar mood swaps to -en
+  hint: finish (subj.) · -ar mood swaps to -en
   rule_ref: L78#17
   lessons:
   - 78
   directions:
   - en_es
-- id: l78-037
+- id: L78-037
   type: conjugation
   tier: primary
   front_en: mood they form of empezar
   back_es: empiecen
-  hint: e→ie · z→c before -en
+  hint: start (subj.) · e→ie · z→c before -en
   rule_ref: L78#9
   lessons:
   - 78
   directions:
   - en_es
-- id: l78-038
+- id: L78-038
   type: sentence
   tier: primary
   front_en: It's probable that she continues selling.
@@ -433,7 +433,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-039
+- id: L78-039
   type: sentence
   tier: primary
   front_en: It's imperative that he continues.
@@ -445,19 +445,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-040
-  type: sentence
-  tier: primary
-  front_en: I want them to begin to speak.
-  back_es: Quiero que comiencen a hablar.
-  hint: querer que · comenzar a + INF
-  rule_ref: L78#9, L78#10
-  lessons:
-  - 78
-  directions:
-  - en_es
-  - es_en
-- id: l78-041
+- id: L78-041
   type: sentence
   tier: primary
   front_en: He'll probably speak Spanish.
@@ -469,7 +457,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-042
+- id: L78-042
   type: sentence
   tier: primary
   front_en: He'll probably continue.
@@ -481,7 +469,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-043
+- id: L78-043
   type: sentence
   tier: primary
   front_en: It continues being free.
@@ -493,7 +481,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-044
+- id: L78-044
   type: sentence
   tier: extended
   front_en: I continue eating.
@@ -505,19 +493,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-045
-  type: sentence
-  tier: extended
-  front_en: We start to eat.
-  back_es: Empezamos a comer.
-  hint: empezar a + INF · we form
-  rule_ref: L78#9
-  lessons:
-  - 78
-  directions:
-  - en_es
-  - es_en
-- id: l78-046
+- id: L78-046
   type: sentence
   tier: extended
   front_en: They finish eating.
@@ -529,7 +505,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-047
+- id: L78-047
   type: sentence
   tier: extended
   front_en: They end up eating.
@@ -541,19 +517,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-048
-  type: sentence
-  tier: extended
-  front_en: when (in future) we finish
-  back_es: cuando terminemos
-  hint: cuando + future · we mood
-  rule_ref: L78#17
-  lessons:
-  - 78
-  directions:
-  - en_es
-  - es_en
-- id: l78-049
+- id: L78-049
   type: sentence
   tier: extended
   front_en: It's probable that they continue selling.
@@ -565,55 +529,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l78-050
-  type: sentence
-  tier: extended
-  front_en: I want them to start to sell.
-  back_es: Quiero que empiecen a vender.
-  hint: querer que · empezar a + INF
-  rule_ref: L78#9
-  lessons:
-  - 78
-  directions:
-  - en_es
-  - es_en
-- id: l78-051
-  type: sentence
-  tier: extended
-  front_en: I want them to start out selling.
-  back_es: Quiero que empiecen vendiendo.
-  hint: empezar + gerund = start out
-  rule_ref: L78#11
-  lessons:
-  - 78
-  directions:
-  - en_es
-  - es_en
-- id: l78-052
-  type: sentence
-  tier: extended
-  front_en: We end up speaking Spanish.
-  back_es: Terminamos hablando español.
-  hint: terminar + gerund = end up
-  rule_ref: L78#15
-  lessons:
-  - 78
-  directions:
-  - en_es
-  - es_en
-- id: l78-053
-  type: sentence
-  tier: extended
-  front_en: when (in future) you start to sell
-  back_es: cuando empieces a vender
-  hint: cuando + future · empezar a
-  rule_ref: L78#17, L78#9
-  lessons:
-  - 78
-  directions:
-  - en_es
-  - es_en
-- id: l79-001
+- id: L79-001
   type: transformation
   tier: primary
   front_en: to leave (a thing or message)
@@ -625,7 +541,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-002
+- id: L79-002
   type: transformation
   tier: primary
   front_en: message
@@ -637,7 +553,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-003
+- id: L79-003
   type: transformation
   tier: primary
   front_en: a message
@@ -649,7 +565,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-004
+- id: L79-004
   type: transformation
   tier: primary
   front_en: leave me (formal command)
@@ -661,7 +577,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-005
+- id: L79-005
   type: transformation
   tier: primary
   front_en: call me (informal command)
@@ -673,7 +589,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-007
+- id: L79-007
   type: transformation
   tier: primary
   front_en: essential
@@ -685,7 +601,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-009
+- id: L79-009
   type: transformation
   tier: primary
   front_en: it's essential that
@@ -697,7 +613,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-010
+- id: L79-010
   type: transformation
   tier: primary
   front_en: hopefully (Arabic origin)
@@ -709,7 +625,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-011
+- id: L79-011
   type: transformation
   tier: primary
   front_en: eye / watch out!
@@ -721,7 +637,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-013
+- id: L79-013
   type: transformation
   tier: primary
   front_en: mood form of ver (he sees)
@@ -733,7 +649,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-014
+- id: L79-014
   type: transformation
   tier: primary
   front_en: mood form of ser (he be)
@@ -745,7 +661,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-015
+- id: L79-015
   type: sentence
   tier: primary
   front_en: Leave me a message. (formal)
@@ -757,7 +673,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-016
+- id: L79-016
   type: sentence
   tier: primary
   front_en: I want you to leave me a message.
@@ -769,7 +685,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-017
+- id: L79-017
   type: sentence
   tier: primary
   front_en: I want to tell him to leave me a message.
@@ -781,7 +697,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-018
+- id: L79-018
   type: sentence
   tier: primary
   front_en: When he leaves you the message, call me.
@@ -793,7 +709,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-019
+- id: L79-019
   type: sentence
   tier: primary
   front_en: It's essential that he see my message.
@@ -805,7 +721,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-020
+- id: L79-020
   type: sentence
   tier: primary
   front_en: Hopefully she leaves a message.
@@ -817,7 +733,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-021
+- id: L79-021
   type: sentence
   tier: primary
   front_en: Hopefully it'll be soon.
@@ -829,7 +745,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-022
+- id: L79-022
   type: sentence
   tier: primary
   front_en: Hopefully he leaves me a message.
@@ -841,19 +757,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-023
-  type: sentence
-  tier: primary
-  front_en: Hopefully you call me.
-  back_es: Ojalá me llames.
-  hint: ojalá + mood + me (informal)
-  rule_ref: L79#14
-  lessons:
-  - 79
-  directions:
-  - en_es
-  - es_en
-- id: l79-024
+- id: L79-024
   type: sentence
   tier: primary
   front_en: It's essential that you call me.
@@ -865,7 +769,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-025
+- id: L79-025
   type: sentence
   tier: primary
   front_en: It's essential that he see it.
@@ -877,7 +781,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-026
+- id: L79-026
   type: sentence
   tier: primary
   front_en: I want him to leave it.
@@ -889,7 +793,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-027
+- id: L79-027
   type: sentence
   tier: primary
   front_en: When he leaves it, call me.
@@ -901,7 +805,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-028
+- id: L79-028
   type: sentence
   tier: primary
   front_en: Watch out!
@@ -913,31 +817,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-029
-  type: sentence
-  tier: primary
-  front_en: Hopefully he sees it.
-  back_es: Ojalá lo vea.
-  hint: ojalá + mood ver + lo
-  rule_ref: L79#14, L79#11
-  lessons:
-  - 79
-  directions:
-  - en_es
-  - es_en
-- id: l79-030
-  type: sentence
-  tier: primary
-  front_en: Hopefully she calls me.
-  back_es: Ojalá me llame.
-  hint: ojalá + mood + me
-  rule_ref: L79#14
-  lessons:
-  - 79
-  directions:
-  - en_es
-  - es_en
-- id: l79-031
+- id: L79-031
   type: sentence
   tier: primary
   front_en: Leave me the message. (formal)
@@ -949,7 +829,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-032
+- id: L79-032
   type: sentence
   tier: primary
   front_en: Call me. (informal)
@@ -961,7 +841,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-033
+- id: L79-033
   type: sentence
   tier: primary
   front_en: I want to tell her to call me.
@@ -973,64 +853,40 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-034
+- id: L79-034
   type: conjugation
   tier: primary
   front_en: mood you (informal) form of dejar
   back_es: dejes
-  hint: -ar mood swaps to -es
+  hint: leave (subj.) · -ar mood swaps to -es
   rule_ref: L79#4
   lessons:
   - 79
   directions:
   - en_es
-- id: l79-035
+- id: L79-035
   type: conjugation
   tier: primary
   front_en: mood she form of dejar
   back_es: deje
-  hint: -ar mood swaps to -e
+  hint: leave (subj.) · -ar mood swaps to -e
   rule_ref: L79#4
   lessons:
   - 79
   directions:
   - en_es
-- id: l79-036
+- id: L79-036
   type: conjugation
   tier: primary
   front_en: mood they form of dejar
   back_es: dejen
-  hint: -ar mood swaps to -en
+  hint: leave (subj.) · -ar mood swaps to -en
   rule_ref: L79#4
   lessons:
   - 79
   directions:
   - en_es
-- id: l79-037
-  type: sentence
-  tier: extended
-  front_en: Hopefully you guys leave a message.
-  back_es: Ojalá dejen un mensaje.
-  hint: ojalá + they mood
-  rule_ref: L79#14
-  lessons:
-  - 79
-  directions:
-  - en_es
-  - es_en
-- id: l79-038
-  type: sentence
-  tier: extended
-  front_en: It's essential that you guys see it.
-  back_es: Es esencial que lo vean.
-  hint: es esencial que → they mood ver
-  rule_ref: L79#10, L79#11
-  lessons:
-  - 79
-  directions:
-  - en_es
-  - es_en
-- id: l79-039
+- id: L79-039
   type: sentence
   tier: extended
   front_en: I want her to see the message.
@@ -1042,19 +898,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-040
-  type: sentence
-  tier: extended
-  front_en: Hopefully it's essential.
-  back_es: Ojalá sea esencial.
-  hint: ojalá + mood ser
-  rule_ref: L79#14, L79#15
-  lessons:
-  - 79
-  directions:
-  - en_es
-  - es_en
-- id: l79-041
+- id: L79-041
   type: sentence
   tier: extended
   front_en: When she sees the message, call me.
@@ -1066,55 +910,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l79-042
-  type: sentence
-  tier: extended
-  front_en: I want him to call me.
-  back_es: Quiero que me llame.
-  hint: querer que → mood + me
-  rule_ref: L79#4
-  lessons:
-  - 79
-  directions:
-  - en_es
-  - es_en
-- id: l79-043
-  type: sentence
-  tier: extended
-  front_en: Hopefully it's the tradition.
-  back_es: Ojalá sea la tradición.
-  hint: ojalá + mood ser
-  rule_ref: L79#14, L79#15, L79#9
-  lessons:
-  - 79
-  directions:
-  - en_es
-  - es_en
-- id: l79-044
-  type: sentence
-  tier: extended
-  front_en: Hopefully he leaves it soon.
-  back_es: Ojalá lo deje pronto.
-  hint: ojalá + mood + lo + pronto
-  rule_ref: L79#14, L79#16
-  lessons:
-  - 79
-  directions:
-  - en_es
-  - es_en
-- id: l79-045
-  type: sentence
-  tier: extended
-  front_en: It's essential that they leave a message.
-  back_es: Es esencial que dejen un mensaje.
-  hint: es esencial que → they mood
-  rule_ref: L79#10
-  lessons:
-  - 79
-  directions:
-  - en_es
-  - es_en
-- id: l80-001
+- id: L80-001
   type: transformation
   tier: primary
   front_en: I know (a fact)
@@ -1126,7 +922,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-003
+- id: L80-003
   type: transformation
   tier: primary
   front_en: I know (with subject pronoun)
@@ -1138,7 +934,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-004
+- id: L80-004
   type: transformation
   tier: primary
   front_en: he stays / he remains
@@ -1150,7 +946,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-005
+- id: L80-005
   type: transformation
   tier: primary
   front_en: to stay / to remain
@@ -1162,7 +958,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-007
+- id: L80-007
   type: transformation
   tier: primary
   front_en: door (cousin of *port*)
@@ -1174,7 +970,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-008
+- id: L80-008
   type: transformation
   tier: primary
   front_en: closes itself / closes by itself
@@ -1186,7 +982,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-009
+- id: L80-009
   type: transformation
   tier: primary
   front_en: I prepare it for him (phonetic se)
@@ -1198,7 +994,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-011
+- id: L80-011
   type: transformation
   tier: primary
   front_en: I prepare it
@@ -1210,7 +1006,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-013
+- id: L80-013
   type: transformation
   tier: primary
   front_en: dinner (the noun)
@@ -1222,7 +1018,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-015
+- id: L80-015
   type: transformation
   tier: primary
   front_en: it burned (point past)
@@ -1234,7 +1030,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-016
+- id: L80-016
   type: transformation
   tier: primary
   front_en: to finish / to run out
@@ -1246,7 +1042,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-017
+- id: L80-017
   type: transformation
   tier: primary
   front_en: battery
@@ -1258,7 +1054,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-020
+- id: L80-020
   type: sentence
   tier: primary
   front_en: I prepare it for him.
@@ -1270,7 +1066,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-021
+- id: L80-021
   type: sentence
   tier: primary
   front_en: The door closes (itself).
@@ -1282,7 +1078,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-022
+- id: L80-022
   type: sentence
   tier: primary
   front_en: The door closes on me.
@@ -1294,7 +1090,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-023
+- id: L80-023
   type: sentence
   tier: primary
   front_en: The door closes on me. (alt order)
@@ -1306,7 +1102,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-024
+- id: L80-024
   type: sentence
   tier: primary
   front_en: The dinner gets burned.
@@ -1318,7 +1114,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-025
+- id: L80-025
   type: sentence
   tier: primary
   front_en: The dinner is burning on me.
@@ -1330,7 +1126,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-026
+- id: L80-026
   type: sentence
   tier: primary
   front_en: The battery runs out.
@@ -1342,7 +1138,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-027
+- id: L80-027
   type: sentence
   tier: primary
   front_en: The battery runs out on me.
@@ -1354,7 +1150,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-028
+- id: L80-028
   type: sentence
   tier: primary
   front_en: My battery always runs out on me.
@@ -1366,7 +1162,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-029
+- id: L80-029
   type: sentence
   tier: primary
   front_en: Does the battery run out on you? (informal)
@@ -1378,7 +1174,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-030
+- id: L80-030
   type: sentence
   tier: primary
   front_en: Does the battery run out on you? (formal)
@@ -1390,7 +1186,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-031
+- id: L80-031
   type: sentence
   tier: primary
   front_en: The battery runs out on them.
@@ -1402,7 +1198,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-032
+- id: L80-032
   type: sentence
   tier: primary
   front_en: The dinner got burned. (point past)
@@ -1414,7 +1210,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-033
+- id: L80-033
   type: sentence
   tier: primary
   front_en: The dinner got burned on me.
@@ -1426,7 +1222,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-034
+- id: L80-034
   type: sentence
   tier: primary
   front_en: The dinner got burned on us.
@@ -1438,55 +1234,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-036
-  type: sentence
-  tier: primary
-  front_en: The door closes on us.
-  back_es: La puerta se nos cierra.
-  hint: se + nos = on us
-  rule_ref: L80#5
-  lessons:
-  - 80
-  directions:
-  - en_es
-  - es_en
-- id: l80-037
-  type: sentence
-  tier: primary
-  front_en: The dinner burns on her.
-  back_es: La cena se le quema.
-  hint: se + le = on her
-  rule_ref: L80#5, L80#10
-  lessons:
-  - 80
-  directions:
-  - en_es
-  - es_en
-- id: l80-038
-  type: sentence
-  tier: primary
-  front_en: The battery ran out on me.
-  back_es: La batería se me acabó.
-  hint: se + me · point past *acabó*
-  rule_ref: L80#5, L80#17
-  lessons:
-  - 80
-  directions:
-  - en_es
-  - es_en
-- id: l80-039
-  type: sentence
-  tier: primary
-  front_en: The battery ran out on us.
-  back_es: La batería se nos acabó.
-  hint: se + nos · point past
-  rule_ref: L80#5, L80#17
-  lessons:
-  - 80
-  directions:
-  - en_es
-  - es_en
-- id: l80-040
+- id: L80-040
   type: sentence
   tier: primary
   front_en: The door always closes on me.
@@ -1498,87 +1246,51 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-041
+- id: L80-041
   type: conjugation
   tier: primary
   front_en: she form of cerrar
   back_es: cierra
-  hint: e→ie spine
+  hint: to close · e→ie spine
   rule_ref: L80#8
   lessons:
   - 80
   directions:
   - en_es
-- id: l80-042
+- id: L80-042
   type: conjugation
   tier: primary
   front_en: she form of quemar
   back_es: quema
-  hint: -ar verb · qu = /k/
+  hint: to burn · -ar verb · qu = /k/
   rule_ref: L80#10
   lessons:
   - 80
   directions:
   - en_es
-- id: l80-043
+- id: L80-043
   type: conjugation
   tier: primary
   front_en: point past she form of acabar
   back_es: acabó
-  hint: -ó point past
+  hint: to finish / run out · -ó point past
   rule_ref: L80#17
   lessons:
   - 80
   directions:
   - en_es
-- id: l80-044
+- id: L80-044
   type: conjugation
   tier: primary
   front_en: she form of acabar
   back_es: acaba
-  hint: -ar verb
+  hint: to finish / run out · -ar verb
   rule_ref: L80#12
   lessons:
   - 80
   directions:
   - en_es
-- id: l80-045
-  type: sentence
-  tier: primary
-  front_en: The dinner gets burned on you. (informal)
-  back_es: La cena se te quema.
-  hint: se + te = on you
-  rule_ref: L80#5, L80#10
-  lessons:
-  - 80
-  directions:
-  - en_es
-  - es_en
-- id: l80-046
-  type: sentence
-  tier: primary
-  front_en: The door closes on her.
-  back_es: La puerta se le cierra.
-  hint: se + le = on her
-  rule_ref: L80#5
-  lessons:
-  - 80
-  directions:
-  - en_es
-  - es_en
-- id: l80-047
-  type: sentence
-  tier: primary
-  front_en: The door closed on me. (point past)
-  back_es: La puerta se me cerró.
-  hint: se + me · point past *cerró*
-  rule_ref: L80#5, L80#17
-  lessons:
-  - 80
-  directions:
-  - en_es
-  - es_en
-- id: l80-048
+- id: L80-048
   type: sentence
   tier: extended
   front_en: They prepare it for him.
@@ -1590,7 +1302,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-049
+- id: L80-049
   type: sentence
   tier: extended
   front_en: We prepare it for him.
@@ -1602,7 +1314,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-050
+- id: L80-050
   type: sentence
   tier: extended
   front_en: The dinner always burns on me.
@@ -1614,7 +1326,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-051
+- id: L80-051
   type: sentence
   tier: extended
   front_en: The battery ran out on them.
@@ -1626,31 +1338,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-052
-  type: sentence
-  tier: extended
-  front_en: The door closed on us. (point past)
-  back_es: La puerta se nos cerró.
-  hint: se + nos · point past
-  rule_ref: L80#5, L80#17
-  lessons:
-  - 80
-  directions:
-  - en_es
-  - es_en
-- id: l80-053
-  type: sentence
-  tier: extended
-  front_en: The door closed on you. (informal point past)
-  back_es: La puerta se te cerró.
-  hint: se + te · point past
-  rule_ref: L80#5, L80#17
-  lessons:
-  - 80
-  directions:
-  - en_es
-  - es_en
-- id: l80-054
+- id: L80-054
   type: sentence
   tier: extended
   front_en: The dinner is burning on you all.
@@ -1662,7 +1350,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-055
+- id: L80-055
   type: sentence
   tier: extended
   front_en: I know that he stays.
@@ -1674,7 +1362,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l80-056
+- id: L80-056
   type: sentence
   tier: extended
   front_en: I know that the battery runs out.
@@ -1682,71 +1370,6 @@ cards:
   hint: sé + self-se
   rule_ref: L80#1, L80#12
   lessons:
-  - 80
-  directions:
-  - en_es
-  - es_en
-- id: l80-057
-  type: sentence
-  tier: extended
-  front_en: It's probable that the battery runs out on us.
-  back_es: Es probable que se nos acabe la batería.
-  hint: mood acabar · se + nos
-  rule_ref: L80#5, L78#3
-  lessons:
-  - 78
-  - 80
-  directions:
-  - en_es
-  - es_en
-- id: l80-058
-  type: sentence
-  tier: extended
-  front_en: Hopefully the dinner doesn't burn on me.
-  back_es: Ojalá no se me queme la cena.
-  hint: ojalá + mood · se + me
-  rule_ref: L79#14, L80#5
-  lessons:
-  - 79
-  - 80
-  directions:
-  - en_es
-  - es_en
-- id: l80-059
-  type: sentence
-  tier: extended
-  front_en: It's essential that the door doesn't close on us.
-  back_es: Es esencial que no se nos cierre la puerta.
-  hint: es esencial que → mood · se + nos
-  rule_ref: L79#10, L80#5
-  lessons:
-  - 79
-  - 80
-  directions:
-  - en_es
-  - es_en
-- id: l80-060
-  type: sentence
-  tier: extended
-  front_en: when (in future) the dinner burns on us
-  back_es: cuando se nos queme la cena
-  hint: cuando + future mood · se + nos
-  rule_ref: L78#17, L80#5
-  lessons:
-  - 78
-  - 80
-  directions:
-  - en_es
-  - es_en
-- id: l80-061
-  type: sentence
-  tier: extended
-  front_en: when (in future) the battery runs out on me
-  back_es: cuando se me acabe la batería
-  hint: cuando + future mood · se + me
-  rule_ref: L78#17, L80#5
-  lessons:
-  - 78
   - 80
   directions:
   - en_es

@@ -1,11 +1,11 @@
 bundle: R
-title: 'Past in context + dar past + L-L fix: line+point combos, di/dio, le→se'
+title: 'Bundle R Past in Context + Dar (L61-63)'
 lessons:
 - 61
 - 62
 - 63
 cards:
-- id: l61-002
+- id: L61-002
   type: transformation
   tier: primary
   front_en: I was cooking
@@ -17,7 +17,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-003
+- id: L61-003
   type: transformation
   tier: primary
   front_en: the phone
@@ -29,7 +29,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-004
+- id: L61-004
   type: transformation
   tier: primary
   front_en: to sound / to ring
@@ -41,7 +41,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-005
+- id: L61-005
   type: transformation
   tier: primary
   front_en: it sounded / it rang
@@ -53,7 +53,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-007
+- id: L61-007
   type: transformation
   tier: primary
   front_en: I arrived
@@ -65,7 +65,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-008
+- id: L61-008
   type: transformation
   tier: primary
   front_en: he arrived
@@ -77,7 +77,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-009
+- id: L61-009
   type: transformation
   tier: primary
   front_en: we arrived
@@ -89,7 +89,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-010
+- id: L61-010
   type: transformation
   tier: primary
   front_en: by phone / on the phone
@@ -101,7 +101,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-011
+- id: L61-011
   type: transformation
   tier: primary
   front_en: I stayed
@@ -113,7 +113,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-012
+- id: L61-012
   type: transformation
   tier: primary
   front_en: he stayed
@@ -125,7 +125,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-013
+- id: L61-013
   type: transformation
   tier: primary
   front_en: we stayed
@@ -137,7 +137,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-014
+- id: L61-014
   type: transformation
   tier: primary
   front_en: it pleased me / I liked it
@@ -149,7 +149,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-015
+- id: L61-015
   type: transformation
   tier: primary
   front_en: it was pleasing me / I was liking it
@@ -161,7 +161,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-017
+- id: L61-017
   type: transformation
   tier: primary
   front_en: it seems to me
@@ -173,7 +173,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-018
+- id: L61-018
   type: transformation
   tier: primary
   front_en: it seemed to me (point)
@@ -185,7 +185,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-019
+- id: L61-019
   type: transformation
   tier: primary
   front_en: it was seeming to me (line)
@@ -197,7 +197,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-021
+- id: L61-021
   type: sentence
   tier: primary
   front_en: I was cooking when the phone rang.
@@ -209,7 +209,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-023
+- id: L61-023
   type: sentence
   tier: primary
   front_en: I was talking on the phone when Maria arrived.
@@ -221,7 +221,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-025
+- id: L61-025
   type: sentence
   tier: primary
   front_en: I stayed.
@@ -233,7 +233,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-026
+- id: L61-026
   type: sentence
   tier: primary
   front_en: He stayed.
@@ -245,7 +245,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-027
+- id: L61-027
   type: sentence
   tier: primary
   front_en: We stayed.
@@ -257,7 +257,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-028
+- id: L61-028
   type: sentence
   tier: primary
   front_en: I liked it.
@@ -269,7 +269,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-029
+- id: L61-029
   type: sentence
   tier: primary
   front_en: I didn't like it.
@@ -281,7 +281,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-030
+- id: L61-030
   type: sentence
   tier: primary
   front_en: I wasn't liking it.
@@ -293,7 +293,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-031
+- id: L61-031
   type: sentence
   tier: primary
   front_en: It seems good to me. (Me parece bien)
@@ -305,7 +305,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-032
+- id: L61-032
   type: sentence
   tier: primary
   front_en: It seemed good to me.
@@ -317,7 +317,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-033
+- id: L61-033
   type: sentence
   tier: primary
   front_en: It was seeming good to me.
@@ -329,7 +329,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-034
+- id: L61-034
   type: sentence
   tier: primary
   front_en: When I saw it, I didn't like it.
@@ -341,7 +341,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-035
+- id: L61-035
   type: sentence
   tier: primary
   front_en: It was seeming good, but I didn't like it.
@@ -353,7 +353,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-036
+- id: L61-036
   type: sentence
   tier: primary
   front_en: I was cooking when Maria arrived.
@@ -365,43 +365,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-038
-  type: sentence
-  tier: primary
-  front_en: I was talking when the phone rang.
-  back_es: Hablaba cuando el teléfono sonó.
-  hint: line + point
-  rule_ref: L61#1, L61#5
-  lessons:
-  - 61
-  directions:
-  - en_es
-  - es_en
-- id: l61-039
-  type: sentence
-  tier: primary
-  front_en: She was cooking when I arrived.
-  back_es: Cocinaba cuando llegué.
-  hint: I/he/she share -aba ending
-  rule_ref: L61#1, L61#8
-  lessons:
-  - 61
-  directions:
-  - en_es
-  - es_en
-- id: l61-040
-  type: sentence
-  tier: primary
-  front_en: We were talking when the phone rang.
-  back_es: Hablábamos cuando sonó el teléfono.
-  hint: -ábamos (we line-past)
-  rule_ref: L61#1, L61#5
-  lessons:
-  - 61
-  directions:
-  - en_es
-  - es_en
-- id: l61-041
+- id: L61-041
   type: sentence
   tier: primary
   front_en: I called by phone.
@@ -413,7 +377,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-042
+- id: L61-042
   type: sentence
   tier: primary
   front_en: We arrived.
@@ -425,19 +389,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-043
-  type: sentence
-  tier: primary
-  front_en: I was cooking and talking on the phone.
-  back_es: Cocinaba y hablaba por teléfono.
-  hint: two parallel lines (-aba forms)
-  rule_ref: L61#1, L61#9
-  lessons:
-  - 61
-  directions:
-  - en_es
-  - es_en
-- id: l61-044
+- id: L61-044
   type: sentence
   tier: primary
   front_en: I was speaking on the phone.
@@ -449,7 +401,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l61-045
+- id: L61-045
   type: sentence
   tier: primary
   front_en: It seemed good to me, but I didn't like it.
@@ -461,7 +413,91 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-001
+- id: L61-050
+  type: sentence
+  tier: extended
+  front_en: It seems good to me, but I don't know.
+  back_es: Me parece bien, pero no sé.
+  hint: present · pero contrast
+  rule_ref: L61#17
+  lessons:
+  - 61
+  directions:
+  - en_es
+  - es_en
+- id: L61-051
+  type: sentence
+  tier: extended
+  front_en: It didn't seem good to me.
+  back_es: No me pareció bien.
+  hint: no + point-past
+  rule_ref: L61#18
+  lessons:
+  - 61
+  directions:
+  - en_es
+  - es_en
+- id: L61-052
+  type: sentence
+  tier: extended
+  front_en: It wasn't seeming good to me.
+  back_es: No me parecía bien.
+  hint: no + line-past
+  rule_ref: L61#19
+  lessons:
+  - 61
+  directions:
+  - en_es
+  - es_en
+- id: L61-053
+  type: sentence
+  tier: extended
+  front_en: I didn't like it when I saw it.
+  back_es: No me gustó cuando lo vi.
+  hint: two points
+  rule_ref: L61#14, L61#20
+  lessons:
+  - 61
+  directions:
+  - en_es
+  - es_en
+- id: L61-054
+  type: sentence
+  tier: extended
+  front_en: She wasn't liking it.
+  back_es: No le gustaba.
+  hint: line-past · le for she
+  rule_ref: L61#15
+  lessons:
+  - 61
+  directions:
+  - en_es
+  - es_en
+- id: L61-057
+  type: sentence
+  tier: extended
+  front_en: He stayed by phone.
+  back_es: Se quedó por teléfono.
+  hint: stayed on the line
+  rule_ref: L61#9, L61#10
+  lessons:
+  - 61
+  directions:
+  - en_es
+  - es_en
+- id: L61-060
+  type: sentence
+  tier: extended
+  front_en: She seemed fine to me.
+  back_es: Me parecía bien.
+  hint: same form covers *was seeming*
+  rule_ref: L61#19, L61#21
+  lessons:
+  - 61
+  directions:
+  - en_es
+  - es_en
+- id: L62-001
   type: transformation
   tier: primary
   front_en: I gave
@@ -473,7 +509,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-002
+- id: L62-002
   type: transformation
   tier: primary
   front_en: he gave / she gave
@@ -485,7 +521,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-003
+- id: L62-003
   type: transformation
   tier: primary
   front_en: we gave
@@ -497,7 +533,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-004
+- id: L62-004
   type: transformation
   tier: primary
   front_en: I sold
@@ -509,7 +545,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-005
+- id: L62-005
   type: transformation
   tier: primary
   front_en: he sold / she sold
@@ -521,7 +557,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-006
+- id: L62-006
   type: transformation
   tier: primary
   front_en: we sold
@@ -533,7 +569,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-007
+- id: L62-007
   type: transformation
   tier: primary
   front_en: to send
@@ -545,7 +581,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-008
+- id: L62-008
   type: transformation
   tier: primary
   front_en: he sent / she sent
@@ -557,7 +593,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-009
+- id: L62-009
   type: sentence
   tier: primary
   front_en: I gave it.
@@ -569,7 +605,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-010
+- id: L62-010
   type: sentence
   tier: primary
   front_en: He gave me it.
@@ -581,7 +617,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-011
+- id: L62-011
   type: sentence
   tier: primary
   front_en: He gave us it.
@@ -593,7 +629,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-012
+- id: L62-012
   type: sentence
   tier: primary
   front_en: He didn't give us it.
@@ -605,43 +641,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-013
-  type: sentence
-  tier: primary
-  front_en: I gave you it.
-  back_es: Te lo di.
-  hint: te + lo + verb · build verb first
-  rule_ref: L62#3, L62#4
-  lessons:
-  - 62
-  directions:
-  - en_es
-  - es_en
-- id: l62-014
-  type: sentence
-  tier: primary
-  front_en: We gave it to you.
-  back_es: Te lo dimos.
-  hint: te + lo + we-form
-  rule_ref: L62#3, L62#2
-  lessons:
-  - 62
-  directions:
-  - en_es
-  - es_en
-- id: l62-015
-  type: sentence
-  tier: primary
-  front_en: She gave me something.
-  back_es: Me dio algo.
-  hint: no L-L crash here · me stays
-  rule_ref: L62#3
-  lessons:
-  - 62
-  directions:
-  - en_es
-  - es_en
-- id: l62-016
+- id: L62-016
   type: sentence
   tier: primary
   front_en: I sold it.
@@ -653,7 +653,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-017
+- id: L62-017
   type: sentence
   tier: primary
   front_en: We sold it.
@@ -665,7 +665,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-018
+- id: L62-018
   type: sentence
   tier: primary
   front_en: He sent it to me.
@@ -677,7 +677,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-019
+- id: L62-019
   type: sentence
   tier: primary
   front_en: He sent it to us.
@@ -689,7 +689,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-020
+- id: L62-020
   type: sentence
   tier: primary
   front_en: He sent it to you.
@@ -701,7 +701,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-021
+- id: L62-021
   type: sentence
   tier: primary
   front_en: I gave it to him.
@@ -714,7 +714,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-022
+- id: L62-022
   type: sentence
   tier: primary
   front_en: I gave them (masc) to him.
@@ -726,7 +726,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-023
+- id: L62-023
   type: sentence
   tier: primary
   front_en: I sold it to him.
@@ -738,19 +738,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-024
-  type: sentence
-  tier: primary
-  front_en: He sent it to her.
-  back_es: Se lo envió.
-  hint: L-L fix · ambiguous without clarification
-  rule_ref: L62#5, L62#15
-  lessons:
-  - 62
-  directions:
-  - en_es
-  - es_en
-- id: l62-025
+- id: L62-025
   type: sentence
   tier: primary
   front_en: I gave it to him. (clarified)
@@ -762,7 +750,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-026
+- id: L62-026
   type: sentence
   tier: primary
   front_en: I gave it to her. (clarified)
@@ -774,7 +762,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-027
+- id: L62-027
   type: sentence
   tier: primary
   front_en: I gave it to you-formal. (clarified)
@@ -786,55 +774,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-028
-  type: sentence
-  tier: primary
-  front_en: I gave it to them. (masc, clarified)
-  back_es: Se lo di a ellos.
-  hint: plural a-tag
-  rule_ref: L62#8
-  lessons:
-  - 62
-  directions:
-  - en_es
-  - es_en
-- id: l62-029
-  type: sentence
-  tier: primary
-  front_en: I gave it to them. (fem, clarified)
-  back_es: Se lo di a ellas.
-  hint: feminine plural a-tag
-  rule_ref: L62#8
-  lessons:
-  - 62
-  directions:
-  - en_es
-  - es_en
-- id: l62-030
-  type: sentence
-  tier: primary
-  front_en: I sold it to him. (clarified)
-  back_es: Se lo vendí a él.
-  hint: L-L fix + clarifying tag
-  rule_ref: L62#5, L62#8
-  lessons:
-  - 62
-  directions:
-  - en_es
-  - es_en
-- id: l62-031
-  type: sentence
-  tier: primary
-  front_en: I sold it to her.
-  back_es: Se lo vendí a ella.
-  hint: L-L fix + a ella
-  rule_ref: L62#5, L62#8
-  lessons:
-  - 62
-  directions:
-  - en_es
-  - es_en
-- id: l62-032
+- id: L62-032
   type: sentence
   tier: primary
   front_en: I sold them (masc) to her.
@@ -846,7 +786,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-033
+- id: L62-033
   type: sentence
   tier: primary
   front_en: I sold them (fem) to her.
@@ -858,7 +798,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-034
+- id: L62-034
   type: sentence
   tier: primary
   front_en: I sold them (fem) to them (masc).
@@ -870,91 +810,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-035
-  type: sentence
-  tier: primary
-  front_en: He sent it to her. (clarified)
-  back_es: Se lo envió a ella.
-  hint: L-L fix + a ella tag
-  rule_ref: L62#5, L62#8
-  lessons:
-  - 62
-  directions:
-  - en_es
-  - es_en
-- id: l62-036
-  type: sentence
-  tier: primary
-  front_en: HE sent it to her.
-  back_es: Él se lo envió a ella.
-  hint: explicit subject for emphasis
-  rule_ref: L62#15
-  lessons:
-  - 62
-  directions:
-  - en_es
-  - es_en
-- id: l62-037
-  type: sentence
-  tier: primary
-  front_en: He sent it to them.
-  back_es: Se lo envió a ellos.
-  hint: a ellos tag
-  rule_ref: L62#8
-  lessons:
-  - 62
-  directions:
-  - en_es
-  - es_en
-- id: l62-038
-  type: sentence
-  tier: primary
-  front_en: He sent it to you guys.
-  back_es: Se lo envió a ustedes.
-  hint: a ustedes tag
-  rule_ref: L62#8
-  lessons:
-  - 62
-  directions:
-  - en_es
-  - es_en
-- id: l62-039
-  type: sentence
-  tier: primary
-  front_en: He didn't send it to you guys yet.
-  back_es: No se lo envió a ustedes todavía.
-  hint: no + ... + todavía at end
-  rule_ref: L62#5, L62#8
-  lessons:
-  - 62
-  directions:
-  - en_es
-  - es_en
-- id: l62-040
-  type: sentence
-  tier: primary
-  front_en: I don't know if I sent it to him.
-  back_es: No sé si se lo envié.
-  hint: no sé si + L-L fix + point-past
-  rule_ref: L62#5, L62#15
-  lessons:
-  - 62
-  directions:
-  - en_es
-  - es_en
-- id: l62-041
-  type: sentence
-  tier: primary
-  front_en: I gave him something.
-  back_es: Le di algo.
-  hint: no L-L crash with algo · le stays
-  rule_ref: L62#3
-  lessons:
-  - 62
-  directions:
-  - en_es
-  - es_en
-- id: l62-042
+- id: L62-042
   type: sentence
   tier: primary
   front_en: I gave him something. (clarified)
@@ -966,7 +822,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-043
+- id: L62-043
   type: sentence
   tier: primary
   front_en: I gave her something. (clarified)
@@ -978,7 +834,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-044
+- id: L62-044
   type: sentence
   tier: primary
   front_en: I gave you-formal something. (clarified)
@@ -990,7 +846,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-045
+- id: L62-045
   type: sentence
   tier: primary
   front_en: I bought it for you-formal.
@@ -1002,7 +858,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-046
+- id: L62-046
   type: sentence
   tier: primary
   front_en: I bought it for you. (Lo…)
@@ -1014,439 +870,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l63-001
-  type: transformation
-  tier: primary
-  front_en: to remember
-  back_es: acordarse
-  hint: -se reflexive · always needs pronoun
-  rule_ref: L63#1, L63#4
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-002
-  type: transformation
-  tier: primary
-  front_en: I remember
-  back_es: me acuerdo
-  hint: stressed o → ue
-  rule_ref: L63#2, L63#3
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-003
-  type: transformation
-  tier: primary
-  front_en: we remember
-  back_es: nos acordamos
-  hint: stress moves off o → o stays
-  rule_ref: L63#2, L63#3
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-004
-  type: transformation
-  tier: primary
-  front_en: I don't remember
-  back_es: no me acuerdo
-  hint: no in front + reflexive
-  rule_ref: L63#3
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-005
-  type: transformation
-  tier: primary
-  front_en: we don't remember
-  back_es: no nos acordamos
-  hint: no + nos + we-form
-  rule_ref: L63#3
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-007
-  type: transformation
-  tier: primary
-  front_en: it pleases him/her/you-formal
-  back_es: le gusta
-  hint: le-group · ambiguous without tag
-  rule_ref: L63#7, L63#8
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-008
-  type: transformation
-  tier: primary
-  front_en: it pleased him/her/you-formal
-  back_es: le gustó
-  hint: point-past · same ambiguity
-  rule_ref: L63#11
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-009
-  type: sentence
-  tier: primary
-  front_en: I remember.
-  back_es: Me acuerdo.
-  hint: stressed o → ue
-  rule_ref: L63#2
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-010
-  type: sentence
-  tier: primary
-  front_en: I don't remember.
-  back_es: No me acuerdo.
-  hint: no in front
-  rule_ref: L63#3
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-011
-  type: sentence
-  tier: primary
-  front_en: We don't remember.
-  back_es: No nos acordamos.
-  hint: nos · stress shifts → no ue
-  rule_ref: L63#3
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-012
-  type: sentence
-  tier: primary
-  front_en: I don't remember if I gave it to him.
-  back_es: No me acuerdo si se lo di.
-  hint: si + L-L fix + point-past
-  rule_ref: L63#5, L63#3
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-013
-  type: sentence
-  tier: primary
-  front_en: I don't remember if I gave it to him or her.
-  back_es: No me acuerdo si se lo di a él o a ella.
-  hint: a-clarification at end · o = or
-  rule_ref: L63#5, L63#6
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-014
-  type: sentence
-  tier: primary
-  front_en: We don't remember if we gave it to him.
-  back_es: No nos acordamos si se lo dimos.
-  hint: we-remember + L-L fix + we-gave
-  rule_ref: L63#5, L63#3
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-015
-  type: sentence
-  tier: primary
-  front_en: We don't remember if we gave it to them (fem).
-  back_es: No nos acordamos si se lo dimos a ellas.
-  hint: a ellas clarification
-  rule_ref: L63#6
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-016
-  type: sentence
-  tier: primary
-  front_en: We gave it to him.
-  back_es: Se lo dimos.
-  hint: L-L fix · we-form
-  rule_ref: L63#5
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-017
-  type: sentence
-  tier: primary
-  front_en: He likes it.
-  back_es: Le gusta a él.
-  hint: a-clarification picks one of le-group
-  rule_ref: L63#9
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-018
-  type: sentence
-  tier: primary
-  front_en: She likes it.
-  back_es: Le gusta a ella.
-  hint: a ella clarifies
-  rule_ref: L63#9
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-019
-  type: sentence
-  tier: primary
-  front_en: She likes it. (a-tag at front)
-  back_es: A ella le gusta.
-  hint: clarifier-first variant
-  rule_ref: L63#9
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-020
-  type: sentence
-  tier: primary
-  front_en: He liked it.
-  back_es: Le gustó a él.
-  hint: point-past + clarification
-  rule_ref: L63#11
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-021
-  type: sentence
-  tier: primary
-  front_en: She liked it.
-  back_es: Le gustó a ella.
-  hint: point-past + a ella
-  rule_ref: L63#11
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-022
-  type: sentence
-  tier: primary
-  front_en: You-formal liked it.
-  back_es: Le gustó a usted.
-  hint: a usted picks formal-you from le-group
-  rule_ref: L63#11
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l61-046
-  type: sentence
-  tier: extended
-  front_en: She was cooking when the phone rang.
-  back_es: Cocinaba cuando sonó el teléfono.
-  hint: I/he/she share -aba
-  rule_ref: L61#1, L61#5
-  lessons:
-  - 61
-  directions:
-  - en_es
-  - es_en
-- id: l61-047
-  type: sentence
-  tier: extended
-  front_en: We were cooking when Maria arrived.
-  back_es: Cocinábamos cuando llegó María.
-  hint: we line-past -ábamos
-  rule_ref: L61#1, L61#8
-  lessons:
-  - 61
-  directions:
-  - en_es
-  - es_en
-- id: l61-048
-  type: sentence
-  tier: extended
-  front_en: I was talking on the phone when she arrived.
-  back_es: Hablaba por teléfono cuando llegó.
-  hint: subject implicit
-  rule_ref: L61#1, L61#9
-  lessons:
-  - 61
-  directions:
-  - en_es
-  - es_en
-- id: l61-049
-  type: sentence
-  tier: extended
-  front_en: We were talking when Maria arrived.
-  back_es: Hablábamos cuando María llegó.
-  hint: line + point
-  rule_ref: L61#1, L61#8
-  lessons:
-  - 61
-  directions:
-  - en_es
-  - es_en
-- id: l61-050
-  type: sentence
-  tier: extended
-  front_en: It seems good to me, but I don't know.
-  back_es: Me parece bien, pero no sé.
-  hint: present · pero contrast
-  rule_ref: L61#17
-  lessons:
-  - 61
-  directions:
-  - en_es
-  - es_en
-- id: l61-051
-  type: sentence
-  tier: extended
-  front_en: It didn't seem good to me.
-  back_es: No me pareció bien.
-  hint: no + point-past
-  rule_ref: L61#18
-  lessons:
-  - 61
-  directions:
-  - en_es
-  - es_en
-- id: l61-052
-  type: sentence
-  tier: extended
-  front_en: It wasn't seeming good to me.
-  back_es: No me parecía bien.
-  hint: no + line-past
-  rule_ref: L61#19
-  lessons:
-  - 61
-  directions:
-  - en_es
-  - es_en
-- id: l61-053
-  type: sentence
-  tier: extended
-  front_en: I didn't like it when I saw it.
-  back_es: No me gustó cuando lo vi.
-  hint: two points
-  rule_ref: L61#14, L61#20
-  lessons:
-  - 61
-  directions:
-  - en_es
-  - es_en
-- id: l61-054
-  type: sentence
-  tier: extended
-  front_en: She wasn't liking it.
-  back_es: No le gustaba.
-  hint: line-past · le for she
-  rule_ref: L61#15
-  lessons:
-  - 61
-  directions:
-  - en_es
-  - es_en
-- id: l61-056
-  type: sentence
-  tier: extended
-  front_en: I was staying when she called.
-  back_es: Me quedaba cuando llamó.
-  hint: line + point · llamar point-past -ó
-  rule_ref: L61#1, L61#10
-  lessons:
-  - 61
-  directions:
-  - en_es
-  - es_en
-- id: l61-057
-  type: sentence
-  tier: extended
-  front_en: He stayed by phone.
-  back_es: Se quedó por teléfono.
-  hint: stayed on the line
-  rule_ref: L61#9, L61#10
-  lessons:
-  - 61
-  directions:
-  - en_es
-  - es_en
-- id: l61-058
-  type: sentence
-  tier: extended
-  front_en: When the phone rang, I was cooking.
-  back_es: Cuando el teléfono sonó, cocinaba.
-  hint: order flipped — point first, then line
-  rule_ref: L61#1, L61#6
-  lessons:
-  - 61
-  directions:
-  - en_es
-  - es_en
-- id: l61-059
-  type: sentence
-  tier: extended
-  front_en: When Maria arrived, we were talking.
-  back_es: Cuando María llegó, hablábamos.
-  hint: point + line
-  rule_ref: L61#1
-  lessons:
-  - 61
-  directions:
-  - en_es
-  - es_en
-- id: l61-060
-  type: sentence
-  tier: extended
-  front_en: She seemed fine to me.
-  back_es: Me parecía bien.
-  hint: same form covers *was seeming*
-  rule_ref: L61#19, L61#21
-  lessons:
-  - 61
-  directions:
-  - en_es
-  - es_en
-- id: l62-048
-  type: sentence
-  tier: extended
-  front_en: We gave it to her.
-  back_es: Se lo dimos a ella.
-  hint: we-form + L-L fix + tag
-  rule_ref: L62#5, L62#8
-  lessons:
-  - 62
-  directions:
-  - en_es
-  - es_en
-- id: l62-049
+- id: L62-049
   type: sentence
   tier: extended
   front_en: She gave them (masc) to me.
@@ -1458,103 +882,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-050
-  type: sentence
-  tier: extended
-  front_en: She gave them (fem) to us.
-  back_es: Nos las dio.
-  hint: nos + las direct
-  rule_ref: L62#13
-  lessons:
-  - 62
-  directions:
-  - en_es
-  - es_en
-- id: l62-051
-  type: sentence
-  tier: extended
-  front_en: I gave them (fem) to him.
-  back_es: Se las di a él.
-  hint: -las + L-L fix + a él
-  rule_ref: L62#13, L62#8
-  lessons:
-  - 62
-  directions:
-  - en_es
-  - es_en
-- id: l62-052
-  type: sentence
-  tier: extended
-  front_en: We sold them (masc) to her.
-  back_es: Se los vendimos a ella.
-  hint: we-sold + -los + L-L fix
-  rule_ref: L62#13, L62#5
-  lessons:
-  - 62
-  directions:
-  - en_es
-  - es_en
-- id: l62-053
-  type: sentence
-  tier: extended
-  front_en: He sent them (fem) to her.
-  back_es: Se las envió a ella.
-  hint: -las + L-L fix + a ella
-  rule_ref: L62#13, L62#5
-  lessons:
-  - 62
-  directions:
-  - en_es
-  - es_en
-- id: l62-054
-  type: sentence
-  tier: extended
-  front_en: They didn't send it to me.
-  back_es: No me lo enviaron.
-  hint: no + me + lo + they-point-past -aron
-  rule_ref: L62#15
-  lessons:
-  - 62
-  directions:
-  - en_es
-  - es_en
-- id: l62-055
-  type: sentence
-  tier: extended
-  front_en: I gave you (informal) something.
-  back_es: Te di algo.
-  hint: te + di + algo · no L-L crash
-  rule_ref: L62#3
-  lessons:
-  - 62
-  directions:
-  - en_es
-  - es_en
-- id: l62-056
-  type: sentence
-  tier: extended
-  front_en: We gave him something.
-  back_es: Le dimos algo.
-  hint: le stays — algo is the direct, no L-L
-  rule_ref: L62#3
-  lessons:
-  - 62
-  directions:
-  - en_es
-  - es_en
-- id: l62-057
-  type: sentence
-  tier: extended
-  front_en: We gave him something. (clarified)
-  back_es: Le dimos algo a él.
-  hint: keep le AND tag a él
-  rule_ref: L62#9
-  lessons:
-  - 62
-  directions:
-  - en_es
-  - es_en
-- id: l62-058
+- id: L62-058
   type: sentence
   tier: extended
   front_en: I bought it because of you.
@@ -1566,55 +894,247 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l62-059
-  type: sentence
-  tier: extended
-  front_en: I haven't sent it to him yet.
-  back_es: No se lo he enviado todavía.
-  hint: he + part. + L-L fix · todavía at end
-  rule_ref: L62#5
+- id: L63-001
+  type: transformation
+  tier: primary
+  front_en: to remember
+  back_es: acordarse
+  hint: -se reflexive · always needs pronoun
+  rule_ref: L63#1, L63#4
   lessons:
-  - 62
+  - 63
   directions:
   - en_es
   - es_en
-- id: l62-060
-  type: sentence
-  tier: extended
-  front_en: I don't know if she gave it to him.
-  back_es: No sé si se lo dio.
-  hint: no sé si + L-L fix + dio
-  rule_ref: L62#5, L62#2
+- id: L63-002
+  type: transformation
+  tier: primary
+  front_en: I remember
+  back_es: me acuerdo
+  hint: stressed o → ue
+  rule_ref: L63#2, L63#3
   lessons:
-  - 62
+  - 63
   directions:
   - en_es
   - es_en
-- id: l62-061
-  type: sentence
-  tier: extended
-  front_en: I gave it to her yesterday.
-  back_es: Se lo di a ella ayer.
-  hint: L-L fix + clarifying tag + time at end
-  rule_ref: L62#5, L62#8
+- id: L63-003
+  type: transformation
+  tier: primary
+  front_en: we remember
+  back_es: nos acordamos
+  hint: stress moves off o → o stays
+  rule_ref: L63#2, L63#3
   lessons:
-  - 62
+  - 63
   directions:
   - en_es
   - es_en
-- id: l62-062
-  type: sentence
-  tier: extended
-  front_en: They sold it to him.
-  back_es: Se lo vendieron a él.
-  hint: they-point-past -ieron + L-L fix
-  rule_ref: L62#5, L62#12
+- id: L63-004
+  type: transformation
+  tier: primary
+  front_en: I don't remember
+  back_es: no me acuerdo
+  hint: no in front + reflexive
+  rule_ref: L63#3
   lessons:
-  - 62
+  - 63
   directions:
   - en_es
   - es_en
-- id: l63-023
+- id: L63-005
+  type: transformation
+  tier: primary
+  front_en: we don't remember
+  back_es: no nos acordamos
+  hint: no + nos + we-form
+  rule_ref: L63#3
+  lessons:
+  - 63
+  directions:
+  - en_es
+  - es_en
+- id: L63-007
+  type: transformation
+  tier: primary
+  front_en: it pleases him/her/you-formal
+  back_es: le gusta
+  hint: le-group · ambiguous without tag
+  rule_ref: L63#7, L63#8
+  lessons:
+  - 63
+  directions:
+  - en_es
+  - es_en
+- id: L63-008
+  type: transformation
+  tier: primary
+  front_en: it pleased him/her/you-formal
+  back_es: le gustó
+  hint: point-past · same ambiguity
+  rule_ref: L63#11
+  lessons:
+  - 63
+  directions:
+  - en_es
+  - es_en
+- id: L63-009
+  type: sentence
+  tier: primary
+  front_en: I remember.
+  back_es: Me acuerdo.
+  hint: stressed o → ue
+  rule_ref: L63#2
+  lessons:
+  - 63
+  directions:
+  - en_es
+  - es_en
+- id: L63-010
+  type: sentence
+  tier: primary
+  front_en: I don't remember.
+  back_es: No me acuerdo.
+  hint: no in front
+  rule_ref: L63#3
+  lessons:
+  - 63
+  directions:
+  - en_es
+  - es_en
+- id: L63-011
+  type: sentence
+  tier: primary
+  front_en: We don't remember.
+  back_es: No nos acordamos.
+  hint: nos · stress shifts → no ue
+  rule_ref: L63#3
+  lessons:
+  - 63
+  directions:
+  - en_es
+  - es_en
+- id: L63-012
+  type: sentence
+  tier: primary
+  front_en: I don't remember if I gave it to him.
+  back_es: No me acuerdo si se lo di.
+  hint: si + L-L fix + point-past
+  rule_ref: L63#5, L63#3
+  lessons:
+  - 63
+  directions:
+  - en_es
+  - es_en
+- id: L63-013
+  type: sentence
+  tier: primary
+  front_en: I don't remember if I gave it to him or her.
+  back_es: No me acuerdo si se lo di a él o a ella.
+  hint: a-clarification at end · o = or
+  rule_ref: L63#5, L63#6
+  lessons:
+  - 63
+  directions:
+  - en_es
+  - es_en
+- id: L63-014
+  type: sentence
+  tier: primary
+  front_en: We don't remember if we gave it to him.
+  back_es: No nos acordamos si se lo dimos.
+  hint: we-remember + L-L fix + we-gave
+  rule_ref: L63#5, L63#3
+  lessons:
+  - 63
+  directions:
+  - en_es
+  - es_en
+- id: L63-015
+  type: sentence
+  tier: primary
+  front_en: We don't remember if we gave it to them (fem).
+  back_es: No nos acordamos si se lo dimos a ellas.
+  hint: a ellas clarification
+  rule_ref: L63#6
+  lessons:
+  - 63
+  directions:
+  - en_es
+  - es_en
+- id: L63-017
+  type: sentence
+  tier: primary
+  front_en: He likes it.
+  back_es: Le gusta a él.
+  hint: a-clarification picks one of le-group
+  rule_ref: L63#9
+  lessons:
+  - 63
+  directions:
+  - en_es
+  - es_en
+- id: L63-018
+  type: sentence
+  tier: primary
+  front_en: She likes it.
+  back_es: Le gusta a ella.
+  hint: a ella clarifies
+  rule_ref: L63#9
+  lessons:
+  - 63
+  directions:
+  - en_es
+  - es_en
+- id: L63-019
+  type: sentence
+  tier: primary
+  front_en: She likes it. (a-tag at front)
+  back_es: A ella le gusta.
+  hint: clarifier-first variant
+  rule_ref: L63#9
+  lessons:
+  - 63
+  directions:
+  - en_es
+  - es_en
+- id: L63-020
+  type: sentence
+  tier: primary
+  front_en: He liked it.
+  back_es: Le gustó a él.
+  hint: point-past + clarification
+  rule_ref: L63#11
+  lessons:
+  - 63
+  directions:
+  - en_es
+  - es_en
+- id: L63-021
+  type: sentence
+  tier: primary
+  front_en: She liked it.
+  back_es: Le gustó a ella.
+  hint: point-past + a ella
+  rule_ref: L63#11
+  lessons:
+  - 63
+  directions:
+  - en_es
+  - es_en
+- id: L63-022
+  type: sentence
+  tier: primary
+  front_en: You-formal liked it.
+  back_es: Le gustó a usted.
+  hint: a usted picks formal-you from le-group
+  rule_ref: L63#11
+  lessons:
+  - 63
+  directions:
+  - en_es
+  - es_en
+- id: L63-023
   type: sentence
   tier: extended
   front_en: Do you remember?
@@ -1626,7 +1146,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l63-024
+- id: L63-024
   type: sentence
   tier: extended
   front_en: Don't you remember?
@@ -1638,7 +1158,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l63-025
+- id: L63-025
   type: sentence
   tier: extended
   front_en: He doesn't remember.
@@ -1650,91 +1170,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l63-026
-  type: sentence
-  tier: extended
-  front_en: They don't remember.
-  back_es: No se acuerdan.
-  hint: se + they-form · stressed o → ue
-  rule_ref: L63#2
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-027
-  type: sentence
-  tier: extended
-  front_en: I remember if I gave it to her.
-  back_es: Me acuerdo si se lo di a ella.
-  hint: positive · si + L-L fix + tag
-  rule_ref: L63#5, L63#6
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-028
-  type: sentence
-  tier: extended
-  front_en: We don't remember if we sold it to him.
-  back_es: No nos acordamos si se lo vendimos.
-  hint: we-remember + L-L fix + we-sold
-  rule_ref: L63#5
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-029
-  type: sentence
-  tier: extended
-  front_en: I don't remember if I sent it to them.
-  back_es: No me acuerdo si se lo envié a ellos.
-  hint: si + L-L fix + a ellos
-  rule_ref: L63#5, L63#6
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-030
-  type: sentence
-  tier: extended
-  front_en: He likes it. (front a-tag)
-  back_es: A él le gusta.
-  hint: a-tag at front variant
-  rule_ref: L63#9
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-031
-  type: sentence
-  tier: extended
-  front_en: They like it.
-  back_es: Les gusta a ellos.
-  hint: les-group + a ellos clarification
-  rule_ref: L63#9
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-032
-  type: sentence
-  tier: extended
-  front_en: They liked it.
-  back_es: Les gustó a ellos.
-  hint: point-past · les + tag
-  rule_ref: L63#11
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-033
+- id: L63-033
   type: sentence
   tier: extended
   front_en: He doesn't like it.
@@ -1746,7 +1182,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l63-034
+- id: L63-034
   type: sentence
   tier: extended
   front_en: She didn't like it.
@@ -1754,56 +1190,6 @@ cards:
   hint: no + point-past + a ella
   rule_ref: L63#11
   lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-035
-  type: sentence
-  tier: extended
-  front_en: I don't remember if she liked it.
-  back_es: No me acuerdo si le gustó a ella.
-  hint: nested · acordarse + le-clarification
-  rule_ref: L63#5, L63#11
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-036
-  type: sentence
-  tier: extended
-  front_en: We remember.
-  back_es: Nos acordamos.
-  hint: stress moves off o
-  rule_ref: L63#2
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-037
-  type: sentence
-  tier: extended
-  front_en: I gave them to her.
-  back_es: Se los di a ella.
-  hint: -los + L-L fix + a ella
-  rule_ref: L63#5, L63#6
-  lessons:
-  - 63
-  directions:
-  - en_es
-  - es_en
-- id: l63-038
-  type: sentence
-  tier: extended
-  front_en: I was cooking when she gave it to me.
-  back_es: Cocinaba cuando me lo dio.
-  hint: line + point · L62 dar past
-  rule_ref: L61#1, L62#3
-  lessons:
-  - 61
-  - 62
   - 63
   directions:
   - en_es

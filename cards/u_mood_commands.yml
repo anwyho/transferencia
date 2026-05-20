@@ -1,11 +1,11 @@
 bundle: U
-title: 'Mood triggers + commands: espero que, personal a, ir → vaya, drop -s for tú'
+title: 'Bundle U Mood Triggers + Commands (L71-73)'
 lessons:
 - 71
 - 72
 - 73
 cards:
-- id: l71-001
+- id: L71-001
   type: transformation
   tier: primary
   front_en: I tell / I count
@@ -17,7 +17,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-002
+- id: L71-002
   type: transformation
   tier: primary
   front_en: a story
@@ -29,7 +29,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-003
+- id: L71-003
   type: transformation
   tier: primary
   front_en: to count on
@@ -41,7 +41,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-004
+- id: L71-004
   type: sentence
   tier: primary
   front_en: I hope you wait.
@@ -53,7 +53,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-005
+- id: L71-005
   type: transformation
   tier: primary
   front_en: I like that
@@ -65,7 +65,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-006
+- id: L71-006
   type: transformation
   tier: primary
   front_en: to the (masculine)
@@ -77,106 +77,106 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-007
+- id: L71-007
   type: conjugation
   tier: primary
   front_en: mood you-form of contar
   back_es: cuentes
-  hint: o-split · -ar takes -es
+  hint: count/tell (subj.) · o-split · -ar takes -es
   rule_ref: L71#2
   lessons:
   - 71
   directions:
   - en_es
-- id: l71-008
+- id: L71-008
   type: conjugation
   tier: primary
   front_en: mood they-form of contar
   back_es: cuenten
-  hint: o-split · -ar takes -en
+  hint: count/tell (subj.) · o-split · -ar takes -en
   rule_ref: L71#2
   lessons:
   - 71
   directions:
   - en_es
-- id: l71-009
+- id: L71-009
   type: conjugation
   tier: primary
   front_en: mood I-form of ver
   back_es: vea
-  hint: built from veo to dodge clash with *van*
+  hint: see (subj.) · built from veo to dodge clash with *van*
   rule_ref: L71#6
   lessons:
   - 71
   directions:
   - en_es
-- id: l71-010
+- id: L71-010
   type: conjugation
   tier: primary
   front_en: mood you-form of ver
   back_es: veas
-  hint: built from veo · keep the e
+  hint: see (subj.) · built from veo · keep the e
   rule_ref: L71#6
   lessons:
   - 71
   directions:
   - en_es
-- id: l71-011
+- id: L71-011
   type: conjugation
   tier: primary
   front_en: mood she-form of ver
   back_es: vea
-  hint: same as I-form
+  hint: see (subj.) · same as I-form
   rule_ref: L71#6
   lessons:
   - 71
   directions:
   - en_es
-- id: l71-012
+- id: L71-012
   type: conjugation
   tier: primary
   front_en: mood they-form of ver
   back_es: vean
-  hint: built from veo not ven
+  hint: see (subj.) · built from veo not ven
   rule_ref: L71#6
   lessons:
   - 71
   directions:
   - en_es
-- id: l71-013
+- id: L71-013
   type: conjugation
   tier: primary
   front_en: mood you-form of comprender
   back_es: comprendas
-  hint: -er takes -as
+  hint: understand (subj.) · -er takes -as
   rule_ref: L71#10
   lessons:
   - 71
   directions:
   - en_es
-- id: l71-014
+- id: L71-014
   type: conjugation
   tier: primary
   front_en: mood she-form of comprender
   back_es: comprenda
-  hint: -er takes -a
+  hint: understand (subj.) · -er takes -a
   rule_ref: L71#10
   lessons:
   - 71
   directions:
   - en_es
-- id: l71-015
+- id: L71-015
   type: conjugation
   tier: primary
   front_en: mood she-form of visitar
   back_es: visite
-  hint: -ar takes -e
+  hint: visit (subj.) · -ar takes -e
   rule_ref: L71#14
   lessons:
   - 71
   directions:
   - en_es
-- id: l71-016
+- id: L71-016
   type: sentence
   tier: primary
   front_en: I want you to tell me.
@@ -188,7 +188,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-017
+- id: L71-017
   type: sentence
   tier: primary
   front_en: I want you all to tell me something.
@@ -200,7 +200,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-018
+- id: L71-018
   type: sentence
   tier: primary
   front_en: I want you to count on me.
@@ -212,7 +212,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-019
+- id: L71-019
   type: sentence
   tier: primary
   front_en: I hope you count on me.
@@ -224,7 +224,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-020
+- id: L71-020
   type: sentence
   tier: primary
   front_en: We hope they count on María.
@@ -236,19 +236,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-021
-  type: sentence
-  tier: primary
-  front_en: We hope they tell it to María.
-  back_es: Esperamos que lo cuenten a María.
-  hint: tell-to a person → personal a
-  rule_ref: L71#5, L71#7
-  lessons:
-  - 71
-  directions:
-  - en_es
-  - es_en
-- id: l71-022
+- id: L71-022
   type: sentence
   tier: primary
   front_en: I hope they see María.
@@ -260,7 +248,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-023
+- id: L71-023
   type: sentence
   tier: primary
   front_en: I hope you understand David.
@@ -272,7 +260,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-024
+- id: L71-024
   type: sentence
   tier: primary
   front_en: I hope she understands David.
@@ -284,7 +272,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-025
+- id: L71-025
   type: sentence
   tier: primary
   front_en: I want him to see the man.
@@ -296,7 +284,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-026
+- id: L71-026
   type: sentence
   tier: primary
   front_en: I want the man to see.
@@ -308,7 +296,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-027
+- id: L71-027
   type: sentence
   tier: primary
   front_en: I like that the teacher visits.
@@ -320,7 +308,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-028
+- id: L71-028
   type: sentence
   tier: primary
   front_en: I like that he visits the teacher.
@@ -332,7 +320,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-029
+- id: L71-029
   type: sentence
   tier: primary
   front_en: To escape death.
@@ -344,7 +332,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-030
+- id: L71-030
   type: sentence
   tier: primary
   front_en: I need to find the plumber.
@@ -356,7 +344,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-031
+- id: L71-031
   type: sentence
   tier: primary
   front_en: I need to find a plumber.
@@ -368,19 +356,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-032
-  type: sentence
-  tier: primary
-  front_en: I hope you see her.
-  back_es: Espero que la veas.
-  hint: little word before mood verb
-  rule_ref: L71#5, L71#6
-  lessons:
-  - 71
-  directions:
-  - en_es
-  - es_en
-- id: l71-033
+- id: L71-033
   type: sentence
   tier: extended
   front_en: I hope they see the doctor.
@@ -392,7 +368,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-034
+- id: L71-034
   type: sentence
   tier: extended
   front_en: We hope you understand María.
@@ -404,7 +380,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-035
+- id: L71-035
   type: sentence
   tier: extended
   front_en: I like that they visit my mother.
@@ -416,7 +392,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-036
+- id: L71-036
   type: sentence
   tier: extended
   front_en: I want them to count on me.
@@ -428,7 +404,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-037
+- id: L71-037
   type: sentence
   tier: extended
   front_en: She tells me a story.
@@ -440,31 +416,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-038
-  type: sentence
-  tier: extended
-  front_en: I hope you tell me the story.
-  back_es: Espero que me cuentes el cuento.
-  hint: tell + thing · not a person → no personal a
-  rule_ref: L71#5, L71#2
-  lessons:
-  - 71
-  directions:
-  - en_es
-  - es_en
-- id: l71-039
-  type: sentence
-  tier: extended
-  front_en: I hope they see us.
-  back_es: Espero que nos vean.
-  hint: us is a little word → before verb
-  rule_ref: L71#5, L71#6
-  lessons:
-  - 71
-  directions:
-  - en_es
-  - es_en
-- id: l71-040
+- id: L71-040
   type: sentence
   tier: extended
   front_en: I want you to see María.
@@ -476,31 +428,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-041
-  type: sentence
-  tier: extended
-  front_en: I like that you see the teacher.
-  back_es: Me gusta que veas al profesor.
-  hint: a + el → al
-  rule_ref: L71#14, L71#11
-  lessons:
-  - 71
-  directions:
-  - en_es
-  - es_en
-- id: l71-042
-  type: sentence
-  tier: extended
-  front_en: She hopes I understand her.
-  back_es: Espera que la comprenda.
-  hint: little word before · -a for I/she mood
-  rule_ref: L71#5, L71#10
-  lessons:
-  - 71
-  directions:
-  - en_es
-  - es_en
-- id: l71-043
+- id: L71-043
   type: sentence
   tier: extended
   front_en: I count on you.
@@ -512,31 +440,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l71-044
-  type: sentence
-  tier: extended
-  front_en: I hope they tell us the story.
-  back_es: Espero que nos cuenten el cuento.
-  hint: thing told → no personal a
-  rule_ref: L71#5, L71#2
-  lessons:
-  - 71
-  directions:
-  - en_es
-  - es_en
-- id: l71-045
-  type: sentence
-  tier: extended
-  front_en: I like that they understand the man.
-  back_es: Me gusta que comprendan al hombre.
-  hint: a + el → al · person being understood
-  rule_ref: L71#14, L71#11
-  lessons:
-  - 71
-  directions:
-  - en_es
-  - es_en
-- id: l72-001
+- id: L72-001
   type: sentence
   tier: primary
   front_en: I forget it.
@@ -548,7 +452,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-002
+- id: L72-002
   type: transformation
   tier: primary
   front_en: to shut up (reflexive)
@@ -560,29 +464,29 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-003
+- id: L72-003
   type: conjugation
   tier: primary
   front_en: mood you-form of comprar
   back_es: compres
-  hint: -ar takes -es
+  hint: buy (subj.) · -ar takes -es
   rule_ref: L72#2
   lessons:
   - 72
   directions:
   - en_es
-- id: l72-004
+- id: L72-004
   type: conjugation
   tier: primary
   front_en: mood you-form of vender
   back_es: vendas
-  hint: -er takes -as
+  hint: sell (subj.) · -er takes -as
   rule_ref: L72#17
   lessons:
   - 72
   directions:
   - en_es
-- id: l72-006
+- id: L72-006
   type: sentence
   tier: primary
   front_en: Don't speak.
@@ -594,7 +498,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-007
+- id: L72-007
   type: sentence
   tier: primary
   front_en: Don't stay.
@@ -606,7 +510,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-008
+- id: L72-008
   type: sentence
   tier: primary
   front_en: Don't stay there.
@@ -618,7 +522,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-009
+- id: L72-009
   type: sentence
   tier: primary
   front_en: Don't give it.
@@ -630,7 +534,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-010
+- id: L72-010
   type: sentence
   tier: primary
   front_en: Don't give it to him.
@@ -642,7 +546,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-011
+- id: L72-011
   type: sentence
   tier: primary
   front_en: Eat (you all).
@@ -654,7 +558,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-012
+- id: L72-012
   type: sentence
   tier: primary
   front_en: Wait (you all).
@@ -666,7 +570,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-013
+- id: L72-013
   type: sentence
   tier: primary
   front_en: Wait for me (you all).
@@ -678,7 +582,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-014
+- id: L72-014
   type: sentence
   tier: primary
   front_en: Wait for him (you all).
@@ -690,7 +594,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-015
+- id: L72-015
   type: sentence
   tier: primary
   front_en: Wait for them (you all).
@@ -702,7 +606,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-016
+- id: L72-016
   type: sentence
   tier: primary
   front_en: Don't wait for them.
@@ -714,7 +618,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-017
+- id: L72-017
   type: sentence
   tier: primary
   front_en: Eat (formal).
@@ -726,7 +630,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-018
+- id: L72-018
   type: sentence
   tier: primary
   front_en: Eat it (formal).
@@ -738,7 +642,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-019
+- id: L72-019
   type: sentence
   tier: primary
   front_en: Don't eat it (formal).
@@ -750,19 +654,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-020
-  type: sentence
-  tier: primary
-  front_en: Don't eat it (informal).
-  back_es: No lo comas.
-  hint: negative informal → mood -as
-  rule_ref: L72#2, L72#8
-  lessons:
-  - 72
-  directions:
-  - en_es
-  - es_en
-- id: l72-021
+- id: L72-021
   type: sentence
   tier: primary
   front_en: Don't eat it (you all).
@@ -774,19 +666,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-022
-  type: sentence
-  tier: primary
-  front_en: Eat it (you all).
-  back_es: Cómanlo.
-  hint: positive plural → little word at end
-  rule_ref: L72#7, L72#6
-  lessons:
-  - 72
-  directions:
-  - en_es
-  - es_en
-- id: l72-023
+- id: L72-023
   type: sentence
   tier: primary
   front_en: Forget it (formal).
@@ -798,7 +678,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-024
+- id: L72-024
   type: sentence
   tier: primary
   front_en: Forget (formal).
@@ -810,55 +690,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-025
-  type: sentence
-  tier: primary
-  front_en: Don't forget it (informal).
-  back_es: No lo olvides.
-  hint: negative · little word before · mood -es
-  rule_ref: L72#11, L72#8
-  lessons:
-  - 72
-  directions:
-  - en_es
-  - es_en
-- id: l72-026
-  type: sentence
-  tier: primary
-  front_en: Don't forget (informal).
-  back_es: No te olvides.
-  hint: olvidar needs reflexive when alone
-  rule_ref: L72#11
-  lessons:
-  - 72
-  directions:
-  - en_es
-  - es_en
-- id: l72-027
-  type: sentence
-  tier: primary
-  front_en: Don't forget it (you all). (No lo…)
-  back_es: No lo olviden.
-  hint: negative plural · little word before
-  rule_ref: L72#11, L72#8
-  lessons:
-  - 72
-  directions:
-  - en_es
-  - es_en
-- id: l72-028
-  type: sentence
-  tier: primary
-  front_en: Don't forget (you all).
-  back_es: No se olviden.
-  hint: reflexive needed when alone
-  rule_ref: L72#11
-  lessons:
-  - 72
-  directions:
-  - en_es
-  - es_en
-- id: l72-029
+- id: L72-029
   type: sentence
   tier: primary
   front_en: Let's not forget it.
@@ -870,7 +702,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-030
+- id: L72-030
   type: sentence
   tier: primary
   front_en: Let's not forget.
@@ -882,7 +714,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-031
+- id: L72-031
   type: sentence
   tier: primary
   front_en: Buy what's missing (you all).
@@ -894,7 +726,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-032
+- id: L72-032
   type: sentence
   tier: primary
   front_en: Buy.
@@ -906,7 +738,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-034
+- id: L72-034
   type: sentence
   tier: primary
   front_en: Buy it.
@@ -918,7 +750,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-035
+- id: L72-035
   type: sentence
   tier: primary
   front_en: Buy it for me.
@@ -930,7 +762,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-036
+- id: L72-036
   type: sentence
   tier: primary
   front_en: Eat it.
@@ -942,19 +774,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-037
-  type: sentence
-  tier: primary
-  front_en: Forget it.
-  back_es: Olvídalo.
-  hint: positive informal · little word at end
-  rule_ref: L72#14, L72#16
-  lessons:
-  - 72
-  directions:
-  - en_es
-  - es_en
-- id: l72-038
+- id: L72-038
   type: sentence
   tier: primary
   front_en: Forget (yourself).
@@ -966,19 +786,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-039
-  type: sentence
-  tier: primary
-  front_en: Sell it.
-  back_es: Véndelo.
-  hint: drop -s · attach little word
-  rule_ref: L72#14, L72#16
-  lessons:
-  - 72
-  directions:
-  - en_es
-  - es_en
-- id: l72-040
+- id: L72-040
   type: sentence
   tier: primary
   front_en: Don't sell it.
@@ -990,7 +798,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-041
+- id: L72-041
   type: sentence
   tier: primary
   front_en: Shut up!
@@ -1002,7 +810,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-042
+- id: L72-042
   type: sentence
   tier: primary
   front_en: Shut up (you all)!
@@ -1014,43 +822,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-043
-  type: sentence
-  tier: extended
-  front_en: Don't speak (you all).
-  back_es: No hablen.
-  hint: negative plural → mood -en
-  rule_ref: L72#8
-  lessons:
-  - 72
-  directions:
-  - en_es
-  - es_en
-- id: l72-044
-  type: sentence
-  tier: extended
-  front_en: Don't give it to me.
-  back_es: No me lo des.
-  hint: two little words before
-  rule_ref: L72#2, L72#8
-  lessons:
-  - 72
-  directions:
-  - en_es
-  - es_en
-- id: l72-046
-  type: sentence
-  tier: extended
-  front_en: Don't forget it (you all). (No se lo…)
-  back_es: No se lo olviden.
-  hint: olvidar reflexive + lo · all before verb
-  rule_ref: L72#11, L72#8
-  lessons:
-  - 72
-  directions:
-  - en_es
-  - es_en
-- id: l72-047
+- id: L72-047
   type: sentence
   tier: extended
   front_en: Buy what's missing.
@@ -1062,31 +834,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-048
-  type: sentence
-  tier: extended
-  front_en: Forget.
-  back_es: Olvida.
-  hint: drop -s from *olvidas*
-  rule_ref: L72#14
-  lessons:
-  - 72
-  directions:
-  - en_es
-  - es_en
-- id: l72-049
-  type: sentence
-  tier: extended
-  front_en: Don't buy it.
-  back_es: No lo compres.
-  hint: negative → mood (-ar takes -es)
-  rule_ref: L72#2, L72#8
-  lessons:
-  - 72
-  directions:
-  - en_es
-  - es_en
-- id: l72-051
+- id: L72-051
   type: sentence
   tier: extended
   front_en: Don't shut up.
@@ -1098,7 +846,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-053
+- id: L72-053
   type: sentence
   tier: extended
   front_en: Eat it (formal, you all).
@@ -1110,7 +858,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-054
+- id: L72-054
   type: sentence
   tier: extended
   front_en: Don't stay here.
@@ -1122,19 +870,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-055
-  type: sentence
-  tier: extended
-  front_en: Speak (informal).
-  back_es: Habla.
-  hint: drop -s from *hablas*
-  rule_ref: L72#14
-  lessons:
-  - 72
-  directions:
-  - en_es
-  - es_en
-- id: l72-056
+- id: L72-056
   type: sentence
   tier: extended
   front_en: Speak to me.
@@ -1146,66 +882,18 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l72-057
-  type: sentence
-  tier: extended
-  front_en: Don't speak to me.
-  back_es: No me hables.
-  hint: negative flips → mood · me before
-  rule_ref: L72#2, L72#8
-  lessons:
-  - 72
-  directions:
-  - en_es
-  - es_en
-- id: l72-058
-  type: sentence
-  tier: extended
-  front_en: Wait for me.
-  back_es: Espérame.
-  hint: drop -s · attach me · accent
-  rule_ref: L72#14, L72#16
-  lessons:
-  - 72
-  directions:
-  - en_es
-  - es_en
-- id: l72-059
-  type: sentence
-  tier: extended
-  front_en: Don't wait for me.
-  back_es: No me esperes.
-  hint: negative · me before · mood -es
-  rule_ref: L72#2, L72#8
-  lessons:
-  - 72
-  directions:
-  - en_es
-  - es_en
-- id: l72-060
-  type: sentence
-  tier: extended
-  front_en: Forget about it.
-  back_es: Olvídate de eso.
-  hint: olvidarse de = to forget about
-  rule_ref: L72#11, L72#16
-  lessons:
-  - 72
-  directions:
-  - en_es
-  - es_en
-- id: l73-001
+- id: L73-001
   type: conjugation
   tier: primary
   front_en: mood we-form of terminar
   back_es: terminemos
-  hint: -ar → -emos
+  hint: finish (subj.) · -ar → -emos
   rule_ref: L73#2
   lessons:
   - 73
   directions:
   - en_es
-- id: l73-002
+- id: L73-002
   type: transformation
   tier: primary
   front_en: together (mixed/male)
@@ -1217,7 +905,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-003
+- id: L73-003
   type: transformation
   tier: primary
   front_en: together (all female)
@@ -1229,18 +917,18 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-004
+- id: L73-004
   type: conjugation
   tier: primary
   front_en: mood they-form of terminar
   back_es: terminen
-  hint: -ar takes -en
+  hint: finish (subj.) · -ar takes -en
   rule_ref: L73#9
   lessons:
   - 73
   directions:
   - en_es
-- id: l73-005
+- id: L73-005
   type: transformation
   tier: primary
   front_en: to finish
@@ -1252,95 +940,95 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-006
+- id: L73-006
   type: conjugation
   tier: primary
   front_en: mood I-form of ir
   back_es: vaya
-  hint: irregular root v-a-y-a
+  hint: go (subj.) · irregular root v-a-y-a
   rule_ref: L73#12
   lessons:
   - 73
   directions:
   - en_es
-- id: l73-007
+- id: L73-007
   type: conjugation
   tier: primary
   front_en: mood you-form of ir
   back_es: vayas
-  hint: vaya + -s
+  hint: go (subj.) · vaya + -s
   rule_ref: L73#12
   lessons:
   - 73
   directions:
   - en_es
-- id: l73-008
+- id: L73-008
   type: conjugation
   tier: primary
   front_en: mood she-form of ir
   back_es: vaya
-  hint: same as I-form
+  hint: go (subj.) · same as I-form
   rule_ref: L73#12
   lessons:
   - 73
   directions:
   - en_es
-- id: l73-009
+- id: L73-009
   type: conjugation
   tier: primary
   front_en: mood we-form of ir
   back_es: vayamos
-  hint: vaya + -mos
+  hint: go (subj.) · vaya + -mos
   rule_ref: L73#12
   lessons:
   - 73
   directions:
   - en_es
-- id: l73-010
+- id: L73-010
   type: conjugation
   tier: primary
   front_en: mood they-form of ir
   back_es: vayan
-  hint: vaya + -n
+  hint: go (subj.) · vaya + -n
   rule_ref: L73#12
   lessons:
   - 73
   directions:
   - en_es
-- id: l73-011
+- id: L73-011
   type: conjugation
   tier: primary
   front_en: mood we-form of esperar
   back_es: esperemos
-  hint: -ar → -emos for *let's*
+  hint: wait/hope (subj.) · -ar → -emos for *let's*
   rule_ref: L73#2
   lessons:
   - 73
   directions:
   - en_es
-- id: l73-012
+- id: L73-012
   type: conjugation
   tier: primary
   front_en: mood we-form of hablar
   back_es: hablemos
-  hint: -ar → -emos
+  hint: speak (subj.) · -ar → -emos
   rule_ref: L73#2
   lessons:
   - 73
   directions:
   - en_es
-- id: l73-013
+- id: L73-013
   type: conjugation
   tier: primary
   front_en: mood we-form of comer
   back_es: comamos
-  hint: -er → -amos
+  hint: eat (subj.) · -er → -amos
   rule_ref: L73#11
   lessons:
   - 73
   directions:
   - en_es
-- id: l73-014
+- id: L73-014
   type: sentence
   tier: primary
   front_en: Wait. (informal)
@@ -1352,7 +1040,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-015
+- id: L73-015
   type: sentence
   tier: primary
   front_en: Let's wait.
@@ -1364,7 +1052,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-016
+- id: L73-016
   type: sentence
   tier: primary
   front_en: Let's not wait.
@@ -1376,7 +1064,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-017
+- id: L73-017
   type: sentence
   tier: primary
   front_en: Let him wait.
@@ -1388,7 +1076,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-018
+- id: L73-018
   type: sentence
   tier: primary
   front_en: Let it finish already.
@@ -1400,7 +1088,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-019
+- id: L73-019
   type: sentence
   tier: primary
   front_en: Let him shut up.
@@ -1412,7 +1100,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-020
+- id: L73-020
   type: sentence
   tier: primary
   front_en: When we speak (generally).
@@ -1424,7 +1112,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-021
+- id: L73-021
   type: sentence
   tier: primary
   front_en: When we speak (in the future).
@@ -1436,7 +1124,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-022
+- id: L73-022
   type: sentence
   tier: primary
   front_en: When we eat together, we'll speak.
@@ -1448,7 +1136,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-023
+- id: L73-023
   type: sentence
   tier: primary
   front_en: We see her when we go (generally).
@@ -1460,7 +1148,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-024
+- id: L73-024
   type: sentence
   tier: primary
   front_en: We will see her when we go.
@@ -1472,7 +1160,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-025
+- id: L73-025
   type: sentence
   tier: primary
   front_en: I want you to go.
@@ -1484,7 +1172,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-026
+- id: L73-026
   type: sentence
   tier: primary
   front_en: I hope they go.
@@ -1496,7 +1184,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-027
+- id: L73-027
   type: sentence
   tier: primary
   front_en: I want them to go together.
@@ -1508,7 +1196,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-028
+- id: L73-028
   type: sentence
   tier: primary
   front_en: Let's not go.
@@ -1520,19 +1208,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-029
-  type: sentence
-  tier: primary
-  front_en: Let them go.
-  back_es: Que vayan.
-  hint: que + ir mood plural
-  rule_ref: L73#5, L73#12
-  lessons:
-  - 73
-  directions:
-  - en_es
-  - es_en
-- id: l73-030
+- id: L73-030
   type: sentence
   tier: primary
   front_en: Let's eat. (Comamos…)
@@ -1544,7 +1220,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-031
+- id: L73-031
   type: sentence
   tier: primary
   front_en: Let's speak.
@@ -1556,7 +1232,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-033
+- id: L73-033
   type: sentence
   tier: primary
   front_en: Finish it.
@@ -1568,19 +1244,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-034
-  type: sentence
-  tier: primary
-  front_en: Let it finish.
-  back_es: Que termine.
-  hint: que + mood for *let it*
-  rule_ref: L73#5
-  lessons:
-  - 73
-  directions:
-  - en_es
-  - es_en
-- id: l73-035
+- id: L73-035
   type: sentence
   tier: extended
   front_en: Shall we wait?
@@ -1592,19 +1256,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-036
-  type: sentence
-  tier: extended
-  front_en: Let her go.
-  back_es: Que vaya.
-  hint: que + ir mood singular
-  rule_ref: L73#5, L73#12
-  lessons:
-  - 73
-  directions:
-  - en_es
-  - es_en
-- id: l73-037
+- id: L73-037
   type: sentence
   tier: extended
   front_en: When you go, tell me.
@@ -1616,7 +1268,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-038
+- id: L73-038
   type: sentence
   tier: extended
   front_en: When they finish, we'll go.
@@ -1628,19 +1280,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-041
-  type: sentence
-  tier: extended
-  front_en: Let's go together.
-  back_es: Vamos juntos.
-  hint: ir uses normal vamos for *let's*
-  rule_ref: L73#12, L73#10
-  lessons:
-  - 73
-  directions:
-  - en_es
-  - es_en
-- id: l73-042
+- id: L73-042
   type: sentence
   tier: extended
   front_en: Let's not eat.
@@ -1652,19 +1292,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-043
-  type: sentence
-  tier: extended
-  front_en: Let them finish.
-  back_es: Que terminen.
-  hint: que + mood plural
-  rule_ref: L73#5
-  lessons:
-  - 73
-  directions:
-  - en_es
-  - es_en
-- id: l73-044
+- id: L73-044
   type: sentence
   tier: extended
   front_en: Let's not speak.
@@ -1676,7 +1304,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-045
+- id: L73-045
   type: sentence
   tier: extended
   front_en: When we go together, we'll eat.
@@ -1688,31 +1316,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-047
-  type: sentence
-  tier: extended
-  front_en: I prefer that you go.
-  back_es: Prefiero que vayas.
-  hint: subjective + que + ir mood
-  rule_ref: L73#12
-  lessons:
-  - 73
-  directions:
-  - en_es
-  - es_en
-- id: l73-048
-  type: sentence
-  tier: extended
-  front_en: I like that we go together.
-  back_es: Me gusta que vayamos juntos.
-  hint: like-that + ir mood we-form
-  rule_ref: L73#12, L73#10
-  lessons:
-  - 73
-  directions:
-  - en_es
-  - es_en
-- id: l73-049
+- id: L73-049
   type: sentence
   tier: extended
   front_en: Wait!
@@ -1724,31 +1328,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-050
-  type: sentence
-  tier: extended
-  front_en: Finish.
-  back_es: Termina.
-  hint: drop -s from *terminas*
-  rule_ref: L73#1
-  lessons:
-  - 73
-  directions:
-  - en_es
-  - es_en
-- id: l73-052
-  type: sentence
-  tier: extended
-  front_en: When you finish, call me.
-  back_es: Cuando termines, llámame.
-  hint: future cuando → mood · drop-s + me end
-  rule_ref: L73#9, L73#1
-  lessons:
-  - 73
-  directions:
-  - en_es
-  - es_en
-- id: l73-054
+- id: L73-054
   type: sentence
   tier: extended
   front_en: We'll see them when we go.
@@ -1760,7 +1340,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-055
+- id: L73-055
   type: sentence
   tier: extended
   front_en: Let's finish already.
@@ -1772,7 +1352,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l73-056
+- id: L73-056
   type: sentence
   tier: extended
   front_en: When they go, they speak.

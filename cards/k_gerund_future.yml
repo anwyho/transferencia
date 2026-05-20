@@ -1,11 +1,11 @@
 bundle: K
-title: 'Gerund + future tense: -ando/-iendo, salir/salgo, real future -é/-ás/-á/-emos/-án'
+title: 'Bundle K Gerund + Future Tense (L34-36)'
 lessons:
 - 34
 - 35
 - 36
 cards:
-- id: l34-001
+- id: L34-001
   type: transformation
   tier: primary
   front_en: speaking (right now)
@@ -17,7 +17,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l34-002
+- id: L34-002
   type: transformation
   tier: primary
   front_en: preparing (right now)
@@ -29,7 +29,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l34-003
+- id: L34-003
   type: transformation
   tier: primary
   front_en: having breakfast (right now)
@@ -41,43 +41,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l34-004
-  type: transformation
-  tier: primary
-  front_en: waiting (right now)
-  back_es: esperando
-  hint: esperar = wait or hope · -ar → -ando
-  rule_ref: L34#8, L34#4
-  lessons:
-  - 34
-  directions:
-  - en_es
-  - es_en
-- id: l34-005
-  type: transformation
-  tier: primary
-  front_en: selling (right now)
-  back_es: vendiendo
-  hint: vender = sell (vending machine) · -er → -iendo
-  rule_ref: L34#8, L34#13
-  lessons:
-  - 34
-  directions:
-  - en_es
-  - es_en
-- id: l34-007
-  type: transformation
-  tier: primary
-  front_en: sleeping (right now)
-  back_es: durmiendo
-  hint: -ir → -iendo · slight vowel shift
-  rule_ref: L34#8
-  lessons:
-  - 34
-  directions:
-  - en_es
-  - es_en
-- id: l34-008
+- id: L34-008
   type: transformation
   tier: primary
   front_en: to sell
@@ -89,7 +53,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l34-009
+- id: L34-009
   type: transformation
   tier: primary
   front_en: to have breakfast
@@ -101,7 +65,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l34-010
+- id: L34-010
   type: transformation
   tier: primary
   front_en: the breakfast
@@ -113,7 +77,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l34-012
+- id: L34-012
   type: transformation
   tier: primary
   front_en: desperate
@@ -125,7 +89,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l34-013
+- id: L34-013
   type: transformation
   tier: primary
   front_en: tomorrow
@@ -137,29 +101,29 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l34-014
+- id: L34-014
   type: conjugation
   tier: primary
   front_en: I form of vender
   back_es: vendo
-  hint: regular -er
+  hint: to sell · regular -er
   rule_ref: L34#13
   lessons:
   - 34
   directions:
   - en_es
-- id: l34-015
+- id: L34-015
   type: conjugation
   tier: primary
   front_en: I form of desayunar
   back_es: desayuno
-  hint: = also *the breakfast*
+  hint: to have breakfast · = also *the breakfast*
   rule_ref: L34#3
   lessons:
   - 34
   directions:
   - en_es
-- id: l34-017
+- id: L34-017
   type: sentence
   tier: primary
   front_en: I'm speaking (right now).
@@ -171,7 +135,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l34-018
+- id: L34-018
   type: sentence
   tier: primary
   front_en: I'm eating.
@@ -183,7 +147,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l34-019
+- id: L34-019
   type: sentence
   tier: primary
   front_en: She is eating.
@@ -195,19 +159,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l34-020
-  type: sentence
-  tier: primary
-  front_en: We're having breakfast.
-  back_es: Estamos desayunando.
-  hint: right now
-  rule_ref: L34#7, L34#3
-  lessons:
-  - 34
-  directions:
-  - en_es
-  - es_en
-- id: l34-021
+- id: L34-021
   type: sentence
   tier: primary
   front_en: I'm waiting here.
@@ -219,7 +171,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l34-022
+- id: L34-022
   type: sentence
   tier: primary
   front_en: I'll wait here.
@@ -231,7 +183,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l34-023
+- id: L34-023
   type: sentence
   tier: primary
   front_en: I'm selling it tomorrow.
@@ -243,7 +195,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l34-024
+- id: L34-024
   type: sentence
   tier: primary
   front_en: I'm selling it (right now).
@@ -255,7 +207,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l34-025
+- id: L34-025
   type: sentence
   tier: primary
   front_en: I'm preparing it tomorrow.
@@ -267,7 +219,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l34-026
+- id: L34-026
   type: sentence
   tier: primary
   front_en: I'm preparing it (right now). (Lo…)
@@ -279,7 +231,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l34-027
+- id: L34-027
   type: sentence
   tier: primary
   front_en: I'm preparing it (right now). (Estoy…)
@@ -291,7 +243,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l34-028
+- id: L34-028
   type: sentence
   tier: primary
   front_en: They are selling it (right now). (Lo…)
@@ -303,7 +255,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l34-029
+- id: L34-029
   type: sentence
   tier: primary
   front_en: They are selling it (right now). (Están…)
@@ -315,7 +267,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l34-030
+- id: L34-030
   type: sentence
   tier: primary
   front_en: They are selling it tomorrow.
@@ -327,7 +279,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l34-031
+- id: L34-031
   type: sentence
   tier: primary
   front_en: I fall asleep.
@@ -339,77 +291,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l34-032
-  type: transformation
-  tier: extended
-  front_en: organizing (right now)
-  back_es: organizando
-  hint: -ar → -ando
-  rule_ref: L34#8
-  lessons:
-  - 34
-  directions:
-  - en_es
-  - es_en
-- id: l34-033
-  type: transformation
-  tier: extended
-  front_en: buying (right now)
-  back_es: comprando
-  hint: -ar → -ando
-  rule_ref: L34#8
-  lessons:
-  - 34
-  directions:
-  - en_es
-  - es_en
-- id: l34-034
-  type: sentence
-  tier: extended
-  front_en: He's waiting here.
-  back_es: Está esperando aquí.
-  rule_ref: L34#9, L34#10
-  lessons:
-  - 34
-  directions:
-  - en_es
-  - es_en
-- id: l34-035
-  type: sentence
-  tier: extended
-  front_en: We're preparing it (right now). (Lo…)
-  back_es: Lo estamos preparando.
-  rule_ref: L34#7, L34#12
-  lessons:
-  - 34
-  directions:
-  - en_es
-  - es_en
-- id: l34-036
-  type: sentence
-  tier: extended
-  front_en: We're preparing it (right now). (Estamos…)
-  back_es: Estamos preparándolo.
-  hint: glued ending
-  rule_ref: L34#12
-  lessons:
-  - 34
-  directions:
-  - en_es
-  - es_en
-- id: l34-037
-  type: sentence
-  tier: extended
-  front_en: I'm eating with her tomorrow.
-  back_es: Como con ella mañana.
-  hint: NOT *estoy comiendo* — future
-  rule_ref: L34#11
-  lessons:
-  - 34
-  directions:
-  - en_es
-  - es_en
-- id: l35-001
+- id: L35-001
   type: transformation
   tier: primary
   front_en: sincere (m)
@@ -421,7 +303,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-002
+- id: L35-002
   type: transformation
   tier: primary
   front_en: sincere (f)
@@ -433,7 +315,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-004
+- id: L35-004
   type: transformation
   tier: primary
   front_en: honest (m)
@@ -445,7 +327,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-005
+- id: L35-005
   type: transformation
   tier: primary
   front_en: honest (f)
@@ -457,19 +339,19 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-006
+- id: L35-006
   type: transformation
   tier: primary
   front_en: being
   back_es: siendo
-  hint: ser → ... (-iendo)
+  hint: ser → siendo (irregular -iendo)
   rule_ref: L35#4
   lessons:
   - 35
   directions:
   - en_es
   - es_en
-- id: l35-007
+- id: L35-007
   type: transformation
   tier: primary
   front_en: to leave / to go out
@@ -481,7 +363,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-008
+- id: L35-008
   type: transformation
   tier: primary
   front_en: leaving (right now)
@@ -493,7 +375,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-009
+- id: L35-009
   type: transformation
   tier: primary
   front_en: soon
@@ -505,7 +387,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-011
+- id: L35-011
   type: transformation
   tier: primary
   front_en: week
@@ -517,18 +399,18 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-016
+- id: L35-016
   type: conjugation
   tier: primary
   front_en: I form of comprar
   back_es: compro
-  hint: regular -ar
+  hint: to buy · regular -ar
   rule_ref: L35#11
   lessons:
   - 35
   directions:
   - en_es
-- id: l35-017
+- id: L35-017
   type: sentence
   tier: primary
   front_en: I am sincere (m).
@@ -540,7 +422,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-018
+- id: L35-018
   type: sentence
   tier: primary
   front_en: I am sincere (f).
@@ -552,7 +434,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-019
+- id: L35-019
   type: sentence
   tier: primary
   front_en: We are sincere (m).
@@ -563,7 +445,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-020
+- id: L35-020
   type: sentence
   tier: primary
   front_en: We are sincere (f).
@@ -574,7 +456,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-021
+- id: L35-021
   type: sentence
   tier: primary
   front_en: I am honest (m).
@@ -585,7 +467,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-022
+- id: L35-022
   type: sentence
   tier: primary
   front_en: I am being sincere (m).
@@ -597,7 +479,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-023
+- id: L35-023
   type: sentence
   tier: primary
   front_en: I am being sincere (f).
@@ -608,7 +490,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-024
+- id: L35-024
   type: sentence
   tier: primary
   front_en: We are being honest.
@@ -619,7 +501,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-025
+- id: L35-025
   type: sentence
   tier: primary
   front_en: She is being honest.
@@ -630,7 +512,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-026
+- id: L35-026
   type: sentence
   tier: primary
   front_en: I'm leaving soon.
@@ -642,7 +524,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-027
+- id: L35-027
   type: sentence
   tier: primary
   front_en: I'm leaving tomorrow.
@@ -654,7 +536,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-028
+- id: L35-028
   type: sentence
   tier: primary
   front_en: I'm leaving (right now).
@@ -666,7 +548,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-029
+- id: L35-029
   type: sentence
   tier: primary
   front_en: She is leaving (right now).
@@ -677,7 +559,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-030
+- id: L35-030
   type: sentence
   tier: primary
   front_en: I buy them.
@@ -689,7 +571,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-031
+- id: L35-031
   type: sentence
   tier: primary
   front_en: I'm buying them tomorrow.
@@ -702,7 +584,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-032
+- id: L35-032
   type: sentence
   tier: primary
   front_en: I'm buying them next week.
@@ -714,7 +596,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-033
+- id: L35-033
   type: sentence
   tier: primary
   front_en: I'm buying them now. (Los…)
@@ -726,7 +608,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-034
+- id: L35-034
   type: sentence
   tier: primary
   front_en: I'm buying them now. (Estoy…)
@@ -739,7 +621,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-035
+- id: L35-035
   type: sentence
   tier: extended
   front_en: He is sincere.
@@ -750,18 +632,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-036
-  type: sentence
-  tier: extended
-  front_en: She is honest.
-  back_es: Es honesta.
-  rule_ref: L35#5
-  lessons:
-  - 35
-  directions:
-  - en_es
-  - es_en
-- id: l35-037
+- id: L35-037
   type: sentence
   tier: extended
   front_en: They are being sincere.
@@ -772,18 +643,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-038
-  type: sentence
-  tier: extended
-  front_en: He's being honest (right now).
-  back_es: Está siendo honesto.
-  rule_ref: L35#5, L35#4
-  lessons:
-  - 35
-  directions:
-  - en_es
-  - es_en
-- id: l35-039
+- id: L35-039
   type: sentence
   tier: extended
   front_en: They are leaving next week.
@@ -795,7 +655,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-040
+- id: L35-040
   type: sentence
   tier: extended
   front_en: We are leaving soon.
@@ -806,7 +666,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l35-041
+- id: L35-041
   type: sentence
   tier: extended
   front_en: He's buying them soon.
@@ -817,7 +677,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-001
+- id: L36-001
   type: transformation
   tier: primary
   front_en: with them
@@ -829,7 +689,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-004
+- id: L36-004
   type: transformation
   tier: primary
   front_en: to find / to encounter
@@ -841,7 +701,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-005
+- id: L36-005
   type: transformation
   tier: primary
   front_en: to remain / to stay
@@ -853,7 +713,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-006
+- id: L36-006
   type: transformation
   tier: primary
   front_en: to recommend
@@ -865,136 +725,139 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-008
+- id: L36-008
   type: conjugation
   tier: primary
   front_en: future I form of comer
   back_es: comeré
-  hint: infinitive + -é (like *he*)
+  hint: will eat · infinitive + -é (like *he*)
   rule_ref: L36#5, L36#6
   lessons:
   - 36
   directions:
   - en_es
-- id: l36-009
+- id: L36-009
   type: conjugation
   tier: primary
   front_en: future you form of comer
   back_es: comerás
-  hint: infinitive + -ás (like *has*)
+  hint: will eat · infinitive + -ás (like *has*)
   rule_ref: L36#6
   lessons:
   - 36
   directions:
   - en_es
-- id: l36-010
+- id: L36-010
   type: conjugation
   tier: primary
   front_en: future she form of comer
   back_es: comerá
-  hint: infinitive + -á (like *ha*)
+  hint: will eat · infinitive + -á (like *ha*)
   rule_ref: L36#6
   lessons:
   - 36
   directions:
   - en_es
-- id: l36-011
+- id: L36-011
   type: conjugation
   tier: primary
   front_en: future we form of comer
   back_es: comeremos
-  hint: infinitive + -emos (like *hemos*)
+  hint: will eat · infinitive + -emos (like *hemos*)
   rule_ref: L36#6
   lessons:
   - 36
   directions:
   - en_es
-- id: l36-012
+- id: L36-012
   type: conjugation
   tier: primary
   front_en: future they form of comer
   back_es: comerán
-  hint: infinitive + -án (like *han*)
+  hint: will eat · infinitive + -án (like *han*)
   rule_ref: L36#6
   lessons:
   - 36
   directions:
   - en_es
-- id: l36-013
+- id: L36-013
   type: conjugation
   tier: primary
   front_en: future I form of ir
   back_es: iré
-  hint: ir is regular in future
+  hint: will go · ir is regular in future
   rule_ref: L36#9
   lessons:
   - 36
   directions:
   - en_es
-- id: l36-014
+- id: L36-014
   type: conjugation
   tier: primary
   front_en: future you form of ir
   back_es: irás
+  hint: will go
   rule_ref: L36#9
   lessons:
   - 36
   directions:
   - en_es
-- id: l36-015
+- id: L36-015
   type: conjugation
   tier: primary
   front_en: future she form of ir
   back_es: irá
+  hint: will go
   rule_ref: L36#9
   lessons:
   - 36
   directions:
   - en_es
-- id: l36-016
+- id: L36-016
   type: conjugation
   tier: primary
   front_en: future we form of ir
   back_es: iremos
+  hint: will go
   rule_ref: L36#9
   lessons:
   - 36
   directions:
   - en_es
-- id: l36-017
+- id: L36-017
   type: conjugation
   tier: primary
   front_en: future they form of ir
   back_es: irán
-  hint: homophone with *...* (the country)
+  hint: will go · homophone with *Irán* (the country)
   rule_ref: L36#9, L36#10
   lessons:
   - 36
   directions:
   - en_es
-- id: l36-018
+- id: L36-018
   type: conjugation
   tier: primary
   front_en: future I form of preparar
   back_es: prepararé
-  hint: think *preparar* first, then add -é
+  hint: will prepare · think *preparar* first, then add -é
   rule_ref: L36#14
   lessons:
   - 36
   directions:
   - en_es
-- id: l36-019
+- id: L36-019
   type: conjugation
   tier: primary
   front_en: future I form of esperar
   back_es: esperaré
-  hint: = I will wait / hope
+  hint: will wait/hope · = I will wait / hope
   rule_ref: L36#14
   lessons:
   - 36
   directions:
   - en_es
-- id: l36-020
+- id: L36-020
   type: conjugation
   tier: primary
   front_en: future I form of estar
@@ -1005,7 +868,7 @@ cards:
   - 36
   directions:
   - en_es
-- id: l36-021
+- id: L36-021
   type: conjugation
   tier: primary
   front_en: future I form of ser
@@ -1016,7 +879,7 @@ cards:
   - 36
   directions:
   - en_es
-- id: l36-027
+- id: L36-027
   type: sentence
   tier: primary
   front_en: I will eat.
@@ -1027,7 +890,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-028
+- id: L36-028
   type: sentence
   tier: primary
   front_en: We will eat.
@@ -1038,7 +901,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-030
+- id: L36-030
   type: sentence
   tier: primary
   front_en: I will go.
@@ -1049,7 +912,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-032
+- id: L36-032
   type: sentence
   tier: primary
   front_en: They will go to Iran.
@@ -1061,7 +924,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-033
+- id: L36-033
   type: sentence
   tier: primary
   front_en: Will you go?
@@ -1072,7 +935,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-034
+- id: L36-034
   type: sentence
   tier: primary
   front_en: Won't you go?
@@ -1083,7 +946,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-035
+- id: L36-035
   type: sentence
   tier: primary
   front_en: Why won't you go?
@@ -1094,7 +957,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-036
+- id: L36-036
   type: sentence
   tier: primary
   front_en: I will find it.
@@ -1106,7 +969,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-037
+- id: L36-037
   type: sentence
   tier: primary
   front_en: We will find it.
@@ -1117,7 +980,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-038
+- id: L36-038
   type: sentence
   tier: primary
   front_en: They will find them.
@@ -1128,7 +991,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-039
+- id: L36-039
   type: sentence
   tier: primary
   front_en: I will stay here.
@@ -1140,7 +1003,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-040
+- id: L36-040
   type: sentence
   tier: extended
   front_en: I will prepare.
@@ -1152,7 +1015,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-041
+- id: L36-041
   type: sentence
   tier: extended
   front_en: I will wait.
@@ -1163,7 +1026,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-042
+- id: L36-042
   type: sentence
   tier: extended
   front_en: He will organize.
@@ -1174,18 +1037,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-043
-  type: sentence
-  tier: extended
-  front_en: They will organize.
-  back_es: Organizarán.
-  rule_ref: L36#14
-  lessons:
-  - 36
-  directions:
-  - en_es
-  - es_en
-- id: l36-044
+- id: L36-044
   type: sentence
   tier: primary
   front_en: I will be tired (m).
@@ -1197,7 +1049,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-045
+- id: L36-045
   type: sentence
   tier: primary
   front_en: I will be tired (f).
@@ -1208,7 +1060,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-046
+- id: L36-046
   type: sentence
   tier: primary
   front_en: It will be.
@@ -1219,7 +1071,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-047
+- id: L36-047
   type: sentence
   tier: primary
   front_en: Whatever will be, will be. (Que…)
@@ -1231,7 +1083,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-048
+- id: L36-048
   type: sentence
   tier: primary
   front_en: I'm having breakfast with them tomorrow.
@@ -1243,7 +1095,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-049
+- id: L36-049
   type: sentence
   tier: primary
   front_en: I'm going to have breakfast with them.
@@ -1255,7 +1107,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-051
+- id: L36-051
   type: sentence
   tier: primary
   front_en: I have slept.
@@ -1267,7 +1119,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-052
+- id: L36-052
   type: sentence
   tier: primary
   front_en: We have slept.
@@ -1278,7 +1130,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-054
+- id: L36-054
   type: sentence
   tier: primary
   front_en: They have recommended it.
@@ -1290,144 +1142,73 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-055
+- id: L36-055
   type: conjugation
   tier: extended
   front_en: future I form of hablar
   back_es: hablaré
+  hint: will speak
   rule_ref: L36#5
   lessons:
   - 36
   directions:
   - en_es
-- id: l36-056
+- id: L36-056
   type: conjugation
   tier: extended
   front_en: future we form of hablar
   back_es: hablaremos
+  hint: will speak
   rule_ref: L36#5
   lessons:
   - 36
   directions:
   - en_es
-- id: l36-057
+- id: L36-057
   type: conjugation
   tier: extended
   front_en: future I form of vender
   back_es: venderé
+  hint: will sell
   rule_ref: L36#5
   lessons:
   - 36
   directions:
   - en_es
-- id: l36-058
+- id: L36-058
   type: conjugation
   tier: extended
   front_en: future I form of comprar
   back_es: compraré
+  hint: will buy
   rule_ref: L36#5
   lessons:
   - 36
   directions:
   - en_es
-- id: l36-059
+- id: L36-059
   type: conjugation
   tier: extended
   front_en: future we form of estar
   back_es: estaremos
+  hint: will be
   rule_ref: L36#16
   lessons:
   - 36
   directions:
   - en_es
-- id: l36-060
+- id: L36-060
   type: conjugation
   tier: extended
   front_en: future they form of ser
   back_es: serán
+  hint: will be
   rule_ref: L36#17
   lessons:
   - 36
   directions:
   - en_es
-- id: l36-061
-  type: sentence
-  tier: extended
-  front_en: I will speak.
-  back_es: Hablaré.
-  rule_ref: L36#5
-  lessons:
-  - 36
-  directions:
-  - en_es
-  - es_en
-- id: l36-062
-  type: sentence
-  tier: extended
-  front_en: We will speak.
-  back_es: Hablaremos.
-  rule_ref: L36#5
-  lessons:
-  - 36
-  directions:
-  - en_es
-  - es_en
-- id: l36-063
-  type: sentence
-  tier: extended
-  front_en: I will sell it.
-  back_es: Lo venderé.
-  rule_ref: L36#5
-  lessons:
-  - 36
-  directions:
-  - en_es
-  - es_en
-- id: l36-064
-  type: sentence
-  tier: extended
-  front_en: They will sell it.
-  back_es: Lo venderán.
-  rule_ref: L36#5
-  lessons:
-  - 36
-  directions:
-  - en_es
-  - es_en
-- id: l36-065
-  type: sentence
-  tier: extended
-  front_en: I will buy them.
-  back_es: Los compraré.
-  rule_ref: L36#5
-  lessons:
-  - 36
-  directions:
-  - en_es
-  - es_en
-- id: l36-066
-  type: sentence
-  tier: extended
-  front_en: We will have breakfast tomorrow.
-  back_es: Desayunaremos mañana.
-  rule_ref: L36#5
-  lessons:
-  - 36
-  directions:
-  - en_es
-  - es_en
-- id: l36-067
-  type: sentence
-  tier: extended
-  front_en: I will wait here.
-  back_es: Esperaré aquí.
-  rule_ref: L36#14
-  lessons:
-  - 36
-  directions:
-  - en_es
-  - es_en
-- id: l36-068
+- id: L36-068
   type: sentence
   tier: extended
   front_en: He will be tired.
@@ -1438,18 +1219,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-069
-  type: sentence
-  tier: extended
-  front_en: They will be tired.
-  back_es: Estarán cansados.
-  rule_ref: L36#16
-  lessons:
-  - 36
-  directions:
-  - en_es
-  - es_en
-- id: l36-070
+- id: L36-070
   type: sentence
   tier: extended
   front_en: We will be sincere.
@@ -1462,7 +1232,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-071
+- id: L36-071
   type: sentence
   tier: extended
   front_en: Will he eat?
@@ -1473,29 +1243,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-072
-  type: sentence
-  tier: extended
-  front_en: Won't they eat?
-  back_es: ¿No comerán?
-  rule_ref: L36#11
-  lessons:
-  - 36
-  directions:
-  - en_es
-  - es_en
-- id: l36-073
-  type: sentence
-  tier: extended
-  front_en: Why will you wait?
-  back_es: ¿Por qué esperarás?
-  rule_ref: L36#11, L36#14
-  lessons:
-  - 36
-  directions:
-  - en_es
-  - es_en
-- id: l36-074
+- id: L36-074
   type: sentence
   tier: extended
   front_en: We will stay here.
@@ -1507,18 +1255,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-075
-  type: sentence
-  tier: extended
-  front_en: He will recommend it.
-  back_es: Lo recomendará.
-  rule_ref: L36#5, L36#12
-  lessons:
-  - 36
-  directions:
-  - en_es
-  - es_en
-- id: l36-076
+- id: L36-076
   type: sentence
   tier: extended
   front_en: We have eaten.
@@ -1530,7 +1267,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-077
+- id: L36-077
   type: sentence
   tier: extended
   front_en: I'm going to wait.
@@ -1542,60 +1279,12 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l36-078
-  type: sentence
-  tier: extended
-  front_en: I will have breakfast next week.
-  back_es: Desayunaré la semana que viene.
-  rule_ref: L36#5, L35#12
-  lessons:
-  - 35
-  - 36
-  directions:
-  - en_es
-  - es_en
-- id: l36-079
-  type: sentence
-  tier: extended
-  front_en: It won't be possible.
-  back_es: No será posible.
-  rule_ref: L36#17
-  lessons:
-  - 36
-  directions:
-  - en_es
-  - es_en
-- id: l36-080
+- id: L36-080
   type: sentence
   tier: extended
   front_en: We will go next week.
   back_es: Iremos la semana que viene.
   rule_ref: L36#9, L35#12
-  lessons:
-  - 35
-  - 36
-  directions:
-  - en_es
-  - es_en
-- id: l36-081
-  type: sentence
-  tier: extended
-  front_en: I will be honest.
-  back_es: Seré honesto.
-  rule_ref: L36#17, L35#5
-  lessons:
-  - 35
-  - 36
-  directions:
-  - en_es
-  - es_en
-- id: l36-082
-  type: sentence
-  tier: extended
-  front_en: She will leave tomorrow.
-  back_es: Saldrá mañana.
-  hint: salir is irregular in future — d slips in
-  rule_ref: L36#5, L35#6
   lessons:
   - 35
   - 36

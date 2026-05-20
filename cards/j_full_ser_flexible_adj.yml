@@ -1,66 +1,66 @@
 bundle: J
-title: 'Full ser + flexible adjectives: soy/eres, est-/esp-, ustedes, aburrido/listo/bueno'
+title: 'Bundle J Full Ser + Flexible Adjectives (L31-33)'
 lessons:
 - 31
 - 32
 - 33
 cards:
-- id: l31-001
+- id: L31-001
   type: conjugation
   tier: primary
   front_en: I form of ser
   back_es: soy
-  hint: '-oy family: voy, doy, estoy, soy'
+  hint: 'to be · -oy family: voy, doy, estoy, soy'
   rule_ref: L31#4, L31#5
   lessons:
   - 31
   directions:
   - en_es
-- id: l31-002
+- id: L31-002
   type: conjugation
   tier: primary
   front_en: you (informal) form of ser
   back_es: eres
-  hint: weirdest one · relate to *es*
+  hint: to be · weirdest one · relate to *es*
   rule_ref: L31#4
   lessons:
   - 31
   directions:
   - en_es
-- id: l31-003
+- id: L31-003
   type: conjugation
   tier: primary
   front_en: she form of ser
   back_es: es
-  hint: same as 'it is' from L2
+  hint: to be · same as 'it is' from L2
   rule_ref: L31#4
   lessons:
   - 31
   directions:
   - en_es
-- id: l31-004
+- id: L31-004
   type: conjugation
   tier: primary
   front_en: we form of ser
   back_es: somos
-  hint: 'work back from *son*: drop n, add -mos'
+  hint: 'to be · work back from *son*: drop n, add -mos'
   rule_ref: L31#4
   lessons:
   - 31
   directions:
   - en_es
-- id: l31-005
+- id: L31-005
   type: conjugation
   tier: primary
   front_en: they form of ser
   back_es: son
-  hint: covers *they* and *ustedes*
+  hint: to be · covers *they* and *ustedes*
   rule_ref: L31#4, L31#6
   lessons:
   - 31
   directions:
   - en_es
-- id: l31-006
+- id: L31-006
   type: sentence
   tier: primary
   front_en: I am.
@@ -72,7 +72,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l31-007
+- id: L31-007
   type: sentence
   tier: primary
   front_en: You are. (informal)
@@ -83,7 +83,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l31-008
+- id: L31-008
   type: sentence
   tier: primary
   front_en: He is.
@@ -94,52 +94,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l31-009
-  type: sentence
-  tier: primary
-  front_en: She is.
-  back_es: Ella es.
-  rule_ref: L31#4
-  lessons:
-  - 31
-  directions:
-  - en_es
-  - es_en
-- id: l31-010
-  type: sentence
-  tier: primary
-  front_en: We are. (mixed/masc)
-  back_es: Nosotros somos.
-  rule_ref: L31#4
-  lessons:
-  - 31
-  directions:
-  - en_es
-  - es_en
-- id: l31-012
-  type: sentence
-  tier: primary
-  front_en: They are. (masc)
-  back_es: Ellos son.
-  rule_ref: L31#4, L31#7
-  lessons:
-  - 31
-  directions:
-  - en_es
-  - es_en
-- id: l31-013
-  type: sentence
-  tier: primary
-  front_en: They are. (feminine)
-  back_es: Ellas son.
-  hint: feminine plural of *ella*
-  rule_ref: L31#4, L31#7
-  lessons:
-  - 31
-  directions:
-  - en_es
-  - es_en
-- id: l31-014
+- id: L31-014
   type: sentence
   tier: primary
   front_en: You guys are.
@@ -151,7 +106,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l31-015
+- id: L31-015
   type: transformation
   tier: primary
   front_en: you guys / you (plural)
@@ -163,7 +118,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l31-016
+- id: L31-016
   type: transformation
   tier: primary
   front_en: they (feminine)
@@ -175,7 +130,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l31-017
+- id: L31-017
   type: transformation
   tier: primary
   front_en: Spanish
@@ -187,7 +142,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l31-018
+- id: L31-018
   type: transformation
   tier: primary
   front_en: Spain
@@ -199,7 +154,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l31-019
+- id: L31-019
   type: transformation
   tier: primary
   front_en: student
@@ -212,55 +167,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l31-021
-  type: transformation
-  tier: primary
-  front_en: special
-  back_es: especial
-  hint: sp- → esp-
-  rule_ref: L31#1
-  lessons:
-  - 31
-  directions:
-  - en_es
-  - es_en
-- id: l31-022
-  type: transformation
-  tier: primary
-  front_en: spatial
-  back_es: espacial
-  hint: sp- → esp-
-  rule_ref: L31#1
-  lessons:
-  - 31
-  directions:
-  - en_es
-  - es_en
-- id: l31-023
-  type: transformation
-  tier: primary
-  front_en: strict
-  back_es: estricto
-  hint: st- → est- · add -o
-  rule_ref: L31#1
-  lessons:
-  - 31
-  directions:
-  - en_es
-  - es_en
-- id: l31-024
-  type: transformation
-  tier: primary
-  front_en: spectacular
-  back_es: espectacular
-  hint: sp- → esp- · -ar → -ar
-  rule_ref: L31#1
-  lessons:
-  - 31
-  directions:
-  - en_es
-  - es_en
-- id: l31-025
+- id: L31-025
   type: transformation
   tier: primary
   front_en: to be (characteristic)
@@ -272,7 +179,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l31-026
+- id: L31-026
   type: transformation
   tier: primary
   front_en: a (human) being
@@ -284,31 +191,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l31-027
-  type: sentence
-  tier: primary
-  front_en: I am a student.
-  back_es: Soy estudiante.
-  hint: drop subject · no article
-  rule_ref: L31#4, L31#1
-  lessons:
-  - 31
-  directions:
-  - en_es
-  - es_en
-- id: l31-028
-  type: sentence
-  tier: primary
-  front_en: It is possible.
-  back_es: Es posible.
-  rule_ref: L31#4, L3#8
-  lessons:
-  - 3
-  - 31
-  directions:
-  - en_es
-  - es_en
-- id: l31-029
+- id: L31-029
   type: sentence
   tier: primary
   front_en: It is not possible.
@@ -321,54 +204,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l31-030
-  type: sentence
-  tier: primary
-  front_en: He is special.
-  back_es: Es especial.
-  hint: drop subject
-  rule_ref: L31#4, L31#1
-  lessons:
-  - 31
-  directions:
-  - en_es
-  - es_en
-- id: l31-031
-  type: sentence
-  tier: primary
-  front_en: She is Spanish.
-  back_es: Es española.
-  hint: feminine of *español*
-  rule_ref: L31#4, L31#1
-  lessons:
-  - 31
-  directions:
-  - en_es
-  - es_en
-- id: l31-032
-  type: sentence
-  tier: primary
-  front_en: We are students.
-  back_es: Somos estudiantes.
-  rule_ref: L31#4, L31#1
-  lessons:
-  - 31
-  directions:
-  - en_es
-  - es_en
-- id: l31-033
-  type: sentence
-  tier: primary
-  front_en: They are strict.
-  back_es: Son estrictos.
-  hint: plural of *estricto*
-  rule_ref: L31#4, L31#1
-  lessons:
-  - 31
-  directions:
-  - en_es
-  - es_en
-- id: l31-034
+- id: L31-034
   type: sentence
   tier: primary
   front_en: You guys are strict.
@@ -379,7 +215,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l31-035
+- id: L31-035
   type: sentence
   tier: primary
   front_en: What is he like?
@@ -391,7 +227,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l31-036
+- id: L31-036
   type: sentence
   tier: primary
   front_en: How is he? (doing)
@@ -403,7 +239,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l31-038
+- id: L31-038
   type: sentence
   tier: primary
   front_en: How are you? (formal)
@@ -415,7 +251,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l31-039
+- id: L31-039
   type: sentence
   tier: primary
   front_en: What are they like?
@@ -426,7 +262,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l31-040
+- id: L31-040
   type: sentence
   tier: primary
   front_en: How are they? (doing)
@@ -437,114 +273,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l31-041
-  type: transformation
-  tier: extended
-  front_en: state
-  back_es: estado
-  hint: st- → est- · also = state of being
-  rule_ref: L31#1
-  lessons:
-  - 31
-  directions:
-  - en_es
-  - es_en
-- id: l31-042
-  type: transformation
-  tier: extended
-  front_en: estimate
-  back_es: estimar
-  hint: st- → est-
-  rule_ref: L31#1
-  lessons:
-  - 31
-  directions:
-  - en_es
-  - es_en
-- id: l31-043
-  type: transformation
-  tier: extended
-  front_en: stupid
-  back_es: estúpido
-  hint: st- → est- · accent on ú
-  rule_ref: L31#1
-  lessons:
-  - 31
-  directions:
-  - en_es
-  - es_en
-- id: l31-044
-  type: transformation
-  tier: extended
-  front_en: study
-  back_es: estudiar
-  hint: st- → est- · -ar verb
-  rule_ref: L31#1
-  lessons:
-  - 31
-  directions:
-  - en_es
-  - es_en
-- id: l31-045
-  type: transformation
-  tier: extended
-  front_en: sponge
-  back_es: esponja
-  hint: sp- → esp- · /j/→/kh/
-  rule_ref: L31#1, L3#7
-  lessons:
-  - 3
-  - 31
-  directions:
-  - en_es
-  - es_en
-- id: l31-046
-  type: transformation
-  tier: extended
-  front_en: stadium
-  back_es: estadio
-  hint: st- → est-
-  rule_ref: L31#1
-  lessons:
-  - 31
-  directions:
-  - en_es
-  - es_en
-- id: l31-047
-  type: transformation
-  tier: extended
-  front_en: scandal
-  back_es: escándalo
-  hint: s+consonant → es- · accent á
-  rule_ref: L31#1
-  lessons:
-  - 31
-  directions:
-  - en_es
-  - es_en
-- id: l31-048
-  type: sentence
-  tier: extended
-  front_en: I am Spanish.
-  back_es: Soy español.
-  rule_ref: L31#4, L31#1
-  lessons:
-  - 31
-  directions:
-  - en_es
-  - es_en
-- id: l31-049
-  type: sentence
-  tier: extended
-  front_en: You are spectacular.
-  back_es: Eres espectacular.
-  rule_ref: L31#4, L31#1
-  lessons:
-  - 31
-  directions:
-  - en_es
-  - es_en
-- id: l31-050
+- id: L31-050
   type: sentence
   tier: extended
   front_en: It is not special.
@@ -556,19 +285,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l31-051
-  type: sentence
-  tier: extended
-  front_en: We are not Spanish.
-  back_es: No somos españoles.
-  rule_ref: L31#4, L2#9, L31#1
-  lessons:
-  - 2
-  - 31
-  directions:
-  - en_es
-  - es_en
-- id: l31-053
+- id: L31-053
   type: sentence
   tier: extended
   front_en: What are you guys like?
@@ -580,29 +297,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l31-054
-  type: sentence
-  tier: extended
-  front_en: She is a student.
-  back_es: Ella es estudiante.
-  rule_ref: L31#4, L31#1
-  lessons:
-  - 31
-  directions:
-  - en_es
-  - es_en
-- id: l31-055
-  type: sentence
-  tier: extended
-  front_en: It is spectacular.
-  back_es: Es espectacular.
-  rule_ref: L31#4, L31#1
-  lessons:
-  - 31
-  directions:
-  - en_es
-  - es_en
-- id: l32-001
+- id: L32-001
   type: transformation
   tier: primary
   front_en: from / of
@@ -614,7 +309,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-002
+- id: L32-002
   type: transformation
   tier: primary
   front_en: free
@@ -626,7 +321,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-003
+- id: L32-003
   type: transformation
   tier: primary
   front_en: to liberate
@@ -638,7 +333,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-004
+- id: L32-004
   type: transformation
   tier: primary
   front_en: boring / bored
@@ -650,7 +345,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-005
+- id: L32-005
   type: transformation
   tier: primary
   front_en: person
@@ -662,7 +357,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-007
+- id: L32-007
   type: sentence
   tier: primary
   front_en: He is boring.
@@ -674,7 +369,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-008
+- id: L32-008
   type: sentence
   tier: primary
   front_en: He is bored.
@@ -686,7 +381,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-009
+- id: L32-009
   type: sentence
   tier: primary
   front_en: She is boring.
@@ -698,64 +393,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-010
-  type: sentence
-  tier: primary
-  front_en: She is bored. (Está…)
-  back_es: Está aburrida.
-  rule_ref: L32#1, L32#2
-  lessons:
-  - 32
-  directions:
-  - en_es
-  - es_en
-- id: l32-011
-  type: sentence
-  tier: primary
-  front_en: They are boring.
-  back_es: Son aburridos.
-  rule_ref: L32#1, L32#2
-  lessons:
-  - 32
-  directions:
-  - en_es
-  - es_en
-- id: l32-012
-  type: sentence
-  tier: primary
-  front_en: They are bored.
-  back_es: Están aburridos.
-  rule_ref: L32#1, L32#2
-  lessons:
-  - 32
-  directions:
-  - en_es
-  - es_en
-- id: l32-013
-  type: sentence
-  tier: primary
-  front_en: I am bored.
-  back_es: Estoy aburrido.
-  hint: state → estoy
-  rule_ref: L32#1, L32#2
-  lessons:
-  - 32
-  directions:
-  - en_es
-  - es_en
-- id: l32-014
-  type: sentence
-  tier: primary
-  front_en: I am boring. (masc)
-  back_es: Soy aburrido.
-  hint: ouch — characteristic
-  rule_ref: L32#1, L32#2
-  lessons:
-  - 32
-  directions:
-  - en_es
-  - es_en
-- id: l32-015
+- id: L32-015
   type: sentence
   tier: primary
   front_en: Where are you from? (informal)
@@ -767,7 +405,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-016
+- id: L32-016
   type: sentence
   tier: primary
   front_en: Where are you from? (formal)
@@ -778,7 +416,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-017
+- id: L32-017
   type: sentence
   tier: primary
   front_en: Where are they from?
@@ -789,20 +427,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-019
-  type: sentence
-  tier: primary
-  front_en: Where are you all from?
-  back_es: ¿De dónde son ustedes?
-  hint: emphatic *ustedes*
-  rule_ref: L32#6, L31#6
-  lessons:
-  - 31
-  - 32
-  directions:
-  - en_es
-  - es_en
-- id: l32-020
+- id: L32-020
   type: sentence
   tier: primary
   front_en: Where are they? (location)
@@ -814,20 +439,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-021
-  type: sentence
-  tier: primary
-  front_en: I am from Spain.
-  back_es: Soy de España.
-  hint: ser + *de*
-  rule_ref: L32#6, L31#4, L31#1
-  lessons:
-  - 31
-  - 32
-  directions:
-  - en_es
-  - es_en
-- id: l32-022
+- id: L32-022
   type: sentence
   tier: primary
   front_en: I'm free. (state — from work)
@@ -839,7 +451,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-023
+- id: L32-023
   type: sentence
   tier: primary
   front_en: I am a free person.
@@ -851,19 +463,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-025
-  type: sentence
-  tier: primary
-  front_en: It is free.
-  back_es: Es libre.
-  rule_ref: L31#4, L32#10
-  lessons:
-  - 31
-  - 32
-  directions:
-  - en_es
-  - es_en
-- id: l32-026
+- id: L32-026
   type: transformation
   tier: primary
   front_en: married (housed)
@@ -875,19 +475,19 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-027
+- id: L32-027
   type: transformation
   tier: primary
   front_en: busy / occupied
   back_es: ocupado
-  hint: estar only · *Soy ...* is bad
+  hint: estar only · *Soy ocupado* is bad
   rule_ref: L32#13
   lessons:
   - 32
   directions:
   - en_es
   - es_en
-- id: l32-028
+- id: L32-028
   type: transformation
   tier: primary
   front_en: worried (pre-occupied)
@@ -899,7 +499,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-029
+- id: L32-029
   type: sentence
   tier: primary
   front_en: I am a married person.
@@ -911,7 +511,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-030
+- id: L32-030
   type: sentence
   tier: primary
   front_en: I am busy. (feminine)
@@ -923,7 +523,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-031
+- id: L32-031
   type: sentence
   tier: primary
   front_en: I am a busy person.
@@ -935,7 +535,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-032
+- id: L32-032
   type: sentence
   tier: primary
   front_en: We are busy people.
@@ -947,7 +547,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-033
+- id: L32-033
   type: sentence
   tier: primary
   front_en: I am worried. (feminine)
@@ -959,7 +559,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-034
+- id: L32-034
   type: sentence
   tier: primary
   front_en: He is worried.
@@ -970,7 +570,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-035
+- id: L32-035
   type: sentence
   tier: primary
   front_en: He is a worried person.
@@ -982,7 +582,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-036
+- id: L32-036
   type: transformation
   tier: extended
   front_en: liberation
@@ -994,7 +594,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-037
+- id: L32-037
   type: transformation
   tier: extended
   front_en: to deliver (free from)
@@ -1006,7 +606,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-038
+- id: L32-038
   type: transformation
   tier: extended
   front_en: married
@@ -1018,19 +618,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-039
-  type: sentence
-  tier: extended
-  front_en: She is bored. (Ella…)
-  back_es: Ella está aburrida.
-  hint: emphatic pronoun
-  rule_ref: L32#1, L32#2
-  lessons:
-  - 32
-  directions:
-  - en_es
-  - es_en
-- id: l32-040
+- id: L32-040
   type: sentence
   tier: extended
   front_en: It is not boring.
@@ -1042,7 +630,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-041
+- id: L32-041
   type: sentence
   tier: extended
   front_en: They are not bored.
@@ -1054,65 +642,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-042
-  type: sentence
-  tier: extended
-  front_en: We are bored.
-  back_es: Estamos aburridos.
-  rule_ref: L32#1, L32#2
-  lessons:
-  - 32
-  directions:
-  - en_es
-  - es_en
-- id: l32-043
-  type: sentence
-  tier: extended
-  front_en: You are boring. (informal)
-  back_es: Eres aburrido.
-  rule_ref: L32#1, L31#4
-  lessons:
-  - 31
-  - 32
-  directions:
-  - en_es
-  - es_en
-- id: l32-044
-  type: sentence
-  tier: extended
-  front_en: Where is she from?
-  back_es: ¿De dónde es?
-  rule_ref: L32#6
-  lessons:
-  - 32
-  directions:
-  - en_es
-  - es_en
-- id: l32-045
-  type: sentence
-  tier: extended
-  front_en: I am from here.
-  back_es: Soy de aquí.
-  hint: ser for origin
-  rule_ref: L32#6, L31#4
-  lessons:
-  - 31
-  - 32
-  directions:
-  - en_es
-  - es_en
-- id: l32-046
-  type: sentence
-  tier: extended
-  front_en: She is a free person.
-  back_es: Es una persona libre.
-  rule_ref: L32#11, L32#10
-  lessons:
-  - 32
-  directions:
-  - en_es
-  - es_en
-- id: l32-047
+- id: L32-047
   type: sentence
   tier: extended
   front_en: We are free. (state)
@@ -1124,19 +654,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-048
-  type: sentence
-  tier: extended
-  front_en: We are married.
-  back_es: Somos personas casadas.
-  hint: persona-trick · dialect-safe
-  rule_ref: L32#11, L32#12
-  lessons:
-  - 32
-  directions:
-  - en_es
-  - es_en
-- id: l32-049
+- id: L32-049
   type: sentence
   tier: extended
   front_en: Are you busy? (informal)
@@ -1147,18 +665,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l32-050
-  type: sentence
-  tier: extended
-  front_en: She is a worried person.
-  back_es: Es una persona preocupada.
-  rule_ref: L32#15, L32#11
-  lessons:
-  - 32
-  directions:
-  - en_es
-  - es_en
-- id: l33-001
+- id: L33-001
   type: transformation
   tier: primary
   front_en: ready / smart
@@ -1170,7 +677,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-002
+- id: L33-002
   type: transformation
   tier: primary
   front_en: so
@@ -1182,7 +689,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-003
+- id: L33-003
   type: transformation
   tier: primary
   front_en: good / handsome
@@ -1194,7 +701,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-004
+- id: L33-004
   type: transformation
   tier: primary
   front_en: happy
@@ -1206,7 +713,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-005
+- id: L33-005
   type: transformation
   tier: primary
   front_en: I want to know
@@ -1217,7 +724,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-006
+- id: L33-006
   type: transformation
   tier: primary
   front_en: happiness
@@ -1229,7 +736,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-007
+- id: L33-007
   type: sentence
   tier: primary
   front_en: I am ready. (masc)
@@ -1241,7 +748,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-009
+- id: L33-009
   type: sentence
   tier: primary
   front_en: I am smart. (masc)
@@ -1253,7 +760,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-011
+- id: L33-011
   type: sentence
   tier: primary
   front_en: He is smart.
@@ -1264,18 +771,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-013
-  type: sentence
-  tier: primary
-  front_en: We are ready.
-  back_es: Estamos listos.
-  rule_ref: L33#2
-  lessons:
-  - 33
-  directions:
-  - en_es
-  - es_en
-- id: l33-014
+- id: L33-014
   type: sentence
   tier: primary
   front_en: We are ready. (emphatic)
@@ -1287,29 +783,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-015
-  type: sentence
-  tier: primary
-  front_en: You are smart. (inf, fem)
-  back_es: Eres lista.
-  rule_ref: L33#2, L33#4
-  lessons:
-  - 33
-  directions:
-  - en_es
-  - es_en
-- id: l33-016
-  type: sentence
-  tier: primary
-  front_en: You are very smart. (fem)
-  back_es: Eres muy lista.
-  rule_ref: L33#2
-  lessons:
-  - 33
-  directions:
-  - en_es
-  - es_en
-- id: l33-017
+- id: L33-017
   type: sentence
   tier: primary
   front_en: I am so tired. (masc)
@@ -1321,7 +795,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-018
+- id: L33-018
   type: sentence
   tier: primary
   front_en: I am so bored. (fem)
@@ -1333,7 +807,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-019
+- id: L33-019
   type: sentence
   tier: primary
   front_en: He is so bored.
@@ -1346,42 +820,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-020
-  type: sentence
-  tier: primary
-  front_en: It is so boring.
-  back_es: Es tan aburrido.
-  hint: ser = characteristic = boring
-  rule_ref: L33#5, L32#1
-  lessons:
-  - 32
-  - 33
-  directions:
-  - en_es
-  - es_en
-- id: l33-021
-  type: sentence
-  tier: primary
-  front_en: We are so ready.
-  back_es: Estamos tan listos.
-  rule_ref: L33#5, L33#2
-  lessons:
-  - 33
-  directions:
-  - en_es
-  - es_en
-- id: l33-022
-  type: sentence
-  tier: primary
-  front_en: She is so smart.
-  back_es: Es tan lista.
-  rule_ref: L33#5, L33#2
-  lessons:
-  - 33
-  directions:
-  - en_es
-  - es_en
-- id: l33-023
+- id: L33-023
   type: sentence
   tier: primary
   front_en: He is good. (person)
@@ -1393,7 +832,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-024
+- id: L33-024
   type: sentence
   tier: primary
   front_en: He is attractive.
@@ -1405,7 +844,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-025
+- id: L33-025
   type: sentence
   tier: primary
   front_en: She is good. (person)
@@ -1416,7 +855,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-027
+- id: L33-027
   type: sentence
   tier: primary
   front_en: They are good. (people)
@@ -1427,29 +866,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-028
-  type: sentence
-  tier: primary
-  front_en: They are attractive.
-  back_es: Están buenos.
-  rule_ref: L33#6
-  lessons:
-  - 33
-  directions:
-  - en_es
-  - es_en
-- id: l33-029
-  type: sentence
-  tier: primary
-  front_en: It is good.
-  back_es: Es bueno.
-  rule_ref: L33#6
-  lessons:
-  - 33
-  directions:
-  - en_es
-  - es_en
-- id: l33-030
+- id: L33-030
   type: sentence
   tier: primary
   front_en: It is not good.
@@ -1461,7 +878,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-031
+- id: L33-031
   type: sentence
   tier: primary
   front_en: I want to know how he is.
@@ -1474,7 +891,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-032
+- id: L33-032
   type: sentence
   tier: primary
   front_en: I want to know what he's like.
@@ -1487,7 +904,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-033
+- id: L33-033
   type: sentence
   tier: primary
   front_en: I want to know how they are.
@@ -1499,7 +916,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-035
+- id: L33-035
   type: sentence
   tier: primary
   front_en: I am happy. (state)
@@ -1511,7 +928,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-036
+- id: L33-036
   type: sentence
   tier: primary
   front_en: I am a happy person.
@@ -1523,7 +940,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-037
+- id: L33-037
   type: sentence
   tier: primary
   front_en: I am a happy person. (safe)
@@ -1536,7 +953,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-039
+- id: L33-039
   type: sentence
   tier: primary
   front_en: They are happy. (state)
@@ -1548,7 +965,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-040
+- id: L33-040
   type: sentence
   tier: primary
   front_en: Merry Christmas!
@@ -1560,7 +977,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-041
+- id: L33-041
   type: transformation
   tier: extended
   front_en: Christmas
@@ -1572,7 +989,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-042
+- id: L33-042
   type: transformation
   tier: extended
   front_en: ready (fem)
@@ -1584,7 +1001,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-043
+- id: L33-043
   type: transformation
   tier: extended
   front_en: good (fem)
@@ -1596,18 +1013,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-044
-  type: sentence
-  tier: extended
-  front_en: Are you ready? (informal)
-  back_es: ¿Estás listo?
-  rule_ref: L33#2
-  lessons:
-  - 33
-  directions:
-  - en_es
-  - es_en
-- id: l33-045
+- id: L33-045
   type: sentence
   tier: extended
   front_en: He is not smart.
@@ -1619,66 +1025,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-046
-  type: sentence
-  tier: extended
-  front_en: We are smart. (mixed)
-  back_es: Somos listos.
-  rule_ref: L33#2, L31#4
-  lessons:
-  - 31
-  - 33
-  directions:
-  - en_es
-  - es_en
-- id: l33-047
-  type: sentence
-  tier: extended
-  front_en: You guys are so good.
-  back_es: Ustedes son tan buenos.
-  rule_ref: L33#5, L33#6, L31#6
-  lessons:
-  - 31
-  - 33
-  directions:
-  - en_es
-  - es_en
-- id: l33-048
-  type: sentence
-  tier: extended
-  front_en: I am so happy.
-  back_es: Estoy tan feliz.
-  rule_ref: L33#5, L33#11
-  lessons:
-  - 33
-  directions:
-  - en_es
-  - es_en
-- id: l33-049
-  type: sentence
-  tier: extended
-  front_en: She is so attractive.
-  back_es: Está tan buena.
-  rule_ref: L33#5, L33#6
-  lessons:
-  - 33
-  directions:
-  - en_es
-  - es_en
-- id: l33-050
-  type: sentence
-  tier: extended
-  front_en: I want to know what she's like.
-  back_es: Quiero saber cómo es ella.
-  hint: emphatic pronoun at end
-  rule_ref: L33#9, L31#8
-  lessons:
-  - 31
-  - 33
-  directions:
-  - en_es
-  - es_en
-- id: l33-051
+- id: L33-051
   type: sentence
   tier: extended
   front_en: We are happy people.
@@ -1691,7 +1038,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-052
+- id: L33-052
   type: sentence
   tier: extended
   front_en: They are not happy.
@@ -1703,30 +1050,7 @@ cards:
   directions:
   - en_es
   - es_en
-- id: l33-053
-  type: sentence
-  tier: extended
-  front_en: He is a good person.
-  back_es: Es una persona buena.
-  rule_ref: L33#6, L32#11
-  lessons:
-  - 32
-  - 33
-  directions:
-  - en_es
-  - es_en
-- id: l33-054
-  type: sentence
-  tier: extended
-  front_en: She is so ready.
-  back_es: Está tan lista.
-  rule_ref: L33#5, L33#2
-  lessons:
-  - 33
-  directions:
-  - en_es
-  - es_en
-- id: l33-055
+- id: L33-055
   type: sentence
   tier: extended
   front_en: He is a happy person.
