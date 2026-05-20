@@ -190,6 +190,175 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L2-201
+  type: sentence
+  tier: extended
+  front_en: 'It''s metal.'
+  back_es: Es metal.
+  hint: '-al stays · drop subject'
+  rule_ref: 'L2#7, L2#2'
+  lessons:
+  - 2
+  directions:
+  - en_es
+  - es_en
+- id: L2-202
+  type: sentence
+  tier: extended
+  front_en: 'It''s liberal.'
+  back_es: Es liberal.
+  hint: '-al stays'
+  rule_ref: 'L2#7, L2#2'
+  lessons:
+  - 2
+  directions:
+  - en_es
+  - es_en
+- id: L2-203
+  type: sentence
+  tier: extended
+  front_en: 'It''s fatal.'
+  back_es: Es fatal.
+  hint: '-al stays · Spanish uses *fatal* loosely = awful'
+  rule_ref: 'L2#7, L2#2'
+  lessons:
+  - 2
+  directions:
+  - en_es
+  - es_en
+- id: L2-204
+  type: sentence
+  tier: extended
+  front_en: 'It''s colonial.'
+  back_es: Es colonial.
+  hint: '-al stays'
+  rule_ref: 'L2#7, L2#2'
+  lessons:
+  - 2
+  directions:
+  - en_es
+  - es_en
+- id: L2-205
+  type: sentence
+  tier: extended
+  front_en: 'It''s cultural.'
+  back_es: Es cultural.
+  hint: '-al stays'
+  rule_ref: 'L2#7, L2#2'
+  lessons:
+  - 2
+  directions:
+  - en_es
+  - es_en
+- id: L2-206
+  type: sentence
+  tier: extended
+  front_en: 'It''s dental.'
+  back_es: Es dental.
+  hint: '-al stays · cousin of *diente*'
+  rule_ref: 'L2#7, L2#2'
+  lessons:
+  - 2
+  directions:
+  - en_es
+  - es_en
+- id: L2-207
+  type: sentence
+  tier: extended
+  front_en: 'It''s personal.'
+  back_es: Es personal.
+  hint: '-al stays'
+  rule_ref: 'L2#7, L2#2'
+  lessons:
+  - 2
+  directions:
+  - en_es
+  - es_en
+- id: L2-208
+  type: sentence
+  tier: extended
+  front_en: 'It''s verbal.'
+  back_es: Es verbal.
+  hint: '-al stays'
+  rule_ref: 'L2#7, L2#2'
+  lessons:
+  - 2
+  directions:
+  - en_es
+  - es_en
+- id: L2-220
+  type: sentence
+  tier: extended
+  front_en: 'It''s rural.'
+  back_es: Es rural.
+  hint: '-al stays · also rolled r at start'
+  rule_ref: 'L2#7, L2#2, L3#4'
+  lessons:
+  - 2
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L2-221
+  type: sentence
+  tier: extended
+  front_en: 'It''s vital.'
+  back_es: Es vital.
+  hint: '-al stays'
+  rule_ref: 'L2#7, L2#2'
+  lessons:
+  - 2
+  directions:
+  - en_es
+  - es_en
+- id: L2-222
+  type: sentence
+  tier: extended
+  front_en: 'It''s central.'
+  back_es: Es central.
+  hint: '-al stays'
+  rule_ref: 'L2#7, L2#2'
+  lessons:
+  - 2
+  directions:
+  - en_es
+  - es_en
+- id: L2-223
+  type: sentence
+  tier: extended
+  front_en: 'It''s social.'
+  back_es: Es social.
+  hint: '-al stays · /so-SIAL/'
+  rule_ref: 'L2#7, L2#2'
+  lessons:
+  - 2
+  directions:
+  - en_es
+  - es_en
+- id: L2-224
+  type: sentence
+  tier: extended
+  front_en: 'It''s mortal.'
+  back_es: Es mortal.
+  hint: '-al stays · cousin of *muerte* (death)'
+  rule_ref: 'L2#7, L2#2'
+  lessons:
+  - 2
+  directions:
+  - en_es
+  - es_en
+- id: L2-225
+  type: sentence
+  tier: extended
+  front_en: 'It''s moral.'
+  back_es: Es moral.
+  hint: '-al stays'
+  rule_ref: 'L2#7, L2#2'
+  lessons:
+  - 2
+  directions:
+  - en_es
+  - es_en
 - id: L3-001
   type: transformation
   tier: primary
@@ -812,6 +981,339 @@ cards:
   front_en: It's not impossible.
   back_es: No es imposible.
   rule_ref: L2#9, L2#7, L3#8
+  lessons:
+  - 2
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L3-201
+  type: sentence
+  tier: extended
+  front_en: 'It''s real.'
+  back_es: Es real.
+  hint: 'rolled r · *real* = real AND royal'
+  rule_ref: 'L2#7, L3#4, L3#5'
+  lessons:
+  - 2
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L3-202
+  type: sentence
+  tier: extended
+  front_en: 'It''s global.'
+  back_es: Es global.
+  hint: '-al stays'
+  rule_ref: 'L2#7, L2#2'
+  lessons:
+  - 2
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L3-220
+  type: transformation
+  tier: extended
+  front_en: relevant
+  back_es: relevante
+  hint: '-ant → -ante'
+  rule_ref: 'L3#1'
+  lessons:
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L3-221
+  type: transformation
+  tier: extended
+  front_en: consistent
+  back_es: consistente
+  hint: '-ent → -ente'
+  rule_ref: 'L3#1'
+  lessons:
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L3-222
+  type: transformation
+  tier: extended
+  front_en: innocent
+  back_es: inocente
+  hint: '-ent → -ente · single n in Spanish'
+  rule_ref: 'L3#1'
+  lessons:
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L3-223
+  type: transformation
+  tier: extended
+  front_en: intelligent
+  back_es: inteligente
+  hint: '-ent → -ente · single l'
+  rule_ref: 'L3#1'
+  lessons:
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L3-224
+  type: transformation
+  tier: extended
+  front_en: competent
+  back_es: competente
+  hint: '-ent → -ente'
+  rule_ref: 'L3#1'
+  lessons:
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L3-225
+  type: transformation
+  tier: extended
+  front_en: permanent
+  back_es: permanente
+  hint: '-ent → -ente'
+  rule_ref: 'L3#1'
+  lessons:
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L3-226
+  type: transformation
+  tier: extended
+  front_en: agent
+  back_es: agente
+  hint: '-ent → -ente · /j/→/kh/ on *agente*'
+  rule_ref: 'L3#1, L3#7'
+  lessons:
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L3-227
+  type: transformation
+  tier: extended
+  front_en: elegant
+  back_es: elegante
+  hint: '-ant → -ante'
+  rule_ref: 'L3#1'
+  lessons:
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L3-240
+  type: transformation
+  tier: extended
+  front_en: totally
+  back_es: totalmente
+  hint: '-ly → -mente'
+  rule_ref: 'L3#3'
+  lessons:
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L3-241
+  type: transformation
+  tier: extended
+  front_en: vitally
+  back_es: vitalmente
+  hint: '-ly → -mente'
+  rule_ref: 'L3#3'
+  lessons:
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L3-242
+  type: transformation
+  tier: extended
+  front_en: morally
+  back_es: moralmente
+  hint: '-ly → -mente'
+  rule_ref: 'L3#3'
+  lessons:
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L3-243
+  type: transformation
+  tier: extended
+  front_en: personally
+  back_es: personalmente
+  hint: '-ly → -mente'
+  rule_ref: 'L3#3'
+  lessons:
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L3-244
+  type: transformation
+  tier: extended
+  front_en: socially
+  back_es: socialmente
+  hint: '-ly → -mente'
+  rule_ref: 'L3#3'
+  lessons:
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L3-245
+  type: transformation
+  tier: extended
+  front_en: centrally
+  back_es: centralmente
+  hint: '-ly → -mente'
+  rule_ref: 'L3#3'
+  lessons:
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L3-260
+  type: transformation
+  tier: extended
+  front_en: accessible
+  back_es: accesible
+  hint: single s in Spanish · -ible stays
+  rule_ref: 'L3#8'
+  lessons:
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L3-261
+  type: transformation
+  tier: extended
+  front_en: reasonable
+  back_es: razonable
+  hint: z replaces s · -able stays
+  rule_ref: 'L3#8'
+  lessons:
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L3-262
+  type: transformation
+  tier: extended
+  front_en: stable
+  back_es: estable
+  hint: s+consonant → es- · -able stays
+  rule_ref: 'L3#8'
+  lessons:
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L3-280
+  type: sentence
+  tier: extended
+  front_en: 'Why? Because it''s important.'
+  back_es: ¿Por qué? Porque es importante.
+  hint: por qué (?) vs porque (because)
+  rule_ref: 'L3#1, L2#7'
+  lessons:
+  - 2
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L3-281
+  type: sentence
+  tier: extended
+  front_en: 'Generally it''s not important.'
+  back_es: Generalmente no es importante.
+  hint: '-mente · negation · /j/→/kh/'
+  rule_ref: 'L3#3, L3#7, L2#9, L2#7, L3#1'
+  lessons:
+  - 2
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L3-282
+  type: sentence
+  tier: extended
+  front_en: 'Naturally it''s possible.'
+  back_es: Naturalmente es posible.
+  hint: '-mente · also = obviously'
+  rule_ref: 'L3#3, L3#8, L2#7'
+  lessons:
+  - 2
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L3-283
+  type: sentence
+  tier: extended
+  front_en: 'Probably it''s relevant.'
+  back_es: Probablemente es relevante.
+  hint: '-bly → -blemente · -ant → -ante'
+  rule_ref: 'L3#3, L3#1, L2#7, L3#8'
+  lessons:
+  - 2
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L3-284
+  type: sentence
+  tier: extended
+  front_en: 'It''s not really legal.'
+  back_es: Realmente no es legal.
+  hint: 'Spanish moves *realmente* to the front'
+  rule_ref: 'L3#3, L3#4, L2#9, L2#7, L2#2'
+  lessons:
+  - 2
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L3-285
+  type: sentence
+  tier: extended
+  front_en: 'It''s not personal.'
+  back_es: No es personal.
+  hint: negation
+  rule_ref: 'L2#9, L2#7, L2#2'
+  lessons:
+  - 2
+  directions:
+  - en_es
+  - es_en
+- id: L3-286
+  type: sentence
+  tier: extended
+  front_en: 'It''s not real.'
+  back_es: No es real.
+  hint: negation · rolled r
+  rule_ref: 'L2#9, L2#7, L3#4'
+  lessons:
+  - 2
+  - 3
+  directions:
+  - en_es
+  - es_en
+- id: L3-287
+  type: sentence
+  tier: extended
+  front_en: 'Possibly it''s evident.'
+  back_es: Posiblemente es evidente.
+  hint: '-mente from -ible base'
+  rule_ref: 'L3#3, L3#8, L3#1, L2#7'
   lessons:
   - 2
   - 3
