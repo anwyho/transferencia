@@ -314,6 +314,30 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L14-030
+  type: transformation
+  tier: extended
+  front_en: to expose
+  back_es: exponer
+  hint: -pose → -poner
+  rule_ref: L14#13
+  lessons:
+  - 14
+  directions:
+  - en_es
+  - es_en
+- id: L14-031
+  type: transformation
+  tier: extended
+  front_en: to impose
+  back_es: imponer
+  hint: -pose → -poner
+  rule_ref: L14#13
+  lessons:
+  - 14
+  directions:
+  - en_es
+  - es_en
 - id: L14-032
   type: conjugation
   tier: extended
@@ -391,6 +415,18 @@ cards:
   back_es: Voy a intentar comer más tarde.
   hint: '*intentar* is a verb, not ''intention'''
   rule_ref: L14#19, L14#20
+  lessons:
+  - 14
+  directions:
+  - en_es
+  - es_en
+- id: L14-039
+  type: sentence
+  tier: extended
+  front_en: I can do it.
+  back_es: Puedo hacerlo.
+  hint: 'spine: puedo + ''to'' form'
+  rule_ref: L14#19
   lessons:
   - 14
   directions:
@@ -814,6 +850,19 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L15-039
+  type: sentence
+  tier: extended
+  front_en: I have to lose it.
+  back_es: Tengo que perderlo.
+  hint: 'spine: tengo que + ''to'' form + *lo*'
+  rule_ref: L15#15
+  lessons:
+  - 14
+  - 15
+  directions:
+  - en_es
+  - es_en
 - id: L16-001
   type: transformation
   tier: primary
@@ -964,6 +1013,30 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L16-017
+  type: transformation
+  tier: primary
+  front_en: body
+  back_es: cuerpo
+  hint: o→ue · cf. corp-
+  rule_ref: L16#7
+  lessons:
+  - 16
+  directions:
+  - en_es
+  - es_en
+- id: L16-018
+  type: transformation
+  tier: primary
+  front_en: death
+  back_es: muerte
+  hint: o→ue · cf. mort- · feminine *la ...*
+  rule_ref: L16#7, L16#8
+  lessons:
+  - 16
+  directions:
+  - en_es
+  - es_en
 - id: L16-019
   type: transformation
   tier: primary
@@ -1067,6 +1140,54 @@ cards:
   back_es: comenzar
   hint: less common than *empezar*
   rule_ref: L16#1
+  lessons:
+  - 16
+  directions:
+  - en_es
+  - es_en
+- id: L16-030
+  type: transformation
+  tier: extended
+  front_en: new
+  back_es: nuevo
+  hint: o→ue · cf. innov-
+  rule_ref: L16#7
+  lessons:
+  - 16
+  directions:
+  - en_es
+  - es_en
+- id: L16-031
+  type: transformation
+  tier: extended
+  front_en: village / a people
+  back_es: pueblo
+  hint: o→ue · cf. pop-
+  rule_ref: L16#7
+  lessons:
+  - 16
+  directions:
+  - en_es
+  - es_en
+- id: L16-032
+  type: transformation
+  tier: extended
+  front_en: rich / nice / tasty
+  back_es: rico
+  hint: Puerto ... = the rich port
+  rule_ref: L16#7
+  lessons:
+  - 16
+  directions:
+  - en_es
+  - es_en
+- id: L16-033
+  type: transformation
+  tier: extended
+  front_en: population
+  back_es: población
+  hint: exception — no split despite *pop-*
+  rule_ref: L16#7
   lessons:
   - 16
   directions:
@@ -1498,6 +1619,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L17-036
+  type: transformation
+  tier: extended
+  front_en: carpet
+  back_es: alfombra
+  hint: Arabic origin
+  rule_ref: L17#11
+  lessons:
+  - 17
+  directions:
+  - en_es
+  - es_en
 - id: L17-037
   type: sentence
   tier: extended
@@ -1528,6 +1661,43 @@ cards:
   back_es: Lo cuelgan.
   hint: o→ue in non-we forms
   rule_ref: L17#2
+  lessons:
+  - 17
+  directions:
+  - en_es
+  - es_en
+- id: L17-040
+  type: sentence
+  tier: extended
+  front_en: We think so.
+  back_es: Pensamos que sí.
+  hint: no split + idiom
+  rule_ref: L17#5, L17#14
+  lessons:
+  - 17
+  directions:
+  - en_es
+  - es_en
+- id: L17-041
+  type: sentence
+  tier: extended
+  front_en: We have to drink water.
+  back_es: Tenemos que tomar agua.
+  hint: spine 'we' form + *tomar*
+  rule_ref: L17#5, L17#9
+  lessons:
+  - 14
+  - 17
+  directions:
+  - en_es
+  - es_en
+- id: L17-042
+  type: sentence
+  tier: extended
+  front_en: We show the samples.
+  back_es: Mostramos las muestras.
+  hint: verb (no split) + noun (with split)
+  rule_ref: L17#5, L17#7
   lessons:
   - 17
   directions:

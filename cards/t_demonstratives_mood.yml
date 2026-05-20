@@ -89,6 +89,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L68-008
+  type: transformation
+  tier: primary
+  front_en: those (fem)
+  back_es: esas
+  hint: drop the *t* · -as plural
+  rule_ref: L68#2
+  lessons:
+  - 68
+  directions:
+  - en_es
+  - es_en
 - id: L68-009
   type: transformation
   tier: primary
@@ -108,6 +120,18 @@ cards:
   back_es: eso
   hint: neuter — vague *that*
   rule_ref: L68#6
+  lessons:
+  - 68
+  directions:
+  - en_es
+  - es_en
+- id: L68-011
+  type: transformation
+  tier: primary
+  front_en: man
+  back_es: hombre
+  hint: masculine
+  rule_ref: L68#3
   lessons:
   - 68
   directions:
@@ -249,6 +273,17 @@ cards:
   front_en: these men
   back_es: estos hombres
   rule_ref: L68#3, L68#4
+  lessons:
+  - 68
+  directions:
+  - en_es
+  - es_en
+- id: L68-024
+  type: sentence
+  tier: primary
+  front_en: those men
+  back_es: esos hombres
+  rule_ref: L68#3
   lessons:
   - 68
   directions:
@@ -396,6 +431,30 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L68-040
+  type: sentence
+  tier: primary
+  front_en: We were so tired. (masc)
+  back_es: Estábamos tan cansados.
+  hint: plural agreement
+  rule_ref: L68#8, L68#9
+  lessons:
+  - 68
+  directions:
+  - en_es
+  - es_en
+- id: L68-041
+  type: sentence
+  tier: primary
+  front_en: We were so tired that we slept all day.
+  back_es: Estábamos tan cansados que dormimos todo el día.
+  hint: '*que* links · *día* masc'
+  rule_ref: L68#8, L68#9, L68#10, L68#11, L68#15
+  lessons:
+  - 68
+  directions:
+  - en_es
+  - es_en
 - id: L68-042
   type: sentence
   tier: primary
@@ -464,6 +523,75 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L68-050
+  type: sentence
+  tier: extended
+  front_en: this day
+  back_es: este día
+  hint: '*día* is masc'
+  rule_ref: L68#3, L68#11
+  lessons:
+  - 68
+  directions:
+  - en_es
+  - es_en
+- id: L68-051
+  type: sentence
+  tier: extended
+  front_en: those days
+  back_es: esos días
+  rule_ref: L68#3, L68#11
+  lessons:
+  - 68
+  directions:
+  - en_es
+  - es_en
+- id: L68-052
+  type: sentence
+  tier: extended
+  front_en: I can't believe this.
+  back_es: No puedo creer esto.
+  hint: neuter *esto*
+  rule_ref: L68#6, L68#7
+  lessons:
+  - 68
+  directions:
+  - en_es
+  - es_en
+- id: L68-053
+  type: sentence
+  tier: extended
+  front_en: He doesn't believe that.
+  back_es: No cree eso.
+  hint: neuter *eso*
+  rule_ref: L68#6, L68#7
+  lessons:
+  - 68
+  directions:
+  - en_es
+  - es_en
+- id: L68-054
+  type: sentence
+  tier: extended
+  front_en: We were so tired when we arrived.
+  back_es: Estábamos tan cansados cuando llegamos.
+  rule_ref: L68#8, L68#15
+  lessons:
+  - 68
+  directions:
+  - en_es
+  - es_en
+- id: L68-055
+  type: sentence
+  tier: extended
+  front_en: I was so tired that I slept all day.
+  back_es: Estaba tan cansado que dormí todo el día.
+  rule_ref: L68#8, L68#10, L68#11, L68#15
+  lessons:
+  - 68
+  directions:
+  - en_es
+  - es_en
 - id: L68-056
   type: sentence
   tier: extended
@@ -475,12 +603,56 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L68-057
+  type: sentence
+  tier: extended
+  front_en: I believe that.
+  back_es: Creo eso.
+  rule_ref: L68#6, L68#7
+  lessons:
+  - 68
+  directions:
+  - en_es
+  - es_en
+- id: L68-058
+  type: sentence
+  tier: extended
+  front_en: that day
+  back_es: ese día
+  rule_ref: L68#3, L68#11
+  lessons:
+  - 68
+  directions:
+  - en_es
+  - es_en
+- id: L68-059
+  type: sentence
+  tier: extended
+  front_en: these days
+  back_es: estos días
+  rule_ref: L68#3, L68#11
+  lessons:
+  - 68
+  directions:
+  - en_es
+  - es_en
 - id: L68-060
   type: sentence
   tier: extended
   front_en: these women
   back_es: estas mujeres
   rule_ref: L68#2
+  lessons:
+  - 68
+  directions:
+  - en_es
+  - es_en
+- id: L68-061
+  type: sentence
+  tier: extended
+  front_en: How many times have you visited?
+  back_es: ¿Cuántas veces has visitado?
+  rule_ref: L68#13
   lessons:
   - 68
   directions:
@@ -653,6 +825,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L69-016
+  type: sentence
+  tier: primary
+  front_en: Do you want me to wait for you?
+  back_es: ¿Quieres que te espere?
+  hint: clarify ambiguous *te/me* if needed
+  rule_ref: L69#9, L69#11
+  lessons:
+  - 69
+  directions:
+  - en_es
+  - es_en
 - id: L69-017
   type: sentence
   tier: primary
@@ -660,6 +844,28 @@ cards:
   back_es: ¿Quieres que yo te espere?
   hint: add *yo* to disambiguate
   rule_ref: L69#11
+  lessons:
+  - 69
+  directions:
+  - en_es
+  - es_en
+- id: L69-018
+  type: sentence
+  tier: primary
+  front_en: I want you to speak.
+  back_es: Quiero que hables.
+  rule_ref: L69#9, L69#4
+  lessons:
+  - 69
+  directions:
+  - en_es
+  - es_en
+- id: L69-020
+  type: sentence
+  tier: primary
+  front_en: I want him to eat.
+  back_es: Quiero que coma.
+  rule_ref: L69#9, L69#5
   lessons:
   - 69
   directions:
@@ -687,6 +893,17 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L69-024
+  type: sentence
+  tier: primary
+  front_en: Do you want them to wait?
+  back_es: ¿Quieres que esperen?
+  rule_ref: L69#9, L69#10
+  lessons:
+  - 69
+  directions:
+  - en_es
+  - es_en
 - id: L69-025
   type: sentence
   tier: primary
@@ -706,6 +923,17 @@ cards:
   back_es: Quiero que comamos.
   hint: -er → -amos
   rule_ref: L69#7, L69#9
+  lessons:
+  - 69
+  directions:
+  - en_es
+  - es_en
+- id: L69-028
+  type: sentence
+  tier: primary
+  front_en: We want you to wait.
+  back_es: Queremos que esperes.
+  rule_ref: L69#9, L69#10
   lessons:
   - 69
   directions:
@@ -777,6 +1005,50 @@ cards:
   - 69
   directions:
   - en_es
+- id: L69-036
+  type: sentence
+  tier: extended
+  front_en: I want you to speak slowly.
+  back_es: Quiero que hables despacio.
+  rule_ref: L69#9, L69#4
+  lessons:
+  - 69
+  directions:
+  - en_es
+  - es_en
+- id: L69-037
+  type: sentence
+  tier: extended
+  front_en: I want her to wait for me.
+  back_es: Quiero que me espere.
+  rule_ref: L69#9, L69#10
+  lessons:
+  - 69
+  directions:
+  - en_es
+  - es_en
+- id: L69-038
+  type: sentence
+  tier: extended
+  front_en: I don't want them to eat now.
+  back_es: No quiero que coman ahora.
+  rule_ref: L69#9, L69#5
+  lessons:
+  - 69
+  directions:
+  - en_es
+  - es_en
+- id: L69-039
+  type: sentence
+  tier: extended
+  front_en: Do you want him to wait for us?
+  back_es: ¿Quieres que nos espere?
+  rule_ref: L69#9, L69#10
+  lessons:
+  - 69
+  directions:
+  - en_es
+  - es_en
 - id: L70-001
   type: transformation
   tier: primary
@@ -1241,6 +1513,32 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L70-043
+  type: sentence
+  tier: extended
+  front_en: I don't believe what you're saying.
+  back_es: No creo lo que dices.
+  hint: non-question *what* → *lo que*
+  rule_ref: L70#1
+  lessons:
+  - 68
+  - 70
+  directions:
+  - en_es
+  - es_en
+- id: L70-044
+  type: sentence
+  tier: extended
+  front_en: I'll do what you want.
+  back_es: Haré lo que quieras.
+  hint: '*quieras* = mood tense'
+  rule_ref: L70#1, L70#7
+  lessons:
+  - 69
+  - 70
+  directions:
+  - en_es
+  - es_en
 - id: L70-045
   type: sentence
   tier: extended
@@ -1253,6 +1551,91 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L70-046
+  type: sentence
+  tier: extended
+  front_en: It's necessary that we speak soon.
+  back_es: Hace falta que hablemos pronto.
+  rule_ref: L70#9, L70#10
+  lessons:
+  - 69
+  - 70
+  directions:
+  - en_es
+  - es_en
+- id: L70-047
+  type: sentence
+  tier: extended
+  front_en: I prefer that you don't speak.
+  back_es: Prefiero que no hables.
+  rule_ref: L70#13
+  lessons:
+  - 69
+  - 70
+  directions:
+  - en_es
+  - es_en
+- id: L70-048
+  type: sentence
+  tier: extended
+  front_en: I prefer that we stay here.
+  back_es: Prefiero que nos quedemos aquí.
+  rule_ref: L70#13
+  lessons:
+  - 69
+  - 70
+  directions:
+  - en_es
+  - es_en
+- id: L70-049
+  type: sentence
+  tier: extended
+  front_en: I need you to wait for me.
+  back_es: Necesito que me esperes.
+  rule_ref: L70#6, L70#7
+  lessons:
+  - 69
+  - 70
+  directions:
+  - en_es
+  - es_en
+- id: L70-050
+  type: sentence
+  tier: extended
+  front_en: I need you to cook.
+  back_es: Necesito que cocines.
+  rule_ref: L70#6
+  lessons:
+  - 69
+  - 70
+  directions:
+  - en_es
+  - es_en
+- id: L70-051
+  type: sentence
+  tier: extended
+  front_en: That's a lack of respect.
+  back_es: Eso es una falta de respeto.
+  hint: neuter *eso* + *falta de*
+  rule_ref: L68#6, L70#8
+  lessons:
+  - 68
+  - 70
+  directions:
+  - en_es
+  - es_en
+- id: L70-052
+  type: sentence
+  tier: extended
+  front_en: This is a lack of consideration.
+  back_es: Esto es una falta de consideración.
+  rule_ref: L68#6, L70#8
+  lessons:
+  - 68
+  - 70
+  directions:
+  - en_es
+  - es_en
 - id: L70-053
   type: sentence
   tier: extended
@@ -1260,6 +1643,112 @@ cards:
   back_es: Es una falta de respeto.
   rule_ref: L70#8
   lessons:
+  - 70
+  directions:
+  - en_es
+  - es_en
+- id: L70-054
+  type: sentence
+  tier: extended
+  front_en: I want you to cook tonight.
+  back_es: Quiero que cocines esta noche.
+  rule_ref: L69#9, L70#15
+  lessons:
+  - 69
+  - 70
+  directions:
+  - en_es
+  - es_en
+- id: L70-055
+  type: sentence
+  tier: extended
+  front_en: I prefer that they cook.
+  back_es: Prefiero que cocinen.
+  rule_ref: L70#13
+  lessons:
+  - 69
+  - 70
+  directions:
+  - en_es
+  - es_en
+- id: L70-056
+  type: sentence
+  tier: extended
+  front_en: He's missing.
+  back_es: Él falta.
+  hint: '*faltar* = to be missing'
+  rule_ref: L70#8
+  lessons:
+  - 70
+  directions:
+  - en_es
+  - es_en
+- id: L70-057
+  type: sentence
+  tier: extended
+  front_en: Two are missing.
+  back_es: Faltan dos.
+  hint: '*faltar* with plural subject'
+  rule_ref: L70#8
+  lessons:
+  - 70
+  directions:
+  - en_es
+  - es_en
+- id: L70-058
+  type: sentence
+  tier: extended
+  front_en: One is missing.
+  back_es: Falta uno.
+  rule_ref: L70#8
+  lessons:
+  - 70
+  directions:
+  - en_es
+  - es_en
+- id: L70-059
+  type: sentence
+  tier: extended
+  front_en: I cooked what we eat.
+  back_es: Cociné lo que comemos.
+  rule_ref: L70#1, L70#2
+  lessons:
+  - 70
+  directions:
+  - en_es
+  - es_en
+- id: L70-060
+  type: sentence
+  tier: extended
+  front_en: I see what you're doing.
+  back_es: Veo lo que estás haciendo.
+  rule_ref: L70#1
+  lessons:
+  - 70
+  directions:
+  - en_es
+  - es_en
+- id: L70-061
+  type: sentence
+  tier: extended
+  front_en: I prefer that you don't stay.
+  back_es: Prefiero que no te quedes.
+  hint: reflexive *te quedes*
+  rule_ref: L70#13
+  lessons:
+  - 69
+  - 70
+  directions:
+  - en_es
+  - es_en
+- id: L70-062
+  type: sentence
+  tier: extended
+  front_en: We need them to wait.
+  back_es: Necesitamos que esperen.
+  rule_ref: L70#6
+  lessons:
+  - 69
   - 70
   directions:
   - en_es

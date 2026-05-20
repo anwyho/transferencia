@@ -326,6 +326,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L40-034
+  type: transformation
+  tier: extended
+  front_en: they dream
+  back_es: sueñan
+  hint: o → ue split
+  rule_ref: L40#8
+  lessons:
+  - 40
+  directions:
+  - en_es
+  - es_en
 - id: L40-035
   type: sentence
   tier: extended
@@ -762,6 +774,17 @@ cards:
   - 41
   directions:
   - en_es
+- id: L41-041
+  type: sentence
+  tier: extended
+  front_en: You will dance.
+  back_es: Bailarás.
+  rule_ref: L41#6
+  lessons:
+  - 41
+  directions:
+  - en_es
+  - es_en
 - id: L41-042
   type: sentence
   tier: extended
@@ -1147,12 +1170,69 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L42-033
+  type: sentence
+  tier: extended
+  front_en: We could speak later.
+  back_es: Podríamos hablar más tarde.
+  rule_ref: L42#16
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: L42-034
+  type: sentence
+  tier: extended
+  front_en: Could you tell me if it's possible?
+  back_es: ¿Podrías decirme si es posible?
+  rule_ref: L42#18, L42#19
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
 - id: L42-035
   type: sentence
   tier: extended
   front_en: We would like to see you.
   back_es: Nos gustaría verte.
   rule_ref: L42#11, L42#13
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: L42-036
+  type: sentence
+  tier: extended
+  front_en: I would like to think about it.
+  back_es: Me gustaría pensarlo.
+  hint: pensar + lo
+  rule_ref: L42#9
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: L42-037
+  type: sentence
+  tier: extended
+  front_en: They would like to dance.
+  back_es: Les gustaría bailar.
+  hint: les = to them
+  rule_ref: L42#9
+  lessons:
+  - 42
+  directions:
+  - en_es
+  - es_en
+- id: L42-038
+  type: sentence
+  tier: extended
+  front_en: She would speak with him.
+  back_es: Hablaría con él.
+  rule_ref: L42#2
   lessons:
   - 42
   directions:
@@ -1487,6 +1567,18 @@ cards:
   front_en: spoken (past part. of hablar)
   back_es: hablado
   hint: -ar → -ado
+  rule_ref: L43#4
+  lessons:
+  - 43
+  directions:
+  - en_es
+  - es_en
+- id: L43-037
+  type: transformation
+  tier: extended
+  front_en: come (past part. of venir)
+  back_es: venido
+  hint: -ir → -ido
   rule_ref: L43#4
   lessons:
   - 43

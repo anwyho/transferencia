@@ -764,6 +764,17 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L45-046
+  type: sentence
+  tier: extended
+  front_en: It would interest us to see it.
+  back_es: Nos interesaría verlo.
+  rule_ref: L45#9, L45#17
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
 - id: L45-047
   type: sentence
   tier: extended
@@ -771,6 +782,17 @@ cards:
   back_es: Me parece bueno.
   hint: bueno here, contrast to bien
   rule_ref: L45#15
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: L45-048
+  type: sentence
+  tier: extended
+  front_en: It seems to me that it's interesting.
+  back_es: Me parece que es interesante.
+  rule_ref: L45#12, L45#4
   lessons:
   - 45
   directions:
@@ -805,6 +827,17 @@ cards:
   back_es: No les interesa nada.
   hint: nada = nothing/at all
   rule_ref: L45#5
+  lessons:
+  - 45
+  directions:
+  - en_es
+  - es_en
+- id: L45-053
+  type: sentence
+  tier: extended
+  front_en: Would it interest you to put it here?
+  back_es: ¿Te interesaría ponerlo aquí?
+  rule_ref: L45#9, L45#20
   lessons:
   - 45
   directions:
@@ -862,6 +895,18 @@ cards:
   front_en: been able (participle)
   back_es: podido
   hint: -er → -ido
+  rule_ref: L46#3
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: L46-010
+  type: transformation
+  tier: primary
+  front_en: left / gone out (participle)
+  back_es: salido
+  hint: -ir → -ido
   rule_ref: L46#3
   lessons:
   - 46
@@ -977,6 +1022,17 @@ cards:
   front_en: We would have danced.
   back_es: Habríamos bailado.
   rule_ref: L46#6
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: L46-028
+  type: sentence
+  tier: primary
+  front_en: They wouldn't have spoken.
+  back_es: No habrían hablado.
+  rule_ref: L46#6, L46#8
   lessons:
   - 46
   directions:
@@ -1133,6 +1189,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L46-043
+  type: sentence
+  tier: primary
+  front_en: They were trying to find it.
+  back_es: Intentaban encontrarlo.
+  hint: -lo on the 'to' form
+  rule_ref: L46#10
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
 - id: L46-044
   type: sentence
   tier: primary
@@ -1140,6 +1208,65 @@ cards:
   back_es: Intentaban encontrármelo.
   hint: 'me + lo stacked: me first, lo second'
   rule_ref: L46#14
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: L46-045
+  type: transformation
+  tier: extended
+  front_en: looked / watched (participle)
+  back_es: mirado
+  hint: -ar → -ado
+  rule_ref: L46#3
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: L46-046
+  type: transformation
+  tier: extended
+  front_en: tried (participle)
+  back_es: intentado
+  hint: -ar → -ado
+  rule_ref: L46#3
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: L46-047
+  type: transformation
+  tier: extended
+  front_en: drunk (participle)
+  back_es: bebido
+  hint: -er → -ido
+  rule_ref: L46#3
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: L46-048
+  type: transformation
+  tier: extended
+  front_en: lived (participle)
+  back_es: vivido
+  hint: -ir → -ido
+  rule_ref: L46#3
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: L46-050
+  type: transformation
+  tier: extended
+  front_en: I/he was dancing
+  back_es: bailaba
+  rule_ref: L46#9
   lessons:
   - 46
   directions:
@@ -1156,12 +1283,67 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L46-052
+  type: transformation
+  tier: extended
+  front_en: we were waiting
+  back_es: esperábamos
+  rule_ref: L46#10
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: L46-053
+  type: sentence
+  tier: extended
+  front_en: We have eaten here.
+  back_es: Hemos comido aquí.
+  rule_ref: L46#2, L46#3
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: L46-054
+  type: sentence
+  tier: extended
+  front_en: They have gone out tonight.
+  back_es: Han salido esta noche.
+  rule_ref: L46#2
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
 - id: L46-055
   type: sentence
   tier: extended
   front_en: You haven't spoken.
   back_es: No has hablado.
   rule_ref: L46#8
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: L46-057
+  type: sentence
+  tier: extended
+  front_en: She would have danced tonight.
+  back_es: Habría bailado esta noche.
+  rule_ref: L46#6
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: L46-058
+  type: sentence
+  tier: extended
+  front_en: You wouldn't have spoken.
+  back_es: No habrías hablado.
+  rule_ref: L46#6, L46#8
   lessons:
   - 46
   directions:
@@ -1214,6 +1396,28 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L46-063
+  type: sentence
+  tier: extended
+  front_en: I have tried to find it.
+  back_es: He intentado encontrarlo.
+  rule_ref: L46#2, L46#3
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: L46-065
+  type: sentence
+  tier: extended
+  front_en: We were trying to find it.
+  back_es: Intentábamos encontrarlo.
+  rule_ref: L46#10
+  lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
 - id: L46-068
   type: sentence
   tier: extended
@@ -1221,6 +1425,18 @@ cards:
   back_es: No he podido encontrarlo.
   rule_ref: L46#8
   lessons:
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: L46-069
+  type: sentence
+  tier: extended
+  front_en: It seems she was waiting for him.
+  back_es: Parece que lo esperaba.
+  rule_ref: L46#13, L45#12
+  lessons:
+  - 45
   - 46
   directions:
   - en_es
@@ -1238,6 +1454,30 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L46-071
+  type: sentence
+  tier: extended
+  front_en: They were taking photos.
+  back_es: Tomaban fotos.
+  rule_ref: L46#10, L44#11
+  lessons:
+  - 44
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: L46-072
+  type: sentence
+  tier: extended
+  front_en: I have taken a photo.
+  back_es: He tomado una foto.
+  rule_ref: L46#2, L44#11
+  lessons:
+  - 44
+  - 46
+  directions:
+  - en_es
+  - es_en
 - id: L46-073
   type: sentence
   tier: extended
@@ -1245,6 +1485,32 @@ cards:
   back_es: Me interesaba.
   hint: line past of interesar
   rule_ref: L46#9, L45#5
+  lessons:
+  - 45
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: L46-075
+  type: sentence
+  tier: extended
+  front_en: I would have given you a hand.
+  back_es: Te habría dado una mano.
+  hint: habría + dado (participle of dar)
+  rule_ref: L46#6, L44#16
+  lessons:
+  - 44
+  - 46
+  directions:
+  - en_es
+  - es_en
+- id: L46-076
+  type: sentence
+  tier: extended
+  front_en: He has put salt on it.
+  back_es: Le ha puesto sal.
+  hint: puesto = irregular participle of poner
+  rule_ref: L46#2, L45#21
   lessons:
   - 45
   - 46

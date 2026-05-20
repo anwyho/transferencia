@@ -41,6 +41,54 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L11-004
+  type: transformation
+  tier: primary
+  front_en: I chew
+  back_es: mastico
+  hint: masticar → ... · cf. mastication
+  rule_ref: L11#2, L11#13
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-005
+  type: transformation
+  tier: primary
+  front_en: I exaggerate
+  back_es: exagero
+  hint: exagerar → ... · /j/→/kh/
+  rule_ref: L11#2
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-006
+  type: transformation
+  tier: primary
+  front_en: I collaborate
+  back_es: colaboro
+  hint: colaborar → ... · single l
+  rule_ref: L11#2
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-007
+  type: transformation
+  tier: primary
+  front_en: I invite
+  back_es: invito
+  hint: invitar → ...
+  rule_ref: L11#2
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
 - id: L11-008
   type: transformation
   tier: primary
@@ -83,6 +131,42 @@ cards:
   front_en: she eliminates
   back_es: elimina
   hint: eliminar → elimina
+  rule_ref: L11#4
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-012
+  type: transformation
+  tier: primary
+  front_en: he exaggerates
+  back_es: exagera
+  hint: exagerar → ...
+  rule_ref: L11#4
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-013
+  type: transformation
+  tier: primary
+  front_en: he collaborates
+  back_es: colabora
+  hint: colaborar → ...
+  rule_ref: L11#4
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-014
+  type: transformation
+  tier: primary
+  front_en: she invites
+  back_es: invita
+  hint: invitar → ...
   rule_ref: L11#4
   lessons:
   - 11
@@ -273,6 +357,30 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L11-031
+  type: sentence
+  tier: primary
+  front_en: I must invite him. (Debo…)
+  back_es: Debo invitarlo.
+  hint: '*debo* = I must · attach to to-form'
+  rule_ref: L11#10
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-032
+  type: sentence
+  tier: primary
+  front_en: I must invite him. (Lo…)
+  back_es: Lo debo invitar.
+  hint: same meaning · *lo* up front
+  rule_ref: L11#10
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
 - id: L11-033
   type: sentence
   tier: primary
@@ -292,6 +400,30 @@ cards:
   back_es: googleo
   hint: googlear → googleo · new verbs all -ar
   rule_ref: L11#1, L11#2
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-035
+  type: transformation
+  tier: extended
+  front_en: they tolerate
+  back_es: toleran
+  hint: tolera + n
+  rule_ref: L11#5
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-036
+  type: transformation
+  tier: extended
+  front_en: you tolerate
+  back_es: toleras
+  hint: tolera + s · informal
+  rule_ref: L11#5
   lessons:
   - 11
   directions:
@@ -328,6 +460,18 @@ cards:
   back_es: Lo tolero.
   hint: '*lo* before changed verb'
   rule_ref: L11#9, L11#11
+  lessons:
+  - 11
+  directions:
+  - en_es
+  - es_en
+- id: L11-040
+  type: sentence
+  tier: extended
+  front_en: I want to tolerate it.
+  back_es: Quiero tolerarlo.
+  hint: '*-lo* on the to-form'
+  rule_ref: L11#10
   lessons:
   - 11
   directions:
@@ -414,6 +558,19 @@ cards:
   hint: vende + s · informal
   rule_ref: L12#3, L12#4
   lessons:
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-005
+  type: transformation
+  tier: primary
+  front_en: I eat
+  back_es: como
+  hint: comer → ... · also = *how* or *like*
+  rule_ref: L11#2, L12#4
+  lessons:
+  - 11
   - 12
   directions:
   - en_es
@@ -520,6 +677,66 @@ cards:
   front_en: creativity
   back_es: creatividad
   hint: -ity → -idad · feminine
+  rule_ref: L12#13
+  lessons:
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-016
+  type: transformation
+  tier: primary
+  front_en: electricity
+  back_es: electricidad
+  hint: -ity → -idad · feminine
+  rule_ref: L12#13
+  lessons:
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-017
+  type: transformation
+  tier: primary
+  front_en: generosity
+  back_es: generosidad
+  hint: -ity → -idad · /j/→/kh/
+  rule_ref: L12#13
+  lessons:
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-018
+  type: transformation
+  tier: primary
+  front_en: community
+  back_es: comunidad
+  hint: -ity → -idad · cf. *común* (irreg)
+  rule_ref: L12#13, L12#17
+  lessons:
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-019
+  type: transformation
+  tier: primary
+  front_en: opportunity
+  back_es: oportunidad
+  hint: -ity → -idad · single p
+  rule_ref: L12#13
+  lessons:
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-020
+  type: transformation
+  tier: primary
+  front_en: personality
+  back_es: personalidad
+  hint: -ity → -idad · cf. *persona*
   rule_ref: L12#13
   lessons:
   - 12
@@ -731,6 +948,117 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L12-038
+  type: sentence
+  tier: primary
+  front_en: Why don't they sell it to us?
+  back_es: ¿Por qué no nos lo venden?
+  hint: full stack
+  rule_ref: L12#19, L12#20
+  lessons:
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-039
+  type: sentence
+  tier: primary
+  front_en: I want to sell it. (Quiero…)
+  back_es: Quiero venderlo.
+  hint: '*-lo* attached to to-form'
+  rule_ref: L11#10, L12#4
+  lessons:
+  - 11
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-040
+  type: sentence
+  tier: primary
+  front_en: I want to sell it. (Lo…)
+  back_es: Lo quiero vender.
+  hint: same meaning · *lo* up front
+  rule_ref: L11#10, L12#4
+  lessons:
+  - 11
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-041
+  type: transformation
+  tier: extended
+  front_en: contamination
+  back_es: contaminación
+  hint: -tion → -ción · cf. *contaminar*
+  rule_ref: L12#11, L12#12
+  lessons:
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-043
+  type: transformation
+  tier: extended
+  front_en: clarity
+  back_es: claridad
+  hint: -ity → -idad · cf. *claro*
+  rule_ref: L12#13
+  lessons:
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-044
+  type: transformation
+  tier: extended
+  front_en: sincerity
+  back_es: sinceridad
+  hint: -ity → -idad · cf. *sincero*
+  rule_ref: L12#13
+  lessons:
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-045
+  type: transformation
+  tier: extended
+  front_en: opportune
+  back_es: oportuno
+  hint: from *oportunidad*
+  rule_ref: L12#15
+  lessons:
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-046
+  type: transformation
+  tier: extended
+  front_en: sincere
+  back_es: sincero
+  hint: from *sinceridad*
+  rule_ref: L12#15
+  lessons:
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-047
+  type: transformation
+  tier: extended
+  front_en: to contaminate
+  back_es: contaminar
+  hint: -ar verb · cf. *contaminación*
+  rule_ref: L11#1
+  lessons:
+  - 11
+  - 12
+  directions:
+  - en_es
+  - es_en
 - id: L12-048
   type: transformation
   tier: extended
@@ -776,6 +1104,30 @@ cards:
   back_es: Vende la casa.
   hint: '*la casa* feminine'
   rule_ref: L12#7, L12#10
+  lessons:
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-052
+  type: sentence
+  tier: extended
+  front_en: He's selling it.
+  back_es: La vende.
+  hint: '*la* = it (fem.) for *casa*'
+  rule_ref: L12#7, L12#8
+  lessons:
+  - 12
+  directions:
+  - en_es
+  - es_en
+- id: L12-053
+  type: sentence
+  tier: extended
+  front_en: I'm not selling it to you.
+  back_es: No te lo vendo.
+  hint: no + te + lo + verb
+  rule_ref: L12#19, L12#20
   lessons:
   - 12
   directions:
@@ -1228,6 +1580,58 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L13-039
+  type: transformation
+  tier: extended
+  front_en: to buy
+  back_es: comprar
+  hint: -ar verb
+  rule_ref: L11#1
+  lessons:
+  - 11
+  - 13
+  directions:
+  - en_es
+  - es_en
+- id: L13-040
+  type: transformation
+  tier: extended
+  front_en: I buy
+  back_es: compro
+  hint: comprar → ...
+  rule_ref: L11#2
+  lessons:
+  - 11
+  - 13
+  directions:
+  - en_es
+  - es_en
+- id: L13-041
+  type: transformation
+  tier: extended
+  front_en: to arrive
+  back_es: llegar
+  hint: -ar verb · *ll* = /y/
+  rule_ref: L11#1
+  lessons:
+  - 11
+  - 13
+  directions:
+  - en_es
+  - es_en
+- id: L13-042
+  type: transformation
+  tier: extended
+  front_en: I arrive
+  back_es: llego
+  hint: llegar → ...
+  rule_ref: L11#2
+  lessons:
+  - 11
+  - 13
+  directions:
+  - en_es
+  - es_en
 - id: L13-043
   type: sentence
   tier: primary
@@ -1237,6 +1641,18 @@ cards:
   rule_ref: L13#3, L11#9
   lessons:
   - 11
+  - 13
+  directions:
+  - en_es
+  - es_en
+- id: L13-044
+  type: sentence
+  tier: extended
+  front_en: I can come.
+  back_es: Puedo venir.
+  hint: '*puedo* + to-form · no *a*'
+  rule_ref: L13#5, L13#6
+  lessons:
   - 13
   directions:
   - en_es

@@ -270,6 +270,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L50-031
+  type: sentence
+  tier: primary
+  front_en: I have bought it because of you.
+  back_es: Lo he comprado por ti.
+  hint: he + participle
+  rule_ref: L50#7, L50#9
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
 - id: L50-032
   type: sentence
   tier: primary
@@ -313,6 +325,126 @@ cards:
   back_es: Me quedaría tres días, pero tengo que trabajar.
   hint: would + but-clause
   rule_ref: L50#16, L50#17
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: L50-036
+  type: transformation
+  tier: extended
+  front_en: for us
+  back_es: para nosotros
+  hint: regular pronoun after prep
+  rule_ref: L50#4
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: L50-037
+  type: transformation
+  tier: extended
+  front_en: from him
+  back_es: de él
+  hint: after de
+  rule_ref: L50#3, L50#4
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: L50-038
+  type: transformation
+  tier: extended
+  front_en: I will buy
+  back_es: compraré
+  hint: 'future: comprar + -é'
+  rule_ref: L50#14
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: L50-039
+  type: transformation
+  tier: extended
+  front_en: I would buy
+  back_es: compraría
+  hint: 'would: comprar + -ía'
+  rule_ref: L50#16
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: L50-040
+  type: sentence
+  tier: extended
+  front_en: For this reason, I don't want to come.
+  back_es: Por esta razón, no quiero venir.
+  hint: por = because of
+  rule_ref: L50#7, L50#8
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: L50-041
+  type: sentence
+  tier: extended
+  front_en: I would buy it for her.
+  back_es: Lo compraría para ella.
+  hint: would + destined for
+  rule_ref: L50#2, L50#16
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: L50-042
+  type: sentence
+  tier: extended
+  front_en: I would like to stay for three days.
+  back_es: Me gustaría quedarme por tres días.
+  hint: me gustaría + 'to' form
+  rule_ref: L50#16, L50#11
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: L50-043
+  type: sentence
+  tier: extended
+  front_en: Why don't you want to come? (informal)
+  back_es: ¿Por qué no quieres venir?
+  hint: por qué + question
+  rule_ref: L50#7
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: L50-044
+  type: sentence
+  tier: extended
+  front_en: These are for him.
+  back_es: Estos son para él.
+  hint: plural masc + para él
+  rule_ref: L50#6, L50#4
+  lessons:
+  - 50
+  directions:
+  - en_es
+  - es_en
+- id: L50-045
+  type: sentence
+  tier: extended
+  front_en: I'm not staying every day.
+  back_es: No me quedo todos los días.
+  hint: negative + every day
+  rule_ref: L50#13
   lessons:
   - 50
   directions:
@@ -630,6 +762,138 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L51-031
+  type: transformation
+  tier: extended
+  front_en: I was (estar past)
+  back_es: estaba
+  hint: estar line-past · I/he/she
+  rule_ref: L51#12
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: L51-032
+  type: transformation
+  tier: extended
+  front_en: you were (estar past, informal)
+  back_es: estabas
+  hint: -as for you-informal
+  rule_ref: L51#12
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: L51-033
+  type: transformation
+  tier: extended
+  front_en: they were (estar past)
+  back_es: estaban
+  hint: -an for they
+  rule_ref: L51#12
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: L51-034
+  type: transformation
+  tier: extended
+  front_en: creation
+  back_es: creación
+  hint: from crear · -ación
+  rule_ref: L51#14
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: L51-036
+  type: sentence
+  tier: extended
+  front_en: I would change those (fem) for these (fem).
+  back_es: Cambiaría esas por estas.
+  hint: fem plural pair · por = exchange
+  rule_ref: L51#5, L51#6
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: L51-037
+  type: sentence
+  tier: extended
+  front_en: Are you tired of working? (fem)
+  back_es: ¿Estás cansada de trabajar?
+  hint: estar + cansada + de
+  rule_ref: L51#11, L51#10
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: L51-038
+  type: sentence
+  tier: extended
+  front_en: I don't believe in arguing about it.
+  back_es: No creo en discutirlo.
+  hint: object on 'to' form
+  rule_ref: L51#15, L51#8
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: L51-039
+  type: sentence
+  tier: extended
+  front_en: In this way it is possible.
+  back_es: De esta forma es posible.
+  hint: de esta forma, not en
+  rule_ref: L51#18
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: L51-040
+  type: sentence
+  tier: extended
+  front_en: Currently, my job is interesting.
+  back_es: Actualmente, mi trabajo es interesante.
+  hint: false-friend currently
+  rule_ref: L51#17
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: L51-041
+  type: sentence
+  tier: extended
+  front_en: It's because of you that I'm tired. (fem)
+  back_es: Es por ti que estoy cansada.
+  hint: es … que · por = because of
+  rule_ref: L51#3, L51#10
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
+- id: L51-042
+  type: sentence
+  tier: extended
+  front_en: I have come because of her.
+  back_es: He venido por ella.
+  hint: por ella · never porque de
+  rule_ref: L51#4
+  lessons:
+  - 51
+  directions:
+  - en_es
+  - es_en
 - id: L52-001
   type: sentence
   tier: primary
@@ -906,6 +1170,151 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L52-030
+  type: transformation
+  tier: primary
+  front_en: Thursday
+  back_es: jueves
+  hint: from Jupiter · /khe/
+  rule_ref: L52#19
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: L52-031
+  type: transformation
+  tier: primary
+  front_en: Friday
+  back_es: viernes
+  hint: from Venus
+  rule_ref: L52#19
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: L52-032
+  type: transformation
+  tier: extended
+  front_en: to swim
+  back_es: nadar
+  hint: -ar verb
+  rule_ref: L52#14
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: L52-034
+  type: transformation
+  tier: extended
+  front_en: health
+  back_es: salud
+  hint: the toast
+  rule_ref: L52#15
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: L52-036
+  type: transformation
+  tier: extended
+  front_en: the waning moon
+  back_es: la luna menguante
+  hint: adjective uses -ante, not -ando
+  rule_ref: L52#18
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: L52-037
+  type: sentence
+  tier: extended
+  front_en: We are taking a Spanish course.
+  back_es: Estamos tomando un curso de español.
+  hint: estamos + -ando
+  rule_ref: L52#7, L52#11
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: L52-038
+  type: sentence
+  tier: extended
+  front_en: I am here to call you.
+  back_es: Estoy aquí para llamarte.
+  hint: in-order-to → para
+  rule_ref: L52#1, L52#5
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: L52-039
+  type: sentence
+  tier: extended
+  front_en: It is frustrating.
+  back_es: Es frustrante.
+  hint: -ar → -ante
+  rule_ref: L52#17
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: L52-040
+  type: sentence
+  tier: extended
+  front_en: Dancing is interesting.
+  back_es: Bailar es interesante.
+  hint: general → 'to' form
+  rule_ref: L52#14, L52#17
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: L52-041
+  type: sentence
+  tier: extended
+  front_en: I'm tired of dancing on Mondays.
+  back_es: Estoy cansada de bailar los lunes.
+  hint: 'after de: ''to'' form · ''on Mondays'' = los lunes'
+  rule_ref: L52#19, L51#11
+  lessons:
+  - 51
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: L52-042
+  type: sentence
+  tier: extended
+  front_en: Thursday is irritating.
+  back_es: El jueves es irritante.
+  hint: el + day · -ante
+  rule_ref: L52#19, L52#17
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
+- id: L52-043
+  type: sentence
+  tier: extended
+  front_en: I'm calling you to explain it.
+  back_es: Te llamo para explicarlo.
+  hint: para = in order to
+  rule_ref: L52#1, L52#5
+  lessons:
+  - 52
+  directions:
+  - en_es
+  - es_en
 - id: L53-001
   type: transformation
   tier: primary
@@ -1170,307 +1579,6 @@ cards:
   directions:
   - en_es
   - es_en
-- id: L50-036
-  type: transformation
-  tier: extended
-  front_en: for us
-  back_es: para nosotros
-  hint: regular pronoun after prep
-  rule_ref: L50#4
-  lessons:
-  - 50
-  directions:
-  - en_es
-  - es_en
-- id: L50-037
-  type: transformation
-  tier: extended
-  front_en: from him
-  back_es: de él
-  hint: after de
-  rule_ref: L50#3, L50#4
-  lessons:
-  - 50
-  directions:
-  - en_es
-  - es_en
-- id: L50-038
-  type: transformation
-  tier: extended
-  front_en: I will buy
-  back_es: compraré
-  hint: 'future: comprar + -é'
-  rule_ref: L50#14
-  lessons:
-  - 50
-  directions:
-  - en_es
-  - es_en
-- id: L50-039
-  type: transformation
-  tier: extended
-  front_en: I would buy
-  back_es: compraría
-  hint: 'would: comprar + -ía'
-  rule_ref: L50#16
-  lessons:
-  - 50
-  directions:
-  - en_es
-  - es_en
-- id: L50-042
-  type: sentence
-  tier: extended
-  front_en: I would like to stay for three days.
-  back_es: Me gustaría quedarme por tres días.
-  hint: me gustaría + 'to' form
-  rule_ref: L50#16, L50#11
-  lessons:
-  - 50
-  directions:
-  - en_es
-  - es_en
-- id: L50-044
-  type: sentence
-  tier: extended
-  front_en: These are for him.
-  back_es: Estos son para él.
-  hint: plural masc + para él
-  rule_ref: L50#6, L50#4
-  lessons:
-  - 50
-  directions:
-  - en_es
-  - es_en
-- id: L50-045
-  type: sentence
-  tier: extended
-  front_en: I'm not staying every day.
-  back_es: No me quedo todos los días.
-  hint: negative + every day
-  rule_ref: L50#13
-  lessons:
-  - 50
-  directions:
-  - en_es
-  - es_en
-- id: L51-031
-  type: transformation
-  tier: extended
-  front_en: I was (estar past)
-  back_es: estaba
-  hint: estar line-past · I/he/she
-  rule_ref: L51#12
-  lessons:
-  - 51
-  directions:
-  - en_es
-  - es_en
-- id: L51-032
-  type: transformation
-  tier: extended
-  front_en: you were (estar past, informal)
-  back_es: estabas
-  hint: -as for you-informal
-  rule_ref: L51#12
-  lessons:
-  - 51
-  directions:
-  - en_es
-  - es_en
-- id: L51-033
-  type: transformation
-  tier: extended
-  front_en: they were (estar past)
-  back_es: estaban
-  hint: -an for they
-  rule_ref: L51#12
-  lessons:
-  - 51
-  directions:
-  - en_es
-  - es_en
-- id: L51-034
-  type: transformation
-  tier: extended
-  front_en: creation
-  back_es: creación
-  hint: from crear · -ación
-  rule_ref: L51#14
-  lessons:
-  - 51
-  directions:
-  - en_es
-  - es_en
-- id: L51-037
-  type: sentence
-  tier: extended
-  front_en: Are you tired of working? (fem)
-  back_es: ¿Estás cansada de trabajar?
-  hint: estar + cansada + de
-  rule_ref: L51#11, L51#10
-  lessons:
-  - 51
-  directions:
-  - en_es
-  - es_en
-- id: L51-038
-  type: sentence
-  tier: extended
-  front_en: I don't believe in arguing about it.
-  back_es: No creo en discutirlo.
-  hint: object on 'to' form
-  rule_ref: L51#15, L51#8
-  lessons:
-  - 51
-  directions:
-  - en_es
-  - es_en
-- id: L51-039
-  type: sentence
-  tier: extended
-  front_en: In this way it is possible.
-  back_es: De esta forma es posible.
-  hint: de esta forma, not en
-  rule_ref: L51#18
-  lessons:
-  - 51
-  directions:
-  - en_es
-  - es_en
-- id: L51-040
-  type: sentence
-  tier: extended
-  front_en: Currently, my job is interesting.
-  back_es: Actualmente, mi trabajo es interesante.
-  hint: false-friend currently
-  rule_ref: L51#17
-  lessons:
-  - 51
-  directions:
-  - en_es
-  - es_en
-- id: L51-041
-  type: sentence
-  tier: extended
-  front_en: It's because of you that I'm tired. (fem)
-  back_es: Es por ti que estoy cansada.
-  hint: es … que · por = because of
-  rule_ref: L51#3, L51#10
-  lessons:
-  - 51
-  directions:
-  - en_es
-  - es_en
-- id: L51-042
-  type: sentence
-  tier: extended
-  front_en: I have come because of her.
-  back_es: He venido por ella.
-  hint: por ella · never porque de
-  rule_ref: L51#4
-  lessons:
-  - 51
-  directions:
-  - en_es
-  - es_en
-- id: L52-032
-  type: transformation
-  tier: extended
-  front_en: to swim
-  back_es: nadar
-  hint: -ar verb
-  rule_ref: L52#14
-  lessons:
-  - 52
-  directions:
-  - en_es
-  - es_en
-- id: L52-034
-  type: transformation
-  tier: extended
-  front_en: health
-  back_es: salud
-  hint: the toast
-  rule_ref: L52#15
-  lessons:
-  - 52
-  directions:
-  - en_es
-  - es_en
-- id: L52-036
-  type: transformation
-  tier: extended
-  front_en: the waning moon
-  back_es: la luna menguante
-  hint: adjective uses -ante, not -ando
-  rule_ref: L52#18
-  lessons:
-  - 52
-  directions:
-  - en_es
-  - es_en
-- id: L52-037
-  type: sentence
-  tier: extended
-  front_en: We are taking a Spanish course.
-  back_es: Estamos tomando un curso de español.
-  hint: estamos + -ando
-  rule_ref: L52#7, L52#11
-  lessons:
-  - 52
-  directions:
-  - en_es
-  - es_en
-- id: L52-039
-  type: sentence
-  tier: extended
-  front_en: It is frustrating.
-  back_es: Es frustrante.
-  hint: -ar → -ante
-  rule_ref: L52#17
-  lessons:
-  - 52
-  directions:
-  - en_es
-  - es_en
-- id: L52-040
-  type: sentence
-  tier: extended
-  front_en: Dancing is interesting.
-  back_es: Bailar es interesante.
-  hint: general → 'to' form
-  rule_ref: L52#14, L52#17
-  lessons:
-  - 52
-  directions:
-  - en_es
-  - es_en
-- id: L52-041
-  type: sentence
-  tier: extended
-  front_en: I'm tired of dancing on Mondays.
-  back_es: Estoy cansada de bailar los lunes.
-  hint: 'after de: ''to'' form · ''on Mondays'' = los lunes'
-  rule_ref: L52#19, L51#11
-  lessons:
-  - 51
-  - 52
-  directions:
-  - en_es
-  - es_en
-- id: L52-042
-  type: sentence
-  tier: extended
-  front_en: Thursday is irritating.
-  back_es: El jueves es irritante.
-  hint: el + day · -ante
-  rule_ref: L52#19, L52#17
-  lessons:
-  - 52
-  directions:
-  - en_es
-  - es_en
 - id: L53-031
   type: transformation
   tier: extended
@@ -1531,6 +1639,30 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L53-036
+  type: sentence
+  tier: extended
+  front_en: They had already dined.
+  back_es: Ya habían cenado.
+  hint: ya + they form
+  rule_ref: L53#9, L53#11
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: L53-038
+  type: sentence
+  tier: extended
+  front_en: We had already lost it.
+  back_es: Ya lo habíamos perdido.
+  hint: we form + ya
+  rule_ref: L53#9, L53#11
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
 - id: L53-039
   type: sentence
   tier: extended
@@ -1551,6 +1683,31 @@ cards:
   hint: would-ending on cenar · conmigo
   rule_ref: L53#13
   lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: L53-041
+  type: sentence
+  tier: extended
+  front_en: I couldn't dine with him yesterday.
+  back_es: No podía cenar con él ayer.
+  hint: past could + ayer
+  rule_ref: L53#3, L53#8
+  lessons:
+  - 53
+  directions:
+  - en_es
+  - es_en
+- id: L53-042
+  type: sentence
+  tier: extended
+  front_en: He had been looking for it.
+  back_es: Lo había estado buscando.
+  hint: había + estado + gerund (pluperfect-progressive)
+  rule_ref: L53#9, L52#7
+  lessons:
+  - 52
   - 53
   directions:
   - en_es

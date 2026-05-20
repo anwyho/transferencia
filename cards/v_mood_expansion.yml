@@ -391,6 +391,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L74-043
+  type: sentence
+  tier: primary
+  front_en: It's a fact.
+  back_es: Es un hecho.
+  hint: hecho also = fact
+  rule_ref: L74#13
+  lessons:
+  - 74
+  directions:
+  - en_es
+  - es_en
 - id: L74-044
   type: sentence
   tier: primary
@@ -403,6 +415,148 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L74-046
+  type: transformation
+  tier: extended
+  front_en: to find
+  back_es: encontrar
+  hint: o→ue family
+  rule_ref: L74#5
+  lessons:
+  - 74
+  directions:
+  - en_es
+  - es_en
+- id: L74-047
+  type: transformation
+  tier: extended
+  front_en: to meet up / find oneself
+  back_es: encontrarse
+  hint: reflexive -se
+  rule_ref: L74#5
+  lessons:
+  - 74
+  directions:
+  - en_es
+  - es_en
+- id: L74-048
+  type: transformation
+  tier: extended
+  front_en: to stir (Spanish)
+  back_es: revolver
+  hint: false friend · not 'revolve'
+  rule_ref: L74#10
+  lessons:
+  - 74
+  directions:
+  - en_es
+  - es_en
+- id: L74-049
+  type: transformation
+  tier: extended
+  front_en: pa (casual short of para)
+  back_es: pa
+  hint: dialect drop
+  rule_ref: L74#14
+  lessons:
+  - 74
+  directions:
+  - en_es
+- id: L74-050
+  type: sentence
+  tier: extended
+  front_en: I don't want it to break on me.
+  back_es: No quiero que se me rompa.
+  hint: -se + me · doer absent
+  rule_ref: L74#5, L74#6
+  lessons:
+  - 74
+  directions:
+  - en_es
+  - es_en
+- id: L74-051
+  type: sentence
+  tier: extended
+  front_en: We've cooked so you also eat.
+  back_es: Hemos cocinado para que tú también comas.
+  hint: para que + tú + también
+  rule_ref: L74#8, L74#16
+  lessons:
+  - 74
+  directions:
+  - en_es
+  - es_en
+- id: L74-052
+  type: sentence
+  tier: extended
+  front_en: I choose what I want.
+  back_es: Elijo lo que quiero.
+  hint: known choice → present (no mood)
+  rule_ref: L74#3
+  lessons:
+  - 74
+  directions:
+  - en_es
+  - es_en
+- id: L74-053
+  type: sentence
+  tier: extended
+  front_en: They return when they want.
+  back_es: Vuelven cuando quieren.
+  hint: general truth → present
+  rule_ref: L74#11
+  lessons:
+  - 74
+  directions:
+  - en_es
+  - es_en
+- id: L74-054
+  type: sentence
+  tier: extended
+  front_en: I want them to return.
+  back_es: Quiero que vuelvan.
+  hint: quiero que → mood
+  rule_ref: L74#12
+  lessons:
+  - 74
+  directions:
+  - en_es
+  - es_en
+- id: L74-055
+  type: sentence
+  tier: extended
+  front_en: So that we come back together.
+  back_es: Para que volvamos juntos.
+  hint: para que + mood we
+  rule_ref: L74#8, L74#12
+  lessons:
+  - 74
+  directions:
+  - en_es
+  - es_en
+- id: L74-056
+  type: sentence
+  tier: extended
+  front_en: I've cooked too.
+  back_es: He cocinado también.
+  hint: he + past part. + también
+  rule_ref: L74#16
+  lessons:
+  - 74
+  directions:
+  - en_es
+  - es_en
+- id: L74-057
+  type: sentence
+  tier: extended
+  front_en: It's a done fact.
+  back_es: Es un hecho hecho.
+  hint: hecho twice · 'done fact'
+  rule_ref: L74#13
+  lessons:
+  - 74
+  directions:
+  - en_es
 - id: L75-001
   type: transformation
   tier: primary
@@ -671,6 +825,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L75-029
+  type: sentence
+  tier: primary
+  front_en: Do whatever you prefer.
+  back_es: Haz lo que prefieras.
+  hint: haz + lo que + mood
+  rule_ref: L75#1, L75#2, L75#7
+  lessons:
+  - 75
+  directions:
+  - en_es
+  - es_en
 - id: L75-030
   type: sentence
   tier: primary
@@ -762,6 +928,162 @@ cards:
   back_es: Lo persigo.
   hint: lo + e→i form
   rule_ref: L75#14
+  lessons:
+  - 75
+  directions:
+  - en_es
+  - es_en
+- id: L75-041
+  type: sentence
+  tier: extended
+  front_en: Do it like this.
+  back_es: Hazlo así.
+  hint: command + así
+  rule_ref: L75#1, L75#18
+  lessons:
+  - 75
+  directions:
+  - en_es
+  - es_en
+- id: L75-042
+  type: sentence
+  tier: extended
+  front_en: I'll go wherever you want.
+  back_es: Voy adonde quieras.
+  hint: voy + adonde + mood
+  rule_ref: L75#15
+  lessons:
+  - 75
+  directions:
+  - en_es
+  - es_en
+- id: L75-043
+  type: sentence
+  tier: extended
+  front_en: I'll do whatever you want.
+  back_es: Hago lo que quieras.
+  hint: lo que + mood
+  rule_ref: L75#2, L75#7
+  lessons:
+  - 75
+  directions:
+  - en_es
+  - es_en
+- id: L75-044
+  type: sentence
+  tier: extended
+  front_en: We'll speak whenever you want.
+  back_es: Hablamos cuando quieras.
+  hint: cuando + mood (future)
+  rule_ref: L75#10
+  lessons:
+  - 75
+  directions:
+  - en_es
+  - es_en
+- id: L75-045
+  type: sentence
+  tier: extended
+  front_en: Continue however you can.
+  back_es: Sigue como puedas.
+  hint: command + como + mood
+  rule_ref: L75#5, L75#12
+  lessons:
+  - 75
+  directions:
+  - en_es
+  - es_en
+- id: L75-046
+  type: sentence
+  tier: extended
+  front_en: I follow you wherever you go.
+  back_es: Te sigo adonde vayas.
+  hint: te sigo + mood ir
+  rule_ref: L75#12, L75#15
+  lessons:
+  - 75
+  directions:
+  - en_es
+  - es_en
+- id: L75-047
+  type: sentence
+  tier: extended
+  front_en: We chase whoever runs.
+  back_es: Perseguimos a quien corra.
+  hint: a quien + mood
+  rule_ref: L75#2, L75#14
+  lessons:
+  - 75
+  directions:
+  - en_es
+  - es_en
+- id: L75-048
+  type: sentence
+  tier: extended
+  front_en: I want it to be like this.
+  back_es: Quiero que sea así.
+  hint: quiero que → mood ser
+  rule_ref: L75#16, L75#19
+  lessons:
+  - 75
+  directions:
+  - en_es
+  - es_en
+- id: L75-049
+  type: sentence
+  tier: extended
+  front_en: I don't want them to be like that.
+  back_es: No quiero que sean así.
+  hint: mood they form of ser
+  rule_ref: L75#16
+  lessons:
+  - 75
+  directions:
+  - en_es
+  - es_en
+- id: L75-050
+  type: sentence
+  tier: extended
+  front_en: I mean, like this.
+  back_es: O sea, así.
+  hint: filler + así
+  rule_ref: L75#17, L75#18
+  lessons:
+  - 75
+  directions:
+  - en_es
+  - es_en
+- id: L75-051
+  type: sentence
+  tier: extended
+  front_en: Whatever it is, I'll be here.
+  back_es: Sea lo que sea, estaré aquí.
+  hint: idiom + future estar
+  rule_ref: L75#20
+  lessons:
+  - 75
+  directions:
+  - en_es
+  - es_en
+- id: L75-052
+  type: sentence
+  tier: extended
+  front_en: I get whatever I want.
+  back_es: Consigo lo que quiero.
+  hint: known truth → present
+  rule_ref: L75#14
+  lessons:
+  - 75
+  directions:
+  - en_es
+  - es_en
+- id: L75-053
+  type: sentence
+  tier: extended
+  front_en: Get whatever you can.
+  back_es: Consigue lo que puedas.
+  hint: command + lo que + mood
+  rule_ref: L75#2, L75#14
   lessons:
   - 75
   directions:
@@ -894,6 +1216,90 @@ cards:
   back_es: ¿Hay alguien que pueda hablar?
   hint: unknown existence → mood
   rule_ref: L76#4
+  lessons:
+  - 76
+  directions:
+  - en_es
+  - es_en
+- id: L76-019
+  type: sentence
+  tier: extended
+  front_en: Is there anybody who knows?
+  back_es: ¿Hay alguien que sepa?
+  hint: unknown → mood saber
+  rule_ref: L76#4
+  lessons:
+  - 76
+  directions:
+  - en_es
+  - es_en
+- id: L76-020
+  type: sentence
+  tier: extended
+  front_en: There must be a way.
+  back_es: Tiene que haber una forma.
+  hint: be = exist → haber
+  rule_ref: L76#10
+  lessons:
+  - 76
+  directions:
+  - en_es
+  - es_en
+- id: L76-021
+  type: sentence
+  tier: extended
+  front_en: There must be something better.
+  back_es: Tiene que haber algo mejor.
+  hint: be = exist → haber
+  rule_ref: L76#10
+  lessons:
+  - 76
+  directions:
+  - en_es
+  - es_en
+- id: L76-022
+  type: sentence
+  tier: extended
+  front_en: There were people who lived here.
+  back_es: Había personas que vivían aquí.
+  hint: line-past for characteristic
+  rule_ref: L76#6, L76#8
+  lessons:
+  - 76
+  directions:
+  - en_es
+  - es_en
+- id: L76-023
+  type: sentence
+  tier: extended
+  front_en: Is there something I can do?
+  back_es: ¿Hay algo que pueda hacer?
+  hint: unknown → mood poder
+  rule_ref: L76#4, L76#10
+  lessons:
+  - 76
+  directions:
+  - en_es
+  - es_en
+- id: L76-024
+  type: sentence
+  tier: extended
+  front_en: There has to be a reason.
+  back_es: Tiene que haber una razón.
+  hint: tiene que haber + noun
+  rule_ref: L76#10
+  lessons:
+  - 76
+  directions:
+  - en_es
+  - es_en
+- id: L76-025
+  type: sentence
+  tier: extended
+  front_en: There were many people.
+  back_es: Había muchas personas.
+  hint: había never plural-changes
+  rule_ref: L76#6
   lessons:
   - 76
   directions:
@@ -1091,293 +1497,6 @@ cards:
   directions:
   - en_es
   - es_en
-- id: L74-046
-  type: transformation
-  tier: extended
-  front_en: to find
-  back_es: encontrar
-  hint: o→ue family
-  rule_ref: L74#5
-  lessons:
-  - 74
-  directions:
-  - en_es
-  - es_en
-- id: L74-047
-  type: transformation
-  tier: extended
-  front_en: to meet up / find oneself
-  back_es: encontrarse
-  hint: reflexive -se
-  rule_ref: L74#5
-  lessons:
-  - 74
-  directions:
-  - en_es
-  - es_en
-- id: L74-048
-  type: transformation
-  tier: extended
-  front_en: to stir (Spanish)
-  back_es: revolver
-  hint: false friend · not 'revolve'
-  rule_ref: L74#10
-  lessons:
-  - 74
-  directions:
-  - en_es
-  - es_en
-- id: L74-049
-  type: transformation
-  tier: extended
-  front_en: pa (casual short of para)
-  back_es: pa
-  hint: dialect drop
-  rule_ref: L74#14
-  lessons:
-  - 74
-  directions:
-  - en_es
-- id: L74-050
-  type: sentence
-  tier: extended
-  front_en: I don't want it to break on me.
-  back_es: No quiero que se me rompa.
-  hint: -se + me · doer absent
-  rule_ref: L74#5, L74#6
-  lessons:
-  - 74
-  directions:
-  - en_es
-  - es_en
-- id: L74-052
-  type: sentence
-  tier: extended
-  front_en: I choose what I want.
-  back_es: Elijo lo que quiero.
-  hint: known choice → present (no mood)
-  rule_ref: L74#3
-  lessons:
-  - 74
-  directions:
-  - en_es
-  - es_en
-- id: L74-053
-  type: sentence
-  tier: extended
-  front_en: They return when they want.
-  back_es: Vuelven cuando quieren.
-  hint: general truth → present
-  rule_ref: L74#11
-  lessons:
-  - 74
-  directions:
-  - en_es
-  - es_en
-- id: L74-054
-  type: sentence
-  tier: extended
-  front_en: I want them to return.
-  back_es: Quiero que vuelvan.
-  hint: quiero que → mood
-  rule_ref: L74#12
-  lessons:
-  - 74
-  directions:
-  - en_es
-  - es_en
-- id: L74-056
-  type: sentence
-  tier: extended
-  front_en: I've cooked too.
-  back_es: He cocinado también.
-  hint: he + past part. + también
-  rule_ref: L74#16
-  lessons:
-  - 74
-  directions:
-  - en_es
-  - es_en
-- id: L75-042
-  type: sentence
-  tier: extended
-  front_en: I'll go wherever you want.
-  back_es: Voy adonde quieras.
-  hint: voy + adonde + mood
-  rule_ref: L75#15
-  lessons:
-  - 75
-  directions:
-  - en_es
-  - es_en
-- id: L75-043
-  type: sentence
-  tier: extended
-  front_en: I'll do whatever you want.
-  back_es: Hago lo que quieras.
-  hint: lo que + mood
-  rule_ref: L75#2, L75#7
-  lessons:
-  - 75
-  directions:
-  - en_es
-  - es_en
-- id: L75-044
-  type: sentence
-  tier: extended
-  front_en: We'll speak whenever you want.
-  back_es: Hablamos cuando quieras.
-  hint: cuando + mood (future)
-  rule_ref: L75#10
-  lessons:
-  - 75
-  directions:
-  - en_es
-  - es_en
-- id: L75-045
-  type: sentence
-  tier: extended
-  front_en: Continue however you can.
-  back_es: Sigue como puedas.
-  hint: command + como + mood
-  rule_ref: L75#5, L75#12
-  lessons:
-  - 75
-  directions:
-  - en_es
-  - es_en
-- id: L75-046
-  type: sentence
-  tier: extended
-  front_en: I follow you wherever you go.
-  back_es: Te sigo adonde vayas.
-  hint: te sigo + mood ir
-  rule_ref: L75#12, L75#15
-  lessons:
-  - 75
-  directions:
-  - en_es
-  - es_en
-- id: L75-047
-  type: sentence
-  tier: extended
-  front_en: We chase whoever runs.
-  back_es: Perseguimos a quien corra.
-  hint: a quien + mood
-  rule_ref: L75#2, L75#14
-  lessons:
-  - 75
-  directions:
-  - en_es
-  - es_en
-- id: L75-048
-  type: sentence
-  tier: extended
-  front_en: I want it to be like this.
-  back_es: Quiero que sea así.
-  hint: quiero que → mood ser
-  rule_ref: L75#16, L75#19
-  lessons:
-  - 75
-  directions:
-  - en_es
-  - es_en
-- id: L75-050
-  type: sentence
-  tier: extended
-  front_en: I mean, like this.
-  back_es: O sea, así.
-  hint: filler + así
-  rule_ref: L75#17, L75#18
-  lessons:
-  - 75
-  directions:
-  - en_es
-  - es_en
-- id: L75-051
-  type: sentence
-  tier: extended
-  front_en: Whatever it is, I'll be here.
-  back_es: Sea lo que sea, estaré aquí.
-  hint: idiom + future estar
-  rule_ref: L75#20
-  lessons:
-  - 75
-  directions:
-  - en_es
-  - es_en
-- id: L75-052
-  type: sentence
-  tier: extended
-  front_en: I get whatever I want.
-  back_es: Consigo lo que quiero.
-  hint: known truth → present
-  rule_ref: L75#14
-  lessons:
-  - 75
-  directions:
-  - en_es
-  - es_en
-- id: L75-053
-  type: sentence
-  tier: extended
-  front_en: Get whatever you can.
-  back_es: Consigue lo que puedas.
-  hint: command + lo que + mood
-  rule_ref: L75#2, L75#14
-  lessons:
-  - 75
-  directions:
-  - en_es
-  - es_en
-- id: L76-019
-  type: sentence
-  tier: extended
-  front_en: Is there anybody who knows?
-  back_es: ¿Hay alguien que sepa?
-  hint: unknown → mood saber
-  rule_ref: L76#4
-  lessons:
-  - 76
-  directions:
-  - en_es
-  - es_en
-- id: L76-020
-  type: sentence
-  tier: extended
-  front_en: There must be a way.
-  back_es: Tiene que haber una forma.
-  hint: be = exist → haber
-  rule_ref: L76#10
-  lessons:
-  - 76
-  directions:
-  - en_es
-  - es_en
-- id: L76-021
-  type: sentence
-  tier: extended
-  front_en: There must be something better.
-  back_es: Tiene que haber algo mejor.
-  hint: be = exist → haber
-  rule_ref: L76#10
-  lessons:
-  - 76
-  directions:
-  - en_es
-  - es_en
-- id: L76-022
-  type: sentence
-  tier: extended
-  front_en: There were people who lived here.
-  back_es: Había personas que vivían aquí.
-  hint: line-past for characteristic
-  rule_ref: L76#6, L76#8
-  lessons:
-  - 76
-  directions:
-  - en_es
-  - es_en
 - id: L77-029
   type: transformation
   tier: extended
@@ -1491,6 +1610,18 @@ cards:
   back_es: No hace falta que vengas.
   hint: no hace falta que → mood
   rule_ref: L77#17
+  lessons:
+  - 77
+  directions:
+  - en_es
+  - es_en
+- id: L77-039
+  type: sentence
+  tier: extended
+  front_en: It's possible we'll come back later.
+  back_es: Es posible que volvamos más tarde.
+  hint: es + adj + que → mood volver
+  rule_ref: L77#7, L77#8
   lessons:
   - 77
   directions:

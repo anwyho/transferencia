@@ -66,6 +66,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L54-006
+  type: transformation
+  tier: primary
+  front_en: wet (f sg)
+  back_es: mojada
+  hint: agrees with fem noun
+  rule_ref: L54#3
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
 - id: L54-007
   type: transformation
   tier: primary
@@ -162,6 +174,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L54-015
+  type: sentence
+  tier: primary
+  front_en: I am lost. (m)
+  back_es: Estoy perdido.
+  hint: estar + state
+  rule_ref: L54#4
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
 - id: L54-016
   type: sentence
   tier: primary
@@ -169,6 +193,18 @@ cards:
   back_es: Estoy perdida.
   hint: agrees with fem speaker
   rule_ref: L54#3, L54#4
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: L54-017
+  type: sentence
+  tier: primary
+  front_en: She is lost.
+  back_es: Está perdida.
+  hint: state → estar · fem
+  rule_ref: L54#4, L54#3
   lessons:
   - 54
   directions:
@@ -193,6 +229,42 @@ cards:
   back_es: Están vendidos.
   hint: state → estar · m pl
   rule_ref: L54#16
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: L54-020
+  type: sentence
+  tier: primary
+  front_en: It is finished. (m)
+  back_es: Está terminado.
+  hint: estar + state
+  rule_ref: L54#4
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: L54-021
+  type: sentence
+  tier: primary
+  front_en: The movie is finished.
+  back_es: La película está terminada.
+  hint: fem agreement
+  rule_ref: L54#4, L54#18
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: L54-022
+  type: sentence
+  tier: primary
+  front_en: I am tired. (f)
+  back_es: Estoy cansada.
+  hint: estar + state · fem speaker
+  rule_ref: L54#4, L54#13
   lessons:
   - 54
   directions:
@@ -270,6 +342,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L54-029
+  type: transformation
+  tier: extended
+  front_en: finished (f pl)
+  back_es: terminadas
+  hint: -ar → -ada → -adas
+  rule_ref: L54#3
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
 - id: L54-030
   type: sentence
   tier: extended
@@ -330,6 +414,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L54-035
+  type: sentence
+  tier: extended
+  front_en: The idea is lost.
+  back_es: La idea está perdida.
+  hint: state → estar · fem
+  rule_ref: L54#4, L54#17
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
 - id: L54-036
   type: sentence
   tier: extended
@@ -373,6 +469,54 @@ cards:
   back_es: hecho
   hint: irregular -cho · pair with dicho
   rule_ref: L55#10, L55#16
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-004
+  type: transformation
+  tier: primary
+  front_en: opened / open (irregular participle of abrir)
+  back_es: abierto
+  hint: irregular -to · /ie/ break
+  rule_ref: L55#10
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-005
+  type: transformation
+  tier: primary
+  front_en: dead (irregular participle of morir)
+  back_es: muerto
+  hint: irregular -to · /ue/ break
+  rule_ref: L55#10
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-006
+  type: transformation
+  tier: primary
+  front_en: to open
+  back_es: abrir
+  hint: -ir verb
+  rule_ref: L55#10
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-007
+  type: transformation
+  tier: primary
+  front_en: to die
+  back_es: morir
+  hint: -ir verb
+  rule_ref: L55#10
   lessons:
   - 55
   directions:
@@ -528,6 +672,54 @@ cards:
   back_es: Le he dicho.
   hint: le = to him/her
   rule_ref: L55#10
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-021
+  type: sentence
+  tier: primary
+  front_en: I have done it.
+  back_es: Lo he hecho.
+  hint: lo + haber + irreg part
+  rule_ref: L55#10
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-022
+  type: sentence
+  tier: primary
+  front_en: It is done.
+  back_es: Está hecho.
+  hint: estar + irreg part as adj
+  rule_ref: L55#11
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-023
+  type: sentence
+  tier: primary
+  front_en: Made in Spain.
+  back_es: Hecho en España.
+  hint: idiom · part as adj
+  rule_ref: L55#11
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-024
+  type: sentence
+  tier: primary
+  front_en: He has died.
+  back_es: Ha muerto.
+  hint: haber + irreg part
+  rule_ref: L55#10, L55#15
   lessons:
   - 55
   directions:
@@ -1045,6 +1237,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L56-028
+  type: transformation
+  tier: extended
+  front_en: which (relative, pl)
+  back_es: cuales
+  hint: matches plural
+  rule_ref: L56#7
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
 - id: L56-029
   type: transformation
   tier: extended
@@ -1105,6 +1309,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L56-034
+  type: sentence
+  tier: extended
+  front_en: The girl I was going with.
+  back_es: La chica con que iba.
+  hint: line-past iba
+  rule_ref: L56#5, L56#10
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
 - id: L56-035
   type: sentence
   tier: extended
@@ -1112,6 +1328,30 @@ cards:
   back_es: No sé con quiénes tengo que hacerlo.
   hint: con quiénes for plural
   rule_ref: L56#14, L56#16
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: L56-036
+  type: sentence
+  tier: extended
+  front_en: It's the girl I work with.
+  back_es: Es la chica con quien trabajo.
+  hint: ser + relative clause
+  rule_ref: L56#7
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: L56-037
+  type: sentence
+  tier: extended
+  front_en: Who is coming to the party?
+  back_es: ¿Quién viene a la fiesta?
+  hint: quién + viene
+  rule_ref: L56#13
   lessons:
   - 56
   directions:
@@ -1318,6 +1558,54 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L57-018
+  type: sentence
+  tier: primary
+  front_en: The easy thing
+  back_es: lo fácil
+  hint: lo + adj
+  rule_ref: L57#3, L57#6
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: L57-019
+  type: sentence
+  tier: primary
+  front_en: The interesting thing is they live here.
+  back_es: Lo interesante es que viven aquí.
+  hint: lo + adj + es que + clause
+  rule_ref: L57#3, L57#2
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: L57-020
+  type: sentence
+  tier: primary
+  front_en: The interesting thing is they live together.
+  back_es: Lo interesante es que viven juntos.
+  hint: juntos agrees with subject
+  rule_ref: L57#3, L57#5
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: L57-021
+  type: sentence
+  tier: primary
+  front_en: The easy thing is they come together.
+  back_es: Lo fácil es que vienen juntos.
+  hint: lo fácil + vienen
+  rule_ref: L57#3, L57#7
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
 - id: L57-022
   type: sentence
   tier: primary
@@ -1349,6 +1637,30 @@ cards:
   back_es: Hablamos de lo de la fiesta.
   hint: de + lo de — both fine
   rule_ref: L57#9, L57#10
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: L57-025
+  type: sentence
+  tier: primary
+  front_en: I don't want to talk about Juan's business like this.
+  back_es: No quiero hablar de lo de Juan así.
+  hint: lo de + así
+  rule_ref: L57#9, L57#13
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: L57-026
+  type: sentence
+  tier: primary
+  front_en: I want to organize tomorrow's thing.
+  back_es: Quiero organizar lo de mañana.
+  hint: lo de mañana = tomorrow's business
+  rule_ref: L57#9, L57#11
   lessons:
   - 57
   directions:
@@ -1447,6 +1759,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L57-035
+  type: sentence
+  tier: extended
+  front_en: We don't live together.
+  back_es: No vivimos juntos.
+  hint: -ir we + juntos agrees
+  rule_ref: L57#1, L57#5
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
 - id: L57-036
   type: sentence
   tier: extended
@@ -1454,6 +1778,30 @@ cards:
   back_es: Vienen juntas.
   hint: juntas agrees · all-fem
   rule_ref: L57#5, L57#7
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: L57-037
+  type: sentence
+  tier: extended
+  front_en: The bad thing is that he comes tomorrow.
+  back_es: Lo malo es que viene mañana.
+  hint: lo + adj + clause
+  rule_ref: L57#3
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: L57-038
+  type: sentence
+  tier: extended
+  front_en: The good thing is that we eat together.
+  back_es: Lo bueno es que comemos juntos.
+  hint: lo + adj + we + juntos
+  rule_ref: L57#3, L57#1
   lessons:
   - 57
   directions:

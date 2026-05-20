@@ -235,6 +235,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L8-021
+  type: transformation
+  tier: primary
+  front_en: to identify them (feminine)
+  back_es: identificarlas
+  hint: stick *las* on the end
+  rule_ref: L8#16
+  lessons:
+  - 8
+  directions:
+  - en_es
+  - es_en
 - id: L8-022
   type: sentence
   tier: primary
@@ -400,6 +412,17 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L8-036
+  type: sentence
+  tier: primary
+  front_en: I must identify them (fem).
+  back_es: Debo identificarlas.
+  rule_ref: L8#15, L8#16
+  lessons:
+  - 8
+  directions:
+  - en_es
+  - es_en
 - id: L8-037
   type: sentence
   tier: primary
@@ -423,12 +446,71 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L8-039
+  type: sentence
+  tier: primary
+  front_en: I must visit her.
+  back_es: Debo visitarla.
+  hint: '*la* sticks on the -r'
+  rule_ref: L8#15, L8#6
+  lessons:
+  - 8
+  directions:
+  - en_es
+  - es_en
 - id: L8-040
   type: sentence
   tier: primary
   front_en: I want to visit them (fem).
   back_es: Quiero visitarlas.
   rule_ref: L8#16
+  lessons:
+  - 8
+  directions:
+  - en_es
+  - es_en
+- id: L8-041
+  type: transformation
+  tier: extended
+  front_en: to visit him
+  back_es: visitarlo
+  hint: stick *lo* on -r
+  rule_ref: L8#6
+  lessons:
+  - 8
+  directions:
+  - en_es
+  - es_en
+- id: L8-042
+  type: transformation
+  tier: extended
+  front_en: to visit them (feminine)
+  back_es: visitarlas
+  hint: stick *las* on -r
+  rule_ref: L8#16
+  lessons:
+  - 8
+  directions:
+  - en_es
+  - es_en
+- id: L8-043
+  type: transformation
+  tier: extended
+  front_en: to visit her
+  back_es: visitarla
+  hint: stick *la* on -r
+  rule_ref: L8#6
+  lessons:
+  - 8
+  directions:
+  - en_es
+  - es_en
+- id: L8-044
+  type: sentence
+  tier: extended
+  front_en: Why don't you want to come home?
+  back_es: ¿Por qué no quiere venir a la casa?
+  rule_ref: L8#10, L8#14
   lessons:
   - 8
   directions:
@@ -453,6 +535,28 @@ cards:
   front_en: I want to come home.
   back_es: Quiero venir a la casa.
   rule_ref: L8#14, L8#12
+  lessons:
+  - 8
+  directions:
+  - en_es
+  - es_en
+- id: L8-047
+  type: sentence
+  tier: extended
+  front_en: She wants to visit them (fem).
+  back_es: Quiere visitarlas.
+  rule_ref: L8#4, L8#16
+  lessons:
+  - 8
+  directions:
+  - en_es
+  - es_en
+- id: L8-048
+  type: sentence
+  tier: extended
+  front_en: I must visit him.
+  back_es: Debo visitarlo.
+  rule_ref: L8#15, L8#6
   lessons:
   - 8
   directions:
@@ -504,6 +608,33 @@ cards:
   lessons:
   - 2
   - 3
+  - 8
+  directions:
+  - en_es
+  - es_en
+- id: L8-053
+  type: sentence
+  tier: extended
+  front_en: Because it's important.
+  back_es: Porque es importante.
+  hint: '*porque* (one word) = because'
+  rule_ref: L8#10, L2#7, L3#1
+  lessons:
+  - 2
+  - 3
+  - 8
+  directions:
+  - en_es
+  - es_en
+- id: L8-054
+  type: sentence
+  tier: extended
+  front_en: Why? Because it's legal.
+  back_es: ¿Por qué? Porque es legal.
+  hint: por qué vs porque contrast
+  rule_ref: L8#10, L2#7, L2#2
+  lessons:
+  - 2
   - 8
   directions:
   - en_es
@@ -571,6 +702,19 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L9-008
+  type: transformation
+  tier: primary
+  front_en: to imagine it
+  back_es: imaginarlo
+  hint: stick *lo* on -r
+  rule_ref: L8#6
+  lessons:
+  - 8
+  - 9
+  directions:
+  - en_es
+  - es_en
 - id: L9-009
   type: transformation
   tier: primary
@@ -617,6 +761,19 @@ cards:
   rule_ref: L4#5, L9#14
   lessons:
   - 3
+  - 4
+  - 9
+  directions:
+  - en_es
+  - es_en
+- id: L9-013
+  type: transformation
+  tier: primary
+  front_en: to justify
+  back_es: justificar
+  hint: chop -ción, add -r
+  rule_ref: L4#2
+  lessons:
   - 4
   - 9
   directions:
@@ -793,6 +950,30 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L9-029
+  type: sentence
+  tier: primary
+  front_en: He wants to start it now.
+  back_es: Quiere iniciarlo ahora.
+  rule_ref: L8#4, L9#10
+  lessons:
+  - 8
+  - 9
+  directions:
+  - en_es
+  - es_en
+- id: L9-030
+  type: sentence
+  tier: primary
+  front_en: Why doesn't he want to inform me?
+  back_es: ¿Por qué no quiere informarme?
+  rule_ref: L8#10, L9#1
+  lessons:
+  - 8
+  - 9
+  directions:
+  - en_es
+  - es_en
 - id: L9-031
   type: sentence
   tier: primary
@@ -854,6 +1035,69 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L9-036
+  type: transformation
+  tier: extended
+  front_en: to imagine me
+  back_es: imaginarme
+  rule_ref: L4#2
+  lessons:
+  - 4
+  - 9
+  directions:
+  - en_es
+  - es_en
+- id: L9-037
+  type: transformation
+  tier: extended
+  front_en: to invite him
+  back_es: invitarlo
+  hint: stick *lo* on -r
+  rule_ref: L8#6
+  lessons:
+  - 8
+  - 9
+  directions:
+  - en_es
+  - es_en
+- id: L9-038
+  type: transformation
+  tier: extended
+  front_en: to invite me
+  back_es: invitarme
+  hint: stick *me* on -r
+  rule_ref: L4#2
+  lessons:
+  - 4
+  - 9
+  directions:
+  - en_es
+  - es_en
+- id: L9-039
+  type: sentence
+  tier: extended
+  front_en: If you want, I explain.
+  back_es: Si quiere, explico.
+  hint: '*explico* = I explain'
+  rule_ref: L9#3, L9#12, L10#3
+  lessons:
+  - 9
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L9-040
+  type: sentence
+  tier: extended
+  front_en: Why doesn't he want to invite me?
+  back_es: ¿Por qué no quiere invitarme?
+  rule_ref: L8#10, L9#1
+  lessons:
+  - 8
+  - 9
+  directions:
+  - en_es
+  - es_en
 - id: L9-041
   type: sentence
   tier: extended
@@ -876,6 +1120,19 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L9-043
+  type: sentence
+  tier: extended
+  front_en: She doesn't want to imagine it.
+  back_es: No quiere imaginarlo.
+  rule_ref: L8#4, L9#1, L2#9
+  lessons:
+  - 2
+  - 8
+  - 9
+  directions:
+  - en_es
+  - es_en
 - id: L9-044
   type: sentence
   tier: extended
@@ -884,6 +1141,18 @@ cards:
   rule_ref: L2#7, L3#8, L9#12
   lessons:
   - 2
+  - 3
+  - 9
+  directions:
+  - en_es
+  - es_en
+- id: L9-045
+  type: sentence
+  tier: extended
+  front_en: I want to know if it's possible.
+  back_es: Quiero saber si es posible.
+  rule_ref: L9#4, L9#3, L3#8
+  lessons:
   - 3
   - 9
   directions:
@@ -909,6 +1178,31 @@ cards:
   rule_ref: L9#11, L2#9
   lessons:
   - 2
+  - 9
+  directions:
+  - en_es
+  - es_en
+- id: L9-048
+  type: sentence
+  tier: extended
+  front_en: She wants to know if it's legal.
+  back_es: Quiere saber si es legal.
+  rule_ref: L9#4, L9#3, L2#2
+  lessons:
+  - 2
+  - 9
+  directions:
+  - en_es
+  - es_en
+- id: L9-049
+  type: sentence
+  tier: extended
+  front_en: I want to invite her.
+  back_es: Quiero invitarla.
+  hint: stick *la* on -r
+  rule_ref: L9#2, L8#6
+  lessons:
+  - 8
   - 9
   directions:
   - en_es
@@ -943,6 +1237,18 @@ cards:
   front_en: to eat
   back_es: comer
   hint: -er verb
+  rule_ref: L10#1
+  lessons:
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-007
+  type: transformation
+  tier: primary
+  front_en: to breathe
+  back_es: respirar
+  hint: 'hook: *respiration*'
   rule_ref: L10#1
   lessons:
   - 10
@@ -985,6 +1291,55 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L10-011
+  type: transformation
+  tier: primary
+  front_en: to maintain
+  back_es: mantener
+  hint: -tain → -tener
+  rule_ref: L10#10
+  lessons:
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-012
+  type: transformation
+  tier: primary
+  front_en: to sustain
+  back_es: sostener
+  hint: -tain → -tener · *sus-* → *sos-*
+  rule_ref: L10#10
+  lessons:
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-013
+  type: transformation
+  tier: primary
+  front_en: to entertain
+  back_es: entretener
+  hint: -tain → -tener · *entre-*
+  rule_ref: L10#10
+  lessons:
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-014
+  type: transformation
+  tier: primary
+  front_en: to have it
+  back_es: tenerlo
+  hint: stick *lo* on -r
+  rule_ref: L10#10, L8#6
+  lessons:
+  - 8
+  - 10
+  directions:
+  - en_es
+  - es_en
 - id: L10-015
   type: transformation
   tier: primary
@@ -1016,6 +1371,18 @@ cards:
   back_es: más
   hint: 'hook: *massive*'
   rule_ref: L10#9
+  lessons:
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-019
+  type: transformation
+  tier: primary
+  front_en: between
+  back_es: entre
+  hint: '*... tú y yo* = between you and I'
+  rule_ref: L10#10
   lessons:
   - 10
   directions:
@@ -1180,6 +1547,28 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L10-034
+  type: sentence
+  tier: primary
+  front_en: I'm going to have it.
+  back_es: Voy a tenerlo.
+  rule_ref: L10#8, L10#10
+  lessons:
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-035
+  type: sentence
+  tier: primary
+  front_en: I'm going to have it later.
+  back_es: Voy a tenerlo más tarde.
+  rule_ref: L10#8, L10#9
+  lessons:
+  - 10
+  directions:
+  - en_es
+  - es_en
 - id: L10-036
   type: sentence
   tier: primary
@@ -1201,6 +1590,30 @@ cards:
   rule_ref: L10#11, L8#6
   lessons:
   - 8
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-039
+  type: transformation
+  tier: extended
+  front_en: to retain
+  back_es: retener
+  hint: -tain → -tener
+  rule_ref: L10#10
+  lessons:
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-040
+  type: transformation
+  tier: extended
+  front_en: to detain
+  back_es: detener
+  hint: -tain → -tener
+  rule_ref: L10#10
+  lessons:
   - 10
   directions:
   - en_es
@@ -1306,12 +1719,35 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L10-050
+  type: sentence
+  tier: extended
+  front_en: I'm going to organize it.
+  back_es: Voy a organizarlo.
+  rule_ref: L10#8, L8#6
+  lessons:
+  - 8
+  - 10
+  directions:
+  - en_es
+  - es_en
 - id: L10-051
   type: sentence
   tier: extended
   front_en: I want to have it later.
   back_es: Quiero tenerlo más tarde.
   rule_ref: L10#10, L10#9
+  lessons:
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-052
+  type: sentence
+  tier: extended
+  front_en: I'm going to organize tomorrow.
+  back_es: Voy a organizar mañana.
+  rule_ref: L10#8, L10#7
   lessons:
   - 10
   directions:
@@ -1348,6 +1784,31 @@ cards:
   hint: Spanish keeps subject pronouns here
   rule_ref: L10#10
   lessons:
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-056
+  type: sentence
+  tier: extended
+  front_en: I want to know if I have it.
+  back_es: Quiero saber si lo tengo.
+  rule_ref: L9#4, L10#11, L8#6
+  lessons:
+  - 8
+  - 9
+  - 10
+  directions:
+  - en_es
+  - es_en
+- id: L10-057
+  type: sentence
+  tier: extended
+  front_en: I'm going to maintain it.
+  back_es: Voy a mantenerlo.
+  rule_ref: L10#8, L10#10, L8#6
+  lessons:
+  - 8
   - 10
   directions:
   - en_es

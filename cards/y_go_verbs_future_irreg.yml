@@ -86,6 +86,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L84-014
+  type: transformation
+  tier: primary
+  front_en: to distract
+  back_es: distraer
+  hint: dis- + traer → -tract
+  rule_ref: L84#11
+  lessons:
+  - 84
+  directions:
+  - en_es
+  - es_en
 - id: L84-015
   type: transformation
   tier: primary
@@ -268,6 +280,30 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L84-031
+  type: sentence
+  tier: primary
+  front_en: I want you to do it.
+  back_es: Quiero que lo hagas.
+  hint: quiero que + mood
+  rule_ref: L84#16, L84#12
+  lessons:
+  - 84
+  directions:
+  - en_es
+  - es_en
+- id: L84-032
+  type: sentence
+  tier: primary
+  front_en: I want you to put it here.
+  back_es: Quiero que lo pongas aquí.
+  hint: quiero que + mood
+  rule_ref: L84#16, L84#12
+  lessons:
+  - 84
+  directions:
+  - en_es
+  - es_en
 - id: L84-033
   type: conjugation
   tier: extended
@@ -301,6 +337,42 @@ cards:
   - 84
   directions:
   - en_es
+- id: L84-036
+  type: sentence
+  tier: extended
+  front_en: I want you to say it.
+  back_es: Quiero que lo digas.
+  hint: quiero que + mood
+  rule_ref: L84#16, L84#12
+  lessons:
+  - 84
+  directions:
+  - en_es
+  - es_en
+- id: L84-037
+  type: sentence
+  tier: extended
+  front_en: I want you to leave.
+  back_es: Quiero que salgas.
+  hint: quiero que + mood
+  rule_ref: L84#16, L84#12
+  lessons:
+  - 84
+  directions:
+  - en_es
+  - es_en
+- id: L84-038
+  type: sentence
+  tier: extended
+  front_en: She wants me to come.
+  back_es: Quiere que venga.
+  hint: -ga covers I/she
+  rule_ref: L84#16, L84#12
+  lessons:
+  - 84
+  directions:
+  - en_es
+  - es_en
 - id: L85-001
   type: conjugation
   tier: primary
@@ -438,11 +510,35 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L85-015
+  type: sentence
+  tier: primary
+  front_en: Don't leave. (formal plural)
+  back_es: No salgan.
+  hint: negative cmd → mood form
+  rule_ref: L85#1
+  lessons:
+  - 85
+  directions:
+  - en_es
+  - es_en
 - id: L85-016
   type: sentence
   tier: primary
   front_en: Leave. (informal)
   back_es: Sal.
+  hint: drop -go off I-form
+  rule_ref: L85#4
+  lessons:
+  - 85
+  directions:
+  - en_es
+  - es_en
+- id: L85-017
+  type: sentence
+  tier: primary
+  front_en: Come. (informal)
+  back_es: Ven.
   hint: drop -go off I-form
   rule_ref: L85#4
   lessons:
@@ -457,6 +553,90 @@ cards:
   back_es: Dime cuando vengas.
   hint: cuando + future → mood
   rule_ref: L85#5, L85#7
+  lessons:
+  - 85
+  directions:
+  - en_es
+  - es_en
+- id: L85-020
+  type: sentence
+  tier: primary
+  front_en: Put it. (informal)
+  back_es: Ponlo.
+  hint: drop -go + attached pronoun
+  rule_ref: L85#4, L85#2
+  lessons:
+  - 85
+  directions:
+  - en_es
+  - es_en
+- id: L85-021
+  type: sentence
+  tier: primary
+  front_en: Tell it to me. (informal)
+  back_es: Dímelo.
+  hint: drop -go + me + lo · accent on í
+  rule_ref: L85#4, L85#2
+  lessons:
+  - 85
+  directions:
+  - en_es
+  - es_en
+- id: L85-022
+  type: sentence
+  tier: primary
+  front_en: Don't tell me. (informal)
+  back_es: No me digas.
+  hint: negative cmd → mood + pronoun before
+  rule_ref: L85#1, L85#2
+  lessons:
+  - 85
+  directions:
+  - en_es
+  - es_en
+- id: L85-023
+  type: sentence
+  tier: primary
+  front_en: Don't tell me. (formal)
+  back_es: No me diga.
+  hint: negative cmd (formal) → mood
+  rule_ref: L85#1, L85#2
+  lessons:
+  - 85
+  directions:
+  - en_es
+  - es_en
+- id: L85-024
+  type: sentence
+  tier: primary
+  front_en: Come here. (informal)
+  back_es: Ven aquí.
+  hint: drop -go + place
+  rule_ref: L85#4
+  lessons:
+  - 85
+  directions:
+  - en_es
+  - es_en
+- id: L85-025
+  type: sentence
+  tier: primary
+  front_en: Don't come. (informal)
+  back_es: No vengas.
+  hint: negative cmd → mood -ga
+  rule_ref: L85#1
+  lessons:
+  - 85
+  directions:
+  - en_es
+  - es_en
+- id: L85-026
+  type: sentence
+  tier: primary
+  front_en: Don't come. (formal)
+  back_es: No venga.
+  hint: negative cmd (formal) → mood
+  rule_ref: L85#1
   lessons:
   - 85
   directions:
@@ -484,6 +664,18 @@ cards:
   - 85
   directions:
   - en_es
+- id: L85-029
+  type: sentence
+  tier: extended
+  front_en: Don't leave. (informal)
+  back_es: No salgas.
+  hint: negative cmd (informal) → mood
+  rule_ref: L85#1
+  lessons:
+  - 85
+  directions:
+  - en_es
+  - es_en
 - id: L85-030
   type: sentence
   tier: extended
@@ -503,6 +695,18 @@ cards:
   back_es: Tráelo.
   hint: traer takes the regular shortcut
   rule_ref: L85#3
+  lessons:
+  - 85
+  directions:
+  - en_es
+  - es_en
+- id: L85-032
+  type: sentence
+  tier: extended
+  front_en: Bring it. (formal)
+  back_es: Tráigalo.
+  hint: mood -iga + pronoun + accent
+  rule_ref: L85#1, L85#2
   lessons:
   - 85
   directions:
@@ -796,6 +1000,17 @@ cards:
   - 86
   directions:
   - en_es
+- id: L86-028
+  type: conjugation
+  tier: primary
+  front_en: I would say/tell (decir)
+  back_es: diría
+  hint: extra-irregular · -ía
+  rule_ref: L86#10, L86#8
+  lessons:
+  - 86
+  directions:
+  - en_es
 - id: L86-029
   type: sentence
   tier: primary
@@ -827,6 +1042,18 @@ cards:
   back_es: Lo pondremos aquí.
   hint: contraction stem + -emos
   rule_ref: L86#6
+  lessons:
+  - 86
+  directions:
+  - en_es
+  - es_en
+- id: L86-032
+  type: sentence
+  tier: primary
+  front_en: We would put it here.
+  back_es: Lo pondríamos aquí.
+  hint: contraction stem + -íamos
+  rule_ref: L86#6, L86#8
   lessons:
   - 86
   directions:
@@ -916,6 +1143,17 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L86-040
+  type: conjugation
+  tier: extended
+  front_en: you (inf.) would have (tener)
+  back_es: tendrías
+  hint: contraction + -ías
+  rule_ref: L86#4, L86#8
+  lessons:
+  - 86
+  directions:
+  - en_es
 - id: L86-041
   type: conjugation
   tier: extended
@@ -968,6 +1206,18 @@ cards:
   front_en: She will tell me later.
   back_es: Me dirá más tarde.
   hint: extra-irreg + IO
+  rule_ref: L86#10
+  lessons:
+  - 86
+  directions:
+  - en_es
+  - es_en
+- id: L86-046
+  type: sentence
+  tier: extended
+  front_en: They will do it tomorrow.
+  back_es: Lo harán mañana.
+  hint: extra-irreg future
   rule_ref: L86#10
   lessons:
   - 86
@@ -1236,6 +1486,18 @@ cards:
   - 87
   directions:
   - en_es
+- id: L87-037
+  type: sentence
+  tier: extended
+  front_en: We were there. (point)
+  back_es: Estuvimos allí.
+  hint: estuv- + -imos
+  rule_ref: L87#8
+  lessons:
+  - 87
+  directions:
+  - en_es
+  - es_en
 - id: L87-038
   type: sentence
   tier: extended

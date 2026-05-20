@@ -210,6 +210,17 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L21-029
+  type: sentence
+  tier: primary
+  front_en: They have celebrated.
+  back_es: Han celebrado.
+  rule_ref: L21#5, L21#9
+  lessons:
+  - 21
+  directions:
+  - en_es
+  - es_en
 - id: L21-032
   type: sentence
   tier: primary
@@ -251,6 +262,18 @@ cards:
   back_es: por mucho tiempo
   hint: por = duration
   rule_ref: L21#13, L21#14
+  lessons:
+  - 21
+  directions:
+  - en_es
+  - es_en
+- id: L21-036
+  type: sentence
+  tier: primary
+  front_en: We have anticipated it for a long time.
+  back_es: Lo hemos anticipado por mucho tiempo.
+  hint: lo + hemos + part + por mucho tiempo
+  rule_ref: L21#11, L21#13
   lessons:
   - 21
   directions:
@@ -313,6 +336,76 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L21-042
+  type: sentence
+  tier: primary
+  front_en: Where have you celebrated it?
+  back_es: ¿Dónde lo has celebrado?
+  hint: lo before haber even in questions
+  rule_ref: L21#11, L21#15
+  lessons:
+  - 21
+  directions:
+  - en_es
+  - es_en
+- id: L21-045
+  type: sentence
+  tier: primary
+  front_en: Have you bought it?
+  back_es: ¿Lo has comprado?
+  rule_ref: L21#11, L21#15
+  lessons:
+  - 21
+  directions:
+  - en_es
+  - es_en
+- id: L21-046
+  type: transformation
+  tier: extended
+  front_en: danced (past participle of bailar)
+  back_es: bailado
+  hint: -ar → -ado
+  rule_ref: L21#8
+  lessons:
+  - 21
+  directions:
+  - en_es
+  - es_en
+- id: L21-047
+  type: transformation
+  tier: extended
+  front_en: looked (past participle of mirar)
+  back_es: mirado
+  hint: -ar → -ado
+  rule_ref: L21#8
+  lessons:
+  - 21
+  directions:
+  - en_es
+  - es_en
+- id: L21-048
+  type: transformation
+  tier: extended
+  front_en: called (past participle of llamar)
+  back_es: llamado
+  hint: -ar → -ado · ll = /y/
+  rule_ref: L21#8
+  lessons:
+  - 21
+  directions:
+  - en_es
+  - es_en
+- id: L21-050
+  type: sentence
+  tier: extended
+  front_en: They have taken it.
+  back_es: Lo han tomado.
+  rule_ref: L21#11, L21#5
+  lessons:
+  - 21
+  directions:
+  - en_es
+  - es_en
 - id: L21-051
   type: sentence
   tier: extended
@@ -336,12 +429,45 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L21-053
+  type: sentence
+  tier: extended
+  front_en: She has prepared it.
+  back_es: Lo ha preparado.
+  rule_ref: L21#11
+  lessons:
+  - 21
+  directions:
+  - en_es
+  - es_en
+- id: L21-054
+  type: sentence
+  tier: extended
+  front_en: Have they studied?
+  back_es: ¿Han estudiado?
+  rule_ref: L21#15
+  lessons:
+  - 21
+  directions:
+  - en_es
+  - es_en
 - id: L21-055
   type: sentence
   tier: extended
   front_en: I haven't anticipated it.
   back_es: No lo he anticipado.
   rule_ref: L21#10, L21#11
+  lessons:
+  - 21
+  directions:
+  - en_es
+  - es_en
+- id: L21-056
+  type: sentence
+  tier: extended
+  front_en: We haven't worked a lot.
+  back_es: No hemos trabajado mucho.
+  rule_ref: L21#10
   lessons:
   - 21
   directions:
@@ -401,6 +527,42 @@ cards:
   front_en: come (past participle of venir)
   back_es: venido
   hint: -ir → -ido · bienvenido!
+  rule_ref: L22#1
+  lessons:
+  - 22
+  directions:
+  - en_es
+  - es_en
+- id: L22-005
+  type: transformation
+  tier: primary
+  front_en: welcome (well-come)
+  back_es: bienvenido
+  hint: bien + venido
+  rule_ref: L22#1
+  lessons:
+  - 22
+  directions:
+  - en_es
+  - es_en
+- id: L22-006
+  type: transformation
+  tier: primary
+  front_en: lived (past participle of vivir)
+  back_es: vivido
+  hint: -ir → -ido
+  rule_ref: L22#1
+  lessons:
+  - 22
+  directions:
+  - en_es
+  - es_en
+- id: L22-007
+  type: transformation
+  tier: primary
+  front_en: drunk (past participle of beber)
+  back_es: bebido
+  hint: -er → -ido
   rule_ref: L22#1
   lessons:
   - 22
@@ -499,6 +661,18 @@ cards:
   hint: feminine plural
   rule_ref: L22#12
   lessons:
+  - 22
+  directions:
+  - en_es
+  - es_en
+- id: L22-022
+  type: sentence
+  tier: primary
+  front_en: I have finished.
+  back_es: He terminado.
+  rule_ref: L21#9
+  lessons:
+  - 21
   - 22
   directions:
   - en_es
@@ -641,6 +815,28 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L22-039
+  type: sentence
+  tier: primary
+  front_en: I see her.
+  back_es: La veo.
+  rule_ref: L22#6, L22#12
+  lessons:
+  - 22
+  directions:
+  - en_es
+  - es_en
+- id: L22-041
+  type: sentence
+  tier: primary
+  front_en: I see them (fem).
+  back_es: Las veo.
+  rule_ref: L22#6, L22#12
+  lessons:
+  - 22
+  directions:
+  - en_es
+  - es_en
 - id: L22-042
   type: sentence
   tier: primary
@@ -658,6 +854,17 @@ cards:
   front_en: We see.
   back_es: Nosotros vemos.
   rule_ref: L22#5
+  lessons:
+  - 22
+  directions:
+  - en_es
+  - es_en
+- id: L22-045
+  type: sentence
+  tier: primary
+  front_en: They see.
+  back_es: Ellos ven.
+  rule_ref: L22#5, L22#11
   lessons:
   - 22
   directions:
@@ -791,6 +998,17 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L22-059
+  type: sentence
+  tier: extended
+  front_en: She hasn't lost it.
+  back_es: No lo ha perdido.
+  rule_ref: L21#10, L22#4
+  lessons:
+  - 22
+  directions:
+  - en_es
+  - es_en
 - id: L22-060
   type: sentence
   tier: extended
@@ -798,6 +1016,28 @@ cards:
   back_es: Lo ve usted.
   hint: usted flexible · lo not
   rule_ref: L22#10
+  lessons:
+  - 22
+  directions:
+  - en_es
+  - es_en
+- id: L22-063
+  type: sentence
+  tier: extended
+  front_en: I have lived a lot.
+  back_es: He vivido mucho.
+  rule_ref: L22#1, L21#9
+  lessons:
+  - 22
+  directions:
+  - en_es
+  - es_en
+- id: L22-064
+  type: sentence
+  tier: extended
+  front_en: He has come.
+  back_es: Él ha venido.
+  rule_ref: L22#1, L22#13
   lessons:
   - 22
   directions:
@@ -814,6 +1054,17 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L22-066
+  type: sentence
+  tier: extended
+  front_en: She sees us.
+  back_es: Nos ve.
+  rule_ref: L22#6
+  lessons:
+  - 22
+  directions:
+  - en_es
+  - es_en
 - id: L22-067
   type: sentence
   tier: extended
@@ -821,6 +1072,28 @@ cards:
   back_es: ¿Han terminado?
   hint: han = they / ustedes
   rule_ref: L22#9, L21#15
+  lessons:
+  - 22
+  directions:
+  - en_es
+  - es_en
+- id: L22-069
+  type: sentence
+  tier: extended
+  front_en: YOU (emphatic) haven't finished.
+  back_es: Tú no has terminado.
+  rule_ref: L22#14, L21#10
+  lessons:
+  - 22
+  directions:
+  - en_es
+  - es_en
+- id: L22-070
+  type: sentence
+  tier: extended
+  front_en: WE (emphatic) have come.
+  back_es: Nosotros hemos venido.
+  rule_ref: L22#14, L22#1
   lessons:
   - 22
   directions:
@@ -862,6 +1135,42 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L23-004
+  type: transformation
+  tier: primary
+  front_en: the aroma
+  back_es: el aroma
+  hint: -ma → masculine
+  rule_ref: L23#1
+  lessons:
+  - 23
+  directions:
+  - en_es
+  - es_en
+- id: L23-005
+  type: transformation
+  tier: primary
+  front_en: the panorama
+  back_es: el panorama
+  hint: -ma → masculine
+  rule_ref: L23#1
+  lessons:
+  - 23
+  directions:
+  - en_es
+  - es_en
+- id: L23-006
+  type: transformation
+  tier: primary
+  front_en: the climate
+  back_es: el clima
+  hint: -ma → masc · climate not climax
+  rule_ref: L23#1
+  lessons:
+  - 23
+  directions:
+  - en_es
+  - es_en
 - id: L23-008
   type: transformation
   tier: primary
@@ -874,6 +1183,19 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L23-010
+  type: transformation
+  tier: primary
+  front_en: understood (past participle)
+  back_es: entendido
+  hint: -er → -ido
+  rule_ref: L22#1
+  lessons:
+  - 22
+  - 23
+  directions:
+  - en_es
+  - es_en
 - id: L23-011
   type: transformation
   tier: primary
@@ -882,6 +1204,19 @@ cards:
   hint: also = to smell · 'sensation'
   rule_ref: L23#5
   lessons:
+  - 23
+  directions:
+  - en_es
+  - es_en
+- id: L23-012
+  type: transformation
+  tier: primary
+  front_en: felt / smelt (past participle)
+  back_es: sentido
+  hint: -ir → -ido
+  rule_ref: L22#1, L23#5
+  lessons:
+  - 22
   - 23
   directions:
   - en_es
@@ -921,6 +1256,28 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L23-017
+  type: sentence
+  tier: primary
+  front_en: Have you (formal) understood the problem?
+  back_es: ¿Ha entendido el problema?
+  rule_ref: L22#1, L23#1, L21#15
+  lessons:
+  - 23
+  directions:
+  - en_es
+  - es_en
+- id: L23-019
+  type: sentence
+  tier: primary
+  front_en: Have you understood the system?
+  back_es: ¿Has entendido el sistema?
+  rule_ref: L22#1, L23#1, L21#15
+  lessons:
+  - 23
+  directions:
+  - en_es
+  - es_en
 - id: L23-020
   type: sentence
   tier: primary
@@ -933,12 +1290,34 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L23-021
+  type: sentence
+  tier: primary
+  front_en: Have you understood the program?
+  back_es: ¿Has entendido el programa?
+  rule_ref: L22#1, L23#1
+  lessons:
+  - 23
+  directions:
+  - en_es
+  - es_en
 - id: L23-022
   type: sentence
   tier: primary
   front_en: I haven't understood the problem.
   back_es: No he entendido el problema.
   rule_ref: L21#10, L23#1
+  lessons:
+  - 23
+  directions:
+  - en_es
+  - es_en
+- id: L23-023
+  type: sentence
+  tier: primary
+  front_en: We have understood the system.
+  back_es: Hemos entendido el sistema.
+  rule_ref: L22#1, L23#1
   lessons:
   - 23
   directions:
@@ -1025,12 +1404,82 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L23-033
+  type: sentence
+  tier: primary
+  front_en: Have you got lost?
+  back_es: ¿Te has perdido?
+  rule_ref: L23#6, L21#15
+  lessons:
+  - 23
+  directions:
+  - en_es
+  - es_en
 - id: L23-034
   type: sentence
   tier: primary
   front_en: Haven't you got lost?
   back_es: ¿No te has perdido?
   rule_ref: L23#6, L21#10, L21#15
+  lessons:
+  - 23
+  directions:
+  - en_es
+  - es_en
+- id: L23-035
+  type: sentence
+  tier: primary
+  front_en: Why have you got lost?
+  back_es: ¿Por qué te has perdido?
+  rule_ref: L23#6, L21#15
+  lessons:
+  - 23
+  directions:
+  - en_es
+  - es_en
+- id: L23-036
+  type: transformation
+  tier: extended
+  front_en: the drama
+  back_es: el drama
+  hint: -ma → masculine
+  rule_ref: L23#1
+  lessons:
+  - 23
+  directions:
+  - en_es
+  - es_en
+- id: L23-038
+  type: transformation
+  tier: extended
+  front_en: the diploma
+  back_es: el diploma
+  hint: -ma → masculine
+  rule_ref: L23#1
+  lessons:
+  - 23
+  directions:
+  - en_es
+  - es_en
+- id: L23-039
+  type: transformation
+  tier: extended
+  front_en: the theme / topic
+  back_es: el tema
+  hint: -ma → masculine
+  rule_ref: L23#1
+  lessons:
+  - 23
+  directions:
+  - en_es
+  - es_en
+- id: L23-040
+  type: transformation
+  tier: extended
+  front_en: the poem
+  back_es: el poema
+  hint: -ma → masculine
+  rule_ref: L23#1
   lessons:
   - 23
   directions:
@@ -1043,6 +1492,28 @@ cards:
   back_es: El clima es un problema.
   hint: un = masc 'a'
   rule_ref: L23#1, L23#3
+  lessons:
+  - 23
+  directions:
+  - en_es
+  - es_en
+- id: L23-042
+  type: sentence
+  tier: extended
+  front_en: He has understood the panorama.
+  back_es: Ha entendido el panorama.
+  rule_ref: L22#1, L23#1
+  lessons:
+  - 23
+  directions:
+  - en_es
+  - es_en
+- id: L23-043
+  type: sentence
+  tier: extended
+  front_en: We haven't felt the aroma.
+  back_es: No hemos sentido el aroma.
+  rule_ref: L21#10, L23#5, L23#1
   lessons:
   - 23
   directions:
@@ -1083,6 +1554,28 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L23-047
+  type: sentence
+  tier: extended
+  front_en: Have we got lost?
+  back_es: ¿Nos hemos perdido?
+  rule_ref: L23#6, L21#15
+  lessons:
+  - 23
+  directions:
+  - en_es
+  - es_en
+- id: L23-048
+  type: sentence
+  tier: extended
+  front_en: Where have we got lost?
+  back_es: ¿Dónde nos hemos perdido?
+  rule_ref: L23#6, L21#15
+  lessons:
+  - 23
+  directions:
+  - en_es
+  - es_en
 - id: L23-049
   type: sentence
   tier: extended
@@ -1100,6 +1593,50 @@ cards:
   front_en: I have understood it.
   back_es: Lo he entendido.
   rule_ref: L22#4, L22#1
+  lessons:
+  - 23
+  directions:
+  - en_es
+  - es_en
+- id: L23-052
+  type: sentence
+  tier: extended
+  front_en: We have understood them.
+  back_es: Los hemos entendido.
+  rule_ref: L22#4, L22#12
+  lessons:
+  - 23
+  directions:
+  - en_es
+  - es_en
+- id: L23-053
+  type: sentence
+  tier: extended
+  front_en: I haven't understood the system.
+  back_es: No he entendido el sistema.
+  rule_ref: L21#10, L23#1
+  lessons:
+  - 23
+  directions:
+  - en_es
+  - es_en
+- id: L23-054
+  type: sentence
+  tier: extended
+  front_en: YOU (emphatic) haven't got lost.
+  back_es: Tú no te has perdido.
+  rule_ref: L22#14, L23#10, L21#10
+  lessons:
+  - 23
+  directions:
+  - en_es
+  - es_en
+- id: L23-055
+  type: sentence
+  tier: extended
+  front_en: She has felt it.
+  back_es: Lo ha sentido.
+  rule_ref: L22#4, L23#5
   lessons:
   - 23
   directions:

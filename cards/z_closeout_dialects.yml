@@ -528,18 +528,6 @@ cards:
   directions:
   - en_es
   - es_en
-- id: L88-068
-  type: sentence
-  tier: primary
-  front_en: They came late.
-  back_es: Vinieron tarde.
-  hint: vin- · -ieron
-  rule_ref: L88#4
-  lessons:
-  - 88
-  directions:
-  - en_es
-  - es_en
 - id: L88-050
   type: conjugation
   tier: extended
@@ -664,6 +652,42 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L88-061
+  type: sentence
+  tier: extended
+  front_en: I wanted her to bring it.
+  back_es: Quería que lo trajera.
+  hint: quería que + past mood (she form)
+  rule_ref: L88#13
+  lessons:
+  - 88
+  directions:
+  - en_es
+  - es_en
+- id: L88-062
+  type: sentence
+  tier: extended
+  front_en: I wanted them to say it.
+  back_es: Quería que lo dijeran.
+  hint: quería que + past mood (they form)
+  rule_ref: L88#13
+  lessons:
+  - 88
+  directions:
+  - en_es
+  - es_en
+- id: L88-063
+  type: sentence
+  tier: extended
+  front_en: If I had time, I would do it.
+  back_es: Si tuviera tiempo, lo haría.
+  hint: si + past mood · then conditional
+  rule_ref: L88#10, L88#11
+  lessons:
+  - 88
+  directions:
+  - en_es
+  - es_en
 - id: L88-064
   type: sentence
   tier: extended
@@ -707,6 +731,18 @@ cards:
   back_es: Lo dijo ayer.
   hint: dij- · -o no accent
   rule_ref: L88#8
+  lessons:
+  - 88
+  directions:
+  - en_es
+  - es_en
+- id: L88-068
+  type: sentence
+  tier: primary
+  front_en: They came late.
+  back_es: Vinieron tarde.
+  hint: vin- · -ieron
+  rule_ref: L88#4
   lessons:
   - 88
   directions:
@@ -928,6 +964,30 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L89-019
+  type: sentence
+  tier: primary
+  front_en: Too aggressive (f.).
+  back_es: Demasiado agresiva.
+  hint: adj. agrees · demasiado stays put
+  rule_ref: L89#3
+  lessons:
+  - 89
+  directions:
+  - en_es
+  - es_en
+- id: L89-020
+  type: sentence
+  tier: primary
+  front_en: Too aggressive (m. pl.).
+  back_es: Demasiado agresivos.
+  hint: only the adj. changes
+  rule_ref: L89#3
+  lessons:
+  - 89
+  directions:
+  - en_es
+  - es_en
 - id: L89-021
   type: sentence
   tier: primary
@@ -1036,6 +1096,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L89-030
+  type: sentence
+  tier: primary
+  front_en: A car.
+  back_es: Un coche.
+  hint: uno → un before masc.
+  rule_ref: L89#7
+  lessons:
+  - 89
+  directions:
+  - en_es
+  - es_en
 - id: L89-031
   type: sentence
   tier: primary
@@ -1091,6 +1163,90 @@ cards:
   back_es: Tengo uno de más.
   hint: no noun follows uno · keep full form
   rule_ref: L89#2, L89#8
+  lessons:
+  - 89
+  directions:
+  - en_es
+  - es_en
+- id: L89-036
+  type: sentence
+  tier: extended
+  front_en: There's too much water.
+  back_es: Hay demasiada agua.
+  hint: noun = agua (fem.) · demasiado matches
+  rule_ref: L89#3, L89#4
+  lessons:
+  - 89
+  directions:
+  - en_es
+  - es_en
+- id: L89-037
+  type: sentence
+  tier: extended
+  front_en: It's too aggressive.
+  back_es: Es demasiado agresivo.
+  hint: with adj. — demasiado stays put
+  rule_ref: L89#3
+  lessons:
+  - 89
+  directions:
+  - en_es
+  - es_en
+- id: L89-038
+  type: sentence
+  tier: extended
+  front_en: They are too aggressive.
+  back_es: Son demasiado agresivos.
+  hint: only the adj. changes
+  rule_ref: L89#3
+  lessons:
+  - 89
+  directions:
+  - en_es
+  - es_en
+- id: L89-039
+  type: sentence
+  tier: extended
+  front_en: There's no man here.
+  back_es: No hay ningún hombre aquí.
+  hint: ninguno → ningún before masc.
+  rule_ref: L89#7, L89#10
+  lessons:
+  - 89
+  directions:
+  - en_es
+  - es_en
+- id: L89-040
+  type: sentence
+  tier: extended
+  front_en: There's no woman here.
+  back_es: No hay ninguna mujer aquí.
+  hint: feminine — keep full form
+  rule_ref: L89#9
+  lessons:
+  - 89
+  directions:
+  - en_es
+  - es_en
+- id: L89-041
+  type: sentence
+  tier: extended
+  front_en: I have some friend in Spain.
+  back_es: Tengo algún amigo en España.
+  hint: alguno → algún before masc.
+  rule_ref: L89#7, L89#10
+  lessons:
+  - 89
+  directions:
+  - en_es
+  - es_en
+- id: L89-042
+  type: sentence
+  tier: extended
+  front_en: It's the cold water.
+  back_es: Es el agua fría.
+  hint: el for sound · adj. agrees feminine
+  rule_ref: L89#4, L89#5
   lessons:
   - 89
   directions:
@@ -1202,6 +1358,30 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L90-010
+  type: transformation
+  tier: primary
+  front_en: to perfect
+  back_es: perfeccionar
+  hint: -tion → -cionar
+  rule_ref: L90#9
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-011
+  type: transformation
+  tier: primary
+  front_en: Spanish (the language)
+  back_es: español
+  hint: -sh → -ñ
+  rule_ref: L90#9
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
 - id: L90-012
   type: sentence
   tier: primary
@@ -1298,6 +1478,78 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L90-021
+  type: sentence
+  tier: primary
+  front_en: I see them. (Latin America)
+  back_es: Los veo.
+  hint: LatAm uses los/las for people too
+  rule_ref: L90#1
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-022
+  type: sentence
+  tier: extended
+  front_en: We are Spanish-speakers and we only have to practice.
+  back_es: Somos hispanohablantes y solo tenemos que practicar.
+  hint: closing-line idea · ser + tener que
+  rule_ref: L90#9
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-023
+  type: sentence
+  tier: extended
+  front_en: We have to practice and speak.
+  back_es: Tenemos que practicar y hablar.
+  hint: tener que + two infinitives
+  rule_ref: L90#9
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-024
+  type: sentence
+  tier: extended
+  front_en: I want to perfect my Spanish.
+  back_es: Quiero perfeccionar mi español.
+  hint: querer + infinitive
+  rule_ref: L90#9
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-025
+  type: sentence
+  tier: extended
+  front_en: We have to analyze to perfect it.
+  back_es: Tenemos que analizar para perfeccionarlo.
+  hint: para + infinitive · attached pronoun
+  rule_ref: L90#9
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-026
+  type: sentence
+  tier: extended
+  front_en: She told him. (Spain)
+  back_es: Le dijo.
+  hint: Spain le for indirect — universal here
+  rule_ref: L90#1
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
 - id: L90-027
   type: sentence
   tier: extended
@@ -1346,6 +1598,30 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L90-031
+  type: sentence
+  tier: extended
+  front_en: What do you want? (vos)
+  back_es: ¿Qué querés?
+  hint: vos + end-stressed querer
+  rule_ref: L90#4, L90#5
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-032
+  type: sentence
+  tier: extended
+  front_en: You can do it. (vos)
+  back_es: Vos podés hacerlo.
+  hint: vos + end-stressed poder · attached pronoun
+  rule_ref: L90#4, L90#5
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
 - id: L90-033
   type: sentence
   tier: extended
@@ -1365,6 +1641,78 @@ cards:
   back_es: Vosotros habláis español.
   hint: vosotros + habláis (Spain only)
   rule_ref: L90#2, L90#9
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-035
+  type: sentence
+  tier: extended
+  front_en: I am a Spanish-speaker.
+  back_es: Soy hispanohablante.
+  hint: ser permanent identity
+  rule_ref: L90#9
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-036
+  type: sentence
+  tier: extended
+  front_en: You are a Spanish-speaker. (vos)
+  back_es: Vos sos hispanohablante.
+  hint: vos form of ser = sos
+  rule_ref: L90#4, L90#5
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-037
+  type: sentence
+  tier: extended
+  front_en: We have to enjoy the journey.
+  back_es: Tenemos que disfrutar el camino.
+  hint: closing-pep idea · tener que + infinitive
+  rule_ref: L90#9
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-038
+  type: sentence
+  tier: extended
+  front_en: Now I am a Spanish-speaker.
+  back_es: Ahora soy hispanohablante.
+  hint: closing-pep idea · ser identity
+  rule_ref: L90#9
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-039
+  type: sentence
+  tier: extended
+  front_en: I love the Spanish language.
+  back_es: Me encanta el español.
+  hint: closing-pep idea · gustar-style verb
+  rule_ref: L90#9
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-040
+  type: sentence
+  tier: extended
+  front_en: We can speak Spanish well.
+  back_es: Podemos hablar bien el español.
+  hint: poder + infinitive · adv. before noun
+  rule_ref: L90#9
   lessons:
   - 90
   directions:

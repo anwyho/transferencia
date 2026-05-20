@@ -236,6 +236,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L71-021
+  type: sentence
+  tier: primary
+  front_en: We hope they tell it to María.
+  back_es: Esperamos que lo cuenten a María.
+  hint: tell-to a person → personal a
+  rule_ref: L71#5, L71#7
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
 - id: L71-022
   type: sentence
   tier: primary
@@ -356,6 +368,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L71-032
+  type: sentence
+  tier: primary
+  front_en: I hope you see her.
+  back_es: Espero que la veas.
+  hint: little word before mood verb
+  rule_ref: L71#5, L71#6
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
 - id: L71-033
   type: sentence
   tier: extended
@@ -416,6 +440,30 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L71-038
+  type: sentence
+  tier: extended
+  front_en: I hope you tell me the story.
+  back_es: Espero que me cuentes el cuento.
+  hint: tell + thing · not a person → no personal a
+  rule_ref: L71#5, L71#2
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: L71-039
+  type: sentence
+  tier: extended
+  front_en: I hope they see us.
+  back_es: Espero que nos vean.
+  hint: us is a little word → before verb
+  rule_ref: L71#5, L71#6
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
 - id: L71-040
   type: sentence
   tier: extended
@@ -428,6 +476,30 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L71-041
+  type: sentence
+  tier: extended
+  front_en: I like that you see the teacher.
+  back_es: Me gusta que veas al profesor.
+  hint: a + el → al
+  rule_ref: L71#14, L71#11
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: L71-042
+  type: sentence
+  tier: extended
+  front_en: She hopes I understand her.
+  back_es: Espera que la comprenda.
+  hint: little word before · -a for I/she mood
+  rule_ref: L71#5, L71#10
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
 - id: L71-043
   type: sentence
   tier: extended
@@ -435,6 +507,30 @@ cards:
   back_es: Cuento contigo.
   hint: con + ti contracts
   rule_ref: L71#3
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: L71-044
+  type: sentence
+  tier: extended
+  front_en: I hope they tell us the story.
+  back_es: Espero que nos cuenten el cuento.
+  hint: thing told → no personal a
+  rule_ref: L71#5, L71#2
+  lessons:
+  - 71
+  directions:
+  - en_es
+  - es_en
+- id: L71-045
+  type: sentence
+  tier: extended
+  front_en: I like that they understand the man.
+  back_es: Me gusta que comprendan al hombre.
+  hint: a + el → al · person being understood
+  rule_ref: L71#14, L71#11
   lessons:
   - 71
   directions:
@@ -654,6 +750,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L72-020
+  type: sentence
+  tier: primary
+  front_en: Don't eat it (informal).
+  back_es: No lo comas.
+  hint: negative informal → mood -as
+  rule_ref: L72#2, L72#8
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
 - id: L72-021
   type: sentence
   tier: primary
@@ -661,6 +769,18 @@ cards:
   back_es: No lo coman.
   hint: negative plural → mood -an
   rule_ref: L72#8
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: L72-022
+  type: sentence
+  tier: primary
+  front_en: Eat it (you all).
+  back_es: Cómanlo.
+  hint: positive plural → little word at end
+  rule_ref: L72#7, L72#6
   lessons:
   - 72
   directions:
@@ -684,6 +804,54 @@ cards:
   front_en: Forget (formal).
   back_es: Olvídese.
   hint: olvidar needs an object → reflexive -se
+  rule_ref: L72#11
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: L72-025
+  type: sentence
+  tier: primary
+  front_en: Don't forget it (informal).
+  back_es: No lo olvides.
+  hint: negative · little word before · mood -es
+  rule_ref: L72#11, L72#8
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: L72-026
+  type: sentence
+  tier: primary
+  front_en: Don't forget (informal).
+  back_es: No te olvides.
+  hint: olvidar needs reflexive when alone
+  rule_ref: L72#11
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: L72-027
+  type: sentence
+  tier: primary
+  front_en: Don't forget it (you all). (No lo…)
+  back_es: No lo olviden.
+  hint: negative plural · little word before
+  rule_ref: L72#11, L72#8
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: L72-028
+  type: sentence
+  tier: primary
+  front_en: Don't forget (you all).
+  back_es: No se olviden.
+  hint: reflexive needed when alone
   rule_ref: L72#11
   lessons:
   - 72
@@ -774,6 +942,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L72-037
+  type: sentence
+  tier: primary
+  front_en: Forget it.
+  back_es: Olvídalo.
+  hint: positive informal · little word at end
+  rule_ref: L72#14, L72#16
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
 - id: L72-038
   type: sentence
   tier: primary
@@ -781,6 +961,18 @@ cards:
   back_es: Olvídate.
   hint: olvidar needs object → reflexive at end
   rule_ref: L72#16
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: L72-039
+  type: sentence
+  tier: primary
+  front_en: Sell it.
+  back_es: Véndelo.
+  hint: drop -s · attach little word
+  rule_ref: L72#14, L72#16
   lessons:
   - 72
   directions:
@@ -822,6 +1014,42 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L72-043
+  type: sentence
+  tier: extended
+  front_en: Don't speak (you all).
+  back_es: No hablen.
+  hint: negative plural → mood -en
+  rule_ref: L72#8
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: L72-044
+  type: sentence
+  tier: extended
+  front_en: Don't give it to me.
+  back_es: No me lo des.
+  hint: two little words before
+  rule_ref: L72#2, L72#8
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: L72-046
+  type: sentence
+  tier: extended
+  front_en: Don't forget it (you all). (No se lo…)
+  back_es: No se lo olviden.
+  hint: olvidar reflexive + lo · all before verb
+  rule_ref: L72#11, L72#8
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
 - id: L72-047
   type: sentence
   tier: extended
@@ -829,6 +1057,30 @@ cards:
   back_es: Compren lo que hace falta.
   hint: alt form · *hace falta* = it's necessary
   rule_ref: L72#13
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: L72-048
+  type: sentence
+  tier: extended
+  front_en: Forget.
+  back_es: Olvida.
+  hint: drop -s from *olvidas*
+  rule_ref: L72#14
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: L72-049
+  type: sentence
+  tier: extended
+  front_en: Don't buy it.
+  back_es: No lo compres.
+  hint: negative → mood (-ar takes -es)
+  rule_ref: L72#2, L72#8
   lessons:
   - 72
   directions:
@@ -870,6 +1122,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L72-055
+  type: sentence
+  tier: extended
+  front_en: Speak (informal).
+  back_es: Habla.
+  hint: drop -s from *hablas*
+  rule_ref: L72#14
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
 - id: L72-056
   type: sentence
   tier: extended
@@ -877,6 +1141,54 @@ cards:
   back_es: Háblame.
   hint: little word at end · accent
   rule_ref: L72#16
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: L72-057
+  type: sentence
+  tier: extended
+  front_en: Don't speak to me.
+  back_es: No me hables.
+  hint: negative flips → mood · me before
+  rule_ref: L72#2, L72#8
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: L72-058
+  type: sentence
+  tier: extended
+  front_en: Wait for me.
+  back_es: Espérame.
+  hint: drop -s · attach me · accent
+  rule_ref: L72#14, L72#16
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: L72-059
+  type: sentence
+  tier: extended
+  front_en: Don't wait for me.
+  back_es: No me esperes.
+  hint: negative · me before · mood -es
+  rule_ref: L72#2, L72#8
+  lessons:
+  - 72
+  directions:
+  - en_es
+  - es_en
+- id: L72-060
+  type: sentence
+  tier: extended
+  front_en: Forget about it.
+  back_es: Olvídate de eso.
+  hint: olvidarse de = to forget about
+  rule_ref: L72#11, L72#16
   lessons:
   - 72
   directions:
@@ -1208,6 +1520,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L73-029
+  type: sentence
+  tier: primary
+  front_en: Let them go.
+  back_es: Que vayan.
+  hint: que + ir mood plural
+  rule_ref: L73#5, L73#12
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
 - id: L73-030
   type: sentence
   tier: primary
@@ -1244,6 +1568,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L73-034
+  type: sentence
+  tier: primary
+  front_en: Let it finish.
+  back_es: Que termine.
+  hint: que + mood for *let it*
+  rule_ref: L73#5
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
 - id: L73-035
   type: sentence
   tier: extended
@@ -1251,6 +1587,18 @@ cards:
   back_es: ¿Esperemos?
   hint: same form, softer tone
   rule_ref: L73#3
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: L73-036
+  type: sentence
+  tier: extended
+  front_en: Let her go.
+  back_es: Que vaya.
+  hint: que + ir mood singular
+  rule_ref: L73#5, L73#12
   lessons:
   - 73
   directions:
@@ -1280,6 +1628,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L73-041
+  type: sentence
+  tier: extended
+  front_en: Let's go together.
+  back_es: Vamos juntos.
+  hint: ir uses normal vamos for *let's*
+  rule_ref: L73#12, L73#10
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
 - id: L73-042
   type: sentence
   tier: extended
@@ -1287,6 +1647,18 @@ cards:
   back_es: No comamos.
   hint: -er → -amos · negate with *no*
   rule_ref: L73#4, L73#11
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: L73-043
+  type: sentence
+  tier: extended
+  front_en: Let them finish.
+  back_es: Que terminen.
+  hint: que + mood plural
+  rule_ref: L73#5
   lessons:
   - 73
   directions:
@@ -1316,6 +1688,30 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L73-047
+  type: sentence
+  tier: extended
+  front_en: I prefer that you go.
+  back_es: Prefiero que vayas.
+  hint: subjective + que + ir mood
+  rule_ref: L73#12
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: L73-048
+  type: sentence
+  tier: extended
+  front_en: I like that we go together.
+  back_es: Me gusta que vayamos juntos.
+  hint: like-that + ir mood we-form
+  rule_ref: L73#12, L73#10
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
 - id: L73-049
   type: sentence
   tier: extended
@@ -1323,6 +1719,30 @@ cards:
   back_es: ¡Espera!
   hint: drop -s · exclamation
   rule_ref: L73#1
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: L73-050
+  type: sentence
+  tier: extended
+  front_en: Finish.
+  back_es: Termina.
+  hint: drop -s from *terminas*
+  rule_ref: L73#1
+  lessons:
+  - 73
+  directions:
+  - en_es
+  - es_en
+- id: L73-052
+  type: sentence
+  tier: extended
+  front_en: When you finish, call me.
+  back_es: Cuando termines, llámame.
+  hint: future cuando → mood · drop-s + me end
+  rule_ref: L73#9, L73#1
   lessons:
   - 73
   directions:

@@ -179,6 +179,30 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L24-024
+  type: sentence
+  tier: primary
+  front_en: We give it to you.
+  back_es: Te lo damos.
+  hint: we-form stacking
+  rule_ref: L24#4, L24#3
+  lessons:
+  - 24
+  directions:
+  - en_es
+  - es_en
+- id: L24-027
+  type: sentence
+  tier: primary
+  front_en: Are you (formal) giving it to me tomorrow?
+  back_es: ¿Me lo da mañana?
+  hint: intonation makes the question
+  rule_ref: L24#4, L24#6
+  lessons:
+  - 24
+  directions:
+  - en_es
+  - es_en
 - id: L24-028
   type: sentence
   tier: primary
@@ -186,6 +210,18 @@ cards:
   back_es: ¿Usted me lo da mañana?
   hint: subject up front for emphasis
   rule_ref: L24#8, L24#4
+  lessons:
+  - 24
+  directions:
+  - en_es
+  - es_en
+- id: L24-029
+  type: sentence
+  tier: primary
+  front_en: Are you guys giving it to us tomorrow?
+  back_es: ¿Nos lo dan mañana?
+  hint: nos = us / to us
+  rule_ref: L24#4, L24#9
   lessons:
   - 24
   directions:
@@ -260,12 +296,68 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L24-038
+  type: sentence
+  tier: primary
+  front_en: She wants to give it to us.
+  back_es: Nos lo quiere dar.
+  rule_ref: L24#11, L24#4
+  lessons:
+  - 24
+  directions:
+  - en_es
+  - es_en
+- id: L24-039
+  type: sentence
+  tier: primary
+  front_en: I have to give it to you tomorrow.
+  back_es: Tengo que dártelo mañana.
+  hint: stick to end of dar · 9 words
+  rule_ref: L24#11, L24#6
+  lessons:
+  - 24
+  directions:
+  - en_es
+  - es_en
 - id: L24-040
   type: sentence
   tier: extended
   front_en: You give me something.
   back_es: Me das algo.
   rule_ref: L24#10, L24#7
+  lessons:
+  - 24
+  directions:
+  - en_es
+  - es_en
+- id: L24-041
+  type: sentence
+  tier: extended
+  front_en: She gives them to me.
+  back_es: Me los da.
+  rule_ref: L24#4
+  lessons:
+  - 24
+  directions:
+  - en_es
+  - es_en
+- id: L24-042
+  type: sentence
+  tier: extended
+  front_en: We give them to you.
+  back_es: Te los damos.
+  rule_ref: L24#4
+  lessons:
+  - 24
+  directions:
+  - en_es
+  - es_en
+- id: L24-043
+  type: sentence
+  tier: extended
+  front_en: They give it to us.
+  back_es: Nos lo dan.
+  rule_ref: L24#4
   lessons:
   - 24
   directions:
@@ -278,6 +370,29 @@ cards:
   back_es: No me lo da.
   hint: no in front of everything
   rule_ref: L24#4
+  lessons:
+  - 24
+  directions:
+  - en_es
+  - es_en
+- id: L24-045
+  type: sentence
+  tier: extended
+  front_en: I want to give you something tomorrow.
+  back_es: Quiero darte algo mañana.
+  hint: te stuck on dar
+  rule_ref: L24#11, L24#6
+  lessons:
+  - 24
+  directions:
+  - en_es
+  - es_en
+- id: L24-046
+  type: sentence
+  tier: extended
+  front_en: Don't you want to give it to me?
+  back_es: ¿No me lo quieres dar?
+  rule_ref: L24#11
   lessons:
   - 24
   directions:
@@ -302,6 +417,41 @@ cards:
   back_es: Me dan algo ustedes.
   hint: subject at the end · order is flexible
   rule_ref: L24#8, L24#9
+  lessons:
+  - 24
+  directions:
+  - en_es
+  - es_en
+- id: L24-049
+  type: sentence
+  tier: extended
+  front_en: I can give it to you. (Te…)
+  back_es: Te lo puedo dar.
+  rule_ref: L24#11
+  lessons:
+  - 24
+  directions:
+  - en_es
+  - es_en
+- id: L24-050
+  type: sentence
+  tier: extended
+  front_en: I can give it to you. (Puedo…)
+  back_es: Puedo dártelo.
+  hint: alt — stuck on dar
+  rule_ref: L24#11
+  lessons:
+  - 24
+  directions:
+  - en_es
+  - es_en
+- id: L24-051
+  type: sentence
+  tier: extended
+  front_en: SHE gives.
+  back_es: Ella da.
+  hint: emphasis subject
+  rule_ref: L24#8
   lessons:
   - 24
   directions:
@@ -337,6 +487,30 @@ cards:
   front_en: eight
   back_es: ocho
   hint: '*octa*gon, *octo*pus, *Oct*ober'
+  rule_ref: L25#12
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-004
+  type: transformation
+  tier: primary
+  front_en: nine
+  back_es: nueve
+  hint: o-split (nove → ...) · *Nov*ember
+  rule_ref: L25#12
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-005
+  type: transformation
+  tier: primary
+  front_en: ten
+  back_es: diez
+  hint: '*Dec*ember (was 10th month)'
   rule_ref: L25#12
   lessons:
   - 25
@@ -472,6 +646,17 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L25-026
+  type: sentence
+  tier: primary
+  front_en: I buy it for you.
+  back_es: Te lo compro.
+  rule_ref: L25#1
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
 - id: L25-027
   type: sentence
   tier: primary
@@ -479,6 +664,18 @@ cards:
   back_es: ¿Te lo compro?
   hint: rising tone = question
   rule_ref: L25#3
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-029
+  type: sentence
+  tier: primary
+  front_en: Do you want to do it for me? (Me…)
+  back_es: ¿Me lo quieres hacer?
+  hint: or *¿Quieres hacérmelo?*
+  rule_ref: L25#1, L25#5
   lessons:
   - 25
   directions:
@@ -610,6 +807,40 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L25-049
+  type: sentence
+  tier: extended
+  front_en: He buys me something.
+  back_es: Me compra algo.
+  rule_ref: L25#1
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-050
+  type: sentence
+  tier: extended
+  front_en: Shall I cook it for you?
+  back_es: ¿Te lo cocino?
+  rule_ref: L25#1, L25#3
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-051
+  type: sentence
+  tier: extended
+  front_en: They cook for us.
+  back_es: Nos cocinan.
+  hint: nos = us / for us
+  rule_ref: L25#1, L25#8
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
 - id: L25-052
   type: sentence
   tier: extended
@@ -633,12 +864,45 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L25-054
+  type: sentence
+  tier: extended
+  front_en: We cook at seven.
+  back_es: Cocinamos a las siete.
+  rule_ref: L25#11, L25#12
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
 - id: L25-055
   type: sentence
   tier: extended
   front_en: Until ten o'clock.
   back_es: Hasta las diez.
   rule_ref: L25#17, L25#11
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-056
+  type: sentence
+  tier: extended
+  front_en: I want to stay here until eight.
+  back_es: Quiero quedarme aquí hasta las ocho.
+  rule_ref: L25#17, L25#15
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-057
+  type: sentence
+  tier: extended
+  front_en: We're staying until six.
+  back_es: Nos quedamos hasta las seis.
+  rule_ref: L25#17
   lessons:
   - 25
   directions:
@@ -661,6 +925,17 @@ cards:
   front_en: They stay until nine.
   back_es: Se quedan hasta las nueve.
   rule_ref: L25#16, L25#17
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-060
+  type: sentence
+  tier: extended
+  front_en: Can you buy it for me?
+  back_es: ¿Me lo puedes comprar?
+  rule_ref: L25#1, L25#9
   lessons:
   - 25
   directions:
@@ -767,6 +1042,50 @@ cards:
   back_es: Debemos quedarnos.
   hint: or *Nos debemos quedar.*
   rule_ref: L26#1, L26#3
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-026
+  type: sentence
+  tier: primary
+  front_en: I have to stay.
+  back_es: Tengo que quedarme.
+  rule_ref: L26#1
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-027
+  type: sentence
+  tier: primary
+  front_en: You have to stay here.
+  back_es: Tienes que quedarte aquí.
+  rule_ref: L26#1, L26#2
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-028
+  type: sentence
+  tier: primary
+  front_en: I can stay.
+  back_es: Puedo quedarme.
+  rule_ref: L26#1
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-029
+  type: sentence
+  tier: primary
+  front_en: We can stay.
+  back_es: Podemos quedarnos.
+  rule_ref: L26#1
   lessons:
   - 26
   directions:
@@ -934,6 +1253,17 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L26-047
+  type: sentence
+  tier: extended
+  front_en: Tonight I can't stay.
+  back_es: Esta noche no puedo quedarme.
+  rule_ref: L26#4
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
 - id: L26-048
   type: sentence
   tier: extended
@@ -981,6 +1311,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L26-052
+  type: sentence
+  tier: extended
+  front_en: I have to call you tonight.
+  back_es: Tengo que llamarte esta noche.
+  hint: te stuck on llamar
+  rule_ref: L26#1, L26#15
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
 - id: L27-001
   type: transformation
   tier: primary
@@ -1012,6 +1354,18 @@ cards:
   back_es: auto
   hint: masc
   rule_ref: L27#4
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-004
+  type: transformation
+  tier: primary
+  front_en: machine / car (fem)
+  back_es: máquina
+  hint: /makina/ · qu = /k/
+  rule_ref: L27#4, L27#5
   lessons:
   - 27
   directions:
@@ -1099,6 +1453,17 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L27-018
+  type: sentence
+  tier: primary
+  front_en: the big house
+  back_es: la casa grande
+  rule_ref: L27#1, L27#6
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
 - id: L27-019
   type: sentence
   tier: primary
@@ -1106,6 +1471,18 @@ cards:
   back_es: las casas grandes
   hint: noun + adjective both pluralize
   rule_ref: L27#7, L27#8
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-020
+  type: sentence
+  tier: primary
+  front_en: the big car
+  back_es: el auto grande
+  hint: masc article + adj-after-noun
+  rule_ref: L27#1, L27#8
   lessons:
   - 27
   directions:
@@ -1194,6 +1571,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L27-030
+  type: transformation
+  tier: extended
+  front_en: automobile
+  back_es: automóbil
+  hint: auto is the short form
+  rule_ref: L27#4
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
 - id: L27-031
   type: transformation
   tier: extended
@@ -1237,6 +1626,17 @@ cards:
   back_es: los autos rojos
   hint: masc plural agreement
   rule_ref: L27#7, L27#8, L27#15
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-037
+  type: sentence
+  tier: extended
+  front_en: I want to buy the big house.
+  back_es: Quiero comprar la casa grande.
+  rule_ref: L27#1, L27#6
   lessons:
   - 27
   directions:

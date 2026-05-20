@@ -1,4 +1,4 @@
-.PHONY: install test validate anki anki-with-audio review-sets stories validate-stories all clean
+.PHONY: install test validate coverage anki anki-with-audio review-sets stories validate-stories all clean
 
 PYTHON ?= python3.11
 
@@ -10,6 +10,9 @@ test:
 
 validate:
 	$(PYTHON) build/generate_anki.py --validate-only
+
+coverage:
+	$(PYTHON) build/scripts/coverage_audit.py
 
 anki: validate
 	$(PYTHON) build/generate_anki.py --out dist/transferencia.apkg
