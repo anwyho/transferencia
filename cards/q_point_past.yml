@@ -729,7 +729,7 @@ cards:
   tier: primary
   front_en: He bought it for me.
   back_es: Me lo compró.
-  hint: me (for me) + lo (it) + compró (he bought) — Spanish stacks: indirect + direct + verb
+  hint: 'me (for me) + lo (it) + compró (he bought) — stack: indirect + direct + verb'
   rule_ref: 'L58#7'
   lessons:
   - 58
