@@ -79,6 +79,16 @@ def _bundle_letter(card: Card) -> str | None:
     return base.split("_", 1)[0]
 
 
+def _bundle_theme(card: Card) -> str:
+    """Title-case theme from cards/<letter>_<theme>.yml (drops .yml)."""
+    base = os.path.basename(card.source_file or "")
+    stem = base.rsplit(".", 1)[0]  # drop .yml
+    if "_" not in stem:
+        return stem.upper()
+    _, theme = stem.split("_", 1)
+    return theme.replace("_", " ").title()
+
+
 def _english_meaning_from_hint(hint: str) -> str | None:
     """Pull the base English verb phrase from a conjugation card's hint.
     Hints conventionally lead with 'to <verb>'; anything else returns None."""
@@ -324,12 +334,14 @@ def _render_bundle(*, cards: list[Card], tts, marker: AudioSegment,
 
     total = len(parts)
     paths: list[Path] = []
-    album = f"Transferencia — Bundle {letter.upper()}"
+    theme = _bundle_theme(cards[0])
+    prefix = letter.upper()
+    album = f"Transferencia — {prefix} {theme}"
     out_dir = audio_dir / "flashcards"
     for idx, part in enumerate(parts, start=1):
-        dst = out_dir / f"bundle_{letter}_pt{idx:02d}.mp3"
+        dst = out_dir / f"{prefix}{idx} {theme}.mp3"
         _export_part(part, dst)
-        title = f"Bundle {letter.upper()} — Part {idx} of {total}"
+        title = f"{prefix}{idx} {theme}"
         _tag_mp3(dst, title=title, album=album, track=idx, total=total)
         paths.append(dst)
     return paths
