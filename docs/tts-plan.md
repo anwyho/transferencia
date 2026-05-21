@@ -49,8 +49,8 @@ Steps:
 1. Install Piper. macOS: `brew install piper-tts` (or `pip install piper-tts`).
 2. Download voice models into `build/.piper-voices/` via `build/scripts/fetch_piper_voices.sh`. Models gitignored.
 3. Implement `build/lib/tts/piper.py` adapter conforming to the `TTS` protocol.
-4. Wire `--backend piper` flag into `generate_audio.py`. Make it the default.
-5. Render `audio/lesson_03.mp3` for Bundle A cards.
+4. Wire `--backend piper` flag into the flashcard generator. Make it the default.
+5. Render a small bundle (`--bundle a`) and listen end-to-end.
 6. Drive with it. Make notes:
    - Mispronunciations of lesson vocabulary
    - Pace too fast / too slow
@@ -84,24 +84,9 @@ If Piper falls short, A/B test Azure neural voices side-by-side before committin
 - Adding 100 new cards: ~18K chars
 - Sits comfortably under Azure's 500K/month, even in the first month
 
-## Marker clip + story per-kind pace map (2026-05-10)
+## Marker clip + per-language pace
 
-Two artifact types now share the Piper pipeline:
-
-- **Review sets** (`build/generate_review_sets.py`) inject a single Piper-rendered "Siguiente." clip between every card. The clip is rendered once into `audio/.cache/marker_siguiente.mp3` and reused across all bundles. No new voice required — uses the same `es_MX-claude-high` configured here.
-- **Immersion stories** (`build/generate_stories.py`) pick the body pace from the story's `kind` field. Defaults:
-
-  | `kind` | Pace | Notes |
-  |--------|------|-------|
-  | `animal_fable` | 1.0 | Crisp, classic timing |
-  | `scenario` | 0.95 | Slightly slower — listener is usually driving |
-  | `dialogue` | 0.95 | Same |
-  | `history` | 0.95 | Narrative pace |
-  | `memory` | 0.9 | Reflective; gives line-past room to breathe |
-
-  Preface always plays at `pace=1.0` in `en_US-amy-medium`. Body lines are 350 ms-spaced — speaker-label boundaries become natural breath beats without needing a second Spanish voice.
-
-  Multi-voice dialogue (one speaker per voice) was scoped but not built; Piper would need a second LatAm voice in `build/.piper-voices/` and a small per-line voice picker in `render_story_audio`. Single-voice is fine for v1.
+The flashcard generator (`build/generate_bundle_flashcards.py`) renders one boundary clip — an E-major-7 sine chord — into `audio/.cache/marker_ding.mp3` and reuses it between every card. Spanish synth runs at `pace=0.85` so words don't mash; English stays at `1.0`.
 
 ## Stage 3 — Per-card voice variety (only after Stage 1 or 2 is shipped)
 
@@ -143,15 +128,13 @@ Piper exposes per-call parameters worth surfacing in the audio generator:
 
 Generator CLI exposes `--pace 1.0` (default) → `--pace 1.15` for slower drills if needed.
 
-## Sample command (forward-looking)
+## Sample command
 
 ```bash
-# Stage 1, default
-build/generate_audio.py --through 3
+# Default (Piper)
+.venv/bin/python build/generate_bundle_flashcards.py --bundle a
 
-# explicit
-build/generate_audio.py --through 3 --backend piper --voice-es es_MX-claude-high --voice-en en_US-amy-medium --pace 1.1
-
-# A/B compare
-build/scripts/tts_compare.py --cards L3-001,L3-014,L3-031 --backends piper,mac_say
+# Override voices / backend
+.venv/bin/python build/generate_bundle_flashcards.py --bundle a \
+    --backend piper --voice-es es_MX-claude-high --voice-en en_US-amy-medium
 ```

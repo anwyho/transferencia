@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transferencia — Spanish Flashcards</title>
+    <link>https://raw.githubusercontent.com/anwyho/transferencia/main</link>
+    <atom:link href="https://raw.githubusercontent.com/anwyho/transferencia/main/podcast.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <description>Per-bundle Spanish flashcard audio drills (Piper TTS). ES→EN, EN→ES, and conjugation exercises. Shuffled. ~30 min per part.</description>
+    <itunes:author>Transferencia</itunes:author>
+    <itunes:summary>Per-bundle Spanish flashcard audio drills.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Transferencia</itunes:name>
+      <itunes:email>noreply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Education">
+      <itunes:category text="Language Learning" />
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <pubDate>Thu, 21 May 2026 08:44:47 +0000</pubDate>
+    <item>
+      <title>Bundle C — Part 1</title>
+      <description>Spanish flashcard drill — Bundle C, part 1. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_c_pt01.mp3" length="21547746" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-c-pt1</guid>
+      <pubDate>Thu, 21 May 2026 07:32:47 +0000</pubDate>
+      <itunes:duration>29:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle C — Part 2</title>
+      <description>Spanish flashcard drill — Bundle C, part 2. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_c_pt02.mp3" length="21615209" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-c-pt2</guid>
+      <pubDate>Thu, 21 May 2026 07:33:47 +0000</pubDate>
+      <itunes:duration>29:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle C — Part 3</title>
+      <description>Spanish flashcard drill — Bundle C, part 3. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_c_pt03.mp3" length="9121631" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-c-pt3</guid>
+      <pubDate>Thu, 21 May 2026 07:34:47 +0000</pubDate>
+      <itunes:duration>12:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle D — Part 1</title>
+      <description>Spanish flashcard drill — Bundle D, part 1. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_d_pt01.mp3" length="21585713" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-d-pt1</guid>
+      <pubDate>Thu, 21 May 2026 07:35:47 +0000</pubDate>
+      <itunes:duration>29:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle D — Part 2</title>
+      <description>Spanish flashcard drill — Bundle D, part 2. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_d_pt02.mp3" length="23552818" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-d-pt2</guid>
+      <pubDate>Thu, 21 May 2026 07:36:47 +0000</pubDate>
+      <itunes:duration>32:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle E — Part 1</title>
+      <description>Spanish flashcard drill — Bundle E, part 1. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_e_pt01.mp3" length="21571593" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-e-pt1</guid>
+      <pubDate>Thu, 21 May 2026 07:37:47 +0000</pubDate>
+      <itunes:duration>29:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle E — Part 2</title>
+      <description>Spanish flashcard drill — Bundle E, part 2. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_e_pt02.mp3" length="22053877" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-e-pt2</guid>
+      <pubDate>Thu, 21 May 2026 07:38:47 +0000</pubDate>
+      <itunes:duration>30:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle F — Part 1</title>
+      <description>Spanish flashcard drill — Bundle F, part 1. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_f_pt01.mp3" length="21515112" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-f-pt1</guid>
+      <pubDate>Thu, 21 May 2026 07:39:47 +0000</pubDate>
+      <itunes:duration>29:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle F — Part 2</title>
+      <description>Spanish flashcard drill — Bundle F, part 2. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_f_pt02.mp3" length="21481537" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-f-pt2</guid>
+      <pubDate>Thu, 21 May 2026 07:40:47 +0000</pubDate>
+      <itunes:duration>29:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>9</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle F — Part 3</title>
+      <description>Spanish flashcard drill — Bundle F, part 3. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_f_pt03.mp3" length="9637489" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-f-pt3</guid>
+      <pubDate>Thu, 21 May 2026 07:41:47 +0000</pubDate>
+      <itunes:duration>13:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>10</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle G — Part 1</title>
+      <description>Spanish flashcard drill — Bundle G, part 1. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_g_pt01.mp3" length="21548686" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-g-pt1</guid>
+      <pubDate>Thu, 21 May 2026 07:42:47 +0000</pubDate>
+      <itunes:duration>29:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>11</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle G — Part 2</title>
+      <description>Spanish flashcard drill — Bundle G, part 2. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_g_pt02.mp3" length="21545235" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-g-pt2</guid>
+      <pubDate>Thu, 21 May 2026 07:43:47 +0000</pubDate>
+      <itunes:duration>29:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>12</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle G — Part 3</title>
+      <description>Spanish flashcard drill — Bundle G, part 3. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_g_pt03.mp3" length="7085179" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-g-pt3</guid>
+      <pubDate>Thu, 21 May 2026 07:44:47 +0000</pubDate>
+      <itunes:duration>9:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>13</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle H — Part 1</title>
+      <description>Spanish flashcard drill — Bundle H, part 1. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_h_pt01.mp3" length="21536136" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-h-pt1</guid>
+      <pubDate>Thu, 21 May 2026 07:45:47 +0000</pubDate>
+      <itunes:duration>29:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>14</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle H — Part 2</title>
+      <description>Spanish flashcard drill — Bundle H, part 2. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_h_pt02.mp3" length="21608619" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-h-pt2</guid>
+      <pubDate>Thu, 21 May 2026 07:46:47 +0000</pubDate>
+      <itunes:duration>29:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>15</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle H — Part 3</title>
+      <description>Spanish flashcard drill — Bundle H, part 3. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_h_pt03.mp3" length="10174373" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-h-pt3</guid>
+      <pubDate>Thu, 21 May 2026 07:47:47 +0000</pubDate>
+      <itunes:duration>14:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>16</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle I — Part 1</title>
+      <description>Spanish flashcard drill — Bundle I, part 1. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_i_pt01.mp3" length="21611443" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-i-pt1</guid>
+      <pubDate>Thu, 21 May 2026 07:48:47 +0000</pubDate>
+      <itunes:duration>29:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>17</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle I — Part 2</title>
+      <description>Spanish flashcard drill — Bundle I, part 2. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_i_pt02.mp3" length="21579124" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-i-pt2</guid>
+      <pubDate>Thu, 21 May 2026 07:49:47 +0000</pubDate>
+      <itunes:duration>29:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>18</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle I — Part 3</title>
+      <description>Spanish flashcard drill — Bundle I, part 3. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_i_pt03.mp3" length="7078904" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-i-pt3</guid>
+      <pubDate>Thu, 21 May 2026 07:50:47 +0000</pubDate>
+      <itunes:duration>9:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>19</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle J — Part 1</title>
+      <description>Spanish flashcard drill — Bundle J, part 1. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_j_pt01.mp3" length="21555276" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-j-pt1</guid>
+      <pubDate>Thu, 21 May 2026 07:51:47 +0000</pubDate>
+      <itunes:duration>29:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>20</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle J — Part 2</title>
+      <description>Spanish flashcard drill — Bundle J, part 2. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_j_pt02.mp3" length="21509464" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-j-pt2</guid>
+      <pubDate>Thu, 21 May 2026 07:52:47 +0000</pubDate>
+      <itunes:duration>29:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>21</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle J — Part 3</title>
+      <description>Spanish flashcard drill — Bundle J, part 3. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_j_pt03.mp3" length="11698729" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-j-pt3</guid>
+      <pubDate>Thu, 21 May 2026 07:53:47 +0000</pubDate>
+      <itunes:duration>16:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>22</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle K — Part 1</title>
+      <description>Spanish flashcard drill — Bundle K, part 1. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_k_pt01.mp3" length="21546177" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-k-pt1</guid>
+      <pubDate>Thu, 21 May 2026 07:54:47 +0000</pubDate>
+      <itunes:duration>29:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>23</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle K — Part 2</title>
+      <description>Spanish flashcard drill — Bundle K, part 2. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_k_pt02.mp3" length="21587910" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-k-pt2</guid>
+      <pubDate>Thu, 21 May 2026 07:55:47 +0000</pubDate>
+      <itunes:duration>29:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>24</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle K — Part 3</title>
+      <description>Spanish flashcard drill — Bundle K, part 3. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_k_pt03.mp3" length="7786171" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-k-pt3</guid>
+      <pubDate>Thu, 21 May 2026 07:56:47 +0000</pubDate>
+      <itunes:duration>10:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>25</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle L — Part 1</title>
+      <description>Spanish flashcard drill — Bundle L, part 1. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_l_pt01.mp3" length="21501619" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-l-pt1</guid>
+      <pubDate>Thu, 21 May 2026 07:57:47 +0000</pubDate>
+      <itunes:duration>29:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>26</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle L — Part 2</title>
+      <description>Spanish flashcard drill — Bundle L, part 2. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_l_pt02.mp3" length="21533625" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-l-pt2</guid>
+      <pubDate>Thu, 21 May 2026 07:58:47 +0000</pubDate>
+      <itunes:duration>29:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>27</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle L — Part 3</title>
+      <description>Spanish flashcard drill — Bundle L, part 3. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_l_pt03.mp3" length="11610242" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-l-pt3</guid>
+      <pubDate>Thu, 21 May 2026 07:59:47 +0000</pubDate>
+      <itunes:duration>16:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>28</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle M — Part 1</title>
+      <description>Spanish flashcard drill — Bundle M, part 1. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_m_pt01.mp3" length="21551825" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-m-pt1</guid>
+      <pubDate>Thu, 21 May 2026 08:00:47 +0000</pubDate>
+      <itunes:duration>29:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>29</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle M — Part 2</title>
+      <description>Spanish flashcard drill — Bundle M, part 2. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_m_pt02.mp3" length="21527349" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-m-pt2</guid>
+      <pubDate>Thu, 21 May 2026 08:01:47 +0000</pubDate>
+      <itunes:duration>29:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>30</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle M — Part 3</title>
+      <description>Spanish flashcard drill — Bundle M, part 3. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_m_pt03.mp3" length="12201095" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-m-pt3</guid>
+      <pubDate>Thu, 21 May 2026 08:02:47 +0000</pubDate>
+      <itunes:duration>16:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>31</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle N — Part 1</title>
+      <description>Spanish flashcard drill — Bundle N, part 1. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_n_pt01.mp3" length="21542098" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-n-pt1</guid>
+      <pubDate>Thu, 21 May 2026 08:03:47 +0000</pubDate>
+      <itunes:duration>29:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>32</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle N — Part 2</title>
+      <description>Spanish flashcard drill — Bundle N, part 2. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_n_pt02.mp3" length="21618033" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-n-pt2</guid>
+      <pubDate>Thu, 21 May 2026 08:04:47 +0000</pubDate>
+      <itunes:duration>30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>33</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle N — Part 3</title>
+      <description>Spanish flashcard drill — Bundle N, part 3. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_n_pt03.mp3" length="8171182" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-n-pt3</guid>
+      <pubDate>Thu, 21 May 2026 08:05:47 +0000</pubDate>
+      <itunes:duration>11:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>34</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle NN — Part 1</title>
+      <description>Spanish flashcard drill — Bundle NN, part 1. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_nn_pt01.mp3" length="21591050" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-nn-pt1</guid>
+      <pubDate>Thu, 21 May 2026 08:06:47 +0000</pubDate>
+      <itunes:duration>29:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>35</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle NN — Part 2</title>
+      <description>Spanish flashcard drill — Bundle NN, part 2. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_nn_pt02.mp3" length="21621486" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-nn-pt2</guid>
+      <pubDate>Thu, 21 May 2026 08:07:47 +0000</pubDate>
+      <itunes:duration>30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>36</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle NN — Part 3</title>
+      <description>Spanish flashcard drill — Bundle NN, part 3. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_nn_pt03.mp3" length="4548561" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-nn-pt3</guid>
+      <pubDate>Thu, 21 May 2026 08:08:47 +0000</pubDate>
+      <itunes:duration>6:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>37</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle O — Part 1</title>
+      <description>Spanish flashcard drill — Bundle O, part 1. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_o_pt01.mp3" length="21510405" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-o-pt1</guid>
+      <pubDate>Thu, 21 May 2026 08:09:47 +0000</pubDate>
+      <itunes:duration>29:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>38</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle O — Part 2</title>
+      <description>Spanish flashcard drill — Bundle O, part 2. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_o_pt02.mp3" length="21507267" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-o-pt2</guid>
+      <pubDate>Thu, 21 May 2026 08:10:47 +0000</pubDate>
+      <itunes:duration>29:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>39</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle O — Part 3</title>
+      <description>Spanish flashcard drill — Bundle O, part 3. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_o_pt03.mp3" length="15051813" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-o-pt3</guid>
+      <pubDate>Thu, 21 May 2026 08:11:47 +0000</pubDate>
+      <itunes:duration>20:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>40</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle P — Part 1</title>
+      <description>Spanish flashcard drill — Bundle P, part 1. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_p_pt01.mp3" length="21570966" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-p-pt1</guid>
+      <pubDate>Thu, 21 May 2026 08:12:47 +0000</pubDate>
+      <itunes:duration>29:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>41</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle P — Part 2</title>
+      <description>Spanish flashcard drill — Bundle P, part 2. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_p_pt02.mp3" length="21570651" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-p-pt2</guid>
+      <pubDate>Thu, 21 May 2026 08:13:47 +0000</pubDate>
+      <itunes:duration>29:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>42</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle P — Part 3</title>
+      <description>Spanish flashcard drill — Bundle P, part 3. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_p_pt03.mp3" length="11018762" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-p-pt3</guid>
+      <pubDate>Thu, 21 May 2026 08:14:47 +0000</pubDate>
+      <itunes:duration>15:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>43</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle Q — Part 1</title>
+      <description>Spanish flashcard drill — Bundle Q, part 1. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_q_pt01.mp3" length="21543039" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-q-pt1</guid>
+      <pubDate>Thu, 21 May 2026 08:15:47 +0000</pubDate>
+      <itunes:duration>29:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>44</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle Q — Part 2</title>
+      <description>Spanish flashcard drill — Bundle Q, part 2. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_q_pt02.mp3" length="21548059" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-q-pt2</guid>
+      <pubDate>Thu, 21 May 2026 08:16:47 +0000</pubDate>
+      <itunes:duration>29:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>45</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle Q — Part 3</title>
+      <description>Spanish flashcard drill — Bundle Q, part 3. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_q_pt03.mp3" length="9054481" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-q-pt3</guid>
+      <pubDate>Thu, 21 May 2026 08:17:47 +0000</pubDate>
+      <itunes:duration>12:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>46</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle R — Part 1</title>
+      <description>Spanish flashcard drill — Bundle R, part 1. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_r_pt01.mp3" length="21453611" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-r-pt1</guid>
+      <pubDate>Thu, 21 May 2026 08:18:47 +0000</pubDate>
+      <itunes:duration>29:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>47</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle R — Part 2</title>
+      <description>Spanish flashcard drill — Bundle R, part 2. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_r_pt02.mp3" length="21472437" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-r-pt2</guid>
+      <pubDate>Thu, 21 May 2026 08:19:47 +0000</pubDate>
+      <itunes:duration>29:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>48</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle R — Part 3</title>
+      <description>Spanish flashcard drill — Bundle R, part 3. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_r_pt03.mp3" length="19084550" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-r-pt3</guid>
+      <pubDate>Thu, 21 May 2026 08:20:47 +0000</pubDate>
+      <itunes:duration>26:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>49</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle S — Part 1</title>
+      <description>Spanish flashcard drill — Bundle S, part 1. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_s_pt01.mp3" length="21552452" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-s-pt1</guid>
+      <pubDate>Thu, 21 May 2026 08:21:47 +0000</pubDate>
+      <itunes:duration>29:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>50</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle S — Part 2</title>
+      <description>Spanish flashcard drill — Bundle S, part 2. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_s_pt02.mp3" length="21591675" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-s-pt2</guid>
+      <pubDate>Thu, 21 May 2026 08:22:47 +0000</pubDate>
+      <itunes:duration>29:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle S — Part 3</title>
+      <description>Spanish flashcard drill — Bundle S, part 3. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_s_pt03.mp3" length="6935192" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-s-pt3</guid>
+      <pubDate>Thu, 21 May 2026 08:23:47 +0000</pubDate>
+      <itunes:duration>9:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>52</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle T — Part 1</title>
+      <description>Spanish flashcard drill — Bundle T, part 1. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_t_pt01.mp3" length="21590106" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-t-pt1</guid>
+      <pubDate>Thu, 21 May 2026 08:24:47 +0000</pubDate>
+      <itunes:duration>29:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>53</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle T — Part 2</title>
+      <description>Spanish flashcard drill — Bundle T, part 2. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_t_pt02.mp3" length="21622426" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-t-pt2</guid>
+      <pubDate>Thu, 21 May 2026 08:25:47 +0000</pubDate>
+      <itunes:duration>30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>54</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle T — Part 3</title>
+      <description>Spanish flashcard drill — Bundle T, part 3. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_t_pt03.mp3" length="12138966" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-t-pt3</guid>
+      <pubDate>Thu, 21 May 2026 08:26:47 +0000</pubDate>
+      <itunes:duration>16:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>55</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle U — Part 1</title>
+      <description>Spanish flashcard drill — Bundle U, part 1. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_u_pt01.mp3" length="21545235" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-u-pt1</guid>
+      <pubDate>Thu, 21 May 2026 08:27:47 +0000</pubDate>
+      <itunes:duration>29:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>56</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle U — Part 2</title>
+      <description>Spanish flashcard drill — Bundle U, part 2. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_u_pt02.mp3" length="21539901" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-u-pt2</guid>
+      <pubDate>Thu, 21 May 2026 08:28:47 +0000</pubDate>
+      <itunes:duration>29:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>57</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle U — Part 3</title>
+      <description>Spanish flashcard drill — Bundle U, part 3. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_u_pt03.mp3" length="5821890" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-u-pt3</guid>
+      <pubDate>Thu, 21 May 2026 08:29:47 +0000</pubDate>
+      <itunes:duration>8:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>58</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle V — Part 1</title>
+      <description>Spanish flashcard drill — Bundle V, part 1. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_v_pt01.mp3" length="21623367" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-v-pt1</guid>
+      <pubDate>Thu, 21 May 2026 08:30:47 +0000</pubDate>
+      <itunes:duration>30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>59</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle V — Part 2</title>
+      <description>Spanish flashcard drill — Bundle V, part 2. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_v_pt02.mp3" length="21605796" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-v-pt2</guid>
+      <pubDate>Thu, 21 May 2026 08:31:47 +0000</pubDate>
+      <itunes:duration>29:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>60</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle V — Part 3</title>
+      <description>Spanish flashcard drill — Bundle V, part 3. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_v_pt03.mp3" length="8737247" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-v-pt3</guid>
+      <pubDate>Thu, 21 May 2026 08:32:47 +0000</pubDate>
+      <itunes:duration>12:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>61</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle W — Part 1</title>
+      <description>Spanish flashcard drill — Bundle W, part 1. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_w_pt01.mp3" length="21448904" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-w-pt1</guid>
+      <pubDate>Thu, 21 May 2026 08:33:47 +0000</pubDate>
+      <itunes:duration>29:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>62</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle W — Part 2</title>
+      <description>Spanish flashcard drill — Bundle W, part 2. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_w_pt02.mp3" length="21608306" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-w-pt2</guid>
+      <pubDate>Thu, 21 May 2026 08:34:47 +0000</pubDate>
+      <itunes:duration>29:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>63</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle W — Part 3</title>
+      <description>Spanish flashcard drill — Bundle W, part 3. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_w_pt03.mp3" length="13738631" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-w-pt3</guid>
+      <pubDate>Thu, 21 May 2026 08:35:47 +0000</pubDate>
+      <itunes:duration>19:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>64</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle X — Part 1</title>
+      <description>Spanish flashcard drill — Bundle X, part 1. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_x_pt01.mp3" length="21522957" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-x-pt1</guid>
+      <pubDate>Thu, 21 May 2026 08:36:47 +0000</pubDate>
+      <itunes:duration>29:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>65</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle X — Part 2</title>
+      <description>Spanish flashcard drill — Bundle X, part 2. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_x_pt02.mp3" length="21538960" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-x-pt2</guid>
+      <pubDate>Thu, 21 May 2026 08:37:47 +0000</pubDate>
+      <itunes:duration>29:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>66</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle X — Part 3</title>
+      <description>Spanish flashcard drill — Bundle X, part 3. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_x_pt03.mp3" length="13058664" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-x-pt3</guid>
+      <pubDate>Thu, 21 May 2026 08:38:47 +0000</pubDate>
+      <itunes:duration>18:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>67</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle Y — Part 1</title>
+      <description>Spanish flashcard drill — Bundle Y, part 1. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_y_pt01.mp3" length="21465848" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-y-pt1</guid>
+      <pubDate>Thu, 21 May 2026 08:39:47 +0000</pubDate>
+      <itunes:duration>29:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>68</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle Y — Part 2</title>
+      <description>Spanish flashcard drill — Bundle Y, part 2. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_y_pt02.mp3" length="11367689" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-y-pt2</guid>
+      <pubDate>Thu, 21 May 2026 08:40:47 +0000</pubDate>
+      <itunes:duration>15:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>69</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle Z — Part 1</title>
+      <description>Spanish flashcard drill — Bundle Z, part 1. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_z_pt01.mp3" length="21528919" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-z-pt1</guid>
+      <pubDate>Thu, 21 May 2026 08:41:47 +0000</pubDate>
+      <itunes:duration>29:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>70</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle Z — Part 2</title>
+      <description>Spanish flashcard drill — Bundle Z, part 2. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_z_pt02.mp3" length="21553393" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-z-pt2</guid>
+      <pubDate>Thu, 21 May 2026 08:42:47 +0000</pubDate>
+      <itunes:duration>29:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>71</itunes:episode>
+    </item>
+    <item>
+      <title>Bundle Z — Part 3</title>
+      <description>Spanish flashcard drill — Bundle Z, part 3. Three exercise shapes: ES→EN, EN→ES, conjugation. Shuffled.</description>
+      <enclosure url="https://raw.githubusercontent.com/anwyho/transferencia/main/audio/flashcards/bundle_z_pt03.mp3" length="6200940" type="audio/mpeg" />
+      <guid isPermaLink="false">flashcards-z-pt3</guid>
+      <pubDate>Thu, 21 May 2026 08:43:47 +0000</pubDate>
+      <itunes:duration>8:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>72</itunes:episode>
+    </item>
+  </channel>
+</rss>

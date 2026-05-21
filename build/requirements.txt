@@ -3,4 +3,5 @@ PyYAML>=6.0
 pydub>=0.25
 audioop-lts>=0.2; python_version >= "3.13"
 piper-tts>=1.4
+mutagen>=1.47
 pytest>=7.4

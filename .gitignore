@@ -1,10 +1,6 @@
-# Audio: TTS workspace (per-fragment cache + Anki media) stays ignored;
-# review-set MP3s and committed story audio under audio/ are tracked.
+# Audio cache: Piper-synthesized WAV fragments (regenerable, costly to rebuild).
 audio/.cache/
 audio/.media/
-
-# generated builds — tracked (commit alongside source so consumers don't need
-# Python/Piper to pull the latest .apkg / Mochi CSVs / cards.json).
 
 # Piper voice models
 build/.piper-voices/

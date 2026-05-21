@@ -25,6 +25,11 @@ def ensure_cached(
     """Return cached WAV path; call `synth(text, lang, dst)` if missing."""
     cache_dir.mkdir(parents=True, exist_ok=True)
     path = cache_path_for(cache_dir, text, lang, backend_id)
+    # Treat zero-byte entries as misses — a prior synth that was killed
+    # mid-write can leave an empty WAV on disk, and serving it silently
+    # corrupts every downstream pydub decode.
+    if path.exists() and path.stat().st_size == 0:
+        path.unlink()
     if not path.exists():
         synth(text, lang, path)
     return path

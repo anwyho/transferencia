@@ -1,4 +1,4 @@
-"""Audio assembly: silence generation, segment concatenation, MP3 encoding."""
+"""Audio helpers used by the Anki per-card audio pipeline."""
 from __future__ import annotations
 
 from pathlib import Path
@@ -26,18 +26,14 @@ def concat_segments(segments: list[Path], dst: Path) -> Path:
 
 def encode_mp3(src_wav: Path, dst_mp3: Path, *, bitrate: str = "96k") -> Path:
     seg = AudioSegment.from_wav(str(src_wav))
-    seg = seg.set_channels(1)  # mono
+    seg = seg.set_channels(1)
     dst_mp3.parent.mkdir(parents=True, exist_ok=True)
     seg.export(str(dst_mp3), format="mp3", bitrate=bitrate)
     return dst_mp3
 
 
 def encode_card_audio(text: str, lang: str, *, tts, dst: Path, bitrate: str = "48k") -> Path:
-    """Synthesize `text` via `tts`, transcode to mono mp3 at `bitrate`, write to `dst`.
-
-    Idempotent: returns `dst` immediately if it already exists. Used by the Anki
-    pipeline to embed per-card audio without re-rendering on every build.
-    """
+    """Synthesize text, transcode to mono MP3, write to dst. Idempotent."""
     if dst.exists():
         return dst
     wav_path = tts.synth(text, lang)
@@ -45,94 +41,3 @@ def encode_card_audio(text: str, lang: str, *, tts, dst: Path, bitrate: str = "4
     dst.parent.mkdir(parents=True, exist_ok=True)
     seg.export(str(dst), format="mp3", bitrate=bitrate)
     return dst
-
-
-from dataclasses import dataclass
-
-from build.lib.types import Card, CardType, Direction
-
-
-@dataclass(frozen=True)
-class Segment:
-    card_id: str
-    direction: Direction
-    prompt_text: str
-    prompt_lang: str       # "en" or "es"
-    answer_text: str
-    answer_lang: str
-    pause_seconds: float
-
-
-def _pause_for(card: Card) -> float:
-    return 5.0 if card.type == CardType.SENTENCE else 3.0
-
-
-def card_segments(card: Card) -> list[Segment]:
-    """Expand a card into one Segment per direction it supports."""
-    pause = _pause_for(card)
-    out: list[Segment] = []
-    for direction in card.directions:
-        if direction == Direction.EN_ES:
-            out.append(Segment(
-                card_id=card.id, direction=direction,
-                prompt_text=card.front_en, prompt_lang="en",
-                answer_text=card.back_es, answer_lang="es",
-                pause_seconds=pause,
-            ))
-        elif direction == Direction.ES_EN:
-            out.append(Segment(
-                card_id=card.id, direction=direction,
-                prompt_text=card.back_es, prompt_lang="es",
-                answer_text=card.front_en, answer_lang="en",
-                pause_seconds=pause,
-            ))
-    return out
-
-
-import random
-from typing import Iterable
-
-
-def render_card_track(
-    segments: Iterable[Segment],
-    *,
-    tts,
-    dst: Path,
-    seed: int,
-    pace: float = 1.0,
-    trailing_gap: float = 0.5,
-    separator: AudioSegment | None = None,
-    shuffle: bool = True,
-) -> Path:
-    """Render a list of segments into a single MP3 track.
-
-    If `shuffle` is True (default, back-compat), order is shuffled
-    deterministically by `seed`. Pass `shuffle=False` when the caller has
-    already ordered the segments (review-set generator does this).
-
-    If `separator` is an AudioSegment (e.g. a 'Siguiente.' marker clip),
-    it is appended after each segment's trailing gap.
-    """
-    seg_list = list(segments)
-    if shuffle:
-        rng = random.Random(seed)
-        rng.shuffle(seg_list)
-
-    work = AudioSegment.empty()
-    for seg in seg_list:
-        prompt_wav = tts.synth(seg.prompt_text, seg.prompt_lang, pace=pace)
-        answer_wav = tts.synth(seg.answer_text, seg.answer_lang, pace=pace)
-        work += AudioSegment.from_file(str(prompt_wav))
-        work += AudioSegment.silent(duration=int(seg.pause_seconds * 1000))
-        work += AudioSegment.from_file(str(answer_wav))
-        work += AudioSegment.silent(duration=int(trailing_gap * 1000))
-        if separator is not None:
-            work += separator
-            work += AudioSegment.silent(duration=int(trailing_gap * 1000))
-
-    work = work.set_channels(1)
-    dst.parent.mkdir(parents=True, exist_ok=True)
-    work.export(str(dst), format="mp3", bitrate="96k")
-    return dst
-
-

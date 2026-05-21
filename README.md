@@ -1,52 +1,48 @@
 # Transferencia
 
-A personal study repository for Mihalis Eleftheriou's free [Language Transfer — Complete Spanish](https://www.languagetransfer.org/complete-spanish) course (90 lessons), structured for spaced-repetition flashcards, hands-free audio drills, and bundle-grouped immersion stories.
+A personal study repository for Mihalis Eleftheriou's free [Language Transfer — Complete Spanish](https://www.languagetransfer.org/complete-spanish) course (90 lessons), structured for spaced-repetition flashcards and hands-free audio drills.
 
 ## What's here
 
 ```
 .
-├── lessons/                    # one subdir per lesson, lesson_NN/, NN = 01..90
+├── lessons/                # one subdir per lesson, lesson_NN/ (NN = 01..90)
 │   └── lesson_NN/
-│       ├── rules.md            # the rules and patterns the teacher introduces
-│       └── transcript.md       # verbatim transcript of the audio lesson
-├── cards/                      # one yml per bundle, named <letter>_<theme>.yml
-│                               # (a_foundation.yml … z_closeout.yml + nn_line_past_full.yml for Ñ)
-├── stories/                    # one subdir per thematic group, <NN>_<group>/<NN>_<slug>.md
-├── audio/                      # generated MP3s (tracked); audio/.cache + audio/.media ignored
-│   ├── review_set_<letter>.mp3 # per-bundle 20-min drill MP3 (e.g. review_set_e.mp3)
-│   └── stories/<group>/        # per-story MP3 (preface EN + body ES)
-├── build/                      # generators: cards/*.yml → Anki, stories/*.md → MP3
-├── docs/                       # design + content guidelines
-│   ├── learning-system.md      # overview of the flashcard + audio drill system
-│   ├── lesson-bundles.md       # the 27-bundle plan (A–Z + Ñ)
-│   ├── card-design.md          # card schema, tiers, directions, quality bar
-│   ├── audio-review-sets.md    # per-bundle review-set algorithm + CLI
-│   ├── stories.md              # immersion-story file format + validator + voice/pace map
-│   ├── study-routine.md        # daily flow: flashcards + audio time
-│   ├── tts-plan.md             # TTS backend choice and progression plan
-│   ├── build-notes.md          # implementation surprises and decisions
-│   └── cross-references.md     # bird's-eye map of theme threads across all 90 lessons
+│       ├── rules.md        # the rules and patterns the teacher introduces
+│       └── transcript.md   # verbatim transcript of the audio lesson
+├── cards/                  # one yml per bundle, <letter>_<theme>.yml
+│                           # (a_foundation.yml … z_closeout.yml + nn_line_past_full.yml for Ñ)
+├── audio/
+│   └── flashcards/         # per-bundle drill MP3s, bundle_<letter>_pt<NN>.mp3
+├── build/                  # generators (Anki, flashcards, podcast feed) + lib + tests
+├── docs/                   # design + content guidelines
+│   ├── lesson-bundles.md
+│   ├── card-design.md
+│   ├── tts-plan.md
+│   ├── build-notes.md
+│   └── cross-references.md
+├── dist/transferencia.apkg # generated Anki deck
+├── podcast.xml             # RSS feed for podcast clients (Pocket Casts etc.)
 └── Complete+Spanish+transcript+-+2019+final.pdf
 ```
 
 ## What it's for
 
-Three outputs feeding the same source-of-truth files:
+Two outputs feeding the same source-of-truth YAML cards:
 
-1. **An Anki deck** (`dist/transferencia.apkg`) for desk review, with one subdeck per bundle (e.g. `Transferencia::Bundle B Verb Unlock`), tagged so you can drill `lesson::03` or `bundle::b_verb_unlock` or the whole thing.
-2. **Per-bundle review-set MP3s** (`audio/review_set_<letter>.mp3`) for the daily ~20-minute drive. Each set plays English prompt → silent pause for you to answer aloud → Spanish answer, with a "Siguiente." marker between cards. Direction is 70/30 EN→ES; the set is 70% current bundle + 30% prior-bundle review.
-3. **Bundle-grouped immersion stories** (`audio/stories/<group>/<NN>_<slug>.mp3`) for exposure listening. Each story has an English orientation preface ("Listen for…") then the Spanish body. Tone: dialogue-driven, characters with edge.
+1. **An Anki deck** (`dist/transferencia.apkg`) for desk review. One subdeck per bundle (e.g. `Transferencia::Bundle B Verb Unlock`), tagged so you can drill `lesson::03`, `bundle::b_verb_unlock`, or the whole thing.
+2. **Per-bundle flashcard MP3s** (`audio/flashcards/bundle_<letter>_pt<NN>.mp3`) for hands-free listening — car, walk, dishwashing. Each bundle's cards are shuffled and split into ≤30-min parts. Three exercise shapes interleaved:
+   - **EN → ES** sentence/transformation: English prompt → Spanish answer.
+   - **ES → EN** sentence/transformation: Spanish prompt (spoken twice for sentences) → English answer.
+   - **Conjugation**: spliced `"Conjugate the I form for"` (EN) + `"dormir."` (ES) → after pause, `"duermo."` → after second pause, `"duermo means I sleep."` (mini second flashcard for meaning).
 
-Cards live in `cards/<letter>_<theme>.yml` — one bundle per Spanish-alphabet letter (A–Z + Ñ, 27 bundles, 9 fours + 18 threes = 90 lessons).
-
-Stories live in `stories/<group_slug>/<NN>_<slug>.md` — nine hand-picked thematic groups along grammar arcs (see [docs/stories.md](docs/stories.md) for the map).
+A two-tone E-major-7 chime separates cards. An accompanying `podcast.xml` makes the bundle MP3s subscribable in Pocket Casts / Overcast / Apple Podcasts.
 
 ## Getting started
 
 ```bash
-# Install Python deps
-make install
+python3 -m venv .venv
+.venv/bin/pip install -r build/requirements.txt
 
 # Download Piper voices (~120 MB)
 build/scripts/fetch_piper_voices.sh
@@ -55,62 +51,46 @@ build/scripts/fetch_piper_voices.sh
 make all
 
 # Outputs:
-#   dist/transferencia.apkg                     → import into Anki or Mochi
-#   audio/review_set_<letter>.mp3               → per-bundle 20-min drill
-#   audio/stories/<group>/<NN>_<slug>.mp3       → immersion stories
+#   dist/transferencia.apkg                          → import into Anki or Mochi
+#   audio/flashcards/bundle_<letter>_pt<NN>.mp3      → per-bundle drill audio
+#   podcast.xml                                      → RSS feed for podcast clients
 ```
 
-If `python3.11` isn't on your PATH, override with `make PYTHON=python3 install` and use a virtualenv:
+The Makefile defaults `PYTHON` to `.venv/bin/python`. Override with `make PYTHON=python3 install` if you prefer system Python.
 
-```bash
-python3 -m venv .venv
-.venv/bin/pip install -r build/requirements.txt
-make PYTHON=.venv/bin/python install   # or any other make target
-```
-
-Useful targets while iterating:
+Useful targets:
 
 - `make validate` — parse all card YAML
-- `make anki` — build `dist/transferencia.apkg`. One Anki card per source row; reversibility expressed as subdecks: `Transferencia::Bundle X Y::X-reversible` (English ↔ Spanish drills) and `Transferencia::Bundle X Y::X-one_way` (conjugation-style cards). Importable into Anki directly or into Mochi via Mochi's Anki import; in Mochi, toggle "Review cards in reverse" ON for the `*-reversible` subdecks only.
-- `make review-sets` — render all per-bundle review sets
-- `make stories` — render all immersion stories
-- `make validate-stories` — vocab-window check on stories (advisory warnings)
+- `make anki` — build `dist/transferencia.apkg`
+- `make flashcards` — render all bundle drill MP3s (Piper TTS, on-disk cache)
+- `make podcast` — emit `podcast.xml` pointing at the rendered MP3s
+- `make clean` — trash dist + audio outputs (preserves Piper cache)
+
+### Rendering a single bundle
+
+```bash
+.venv/bin/python build/generate_bundle_flashcards.py --bundle e
+```
 
 ## Pedagogy
 
 Following Language Transfer's method:
 
 - **Mental transfer** — apply rules to derive Spanish from English (*-tion → -ción → -ar*), not rote vocab memorization.
-- **Mental translation** — production direction (EN → ES) dominates. Hardest, most useful.
+- **Mental translation** — production direction (EN → ES) dominates.
 - **Reinforcement, not first exposure** — cards assume you've heard the lesson audio. Minimal rule-context on the card; lesson links for back-reference.
 - **Two tiers per lesson** — *primary* (drawn directly from the lesson) and *extended* (real-world examples that apply the same rule, not in the lesson).
-- **Immersion stories for exposure** — stories live entirely inside their group's grammar window, so a learner at L10 hears L10-level Spanish, and a learner at L49 hears the full conditional + line-past family at work.
+- **Deferred meaning on conjugations** — the conjugation drill speaks the Spanish answer first, then later spells out the English meaning. Lets you self-test the form *and* the gloss as two passes through the same card.
 
-See [docs/learning-system.md](docs/learning-system.md) for full design.
-
-## Status
-
-- ✅ Lesson rules + transcripts: 90/90
-- ✅ Cross-references map: complete (`docs/cross-references.md`)
-- ✅ Card system infrastructure: schema, parser, validator, Anki generator, review-set generator, story generator, Piper + macOS TTS adapters
-- ✅ All 27 bundles (A–Z + Ñ) defined for L1–90 — see `docs/lesson-bundles.md`
-- ✅ Bundles A–O cards built (L1–53)
-- ✅ Stories: groups 1–5 (L1–49), 3 stories per group = 15 stories
-- ⏳ Bundles P–Z cards (L54–90): defined; not yet built
-- ⏳ Stories groups 6–9: deferred until bundles P–Z exist
-
-## Daily routine
-
-Target: 5–20 min flashcards + 20–40 min audio per day. See [docs/study-routine.md](docs/study-routine.md).
+See [docs/card-design.md](docs/card-design.md) for card schema + tier conventions, and [docs/lesson-bundles.md](docs/lesson-bundles.md) for the 27-bundle plan.
 
 ## Sync to phone
 
-For now, the simplest path:
+**Pocket Casts (private feed)**: subscribe to the GitHub-hosted `podcast.xml` once it's pushed. New parts surface as new episodes; speed adjustment + auto-download work as with any podcast.
 
-1. Drag `dist/transferencia.apkg` to Anki desktop, then sync to AnkiWeb. AnkiMobile pulls it automatically.
-2. Drag `audio/review_set_*.mp3` and the `audio/stories/` tree into an iCloud Drive folder. Open them from Files on iPhone. CarPlay / Bluetooth play directly.
+**Files-on-iPhone fallback**: drag `audio/flashcards/` into iCloud Drive. Open from Files app on iPhone; CarPlay / Bluetooth play directly. Pocket Casts can also import from a local folder.
 
-A private podcast feed is a future option for incremental auto-sync.
+`dist/transferencia.apkg` → Anki desktop → sync to AnkiWeb → AnkiMobile pulls it.
 
 ## Source
 

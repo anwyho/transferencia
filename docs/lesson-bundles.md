@@ -36,24 +36,6 @@ Distribution: **9 bundles of 4 lessons + 18 bundles of 3 lessons = 90**. Each bu
 | 26 | **Y. Go-verbs + future contractions + irreg point-past start** | 84–87 *(4)* | *(not yet built)* | Full "go verbs" family (*tengo, vengo, salgo, pongo, digo, hago, oigo, traigo*); mood swaps *-go → -ga*; go-verb commands (formal *-ga*; informal positive = drop *-go*: *ten, sal, ven, di, pon*); future contractions (*tendré, saldré, vendré, pondré, haré, diré, podré*); line-past irregulars + irregular point-past family (*tuve, estuve, pude, hube* — root change, mixed *-ar/-er-ir* endings, no accent). |
 | 27 | **Z. Closeout + dialects** | 88–90 | *(not yet built)* | More irregular point-past (*puse, hice/hizo, vine, traje, fui*); *fui* shared for *ser* AND *ir*; spelling switch *c→z* in *hizo*; dropped *i* in *fueron/dijeron*; building past mood from the *they*-form of point-past; rule-discovery puzzle (short feminine *a-…-a* takes *el*, *uno/alguno/ninguno → un/algún/ningún* before masc, *demasiado* changes with nouns but not adjectives); regional accents, leísmo, vosotros, vos, aspirated *s*; closing pep talk on listening. |
 
-## Story groups
-
-For immersion audio, the 27 bundles are clustered into nine hand-picked thematic groups along grammar arcs (not rigid alphabetical triples). The clustering is owned by [`docs/stories.md`](stories.md):
-
-| # | Group slug | Bundles | Lesson_max | Theme |
-|---|------------|---------|------------|-------|
-| 1 | `1_foundation` | A, B, C | 10 | foundation + verb unlock + helpers |
-| 2 | `2_present_pivot` | D, E, F | 20 | full present + vowel splits + we-form |
-| 3 | `3_first_past_objects` | G, H, I | 30 | haber-past + dar + first agreement + ser/estar |
-| 4 | `4_ser_gerund_pronouns` | J, K, L | 39 | full ser + gerund + pronoun migration + reflexive se |
-| 5 | `5_gustar_line_past` | M, N, Ñ | 49 | gustar + conditional + line-past full |
-| 6 | `6_para_por_participles` | O, P | 57 | para vs por + pluperfect + irregular participles |
-| 7 | `7_point_past_in_motion` | Q, R, S | 67 | point-past + hace + possessives + accents |
-| 8 | `8_demonstratives_mood_intro` | T, U, V | 77 | demonstratives + mood-tense intro + commands |
-| 9 | `9_closeout_mood_past` | W, X, Y, Z | 90 | ojalá + past mood + go-verb family + dialects |
-
-**Stories built**: groups 1–5 (lessons 1–49), 3 stories per group = 15 stories. Audio at `audio/stories/<group_slug>/`. Groups 6–9 deferred.
-
 ## Status
 
 Full concept-driven rebuild complete (2026-05). All 27 bundles authored, A through Z (incl. Ñ), covering all 90 lessons. 3795 cards total (≈ 70/30 primary/extended). Per-bundle budgets in [`card-design.md`](card-design.md#quantity-targets).
