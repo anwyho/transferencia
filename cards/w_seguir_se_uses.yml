@@ -89,6 +89,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L78-008
+  type: transformation
+  tier: primary
+  front_en: spectacular
+  back_es: espectacular
+  hint: sp- → esp- · -ar stays
+  rule_ref: 'L78#10'
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
 - id: L78-009
   type: transformation
   tier: primary
@@ -96,6 +108,18 @@ cards:
   back_es: terminar
   hint: -ate → -ar
   rule_ref: L78#13
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: L78-010
+  type: transformation
+  tier: primary
+  front_en: to sell
+  back_es: vender
+  hint: '-er verb'
+  rule_ref: 'L78#14'
   lessons:
   - 78
   directions:
@@ -613,6 +637,218 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L78-054
+  type: transformation
+  tier: primary
+  front_en: with me
+  back_es: conmigo
+  hint: con + me glued into one word
+  rule_ref: 'L78#1'
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: L78-055
+  type: conjugation
+  tier: primary
+  front_en: mood they form of hablar
+  back_es: hablen
+  hint: '-ar mood swaps to -en'
+  rule_ref: 'L78#17'
+  lessons:
+  - 78
+  directions:
+  - en_es
+- id: L78-056
+  type: sentence
+  tier: primary
+  front_en: I keep studying Spanish.
+  back_es: Sigo estudiando español.
+  hint: seguir + gerund = keep doing X
+  rule_ref: 'L78#1'
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: L78-057
+  type: sentence
+  tier: primary
+  front_en: He keeps eating.
+  back_es: Sigue comiendo.
+  hint: seguir + gerund = keep doing X
+  rule_ref: 'L78#2'
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: L78-058
+  type: sentence
+  tier: primary
+  front_en: We continue being free.
+  back_es: Seguimos siendo gratis.
+  hint: seguir + siendo · we form
+  rule_ref: 'L78#5, L78#6'
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: L78-059
+  type: sentence
+  tier: primary
+  front_en: I want them to talk with me when they finish selling them.
+  back_es: Quiero que hablen conmigo cuando terminen de venderlos.
+  hint: querer que · cuando + future · terminar de + INF
+  rule_ref: 'L78#14, L78#17'
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: L78-060
+  type: sentence
+  tier: primary
+  front_en: I want them to talk when they end up selling them.
+  back_es: Quiero que hablen cuando terminen vendiéndolos.
+  hint: querer que · cuando + future · terminar + gerund
+  rule_ref: 'L78#15, L78#17'
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: L78-061
+  type: sentence
+  tier: extended
+  front_en: 'It''s probable that we end up eating.'
+  back_es: Es probable que terminemos comiendo.
+  hint: es probable que + mood · terminar + gerund
+  rule_ref: 'L78#3, L78#15'
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: L78-062
+  type: sentence
+  tier: extended
+  front_en: 'It''s imperative that we start to speak.'
+  back_es: Es imperativo que empecemos a hablar.
+  hint: es imperativo que + mood · empezar a + INF
+  rule_ref: 'L78#7, L78#9'
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: L78-063
+  type: conjugation
+  tier: primary
+  front_en: mood we form of empezar
+  back_es: empecemos
+  hint: start (subj.) · e→ie drops in we form · z→c before -emos
+  rule_ref: 'L78#9'
+  lessons:
+  - 78
+  directions:
+  - en_es
+- id: L78-064
+  type: conjugation
+  tier: primary
+  front_en: mood we form of terminar
+  back_es: terminemos
+  hint: finish (subj.) · -ar mood swaps to -emos
+  rule_ref: 'L78#17'
+  lessons:
+  - 78
+  directions:
+  - en_es
+- id: L78-065
+  type: conjugation
+  tier: primary
+  front_en: mood we form of seguir
+  back_es: sigamos
+  hint: follow (subj.) · e→i · -ir mood swaps to -amos
+  rule_ref: 'L78#3'
+  lessons:
+  - 78
+  directions:
+  - en_es
+- id: L78-066
+  type: sentence
+  tier: extended
+  front_en: She keeps studying Spanish.
+  back_es: Sigue estudiando español.
+  hint: seguir + gerund = keep doing X
+  rule_ref: 'L78#2'
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: L78-067
+  type: sentence
+  tier: extended
+  front_en: We keep eating.
+  back_es: Seguimos comiendo.
+  hint: seguir + gerund · we form
+  rule_ref: 'L78#1'
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: L78-068
+  type: transformation
+  tier: primary
+  front_en: to follow / to continue
+  back_es: seguir
+  hint: '-ir verb · e→i spine'
+  rule_ref: 'L78#1'
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: L78-069
+  type: transformation
+  tier: primary
+  front_en: to be (characteristics)
+  back_es: ser
+  hint: '-ing = *siendo*'
+  rule_ref: 'L78#5'
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: L78-070
+  type: sentence
+  tier: extended
+  front_en: We start to talk.
+  back_es: Empezamos a hablar.
+  hint: empezar a + INF (prep gives -ing variant elsewhere)
+  rule_ref: 'L78#9, L78#16'
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
+- id: L78-071
+  type: sentence
+  tier: extended
+  front_en: We start out talking.
+  back_es: Empezamos hablando.
+  hint: empezar + gerund (no prep) = start out
+  rule_ref: 'L78#11, L78#16'
+  lessons:
+  - 78
+  directions:
+  - en_es
+  - es_en
 - id: L79-001
   type: transformation
   tier: primary
@@ -673,6 +909,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L79-006
+  type: transformation
+  tier: primary
+  front_en: to say / to tell
+  back_es: decir
+  hint: '-ir verb · highly irregular'
+  rule_ref: 'L79#5'
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
 - id: L79-007
   type: transformation
   tier: primary
@@ -680,6 +928,18 @@ cards:
   back_es: esencial
   hint: -tial → -cial · sp/st → es-
   rule_ref: L79#9
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: L79-008
+  type: transformation
+  tier: primary
+  front_en: to tell him/her/(formal) you
+  back_es: decirle
+  hint: decir + le glued
+  rule_ref: 'L79#5'
   lessons:
   - 79
   directions:
@@ -716,6 +976,18 @@ cards:
   back_es: ojo
   hint: also = "be careful"
   rule_ref: L79#13
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: L79-012
+  type: transformation
+  tier: primary
+  front_en: tradition
+  back_es: tradición
+  hint: '-tion → -ción'
+  rule_ref: 'L79#9'
   lessons:
   - 79
   directions:
@@ -1114,6 +1386,220 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L79-046
+  type: transformation
+  tier: primary
+  front_en: spatial
+  back_es: espacial
+  hint: '-tial → -cial · sp- → esp-'
+  rule_ref: 'L79#9'
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: L79-047
+  type: transformation
+  tier: primary
+  front_en: soon
+  back_es: pronto
+  hint: 'adverb · cousin of *prompt*'
+  rule_ref: 'L79#16'
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: L79-048
+  type: transformation
+  tier: primary
+  front_en: to see
+  back_es: ver
+  hint: 'irregular · I form *veo* · mood *vea*'
+  rule_ref: 'L79#11'
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: L79-049
+  type: sentence
+  tier: primary
+  front_en: 'Hopefully it rains!'
+  back_es: '¡Ojalá llueva!'
+  hint: 'ojalá + mood · *llover* = to rain (o→ue)'
+  rule_ref: 'L79#14'
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: L79-050
+  type: sentence
+  tier: primary
+  front_en: I want him to tell me.
+  back_es: Quiero que me diga.
+  hint: querer que + mood · diga = mood decir
+  rule_ref: 'L79#4, L79#5'
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: L79-051
+  type: conjugation
+  tier: primary
+  front_en: mood she form of decir
+  back_es: diga
+  hint: 'say (subj.) · built off irregular *digo*'
+  rule_ref: 'L79#5'
+  lessons:
+  - 79
+  directions:
+  - en_es
+- id: L79-052
+  type: sentence
+  tier: extended
+  front_en: Tradition is essential.
+  back_es: La tradición es esencial.
+  hint: noun + ser + adjective
+  rule_ref: 'L79#9'
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: L79-053
+  type: sentence
+  tier: extended
+  front_en: Hopefully soon.
+  back_es: Ojalá pronto.
+  hint: ojalá + adverb (verb implied)
+  rule_ref: 'L79#14, L79#16'
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: L79-054
+  type: sentence
+  tier: extended
+  front_en: 'It''s essential that she leave it soon.'
+  back_es: Es esencial que lo deje pronto.
+  hint: es esencial que + mood · pronto
+  rule_ref: 'L79#10, L79#16'
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: L79-055
+  type: sentence
+  tier: extended
+  front_en: Hopefully you guys see the message.
+  back_es: Ojalá vean el mensaje.
+  hint: ojalá + they mood ver
+  rule_ref: 'L79#14, L79#11'
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: L79-056
+  type: sentence
+  tier: extended
+  front_en: I want to tell him to see it.
+  back_es: Quiero decirle que lo vea.
+  hint: decirle que + mood ver + lo
+  rule_ref: 'L79#5, L79#11'
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: L79-057
+  type: sentence
+  tier: extended
+  front_en: 'Watch out, the door!'
+  back_es: '¡Ojo, la puerta!'
+  hint: 'ojo = watch out!'
+  rule_ref: 'L79#13'
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: L79-058
+  type: conjugation
+  tier: primary
+  front_en: mood we form of dejar
+  back_es: dejemos
+  hint: leave (subj.) · -ar mood swaps to -emos
+  rule_ref: 'L79#4'
+  lessons:
+  - 79
+  directions:
+  - en_es
+- id: L79-059
+  type: sentence
+  tier: extended
+  front_en: 'It''s essential that we leave a message.'
+  back_es: Es esencial que dejemos un mensaje.
+  hint: es esencial que + we mood
+  rule_ref: 'L79#10'
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: L79-060
+  type: transformation
+  tier: primary
+  front_en: 'to go out (different *leave*)'
+  back_es: salir
+  hint: 'not *dejar* (leave a thing/message)'
+  rule_ref: 'L79#1'
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: L79-061
+  type: transformation
+  tier: primary
+  front_en: Arabic for God
+  back_es: Allah
+  hint: 'buried inside *ojalá* (ojo-Allah)'
+  rule_ref: 'L79#12'
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: L79-062
+  type: transformation
+  tier: primary
+  front_en: I see
+  back_es: veo
+  hint: 'irregular I form of *ver* · mood root *vea*'
+  rule_ref: 'L79#11'
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
+- id: L79-063
+  type: sentence
+  tier: extended
+  front_en: I want to tell him that he is leaving me a message.
+  back_es: Quiero decirle que me deja un mensaje.
+  hint: '*deja* (present) = currently · contrast with mood *deje* = order'
+  rule_ref: 'L79#6'
+  lessons:
+  - 79
+  directions:
+  - en_es
+  - es_en
 - id: L80-001
   type: transformation
   tier: primary
@@ -1121,6 +1607,18 @@ cards:
   back_es: sé
   hint: written accent · from saber
   rule_ref: L80#1
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: L80-002
+  type: transformation
+  tier: primary
+  front_en: I know (it)
+  back_es: lo sé
+  hint: 'lo + sé · the *lo* props up the tiny *sé*'
+  rule_ref: 'L80#1'
   lessons:
   - 80
   directions:
@@ -1162,6 +1660,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L80-006
+  type: transformation
+  tier: primary
+  front_en: to prepare
+  back_es: preparar
+  hint: '-ar verb'
+  rule_ref: 'L80#4'
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
 - id: L80-007
   type: transformation
   tier: primary
@@ -1198,6 +1708,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L80-010
+  type: transformation
+  tier: primary
+  front_en: to close
+  back_es: cerrar
+  hint: '-ar verb · e→ie spine'
+  rule_ref: 'L80#8'
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
 - id: L80-011
   type: transformation
   tier: primary
@@ -1210,6 +1732,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L80-012
+  type: transformation
+  tier: primary
+  front_en: to dine / have dinner
+  back_es: cenar
+  hint: '-ar verb · noun *la cena*'
+  rule_ref: 'L80#9'
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
 - id: L80-013
   type: transformation
   tier: primary
@@ -1217,6 +1751,18 @@ cards:
   back_es: cena
   hint: feminine
   rule_ref: L80#9
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: L80-014
+  type: transformation
+  tier: primary
+  front_en: to burn
+  back_es: quemar
+  hint: '-ar verb · qu = /k/'
+  rule_ref: 'L80#10'
   lessons:
   - 80
   directions:
@@ -1253,6 +1799,30 @@ cards:
   back_es: batería
   hint: accent on í
   rule_ref: L80#12
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: L80-018
+  type: transformation
+  tier: primary
+  front_en: always
+  back_es: siempre
+  hint: adverb · e→ie
+  rule_ref: 'L80#13'
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: L80-019
+  type: transformation
+  tier: primary
+  front_en: on me / on you / on him / on us / on them
+  back_es: se me / se te / se le / se nos / se les
+  hint: '*se* + indirect-object pronoun · happened *to* you'
+  rule_ref: 'L80#5'
   lessons:
   - 80
   directions:
@@ -1433,6 +2003,18 @@ cards:
   back_es: La cena se nos quemó.
   hint: se + nos · point past
   rule_ref: L80#17
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: L80-035
+  type: transformation
+  tier: primary
+  front_en: I prepare
+  back_es: preparo
+  hint: '-ar I form'
+  rule_ref: 'L80#4'
   lessons:
   - 80
   directions:
@@ -1747,6 +2329,209 @@ cards:
   rule_ref: L78#17, L80#5
   lessons:
   - 78
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: L80-062
+  type: sentence
+  tier: primary
+  front_en: I dropped the cup.
+  back_es: Se me cayó la taza.
+  hint: 'on-me se + point past *cayó* · lit. it-fell-on-me the cup'
+  rule_ref: 'L80#5, L80#17'
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: L80-063
+  type: transformation
+  tier: primary
+  front_en: cup
+  back_es: taza
+  hint: 'feminine · cousin of English *tasse*'
+  rule_ref: 'L80#5'
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: L80-064
+  type: transformation
+  tier: primary
+  front_en: it fell (point past)
+  back_es: cayó
+  hint: '*caer* · y-insertion in point past'
+  rule_ref: 'L80#17'
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: L80-065
+  type: sentence
+  tier: extended
+  front_en: The cup fell on me.
+  back_es: La taza se me cayó.
+  hint: 'alt word order · same meaning as *se me cayó la taza*'
+  rule_ref: 'L80#5, L80#7'
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: L80-066
+  type: sentence
+  tier: primary
+  front_en: I know it.
+  back_es: Lo sé.
+  hint: 'lo + sé · the *lo* props up the tiny *sé*'
+  rule_ref: 'L80#1'
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: L80-067
+  type: sentence
+  tier: primary
+  front_en: He stays.
+  back_es: Se queda.
+  hint: 'self-se · *quedar* + se'
+  rule_ref: 'L80#3'
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: L80-068
+  type: sentence
+  tier: extended
+  front_en: I prepare it for them.
+  back_es: Se lo preparo.
+  hint: phonetic se · les+lo → se+lo (same surface form as for him)
+  rule_ref: 'L80#4'
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: L80-069
+  type: sentence
+  tier: extended
+  front_en: She prepares it for him.
+  back_es: Se lo prepara.
+  hint: phonetic se · she form
+  rule_ref: 'L80#4'
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: L80-070
+  type: sentence
+  tier: extended
+  front_en: I know that the dinner burns on us.
+  back_es: Sé que la cena se nos quema.
+  hint: sé (I know) + on-us se · combines two uses
+  rule_ref: 'L80#1, L80#5, L80#10'
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: L80-071
+  type: sentence
+  tier: extended
+  front_en: 'Hopefully the battery doesn''t run out on me.'
+  back_es: Ojalá no se me acabe la batería.
+  hint: ojalá + mood · on-me se · acabe = mood acabar
+  rule_ref: 'L79#14, L80#5, L80#12'
+  lessons:
+  - 79
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: L80-072
+  type: sentence
+  tier: extended
+  front_en: 'Hopefully the door doesn''t close on you.'
+  back_es: Ojalá no se te cierre la puerta.
+  hint: ojalá + mood · on-you se · cierre = mood cerrar
+  rule_ref: 'L79#14, L80#5, L80#8'
+  lessons:
+  - 79
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: L80-073
+  type: sentence
+  tier: extended
+  front_en: I know that he prepares it for her.
+  back_es: Sé que se lo prepara.
+  hint: sé (I know) + phonetic se
+  rule_ref: 'L80#1, L80#4'
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: L80-074
+  type: conjugation
+  tier: primary
+  front_en: mood she form of acabar
+  back_es: acabe
+  hint: finish/run-out (subj.) · -ar mood swaps to -e
+  rule_ref: 'L80#12'
+  lessons:
+  - 80
+  directions:
+  - en_es
+- id: L80-075
+  type: conjugation
+  tier: primary
+  front_en: mood she form of cerrar
+  back_es: cierre
+  hint: close (subj.) · e→ie · mood swap to -e
+  rule_ref: 'L80#8'
+  lessons:
+  - 80
+  directions:
+  - en_es
+- id: L80-076
+  type: conjugation
+  tier: primary
+  front_en: mood she form of quemar
+  back_es: queme
+  hint: burn (subj.) · -ar mood swaps to -e
+  rule_ref: 'L80#10'
+  lessons:
+  - 80
+  directions:
+  - en_es
+- id: L80-077
+  type: transformation
+  tier: primary
+  front_en: to know (a fact)
+  back_es: saber
+  hint: 'I form is irregular *sé* with written accent'
+  rule_ref: 'L80#1'
+  lessons:
+  - 80
+  directions:
+  - en_es
+  - es_en
+- id: L80-078
+  type: transformation
+  tier: primary
+  front_en: self (himself/herself/yourself/itself/themselves)
+  back_es: se
+  hint: no accent · grammatical se · also phonetic + on-me uses
+  rule_ref: 'L80#2'
+  lessons:
   - 80
   directions:
   - en_es

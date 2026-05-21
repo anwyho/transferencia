@@ -457,6 +457,150 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L24-200
+  type: sentence
+  tier: primary
+  front_en: HE gives.
+  back_es: Él da.
+  hint: subject pronoun for emphasis
+  rule_ref: 'L24#8'
+  lessons:
+  - 24
+  directions:
+  - en_es
+  - es_en
+- id: L24-201
+  type: sentence
+  tier: primary
+  front_en: I give them.
+  back_es: Los doy.
+  hint: los = them (masc direct object)
+  rule_ref: 'L24#10'
+  lessons:
+  - 24
+  directions:
+  - en_es
+  - es_en
+- id: L24-202
+  type: sentence
+  tier: primary
+  front_en: I give them (fem).
+  back_es: Las doy.
+  hint: las = them (fem direct object)
+  rule_ref: 'L24#10'
+  lessons:
+  - 24
+  directions:
+  - en_es
+  - es_en
+- id: L24-203
+  type: sentence
+  tier: primary
+  front_en: 'He''s giving me something.'
+  back_es: Él me da algo.
+  hint: él for emphasis · algo = something
+  rule_ref: 'L24#7, L24#8'
+  lessons:
+  - 24
+  directions:
+  - en_es
+  - es_en
+- id: L24-204
+  type: sentence
+  tier: extended
+  front_en: Are you giving it to me tomorrow? (subject middle)
+  back_es: ¿Me lo da usted mañana?
+  hint: subject can sit in the middle
+  rule_ref: 'L24#8'
+  lessons:
+  - 24
+  directions:
+  - en_es
+  - es_en
+- id: L24-205
+  type: sentence
+  tier: extended
+  front_en: Are you giving it to me tomorrow? (subject end)
+  back_es: ¿Me lo da mañana usted?
+  hint: subject can sit at the end
+  rule_ref: 'L24#8'
+  lessons:
+  - 24
+  directions:
+  - en_es
+  - es_en
+- id: L24-206
+  type: sentence
+  tier: primary
+  front_en: She gives us something.
+  back_es: Nos da algo.
+  hint: nos = us / to us
+  rule_ref: 'L24#7, L24#5'
+  lessons:
+  - 24
+  directions:
+  - en_es
+  - es_en
+- id: L24-207
+  type: sentence
+  tier: extended
+  front_en: We can give it to you tomorrow.
+  back_es: Te lo podemos dar mañana.
+  hint: stacked + helper + time
+  rule_ref: 'L24#11, L24#6'
+  lessons:
+  - 24
+  directions:
+  - en_es
+  - es_en
+- id: L24-208
+  type: sentence
+  tier: extended
+  front_en: We can give it to you tomorrow. (Podemos…)
+  back_es: Podemos dártelo mañana.
+  hint: alt — te + lo stuck on dar
+  rule_ref: 'L24#11'
+  lessons:
+  - 24
+  directions:
+  - en_es
+  - es_en
+- id: L24-209
+  type: sentence
+  tier: extended
+  front_en: 'I''m going to give it to you.'
+  back_es: Te lo voy a dar.
+  hint: te lo before voy
+  rule_ref: 'L24#11'
+  lessons:
+  - 24
+  directions:
+  - en_es
+  - es_en
+- id: L24-210
+  type: sentence
+  tier: extended
+  front_en: 'Don''t give it to me.'
+  back_es: No me lo das.
+  hint: 'literally *you don''t give it to me*'
+  rule_ref: 'L24#4, L24#10'
+  lessons:
+  - 24
+  directions:
+  - en_es
+  - es_en
+- id: L24-211
+  type: sentence
+  tier: extended
+  front_en: We give it to you.
+  back_es: Te lo damos.
+  hint: we-form stacking · damos
+  rule_ref: 'L24#3, L24#4'
+  lessons:
+  - 24
+  directions:
+  - en_es
+  - es_en
 - id: L25-001
   type: transformation
   tier: primary
@@ -941,6 +1085,237 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L25-200
+  type: transformation
+  tier: primary
+  front_en: to speak
+  back_es: hablar
+  hint: h is silent — /ablar/
+  rule_ref: 'L25#1'
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-201
+  type: transformation
+  tier: primary
+  front_en: the kitchen
+  back_es: la cocina
+  hint: /cosina/ LatAm · /cothina/ Spain
+  rule_ref: 'L25#6'
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-202
+  type: transformation
+  tier: primary
+  front_en: to do it
+  back_es: hacerlo
+  hint: lo stuck on the -er form
+  rule_ref: 'L25#5'
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-203
+  type: transformation
+  tier: primary
+  front_en: to be able / can
+  back_es: poder
+  hint: o → ue split when stressed
+  rule_ref: 'L25#9'
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-204
+  type: conjugation
+  tier: primary
+  front_en: I form of poder
+  back_es: puedo
+  hint: o → ue · I can
+  rule_ref: 'L25#9'
+  lessons:
+  - 25
+  directions:
+  - en_es
+- id: L25-205
+  type: conjugation
+  tier: primary
+  front_en: you form of poder
+  back_es: puedes
+  hint: o → ue · you can
+  rule_ref: 'L25#9'
+  lessons:
+  - 25
+  directions:
+  - en_es
+- id: L25-206
+  type: conjugation
+  tier: primary
+  front_en: she form of poder
+  back_es: puede
+  hint: o → ue · he/she/you (formal) can
+  rule_ref: 'L25#9'
+  lessons:
+  - 25
+  directions:
+  - en_es
+- id: L25-207
+  type: conjugation
+  tier: primary
+  front_en: we form of poder
+  back_es: podemos
+  hint: no split — stress shifts to -e- ending
+  rule_ref: 'L25#9'
+  lessons:
+  - 25
+  directions:
+  - en_es
+- id: L25-208
+  type: conjugation
+  tier: primary
+  front_en: they form of poder
+  back_es: pueden
+  hint: o → ue · they/you guys can
+  rule_ref: 'L25#9'
+  lessons:
+  - 25
+  directions:
+  - en_es
+- id: L25-209
+  type: conjugation
+  tier: extended
+  front_en: you form of cocinar
+  back_es: cocinas
+  hint: to cook · regular -as
+  rule_ref: 'L25#8'
+  lessons:
+  - 25
+  directions:
+  - en_es
+- id: L25-210
+  type: conjugation
+  tier: extended
+  front_en: we form of cocinar
+  back_es: cocinamos
+  hint: to cook · regular -amos
+  rule_ref: 'L25#8'
+  lessons:
+  - 25
+  directions:
+  - en_es
+- id: L25-211
+  type: conjugation
+  tier: extended
+  front_en: they form of cocinar
+  back_es: cocinan
+  hint: to cook · regular -an
+  rule_ref: 'L25#8'
+  lessons:
+  - 25
+  directions:
+  - en_es
+- id: L25-212
+  type: transformation
+  tier: extended
+  front_en: see you / until we see each other
+  back_es: hasta la vista
+  hint: fixed phrase · vista = the view
+  rule_ref: 'L25#17'
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-213
+  type: sentence
+  tier: primary
+  front_en: 'Buy me something! (vendor idiom)'
+  back_es: '¡Cómprame algo!'
+  hint: 'fixed idiom — *buy something from me*'
+  rule_ref: 'L25#4'
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-214
+  type: sentence
+  tier: primary
+  front_en: They speak to me.
+  back_es: Me hablan.
+  hint: me = me / to me
+  rule_ref: 'L25#1'
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-215
+  type: sentence
+  tier: primary
+  front_en: Do you want to do it?
+  back_es: ¿Quieres hacerlo?
+  hint: lo on the end of hacer
+  rule_ref: 'L25#5'
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-216
+  type: sentence
+  tier: primary
+  front_en: We have cooked at eight.
+  back_es: Hemos cocinado a las ocho.
+  hint: 7 words · have-past + time
+  rule_ref: 'L25#11'
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-217
+  type: sentence
+  tier: extended
+  front_en: 'At nine o''clock.'
+  back_es: A las nueve.
+  rule_ref: 'L25#11, L25#12'
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-218
+  type: sentence
+  tier: extended
+  front_en: We stay here until eight.
+  back_es: Nos quedamos aquí hasta las ocho.
+  hint: 7 words · reflexive + here + until
+  rule_ref: 'L25#17, L25#15'
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
+- id: L25-219
+  type: sentence
+  tier: extended
+  front_en: Can you cook something for us?
+  back_es: ¿Nos puedes cocinar algo?
+  hint: nos before changed verb
+  rule_ref: 'L25#10, L25#1'
+  lessons:
+  - 25
+  directions:
+  - en_es
+  - es_en
 - id: L26-007
   type: transformation
   tier: primary
@@ -1323,6 +1698,238 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L26-200
+  type: transformation
+  tier: primary
+  front_en: to owe / to must
+  back_es: deber
+  hint: regular -er verb
+  rule_ref: 'L26#19'
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-201
+  type: conjugation
+  tier: primary
+  front_en: I form of deber
+  back_es: debo
+  hint: I must / I owe
+  rule_ref: 'L26#19'
+  lessons:
+  - 26
+  directions:
+  - en_es
+- id: L26-202
+  type: conjugation
+  tier: primary
+  front_en: we form of deber
+  back_es: debemos
+  hint: we must / we owe
+  rule_ref: 'L26#19'
+  lessons:
+  - 26
+  directions:
+  - en_es
+- id: L26-203
+  type: transformation
+  tier: primary
+  front_en: to have to
+  back_es: tener que
+  hint: tener + que + to-form
+  rule_ref: 'L26#1'
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-204
+  type: transformation
+  tier: primary
+  front_en: I have to
+  back_es: tengo que
+  hint: tengo + que · helper for to-form
+  rule_ref: 'L26#1'
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-205
+  type: transformation
+  tier: primary
+  front_en: you have to
+  back_es: tienes que
+  hint: e → ie split in tienes
+  rule_ref: 'L26#1'
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-206
+  type: transformation
+  tier: primary
+  front_en: to think
+  back_es: pensar
+  hint: e → ie split when stressed
+  rule_ref: 'L26#9'
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-207
+  type: conjugation
+  tier: primary
+  front_en: I form of pensar
+  back_es: pienso
+  hint: e → ie · I think
+  rule_ref: 'L26#9'
+  lessons:
+  - 26
+  directions:
+  - en_es
+- id: L26-208
+  type: conjugation
+  tier: primary
+  front_en: you form of pensar
+  back_es: piensas
+  hint: e → ie · you think
+  rule_ref: 'L26#9'
+  lessons:
+  - 26
+  directions:
+  - en_es
+- id: L26-209
+  type: conjugation
+  tier: primary
+  front_en: she form of pensar
+  back_es: piensa
+  hint: e → ie · he/she/it thinks
+  rule_ref: 'L26#9'
+  lessons:
+  - 26
+  directions:
+  - en_es
+- id: L26-210
+  type: conjugation
+  tier: primary
+  front_en: we form of pensar
+  back_es: pensamos
+  hint: no split — stress shifts to ending
+  rule_ref: 'L26#9'
+  lessons:
+  - 26
+  directions:
+  - en_es
+- id: L26-211
+  type: conjugation
+  tier: primary
+  front_en: they form of pensar
+  back_es: piensan
+  hint: e → ie · they/you guys think
+  rule_ref: 'L26#9'
+  lessons:
+  - 26
+  directions:
+  - en_es
+- id: L26-212
+  type: transformation
+  tier: primary
+  front_en: tonight
+  back_es: esta noche
+  hint: esta = this (fem) · noche = night
+  rule_ref: 'L26#10'
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-213
+  type: transformation
+  tier: primary
+  front_en: how
+  back_es: cómo
+  hint: 'accent on -ó- when it''s a question word'
+  rule_ref: 'L26#17'
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-214
+  type: sentence
+  tier: primary
+  front_en: I must stay.
+  back_es: Debo quedarme.
+  hint: deber + to-form
+  rule_ref: 'L26#1, L26#19'
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-215
+  type: sentence
+  tier: primary
+  front_en: What do you think?
+  back_es: ¿Qué piensas?
+  rule_ref: 'L26#9'
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-216
+  type: sentence
+  tier: extended
+  front_en: 'We''re planning to stay.'
+  back_es: Pensamos quedarnos.
+  hint: 'no split in *pensamos* · pensar + to-form'
+  rule_ref: 'L26#10, L26#9'
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-217
+  type: sentence
+  tier: extended
+  front_en: 'Why don''t you stay here?'
+  back_es: ¿Por qué no te quedas aquí?
+  hint: 'te quedas stays together · *before changed verb*'
+  rule_ref: 'L26#12'
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-218
+  type: transformation
+  tier: extended
+  front_en: September (alt spelling)
+  back_es: setiembre
+  hint: 'or *septiembre* · both valid'
+  rule_ref: 'L26#8'
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
+- id: L26-219
+  type: sentence
+  tier: extended
+  front_en: I have to stay tonight.
+  back_es: Tengo que quedarme esta noche.
+  hint: build verb pieces first, then little words · 6 words
+  rule_ref: 'L26#1, L26#13'
+  lessons:
+  - 26
+  directions:
+  - en_es
+  - es_en
 - id: L27-001
   type: transformation
   tier: primary
@@ -1660,6 +2267,186 @@ cards:
   back_es: No puedo encontrar el auto rojo.
   hint: 9 words · helper shortcut
   rule_ref: L27#9, L27#1
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-200
+  type: transformation
+  tier: primary
+  front_en: red (fem)
+  back_es: roja
+  hint: agrees with feminine noun · /rokha/
+  rule_ref: 'L27#15'
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-201
+  type: transformation
+  tier: primary
+  front_en: the (masc plural)
+  back_es: los
+  hint: el → los
+  rule_ref: 'L27#8'
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-202
+  type: transformation
+  tier: primary
+  front_en: the (fem plural)
+  back_es: las
+  hint: la → las
+  rule_ref: 'L27#8'
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-203
+  type: transformation
+  tier: primary
+  front_en: to find / encounter
+  back_es: encontrar
+  hint: o → ue split when stressed
+  rule_ref: 'L27#12'
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-204
+  type: transformation
+  tier: extended
+  front_en: I find
+  back_es: encuentro
+  hint: o → ue split · from encontrar
+  rule_ref: 'L27#12'
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-205
+  type: transformation
+  tier: primary
+  front_en: the situation
+  back_es: la situación
+  hint: '-ión is feminine'
+  rule_ref: 'L27#3'
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-206
+  type: transformation
+  tier: primary
+  front_en: the camera
+  back_es: la cámara
+  hint: fem · accent on cá-
+  rule_ref: 'L27#2'
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-207
+  type: transformation
+  tier: extended
+  front_en: global
+  back_es: global
+  hint: same spelling · just adjective slot
+  rule_ref: 'L27#1'
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-208
+  type: transformation
+  tier: extended
+  front_en: digital
+  back_es: digital
+  hint: same spelling · adjective slot
+  rule_ref: 'L27#1'
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-209
+  type: sentence
+  tier: primary
+  front_en: I want to buy it.
+  back_es: Quiero comprarla.
+  hint: la on the end of comprar — fem object
+  rule_ref: 'L27#9, L27#10'
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-210
+  type: sentence
+  tier: primary
+  front_en: The big machine.
+  back_es: La máquina grande.
+  hint: fem noun · adjective AFTER
+  rule_ref: 'L27#1, L27#6'
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-211
+  type: sentence
+  tier: extended
+  front_en: A red house.
+  back_es: Una casa roja.
+  hint: fem noun → roja
+  rule_ref: 'L27#15, L27#1'
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-212
+  type: sentence
+  tier: extended
+  front_en: Can you see the big car?
+  back_es: ¿Puedes ver el coche grande?
+  hint: 7 words · helper + adj-after
+  rule_ref: 'L27#11, L27#1'
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-213
+  type: sentence
+  tier: extended
+  front_en: I see the big red car.
+  back_es: Veo el auto rojo grande.
+  hint: verb backbone first · adjectives after
+  rule_ref: 'L27#19, L27#20'
+  lessons:
+  - 27
+  directions:
+  - en_es
+  - es_en
+- id: L27-214
+  type: sentence
+  tier: extended
+  front_en: I have to find the big house.
+  back_es: Tengo que encontrar la casa grande.
+  hint: 8 words · helper + adj-after
+  rule_ref: 'L27#9, L27#1'
   lessons:
   - 27
   directions:

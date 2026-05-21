@@ -557,6 +557,192 @@ cards:
   - 74
   directions:
   - en_es
+- id: L74-200
+  type: conjugation
+  tier: primary
+  front_en: you form of elegir
+  back_es: eliges
+  hint: to choose · e→i stressed
+  rule_ref: 'L74#2'
+  lessons:
+  - 74
+  directions:
+  - en_es
+- id: L74-201
+  type: conjugation
+  tier: primary
+  front_en: you form of volver
+  back_es: vuelves
+  hint: to return · o→ue stressed
+  rule_ref: 'L74#11'
+  lessons:
+  - 74
+  directions:
+  - en_es
+- id: L74-202
+  type: conjugation
+  tier: primary
+  front_en: mood I/she form of elegir
+  back_es: elija
+  hint: choose (subj.) · e→i · g→j · -ir → -a
+  rule_ref: 'L74#2, L74#3'
+  lessons:
+  - 74
+  directions:
+  - en_es
+- id: L74-203
+  type: conjugation
+  tier: primary
+  front_en: mood you form of elegir
+  back_es: elijas
+  hint: choose (subj.) · e→i · g→j
+  rule_ref: 'L74#2, L74#3'
+  lessons:
+  - 74
+  directions:
+  - en_es
+- id: L74-204
+  type: conjugation
+  tier: primary
+  front_en: mood you form of volver
+  back_es: vuelvas
+  hint: return (subj.) · o→ue · -er → -as
+  rule_ref: 'L74#12'
+  lessons:
+  - 74
+  directions:
+  - en_es
+- id: L74-205
+  type: transformation
+  tier: extended
+  front_en: election
+  back_es: elección
+  hint: noun cousin of elegir · accent on ó
+  rule_ref: 'L74#1'
+  lessons:
+  - 74
+  directions:
+  - en_es
+  - es_en
+- id: L74-206
+  type: transformation
+  tier: extended
+  front_en: to cook
+  back_es: cocinar
+  hint: '-ar verb · cousin of cocina (kitchen)'
+  rule_ref: 'L74#8'
+  lessons:
+  - 74
+  directions:
+  - en_es
+  - es_en
+- id: L74-207
+  type: transformation
+  tier: extended
+  front_en: to break
+  back_es: romper
+  hint: 'think ''rupture'' / ''erupt'''
+  rule_ref: 'L74#5'
+  lessons:
+  - 74
+  directions:
+  - en_es
+  - es_en
+- id: L74-208
+  type: sentence
+  tier: primary
+  front_en: You come back.
+  back_es: Vuelves.
+  hint: tú form · o→ue stressed · drop subject
+  rule_ref: 'L74#11'
+  lessons:
+  - 74
+  directions:
+  - en_es
+  - es_en
+- id: L74-209
+  type: sentence
+  tier: primary
+  front_en: 'I''m so tired.'
+  back_es: Estoy tan cansado.
+  hint: tan + adj · estar for state
+  rule_ref: 'L74#15'
+  lessons:
+  - 74
+  directions:
+  - en_es
+  - es_en
+- id: L74-210
+  type: sentence
+  tier: extended
+  front_en: I also want to return.
+  back_es: Yo también quiero volver.
+  hint: yo + también + querer + infinitive
+  rule_ref: 'L74#16'
+  lessons:
+  - 74
+  directions:
+  - en_es
+  - es_en
+- id: L74-211
+  type: sentence
+  tier: extended
+  front_en: 'I''ve done everything for you.'
+  back_es: Lo he hecho todo para ti.
+  hint: he hecho · para + ti (no que → no mood)
+  rule_ref: 'L74#7, L74#13'
+  lessons:
+  - 74
+  directions:
+  - en_es
+  - es_en
+- id: L74-212
+  type: sentence
+  tier: extended
+  front_en: She chooses for me, not for you.
+  back_es: Elige por mí, no por ti.
+  hint: elige (e→i) · por mí vs por ti
+  rule_ref: 'L74#2, L74#4'
+  lessons:
+  - 74
+  directions:
+  - en_es
+  - es_en
+- id: L74-213
+  type: sentence
+  tier: extended
+  front_en: 'It''s for me. (destined for me)'
+  back_es: Es para mí.
+  hint: para = destination · accent on mí
+  rule_ref: 'L74#4'
+  lessons:
+  - 74
+  directions:
+  - en_es
+  - es_en
+- id: L74-214
+  type: sentence
+  tier: extended
+  front_en: 'We''ve cooked so that you choose.'
+  back_es: Hemos cocinado para que elijas.
+  hint: para que + mood elegir
+  rule_ref: 'L74#8, L74#2'
+  lessons:
+  - 74
+  directions:
+  - en_es
+  - es_en
+- id: L74-215
+  type: sentence
+  tier: extended
+  front_en: So you come back. (casual)
+  back_es: Pa que vuelvas.
+  hint: para → pa (casual)
+  rule_ref: 'L74#14'
+  lessons:
+  - 74
+  directions:
+  - en_es
 - id: L75-001
   type: transformation
   tier: primary
@@ -1089,6 +1275,247 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L75-200
+  type: transformation
+  tier: primary
+  front_en: what / that (connector)
+  back_es: que
+  hint: no accent · the link word
+  rule_ref: 'L75#2'
+  lessons:
+  - 75
+  directions:
+  - en_es
+  - es_en
+- id: L75-201
+  type: conjugation
+  tier: primary
+  front_en: you form of seguir
+  back_es: sigues
+  hint: to follow · e→i stressed
+  rule_ref: 'L75#12'
+  lessons:
+  - 75
+  directions:
+  - en_es
+- id: L75-202
+  type: conjugation
+  tier: primary
+  front_en: she form of seguir
+  back_es: sigue
+  hint: to follow · e→i stressed
+  rule_ref: 'L75#12'
+  lessons:
+  - 75
+  directions:
+  - en_es
+- id: L75-203
+  type: conjugation
+  tier: primary
+  front_en: mood you form of ser
+  back_es: seas
+  hint: be (subj.) · sea + s
+  rule_ref: 'L75#16'
+  lessons:
+  - 75
+  directions:
+  - en_es
+- id: L75-204
+  type: conjugation
+  tier: primary
+  front_en: mood you form of ir
+  back_es: vayas
+  hint: go (subj.) · irregular root vay-
+  rule_ref: 'L75#15'
+  lessons:
+  - 75
+  directions:
+  - en_es
+- id: L75-205
+  type: transformation
+  tier: primary
+  front_en: like this / like that
+  back_es: así
+  hint: accent on í
+  rule_ref: 'L75#18'
+  lessons:
+  - 75
+  directions:
+  - en_es
+  - es_en
+- id: L75-206
+  type: transformation
+  tier: extended
+  front_en: to need
+  back_es: necesitar
+  hint: '-ar verb · cousin of ''necessitate'''
+  rule_ref: 'L75#10'
+  lessons:
+  - 75
+  directions:
+  - en_es
+  - es_en
+- id: L75-207
+  type: conjugation
+  tier: extended
+  front_en: she form of conseguir
+  back_es: consigue
+  hint: to get · e→i stressed
+  rule_ref: 'L75#14'
+  lessons:
+  - 75
+  directions:
+  - en_es
+- id: L75-208
+  type: conjugation
+  tier: extended
+  front_en: she form of perseguir
+  back_es: persigue
+  hint: to chase · e→i stressed
+  rule_ref: 'L75#14'
+  lessons:
+  - 75
+  directions:
+  - en_es
+- id: L75-209
+  type: sentence
+  tier: primary
+  front_en: 'Wherever you go, I''ll find you.'
+  back_es: Adonde vayas, te encuentro.
+  hint: adonde + mood ir · te encuentro (o→ue)
+  rule_ref: 'L75#2, L75#15'
+  lessons:
+  - 75
+  directions:
+  - en_es
+  - es_en
+- id: L75-210
+  type: sentence
+  tier: primary
+  front_en: However it is.
+  back_es: Como sea.
+  hint: como + mood ser
+  rule_ref: 'L75#2, L75#16'
+  lessons:
+  - 75
+  directions:
+  - en_es
+  - es_en
+- id: L75-211
+  type: sentence
+  tier: primary
+  front_en: Whenever it might be.
+  back_es: Cuando sea.
+  hint: cuando + mood ser
+  rule_ref: 'L75#2, L75#16'
+  lessons:
+  - 75
+  directions:
+  - en_es
+  - es_en
+- id: L75-212
+  type: sentence
+  tier: extended
+  front_en: I follow whoever chooses me.
+  back_es: Sigo a quien me elija.
+  hint: sigo + a quien + mood elegir
+  rule_ref: 'L75#12, L75#2'
+  lessons:
+  - 75
+  directions:
+  - en_es
+  - es_en
+- id: L75-213
+  type: sentence
+  tier: extended
+  front_en: Follow me wherever.
+  back_es: Sígueme adonde sea.
+  hint: sigue + me · adonde + mood ser
+  rule_ref: 'L75#2, L75#12, L75#15'
+  lessons:
+  - 75
+  directions:
+  - en_es
+- id: L75-214
+  type: sentence
+  tier: extended
+  front_en: Get whatever you want.
+  back_es: Consigue lo que quieras.
+  hint: command + lo que + mood
+  rule_ref: 'L75#2, L75#14'
+  lessons:
+  - 75
+  directions:
+  - en_es
+  - es_en
+- id: L75-215
+  type: sentence
+  tier: extended
+  front_en: Do it however it might be.
+  back_es: Hazlo como sea.
+  hint: hazlo + como + mood ser
+  rule_ref: 'L75#1, L75#2, L75#16'
+  lessons:
+  - 75
+  directions:
+  - en_es
+  - es_en
+- id: L75-216
+  type: conjugation
+  tier: primary
+  front_en: mood I/she form of ir
+  back_es: vaya
+  hint: go (subj.) · irregular root vay-
+  rule_ref: 'L75#15'
+  lessons:
+  - 75
+  directions:
+  - en_es
+- id: L75-217
+  type: conjugation
+  tier: primary
+  front_en: mood we form of ir
+  back_es: vayamos
+  hint: go (subj.) · vay- + -amos
+  rule_ref: 'L75#15'
+  lessons:
+  - 75
+  directions:
+  - en_es
+- id: L75-218
+  type: conjugation
+  tier: primary
+  front_en: mood they form of ir
+  back_es: vayan
+  hint: go (subj.) · vay- + -an
+  rule_ref: 'L75#15'
+  lessons:
+  - 75
+  directions:
+  - en_es
+- id: L75-219
+  type: transformation
+  tier: primary
+  front_en: to be (characteristics)
+  back_es: ser
+  hint: 'identity / inherent · irregular mood: sea'
+  rule_ref: 'L75#16'
+  lessons:
+  - 75
+  directions:
+  - en_es
+  - es_en
+- id: L75-220
+  type: conjugation
+  tier: extended
+  front_en: they form of elegir (recap)
+  back_es: eligen
+  hint: e→i stressed · recap from L74
+  rule_ref: 'L75#11'
+  lessons:
+  - 75
+  directions:
+  - en_es
 - id: L76-001
   type: transformation
   tier: primary
@@ -1305,6 +1732,262 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L76-200
+  type: transformation
+  tier: primary
+  front_en: here
+  back_es: aquí
+  hint: accent on í
+  rule_ref: 'L76#3'
+  lessons:
+  - 76
+  directions:
+  - en_es
+  - es_en
+- id: L76-201
+  type: transformation
+  tier: primary
+  front_en: something
+  back_es: algo
+  hint: 'al- prefix: some-'
+  rule_ref: 'L76#12'
+  lessons:
+  - 76
+  directions:
+  - en_es
+  - es_en
+- id: L76-202
+  type: transformation
+  tier: primary
+  front_en: person
+  back_es: persona
+  hint: feminine even for men
+  rule_ref: 'L76#5'
+  lessons:
+  - 76
+  directions:
+  - en_es
+  - es_en
+- id: L76-203
+  type: transformation
+  tier: primary
+  front_en: people (persons)
+  back_es: personas
+  hint: plural of persona
+  rule_ref: 'L76#5'
+  lessons:
+  - 76
+  directions:
+  - en_es
+  - es_en
+- id: L76-204
+  type: conjugation
+  tier: primary
+  front_en: mood you form of poder
+  back_es: puedas
+  hint: can (subj.) · o→ue · -er → -as
+  rule_ref: 'L76#12'
+  lessons:
+  - 76
+  directions:
+  - en_es
+- id: L76-205
+  type: conjugation
+  tier: primary
+  front_en: mood I/she form of poder
+  back_es: pueda
+  hint: can (subj.) · o→ue · -er → -a
+  rule_ref: 'L76#12'
+  lessons:
+  - 76
+  directions:
+  - en_es
+- id: L76-206
+  type: conjugation
+  tier: primary
+  front_en: mood I/she form of hablar
+  back_es: hable
+  hint: speak (subj.) · -ar → -e
+  rule_ref: 'L76#4'
+  lessons:
+  - 76
+  directions:
+  - en_es
+- id: L76-207
+  type: transformation
+  tier: primary
+  front_en: 'to exist (auxiliary ''be'')'
+  back_es: haber
+  hint: 'the ''be'' of ''there is'''
+  rule_ref: 'L76#10, L76#11'
+  lessons:
+  - 76
+  directions:
+  - en_es
+  - es_en
+- id: L76-208
+  type: transformation
+  tier: primary
+  front_en: has to / must
+  back_es: tiene que
+  hint: tener + que + infinitive
+  rule_ref: 'L76#10'
+  lessons:
+  - 76
+  directions:
+  - en_es
+  - es_en
+- id: L76-209
+  type: sentence
+  tier: primary
+  front_en: Is there anybody?
+  back_es: ¿Hay alguien?
+  hint: hay + alguien · plain question
+  rule_ref: 'L76#1, L76#2'
+  lessons:
+  - 76
+  directions:
+  - en_es
+  - es_en
+- id: L76-210
+  type: sentence
+  tier: primary
+  front_en: There must be something.
+  back_es: Tiene que haber algo.
+  hint: be = exist → haber · no que → no mood
+  rule_ref: 'L76#10, L76#11'
+  lessons:
+  - 76
+  directions:
+  - en_es
+  - es_en
+- id: L76-211
+  type: sentence
+  tier: primary
+  front_en: There must be a reason.
+  back_es: Tiene que haber una razón.
+  hint: tiene que haber + noun
+  rule_ref: 'L76#10'
+  lessons:
+  - 76
+  directions:
+  - en_es
+  - es_en
+- id: L76-212
+  type: sentence
+  tier: extended
+  front_en: Is there anything I can do?
+  back_es: ¿Hay algo que pueda hacer?
+  hint: unknown existence → mood poder
+  rule_ref: 'L76#4, L76#12'
+  lessons:
+  - 76
+  directions:
+  - en_es
+  - es_en
+- id: L76-213
+  type: sentence
+  tier: extended
+  front_en: There was somebody who spoke Spanish.
+  back_es: Había alguien que hablaba español.
+  hint: había + alguien que + line-past (characteristic)
+  rule_ref: 'L76#6, L76#8'
+  lessons:
+  - 76
+  directions:
+  - en_es
+  - es_en
+- id: L76-214
+  type: sentence
+  tier: extended
+  front_en: There were many. (resist habían)
+  back_es: Había muchos.
+  hint: había never plural-changes
+  rule_ref: 'L76#6'
+  lessons:
+  - 76
+  directions:
+  - en_es
+- id: L76-215
+  type: sentence
+  tier: extended
+  front_en: Is there anybody who has it?
+  back_es: ¿Hay alguien que lo tenga?
+  hint: unknown existence → mood tener
+  rule_ref: 'L76#4'
+  lessons:
+  - 76
+  directions:
+  - en_es
+  - es_en
+- id: L76-216
+  type: sentence
+  tier: extended
+  front_en: There must be somebody who knows.
+  back_es: Tiene que haber alguien que sepa.
+  hint: tiene que haber + alguien que + mood saber
+  rule_ref: 'L76#4, L76#10'
+  lessons:
+  - 76
+  directions:
+  - en_es
+  - es_en
+- id: L76-217
+  type: conjugation
+  tier: primary
+  front_en: they form of hablar (present)
+  back_es: hablan
+  hint: speak · -ar → -an
+  rule_ref: 'L76#3'
+  lessons:
+  - 76
+  directions:
+  - en_es
+- id: L76-218
+  type: conjugation
+  tier: primary
+  front_en: they form of hablar (line past)
+  back_es: hablaban
+  hint: spoke (line) · characteristic · -aban
+  rule_ref: 'L76#8'
+  lessons:
+  - 76
+  directions:
+  - en_es
+- id: L76-219
+  type: conjugation
+  tier: primary
+  front_en: they form of hablar (point past)
+  back_es: hablaron
+  hint: spoke (point) · one-time act · -aron
+  rule_ref: 'L76#9'
+  lessons:
+  - 76
+  directions:
+  - en_es
+- id: L76-220
+  type: transformation
+  tier: primary
+  front_en: to be able to / can
+  back_es: poder
+  hint: o→ue stem-changer
+  rule_ref: 'L76#12'
+  lessons:
+  - 76
+  directions:
+  - en_es
+  - es_en
+- id: L76-225
+  type: transformation
+  tier: extended
+  front_en: root of hay and había
+  back_es: haber
+  hint: both come from haber
+  rule_ref: 'L76#7'
+  lessons:
+  - 76
+  directions:
+  - en_es
 - id: L77-001
   type: transformation
   tier: primary
@@ -1634,6 +2317,256 @@ cards:
   back_es: Está bien que no responda.
   hint: está bien que → mood
   rule_ref: L77#13, L77#14
+  lessons:
+  - 77
+  directions:
+  - en_es
+  - es_en
+- id: L77-200
+  type: transformation
+  tier: primary
+  front_en: terrible
+  back_es: terrible
+  hint: same spelling · stress shifts
+  rule_ref: 'L77#5'
+  lessons:
+  - 77
+  directions:
+  - en_es
+  - es_en
+- id: L77-201
+  type: transformation
+  tier: primary
+  front_en: possible
+  back_es: posible
+  hint: '-ible cognate · one s'
+  rule_ref: 'L77#7'
+  lessons:
+  - 77
+  directions:
+  - en_es
+  - es_en
+- id: L77-202
+  type: transformation
+  tier: primary
+  front_en: later
+  back_es: más tarde
+  hint: 'literally ''more late'''
+  rule_ref: 'L77#8'
+  lessons:
+  - 77
+  directions:
+  - en_es
+  - es_en
+- id: L77-203
+  type: transformation
+  tier: primary
+  front_en: nice / pretty
+  back_es: lindo
+  hint: Latin Am. preferred · gendered
+  rule_ref: 'L77#10'
+  lessons:
+  - 77
+  directions:
+  - en_es
+  - es_en
+- id: L77-204
+  type: transformation
+  tier: primary
+  front_en: 'how nice!'
+  back_es: '¡qué lindo!'
+  hint: qué + adjective exclamation
+  rule_ref: 'L77#10'
+  lessons:
+  - 77
+  directions:
+  - en_es
+  - es_en
+- id: L77-205
+  type: transformation
+  tier: primary
+  front_en: incredible
+  back_es: increíble
+  hint: accent on í · -ible cognate
+  rule_ref: 'L77#12'
+  lessons:
+  - 77
+  directions:
+  - en_es
+  - es_en
+- id: L77-206
+  type: transformation
+  tier: primary
+  front_en: to ask
+  back_es: preguntar
+  hint: '-ar verb · not ''pedir'' (= request)'
+  rule_ref: 'L77#15'
+  lessons:
+  - 77
+  directions:
+  - en_es
+  - es_en
+- id: L77-207
+  type: transformation
+  tier: primary
+  front_en: to reply / respond
+  back_es: responder
+  hint: '-er verb · cognate of respond'
+  rule_ref: 'L77#15'
+  lessons:
+  - 77
+  directions:
+  - en_es
+  - es_en
+- id: L77-208
+  type: transformation
+  tier: primary
+  front_en: necessary
+  back_es: necesario
+  hint: cognate · one s
+  rule_ref: 'L77#16'
+  lessons:
+  - 77
+  directions:
+  - en_es
+  - es_en
+- id: L77-209
+  type: transformation
+  tier: primary
+  front_en: important
+  back_es: importante
+  hint: '-ant → -ante cognate'
+  rule_ref: 'L77#18'
+  lessons:
+  - 77
+  directions:
+  - en_es
+  - es_en
+- id: L77-210
+  type: transformation
+  tier: primary
+  front_en: soon
+  back_es: pronto
+  hint: 'cousin of ''prompt'''
+  rule_ref: 'L77#18'
+  lessons:
+  - 77
+  directions:
+  - en_es
+  - es_en
+- id: L77-211
+  type: conjugation
+  tier: primary
+  front_en: mood we form of encontrar
+  back_es: encontremos
+  hint: find (subj.) · stress shifts off o · -ar → -emos
+  rule_ref: 'L77#18'
+  lessons:
+  - 77
+  directions:
+  - en_es
+- id: L77-212
+  type: sentence
+  tier: primary
+  front_en: 'It''s important that you come.'
+  back_es: Es importante que vengas.
+  hint: es + adj + que → mood venir
+  rule_ref: 'L77#4, L77#18'
+  lessons:
+  - 77
+  directions:
+  - en_es
+  - es_en
+- id: L77-213
+  type: sentence
+  tier: primary
+  front_en: 'It''s possible that there''s something.'
+  back_es: Es posible que haya algo.
+  hint: es + adj + que → mood haber (haya)
+  rule_ref: 'L77#7'
+  lessons:
+  - 77
+  directions:
+  - en_es
+  - es_en
+- id: L77-214
+  type: sentence
+  tier: extended
+  front_en: 'It''s not necessary that you come.'
+  back_es: No es necesario que vengas.
+  hint: no es + adj + que → mood venir
+  rule_ref: 'L77#16'
+  lessons:
+  - 77
+  directions:
+  - en_es
+  - es_en
+- id: L77-215
+  type: sentence
+  tier: extended
+  front_en: 'How nice that you''re here!'
+  back_es: '¡Qué lindo que estés aquí!'
+  hint: qué+adj+que → mood estar
+  rule_ref: 'L77#10, L77#11'
+  lessons:
+  - 77
+  directions:
+  - en_es
+  - es_en
+- id: L77-216
+  type: sentence
+  tier: extended
+  front_en: 'It''s okay that you don''t know.'
+  back_es: Está bien que no sepas.
+  hint: está bien que → mood saber
+  rule_ref: 'L77#13, L77#14'
+  lessons:
+  - 77
+  directions:
+  - en_es
+  - es_en
+- id: L77-217
+  type: sentence
+  tier: extended
+  front_en: 'How heavy that you choose for me!'
+  back_es: '¡Qué fuerte que elijas por mí!'
+  hint: qué+adj+que → mood elegir · por mí
+  rule_ref: 'L77#9, L77#11'
+  lessons:
+  - 77
+  directions:
+  - en_es
+- id: L77-218
+  type: sentence
+  tier: extended
+  front_en: There should be people here.
+  back_es: Debería haber personas aquí.
+  hint: debería haber + noun (no que → no mood)
+  rule_ref: 'L77#2'
+  lessons:
+  - 77
+  directions:
+  - en_es
+  - es_en
+- id: L77-219
+  type: sentence
+  tier: extended
+  front_en: 'It''s possible if you come.'
+  back_es: Es posible si vienes.
+  hint: si → no mood (contrast with que)
+  rule_ref: 'L77#6'
+  lessons:
+  - 77
+  directions:
+  - en_es
+  - es_en
+- id: L77-220
+  type: transformation
+  tier: primary
+  front_en: to owe / must
+  back_es: deber
+  hint: debería = would-form (should)
+  rule_ref: 'L77#1'
   lessons:
   - 77
   directions:

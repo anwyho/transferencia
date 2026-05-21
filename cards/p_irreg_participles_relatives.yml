@@ -438,6 +438,210 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L54-200
+  type: transformation
+  tier: primary
+  front_en: to close
+  back_es: cerrar
+  hint: '-ar verb · root of *cerrado*'
+  rule_ref: 'L54#1'
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: L54-201
+  type: transformation
+  tier: primary
+  front_en: to lose
+  back_es: perder
+  hint: '-er verb · root of *perdido*'
+  rule_ref: 'L54#1'
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: L54-202
+  type: transformation
+  tier: primary
+  front_en: to sell
+  back_es: vender
+  hint: '-er verb · root of *vendido*'
+  rule_ref: 'L54#15'
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: L54-203
+  type: transformation
+  tier: primary
+  front_en: to finish
+  back_es: terminar
+  hint: '-ar verb · cousin of *terminate*'
+  rule_ref: 'L54#15'
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: L54-204
+  type: transformation
+  tier: primary
+  front_en: to tire (someone)
+  back_es: cansar
+  hint: '-ar verb · root of *cansado*'
+  rule_ref: 'L54#13'
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: L54-205
+  type: transformation
+  tier: primary
+  front_en: to wet
+  back_es: mojar
+  hint: '-ar verb · root of *mojado*'
+  rule_ref: 'L54#15'
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: L54-206
+  type: transformation
+  tier: primary
+  front_en: tired (m sg)
+  back_es: cansado
+  hint: '-ar → -ado · doubles as adj'
+  rule_ref: 'L54#13'
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: L54-207
+  type: transformation
+  tier: primary
+  front_en: finished (m sg)
+  back_es: terminado
+  hint: '-ar → -ado'
+  rule_ref: 'L54#15'
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: L54-208
+  type: transformation
+  tier: primary
+  front_en: sold (m sg)
+  back_es: vendido
+  hint: '-er → -ido'
+  rule_ref: 'L54#15'
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: L54-209
+  type: transformation
+  tier: primary
+  front_en: a man / sir
+  back_es: un señor
+  hint: masculine · respectful form
+  rule_ref: 'L54#10'
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: L54-211
+  type: sentence
+  tier: primary
+  front_en: I have closed it.
+  back_es: Lo he cerrado.
+  hint: 'lo before haber · part doesn''t agree'
+  rule_ref: 'L54#6, L54#2'
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: L54-212
+  type: sentence
+  tier: primary
+  front_en: I have closed it. (the door)
+  back_es: La he cerrado.
+  hint: la = door (fem) · part stays -o after haber
+  rule_ref: 'L54#6, L54#2'
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: L54-213
+  type: sentence
+  tier: primary
+  front_en: I have lost it.
+  back_es: Lo he perdido.
+  hint: haber + -ido · invariant
+  rule_ref: 'L54#6'
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: L54-214
+  type: sentence
+  tier: extended
+  front_en: I will have lost it.
+  back_es: Lo habré perdido.
+  hint: habré = future of haber + part
+  rule_ref: 'L54#2'
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: L54-215
+  type: sentence
+  tier: extended
+  front_en: 'He''s a closed man.'
+  back_es: Es un señor cerrado.
+  hint: ser + naming · m sg with señor
+  rule_ref: 'L54#10'
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: L54-216
+  type: sentence
+  tier: extended
+  front_en: I get tired.
+  back_es: Me canso.
+  hint: reflexive present · me + canso
+  rule_ref: 'L54#13, L54#14'
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
+- id: L54-217
+  type: sentence
+  tier: extended
+  front_en: 'I''m tired. (m)'
+  back_es: Estoy cansado.
+  hint: estar + state · m speaker
+  rule_ref: 'L54#4, L54#13'
+  lessons:
+  - 54
+  directions:
+  - en_es
+  - es_en
 - id: L55-001
   type: transformation
   tier: primary
@@ -915,6 +1119,306 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L55-200
+  type: transformation
+  tier: primary
+  front_en: to break
+  back_es: romper
+  hint: 'cousin of *rupture*'
+  rule_ref: 'L55#10'
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-201
+  type: transformation
+  tier: primary
+  front_en: to say / to tell
+  back_es: decir
+  hint: '-ir verb · irreg part *dicho*'
+  rule_ref: 'L55#10'
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-202
+  type: transformation
+  tier: primary
+  front_en: to do / to make
+  back_es: hacer
+  hint: '-er verb · irreg part *hecho*'
+  rule_ref: 'L55#10'
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-203
+  type: transformation
+  tier: primary
+  front_en: to be able / can
+  back_es: poder
+  hint: 'cousin of *power* · -er'
+  rule_ref: 'L55#7'
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-204
+  type: transformation
+  tier: primary
+  front_en: must / to owe
+  back_es: deber
+  hint: '-er · root of *debería*'
+  rule_ref: 'L55#6'
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-205
+  type: transformation
+  tier: extended
+  front_en: to complicate
+  back_es: complicar
+  hint: cognate · -ar
+  rule_ref: 'L55#5'
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-206
+  type: transformation
+  tier: extended
+  front_en: a complication
+  back_es: una complicación
+  hint: '-ción ending · feminine'
+  rule_ref: 'L55#5'
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-207
+  type: transformation
+  tier: extended
+  front_en: to die (reflexive, emotional)
+  back_es: morirse
+  hint: se optional with morir
+  rule_ref: 'L55#14, L55#15'
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-208
+  type: sentence
+  tier: primary
+  front_en: I have seen it.
+  back_es: Lo he visto.
+  hint: ver → visto · irreg part · lo + haber
+  rule_ref: 'L55#10'
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-209
+  type: sentence
+  tier: primary
+  front_en: 'They''ve said everything.'
+  back_es: Han dicho todo.
+  hint: 'haber + irreg *dicho* · todo = all'
+  rule_ref: 'L55#10'
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-210
+  type: sentence
+  tier: primary
+  front_en: The door is open.
+  back_es: La puerta está abierta.
+  hint: irreg part agrees as adj · fem sg
+  rule_ref: 'L55#11'
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-211
+  type: transformation
+  tier: extended
+  front_en: seen (irreg participle of ver)
+  back_es: visto
+  hint: extra irreg · -to ending
+  rule_ref: 'L55#10'
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-212
+  type: transformation
+  tier: extended
+  front_en: written (irreg participle of escribir)
+  back_es: escrito
+  hint: extra irreg · -to ending
+  rule_ref: 'L55#10'
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-213
+  type: transformation
+  tier: extended
+  front_en: put (irreg participle of poner)
+  back_es: puesto
+  hint: extra irreg · -to ending
+  rule_ref: 'L55#10'
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-214
+  type: transformation
+  tier: extended
+  front_en: returned (irreg participle of volver)
+  back_es: vuelto
+  hint: extra irreg · /ue/ break
+  rule_ref: 'L55#10'
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-215
+  type: transformation
+  tier: extended
+  front_en: covered (irreg participle of cubrir)
+  back_es: cubierto
+  hint: extra irreg · /ie/ break
+  rule_ref: 'L55#10'
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-221
+  type: transformation
+  tier: extended
+  front_en: brother
+  back_es: hermano
+  hint: 'F↔H · cousin of *fraternal*'
+  rule_ref: 'L55#18'
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-222
+  type: transformation
+  tier: extended
+  front_en: female
+  back_es: hembra
+  hint: 'F↔H · old *fembra*'
+  rule_ref: 'L55#18'
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-223
+  type: transformation
+  tier: extended
+  front_en: iron
+  back_es: hierro
+  hint: 'F↔H · cousin of *ferro-*'
+  rule_ref: 'L55#18'
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-224
+  type: transformation
+  tier: extended
+  front_en: railway
+  back_es: ferrocarril
+  hint: '*ferro* + *carril* (rail)'
+  rule_ref: 'L55#18'
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-225
+  type: transformation
+  tier: extended
+  front_en: to smoke
+  back_es: fumar
+  hint: 'cousin of *fume*'
+  rule_ref: 'L55#18'
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-226
+  type: transformation
+  tier: extended
+  front_en: profound / deep (formal)
+  back_es: profundo
+  hint: 'cousin of *hondo*'
+  rule_ref: 'L55#18'
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-227
+  type: transformation
+  tier: extended
+  front_en: to escape / run away
+  back_es: huir
+  hint: 'F↔H · cousin of *fugitive*'
+  rule_ref: 'L55#18'
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-228
+  type: transformation
+  tier: extended
+  front_en: William
+  back_es: Guillermo
+  hint: W↔G · William → Guillermo
+  rule_ref: 'L55#19'
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
+- id: L55-229
+  type: transformation
+  tier: extended
+  front_en: party (cousin of festival)
+  back_es: fiesta
+  hint: 'split E between *fiesta* and *festival*'
+  rule_ref: 'L55#3, L55#20'
+  lessons:
+  - 55
+  directions:
+  - en_es
+  - es_en
 - id: L56-001
   type: transformation
   tier: primary
@@ -1354,6 +1858,163 @@ cards:
   rule_ref: L56#13
   lessons:
   - 56
+  directions:
+  - en_es
+  - es_en
+- id: L56-200
+  type: transformation
+  tier: primary
+  front_en: to work
+  back_es: trabajar
+  hint: '-ar verb · root of *trabajaba*'
+  rule_ref: 'L56#9'
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: L56-201
+  type: transformation
+  tier: primary
+  front_en: the boy
+  back_es: el chico
+  hint: 'masculine pair of *la chica*'
+  rule_ref: 'L56#5'
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: L56-202
+  type: transformation
+  tier: primary
+  front_en: you go (informal)
+  back_es: vas
+  hint: ir → tú form
+  rule_ref: 'L56#2'
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: L56-203
+  type: transformation
+  tier: extended
+  front_en: which (relative, m sg)
+  back_es: el cual
+  hint: matches m sg · article + cual
+  rule_ref: 'L56#7'
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: L56-204
+  type: sentence
+  tier: primary
+  front_en: With whom were you going?
+  back_es: ¿Con quién ibas?
+  hint: con at front · ibas = line-past ir (tú)
+  rule_ref: 'L56#17, L56#10'
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: L56-205
+  type: sentence
+  tier: primary
+  front_en: Where are you going?
+  back_es: ¿A dónde vas?
+  hint: a moves to front · NOT trailing
+  rule_ref: 'L56#2'
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: L56-206
+  type: sentence
+  tier: primary
+  front_en: For whom?
+  back_es: ¿Para quién?
+  hint: para at front · standalone question
+  rule_ref: 'L56#17'
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: L56-207
+  type: sentence
+  tier: primary
+  front_en: With what?
+  back_es: ¿Con qué?
+  hint: con + qué at front · prep never trails
+  rule_ref: 'L56#1'
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: L56-209
+  type: sentence
+  tier: extended
+  front_en: The boy I work with.
+  back_es: El chico con que trabajo.
+  hint: 'm sg version of *la chica con que trabajo*'
+  rule_ref: 'L56#5'
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: L56-211
+  type: sentence
+  tier: extended
+  front_en: 'I don''t know which one she wants.'
+  back_es: No sé cuál quiere.
+  hint: 'no *yo* needed · quiere covers she'
+  rule_ref: 'L56#11, L56#8'
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: L56-212
+  type: sentence
+  tier: extended
+  front_en: 'I don''t know who is going.'
+  back_es: No sé quién va.
+  hint: indirect question · quién + va
+  rule_ref: 'L56#13'
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: L56-213
+  type: sentence
+  tier: extended
+  front_en: 'I don''t know who is here.'
+  back_es: No sé quién está.
+  hint: 'drop *aquí* · estar implies location'
+  rule_ref: 'L56#15'
+  lessons:
+  - 56
+  directions:
+  - en_es
+  - es_en
+- id: L56-217
+  type: sentence
+  tier: primary
+  front_en: With whom have you gone?
+  back_es: ¿Con quién has ido?
+  hint: con at front · has ido = present-perfect
+  rule_ref: 'L56#17'
+  lessons:
+  - 56
+  - 55
   directions:
   - en_es
   - es_en
@@ -1814,6 +2475,181 @@ cards:
   back_es: Es fácil.
   hint: ser + fácil
   rule_ref: L57#6
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: L57-200
+  type: transformation
+  tier: primary
+  front_en: to eat
+  back_es: comer
+  hint: '-er verb'
+  rule_ref: 'L57#1'
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: L57-201
+  type: transformation
+  tier: primary
+  front_en: to live
+  back_es: vivir
+  hint: '-ir verb'
+  rule_ref: 'L57#1'
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: L57-202
+  type: transformation
+  tier: primary
+  front_en: to come
+  back_es: venir
+  hint: '-ir · irreg: vengo / vienen'
+  rule_ref: 'L57#7'
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: L57-203
+  type: conjugation
+  tier: primary
+  front_en: we form of vivir
+  back_es: vivimos
+  hint: '-ir → -imos · the split'
+  rule_ref: 'L57#1'
+  lessons:
+  - 57
+  directions:
+  - en_es
+- id: L57-204
+  type: conjugation
+  tier: primary
+  front_en: he form of vivir
+  back_es: vive
+  hint: '-ir → -e (shared with -er)'
+  rule_ref: 'L57#2'
+  lessons:
+  - 57
+  directions:
+  - en_es
+- id: L57-205
+  type: conjugation
+  tier: primary
+  front_en: they form of vivir
+  back_es: viven
+  hint: '-ir → -en (shared with -er)'
+  rule_ref: 'L57#2'
+  lessons:
+  - 57
+  directions:
+  - en_es
+- id: L57-206
+  type: conjugation
+  tier: primary
+  front_en: I form of venir
+  back_es: vengo
+  hint: irregular · -go family
+  rule_ref: 'L57#7'
+  lessons:
+  - 57
+  directions:
+  - en_es
+- id: L57-207
+  type: conjugation
+  tier: primary
+  front_en: they form of venir
+  back_es: vienen
+  hint: /ie/ break · stem changes
+  rule_ref: 'L57#7'
+  lessons:
+  - 57
+  directions:
+  - en_es
+- id: L57-208
+  type: sentence
+  tier: primary
+  front_en: We live here.
+  back_es: Vivimos aquí.
+  hint: '-ir we = -imos · NOT -emos'
+  rule_ref: 'L57#1'
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: L57-209
+  type: sentence
+  tier: primary
+  front_en: We eat here.
+  back_es: Comemos aquí.
+  hint: '-er we = -emos · NOT -imos'
+  rule_ref: 'L57#1'
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: L57-210
+  type: sentence
+  tier: extended
+  front_en: We open it.
+  back_es: Lo abrimos.
+  hint: '-ir we = -imos · abrir → abrimos'
+  rule_ref: 'L57#1'
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: L57-212
+  type: sentence
+  tier: primary
+  front_en: The complicated thing is they come together.
+  back_es: Lo complicado es que vienen juntos.
+  hint: lo + adj + vienen + juntos
+  rule_ref: 'L57#3, L57#7'
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: L57-214
+  type: sentence
+  tier: extended
+  front_en: I come tomorrow.
+  back_es: Vengo mañana.
+  hint: mañana = tomorrow (no la)
+  rule_ref: 'L57#7, L57#11'
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: L57-216
+  type: sentence
+  tier: extended
+  front_en: The thing about tomorrow.
+  back_es: Lo de mañana.
+  hint: 'lo de + mañana = tomorrow''s business'
+  rule_ref: 'L57#9, L57#11'
+  lessons:
+  - 57
+  directions:
+  - en_es
+  - es_en
+- id: L57-218
+  type: sentence
+  tier: extended
+  front_en: We come together.
+  back_es: Venimos juntos.
+  hint: 'go direct from *venir* to we-form'
+  rule_ref: 'L57#14, L57#1'
   lessons:
   - 57
   directions:

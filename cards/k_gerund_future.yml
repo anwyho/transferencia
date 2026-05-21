@@ -409,6 +409,255 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L34-200
+  type: transformation
+  tier: extended
+  front_en: to speak
+  back_es: hablar
+  hint: hablar = speak · -ar verb
+  rule_ref: 'L34#1'
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: L34-201
+  type: conjugation
+  tier: extended
+  front_en: I form of hablar
+  back_es: hablo
+  hint: '= I speak / I''m speaking'
+  rule_ref: 'L34#1, L34#5'
+  lessons:
+  - 34
+  directions:
+  - en_es
+- id: L34-202
+  type: transformation
+  tier: extended
+  front_en: to sleep / to be dormant
+  back_es: dormir
+  hint: dormant cousin · o→ue split
+  rule_ref: 'L34#1'
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: L34-203
+  type: conjugation
+  tier: extended
+  front_en: I form of dormir
+  back_es: duermo
+  hint: o → ue split
+  rule_ref: 'L34#1'
+  lessons:
+  - 34
+  directions:
+  - en_es
+- id: L34-204
+  type: transformation
+  tier: extended
+  front_en: to eat
+  back_es: comer
+  hint: regular -er · no vowel split
+  rule_ref: 'L34#1'
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: L34-205
+  type: conjugation
+  tier: extended
+  front_en: I form of comer
+  back_es: como
+  hint: '= I eat / I''m eating · no split'
+  rule_ref: 'L34#1'
+  lessons:
+  - 34
+  directions:
+  - en_es
+- id: L34-206
+  type: transformation
+  tier: extended
+  front_en: to fast
+  back_es: ayunar
+  hint: des-ayunar = un-fast = breakfast
+  rule_ref: 'L34#3'
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: L34-207
+  type: transformation
+  tier: extended
+  front_en: un- (prefix)
+  back_es: des-
+  hint: des-esperado, des-ayunar
+  rule_ref: 'L34#3, L34#4'
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: L34-208
+  type: transformation
+  tier: extended
+  front_en: to prepare
+  back_es: preparar
+  hint: regular -ar
+  rule_ref: 'L34#8'
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: L34-209
+  type: transformation
+  tier: extended
+  front_en: preparation
+  back_es: preparación
+  hint: '-ación = -ation'
+  rule_ref: 'L34#8'
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: L34-210
+  type: transformation
+  tier: primary
+  front_en: eating (right now)
+  back_es: comiendo
+  hint: '-er → -iendo'
+  rule_ref: 'L34#8'
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: L34-211
+  type: transformation
+  tier: extended
+  front_en: hoping (right now)
+  back_es: esperando
+  hint: esperar = wait OR hope · -ando
+  rule_ref: 'L34#4, L34#8'
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: L34-212
+  type: sentence
+  tier: primary
+  front_en: 'I''m doing it right now.'
+  back_es: Lo estoy haciendo ahora.
+  hint: ahora → -iendo · lo before estoy
+  rule_ref: 'L34#9, L34#12'
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: L34-213
+  type: sentence
+  tier: primary
+  front_en: 'I''m doing it right now. (Estoy…)'
+  back_es: Estoy haciéndolo ahora.
+  hint: glued + accent on the gerund
+  rule_ref: 'L34#12'
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: L34-214
+  type: sentence
+  tier: extended
+  front_en: 'She''s preparing them (right now). (Las…)'
+  back_es: Las está preparando.
+  hint: las before está
+  rule_ref: 'L34#12'
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: L34-215
+  type: sentence
+  tier: extended
+  front_en: 'She''s preparing them (right now). (Está…)'
+  back_es: Está preparándolas.
+  hint: glued + accent
+  rule_ref: 'L34#12'
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: L34-216
+  type: sentence
+  tier: extended
+  front_en: 'We''re eating it (right now). (Estamos…)'
+  back_es: Estamos comiéndolo.
+  hint: glued + accent preserves stress
+  rule_ref: 'L34#12'
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: L34-217
+  type: sentence
+  tier: extended
+  front_en: 'We''re eating it (right now). (Lo…)'
+  back_es: Lo estamos comiendo.
+  hint: lo before estamos
+  rule_ref: 'L34#12'
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: L34-218
+  type: sentence
+  tier: extended
+  front_en: 'He''s having breakfast tomorrow.'
+  back_es: Desayuna mañana.
+  hint: future context → present, NOT -ando
+  rule_ref: 'L34#11, L34#5'
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: L34-219
+  type: sentence
+  tier: extended
+  front_en: 'We''re waiting here.'
+  back_es: Estamos esperando aquí.
+  hint: right now → -ando
+  rule_ref: 'L34#9'
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
+- id: L34-220
+  type: sentence
+  tier: extended
+  front_en: 'She''s sleeping right now.'
+  back_es: Está durmiendo.
+  hint: dormir → durmiendo · slight vowel shift
+  rule_ref: 'L34#8'
+  lessons:
+  - 34
+  directions:
+  - en_es
+  - es_en
 - id: L35-001
   type: transformation
   tier: primary
@@ -812,6 +1061,195 @@ cards:
   front_en: He's buying them soon.
   back_es: Los compra pronto.
   rule_ref: L35#11, L35#7
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: L35-200
+  type: transformation
+  tier: extended
+  front_en: sincerity
+  back_es: sinceridad
+  hint: '-ity → -idad'
+  rule_ref: 'L35#1'
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: L35-201
+  type: transformation
+  tier: extended
+  front_en: to buy
+  back_es: comprar
+  hint: regular -ar
+  rule_ref: 'L35#11'
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: L35-202
+  type: transformation
+  tier: extended
+  front_en: to come
+  back_es: venir
+  hint: viene = he/she/it comes
+  rule_ref: 'L35#12'
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: L35-203
+  type: conjugation
+  tier: extended
+  front_en: he/she/it comes (venir)
+  back_es: viene
+  hint: la semana que viene
+  rule_ref: 'L35#12'
+  lessons:
+  - 35
+  directions:
+  - en_es
+- id: L35-204
+  type: transformation
+  tier: extended
+  front_en: now
+  back_es: ahora
+  hint: right-now signal → -iendo
+  rule_ref: 'L35#14'
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: L35-205
+  type: conjugation
+  tier: primary
+  front_en: I form of salir
+  back_es: salgo
+  hint: yo form ends in -go (irregular)
+  rule_ref: 'L35#6'
+  lessons:
+  - 35
+  directions:
+  - en_es
+- id: L35-206
+  type: conjugation
+  tier: extended
+  front_en: we form of salir
+  back_es: salimos
+  hint: regular -ir we-form (-imos)
+  rule_ref: 'L35#6'
+  lessons:
+  - 35
+  directions:
+  - en_es
+- id: L35-207
+  type: conjugation
+  tier: extended
+  front_en: they form of salir
+  back_es: salen
+  hint: regular -en
+  rule_ref: 'L35#6'
+  lessons:
+  - 35
+  directions:
+  - en_es
+- id: L35-208
+  type: sentence
+  tier: primary
+  front_en: You are sincere (m).
+  back_es: Eres sincero.
+  hint: eres = you are (ser)
+  rule_ref: 'L35#2'
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: L35-209
+  type: sentence
+  tier: extended
+  front_en: They are honest.
+  back_es: Son honestos.
+  hint: characteristic → ser
+  rule_ref: 'L35#5, L35#2'
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: L35-210
+  type: sentence
+  tier: extended
+  front_en: 'I''m not being sincere.'
+  back_es: No estoy siendo sincero.
+  hint: no goes before estoy
+  rule_ref: 'L35#4'
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: L35-211
+  type: sentence
+  tier: extended
+  front_en: 'He''s leaving soon.'
+  back_es: Sale pronto.
+  hint: soon ≠ right now · plain present
+  rule_ref: 'L35#7'
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: L35-212
+  type: sentence
+  tier: extended
+  front_en: We are leaving (right now).
+  back_es: Estamos saliendo.
+  hint: right now → -iendo
+  rule_ref: 'L35#9'
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: L35-213
+  type: sentence
+  tier: extended
+  front_en: 'I''m buying it next week.'
+  back_es: Lo compro la semana que viene.
+  hint: future → present, NOT -ando
+  rule_ref: 'L35#13'
+  lessons:
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: L35-214
+  type: sentence
+  tier: extended
+  front_en: 'We''re buying them now. (Estamos…)'
+  back_es: Estamos comprándolos ahora.
+  hint: glued + accent
+  rule_ref: 'L35#14, L34#12'
+  lessons:
+  - 34
+  - 35
+  directions:
+  - en_es
+  - es_en
+- id: L35-215
+  type: sentence
+  tier: extended
+  front_en: next week
+  back_es: la semana que viene
+  hint: 'literally *the week that comes*'
+  rule_ref: 'L35#12'
   lessons:
   - 35
   directions:
@@ -1607,6 +2045,492 @@ cards:
   rule_ref: L36#5, L35#6
   lessons:
   - 35
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: L36-200
+  type: transformation
+  tier: extended
+  front_en: 'I''m going to + verb'
+  back_es: voy a + verbo
+  hint: voy a + infinitive · planned future
+  rule_ref: 'L36#1'
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: L36-201
+  type: transformation
+  tier: extended
+  front_en: to have (auxiliary)
+  back_es: haber
+  hint: haber → he, has, ha, hemos, han · powers future endings
+  rule_ref: 'L36#3, L36#4'
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: L36-202
+  type: conjugation
+  tier: extended
+  front_en: I form of haber
+  back_es: he
+  hint: /e/ · silent h · cousin of future -é
+  rule_ref: 'L36#4'
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: L36-203
+  type: conjugation
+  tier: extended
+  front_en: you (informal) form of haber
+  back_es: has
+  hint: cousin of future -ás
+  rule_ref: 'L36#4'
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: L36-204
+  type: conjugation
+  tier: extended
+  front_en: he/she/it form of haber
+  back_es: ha
+  hint: cousin of future -á
+  rule_ref: 'L36#4'
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: L36-205
+  type: conjugation
+  tier: extended
+  front_en: we form of haber
+  back_es: hemos
+  hint: cousin of future -emos
+  rule_ref: 'L36#4'
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: L36-206
+  type: conjugation
+  tier: extended
+  front_en: they form of haber
+  back_es: han
+  hint: cousin of future -án
+  rule_ref: 'L36#4'
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: L36-207
+  type: transformation
+  tier: extended
+  front_en: slept (past participle)
+  back_es: dormido
+  hint: '-ir → -ido'
+  rule_ref: 'L36#4'
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: L36-208
+  type: transformation
+  tier: extended
+  front_en: recommendation
+  back_es: recomendación
+  hint: '-ación = -ation'
+  rule_ref: 'L36#12'
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: L36-209
+  type: conjugation
+  tier: extended
+  front_en: future you form of hablar
+  back_es: hablarás
+  hint: hablar + -ás
+  rule_ref: 'L36#5, L36#6'
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: L36-210
+  type: conjugation
+  tier: extended
+  front_en: future she form of hablar
+  back_es: hablará
+  hint: hablar + -á
+  rule_ref: 'L36#5, L36#6'
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: L36-211
+  type: conjugation
+  tier: extended
+  front_en: future they form of hablar
+  back_es: hablarán
+  hint: hablar + -án
+  rule_ref: 'L36#5, L36#6'
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: L36-212
+  type: conjugation
+  tier: extended
+  front_en: future I form of vivir
+  back_es: viviré
+  hint: vivir + -é · -ir verbs same endings
+  rule_ref: 'L36#5'
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: L36-213
+  type: conjugation
+  tier: extended
+  front_en: future we form of vivir
+  back_es: viviremos
+  hint: vivir + -emos
+  rule_ref: 'L36#5'
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: L36-214
+  type: conjugation
+  tier: extended
+  front_en: future they form of encontrar
+  back_es: encontrarán
+  hint: encontrar + -án
+  rule_ref: 'L36#5'
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: L36-215
+  type: conjugation
+  tier: extended
+  front_en: future she form of encontrar
+  back_es: encontrará
+  hint: encontrar + -á
+  rule_ref: 'L36#5'
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: L36-216
+  type: conjugation
+  tier: extended
+  front_en: future we form of encontrar
+  back_es: encontraremos
+  hint: encontrar + -emos
+  rule_ref: 'L36#5'
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: L36-217
+  type: conjugation
+  tier: extended
+  front_en: future I form of organizar
+  back_es: organizaré
+  hint: organizar + -é
+  rule_ref: 'L36#14'
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: L36-218
+  type: conjugation
+  tier: extended
+  front_en: future we form of organizar
+  back_es: organizaremos
+  hint: organizar + -emos
+  rule_ref: 'L36#14'
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: L36-219
+  type: conjugation
+  tier: extended
+  front_en: future I form of quedar
+  back_es: quedaré
+  hint: without me = will remain
+  rule_ref: 'L36#13'
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: L36-220
+  type: conjugation
+  tier: extended
+  front_en: future we form of quedar
+  back_es: quedaremos
+  hint: without nos = will remain
+  rule_ref: 'L36#13'
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: L36-221
+  type: conjugation
+  tier: extended
+  front_en: future I form of recomendar
+  back_es: recomendaré
+  hint: recomendar + -é · regular in future
+  rule_ref: 'L36#5'
+  lessons:
+  - 36
+  directions:
+  - en_es
+- id: L36-222
+  type: sentence
+  tier: primary
+  front_en: 'We''ll travel tomorrow.'
+  back_es: Viajaremos mañana.
+  hint: viajar + -emos · real future
+  rule_ref: 'L36#5, L36#6'
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: L36-223
+  type: sentence
+  tier: primary
+  front_en: 'She''ll arrive late.'
+  back_es: Llegará tarde.
+  hint: llegar + -á · stress shifts to end
+  rule_ref: 'L36#5, L36#6'
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: L36-224
+  type: sentence
+  tier: extended
+  front_en: You will eat.
+  back_es: Comerás.
+  hint: comer + -ás
+  rule_ref: 'L36#7'
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: L36-225
+  type: sentence
+  tier: extended
+  front_en: He will eat.
+  back_es: Comerá.
+  hint: comer + -á
+  rule_ref: 'L36#7'
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: L36-226
+  type: sentence
+  tier: extended
+  front_en: They will eat.
+  back_es: Comerán.
+  hint: comer + -án
+  rule_ref: 'L36#7'
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: L36-227
+  type: sentence
+  tier: extended
+  front_en: You will go.
+  back_es: Irás.
+  hint: ir + -ás · ir is regular in future
+  rule_ref: 'L36#9'
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: L36-228
+  type: sentence
+  tier: extended
+  front_en: She will go.
+  back_es: Irá.
+  hint: ir + -á
+  rule_ref: 'L36#9'
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: L36-229
+  type: sentence
+  tier: extended
+  front_en: We will go.
+  back_es: Iremos.
+  hint: ir + -emos
+  rule_ref: 'L36#9'
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: L36-230
+  type: sentence
+  tier: extended
+  front_en: They will go.
+  back_es: Irán.
+  hint: 'ir + -án · homophone with *Irán* (country)'
+  rule_ref: 'L36#9, L36#10'
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: L36-231
+  type: sentence
+  tier: extended
+  front_en: We will live here.
+  back_es: Viviremos aquí.
+  hint: vivir + -emos
+  rule_ref: 'L36#5'
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: L36-232
+  type: sentence
+  tier: extended
+  front_en: Will they recommend it?
+  back_es: ¿Lo recomendarán?
+  hint: lo before the future verb
+  rule_ref: 'L36#5, L36#11'
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: L36-233
+  type: sentence
+  tier: extended
+  front_en: I will remain.
+  back_es: Quedaré.
+  hint: without me · just remain, not stay
+  rule_ref: 'L36#13'
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: L36-234
+  type: sentence
+  tier: extended
+  front_en: I have recommended it.
+  back_es: Lo he recomendado.
+  hint: lo before haber · NEVER between
+  rule_ref: 'L36#12'
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: L36-235
+  type: sentence
+  tier: extended
+  front_en: He has slept.
+  back_es: Ha dormido.
+  hint: ha + dormido
+  rule_ref: 'L36#4'
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: L36-236
+  type: sentence
+  tier: extended
+  front_en: 'I''m going to eat.'
+  back_es: Voy a comer.
+  hint: voy a + infinitive
+  rule_ref: 'L36#1'
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: L36-237
+  type: sentence
+  tier: extended
+  front_en: 'We''re going to go tomorrow.'
+  back_es: Vamos a ir mañana.
+  hint: vamos a + infinitive
+  rule_ref: 'L36#1'
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: L36-238
+  type: sentence
+  tier: extended
+  front_en: We will speak with them.
+  back_es: Hablaremos con ellos.
+  hint: con ellos = with them (lit. with they)
+  rule_ref: 'L36#2, L36#5'
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: L36-239
+  type: sentence
+  tier: extended
+  front_en: She will be sincere.
+  back_es: Será sincera.
+  hint: characteristic → ser
+  rule_ref: 'L36#17, L35#2'
+  lessons:
+  - 35
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: L36-240
+  type: sentence
+  tier: extended
+  front_en: I will be here.
+  back_es: Estaré aquí.
+  hint: location → estar
+  rule_ref: 'L36#16'
+  lessons:
+  - 36
+  directions:
+  - en_es
+  - es_en
+- id: L36-241
+  type: sentence
+  tier: extended
+  front_en: Iran
+  back_es: Irán
+  hint: 'country · spelled like *they will go*'
+  rule_ref: 'L36#10'
+  lessons:
   - 36
   directions:
   - en_es

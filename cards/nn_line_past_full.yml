@@ -143,6 +143,29 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L47-013
+  type: transformation
+  tier: extended
+  front_en: '*cena* pronounced in Spain'
+  back_es: /thena/
+  hint: 'Spain: *c* before *e/i* sounds like /th/'
+  rule_ref: 'L47#4'
+  lessons:
+  - 47
+  directions:
+  - en_es
+- id: L47-014
+  type: transformation
+  tier: extended
+  front_en: to break (itself)
+  back_es: romperse
+  hint: 'go back to *romper* before adding *se*'
+  rule_ref: 'L47#12, L47#10'
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
 - id: L47-015
   type: transformation
   tier: primary
@@ -167,6 +190,30 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L47-017
+  type: transformation
+  tier: primary
+  front_en: these (fem.)
+  back_es: estas
+  hint: 'echoes the /as/ of *las*'
+  rule_ref: 'L47#14'
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: L47-018
+  type: transformation
+  tier: primary
+  front_en: these (masc.)
+  back_es: estos
+  hint: 'echoes the /os/ of *los*'
+  rule_ref: 'L47#14'
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
 - id: L47-019
   type: transformation
   tier: primary
@@ -179,6 +226,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L47-020
+  type: transformation
+  tier: primary
+  front_en: that (fem.)
+  back_es: esa
+  hint: esta → esa (pluck the t)
+  rule_ref: 'L47#15'
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
 - id: L47-021
   type: transformation
   tier: primary
@@ -186,6 +245,18 @@ cards:
   back_es: esos
   hint: estos → esos · default for mixed groups
   rule_ref: L47#15, L47#16
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: L47-022
+  type: transformation
+  tier: primary
+  front_en: those (fem.)
+  back_es: esas
+  hint: estas → esas
+  rule_ref: 'L47#15'
   lessons:
   - 47
   directions:
@@ -221,6 +292,42 @@ cards:
   back_es: Usted quemaba la cena.
   hint: '*usted* disambiguates'
   rule_ref: L47#1, L47#2
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: L47-026
+  type: transformation
+  tier: primary
+  front_en: the car
+  back_es: el auto
+  hint: 'or *el coche* in Spain'
+  rule_ref: 'L47#13'
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: L47-027
+  type: transformation
+  tier: primary
+  front_en: the car (Spain)
+  back_es: el coche
+  hint: 'Spain variant of *el auto*'
+  rule_ref: 'L47#13'
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: L47-028
+  type: transformation
+  tier: primary
+  front_en: the night
+  back_es: la noche
+  hint: 'feminine — *esta noche* = tonight'
+  rule_ref: 'L47#13'
   lessons:
   - 47
   directions:
@@ -310,6 +417,29 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L47-036
+  type: sentence
+  tier: primary
+  front_en: tonight
+  back_es: esta noche
+  hint: 'literally *this night*'
+  rule_ref: 'L47#13'
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: L47-037
+  type: conjugation
+  tier: primary
+  front_en: line-past they form of quemar
+  back_es: quemaban
+  hint: burn (was -ing) · -aba + -n
+  rule_ref: 'L47#1'
+  lessons:
+  - 47
+  directions:
+  - en_es
 - id: L47-038
   type: sentence
   tier: primary
@@ -321,6 +451,17 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L47-039
+  type: conjugation
+  tier: primary
+  front_en: line-past you-informal form of quemar
+  back_es: quemabas
+  hint: burn (was -ing) · -aba + -s
+  rule_ref: 'L47#1'
+  lessons:
+  - 47
+  directions:
+  - en_es
 - id: L47-040
   type: sentence
   tier: primary
@@ -486,6 +627,91 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L47-054
+  type: sentence
+  tier: primary
+  front_en: It used to get broken.
+  back_es: Se rompía.
+  hint: '*se* + line-past = was getting (verb)-ed'
+  rule_ref: 'L47#10, L48#1'
+  lessons:
+  - 47
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: L47-055
+  type: sentence
+  tier: extended
+  front_en: It was getting lost.
+  back_es: Se perdía.
+  hint: '*perder* + *se* = get lost'
+  rule_ref: 'L47#10, L48#1'
+  lessons:
+  - 47
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: L47-056
+  type: sentence
+  tier: extended
+  front_en: I was getting burnt.
+  back_es: Me quemaba.
+  hint: '*me* + line-past = was getting (verb)-ed'
+  rule_ref: 'L47#8, L47#1'
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: L47-057
+  type: sentence
+  tier: extended
+  front_en: She was getting burnt in the sun.
+  back_es: Se quemaba en el sol.
+  hint: '*se* covers he/she/you-formal'
+  rule_ref: 'L47#8, L47#1'
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: L47-058
+  type: sentence
+  tier: extended
+  front_en: You-informal used to burn the dinner.
+  back_es: Quemabas la cena.
+  rule_ref: 'L47#1'
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: L47-059
+  type: sentence
+  tier: extended
+  front_en: They used to dine here.
+  back_es: Cenaban aquí.
+  hint: '-aba + -n · context = they'
+  rule_ref: 'L47#1'
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
+- id: L47-060
+  type: sentence
+  tier: extended
+  front_en: That night the dinner was burning.
+  back_es: Esa noche se quemaba la cena.
+  hint: 'flexible *se* word order'
+  rule_ref: 'L47#15, L47#5, L47#1'
+  lessons:
+  - 47
+  directions:
+  - en_es
+  - es_en
 - id: L48-001
   type: conjugation
   tier: primary
@@ -497,6 +723,30 @@ cards:
   - 48
   directions:
   - en_es
+- id: L48-002
+  type: transformation
+  tier: primary
+  front_en: to sell
+  back_es: vender
+  hint: '-er verb · *se vende* = for sale'
+  rule_ref: 'L48#5'
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: L48-003
+  type: transformation
+  tier: primary
+  front_en: to go
+  back_es: ir
+  hint: 'very irregular · *vamos* = we go'
+  rule_ref: 'L48#6'
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
 - id: L48-004
   type: conjugation
   tier: primary
@@ -563,6 +813,29 @@ cards:
   - 48
   directions:
   - en_es
+- id: L48-010
+  type: conjugation
+  tier: primary
+  front_en: we form of ir
+  back_es: vamos
+  hint: 'we go / let''s go · totally irregular'
+  rule_ref: 'L48#6'
+  lessons:
+  - 48
+  directions:
+  - en_es
+- id: L48-011
+  type: transformation
+  tier: primary
+  front_en: to remain / be left over
+  back_es: quedar
+  hint: 'plain *quedar* (no *se*) · *me queda* = I have left'
+  rule_ref: 'L48#11'
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
 - id: L48-012
   type: conjugation
   tier: primary
@@ -574,6 +847,18 @@ cards:
   - 48
   directions:
   - en_es
+- id: L48-013
+  type: sentence
+  tier: primary
+  front_en: 'It''s going to break.'
+  back_es: Va a romperse.
+  hint: 'alt: *se va a romper*'
+  rule_ref: 'L48#6'
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
 - id: L48-014
   type: transformation
   tier: primary
@@ -581,6 +866,18 @@ cards:
   back_es: decir
   hint: irregular present forms
   rule_ref: L48#8
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: L48-015
+  type: sentence
+  tier: primary
+  front_en: they stay
+  back_es: se quedan
+  hint: 'NOT *los quedan* — *l-* becomes *se* in reflexive'
+  rule_ref: 'L48#15, L48#14'
   lessons:
   - 48
   directions:
@@ -598,6 +895,17 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L48-017
+  type: conjugation
+  tier: primary
+  front_en: line-past you-informal form of comer
+  back_es: comías
+  hint: eat (was -ing) · -ía + -s
+  rule_ref: 'L48#4'
+  lessons:
+  - 48
+  directions:
+  - en_es
 - id: L48-018
   type: transformation
   tier: primary
@@ -610,6 +918,28 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L48-019
+  type: conjugation
+  tier: primary
+  front_en: line-past they form of comer
+  back_es: comían
+  hint: eat (was -ing) · -ía + -n
+  rule_ref: 'L48#4'
+  lessons:
+  - 48
+  directions:
+  - en_es
+- id: L48-020
+  type: conjugation
+  tier: primary
+  front_en: line-past I/he/she form of vivir
+  back_es: vivía
+  hint: live (was -ing) · -ir → -ía too
+  rule_ref: 'L48#1'
+  lessons:
+  - 48
+  directions:
+  - en_es
 - id: L48-021
   type: sentence
   tier: primary
@@ -622,6 +952,17 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L48-022
+  type: conjugation
+  tier: primary
+  front_en: line-past we form of vivir
+  back_es: vivíamos
+  hint: live (was -ing) · -íamos
+  rule_ref: 'L48#1, L48#4'
+  lessons:
+  - 48
+  directions:
+  - en_es
 - id: L48-023
   type: sentence
   tier: primary
@@ -691,6 +1032,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L48-029
+  type: conjugation
+  tier: primary
+  front_en: line-past I/he/she form of hablar
+  back_es: hablaba
+  hint: speak (was -ing) · -aba
+  rule_ref: 'L48#16, L47#1'
+  lessons:
+  - 47
+  - 48
+  directions:
+  - en_es
 - id: L48-030
   type: sentence
   tier: primary
@@ -761,6 +1114,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L48-036
+  type: sentence
+  tier: primary
+  front_en: I used to live in Madrid.
+  back_es: Vivía en Madrid.
+  hint: '-ir + -ía · one form covers I/he/she'
+  rule_ref: 'L48#1'
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
 - id: L48-037
   type: sentence
   tier: primary
@@ -805,6 +1170,41 @@ cards:
   hint: singular form also common
   rule_ref: L48#13
   lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: L48-041
+  type: sentence
+  tier: primary
+  front_en: We used to live in Madrid.
+  back_es: Vivíamos en Madrid.
+  rule_ref: 'L48#1, L48#4'
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: L48-042
+  type: sentence
+  tier: primary
+  front_en: They used to live here.
+  back_es: Vivían aquí.
+  rule_ref: 'L48#1, L48#4'
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: L48-043
+  type: sentence
+  tier: primary
+  front_en: I was speaking Spanish.
+  back_es: Hablaba español.
+  hint: '-aba covers I/he/she'
+  rule_ref: 'L48#16, L47#1'
+  lessons:
+  - 47
   - 48
   directions:
   - en_es
@@ -971,6 +1371,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L48-058
+  type: sentence
+  tier: extended
+  front_en: Houses were for sale.
+  back_es: Se vendían casas.
+  hint: 'passive *se* + plural agrees with *casas*'
+  rule_ref: 'L48#5, L48#1'
+  lessons:
+  - 48
+  directions:
+  - en_es
+  - es_en
 - id: L48-059
   type: sentence
   tier: extended
@@ -979,6 +1391,18 @@ cards:
   rule_ref: L48#2, L47#13
   lessons:
   - 47
+  - 48
+  directions:
+  - en_es
+  - es_en
+- id: L48-060
+  type: sentence
+  tier: extended
+  front_en: How is it said?
+  back_es: ¿Cómo se dice?
+  hint: 'same as *how do you say it*'
+  rule_ref: 'L48#7'
+  lessons:
   - 48
   directions:
   - en_es
@@ -1002,6 +1426,55 @@ cards:
   back_es: tener
   hint: NOT for past helpers (use *haber*)
   rule_ref: L49#4
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: L49-003
+  type: sentence
+  tier: primary
+  front_en: 'What''s your name? (informal)'
+  back_es: ¿Cómo te llamas?
+  hint: 'literally *how do you call yourself*'
+  rule_ref: 'L49#2, L49#1'
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: L49-004
+  type: sentence
+  tier: primary
+  front_en: 'What''s his/her name?'
+  back_es: ¿Cómo se llama?
+  hint: 'also = what''s your-formal name'
+  rule_ref: 'L49#2, L49#1'
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: L49-005
+  type: sentence
+  tier: extended
+  front_en: What were their names?
+  back_es: ¿Cómo se llamaban?
+  hint: 'plural line-past of *llamarse*'
+  rule_ref: 'L49#3, L47#1'
+  lessons:
+  - 47
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: L49-006
+  type: transformation
+  tier: primary
+  front_en: to contain
+  back_es: contener
+  hint: '-tain → -tener'
+  rule_ref: 'L49#5'
   lessons:
   - 49
   directions:
@@ -1053,6 +1526,30 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L49-011
+  type: transformation
+  tier: primary
+  front_en: to obtain
+  back_es: obtener
+  hint: '-tain → -tener'
+  rule_ref: 'L49#5'
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: L49-012
+  type: transformation
+  tier: primary
+  front_en: to maintain
+  back_es: mantener
+  hint: 'man- like *mano* (hand) — hand-hold'
+  rule_ref: 'L49#5, L49#6'
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
 - id: L49-013
   type: transformation
   tier: primary
@@ -1060,6 +1557,30 @@ cards:
   back_es: ser
   hint: line-past *era* — like *era* in English
   rule_ref: L49#13
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: L49-014
+  type: transformation
+  tier: primary
+  front_en: to sustain
+  back_es: sostener
+  hint: '-tain → -tener'
+  rule_ref: 'L49#5'
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: L49-015
+  type: transformation
+  tier: primary
+  front_en: to do, to make
+  back_es: hacer
+  hint: 'irregular present *hago* (later)'
+  rule_ref: 'L49#9'
   lessons:
   - 49
   directions:
@@ -1087,6 +1608,18 @@ cards:
   - 49
   directions:
   - en_es
+- id: L49-018
+  type: transformation
+  tier: primary
+  front_en: to see
+  back_es: ver
+  hint: 'irregular: *veo* (present), *veía* (line-past)'
+  rule_ref: 'L49#12'
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
 - id: L49-019
   type: conjugation
   tier: primary
@@ -1109,6 +1642,29 @@ cards:
   - 49
   directions:
   - en_es
+- id: L49-021
+  type: transformation
+  tier: primary
+  front_en: to go
+  back_es: ir
+  hint: 'line-past *iba* — irregular'
+  rule_ref: 'L49#16'
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: L49-022
+  type: conjugation
+  tier: primary
+  front_en: line-past they form of tener
+  back_es: tenían
+  hint: have (was -ing) · -ía + -n
+  rule_ref: 'L49#7'
+  lessons:
+  - 49
+  directions:
+  - en_es
 - id: L49-023
   type: conjugation
   tier: primary
@@ -1116,6 +1672,17 @@ cards:
   back_es: era
   hint: be (was -ing) · an *era* = a line of time past
   rule_ref: L49#13
+  lessons:
+  - 49
+  directions:
+  - en_es
+- id: L49-024
+  type: conjugation
+  tier: primary
+  front_en: line-past you-informal form of tener
+  back_es: tenías
+  hint: have (was -ing) · -ía + -s
+  rule_ref: 'L49#7'
   lessons:
   - 49
   directions:
@@ -1131,6 +1698,17 @@ cards:
   - 49
   directions:
   - en_es
+- id: L49-026
+  type: conjugation
+  tier: primary
+  front_en: line-past they form of ver
+  back_es: veían
+  hint: 'see (was -ing) · keep the extra *e*'
+  rule_ref: 'L49#12'
+  lessons:
+  - 49
+  directions:
+  - en_es
 - id: L49-027
   type: conjugation
   tier: primary
@@ -1142,6 +1720,17 @@ cards:
   - 49
   directions:
   - en_es
+- id: L49-028
+  type: conjugation
+  tier: primary
+  front_en: line-past you-informal form of ver
+  back_es: veías
+  hint: see (was -ing) · veí- + -as
+  rule_ref: 'L49#12'
+  lessons:
+  - 49
+  directions:
+  - en_es
 - id: L49-029
   type: conjugation
   tier: primary
@@ -1149,6 +1738,17 @@ cards:
   back_es: íbamos
   hint: go (was -ing) · accent on í
   rule_ref: L49#16
+  lessons:
+  - 49
+  directions:
+  - en_es
+- id: L49-030
+  type: conjugation
+  tier: primary
+  front_en: line-past you-informal form of ser
+  back_es: eras
+  hint: be (was -ing) · era + -s
+  rule_ref: 'L49#13'
   lessons:
   - 49
   directions:
@@ -1165,6 +1765,28 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L49-032
+  type: conjugation
+  tier: primary
+  front_en: line-past they form of ser
+  back_es: eran
+  hint: be (was -ing) · era + -n
+  rule_ref: 'L49#13'
+  lessons:
+  - 49
+  directions:
+  - en_es
+- id: L49-033
+  type: conjugation
+  tier: primary
+  front_en: line-past you-informal form of ir
+  back_es: ibas
+  hint: go (was -ing) · iba + -s
+  rule_ref: 'L49#16'
+  lessons:
+  - 49
+  directions:
+  - en_es
 - id: L49-034
   type: sentence
   tier: primary
@@ -1178,6 +1800,17 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L49-035
+  type: conjugation
+  tier: primary
+  front_en: line-past they form of ir
+  back_es: iban
+  hint: go (was -ing) · iba + -n
+  rule_ref: 'L49#16'
+  lessons:
+  - 49
+  directions:
+  - en_es
 - id: L49-036
   type: sentence
   tier: primary
@@ -1236,6 +1869,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L49-041
+  type: conjugation
+  tier: primary
+  front_en: line-past I/he/she form of llamar
+  back_es: llamaba
+  hint: call (was -ing) · -ar → -aba
+  rule_ref: 'L49#3, L47#1'
+  lessons:
+  - 47
+  - 49
+  directions:
+  - en_es
 - id: L49-042
   type: sentence
   tier: primary
@@ -1316,6 +1961,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L49-049
+  type: conjugation
+  tier: primary
+  front_en: line-past they form of llamar
+  back_es: llamaban
+  hint: call (was -ing) · -aba + -n
+  rule_ref: 'L49#3, L47#1'
+  lessons:
+  - 47
+  - 49
+  directions:
+  - en_es
 - id: L49-050
   type: sentence
   tier: extended
@@ -1492,6 +2149,186 @@ cards:
   front_en: I didn't have to do it.
   back_es: No tenía que hacerlo.
   rule_ref: L49#10
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: L49-066
+  type: transformation
+  tier: extended
+  front_en: the three irregular line-past verbs
+  back_es: ser, ir, ver
+  hint: '*era*, *iba*, *veía* — that''s all!'
+  rule_ref: 'L49#11, L49#13, L49#16, L49#12'
+  lessons:
+  - 49
+  directions:
+  - en_es
+- id: L49-067
+  type: transformation
+  tier: extended
+  front_en: '*iba a hacerlo* in fluent speech sounds like…'
+  back_es: /ibacerlo/
+  hint: 'three /a/''s blend together'
+  rule_ref: 'L49#18'
+  lessons:
+  - 49
+  directions:
+  - en_es
+- id: L49-068
+  type: sentence
+  tier: primary
+  front_en: She was eating when I called.
+  back_es: Comía cuando llamaba.
+  hint: two line-pasts · habit/duration
+  rule_ref: 'L48#1, L49#3'
+  lessons:
+  - 48
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: L49-069
+  type: sentence
+  tier: primary
+  front_en: We saw it every day.
+  back_es: Lo veíamos todos los días.
+  hint: 'line-past for habit · *todos los días* = every day'
+  rule_ref: 'L49#12'
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: L49-070
+  type: sentence
+  tier: primary
+  front_en: I was a student in Madrid.
+  back_es: Era estudiante en Madrid.
+  hint: 'no word for *a* — *era* covers it'
+  rule_ref: 'L49#13, L49#14'
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: L49-071
+  type: sentence
+  tier: extended
+  front_en: We used to go there every day.
+  back_es: Íbamos allí todos los días.
+  hint: '*íbamos* + habit phrase'
+  rule_ref: 'L49#16'
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: L49-072
+  type: sentence
+  tier: extended
+  front_en: They used to see us.
+  back_es: Nos veían.
+  hint: '*nos* before verb · -ían = they'
+  rule_ref: 'L49#12'
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: L49-073
+  type: sentence
+  tier: extended
+  front_en: I used to call you every night.
+  back_es: Te llamaba todas las noches.
+  hint: '*-aba* + plural noche → *todas las noches*'
+  rule_ref: 'L49#3, L47#1'
+  lessons:
+  - 47
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: L49-074
+  type: sentence
+  tier: extended
+  front_en: We had four cars.
+  back_es: Teníamos cuatro autos.
+  hint: '*teníamos* + number + noun'
+  rule_ref: 'L49#7, L49#8'
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: L49-075
+  type: sentence
+  tier: extended
+  front_en: She was going to maintain the house.
+  back_es: Iba a mantener la casa.
+  hint: '*iba a* + -tain verb'
+  rule_ref: 'L49#17, L49#5'
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: L49-076
+  type: sentence
+  tier: extended
+  front_en: I used to see you every day.
+  back_es: Te veía todos los días.
+  rule_ref: 'L49#12'
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: L49-077
+  type: sentence
+  tier: extended
+  front_en: They were going to call us.
+  back_es: Iban a llamarnos.
+  hint: '*iban a* + *llamar* + *nos*'
+  rule_ref: 'L49#17, L49#16'
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: L49-078
+  type: sentence
+  tier: extended
+  front_en: It contained four.
+  back_es: Contenía cuatro.
+  hint: '*-tener* line-past = *-tenía*'
+  rule_ref: 'L49#5, L49#7'
+  lessons:
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: L49-079
+  type: sentence
+  tier: extended
+  front_en: 'I don''t have any left.'
+  back_es: No me queda.
+  hint: singular or plural form both heard
+  rule_ref: 'L49#11, L48#13'
+  lessons:
+  - 48
+  - 49
+  directions:
+  - en_es
+  - es_en
+- id: L49-080
+  type: sentence
+  tier: extended
+  front_en: I was going to see you yesterday.
+  back_es: Iba a verte ayer.
+  hint: '*iba a* + verte + ayer'
+  rule_ref: 'L49#17, L49#10'
   lessons:
   - 49
   directions:

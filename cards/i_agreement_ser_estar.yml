@@ -341,6 +341,30 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L28-029
+  type: transformation
+  tier: primary
+  front_en: tall (m)
+  back_es: alto
+  hint: '-o adj — flips for fem'
+  rule_ref: 'L28#5'
+  lessons:
+  - 28
+  directions:
+  - en_es
+  - es_en
+- id: L28-030
+  type: transformation
+  tier: primary
+  front_en: tall (f)
+  back_es: alta
+  hint: '-o → -a'
+  rule_ref: 'L28#5'
+  lessons:
+  - 28
+  directions:
+  - en_es
+  - es_en
 - id: L28-031
   type: sentence
   tier: primary
@@ -519,6 +543,29 @@ cards:
   front_en: He is very negative.
   back_es: Él es muy negativo.
   rule_ref: L28#17, L28#16, L28#13
+  lessons:
+  - 28
+  directions:
+  - en_es
+  - es_en
+- id: L28-047
+  type: sentence
+  tier: primary
+  front_en: She is tall.
+  back_es: Ella es alta.
+  hint: 'characteristic → *es* · -o → -a'
+  rule_ref: 'L28#5, L28#17'
+  lessons:
+  - 28
+  directions:
+  - en_es
+  - es_en
+- id: L28-048
+  type: sentence
+  tier: primary
+  front_en: He is tall.
+  back_es: Él es alto.
+  rule_ref: 'L28#17'
   lessons:
   - 28
   directions:
@@ -757,6 +804,146 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L28-069
+  type: transformation
+  tier: primary
+  front_en: native (f)
+  back_es: nativa
+  hint: '-ivo → -iva'
+  rule_ref: 'L28#13, L28#5'
+  lessons:
+  - 28
+  directions:
+  - en_es
+  - es_en
+- id: L28-070
+  type: transformation
+  tier: extended
+  front_en: natives (f, plural)
+  back_es: nativas
+  hint: '-iva + s'
+  rule_ref: 'L28#13, L28#7'
+  lessons:
+  - 28
+  directions:
+  - en_es
+  - es_en
+- id: L28-071
+  type: sentence
+  tier: primary
+  front_en: She is a global teacher.
+  back_es: Es una profesora global.
+  hint: 'noun shifts (-a), -l adj doesn''t'
+  rule_ref: 'L28#9, L28#10, L28#11'
+  lessons:
+  - 28
+  directions:
+  - en_es
+  - es_en
+- id: L28-072
+  type: sentence
+  tier: primary
+  front_en: The situation is global.
+  back_es: La situación es global.
+  hint: '-l adj — no flip even with fem noun'
+  rule_ref: 'L28#10'
+  lessons:
+  - 28
+  directions:
+  - en_es
+  - es_en
+- id: L28-073
+  type: transformation
+  tier: extended
+  front_en: global (plural)
+  back_es: globales
+  hint: consonant + -es
+  rule_ref: 'L28#10, L28#12'
+  lessons:
+  - 28
+  directions:
+  - en_es
+  - es_en
+- id: L28-074
+  type: sentence
+  tier: extended
+  front_en: The global situations.
+  back_es: Las situaciones globales.
+  hint: consonant + -es · plural noun + adj
+  rule_ref: 'L28#3, L28#12'
+  lessons:
+  - 28
+  directions:
+  - en_es
+  - es_en
+- id: L28-075
+  type: sentence
+  tier: extended
+  front_en: They are doctors (mixed group).
+  back_es: Son doctores.
+  hint: mixed → masc plural · consonant + -es
+  rule_ref: 'L28#4, L28#8, L28#12'
+  lessons:
+  - 28
+  directions:
+  - en_es
+  - es_en
+- id: L28-076
+  type: sentence
+  tier: extended
+  front_en: They are doctors (women).
+  back_es: Son doctoras.
+  rule_ref: 'L28#4, L28#9, L28#7'
+  lessons:
+  - 28
+  directions:
+  - en_es
+  - es_en
+- id: L28-077
+  type: sentence
+  tier: extended
+  front_en: He is very intuitive.
+  back_es: Él es muy intuitivo.
+  rule_ref: 'L28#17, L28#16, L28#13'
+  lessons:
+  - 28
+  directions:
+  - en_es
+  - es_en
+- id: L28-078
+  type: sentence
+  tier: extended
+  front_en: They (women) are very aggressive.
+  back_es: Ellas son muy agresivas.
+  rule_ref: 'L28#17, L28#16, L28#18, L28#7'
+  lessons:
+  - 28
+  directions:
+  - en_es
+  - es_en
+- id: L28-079
+  type: sentence
+  tier: extended
+  front_en: The dogs are very expensive.
+  back_es: Los perros son muy caros.
+  rule_ref: 'L28#2, L28#3, L28#7, L28#16'
+  lessons:
+  - 28
+  directions:
+  - en_es
+  - es_en
+- id: L28-080
+  type: sentence
+  tier: extended
+  front_en: 'It''s very positive.'
+  back_es: Es muy positivo.
+  hint: neuter = masc sing · /s/ not /z/
+  rule_ref: 'L28#14, L28#15, L28#16'
+  lessons:
+  - 28
+  directions:
+  - en_es
+  - es_en
 - id: L29-001
   type: transformation
   tier: primary
@@ -867,6 +1054,18 @@ cards:
   back_es: cansada
   hint: -ado → -ada
   rule_ref: L29#12, L28#5
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: L29-011
+  type: transformation
+  tier: primary
+  front_en: dead (m)
+  back_es: muerto
+  hint: 'state · *mort-gage* link'
+  rule_ref: 'L29#15'
   lessons:
   - 29
   directions:
@@ -1043,6 +1242,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L29-027
+  type: sentence
+  tier: primary
+  front_en: I am dead (m).
+  back_es: Estoy muerto.
+  hint: 'state → *estar*'
+  rule_ref: 'L29#15, L29#9'
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
 - id: L29-028
   type: sentence
   tier: extended
@@ -1133,6 +1344,165 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L29-036
+  type: sentence
+  tier: primary
+  front_en: We are dead (mixed/men).
+  back_es: Estamos muertos.
+  rule_ref: 'L29#11, L29#15'
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: L29-037
+  type: sentence
+  tier: primary
+  front_en: They are dead (mixed/men).
+  back_es: Están muertos.
+  rule_ref: 'L29#10, L29#15'
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: L29-038
+  type: sentence
+  tier: primary
+  front_en: He is a teacher but he is tired.
+  back_es: Es profesor pero está cansado.
+  hint: profession=characteristic · tired=state
+  rule_ref: 'L29#7, L29#4, L29#12'
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: L29-039
+  type: sentence
+  tier: primary
+  front_en: They are doctors but they are tired (women).
+  back_es: Son doctoras pero están cansadas.
+  rule_ref: 'L29#7, L29#4, L29#12, L28#4'
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: L29-040
+  type: sentence
+  tier: primary
+  front_en: Are you tired? (informal, f)
+  back_es: ¿Estás cansada?
+  rule_ref: 'L29#10, L29#12'
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: L29-041
+  type: sentence
+  tier: primary
+  front_en: They are tired (mixed/men).
+  back_es: Están cansados.
+  rule_ref: 'L29#10, L29#12, L28#8'
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: L29-042
+  type: sentence
+  tier: primary
+  front_en: She is very tired.
+  back_es: Está muy cansada.
+  rule_ref: 'L29#10, L29#12, L28#16'
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: L29-043
+  type: sentence
+  tier: extended
+  front_en: I am not tired (m).
+  back_es: No estoy cansado.
+  rule_ref: 'L29#9, L29#12'
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: L29-044
+  type: transformation
+  tier: primary
+  front_en: happy (state, m)
+  back_es: contento
+  hint: 'state-happy · pairs with *estar*'
+  rule_ref: 'L29#4, L29#12'
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: L29-045
+  type: transformation
+  tier: primary
+  front_en: happy (state, f)
+  back_es: contenta
+  hint: '-o → -a'
+  rule_ref: 'L29#4, L28#5'
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: L29-046
+  type: sentence
+  tier: primary
+  front_en: They are happy (right now).
+  back_es: Están contentos.
+  hint: 'state → *estar*'
+  rule_ref: 'L29#4, L29#10'
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: L29-047
+  type: sentence
+  tier: primary
+  front_en: She is happy (right now).
+  back_es: Está contenta.
+  rule_ref: 'L29#4, L29#10'
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: L29-048
+  type: sentence
+  tier: extended
+  front_en: We are happy (right now, women).
+  back_es: Estamos contentas.
+  rule_ref: 'L29#4, L29#11'
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
+- id: L29-049
+  type: sentence
+  tier: extended
+  front_en: She is a teacher and she is happy (state).
+  back_es: Es profesora y está contenta.
+  hint: ser characteristic + estar state
+  rule_ref: 'L29#7, L29#4, L29#8'
+  lessons:
+  - 29
+  directions:
+  - en_es
+  - es_en
 - id: L30-001
   type: transformation
   tier: primary
@@ -1140,6 +1510,42 @@ cards:
   back_es: cómo
   hint: with accent — question word
   rule_ref: L30#1
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: L30-002
+  type: transformation
+  tier: primary
+  front_en: where
+  back_es: dónde
+  hint: accent — question word
+  rule_ref: 'L30#2'
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: L30-003
+  type: transformation
+  tier: primary
+  front_en: I
+  back_es: yo
+  hint: subject pronoun
+  rule_ref: 'L30#8'
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: L30-004
+  type: transformation
+  tier: primary
+  front_en: he
+  back_es: él
+  hint: 'accent — vs *el* (the)'
+  rule_ref: 'L30#8'
   lessons:
   - 30
   directions:
@@ -1157,6 +1563,18 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L30-006
+  type: transformation
+  tier: primary
+  front_en: she
+  back_es: ella
+  hint: subject pronoun
+  rule_ref: 'L30#8'
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
 - id: L30-007
   type: transformation
   tier: primary
@@ -1164,6 +1582,18 @@ cards:
   back_es: tú
   hint: accent — vs *tu* (your)
   rule_ref: L30#8
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: L30-008
+  type: transformation
+  tier: primary
+  front_en: you (formal)
+  back_es: usted
+  hint: 'formal singular · uses *está*'
+  rule_ref: 'L30#8'
   lessons:
   - 30
   directions:
@@ -1188,6 +1618,18 @@ cards:
   back_es: nosotras
   hint: fem form — like adjectives
   rule_ref: L30#9
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: L30-011
+  type: transformation
+  tier: primary
+  front_en: they (m / mixed)
+  back_es: ellos
+  hint: default masc plural
+  rule_ref: 'L30#8'
   lessons:
   - 30
   directions:
@@ -1248,6 +1690,18 @@ cards:
   back_es: quedarse
   hint: reflexive — *se* tacked on
   rule_ref: L30#14
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: L30-017
+  type: transformation
+  tier: primary
+  front_en: they (f)
+  back_es: ellas
+  hint: all-female plural
+  rule_ref: 'L30#8'
   lessons:
   - 30
   directions:
@@ -1644,6 +2098,216 @@ cards:
   rule_ref: L28#14, L28#13
   lessons:
   - 28
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: L30-050
+  type: conjugation
+  tier: primary
+  front_en: you (inf) form of ir
+  back_es: vas
+  hint: 'to go · paired with *voy / va / vamos / van*'
+  rule_ref: 'L30#7'
+  lessons:
+  - 30
+  directions:
+  - en_es
+- id: L30-051
+  type: transformation
+  tier: primary
+  front_en: I stay (lit. remain myself)
+  back_es: me quedo
+  hint: 'reflexive — *me* on front'
+  rule_ref: 'L30#14, L30#15'
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: L30-052
+  type: transformation
+  tier: primary
+  front_en: we stay (lit. remain ourselves)
+  back_es: nos quedamos
+  hint: 'reflexive — *nos* on front'
+  rule_ref: 'L30#14, L30#15'
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: L30-053
+  type: sentence
+  tier: primary
+  front_en: I want to be here.
+  back_es: Quiero estar aquí.
+  hint: '*quiero* + infinitive *estar*'
+  rule_ref: 'L30#5, L30#4'
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: L30-054
+  type: sentence
+  tier: primary
+  front_en: Where are you going to be?
+  back_es: ¿Dónde vas a estar?
+  hint: '*dónde* + *vas a* + *estar*'
+  rule_ref: 'L30#7, L30#2'
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: L30-055
+  type: sentence
+  tier: primary
+  front_en: I am here. (with pronoun)
+  back_es: Yo estoy aquí.
+  hint: '*yo* for emphasis'
+  rule_ref: 'L30#8, L29#9, L30#4'
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: L30-056
+  type: sentence
+  tier: primary
+  front_en: He is here.
+  back_es: Él está aquí.
+  rule_ref: 'L30#8, L29#10, L30#4'
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: L30-057
+  type: sentence
+  tier: primary
+  front_en: She is tired (with pronoun).
+  back_es: Ella está cansada.
+  rule_ref: 'L30#8, L29#10, L29#12'
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: L30-058
+  type: sentence
+  tier: primary
+  front_en: They (men) are very tired.
+  back_es: Ellos están muy cansados.
+  rule_ref: 'L30#8, L29#10, L28#16, L29#12'
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: L30-059
+  type: sentence
+  tier: primary
+  front_en: They are very smart.
+  back_es: Son muy inteligentes.
+  hint: 'characteristic → *son* · *inteligente* — same m/f'
+  rule_ref: 'L28#4, L28#16'
+  lessons:
+  - 28
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: L30-060
+  type: sentence
+  tier: extended
+  front_en: She is very smart.
+  back_es: Ella es muy inteligente.
+  hint: '-ente adj doesn''t flip · *es* + *muy*'
+  rule_ref: 'L28#10, L28#16, L28#17'
+  lessons:
+  - 28
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: L30-061
+  type: sentence
+  tier: extended
+  front_en: How are you? (formal)
+  back_es: ¿Cómo está?
+  rule_ref: 'L30#1, L29#10'
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: L30-062
+  type: sentence
+  tier: extended
+  front_en: Where are you guys?
+  back_es: ¿Dónde están?
+  rule_ref: 'L30#2, L29#10'
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: L30-063
+  type: sentence
+  tier: extended
+  front_en: 'I don''t know where they are.'
+  back_es: No sé dónde están.
+  rule_ref: 'L30#3, L30#2, L29#10'
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: L30-064
+  type: sentence
+  tier: extended
+  front_en: She has to be here later.
+  back_es: Tiene que estar aquí más tarde.
+  rule_ref: 'L30#11, L30#6, L30#4'
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: L30-065
+  type: sentence
+  tier: extended
+  front_en: We stay because we are happy.
+  back_es: Nos quedamos porque estamos contentos.
+  rule_ref: 'L30#14, L30#16, L29#11'
+  lessons:
+  - 29
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: L30-066
+  type: sentence
+  tier: extended
+  front_en: They have to stay.
+  back_es: Tienen que quedarse.
+  rule_ref: 'L30#11, L30#14, L30#15'
+  lessons:
+  - 30
+  directions:
+  - en_es
+  - es_en
+- id: L30-067
+  type: sentence
+  tier: extended
+  front_en: You guys must be tired (women).
+  back_es: Ustedes deben estar cansadas.
+  hint: '*ustedes* + *deben* + *cansadas*'
+  rule_ref: 'L30#8, L30#13, L29#12'
+  lessons:
+  - 29
   - 30
   directions:
   - en_es

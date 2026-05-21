@@ -324,6 +324,42 @@ cards:
   - 88
   directions:
   - en_es
+- id: L88-030
+  type: transformation
+  tier: primary
+  front_en: to compose (from poner)
+  back_es: componer
+  hint: com- + -poner · English -pose ↔ Spanish -pus-
+  rule_ref: 'L88#2'
+  lessons:
+  - 88
+  directions:
+  - en_es
+  - es_en
+- id: L88-031
+  type: transformation
+  tier: primary
+  front_en: to expose (from poner)
+  back_es: exponer
+  hint: ex- + -poner · English -pose ↔ Spanish -pus-
+  rule_ref: 'L88#2'
+  lessons:
+  - 88
+  directions:
+  - en_es
+  - es_en
+- id: L88-032
+  type: transformation
+  tier: primary
+  front_en: to oppose (from poner)
+  back_es: oponer
+  hint: o- + -poner · English -pose ↔ Spanish -pus-
+  rule_ref: 'L88#2'
+  lessons:
+  - 88
+  directions:
+  - en_es
+  - es_en
 - id: L88-033
   type: transformation
   tier: primary
@@ -743,6 +779,248 @@ cards:
   back_es: Vinieron tarde.
   hint: vin- · -ieron
   rule_ref: L88#4
+  lessons:
+  - 88
+  directions:
+  - en_es
+  - es_en
+- id: L88-069
+  type: sentence
+  tier: primary
+  front_en: I went to Spain.
+  back_es: Fui a España.
+  hint: 'fui = ir here · "a + place" gives the "went" reading'
+  rule_ref: 'L88#6, L88#7'
+  lessons:
+  - 88
+  directions:
+  - en_es
+  - es_en
+- id: L88-070
+  type: sentence
+  tier: primary
+  front_en: I was at home.
+  back_es: Fui en casa.
+  hint: fui = ser here · estar would also work · context decides
+  rule_ref: 'L88#6, L88#7'
+  lessons:
+  - 88
+  directions:
+  - en_es
+  - es_en
+- id: L88-071
+  type: sentence
+  tier: primary
+  front_en: She went to the store.
+  back_es: Fue a la tienda.
+  hint: fue = ir here · a + place
+  rule_ref: 'L88#6, L88#7'
+  lessons:
+  - 88
+  directions:
+  - en_es
+  - es_en
+- id: L88-072
+  type: sentence
+  tier: primary
+  front_en: He was a teacher.
+  back_es: Fue profesor.
+  hint: fue = ser here · permanent identity
+  rule_ref: 'L88#6, L88#7'
+  lessons:
+  - 88
+  directions:
+  - en_es
+  - es_en
+- id: L88-073
+  type: sentence
+  tier: primary
+  front_en: We went together.
+  back_es: Fuimos juntos.
+  hint: fuimos = ir here
+  rule_ref: 'L88#6, L88#7'
+  lessons:
+  - 88
+  directions:
+  - en_es
+  - es_en
+- id: L88-074
+  type: conjugation
+  tier: extended
+  front_en: past-point you form of hacer
+  back_es: hiciste
+  hint: do (past) · base hic- · -iste
+  rule_ref: 'L88#3'
+  lessons:
+  - 88
+  directions:
+  - en_es
+- id: L88-075
+  type: conjugation
+  tier: extended
+  front_en: past-point you form of traer
+  back_es: trajiste
+  hint: bring (past) · base traj- · -iste
+  rule_ref: 'L88#5'
+  lessons:
+  - 88
+  directions:
+  - en_es
+- id: L88-076
+  type: conjugation
+  tier: extended
+  front_en: past-point you form of ser/ir
+  back_es: fuiste
+  hint: be/go (past) · same form for both
+  rule_ref: 'L88#6, L88#7'
+  lessons:
+  - 88
+  directions:
+  - en_es
+- id: L88-077
+  type: conjugation
+  tier: extended
+  front_en: past-point we form of venir
+  back_es: vinimos
+  hint: come (past) · base vin- · -imos
+  rule_ref: 'L88#4'
+  lessons:
+  - 88
+  directions:
+  - en_es
+- id: L88-078
+  type: conjugation
+  tier: extended
+  front_en: past-point they form of traer
+  back_es: trajeron
+  hint: bring (past) · dropped i — would be trajieron
+  rule_ref: 'L88#5, L88#8'
+  lessons:
+  - 88
+  directions:
+  - en_es
+- id: L88-079
+  type: conjugation
+  tier: extended
+  front_en: past mood you form of ser/ir
+  back_es: fueras
+  hint: from fueron · drop -on · add -as
+  rule_ref: 'L88#9'
+  lessons:
+  - 88
+  directions:
+  - en_es
+- id: L88-080
+  type: conjugation
+  tier: extended
+  front_en: past mood you form of tener
+  back_es: tuvieras
+  hint: from tuvieron · drop -on · add -as
+  rule_ref: 'L88#9'
+  lessons:
+  - 88
+  directions:
+  - en_es
+- id: L88-081
+  type: conjugation
+  tier: extended
+  front_en: past mood they form of poner
+  back_es: pusieran
+  hint: put (past subj.) · from pusieron · drop -on · add -an
+  rule_ref: 'L88#9'
+  lessons:
+  - 88
+  directions:
+  - en_es
+- id: L88-082
+  type: conjugation
+  tier: extended
+  front_en: past mood we form of hacer
+  back_es: hiciéramos
+  hint: from hicieron · accent on stem vowel
+  rule_ref: 'L88#9'
+  lessons:
+  - 88
+  directions:
+  - en_es
+- id: L88-083
+  type: conjugation
+  tier: extended
+  front_en: past mood we form of venir
+  back_es: viniéramos
+  hint: from vinieron · accent on stem vowel
+  rule_ref: 'L88#9'
+  lessons:
+  - 88
+  directions:
+  - en_es
+- id: L88-084
+  type: sentence
+  tier: extended
+  front_en: They said no.
+  back_es: Dijeron que no.
+  hint: 'dropped i · que no = "that no" filler'
+  rule_ref: 'L88#8'
+  lessons:
+  - 88
+  directions:
+  - en_es
+  - es_en
+- id: L88-085
+  type: sentence
+  tier: extended
+  front_en: 'If you came, I''d be happy.'
+  back_es: Si vinieras, estaría feliz.
+  hint: si + past mood (you), then conditional
+  rule_ref: 'L88#10, L88#11'
+  lessons:
+  - 88
+  directions:
+  - en_es
+  - es_en
+- id: L88-086
+  type: sentence
+  tier: extended
+  front_en: I wanted you to put it there.
+  back_es: Quería que lo pusieras ahí.
+  hint: quería que + past mood (you form of poner)
+  rule_ref: 'L88#9, L88#13'
+  lessons:
+  - 88
+  directions:
+  - en_es
+  - es_en
+- id: L88-087
+  type: sentence
+  tier: extended
+  front_en: If they did it, I would know.
+  back_es: Si lo hicieran, lo sabría.
+  hint: si + past mood (they) · then conditional
+  rule_ref: 'L88#10, L88#11'
+  lessons:
+  - 88
+  directions:
+  - en_es
+  - es_en
+- id: L88-088
+  type: sentence
+  tier: extended
+  front_en: What did you bring?
+  back_es: ¿Qué trajiste?
+  hint: traj- · -iste · question front
+  rule_ref: 'L88#5'
+  lessons:
+  - 88
+  directions:
+  - en_es
+  - es_en
+- id: L88-089
+  type: sentence
+  tier: extended
+  front_en: Where did they go?
+  back_es: ¿Adónde fueron?
+  hint: fueron = ir here · adónde for direction
+  rule_ref: 'L88#7, L88#8'
   lessons:
   - 88
   directions:
@@ -1252,6 +1530,198 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L89-043
+  type: transformation
+  tier: primary
+  front_en: hunger (fem., takes el)
+  back_es: el hambre
+  hint: short fem. a-...-(consonant)e... but starts with a- · stressed a · takes el
+  rule_ref: 'L89#4'
+  lessons:
+  - 89
+  directions:
+  - en_es
+  - es_en
+- id: L89-044
+  type: transformation
+  tier: primary
+  front_en: soul (fem., takes el)
+  back_es: el alma
+  hint: short fem. a-...-a · stressed a · takes el
+  rule_ref: 'L89#4'
+  lessons:
+  - 89
+  directions:
+  - en_es
+  - es_en
+- id: L89-045
+  type: sentence
+  tier: primary
+  front_en: 'I have hunger. (I''m hungry.)'
+  back_es: Tengo hambre.
+  hint: no article needed after tener · idiom
+  rule_ref: 'L89#4'
+  lessons:
+  - 89
+  directions:
+  - en_es
+  - es_en
+- id: L89-046
+  type: sentence
+  tier: primary
+  front_en: Plural goes back to las (las aguas, las almas).
+  back_es: las aguas, las almas
+  hint: el-flip only in singular · plural feminine = las
+  rule_ref: 'L89#4, L89#5'
+  lessons:
+  - 89
+  directions:
+  - en_es
+  - es_en
+- id: L89-047
+  type: sentence
+  tier: primary
+  front_en: The water is cold.
+  back_es: El agua está fría.
+  hint: el (sound rule) but adj. agrees feminine · estar for state
+  rule_ref: 'L89#4, L89#5'
+  lessons:
+  - 89
+  directions:
+  - en_es
+  - es_en
+- id: L89-048
+  type: sentence
+  tier: extended
+  front_en: I want some water.
+  back_es: Quiero algo de agua.
+  hint: 'algo de = "some/a bit of" · fem. agua takes el normally but no article here'
+  rule_ref: 'L89#4'
+  lessons:
+  - 89
+  directions:
+  - en_es
+  - es_en
+- id: L89-049
+  type: sentence
+  tier: extended
+  front_en: Too many friends.
+  back_es: Demasiados amigos.
+  hint: noun = masc. pl. · demasiado agrees
+  rule_ref: 'L89#3'
+  lessons:
+  - 89
+  directions:
+  - en_es
+  - es_en
+- id: L89-050
+  type: sentence
+  tier: extended
+  front_en: Too many things.
+  back_es: Demasiadas cosas.
+  hint: noun = fem. pl. · demasiado agrees
+  rule_ref: 'L89#3'
+  lessons:
+  - 89
+  directions:
+  - en_es
+  - es_en
+- id: L89-051
+  type: sentence
+  tier: extended
+  front_en: They are too tired.
+  back_es: Están demasiado cansados.
+  hint: adj. tired changes · demasiado stays put
+  rule_ref: 'L89#3'
+  lessons:
+  - 89
+  directions:
+  - en_es
+  - es_en
+- id: L89-052
+  type: sentence
+  tier: extended
+  front_en: I have some car. (an unspecified one)
+  back_es: Tengo algún coche.
+  hint: alguno → algún before masc. noun
+  rule_ref: 'L89#7, L89#10'
+  lessons:
+  - 89
+  directions:
+  - en_es
+  - es_en
+- id: L89-053
+  type: sentence
+  tier: extended
+  front_en: 'There''s no car.'
+  back_es: No hay ningún coche.
+  hint: ninguno → ningún before masc.
+  rule_ref: 'L89#7, L89#10'
+  lessons:
+  - 89
+  directions:
+  - en_es
+  - es_en
+- id: L89-054
+  type: sentence
+  tier: extended
+  front_en: I have some house.
+  back_es: Tengo alguna casa.
+  hint: feminine — keep full form
+  rule_ref: 'L89#9'
+  lessons:
+  - 89
+  directions:
+  - en_es
+  - es_en
+- id: L89-055
+  type: sentence
+  tier: extended
+  front_en: Take control of the language.
+  back_es: Toma control del idioma.
+  hint: closing-pep idea · tú command
+  rule_ref: 'L89#11'
+  lessons:
+  - 89
+  directions:
+  - en_es
+  - es_en
+- id: L89-056
+  type: sentence
+  tier: extended
+  front_en: I have one spare.
+  back_es: Tengo uno de más.
+  hint: no noun follows uno · keep full form
+  rule_ref: 'L89#2, L89#8'
+  lessons:
+  - 89
+  directions:
+  - en_es
+  - es_en
+- id: L89-057
+  type: transformation
+  tier: extended
+  front_en: the wings (plural)
+  back_es: las alas
+  hint: plural drops the el flip · feminine = las
+  rule_ref: 'L89#4, L89#5'
+  lessons:
+  - 89
+  directions:
+  - en_es
+  - es_en
+- id: L89-058
+  type: sentence
+  tier: extended
+  front_en: The classroom is cold.
+  back_es: El aula está fría.
+  hint: el for sound · adj. agrees feminine · estar for state
+  rule_ref: 'L89#4, L89#5'
+  lessons:
+  - 89
+  directions:
+  - en_es
+  - es_en
 - id: L90-001
   type: transformation
   tier: primary
@@ -1389,6 +1859,18 @@ cards:
   back_es: Le veo.
   hint: Spain leísmo · le for people
   rule_ref: L90#1
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-013
+  type: sentence
+  tier: primary
+  front_en: I see her. (Spain)
+  back_es: Le veo.
+  hint: Spain leísmo · le for any person
+  rule_ref: 'L90#1'
   lessons:
   - 90
   directions:
@@ -1713,6 +2195,217 @@ cards:
   back_es: Podemos hablar bien el español.
   hint: poder + infinitive · adv. before noun
   rule_ref: L90#9
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-041
+  type: transformation
+  tier: primary
+  front_en: you speak (vos form of hablar)
+  back_es: hablás
+  hint: stress on end · no diphthong needed (hablar is regular anyway)
+  rule_ref: 'L90#5'
+  lessons:
+  - 90
+  directions:
+  - en_es
+- id: L90-042
+  type: transformation
+  tier: primary
+  front_en: you eat (vos form of comer)
+  back_es: comés
+  hint: stress on end · -er → -és
+  rule_ref: 'L90#5'
+  lessons:
+  - 90
+  directions:
+  - en_es
+- id: L90-043
+  type: transformation
+  tier: primary
+  front_en: you live (vos form of vivir)
+  back_es: vivís
+  hint: stress on end · -ir → -ís
+  rule_ref: 'L90#5'
+  lessons:
+  - 90
+  directions:
+  - en_es
+- id: L90-044
+  type: transformation
+  tier: primary
+  front_en: you-all do (vosotros form of hacer)
+  back_es: hacéis
+  hint: Spain only · -er verbs → -éis
+  rule_ref: 'L90#2'
+  lessons:
+  - 90
+  directions:
+  - en_es
+- id: L90-045
+  type: transformation
+  tier: primary
+  front_en: you-all live (vosotros form of vivir)
+  back_es: vivís
+  hint: Spain only · -ir verbs → -ís · same shape as vos vivís
+  rule_ref: 'L90#2'
+  lessons:
+  - 90
+  directions:
+  - en_es
+- id: L90-046
+  type: transformation
+  tier: primary
+  front_en: Spain /th/ vs Lat-Am /s/ (the c/z sound)
+  back_es: distinción vs seseo
+  hint: Spain says /θ/ for ce/ci/z (gracias = /grathias/) · Lat-Am says /s/
+  rule_ref: 'L90#3'
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-047
+  type: transformation
+  tier: primary
+  front_en: Argentine /sh/ for ll/y (yo, llamo)
+  back_es: sheísmo
+  hint: 'Río de la Plata · "yo" → /sho/ · "lluvia" → /shuvia/'
+  rule_ref: 'L90#4'
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-048
+  type: sentence
+  tier: extended
+  front_en: Where do you live? (vosotros)
+  back_es: ¿Dónde vivís?
+  hint: Spain plural · same shape as vos vivís — context decides
+  rule_ref: 'L90#2'
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-049
+  type: sentence
+  tier: extended
+  front_en: What are you-all doing? (vosotros)
+  back_es: ¿Qué hacéis?
+  hint: Spain only · vosotros hacéis
+  rule_ref: 'L90#2'
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-050
+  type: sentence
+  tier: extended
+  front_en: You eat too much. (vos)
+  back_es: Vos comés demasiado.
+  hint: vos + comés · demasiado as adverb (no agreement)
+  rule_ref: 'L90#4, L90#5'
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-051
+  type: sentence
+  tier: extended
+  front_en: You speak well. (vos)
+  back_es: Vos hablás bien.
+  hint: vos + hablás · adv. after verb
+  rule_ref: 'L90#4, L90#5'
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-052
+  type: sentence
+  tier: extended
+  front_en: I told him. (Spain, indirect)
+  back_es: Le dije.
+  hint: le works for indirect everywhere · Spain also uses it for direct (leísmo)
+  rule_ref: 'L90#1'
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-053
+  type: sentence
+  tier: extended
+  front_en: 'I told her. (Lat-Am direct contrast: I see her)'
+  back_es: La veo.
+  hint: 'Lat-Am uses la for direct "her" · Spain would say "le veo"'
+  rule_ref: 'L90#1'
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-054
+  type: sentence
+  tier: extended
+  front_en: 'It''s hot. (aspirated s — heard as /ehtá calor/)'
+  back_es: Está caluroso.
+  hint: Caribbean/southern accents drop/breathe the s
+  rule_ref: 'L90#3'
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-055
+  type: sentence
+  tier: extended
+  front_en: You all want to speak Spanish. (Spain)
+  back_es: Vosotros queréis hablar español.
+  hint: vosotros + queréis · -er → -éis
+  rule_ref: 'L90#2'
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-056
+  type: sentence
+  tier: extended
+  front_en: Now I am a Spanish-speaker. (vos)
+  back_es: Ahora vos sos hispanohablante.
+  hint: 'vos sos (not "tú eres") · final-lesson pep'
+  rule_ref: 'L90#4, L90#5'
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-057
+  type: sentence
+  tier: extended
+  front_en: We only have to practice, speak, and analyze.
+  back_es: Solo tenemos que practicar, hablar y analizar.
+  hint: closing-pep · tener que + three infinitives
+  rule_ref: 'L90#9'
+  lessons:
+  - 90
+  directions:
+  - en_es
+  - es_en
+- id: L90-058
+  type: sentence
+  tier: extended
+  front_en: Enjoy the journey.
+  back_es: Disfruta el camino.
+  hint: tú command · final-lesson closer
+  rule_ref: 'L90#9'
   lessons:
   - 90
   directions:

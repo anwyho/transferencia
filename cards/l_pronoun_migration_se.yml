@@ -489,6 +489,335 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L37-200
+  type: transformation
+  tier: primary
+  front_en: to give
+  back_es: dar
+  hint: regular future · dar + -é/-ás/-á/...
+  rule_ref: 'L37#1'
+  lessons:
+  - 37
+  directions:
+  - en_es
+  - es_en
+- id: L37-201
+  type: transformation
+  tier: primary
+  front_en: to speak
+  back_es: hablar
+  rule_ref: 'L37#18'
+  lessons:
+  - 37
+  directions:
+  - en_es
+  - es_en
+- id: L37-202
+  type: transformation
+  tier: primary
+  front_en: spoken (past participle)
+  back_es: hablado
+  hint: '-ar → -ado'
+  rule_ref: 'L37#18'
+  lessons:
+  - 37
+  directions:
+  - en_es
+  - es_en
+- id: L37-203
+  type: transformation
+  tier: primary
+  front_en: to cook
+  back_es: cocinar
+  hint: 'from *la cocina* · just stick -r on end'
+  rule_ref: 'L37#20'
+  lessons:
+  - 37
+  directions:
+  - en_es
+  - es_en
+- id: L37-204
+  type: transformation
+  tier: primary
+  front_en: to see
+  back_es: ver
+  hint: 'irregular I-form *veo*'
+  rule_ref: 'L37#19'
+  lessons:
+  - 37
+  directions:
+  - en_es
+  - es_en
+- id: L37-205
+  type: transformation
+  tier: extended
+  front_en: the tarts
+  back_es: las tartas
+  hint: 'feminine plural · take *las*'
+  rule_ref: 'L37#20'
+  lessons:
+  - 37
+  directions:
+  - en_es
+  - es_en
+- id: L37-206
+  type: transformation
+  tier: primary
+  front_en: to realize
+  back_es: darse cuenta
+  hint: 'lit. *give oneself account*'
+  rule_ref: 'L37#10'
+  lessons:
+  - 37
+  directions:
+  - en_es
+  - es_en
+- id: L37-207
+  type: transformation
+  tier: primary
+  front_en: to/for him, her, you (formal)
+  back_es: le
+  hint: '*lo/la → le* when meaning is *to/for*'
+  rule_ref: 'L37#11'
+  lessons:
+  - 37
+  directions:
+  - en_es
+  - es_en
+- id: L37-208
+  type: transformation
+  tier: primary
+  front_en: to/for them, you guys
+  back_es: les
+  hint: '*los/las → les* for *to/for*'
+  rule_ref: 'L37#11'
+  lessons:
+  - 37
+  directions:
+  - en_es
+  - es_en
+- id: L37-210
+  type: conjugation
+  tier: extended
+  front_en: you (formal) form of future dar
+  back_es: dará
+  hint: usted shares the he/she form
+  rule_ref: 'L37#1'
+  lessons:
+  - 37
+  directions:
+  - en_es
+- id: L37-211
+  type: conjugation
+  tier: extended
+  front_en: you guys form of future dar
+  back_es: darán
+  hint: ustedes shares the they form
+  rule_ref: 'L37#1'
+  lessons:
+  - 37
+  directions:
+  - en_es
+- id: L37-220
+  type: sentence
+  tier: primary
+  front_en: I speak to her.
+  back_es: Le hablo.
+  hint: '*le* not *la* — meaning is *to*'
+  rule_ref: 'L37#11, L37#14'
+  lessons:
+  - 37
+  directions:
+  - en_es
+  - es_en
+- id: L37-221
+  type: sentence
+  tier: primary
+  front_en: She speaks to him.
+  back_es: Le habla.
+  hint: '*le* covers him/her/you-formal'
+  rule_ref: 'L37#11'
+  lessons:
+  - 37
+  directions:
+  - en_es
+  - es_en
+- id: L37-222
+  type: sentence
+  tier: primary
+  front_en: I have spoken to you (formal).
+  back_es: Le he hablado.
+  hint: '*le* also = *to you* (formal)'
+  rule_ref: 'L37#11, L37#18'
+  lessons:
+  - 37
+  directions:
+  - en_es
+  - es_en
+- id: L37-223
+  type: sentence
+  tier: primary
+  front_en: 'He''s cooking her something.'
+  back_es: Le cocina algo.
+  hint: 'indirect → *le*, not *la*'
+  rule_ref: 'L37#11, L37#14'
+  lessons:
+  - 37
+  directions:
+  - en_es
+  - es_en
+- id: L37-224
+  type: sentence
+  tier: primary
+  front_en: 'He''s cooking them (the people) something.'
+  back_es: Les cocina algo.
+  hint: '*to them* → indirect *les*'
+  rule_ref: 'L37#11, L37#16'
+  lessons:
+  - 37
+  directions:
+  - en_es
+  - es_en
+- id: L37-225
+  type: sentence
+  tier: extended
+  front_en: She gives him something.
+  back_es: Le da algo.
+  hint: '*da* = he/she gives · *le* = to him'
+  rule_ref: 'L37#11, L37#12'
+  lessons:
+  - 37
+  directions:
+  - en_es
+  - es_en
+- id: L37-226
+  type: sentence
+  tier: extended
+  front_en: Will you give it to him?
+  back_es: ¿Se lo darás?
+  hint: le+lo → se lo (sneak peek L38)
+  rule_ref: 'L37#11, L37#4'
+  lessons:
+  - 37
+  directions:
+  - en_es
+  - es_en
+  notes: le→se before lo/la — taught explicitly L38, exposed here as anomaly.
+- id: L37-227
+  type: sentence
+  tier: extended
+  front_en: 'I''ll give it to him.'
+  back_es: Se lo daré.
+  hint: le+lo → se lo · daré = I will give
+  rule_ref: 'L37#1, L37#11, L37#4'
+  lessons:
+  - 37
+  directions:
+  - en_es
+  - es_en
+- id: L37-228
+  type: sentence
+  tier: extended
+  front_en: We will give it to her.
+  back_es: Se lo daremos.
+  hint: le+lo → se lo
+  rule_ref: 'L37#1, L37#11, L37#4'
+  lessons:
+  - 37
+  directions:
+  - en_es
+  - es_en
+- id: L37-229
+  type: sentence
+  tier: extended
+  front_en: 'I''ll give it (fem) to him.'
+  back_es: Se la daré.
+  hint: le+la → se la
+  rule_ref: 'L37#1, L37#5, L37#11'
+  lessons:
+  - 37
+  directions:
+  - en_es
+  - es_en
+- id: L37-235
+  type: sentence
+  tier: extended
+  front_en: I have realized.
+  back_es: Me he dado cuenta.
+  hint: '*me* + perfect of *dar* (dado)'
+  rule_ref: 'L37#10, L37#18'
+  lessons:
+  - 37
+  directions:
+  - en_es
+  - es_en
+  notes: '*dado* irregular-looking participle introduced via composite.'
+- id: L37-236
+  type: sentence
+  tier: extended
+  front_en: 'Don''t you realize?'
+  back_es: ¿No te das cuenta?
+  rule_ref: 'L37#10'
+  lessons:
+  - 37
+  directions:
+  - en_es
+  - es_en
+- id: L37-237
+  type: sentence
+  tier: extended
+  front_en: 'We don''t realize.'
+  back_es: No nos damos cuenta.
+  rule_ref: 'L37#10'
+  lessons:
+  - 37
+  directions:
+  - en_es
+  - es_en
+- id: L37-240
+  type: sentence
+  tier: extended
+  front_en: I see them (fem).
+  back_es: Las veo.
+  rule_ref: 'L37#5, L37#19'
+  lessons:
+  - 37
+  directions:
+  - en_es
+  - es_en
+- id: L37-241
+  type: sentence
+  tier: extended
+  front_en: We see him.
+  back_es: Lo vemos.
+  rule_ref: 'L37#3, L37#19'
+  lessons:
+  - 37
+  directions:
+  - en_es
+  - es_en
+- id: L37-242
+  type: sentence
+  tier: extended
+  front_en: I have spoken.
+  back_es: He hablado.
+  rule_ref: 'L37#18'
+  lessons:
+  - 37
+  directions:
+  - en_es
+  - es_en
+- id: L37-243
+  type: sentence
+  tier: extended
+  front_en: They have spoken.
+  back_es: Han hablado.
+  rule_ref: 'L37#18'
+  lessons:
+  - 37
+  directions:
+  - en_es
+  - es_en
 - id: L38-001
   type: transformation
   tier: primary
@@ -947,6 +1276,332 @@ cards:
   directions:
   - en_es
   - es_en
+- id: L38-200
+  type: transformation
+  tier: primary
+  front_en: you (informal)
+  back_es: tú
+  hint: 'accent on the *ú* distinguishes from *tu* (your)'
+  rule_ref: 'L38#12'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-201
+  type: transformation
+  tier: primary
+  front_en: he
+  back_es: él
+  hint: 'accent distinguishes from *el* (the)'
+  rule_ref: 'L38#12'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-202
+  type: transformation
+  tier: primary
+  front_en: she
+  back_es: ella
+  rule_ref: 'L38#12'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-203
+  type: transformation
+  tier: extended
+  front_en: they (masc/mixed)
+  back_es: ellos
+  rule_ref: 'L38#12'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-204
+  type: transformation
+  tier: extended
+  front_en: they (all-female)
+  back_es: ellas
+  rule_ref: 'L38#12'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-210
+  type: transformation
+  tier: primary
+  front_en: to stay, remain, fit, suit
+  back_es: quedar
+  hint: 'without *-se* it can mean fit/suit'
+  rule_ref: 'L38#9, L38#18'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-211
+  type: transformation
+  tier: primary
+  front_en: I want
+  back_es: quiero
+  hint: '/e/ splits when stressed → *quiero*'
+  rule_ref: 'L38#13'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-212
+  type: transformation
+  tier: primary
+  front_en: he/she wants
+  back_es: quiere
+  hint: /e/ splits when stressed
+  rule_ref: 'L38#13'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-213
+  type: transformation
+  tier: primary
+  front_en: they/you-guys want
+  back_es: quieren
+  rule_ref: 'L38#13'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-215
+  type: transformation
+  tier: primary
+  front_en: to stay (myself)
+  back_es: quedarme
+  hint: 'infinitive + *-me*'
+  rule_ref: 'L38#15, L38#16'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-216
+  type: transformation
+  tier: primary
+  front_en: to stay (yourself)
+  back_es: quedarte
+  hint: 'infinitive + *-te*'
+  rule_ref: 'L38#15, L38#16'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-217
+  type: transformation
+  tier: primary
+  front_en: to stay (ourselves)
+  back_es: quedarnos
+  hint: 'infinitive + *-nos*'
+  rule_ref: 'L38#15, L38#16'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-220
+  type: sentence
+  tier: primary
+  front_en: She speaks to herself.
+  back_es: Se habla.
+  hint: '*se* covers him/her/themselves'
+  rule_ref: 'L38#3, L38#5'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-221
+  type: sentence
+  tier: extended
+  front_en: You guys speak to yourselves.
+  back_es: Se hablan.
+  hint: 'ustedes uses *se*'
+  rule_ref: 'L38#3'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-222
+  type: sentence
+  tier: extended
+  front_en: You guys realize.
+  back_es: Se dan cuenta.
+  hint: ustedes shares the they form
+  rule_ref: 'L38#19, L38#3'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-230
+  type: sentence
+  tier: primary
+  front_en: I stay.
+  back_es: Me quedo.
+  rule_ref: 'L38#9'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-231
+  type: sentence
+  tier: primary
+  front_en: 'I don''t stay.'
+  back_es: No me quedo.
+  rule_ref: 'L38#9, L38#11'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-232
+  type: sentence
+  tier: primary
+  front_en: 'He doesn''t stay.'
+  back_es: No se queda.
+  rule_ref: 'L38#9, L38#3'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-233
+  type: sentence
+  tier: extended
+  front_en: 'They don''t stay.'
+  back_es: No se quedan.
+  rule_ref: 'L38#9, L38#11'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-234
+  type: sentence
+  tier: extended
+  front_en: She stays (emphasis).
+  back_es: Ella se queda.
+  hint: '*ella* disambiguates *se*'
+  rule_ref: 'L38#7, L38#20'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-235
+  type: sentence
+  tier: extended
+  front_en: He stays (emphasis).
+  back_es: Él se queda.
+  rule_ref: 'L38#7, L38#20'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-236
+  type: sentence
+  tier: extended
+  front_en: 'Why don''t they stay?'
+  back_es: ¿Por qué no se quedan?
+  rule_ref: 'L38#11, L38#9'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-240
+  type: sentence
+  tier: extended
+  front_en: It suits you well.
+  back_es: Te queda bien.
+  hint: '*quedar* without self = fit/suit'
+  rule_ref: 'L38#18'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-250
+  type: sentence
+  tier: primary
+  front_en: I want to stay.
+  back_es: Quiero quedarme.
+  hint: 'self-word stuck on the *-r* form'
+  rule_ref: 'L38#14, L38#15'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-251
+  type: sentence
+  tier: primary
+  front_en: Do you want to stay?
+  back_es: ¿Quieres quedarte?
+  hint: '*quieres* = you want'
+  rule_ref: 'L38#14, L38#15'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-252
+  type: sentence
+  tier: extended
+  front_en: 'She doesn''t want to stay.'
+  back_es: No quiere quedarse.
+  rule_ref: 'L38#14, L38#15, L38#11'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-260
+  type: sentence
+  tier: extended
+  front_en: He realizes (emphasis).
+  back_es: Él se da cuenta.
+  hint: '*él* disambiguates *se*'
+  rule_ref: 'L38#20, L38#19'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+- id: L38-261
+  type: sentence
+  tier: extended
+  front_en: I have realized.
+  back_es: Me he dado cuenta.
+  hint: 'perfect of *dar* = *dado*'
+  rule_ref: 'L38#19'
+  lessons:
+  - 38
+  directions:
+  - en_es
+  - es_en
+  notes: Cross-bundle echo of L37-235; included to anchor reflexive perfect.
 - id: L39-002
   type: transformation
   tier: primary
@@ -1442,6 +2097,373 @@ cards:
   front_en: It's from her.
   back_es: Es de ella.
   rule_ref: L39#8, L39#6, L39#2
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-200
+  type: transformation
+  tier: primary
+  front_en: with
+  back_es: con
+  hint: 'inside *con*venient, *con*firm'
+  rule_ref: 'L39#1'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-201
+  type: transformation
+  tier: primary
+  front_en: to do, to make
+  back_es: hacer
+  hint: 'irregular · *hace* = he/she does'
+  rule_ref: 'L39#9'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-202
+  type: transformation
+  tier: primary
+  front_en: he/she does, makes
+  back_es: hace
+  hint: 'from *hacer*, not *haber*'
+  rule_ref: 'L39#9'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-203
+  type: transformation
+  tier: primary
+  front_en: to buy
+  back_es: comprar
+  rule_ref: 'L39#16'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-204
+  type: transformation
+  tier: primary
+  front_en: he/she buys
+  back_es: compra
+  rule_ref: 'L39#16'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-205
+  type: transformation
+  tier: primary
+  front_en: they/you-guys buy
+  back_es: compran
+  rule_ref: 'L39#16'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-206
+  type: transformation
+  tier: extended
+  front_en: you (formal)
+  back_es: usted
+  hint: shares he/she verb forms
+  rule_ref: 'L39#2'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-210
+  type: sentence
+  tier: primary
+  front_en: With you (informal).
+  back_es: Contigo.
+  hint: irregular fusion con+ti
+  rule_ref: 'L39#5, L39#1'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-211
+  type: sentence
+  tier: primary
+  front_en: With me.
+  back_es: Conmigo.
+  hint: irregular fusion con+mí
+  rule_ref: 'L39#5, L39#1'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-212
+  type: sentence
+  tier: primary
+  front_en: Are you coming with me?
+  back_es: ¿Vienes conmigo?
+  hint: '*vienes* = you come (irregular split)'
+  rule_ref: 'L39#5, L39#1'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+  notes: 'Uses *vienes* — common idiom; *venir* not in rule list but recognizable.'
+- id: L39-213
+  type: sentence
+  tier: primary
+  front_en: It is with him.
+  back_es: Está con él.
+  hint: 'location → *está* · *con él* not *con lo*'
+  rule_ref: 'L39#8, L39#2'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-214
+  type: sentence
+  tier: primary
+  front_en: 'She''s staying with us.'
+  back_es: Se queda con nosotros.
+  hint: '*se queda* = he/she stays · con + nosotros'
+  rule_ref: 'L39#1, L39#2'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+  notes: 'Composite: reflexive quedarse + prep + after-prep pronoun.'
+- id: L39-215
+  type: sentence
+  tier: extended
+  front_en: 'They''re staying with me.'
+  back_es: Se quedan conmigo.
+  hint: '*se quedan* + conmigo'
+  rule_ref: 'L39#1, L39#5'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-216
+  type: sentence
+  tier: extended
+  front_en: I want to stay with you.
+  back_es: Quiero quedarme contigo.
+  hint: self-word on -r + contigo
+  rule_ref: 'L39#1, L39#5'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-220
+  type: sentence
+  tier: primary
+  front_en: 'It''s from me.'
+  back_es: Es de mí.
+  hint: 'characteristic → *es* · *me → mí*'
+  rule_ref: 'L39#6, L39#5, L39#8'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-221
+  type: sentence
+  tier: primary
+  front_en: From you (informal).
+  back_es: De ti.
+  hint: 'no accent on *ti*'
+  rule_ref: 'L39#5, L39#6'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-222
+  type: sentence
+  tier: primary
+  front_en: For us.
+  back_es: Para nosotros.
+  rule_ref: 'L39#2, L39#4'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-223
+  type: sentence
+  tier: extended
+  front_en: With her.
+  back_es: Con ella.
+  hint: 'lit. *with she*'
+  rule_ref: 'L39#2, L39#1'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-224
+  type: sentence
+  tier: extended
+  front_en: Is it for you (informal)?
+  back_es: ¿Es para ti?
+  rule_ref: 'L39#7, L39#5, L39#4'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-230
+  type: sentence
+  tier: primary
+  front_en: 'He''s doing him a favor.'
+  back_es: Le hace un favor.
+  hint: 'him is indirect → *le*'
+  rule_ref: 'L39#10, L39#11'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-231
+  type: sentence
+  tier: primary
+  front_en: 'She''s doing us a favor.'
+  back_es: Nos hace un favor.
+  rule_ref: 'L39#10'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-232
+  type: sentence
+  tier: extended
+  front_en: 'They''re doing me a favor.'
+  back_es: Me hacen un favor.
+  hint: '*hacen* = they do'
+  rule_ref: 'L39#10'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-233
+  type: sentence
+  tier: primary
+  front_en: I want to tell you.
+  back_es: Quiero decirte.
+  hint: '*-te* attached to infinitive'
+  rule_ref: 'L39#13, L39#12'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-234
+  type: sentence
+  tier: primary
+  front_en: I want to tell you (variant).
+  back_es: Te quiero decir.
+  hint: 'or place *te* before *quiero*'
+  rule_ref: 'L39#13'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-235
+  type: sentence
+  tier: extended
+  front_en: 'I don''t want to tell him.'
+  back_es: No quiero decirle.
+  rule_ref: 'L39#13, L39#11'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-236
+  type: sentence
+  tier: extended
+  front_en: 'He doesn''t want to say it.'
+  back_es: No quiere decirlo.
+  hint: '*lo* attached — *it* is a thing'
+  rule_ref: 'L39#13, L39#14'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-240
+  type: sentence
+  tier: primary
+  front_en: I buy them (things).
+  back_es: Los compro.
+  hint: '*los* = the things (direct)'
+  rule_ref: 'L39#16'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-241
+  type: sentence
+  tier: primary
+  front_en: I buy for him.
+  back_es: Le compro.
+  hint: 'for him → indirect *le*'
+  rule_ref: 'L39#16, L39#15'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-242
+  type: sentence
+  tier: primary
+  front_en: He buys it for me.
+  back_es: Me lo compra.
+  hint: 'indirect *me* + direct *lo*'
+  rule_ref: 'L39#17'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-243
+  type: sentence
+  tier: extended
+  front_en: They buy it from me.
+  back_es: Me lo compran.
+  hint: '*me* can mean *from me* too'
+  rule_ref: 'L39#17, L39#18'
+  lessons:
+  - 39
+  directions:
+  - en_es
+  - es_en
+- id: L39-244
+  type: sentence
+  tier: extended
+  front_en: We buy for them.
+  back_es: Les compramos.
+  hint: '*-amos* = we form'
+  rule_ref: 'L39#16, L39#15'
   lessons:
   - 39
   directions:
