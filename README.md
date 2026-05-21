@@ -13,7 +13,7 @@ A personal study repository for Mihalis Eleftheriou's free [Language Transfer �
 ├── cards/                  # one yml per bundle, <letter>_<theme>.yml
 │                           # (a_foundation.yml … z_closeout.yml + nn_line_past_full.yml for Ñ)
 ├── audio/
-│   └── flashcards/         # per-bundle drill MP3s, e.g. "C1 Helpers Saber.mp3"
+│   └── flashcards/         # per-bundle drill MP3s, bundle_<letter>_pt<NN>.mp3
 ├── build/                  # generators (Anki, flashcards, podcast feed) + lib + tests
 ├── docs/                   # design + content guidelines
 │   ├── lesson-bundles.md
@@ -31,7 +31,7 @@ A personal study repository for Mihalis Eleftheriou's free [Language Transfer �
 Two outputs feeding the same source-of-truth YAML cards:
 
 1. **An Anki deck** (`dist/transferencia.apkg`) for desk review. One subdeck per bundle (e.g. `Transferencia::Bundle B Verb Unlock`), tagged so you can drill `lesson::03`, `bundle::b_verb_unlock`, or the whole thing.
-2. **Per-bundle flashcard MP3s** (`audio/flashcards/<LETTER><PART> <Theme>.mp3` — e.g. `C1 Helpers Saber.mp3`) for hands-free listening — car, walk, dishwashing. Each bundle's cards are shuffled and split into ≤30-min parts. Three exercise shapes interleaved:
+2. **Per-bundle flashcard MP3s** (`audio/flashcards/bundle_<letter>_pt<NN>.mp3`) for hands-free listening — car, walk, dishwashing. Each bundle's cards are shuffled and split into ≤30-min parts. ID3 titles (and the podcast feed) carry the readable form: `C1 Helpers Saber`, `D2 Present Go Family`, etc. Three exercise shapes interleaved:
    - **EN → ES** sentence/transformation: English prompt → Spanish answer.
    - **ES → EN** sentence/transformation: Spanish prompt (spoken twice for sentences) → English answer.
    - **Conjugation**: spliced `"Conjugate the I form for"` (EN) + `"dormir."` (ES) → after pause, `"duermo."` → after second pause, `"duermo means I sleep."` (mini second flashcard for meaning).
@@ -51,9 +51,9 @@ build/scripts/fetch_piper_voices.sh
 make all
 
 # Outputs:
-#   dist/transferencia.apkg                  → import into Anki or Mochi
-#   audio/flashcards/<LETTER><PART> <Theme>.mp3   → per-bundle drill audio
-#   podcast.xml                              → RSS feed for podcast clients
+#   dist/transferencia.apkg                          → import into Anki or Mochi
+#   audio/flashcards/bundle_<letter>_pt<NN>.mp3      → per-bundle drill audio
+#   podcast.xml                                      → RSS feed for podcast clients
 ```
 
 The Makefile defaults `PYTHON` to `.venv/bin/python`. Override with `make PYTHON=python3 install` if you prefer system Python.

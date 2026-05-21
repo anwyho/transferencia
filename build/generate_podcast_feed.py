@@ -26,8 +26,8 @@ DEFAULT_BASE = "https://raw.githubusercontent.com/anwyho/transferencia/main"
 ITUNES_NS = "http://www.itunes.com/dtds/podcast-1.0.dtd"
 ATOM_NS = "http://www.w3.org/2005/Atom"
 
-# Matches "C1 Helpers Saber.mp3" or "NN1 Line Past Full.mp3"
-FNAME_RE = re.compile(r"^(?P<letter>[A-Z]+)(?P<part>\d+) (?P<theme>.+)\.mp3$")
+# Matches "bundle_c_pt01.mp3" / "bundle_nn_pt02.mp3"
+FNAME_RE = re.compile(r"^bundle_(?P<letter>[a-z]+)_pt(?P<part>\d+)\.mp3$")
 
 # Row pattern in docs/lesson-bundles.md:
 #   | 3 | **C. Helpers + saber + first I-form** | 8–10 | `cards/c_helpers_saber.yml` | ...summary... |
@@ -89,12 +89,27 @@ def _fmt_duration(seconds: float) -> str:
     return f"{h:d}:{m:02d}:{s:02d}" if h else f"{m:d}:{s:02d}"
 
 
-def _iter_episodes(audio_dir: Path):
-    for path in sorted((audio_dir / "flashcards").glob("*.mp3")):
+def _load_theme_map(repo_root: Path) -> dict[str, str]:
+    """{'c': 'Helpers Saber', 'nn': 'Line Past Full', ...} from cards/*.yml stems."""
+    out: dict[str, str] = {}
+    for p in sorted((repo_root / "cards").glob("*.yml")):
+        stem = p.stem
+        if "_" not in stem:
+            continue
+        letter, theme = stem.split("_", 1)
+        out[letter] = theme.replace("_", " ").title()
+    return out
+
+
+def _iter_episodes(audio_dir: Path, themes: dict[str, str]):
+    for path in sorted((audio_dir / "flashcards").glob("bundle_*_pt*.mp3")):
         m = FNAME_RE.match(path.name)
         if not m:
             continue
-        yield path, m.group("letter"), int(m.group("part")), m.group("theme")
+        letter = m.group("letter")
+        part = int(m.group("part"))
+        theme = themes.get(letter, letter.upper())
+        yield path, letter.upper(), part, theme
 
 
 def _episode_description(letter: str, part: int, total_parts: int, theme: str,
@@ -128,7 +143,8 @@ def _episode_description(letter: str, part: int, total_parts: int, theme: str,
 
 def build_feed(audio_dir: Path, base_url: str, feed_url: str) -> str:
     items: list[str] = []
-    episodes = list(_iter_episodes(audio_dir))
+    themes = _load_theme_map(REPO_ROOT)
+    episodes = list(_iter_episodes(audio_dir, themes))
     bundles = _load_bundle_descriptions(REPO_ROOT)
     parts_per_letter: dict[str, int] = {}
     for _, letter, _, _ in episodes:

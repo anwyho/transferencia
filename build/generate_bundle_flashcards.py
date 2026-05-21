@@ -339,7 +339,7 @@ def _render_bundle(*, cards: list[Card], tts, marker: AudioSegment,
     album = f"Transferencia — {prefix} {theme}"
     out_dir = audio_dir / "flashcards"
     for idx, part in enumerate(parts, start=1):
-        dst = out_dir / f"{prefix}{idx} {theme}.mp3"
+        dst = out_dir / f"bundle_{letter}_pt{idx:02d}.mp3"
         _export_part(part, dst)
         title = f"{prefix}{idx} {theme}"
         _tag_mp3(dst, title=title, album=album, track=idx, total=total)
