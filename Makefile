@@ -15,10 +15,10 @@ coverage:
 	$(PYTHON) build/scripts/coverage_audit.py
 
 anki: validate
-	$(PYTHON) build/generate_anki.py --out dist/transferencia.apkg
+	$(PYTHON) build/generate_anki.py --out-dir dist
 
 anki-with-audio: validate
-	$(PYTHON) build/generate_anki.py --out dist/transferencia.apkg --with-audio --audio-bitrate 48k
+	$(PYTHON) build/generate_anki.py --out-dir dist --with-audio --audio-bitrate 48k
 
 flashcards: validate
 	$(PYTHON) build/generate_bundle_flashcards.py

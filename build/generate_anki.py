@@ -21,9 +21,11 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 
 
 def main(argv: list[str] | None = None) -> int:
-    parser = argparse.ArgumentParser(description="Generate the Transferencia Anki deck.")
+    parser = argparse.ArgumentParser(description="Generate Transferencia Anki decks (one apkg per bundle).")
     parser.add_argument("--repo", default=str(REPO_ROOT), help="Repo root (default: auto-detect)")
-    parser.add_argument("--out", default="dist/transferencia.apkg", help="Output .apkg path")
+    parser.add_argument("--out-dir", default="dist", help="Output directory for per-bundle apkg files")
+    parser.add_argument("--bundle", action="append", default=None,
+                        help="Bundle slug (e.g. a_foundation) or letter (e.g. a). Repeatable. Default: all.")
     parser.add_argument("--export-json", default=None, help="Also dump cards.json")
     parser.add_argument("--validate-only", action="store_true", help="Validate only, no output")
     parser.add_argument("--with-audio", action="store_true",
@@ -62,6 +64,33 @@ def main(argv: list[str] | None = None) -> int:
     if args.validate_only:
         return 0
 
+    from build.lib.anki import bundle_slug_for_card, build_package
+
+    # Group cards by bundle slug. Non-bundle cards (legacy lesson/topical paths)
+    # lump into 'extras' to avoid silently dropping them.
+    groups: dict[str, list] = {}
+    for card in cards:
+        slug = bundle_slug_for_card(card) or "extras"
+        groups.setdefault(slug, []).append(card)
+
+    # Optional --bundle filter. Accepts full slug ('a_foundation') or just the
+    # letter ('a' → matches 'a_foundation', 'nn' → 'nn_line_past_full').
+    if args.bundle:
+        wanted = set()
+        for b in args.bundle:
+            b = b.lower()
+            if b in groups:
+                wanted.add(b)
+                continue
+            matches = [s for s in groups if s.split("_", 1)[0] == b]
+            if not matches:
+                print(f"warning: --bundle {b!r} matches no group", file=sys.stderr)
+            wanted.update(matches)
+        groups = {k: v for k, v in groups.items() if k in wanted}
+        if not groups:
+            print("No bundles selected; nothing to build.", file=sys.stderr)
+            return 1
+
     audio_for: dict[str, str] = {}
     media_paths: list[Path] = []
     if args.with_audio:
@@ -73,7 +102,8 @@ def main(argv: list[str] | None = None) -> int:
         media_dir.mkdir(parents=True, exist_ok=True)
         cache_dir = repo / "audio" / ".cache"
         tts = make_tts(args.audio_backend, cache_dir=cache_dir)
-        en_es_cards = [c for c in cards if Direction.EN_ES in c.directions]
+        in_scope = [c for group in groups.values() for c in group]
+        en_es_cards = [c for c in in_scope if Direction.EN_ES in c.directions]
         print(f"Generating audio for {len(en_es_cards)} en_es cards "
               f"({args.audio_bitrate} mp3 via {tts.backend_id.split(':',1)[0]})...")
         for i, card in enumerate(en_es_cards, start=1):
@@ -87,11 +117,17 @@ def main(argv: list[str] | None = None) -> int:
                 print(f"  {i}/{len(en_es_cards)}")
         print(f"Audio: {len(media_paths)} fragments in {media_dir}")
 
-    from build.lib.anki import build_package
-    out = Path(args.out)
-    build_package(cards, out, audio_for=audio_for or None,
-                  media_paths=media_paths or None)
-    print(f"Wrote {out} ({out.stat().st_size // 1024} KB)")
+    out_dir = Path(args.out_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    for slug in sorted(groups):
+        group = groups[slug]
+        ids = {c.id for c in group}
+        b_audio_for = {k: v for k, v in audio_for.items() if k in ids} or None
+        b_media = ([p for p in media_paths if p.name in set((b_audio_for or {}).values())]
+                   if b_audio_for else None)
+        out = out_dir / f"bundle_{slug}.apkg"
+        build_package(group, out, audio_for=b_audio_for, media_paths=b_media)
+        print(f"Wrote {out} ({len(group)} cards, {out.stat().st_size // 1024} KB)")
     return 0
 
 

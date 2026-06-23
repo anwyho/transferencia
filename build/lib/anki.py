@@ -24,7 +24,7 @@ _CSS = """
   padding: 32px 24px;
 }
 .spanish { font-family: 'Charter', 'Georgia', serif; font-size: 32px; color: #1c4ea0; }
-.hint { font-size: 16px; opacity: 0.55; margin-top: 18px; }
+.spanish .hint { font-size: 18px; font-weight: normal; opacity: 0.55; margin-left: 6px; color: #444; }
 .rule-ref { font-size: 13px; color: #888; margin-top: 24px; }
 .tier-extended::before { content: "extended"; position: absolute; top: 8px; right: 12px;
                         font-size: 11px; color: #b0b0b0; letter-spacing: 0.05em; }
@@ -40,25 +40,37 @@ def _tmpl(name: str, dir_field: str, qfmt: str, afmt: str) -> dict:
     }
 
 
+# Hint is rendered *inside* the .spanish div (not as a separate block) so
+# Mochi cannot tease it back out during reverse review. Mochi splits the
+# card into front/back at the <hr>; everything after <hr> is one side, and
+# "Review in reverse" swaps the two sides wholesale — there is no way to
+# exclude a sub-element. By fusing hint into the Spanish answer, the worst
+# case (reverse direction) is that the hint shows up next to the Spanish
+# prompt as a derivation pointer, which is an acceptable scaffold for
+# ES→EN recall instead of a leak.
 _QFMT_EN_ES = (
     '<div class="english">{{FrontEn}}</div>'
 )
 _AFMT_EN_ES = (
     '<div class="english">{{FrontEn}}</div>'
     '<hr>'
-    '<div class="spanish">{{BackEs}}</div>'
+    '<div class="spanish">{{BackEs}}'
+    '{{#Hint}}<span class="hint">({{Hint}})</span>{{/Hint}}'
+    '</div>'
     '{{#AudioEs}}{{AudioEs}}{{/AudioEs}}'
-    '{{#Hint}}<div class="hint">({{Hint}})</div>{{/Hint}}'
     '<div class="rule-ref">{{RuleRef}}</div>'
 )
 _QFMT_ES_EN = (
-    '<div class="spanish">{{BackEs}}</div>'
+    '<div class="spanish">{{BackEs}}'
+    '{{#Hint}}<span class="hint">({{Hint}})</span>{{/Hint}}'
+    '</div>'
 )
 _AFMT_ES_EN = (
-    '<div class="spanish">{{BackEs}}</div>'
+    '<div class="spanish">{{BackEs}}'
+    '{{#Hint}}<span class="hint">({{Hint}})</span>{{/Hint}}'
+    '</div>'
     '<hr>'
     '<div class="english">{{FrontEn}}</div>'
-    '{{#Hint}}<div class="hint">({{Hint}})</div>{{/Hint}}'
     '<div class="rule-ref">{{RuleRef}}</div>'
 )
 
@@ -170,6 +182,20 @@ _TOPIC_FILE_RE = _re.compile(r"^topic_(\d+)_(\d+)_(.+)\.yml$")
 # `nn_…` is the ASCII alias for the Ñ bundle (sorts between n_ and o_).
 _BUNDLE_FILE_RE = _re.compile(r"^(nn|[a-zñ])_(.+)\.yml$")
 _BUNDLE_LETTER_ALIAS = {"nn": "Ñ"}
+
+
+def bundle_slug_for_card(card: Card) -> str | None:
+    """Return the bundle filename stem (e.g. 'a_foundation', 'nn_line_past_full')
+    for cards/<letter>_<theme>.yml, else None for non-bundle cards (legacy
+    lesson/topical paths). Used to split the deck into one apkg per bundle.
+    """
+    src = Path(card.source_file)
+    if src.parent.name != "cards":
+        return None
+    m = _BUNDLE_FILE_RE.match(src.name)
+    if not m:
+        return None
+    return src.stem
 
 
 def deck_name_for_card(card: Card) -> str:

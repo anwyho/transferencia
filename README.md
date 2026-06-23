@@ -21,7 +21,7 @@ A personal study repository for Mihalis Eleftheriou's free [Language Transfer �
 │   ├── tts-plan.md
 │   ├── build-notes.md
 │   └── cross-references.md
-├── dist/transferencia.apkg # generated Anki deck
+├── dist/bundle_<slug>.apkg # generated Anki deck (one per bundle, 27 total)
 ├── podcast.xml             # RSS feed for podcast clients (Pocket Casts etc.)
 └── Complete+Spanish+transcript+-+2019+final.pdf
 ```
@@ -30,7 +30,7 @@ A personal study repository for Mihalis Eleftheriou's free [Language Transfer �
 
 Two outputs feeding the same source-of-truth YAML cards:
 
-1. **An Anki deck** (`dist/transferencia.apkg`) for desk review. One subdeck per bundle (e.g. `Transferencia::Bundle B Verb Unlock`), tagged so you can drill `lesson::03`, `bundle::b_verb_unlock`, or the whole thing.
+1. **One Anki/Mochi deck per bundle** (`dist/bundle_<slug>.apkg`, 27 files) for desk review. Each apkg contains a single bundle's cards under `Transferencia::Bundle B Verb Unlock::reversible|one_way`. Import only the bundles you're studying — tagged so you can also drill `lesson::03`, `bundle::b_verb_unlock`, or sliced subsets.
 2. **Per-bundle flashcard MP3s** (`audio/flashcards/bundle_<letter>_pt<NN>.mp3`) for hands-free listening — car, walk, dishwashing. Each bundle's cards are shuffled and split into ≤30-min parts. ID3 titles (and the podcast feed) carry the readable form: `C1 Helpers Saber`, `D2 Present Go Family`, etc. Three exercise shapes interleaved:
    - **EN → ES** sentence/transformation: English prompt → Spanish answer.
    - **ES → EN** sentence/transformation: Spanish prompt (spoken twice for sentences) → English answer.
@@ -51,7 +51,7 @@ build/scripts/fetch_piper_voices.sh
 make all
 
 # Outputs:
-#   dist/transferencia.apkg                          → import into Anki or Mochi
+#   dist/bundle_<slug>.apkg                          → import into Anki or Mochi
 #   audio/flashcards/bundle_<letter>_pt<NN>.mp3      → per-bundle drill audio
 #   podcast.xml                                      → RSS feed for podcast clients
 ```
@@ -61,7 +61,7 @@ The Makefile defaults `PYTHON` to `.venv/bin/python`. Override with `make PYTHON
 Useful targets:
 
 - `make validate` — parse all card YAML
-- `make anki` — build `dist/transferencia.apkg`
+- `make anki` — build `dist/bundle_<slug>.apkg`
 - `make flashcards` — render all bundle drill MP3s (Piper TTS, on-disk cache)
 - `make podcast` — emit `podcast.xml` pointing at the rendered MP3s
 - `make clean` — trash dist + audio outputs (preserves Piper cache)
@@ -99,7 +99,7 @@ https://raw.githubusercontent.com/anwyho/transferencia/main/podcast.xml
 
 **Files-on-iPhone fallback** (works regardless of repo visibility): drag `audio/flashcards/` into iCloud Drive. Open from Files app on iPhone; CarPlay / Bluetooth play directly. Pocket Casts can also import a local folder.
 
-`dist/transferencia.apkg` → Anki desktop → sync to AnkiWeb → AnkiMobile pulls it.
+`dist/bundle_<slug>.apkg` → Anki desktop → sync to AnkiWeb → AnkiMobile pulls it.
 
 ## Source
 

@@ -42,7 +42,7 @@ cards:
 | `tier` | enum | yes | `primary` or `extended`. |
 | `front_en` | string | yes | English prompt. |
 | `back_es` | string | yes | Spanish answer. Use accents correctly. |
-| `hint` | string | no | Derivation, mnemonic, or rule pointer. Rendered on the **back** of the card alongside the answer — the front shows only the prompt, so hints can be as explicit as needed without leaking the answer. |
+| `hint` | string | no | Derivation, mnemonic, or rule pointer. Rendered **inline inside the Spanish answer div** (e.g. `intencional (-tion → -ción)`). Hidden on the EN→ES prompt; visible in the ES→EN prompt as a derivation scaffold (Mochi's "Review in reverse" swaps the whole back-of-card to the front, so an inseparable hint is the cleanest available behavior). |
 | `rule_ref` | string | yes | Comma-separated `L<N>#<rule>` references into `rules.md`. Powers Anki footers and audio attribution. |
 | `lessons` | int[] | yes | Lessons whose grammar this card uses. Generator validates: `max(lessons)` must fall inside the bundle's `lessons:` range. Earlier entries can reference prior bundles. |
 | `directions` | enum[] | yes | Subset of `[en_es, es_en]`. Each direction generates one Anki card from the note and one slot in the audio track. |
@@ -77,12 +77,11 @@ Back rendering after flip:
 ```
 different
 ─────────
-diferente
-( -ent → -ente )            ← faded hint, smaller
+diferente (-ent → -ente)    ← hint inline next to Spanish, smaller + faded
                             → L3
 ```
 
-Hints live on the **back** so the recall test on the front is honest. They can spell out derivations, etymologies, or contrasts (`-ent → -ente`, `Arabic 'al-ruz'`, `disambiguate from si='if'`) without leaking the answer to the prompt side. Once the pattern is internalized, extended cards can omit hints.
+Hints live **inline within the Spanish answer** so the recall test on the EN→ES front is honest (front shows only English, no hint). They can spell out derivations, etymologies, or contrasts (`-ent → -ente`, `Arabic 'al-ruz'`, `disambiguate from si='if'`) without leaking the answer to the prompt side. In Mochi's reverse review (ES→EN) the hint travels with the Spanish prompt — that's intentional: Mochi swaps the entire back to the front and can't exclude sub-elements, so a hint fused to the Spanish word becomes a derivation scaffold for reverse recall instead of a leak. Once the pattern is internalized, extended cards can omit hints.
 
 ### `sentence`
 
