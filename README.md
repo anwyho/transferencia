@@ -21,6 +21,8 @@ A personal study repository for Mihalis Eleftheriou's free [Language Transfer �
 │   ├── tts-plan.md
 │   ├── build-notes.md
 │   └── cross-references.md
+├── app/                    # interactive practice app (Phase 0) — pnpm + SvelteKit
+│                           # workspace + isomorphic domain pkg (see app/README.md)
 ├── dist/bundle_<slug>.apkg # generated Anki deck (one per bundle, 27 total)
 ├── podcast.xml             # RSS feed for podcast clients (Pocket Casts etc.)
 └── Complete+Spanish+transcript+-+2019+final.pdf
@@ -71,6 +73,24 @@ Useful targets:
 ```bash
 .venv/bin/python build/generate_bundle_flashcards.py --bundle e
 ```
+
+## Practice app (Phase 0)
+
+Beyond the static flashcards/podcast, an interactive practice app is being built
+in [`app/`](app/) — a pnpm + SvelteKit workspace with an isomorphic `domain`
+package (rule-grain SRS, exercise types, grader, session planner). It's fully
+separate from the pipeline above and shares none of the Python toolchain.
+
+```bash
+cd app
+pnpm install
+pnpm test        # unit (Vitest)
+pnpm test:e2e    # Playwright, against the real built screen
+```
+
+Design and standards: [`app/README.md`](app/README.md),
+[`docs/superpowers/specs/2026-07-09-language-transfer-design-v2.md`](docs/superpowers/specs/2026-07-09-language-transfer-design-v2.md),
+[`AGENTS.md`](AGENTS.md). Tracked as GitHub issues under milestone *Phase 0: Foundation*.
 
 ## Pedagogy
 

@@ -1,0 +1,10 @@
+# app-local artifacts (scoped to app/; the root pipeline has its own .gitignore)
+node_modules/
+.svelte-kit/
+build/
+dist/
+test-results/
+playwright-report/
+playwright/.cache/
+*.log
+.DS_Store

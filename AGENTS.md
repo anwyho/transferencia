@@ -28,7 +28,7 @@ For any change:
 - `docs/webapp-spec-prompt.md` — the app's vision, hard constraints, and phase roadmap. Read it before making architectural decisions.
 - `lessons/lesson_NN/{rules.md,transcript.md}` — grounding source for content generation and rule-tagging. The app's content is fresh and generated; it does not reuse `cards/*.yml`.
 - `cards/`, `build/`, `dist/`, `audio/`, `podcast.xml` — the existing Anki/podcast pipeline. Prior art to read (especially the Piper TTS scripts, reused in Phase 2), but do not modify for app work.
-- The app itself lives in its own new subdirectory (name decided as part of the architecture proposal) — keep it separate from the existing pipeline's files.
+- `app/` — the practice app: a pnpm + SvelteKit workspace, fully separate from the pipeline above. `app/packages/domain` (`@lt/domain`) is the **isomorphic** core — no `node:*`, persistence, or Svelte(Kit) imports (eslint-enforced, report M9); `app/packages/web` (`@lt/web`) is the SvelteKit layer. See `app/README.md`. Run app checks from `app/` (`pnpm test`, `pnpm test:e2e`, `pnpm lint`, `pnpm check`). Do not couple app work to `build/`/`cards/`/`dist/`/`audio/`/`podcast.xml`.
 
 ## Learning philosophy (why the app is shaped the way it is)
 

@@ -1,0 +1,54 @@
+name: app CI
+
+# Scoped to the practice app only — the Anki/podcast pipeline (build/, cards/, …)
+# is a separate Python toolchain and is not exercised here.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'app/**'
+      - '.github/workflows/app-ci.yml'
+  pull_request:
+    paths:
+      - 'app/**'
+      - '.github/workflows/app-ci.yml'
+
+defaults:
+  run:
+    working-directory: app
+
+jobs:
+  build-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+          cache-dependency-path: app/pnpm-lock.yaml
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: Lint (incl. domain isomorphic-boundary rule, report M9)
+        run: pnpm lint
+
+      - name: Typecheck
+        run: pnpm check
+
+      - name: Build (proves domain compiles standalone)
+        run: pnpm -r run build
+
+      - name: Unit tests
+        run: pnpm test
+
+      - name: Install Playwright browser
+        run: pnpm --filter @lt/web exec playwright install --with-deps chromium
+
+      - name: Playwright e2e
+        run: pnpm test:e2e

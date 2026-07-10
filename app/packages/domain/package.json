@@ -1,0 +1,24 @@
+{
+  "name": "@lt/domain",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Isomorphic domain logic for the Language Transfer practice app. No server-only imports (report M9): runs unchanged in the browser (offline PWA, P3) and on the server.",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "check": "tsc --noEmit",
+    "build": "tsc -p tsconfig.build.json",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.4.1",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.60.1",
+    "vitest": "^4.1.8"
+  }
+}
