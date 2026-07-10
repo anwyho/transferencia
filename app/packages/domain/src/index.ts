@@ -15,3 +15,6 @@ export const DOMAIN_READY = true as const;
 export function ping(): 'domain' {
   return 'domain';
 }
+
+// Phase-0 exercise composability layer (Epic A): contracts + the transformation type.
+export * from './exercise/index';
