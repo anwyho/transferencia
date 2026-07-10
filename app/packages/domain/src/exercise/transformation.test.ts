@@ -1,8 +1,8 @@
 import { describe, expect, it } from 'vitest';
 import { transformationType } from './transformation';
-import type { Item, ItemStore, RenderContext, Response } from './types';
+import type { Item, ItemLookup, RenderContext, Response } from './types';
 
-const emptyStore: ItemStore = { get: () => undefined };
+const emptyStore: ItemLookup = { get: () => undefined };
 const ctx: RenderContext = { items: emptyStore, currentLesson: 1, rng: () => 0.5 };
 
 const nation: Item = {

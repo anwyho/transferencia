@@ -5,7 +5,7 @@ import {
 	type GradeContext,
 	type Grade,
 	type Item,
-	type ItemStore,
+	type ItemLookup,
 	type Prompt,
 	type RenderContext,
 	type SrsRating
@@ -29,7 +29,7 @@ const HARDCODED_ITEM: Item = {
 	rule_refs: [{ key: 'L1#suffix-cion', role: 'tests' }]
 };
 
-const store: ItemStore = {
+const store: ItemLookup = {
 	get: (id) => (id === HARDCODED_ITEM.id ? HARDCODED_ITEM : undefined)
 };
 const renderCtx: RenderContext = { items: store, currentLesson: 1, rng: () => 0.5 };

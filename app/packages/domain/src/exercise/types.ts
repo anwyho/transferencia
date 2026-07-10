@@ -25,6 +25,9 @@ export interface RuleRef {
 /** Content kinds. Slice A registers only `transformation`. */
 export type ItemKind = 'transformation';
 
+/** Content tier: drawn straight from the lesson (primary) vs applied real-world examples (extended). */
+export type Tier = 'primary' | 'extended';
+
 /**
  * A content item — a variance instrument for the rules it tests. Slice A uses a
  * hardcoded instance; the YAML schema, full field set, and validating store are
@@ -43,15 +46,21 @@ export interface Item {
   /** Directions this item can be quizzed in. */
   directions: Direction[];
   rule_refs: RuleRef[];
+  /** primary | extended (slice B content). Optional on the type; required of authored content by the loader. */
+  tier?: Tier;
+  /** Sibling lessons for the "read why this answer" surface (from the dependency thread). */
+  related_lessons?: number[];
+  /** Derived at load over answer-defining fields (never authored). Populated by `buildContentStore`. */
+  content_hash?: string;
 }
 
-/** Minimal item lookup port. Slice B (#10) adds lesson/kind/rule indexes. */
-export interface ItemStore {
+/** Minimal item lookup. The full indexed content store (`content/store.ts`) extends this. */
+export interface ItemLookup {
   get(id: string): Item | undefined;
 }
 
 export interface RenderContext {
-  items: ItemStore;
+  items: ItemLookup;
   currentLesson: number;
   rng: () => number;
 }

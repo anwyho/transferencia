@@ -1,11 +1,11 @@
 import { describe, expect, it } from 'vitest';
 import { transformationType } from './transformation';
 import { ratingFromAssessment } from './rating-policy';
-import type { GradeContext, Grade, Item, ItemStore } from './types';
+import type { GradeContext, Grade, Item, ItemLookup } from './types';
 
 // A.2 — the LOCKED accent-aware grading policy (ledger 2026-07-09; report M1),
 // exercised through the real grader the app calls.
-const store: ItemStore = { get: () => undefined };
+const store: ItemLookup = { get: () => undefined };
 const gctx: GradeContext = { items: store };
 
 const nacion: Item = {

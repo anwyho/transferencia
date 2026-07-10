@@ -18,3 +18,6 @@ export function ping(): 'domain' {
 
 // Phase-0 exercise composability layer (Epic A): contracts + the transformation type.
 export * from './exercise/index';
+
+// Phase-0 content plane (Epic B): Rule/Item schemas, store + boot validation, lesson gate.
+export * from './content/index';
