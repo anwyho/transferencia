@@ -16,7 +16,9 @@ export default defineConfig({
 	ssr: {
 		// Consume the isomorphic domain package as TS source (its exports resolve to
 		// src/index.ts) rather than a prebuilt dist — let Vite transpile it.
-		noExternal: ['@lt/domain']
+		noExternal: ['@lt/domain'],
+		// better-sqlite3 is a native CJS addon — never bundle it (SSR build, preview, vitest).
+		external: ['better-sqlite3']
 	},
 	test: {
 		expect: { requireAssertions: true },
