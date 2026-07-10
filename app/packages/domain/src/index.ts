@@ -21,3 +21,7 @@ export * from './exercise/index';
 
 // Phase-0 content plane (Epic B): Rule/Item schemas, store + boot validation, lesson gate.
 export * from './content/index';
+
+// Slice C.1 persistence ports (pure contracts + trivial scheduler; the Drizzle impl
+// lives in @lt/web server — the domain stays isomorphic, report M9).
+export * from './ports/index';
