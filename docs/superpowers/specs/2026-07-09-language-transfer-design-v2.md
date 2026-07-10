@@ -66,13 +66,50 @@ Selection primitive = per-rule **priority** = `f(retention_decay, mastery_gap, c
 **End-of-session:** re-drill everything missed this session before closing (open q: re-tick retention vs reinforcement-only). **Edge cases designed in:** rule with 1 instrument (cooldown allows re-show → degenerates to a flashcard, correctly); rule with 0 eligible instruments at the dial (skip; **content invariant:** every schedulable rule needs ≥1 instrument eligible at its `homeLesson`); dial dropped mid-session (plan is a snapshot; now-gated instruments skipped at render; state untouched → reversible); caught up (offer weak/maintenance or a short "done" session).
 
 ## State plane (all a fold of `ReviewLog`)
-- `User { id, current_lesson (floor 1) }`
-- `RuleState (user_id, rule_key[, direction])` — **the SRS unit**: opaque retention blob + derived `due` + `mastery` + `coverage` + `first_exposed_at`
-- `ItemExposure (user_id, item_id)` — **light**: `times_seen, last_seen_at, last_rating, known, starred` (star the example)
-- `ReviewLog` (append-only, **ground truth**) — `user_id, at, rule_keys, item_id, exercise_type_key, direction, rating (final), assessment, hint_revealed, latency_ms, content_hash, session_id`
-- `Session (id, user_id, started_at, ended_at, mode, target_attempts, realized_count)`
 
-Composite keys stored **as columns**, not fat strings ⇒ native analytics (by type; by lesson via item→rule→homeLesson; "seen N of type A since date"). **Star lives on the item** → boosts its rule's priority, resurfaced through varied types.
+**Ground-truth schema FROZEN 2026-07-10 (issue #2 — resolves review B1 `param_key`, B2 annotations-as-events, M7 direction key).** `ReviewLog` is the one artifact that cannot be cheaply changed after rows exist; every other per-user table is a deterministic **fold** of it. Freezing it correctly is the precondition for slice C (implemented in #14/#15; the decision is locked here).
+
+- `User { id, current_lesson (floor 1) }` — a cache of `fold(log).currentLesson`.
+- `RuleState (user_id, rule_key, direction)` — **the SRS unit**: opaque versioned retention blob + derived `due` + `mastery` + `coverage` + `first_exposed_at`. **`direction` is always a column**, sentinel `'both'` when the rule is not scheduled by direction (M7 — the `schedule_by_direction` escape hatch flips the *value*, never the key arity).
+- `ItemExposure (user_id, item_id)` — **light**: `times_seen, last_seen_at, last_rating, known, starred`. Per-item, not per-instrument (so no `param_key` here).
+- `Session (id, user_id, started_at, ended_at, mode, target_attempts, realized_count)`.
+- `ReviewLog` (append-only, **ground truth**) — a single **kind-discriminated event stream**:
+
+  | column | on kinds | notes |
+  |---|---|---|
+  | `id` | all | surrogate autoincrement; total fold order is **`(at, id)`** — `at` alone ties on same-ms events |
+  | `user_id` | all | multi-user seam (queries filter by user even at n=1) |
+  | `at` | all | epoch-int UTC ms, from the injectable `Clock` |
+  | `kind` | all | `attempt \| star \| unstar \| set_known \| set_lesson \| session_start \| session_end` |
+  | `item_id` | attempt, star, unstar, set_known | short slug (never the sentence) |
+  | `rule_keys` | attempt | JSON array of the **tested** (schedulable) rule keys this attempt credits; denormalized so edited/orphaned content stays analyzable |
+  | `exercise_type_key` | attempt | `ExerciseType.stableKey` |
+  | `param_key` | attempt | **canonical** paramKey (**B1**); the type's `ParamEnumerator` owns it; empty params encode as `''` — present, never null |
+  | `direction` | attempt | concrete direction (`en>es` / `es>en`); never the `'both'` sentinel |
+  | `rating` | attempt | final `SrsRating` from the central rating policy |
+  | `assessment` | attempt | grader `Grade { correct, score?, detail? }` (JSON) |
+  | `hint_revealed` | attempt | bool |
+  | `latency_ms` | attempt | nullable |
+  | `content_hash` | attempt | over answer-defining fields, captured at attempt time |
+  | `session_id` | attempt, session_start, session_end | FK to `Session` |
+  | `annotation_known` | set_known | bool payload |
+  | `annotation_lesson` | set_lesson | int payload (fold floors at 1) |
+  | `session_mode`, `session_target_attempts` | session_start | the planner's decision, recorded at start |
+
+  Columns not applicable to a row's `kind` are null (single-table event log). The composite **instrument identity = `(item_id, exercise_type_key, param_key, direction)`** is stored as columns, not a fat concatenated string ⇒ native analytics and a correct distinct-instrument `coverage`. `rule_keys` is the one legitimately-plural denormalization (attribution, not identity).
+
+**The fold** (pure, isomorphic, in `@lt/domain` — no I/O):
+```
+fold(events, { scheduler, keyRemap }) -> { currentLesson, ruleStates, itemExposures, sessions }
+```
+Walk events in `(at, id)` order:
+- **attempt** → for each `rule_key` in `rule_keys` (mapped through the committed `keyRemap`, M8/m7): **(1) timing** — `ruleState.blob = scheduler.apply(prevBlob, ratingForTiming, at)`, except a **same-day / intra-session re-drill does not re-tick timing** (reinforcement-only, M3 — collapse to the day's worst rating); **(2) mastery** — EWMA update + add the instrument identity `(item_id, exercise_type_key, param_key, direction)` to the rule's distinct-instrument set; `coverage = |distinct instruments|`, mastered when `coverage ≥ K` **and** EWMA ≥ threshold (M6 — a **count**, not a % of the live catalog, so new P1 types cannot silently un-master a rule). Also bump `ItemExposure(item_id)` (`times_seen`, `last_seen_at`, `last_rating`).
+- **star / unstar** → `ItemExposure(item_id).starred = true / false`.
+- **set_known** → `ItemExposure(item_id).known = annotation_known`.
+- **set_lesson** → `currentLesson = max(1, annotation_lesson)`.
+- **session_start / session_end** → open / close the `Session`; `realized_count` = attempts folded under that `session_id`.
+
+Because star / known / lesson are **events**, a full rebuild from the log restores them — **B2 closed**: "all state is a fold of the log" is now literally true, not just for scheduling/mastery. Because `param_key` is logged, distinct-instrument `coverage` is reconstructable — **B1 closed**. The log is **immutable**; a reviewed rule rename is applied as a `keyRemap` *at fold time* (never a row rewrite), so history survives (m7). Timing state is an **opaque blob** behind the `Scheduler` port ⇒ swapping FSRS→SM-2 is a **replay**, not a migration. **Star lives on the item** and boosts its rule's priority, resurfaced through varied types.
 
 ## Identity & integrity
 - `ExerciseType.stableKey` immutable/semantic; Item ids short slugs + optional surrogate int via a committed `slug→int` manifest; **canonical pinned `paramKey` encoding**; committed **id-manifest snapshot test** (CI fails if a known id disappears — silent data-loss → reviewable event). Ban delimiter collisions in raw ids.
