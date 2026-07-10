@@ -44,4 +44,18 @@
 			{/each}
 		</ol>
 	</section>
+
+	<section data-testid="scheduled-rules" aria-label="scheduled rules">
+		<p>scheduled rules: <span data-testid="scheduled-count">{data.scheduledRules.length}</span></p>
+		<ol data-testid="scheduled-list">
+			{#each data.scheduledRules as r (r.ruleKey + '|' + r.direction)}
+				<li data-testid="rule-state-row" data-rule-key={r.ruleKey} data-due-now={r.dueNow}>
+					<span data-testid="rule-key">{r.ruleKey}</span>
+					<span data-testid="rule-direction">{r.direction}</span>
+					<span data-testid="rule-due-at">{r.dueAt}</span>
+					<span data-testid="rule-due-now">{r.dueNow}</span>
+				</li>
+			{/each}
+		</ol>
+	</section>
 </main>
