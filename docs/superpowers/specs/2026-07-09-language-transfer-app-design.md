@@ -1,6 +1,6 @@
 # Language Transfer practice app — whole-system sketch + Phase 0 design
 
-**Status:** approved by Anthony, ready for GitHub issue breakdown (not implementation yet).
+**Status:** SUPERSEDED by `2026-07-09-language-transfer-design-v2.md` (rule-grain reshape). Kept for history. Read v2 + `language-transfer-requirements.md` instead.
 **Date:** 2026-07-09
 **Produced by:** brainstorming session following `docs/webapp-spec-prompt.md`.
 
