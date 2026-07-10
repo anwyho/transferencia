@@ -1,0 +1,221 @@
+# Bundle A items (lessons 2-3). Words drawn from lessons/lesson_0{2,3}/rules.md.
+# All en>es (production) for Phase 0. `min_lesson` = the tested suffix rule's home.
+
+items:
+  # --- L2#conv-al (min_lesson 2) ---
+  - id: al-normal
+    kind: transformation
+    tier: primary
+    front_en: normal
+    back_es: normal
+    hint: '-al -> -al (same word; stress the end)'
+    min_lesson: 2
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L2#conv-al', role: tests }
+    related_lessons: [2]
+
+  - id: al-legal
+    kind: transformation
+    tier: primary
+    front_en: legal
+    back_es: legal
+    hint: '-al -> -al'
+    min_lesson: 2
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L2#conv-al', role: tests }
+    related_lessons: [2]
+
+  - id: al-natural
+    kind: transformation
+    tier: primary
+    front_en: natural
+    back_es: natural
+    min_lesson: 2
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L2#conv-al', role: tests }
+    related_lessons: [2]
+
+  - id: al-total
+    kind: transformation
+    tier: primary
+    front_en: total
+    back_es: total
+    min_lesson: 2
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L2#conv-al', role: tests }
+    related_lessons: [2]
+
+  - id: al-annual
+    kind: transformation
+    tier: primary
+    front_en: annual
+    back_es: anual
+    hint: '-al; drop the hidden English -y- sound'
+    min_lesson: 2
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L2#conv-al', role: tests }
+    related_lessons: [2]
+
+  - id: al-illegal
+    kind: transformation
+    tier: primary
+    front_en: illegal
+    back_es: ilegal
+    hint: '-al; one l in Spanish'
+    min_lesson: 2
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L2#conv-al', role: tests }
+    related_lessons: [2]
+
+  # --- L3#conv-ante-ente (min_lesson 3) ---
+  - id: ante-important
+    kind: transformation
+    tier: primary
+    front_en: important
+    back_es: importante
+    hint: '-ant -> -ante'
+    min_lesson: 3
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L3#conv-ante-ente', role: tests }
+    related_lessons: [2, 3]
+
+  - id: ante-different
+    kind: transformation
+    tier: primary
+    front_en: different
+    back_es: diferente
+    hint: '-ent -> -ente; one f'
+    min_lesson: 3
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L3#conv-ante-ente', role: tests }
+    related_lessons: [2, 3]
+
+  - id: ante-constant
+    kind: transformation
+    tier: primary
+    front_en: constant
+    back_es: constante
+    hint: '-ant -> -ante'
+    min_lesson: 3
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L3#conv-ante-ente', role: tests }
+    related_lessons: [2, 3]
+
+  - id: ante-urgent
+    kind: transformation
+    tier: primary
+    front_en: urgent
+    back_es: urgente
+    hint: '-ent -> -ente'
+    min_lesson: 3
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L3#conv-ante-ente', role: tests }
+    related_lessons: [2, 3]
+
+  # --- L3#conv-mente (min_lesson 3) ---
+  - id: mente-normally
+    kind: transformation
+    tier: primary
+    front_en: normally
+    back_es: normalmente
+    hint: '-ly -> -mente'
+    min_lesson: 3
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L3#conv-mente', role: tests }
+    related_lessons: [2, 3]
+
+  - id: mente-legally
+    kind: transformation
+    tier: primary
+    front_en: legally
+    back_es: legalmente
+    hint: '-ly -> -mente (on the -al word)'
+    min_lesson: 3
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L3#conv-mente', role: tests }
+      - { key: 'L2#conv-al', role: uses }
+    related_lessons: [2, 3]
+
+  - id: mente-generally
+    kind: transformation
+    tier: primary
+    front_en: generally
+    back_es: generalmente
+    min_lesson: 3
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L3#conv-mente', role: tests }
+    related_lessons: [2, 3]
+
+  - id: mente-probably
+    kind: transformation
+    tier: primary
+    front_en: probably
+    back_es: probablemente
+    hint: '-ly -> -mente (on the -ible word)'
+    min_lesson: 3
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L3#conv-mente', role: tests }
+      - { key: 'L3#conv-ible-able', role: uses }
+    related_lessons: [2, 3]
+
+  # --- L3#conv-ible-able (min_lesson 3) ---
+  - id: ible-possible
+    kind: transformation
+    tier: primary
+    front_en: possible
+    back_es: posible
+    hint: '-ible works; one s'
+    min_lesson: 3
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L3#conv-ible-able', role: tests }
+    related_lessons: [2, 3]
+
+  - id: ible-probable
+    kind: transformation
+    tier: primary
+    front_en: probable
+    back_es: probable
+    hint: '-able works as-is'
+    min_lesson: 3
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L3#conv-ible-able', role: tests }
+    related_lessons: [2, 3]
+
+  - id: ible-flexible
+    kind: transformation
+    tier: primary
+    front_en: flexible
+    back_es: flexible
+    min_lesson: 3
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L3#conv-ible-able', role: tests }
+    related_lessons: [2, 3]
+
+  - id: ible-incredible
+    kind: transformation
+    tier: extended
+    front_en: incredible
+    back_es: increíble
+    hint: '-ible; note the í accent'
+    min_lesson: 3
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L3#conv-ible-able', role: tests }
+    related_lessons: [2, 3]

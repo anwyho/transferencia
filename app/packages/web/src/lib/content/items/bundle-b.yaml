@@ -1,0 +1,173 @@
+# Bundle B items (lessons 4-5). Words drawn from lessons/lesson_0{4,5}/rules.md.
+
+items:
+  # --- L4#conv-cion-noun (min_lesson 4) ---
+  - id: cion-opinion
+    kind: transformation
+    tier: primary
+    front_en: opinion
+    back_es: opinión
+    hint: '-ion -> -ión (accent the end)'
+    min_lesson: 4
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L4#conv-cion-noun', role: tests }
+    related_lessons: [2, 3, 4]
+
+  - id: cion-passion
+    kind: transformation
+    tier: primary
+    front_en: passion
+    back_es: pasión
+    hint: '-ssion -> -sión; one s'
+    min_lesson: 4
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L4#conv-cion-noun', role: tests }
+    related_lessons: [2, 3, 4]
+
+  - id: cion-preparation
+    kind: transformation
+    tier: primary
+    front_en: preparation
+    back_es: preparación
+    hint: '-tion -> -ción'
+    min_lesson: 4
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L4#conv-cion-noun', role: tests }
+    related_lessons: [2, 3, 4]
+
+  - id: cion-organization
+    kind: transformation
+    tier: primary
+    front_en: organization
+    back_es: organización
+    hint: '-tion -> -ción'
+    min_lesson: 4
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L4#conv-cion-noun', role: tests }
+    related_lessons: [2, 3, 4]
+
+  - id: cion-conversation
+    kind: transformation
+    tier: extended
+    front_en: conversation
+    back_es: conversación
+    hint: '-tion -> -ción'
+    min_lesson: 4
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L4#conv-cion-noun', role: tests }
+    related_lessons: [2, 3, 4]
+
+  # --- L4#conv-acion-ar-verb (min_lesson 4) — the powerhouse ---
+  - id: arverb-prepare
+    kind: transformation
+    tier: primary
+    front_en: to prepare
+    back_es: preparar
+    hint: 'preparación -> strip -ción, add -r'
+    min_lesson: 4
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L4#conv-acion-ar-verb', role: tests }
+    related_lessons: [2, 3, 4]
+
+  - id: arverb-generate
+    kind: transformation
+    tier: primary
+    front_en: to generate
+    back_es: generar
+    hint: 'generación -> generar'
+    min_lesson: 4
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L4#conv-acion-ar-verb', role: tests }
+    related_lessons: [2, 3, 4]
+
+  - id: arverb-confirm
+    kind: transformation
+    tier: primary
+    front_en: to confirm
+    back_es: confirmar
+    hint: 'confirmación -> confirmar'
+    min_lesson: 4
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L4#conv-acion-ar-verb', role: tests }
+    related_lessons: [2, 3, 4]
+
+  - id: arverb-organize
+    kind: transformation
+    tier: primary
+    front_en: to organize
+    back_es: organizar
+    hint: 'organización -> organizar'
+    min_lesson: 4
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L4#conv-acion-ar-verb', role: tests }
+    related_lessons: [2, 3, 4]
+
+  - id: arverb-complicate
+    kind: transformation
+    tier: extended
+    front_en: to complicate
+    back_es: complicar
+    hint: 'complicación -> complicar'
+    min_lesson: 4
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L4#conv-acion-ar-verb', role: tests }
+    related_lessons: [2, 3, 4]
+
+  # --- L5#conv-encia-ancia (min_lesson 5) ---
+  - id: encia-experience
+    kind: transformation
+    tier: primary
+    front_en: experience
+    back_es: experiencia
+    hint: '-ence -> -encia'
+    min_lesson: 5
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L5#conv-encia-ancia', role: tests }
+    related_lessons: [2, 3, 4, 5]
+
+  - id: encia-difference
+    kind: transformation
+    tier: primary
+    front_en: difference
+    back_es: diferencia
+    hint: '-ence -> -encia; one f'
+    min_lesson: 5
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L5#conv-encia-ancia', role: tests }
+    related_lessons: [2, 3, 4, 5]
+
+  - id: encia-influence
+    kind: transformation
+    tier: primary
+    front_en: influence
+    back_es: influencia
+    hint: '-ence -> -encia'
+    min_lesson: 5
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L5#conv-encia-ancia', role: tests }
+    related_lessons: [2, 3, 4, 5]
+
+  - id: encia-importance
+    kind: transformation
+    tier: primary
+    front_en: importance
+    back_es: importancia
+    hint: '-ance -> -ancia'
+    min_lesson: 5
+    directions: ['en>es']
+    rule_refs:
+      - { key: 'L5#conv-encia-ancia', role: tests }
+    related_lessons: [2, 3, 4, 5]

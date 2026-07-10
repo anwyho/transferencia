@@ -1,0 +1,104 @@
+# Language Transfer — Phase 0 seed rules (lessons 1-5).
+#
+# Scope (report M2): only TRANSFORMATION-ELIGIBLE rules are `schedulable: true` for
+# Phase 0 — the convertible-word suffix rules a word-level `transformation` can drill.
+# Sentence-level spine (`quiero`) and object-pronoun (`me`/`lo`/`yo`) rules are seeded
+# `schedulable: false` (dormant, no instruments required) — same pattern as meta/phonetic
+# rules — and wake up in P1 when sentence/cloze exercise types arrive.
+#
+# Keys are stable SEMANTIC slugs (report M8): `L<homeLesson>#<slug>`. The homeLesson
+# number is semantic (where the rule is taught), not a positional list ordinal, so
+# editing lessons/rules.md never renumbers a key. The committed manifest + snapshot
+# guard is #0.3.
+
+rules:
+  # --- Bundle A (lessons 1-3): the convertible-word rules ---
+  - key: 'L2#conv-al'
+    kind: transformation
+    schedulable: true
+    homeLesson: 2
+    bundle: A
+    importance: 1
+    label: '-al words are usually identical in Spanish (stress moves to the end)'
+
+  - key: 'L3#conv-ante-ente'
+    kind: transformation
+    schedulable: true
+    homeLesson: 3
+    bundle: A
+    importance: 1
+    label: 'English -ant/-ent -> Spanish -ante/-ente'
+
+  - key: 'L3#conv-mente'
+    kind: transformation
+    schedulable: true
+    homeLesson: 3
+    bundle: A
+    importance: 1
+    label: 'English -ly -> Spanish -mente'
+
+  - key: 'L3#conv-ible-able'
+    kind: transformation
+    schedulable: true
+    homeLesson: 3
+    bundle: A
+    importance: 1
+    label: 'English -ible/-able words usually work in Spanish'
+
+  # --- Bundle B (lessons 4-7): the -cion powerhouse + -encia ---
+  - key: 'L4#conv-cion-noun'
+    kind: transformation
+    schedulable: true
+    homeLesson: 4
+    bundle: B
+    importance: 1
+    label: 'English -tion/-ion -> Spanish -cion/-ion (accent on the end)'
+
+  - key: 'L4#conv-acion-ar-verb'
+    kind: transformation
+    schedulable: true
+    homeLesson: 4
+    bundle: B
+    importance: 2
+    label: '-acion noun -> strip -cion, add -r for the verb (the powerhouse rule)'
+
+  - key: 'L5#conv-encia-ancia'
+    kind: transformation
+    schedulable: true
+    homeLesson: 5
+    bundle: B
+    importance: 1
+    label: 'English -ence/-ance -> Spanish -encia/-ancia'
+
+  # --- Dormant for Phase 0 (sentence-level; no word-level instrument yet) ---
+  - key: 'L4#spine-quiero'
+    kind: lexical
+    schedulable: false
+    homeLesson: 4
+    bundle: B
+    importance: 1
+    label: 'quiero = I want (spine verb; sentence-level, deferred to P1)'
+
+  - key: 'L5#pron-me'
+    kind: syntax
+    schedulable: false
+    homeLesson: 5
+    bundle: B
+    importance: 1
+    label: 'me = me/myself, hooks onto the verb (sentence-level, deferred to P1)'
+
+  - key: 'L5#pron-lo'
+    kind: syntax
+    schedulable: false
+    homeLesson: 5
+    bundle: B
+    importance: 1
+    label: 'lo = it/him, hooks onto the verb (sentence-level, deferred to P1)'
+
+  - key: 'L5#emph-yo'
+    kind: lexical
+    schedulable: false
+    homeLesson: 5
+    bundle: B
+    importance: 1
+    label: 'yo = I (emphasis only) (sentence-level, deferred to P1)'
