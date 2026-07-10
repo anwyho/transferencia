@@ -23,3 +23,9 @@ vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 # Playwright
 test-results
+
+# Slice C.1 local SQLite (dev). Migrations under drizzle/ stay COMMITTED.
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+local.sqlite*
