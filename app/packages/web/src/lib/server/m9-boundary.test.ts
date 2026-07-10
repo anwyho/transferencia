@@ -14,7 +14,10 @@ it('domain lint (report M9) fails on a planted persistence-driver import', () =>
 	const fixtureDir = resolve(domainDir, 'src/__m9_tripwire__');
 	const fixtureRel = 'src/__m9_tripwire__/leak.ts';
 	mkdirSync(fixtureDir, { recursive: true });
-	writeFileSync(resolve(domainDir, fixtureRel), "import 'better-sqlite3';\nexport const leak = true;\n");
+	writeFileSync(
+		resolve(domainDir, fixtureRel),
+		"import 'better-sqlite3';\nexport const leak = true;\n"
+	);
 
 	let failed = false;
 	let stdout = '';
