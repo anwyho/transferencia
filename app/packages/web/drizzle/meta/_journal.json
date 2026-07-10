@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1783725091456,
+      "tag": "0000_ordinary_synch",
+      "breakpoints": true
+    }
+  ]
+}
