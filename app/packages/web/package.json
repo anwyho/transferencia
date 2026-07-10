@@ -16,7 +16,8 @@
 		"test:unit": "vitest run",
 		"test:unit:watch": "vitest",
 		"test:e2e": "playwright test",
-		"e2e:install": "playwright install"
+		"e2e:install": "playwright install",
+		"manifest:update": "UPDATE_ID_MANIFEST=1 vitest run src/lib/content/id-manifest.test.ts"
 	},
 	"dependencies": {
 		"@lt/domain": "workspace:*",
