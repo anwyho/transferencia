@@ -13,8 +13,9 @@ import type { Direction, Grade, SchedulerState, SrsRating } from '@lt/domain';
  */
 
 export const users = sqliteTable('users', {
-	id: text('id').primaryKey()
-	// current_lesson added in C.2 with the folded per-user dial.
+	id: text('id').primaryKey(),
+	// Per-user lesson dial (C.2a): the folded cache of the last set_lesson event.
+	currentLesson: integer('current_lesson').notNull().default(1)
 });
 
 export const sessions = sqliteTable('sessions', {
