@@ -155,3 +155,14 @@ function strArray(v: unknown, where: string, field: string): string[] {
 	}
 	return v as string[];
 }
+
+/**
+ * The content-derived lesson ceiling (highest seeded home lesson): the dial's upper clamp
+ * bound. Not per-user, not persisted, not folded — purely a UI/route concern (C.2a moved
+ * this off the retired settings-service). Extends to the L30 content ceiling in production.
+ */
+export function maxLesson(): number {
+	return contentStore()
+		.allRules()
+		.reduce((max, rule) => Math.max(max, rule.homeLesson), 1);
+}

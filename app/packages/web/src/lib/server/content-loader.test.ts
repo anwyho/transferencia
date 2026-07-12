@@ -1,5 +1,5 @@
 import { beforeAll, describe, expect, it } from 'vitest';
-import { contentStore, load } from './content-loader';
+import { contentStore, load, maxLesson } from './content-loader';
 import { eligibleItems, eligibleRules, type ItemStore } from '@lt/domain';
 
 describe('content loader — seed loads clean (B.2)', () => {
@@ -46,5 +46,15 @@ describe('content loader — seed loads clean (B.2)', () => {
 		expect(() => load({ 'bad.yaml': 'rules:\n  - kind: transformation\n' })).toThrow(
 			/content bad\.yaml.*key.*non-empty string/
 		);
+	});
+});
+
+describe('maxLesson', () => {
+	it('is the highest seeded home lesson (seed spans L1–5)', () => {
+		const expected = contentStore()
+			.allRules()
+			.reduce((m, r) => Math.max(m, r.homeLesson), 1);
+		expect(maxLesson()).toBe(expected);
+		expect(maxLesson()).toBe(5);
 	});
 });

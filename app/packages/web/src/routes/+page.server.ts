@@ -7,7 +7,6 @@ import {
 	type Direction
 } from '@lt/domain';
 import { contentStore } from '$lib/server/content-loader';
-import { getCurrentLesson } from '$lib/server/settings-service';
 import { getRepo } from '$lib/server/db';
 import { webClock } from '$lib/server/clock';
 
@@ -19,7 +18,7 @@ import { webClock } from '$lib/server/clock';
  */
 export const load: PageServerLoad = ({ locals }) => {
 	const store = contentStore();
-	const currentLesson = getCurrentLesson();
+	const currentLesson = getRepo().currentLesson(locals.user.id);
 	const item = eligibleItems(store, currentLesson)[0];
 	if (!item) {
 		return { sessionId: null, itemId: null, direction: null, prompt: null, hint: null };

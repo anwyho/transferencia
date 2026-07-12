@@ -1,17 +1,17 @@
 import type { Actions, PageServerLoad } from './$types';
 import { eligibleItems, eligibleRules } from '@lt/domain';
-import { contentStore } from '$lib/server/content-loader';
-import { getCurrentLesson, getMaxLesson, setCurrentLesson } from '$lib/server/settings-service';
+import { contentStore, maxLesson } from '$lib/server/content-loader';
 import { getRepo } from '$lib/server/db';
 import { clockNow } from '$lib/server/clock';
 
 export const load: PageServerLoad = ({ locals }) => {
 	const store = contentStore();
-	const currentLesson = getCurrentLesson();
+	const repo = getRepo();
+	const currentLesson = repo.currentLesson(locals.user.id);
 	const now = clockNow();
 	return {
 		currentLesson,
-		maxLesson: getMaxLesson(),
+		maxLesson: maxLesson(),
 		// Defined ordering (min_lesson, id) comes from the domain LessonGate.
 		items: eligibleItems(store, currentLesson).map((i) => ({
 			id: i.id,
@@ -25,26 +25,32 @@ export const load: PageServerLoad = ({ locals }) => {
 			homeLesson: r.homeLesson
 		})),
 		// Durable scheduled-rules panel (C.1): one row per rule_state, ordered (due, rule_key).
-		scheduledRules: getRepo()
-			.ruleStates(locals.user.id)
-			.map((r) => ({
-				ruleKey: r.ruleKey,
-				direction: r.direction,
-				dueAt: r.due,
-				dueNow: r.due <= now
-			}))
+		scheduledRules: repo.ruleStates(locals.user.id).map((r) => ({
+			ruleKey: r.ruleKey,
+			direction: r.direction,
+			dueAt: r.due,
+			dueNow: r.due <= now
+		}))
 	};
 };
 
+// The dial is a per-user set_lesson event + current_lesson cache (C.2a). The route clamps
+// to [1, maxLesson] before emitting; the fold independently floors at 1 (design decision 2).
 export const actions: Actions = {
-	up: () => {
-		setCurrentLesson(getCurrentLesson() + 1);
+	up: ({ locals }) => {
+		const repo = getRepo();
+		const next = Math.min(maxLesson(), repo.currentLesson(locals.user.id) + 1);
+		repo.setLesson({ userId: locals.user.id, lesson: next, at: clockNow() });
 	},
-	down: () => {
-		setCurrentLesson(getCurrentLesson() - 1);
+	down: ({ locals }) => {
+		const repo = getRepo();
+		const next = Math.max(1, repo.currentLesson(locals.user.id) - 1);
+		repo.setLesson({ userId: locals.user.id, lesson: next, at: clockNow() });
 	},
-	set: async ({ request }) => {
+	set: async ({ request, locals }) => {
 		const data = await request.formData();
-		setCurrentLesson(Number(data.get('lesson')));
+		const requested = Math.floor(Number(data.get('lesson')));
+		const lesson = Math.min(maxLesson(), Math.max(1, Number.isFinite(requested) ? requested : 1));
+		getRepo().setLesson({ userId: locals.user.id, lesson, at: clockNow() });
 	}
 };
