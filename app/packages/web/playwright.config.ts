@@ -10,7 +10,8 @@ export default defineConfig({
 		env: { LT_TEST_CONTROL: '1', LT_DB_PATH: ':memory:' }
 	},
 	testMatch: '**/*.e2e.{ts,js}',
-	// The lesson dial + clock offset + :memory: DB are process-globals on one server,
-	// so e2e runs serially. (Revisit when per-user state lands in slice C.2.)
+	// The dial is now per-user in the DB (C.2a), but the clock offset and the shared
+	// :memory: DB + seed user u1 remain process-globals on one preview server, so e2e
+	// still runs serially. Dropping this needs per-test clock + DB isolation (separate task).
 	workers: 1
 });

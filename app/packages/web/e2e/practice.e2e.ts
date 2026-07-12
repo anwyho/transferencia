@@ -1,7 +1,7 @@
 import { expect, test, type Page } from '@playwright/test';
 
-// The practice screen serves the first gated seed item; the dial is a process-global
-// (slice B), so set a known lesson first. At L>=2 the first eligible item (order
+// The practice screen serves the first gated seed item; the dial is a per-user DB
+// value (C.2a), so set a known lesson first. At L>=2 the first eligible item (order
 // min_lesson, id) is `al-annual` (annual -> anual, rule L2#conv-al).
 async function setLesson(page: Page, n: number) {
 	await page.goto('/inspector');
