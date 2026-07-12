@@ -63,6 +63,24 @@ export interface ItemExposureRow {
   starred: boolean;
 }
 
+/** A session row (fold output + repo read-back). `endedAt` null until session_end. */
+export interface SessionRow {
+  id: number;
+  userId: string;
+  startedAt: number;
+  endedAt: number | null;
+  mode: string;
+  targetAttempts: number;
+  realizedCount: number;
+}
+
+/** Payload for the per-user lesson dial (C.2a). `at` from the caller's Clock. */
+export interface SetLessonInput {
+  userId: string;
+  lesson: number;
+  at: number;
+}
+
 /**
  * Persistence seam (design v2). Types-only in the domain; the Drizzle impl lives in
  * @lt/web server. Every method takes/filters user_id. One impl now (SQLite);

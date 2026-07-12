@@ -20,5 +20,7 @@ export type {
   ReviewRepository,
   RuleStateRow,
   SessionEndInput,
-  SessionStartInput
+  SessionRow,
+  SessionStartInput,
+  SetLessonInput
 } from './repository';
