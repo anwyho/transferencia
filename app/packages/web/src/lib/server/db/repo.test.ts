@@ -1,5 +1,5 @@
 import { afterEach, beforeEach, describe, expect, it } from 'vitest';
-import { DAY_MS, type AttemptInput, type Clock } from '@lt/domain';
+import { DAY_MS, fold, rowToEvent, trivialScheduler, type AttemptInput, type Clock } from '@lt/domain';
 import { createTestDb } from './test-db';
 import { users } from './schema';
 
@@ -189,5 +189,39 @@ describe('DrizzleReviewRepository (C.1 integration)', () => {
 			endedAt: null
 		});
 		expect(env.repo.itemExposures('u1').map((e) => e.itemId)).toEqual(['al-annual']);
+	});
+});
+
+describe('C.2a rebuild proof — fold reproduces the incremental projection', () => {
+	const byRule = (a: { ruleKey: string; direction: string }, b: { ruleKey: string; direction: string }) =>
+		a.ruleKey.localeCompare(b.ruleKey) || a.direction.localeCompare(b.direction);
+
+	it('deep-equals the live projection under monotonic time', () => {
+		const { sessionId } = env.repo.startSession({ userId: 'u1', mode: 'practice', targetAttempts: 10, at: t });
+		env.repo.appendAttempt(attempt({ sessionId, itemId: 'al-annual', ruleKeys: ['L2#conv-al'], rating: 'good' }));
+		env.repo.appendAttempt(attempt({ sessionId, itemId: 'al-normal', ruleKeys: ['L2#conv-al'], rating: 'again' }));
+		t += DAY_MS; // monotonic advance
+		env.repo.appendAttempt(attempt({ sessionId, itemId: 'al-annual', ruleKeys: ['L2#conv-al'], rating: 'good' }));
+		env.repo.appendAttempt(attempt({ sessionId, itemId: 'mente-lento', ruleKeys: ['L3#conv-mente'], rating: 'good' }));
+		env.repo.setLesson({ userId: 'u1', lesson: 4, at: t });
+		env.repo.endSession({ userId: 'u1', sessionId, at: t + 1000 });
+
+		const state = fold(env.repo.events('u1').map(rowToEvent), { scheduler: trivialScheduler });
+
+		expect(state.currentLesson).toBe(env.repo.currentLesson('u1'));
+		expect([...state.ruleStates].sort(byRule)).toEqual([...env.repo.ruleStates('u1')].sort(byRule));
+		expect(state.itemExposures).toEqual(env.repo.itemExposures('u1'));
+		expect(state.sessions).toEqual(env.repo.sessions('u1'));
+	});
+
+	it('folds only the requested user (no cross-user leak)', () => {
+		env.db.insert(users).values({ id: 'u2' }).run();
+		const s1 = env.repo.startSession({ userId: 'u1', mode: 'practice', targetAttempts: 10, at: t });
+		const s2 = env.repo.startSession({ userId: 'u2', mode: 'practice', targetAttempts: 10, at: t });
+		env.repo.appendAttempt(attempt({ userId: 'u1', sessionId: s1.sessionId, ruleKeys: ['L2#conv-al'] }));
+		env.repo.appendAttempt(attempt({ userId: 'u2', sessionId: s2.sessionId, ruleKeys: ['L3#conv-mente'] }));
+
+		const u1 = fold(env.repo.events('u1').map(rowToEvent), { scheduler: trivialScheduler });
+		expect(u1.ruleStates.map((r) => r.ruleKey)).toEqual(['L2#conv-al']);
 	});
 });
