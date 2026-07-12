@@ -25,3 +25,6 @@ export * from './content/index';
 // Slice C.1 persistence ports (pure contracts + trivial scheduler; the Drizzle impl
 // lives in @lt/web server — the domain stays isomorphic, report M9).
 export * from './ports/index';
+
+// Slice C.2a: pure fold — the canonical projection of the ReviewLog (rebuild/replay).
+export * from './fold/index';
