@@ -153,4 +153,41 @@ describe('DrizzleReviewRepository (C.1 integration)', () => {
 		expect(row.realized_count).toBe(2);
 		expect(row.ended_at).toBe(t);
 	});
+
+	it('setLesson appends a set_lesson event and updates the current_lesson cache', () => {
+		expect(env.repo.currentLesson('u1')).toBe(1); // seeded default
+		env.repo.setLesson({ userId: 'u1', lesson: 4, at: t });
+		expect(env.repo.currentLesson('u1')).toBe(4);
+		const ev = env.repo.events('u1').find((e) => e.kind === 'set_lesson');
+		expect(ev?.annotationLesson).toBe(4);
+		expect(ev?.at).toBe(t);
+	});
+
+	it('set_lesson is last-wins on the cache and per-user', () => {
+		env.db.insert(users).values({ id: 'u2' }).run();
+		env.repo.setLesson({ userId: 'u1', lesson: 4, at: t });
+		env.repo.setLesson({ userId: 'u1', lesson: 2, at: t + 1 });
+		expect(env.repo.currentLesson('u1')).toBe(2);
+		expect(env.repo.currentLesson('u2')).toBe(1); // isolated default
+	});
+
+	it('sessions() and itemExposures() read back per-user rows', () => {
+		const { sessionId } = env.repo.startSession({
+			userId: 'u1',
+			mode: 'practice',
+			targetAttempts: 10,
+			at: t
+		});
+		env.repo.appendAttempt(attempt({ sessionId, itemId: 'al-annual' }));
+		const ss = env.repo.sessions('u1');
+		expect(ss).toHaveLength(1);
+		expect(ss[0]).toMatchObject({
+			id: sessionId,
+			mode: 'practice',
+			targetAttempts: 10,
+			realizedCount: 1,
+			endedAt: null
+		});
+		expect(env.repo.itemExposures('u1').map((e) => e.itemId)).toEqual(['al-annual']);
+	});
 });

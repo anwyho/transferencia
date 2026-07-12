@@ -97,4 +97,12 @@ export interface ReviewRepository {
   itemExposure(userId: string, itemId: string): ItemExposureRow | undefined;
   /** ordered (at, id) — the input to C.2's fold/rebuild. */
   events(userId: string): ReviewLogRow[];
+  /** Append a set_lesson event + update the users.current_lesson cache in one txn (C.2a). */
+  setLesson(i: SetLessonInput): void;
+  /** Read the per-user current_lesson cache (folds to max(1, last set_lesson)); default 1. */
+  currentLesson(userId: string): number;
+  /** All sessions for the user, ordered by id — for the rebuild comparison + future use. */
+  sessions(userId: string): SessionRow[];
+  /** All item exposures for the user, ordered by item_id — for the rebuild comparison. */
+  itemExposures(userId: string): ItemExposureRow[];
 }

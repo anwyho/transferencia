@@ -9,10 +9,12 @@ import {
 	type RuleStateRow,
 	type Scheduler,
 	type SessionEndInput,
-	type SessionStartInput
+	type SessionRow,
+	type SessionStartInput,
+	type SetLessonInput
 } from '@lt/domain';
 import type { Db } from './index';
-import { itemExposure, reviewLog, ruleState, sessions } from './schema';
+import { itemExposure, reviewLog, ruleState, sessions, users } from './schema';
 
 /**
  * Drizzle/SQLite ReviewRepository (C.1 design §Ports / §DB schema). Incremental
@@ -174,5 +176,41 @@ export class DrizzleReviewRepository implements ReviewRepository {
 			.where(eq(reviewLog.userId, userId))
 			.orderBy(asc(reviewLog.at), asc(reviewLog.id))
 			.all() as ReviewLogRow[];
+	}
+
+	setLesson(i: SetLessonInput): void {
+		this.db.transaction((tx) => {
+			tx.insert(reviewLog)
+				.values({ userId: i.userId, at: i.at, kind: 'set_lesson', annotationLesson: i.lesson })
+				.run();
+			tx.update(users).set({ currentLesson: i.lesson }).where(eq(users.id, i.userId)).run();
+		});
+	}
+
+	currentLesson(userId: string): number {
+		const row = this.db
+			.select({ currentLesson: users.currentLesson })
+			.from(users)
+			.where(eq(users.id, userId))
+			.get();
+		return row?.currentLesson ?? 1;
+	}
+
+	sessions(userId: string): SessionRow[] {
+		return this.db
+			.select()
+			.from(sessions)
+			.where(eq(sessions.userId, userId))
+			.orderBy(asc(sessions.id))
+			.all();
+	}
+
+	itemExposures(userId: string): ItemExposureRow[] {
+		return this.db
+			.select()
+			.from(itemExposure)
+			.where(eq(itemExposure.userId, userId))
+			.orderBy(asc(itemExposure.itemId))
+			.all();
 	}
 }
