@@ -28,3 +28,6 @@ export * from './ports/index';
 
 // Slice C.2a: pure fold — the canonical projection of the ReviewLog (rebuild/replay).
 export * from './fold/index';
+
+// Slice C.2b: real schedulers (FSRS + SM-2) behind the apply seam, and the M3 same-day guard.
+export * from './scheduler/index';

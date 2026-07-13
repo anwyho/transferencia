@@ -131,4 +131,12 @@ describe('fold (C.2a)', () => {
       expect(() => rowToEvent(row), kind).toThrow(new RegExp(`malformed ${kind}`));
     }
   });
+
+  it('walks events as given (does not re-sort) — caller owns (at, id) order', () => {
+    const st = fold([attemptEv({ at: 2000, rating: 'again' }), attemptEv({ at: 1000, rating: 'good' })], {
+      scheduler: trivialScheduler
+    });
+    expect(st.ruleStates[0].due).toBe(1000 + DAY_MS);
+    expect(st.ruleStates[0].firstExposedAt).toBe(2000);
+  });
 });
