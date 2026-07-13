@@ -237,6 +237,14 @@ export class DrizzleReviewRepository implements ReviewRepository {
 			.all();
 	}
 
+	/**
+	 * Replay mechanism: fold the immutable log through `opts.scheduler` and rewrite rule_state
+	 * (the only scheduler/keyRemap-dependent projection; it has no inbound FK). By design a
+	 * COORDINATED swap — `rebuild(otherScheduler)` must be paired with swapping the app's injected
+	 * scheduler, because `apply` never hydrates a foreign blob (C.2b decision 5). Mastery columns
+	 * are scheduler-independent, so a scheduler swap leaves them unchanged; a keyRemap merges them.
+	 * Phase-0 dev DB is disposable; no boot-time auto-rebuild.
+	 */
 	rebuild(
 		userId: string,
 		opts: { scheduler: Scheduler; keyRemap?: (ruleKey: string) => string }

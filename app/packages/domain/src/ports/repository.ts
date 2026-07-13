@@ -113,6 +113,10 @@ export interface ReviewRepository {
   sessions(userId: string): SessionRow[];
   /** All item exposures for the user, ordered by item_id — for the rebuild comparison. */
   itemExposures(userId: string): ItemExposureRow[];
-  /** Re-fold the log + re-materialize rule_state only (scheduler swap / rename = replay, not migration). */
+  /**
+   * Re-fold the log + re-materialize rule_state only (scheduler swap / rename = replay, not
+   * migration). `keyRemap`'s type is inlined (not imported from ../fold) to avoid a ports->fold
+   * import cycle — ports is a leaf the fold depends on, never the reverse.
+   */
   rebuild(userId: string, opts: { scheduler: Scheduler; keyRemap?: (ruleKey: string) => string }): void;
 }
