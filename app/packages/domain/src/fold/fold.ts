@@ -2,6 +2,8 @@ import { BOTH_DIRECTION } from '../ports/repository';
 import type { ItemExposureRow, RuleStateRow, SessionRow } from '../ports/repository';
 import type { ReviewLogEvent, ReviewLogRow } from '../ports/review-log';
 import type { Scheduler } from '../ports/scheduler';
+import { applyMastery, instrumentKey } from '../mastery/mastery';
+import type { MasteryState } from '../mastery/mastery';
 
 /** Applied fold-time to each tested rule key to collapse a rename's history (design v2 m7/M8). */
 export type KeyRemap = (ruleKey: string) => string;
@@ -54,13 +56,26 @@ export function fold(events: ReviewLogEvent[], opts: { scheduler: Scheduler; key
           const ruleKey = keyRemap(raw);
           const prev = ruleStates.get(ruleKey);
           const { blob, due } = scheduler.apply(prev ? prev.blob : null, ev.rating, ev.at);
+          const prevMastery: MasteryState | null = prev
+            ? { ewma: prev.mastery, instruments: prev.seenInstruments, successDays: prev.successDays }
+            : null;
+          const m = applyMastery(
+            prevMastery,
+            ev.rating,
+            instrumentKey(ev.itemId, ev.exerciseTypeKey, ev.paramKey, ev.direction),
+            ev.at
+          );
           ruleStates.set(ruleKey, {
             userId: ev.userId,
             ruleKey,
             direction: BOTH_DIRECTION,
             blob,
             due,
-            firstExposedAt: prev ? prev.firstExposedAt : ev.at
+            firstExposedAt: prev ? prev.firstExposedAt : ev.at,
+            mastery: m.ewma,
+            coverage: m.instruments.length,
+            seenInstruments: m.instruments,
+            successDays: m.successDays
           });
         }
         const e = exposureFor(ev.userId, ev.itemId, ev.at);

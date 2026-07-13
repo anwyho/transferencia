@@ -1,7 +1,9 @@
 import { and, asc, eq, lte, sql } from 'drizzle-orm';
 import {
+	applyMastery,
 	BOTH_DIRECTION,
 	fold,
+	instrumentKey,
 	rowToEvent,
 	type AttemptInput,
 	type Clock,
@@ -103,6 +105,18 @@ export class DrizzleReviewRepository implements ReviewRepository {
 					at
 				);
 				const firstExposedAt = existing ? existing.firstExposedAt : at;
+				const m = applyMastery(
+					existing
+						? {
+								ewma: existing.mastery,
+								instruments: existing.seenInstruments,
+								successDays: existing.successDays
+							}
+						: null,
+					i.rating,
+					instrumentKey(i.itemId, i.exerciseTypeKey, i.paramKey, i.direction),
+					at
+				);
 				tx.insert(ruleState)
 					.values({
 						userId: i.userId,
@@ -110,11 +124,22 @@ export class DrizzleReviewRepository implements ReviewRepository {
 						direction: BOTH_DIRECTION,
 						blob,
 						due,
-						firstExposedAt
+						firstExposedAt,
+						mastery: m.ewma,
+						coverage: m.instruments.length,
+						seenInstruments: m.instruments,
+						successDays: m.successDays
 					})
 					.onConflictDoUpdate({
 						target: [ruleState.userId, ruleState.ruleKey, ruleState.direction],
-						set: { blob, due }
+						set: {
+							blob,
+							due,
+							mastery: m.ewma,
+							coverage: m.instruments.length,
+							seenInstruments: m.instruments,
+							successDays: m.successDays
+						}
 					})
 					.run();
 			}
@@ -231,7 +256,11 @@ export class DrizzleReviewRepository implements ReviewRepository {
 						direction: rs.direction,
 						blob: rs.blob,
 						due: rs.due,
-						firstExposedAt: rs.firstExposedAt
+						firstExposedAt: rs.firstExposedAt,
+						mastery: rs.mastery,
+						coverage: rs.coverage,
+						seenInstruments: rs.seenInstruments,
+						successDays: rs.successDays
 					})
 					.run();
 			}

@@ -1,6 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { DAY_MS, trivialScheduler } from '../ports/scheduler';
 import type { AttemptEvent, ReviewLogEvent, ReviewLogRow } from '../ports/review-log';
+import { instrumentKey } from '../mastery/mastery';
 import { fold, rowToEvent } from './fold';
 
 function attemptEv(over: Partial<AttemptEvent> = {}): AttemptEvent {
@@ -45,7 +46,11 @@ describe('fold (C.2a)', () => {
       direction: 'both',
       blob: { last: 1000 },
       due: 1000 + DAY_MS,
-      firstExposedAt: 1000
+      firstExposedAt: 1000,
+      mastery: 0.1, // alpha 0.1 * base(good) 1, from seed 0
+      coverage: 1,
+      seenInstruments: [instrumentKey('it1', 'transformation', '', 'en>es')],
+      successDays: [0] // floor(1000 / DAY_MS)
     });
     expect(st.itemExposures[0]).toMatchObject({ itemId: 'it1', timesSeen: 1, lastSeenAt: 1000, lastRating: 'good', known: false, starred: false });
     expect(st.sessions[0]).toMatchObject({ id: 1, startedAt: 1000, endedAt: null, mode: 'practice', targetAttempts: 10, realizedCount: 1 });
@@ -138,5 +143,59 @@ describe('fold (C.2a)', () => {
     });
     expect(st.ruleStates[0].due).toBe(1000 + DAY_MS);
     expect(st.ruleStates[0].firstExposedAt).toBe(2000);
+  });
+});
+
+describe('fold — mastery meter (C.2c)', () => {
+  it('materializes ewma/coverage/seen/successDays; same instrument repeat does not bump coverage', () => {
+    const st = fold(
+      [
+        attemptEv({ at: 1000, itemId: 'it1', rating: 'good' }),
+        attemptEv({ at: 2000, itemId: 'it1', rating: 'good' }) // same instrument (dedup)
+      ],
+      { scheduler: trivialScheduler }
+    );
+    expect(st.ruleStates[0].coverage).toBe(1);
+    expect(st.ruleStates[0].seenInstruments).toEqual([instrumentKey('it1', 'transformation', '', 'en>es')]);
+    expect(st.ruleStates[0].mastery).toBeCloseTo(0.19, 10); // ate both reps
+    expect(st.ruleStates[0].successDays).toEqual([0]);
+  });
+
+  it('distinct instruments raise coverage; both directions count distinctly', () => {
+    const st = fold(
+      [
+        attemptEv({ at: 1000, itemId: 'it1', direction: 'en>es' }),
+        attemptEv({ at: 1000, itemId: 'it2', direction: 'en>es' }),
+        attemptEv({ at: 1000, itemId: 'it1', direction: 'es>en' }) // same item/param, other direction
+      ],
+      { scheduler: trivialScheduler }
+    );
+    expect(st.ruleStates[0].coverage).toBe(3);
+  });
+
+  it('keyRemap merges two raw keys: coverage is the union, ewma folds over both in order', () => {
+    const st = fold(
+      [
+        attemptEv({ at: 1000, ruleKeys: ['old-a'], itemId: 'it1', rating: 'good' }),
+        attemptEv({ at: 2000, ruleKeys: ['old-b'], itemId: 'it2', rating: 'good' })
+      ],
+      { scheduler: trivialScheduler, keyRemap: (k) => (k === 'old-a' || k === 'old-b' ? 'new' : k) }
+    );
+    expect(st.ruleStates).toHaveLength(1);
+    expect(st.ruleStates[0].coverage).toBe(2); // union of the two instruments
+    expect(st.ruleStates[0].mastery).toBeCloseTo(0.19, 10);
+  });
+
+  it('an attempt citing multiple rules updates each rule’s meter independently', () => {
+    const st = fold([attemptEv({ at: 1000, itemId: 'it1', ruleKeys: ['R1', 'R2'], rating: 'good' })], {
+      scheduler: trivialScheduler
+    });
+    expect(st.ruleStates.map((r) => r.ruleKey)).toEqual(['R1', 'R2']);
+    // The one instrument is credited to BOTH cited rules.
+    for (const r of st.ruleStates) {
+      expect(r.coverage).toBe(1);
+      expect(r.seenInstruments).toEqual([instrumentKey('it1', 'transformation', '', 'en>es')]);
+      expect(r.mastery).toBeCloseTo(0.1, 10);
+    }
   });
 });

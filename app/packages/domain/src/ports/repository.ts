@@ -51,6 +51,14 @@ export interface RuleStateRow {
   blob: SchedulerState;
   due: number;
   firstExposedAt: number;
+  /**
+   * C.2c advisory mastery meter — a fold of the log; NEVER affects `due`. `masteryReady`
+   * (read-time) compares these raw signals against the Monte-Carlo-owned thresholds.
+   */
+  mastery: number; // EWMA accuracy
+  coverage: number; // = seenInstruments.length (materialized)
+  seenInstruments: string[]; // distinct instrument keys (dedup set, sorted)
+  successDays: number[]; // distinct UTC success-day keys (dedup set, sorted)
 }
 
 export interface ItemExposureRow {

@@ -1,4 +1,4 @@
-import { index, integer, primaryKey, sqliteTable, text } from 'drizzle-orm/sqlite-core';
+import { index, integer, primaryKey, real, sqliteTable, text } from 'drizzle-orm/sqlite-core';
 import type { Direction, Grade, SchedulerState, SrsRating } from '@lt/domain';
 
 /**
@@ -68,7 +68,16 @@ export const ruleState = sqliteTable(
 		direction: text('direction').notNull(),
 		blob: text('blob', { mode: 'json' }).$type<SchedulerState>().notNull(),
 		due: integer('due').notNull(),
-		firstExposedAt: integer('first_exposed_at').notNull()
+		firstExposedAt: integer('first_exposed_at').notNull(),
+		// C.2c advisory mastery meter — a fold of the log; never affects `due`. JSON dedup sets
+		// sit beside the opaque `blob` (same precedent). rebuild (rule_state-only) rewrites them.
+		mastery: real('mastery').notNull().default(0),
+		coverage: integer('coverage').notNull().default(0),
+		seenInstruments: text('seen_instruments', { mode: 'json' })
+			.$type<string[]>()
+			.notNull()
+			.default([]),
+		successDays: text('success_days', { mode: 'json' }).$type<number[]>().notNull().default([])
 	},
 	(t) => [
 		primaryKey({ columns: [t.userId, t.ruleKey, t.direction] }),
