@@ -45,6 +45,7 @@ interface GuardedState<C = unknown> {
   core: C;              // core state AFTER today's effective tick
   dayBaseline: C | null;// core state BEFORE today's first tick (null before the first-ever tick)
   dayKey: number;       // UTC day of the last tick = floor(at / DAY_MS)
+  dayAt: number;        // `at` of the day's FIRST tick — the anchor reused by every same-day recompute
   worstToday: SrsRating;// worst rating seen so far today (monotonic)
 }
 
@@ -53,10 +54,12 @@ function sameDayGuard(core: Scheduler): Scheduler // returns a Scheduler whose b
 
 `apply(prev, rating, at)`:
 - `day = Math.floor(at / DAY_MS)`.
-- **Same day** (`prev && prev.dayKey === day`): `worst = worseOf(prev.worstToday, rating)`; re-tick from the day's baseline: `r = core.apply(prev.dayBaseline, worst, at)`; blob `{ v:1, core: r.blob, dayBaseline: prev.dayBaseline, dayKey: day, worstToday: worst }`; `due = r.due`.
-- **New day / first ever**: `baseline = prev ? prev.core : null`; `r = core.apply(baseline, rating, at)`; blob `{ v:1, core: r.blob, dayBaseline: baseline, dayKey: day, worstToday: rating }`; `due = r.due`.
+- **Same day** (`prev && prev.dayKey === day`): `worst = worseOf(prev.worstToday, rating)`; re-tick from the day's baseline **at the day's anchor time** (`prev.dayAt`, NOT the current `at`): `r = core.apply(prev.dayBaseline, worst, prev.dayAt)`; blob `{ v:1, core: r.blob, dayBaseline: prev.dayBaseline, dayKey: day, dayAt: prev.dayAt, worstToday: worst }`; `due = r.due`.
+- **New day / first ever**: `baseline = prev ? prev.core : null`; `r = core.apply(baseline, rating, at)`; blob `{ v:1, core: r.blob, dayBaseline: baseline, dayKey: day, dayAt: at, worstToday: rating }`; `due = r.due`.
 
 `worseOf` uses the rank `again(0) < hard(1) < good(2) < easy(3)` and returns the lower-ranked (worse) rating.
+
+**Anchor to `dayAt`, not the current `at`:** the day's single tick is pinned to the time of the day's *first* drill. Reusing `prev.dayAt` on every same-day recompute makes "one tick per day" a true invariant — a later same-day drill can change only the *rating* fed into that one tick (via `worstToday`), never *when* it happened — so `due` is idempotent across any number of same-day re-drills that don't change the worst rating. (Using the live `at` would creep `due` forward by minutes on each re-drill for any day-granular-agnostic core; it also fails the guard's own unit test.)
 
 **Why in the blob:** `appendAttempt` and `fold` both call `apply` and store/return the opaque blob unchanged. Putting the day-tracking *in the blob* means the guard needs zero changes to the write-path or the fold — and the C.2a rebuild proof (fold == projection) keeps holding for FSRS automatically, because both sides run the same guarded scheduler over the same events. The guard emits exactly one tick per UTC day (same-day attempts *replace* the day's tick, never append), satisfying "≤ 1 FSRS rating/day" (M3).
 

@@ -125,6 +125,8 @@ Expected: FAIL — cannot resolve `./same-day-guard`.
 
 - [ ] **Step 3: Implement `same-day-guard.ts`**
 
+> **CORRECTION (post-implementation):** the code block below has a bug the Step-1 test correctly rejects — the same-day re-tick must anchor on the day's FIRST-tick time, not the current `at`, or `due` drifts forward on each same-day re-drill. `GuardedState` gains a `dayAt: number` field, and the same-day branch calls `core.apply(g.dayBaseline, worstToday, g.dayAt)` (new-day branch sets `dayAt: at`). See the corrected design doc §"The same-day guard (M3)" and the committed `same-day-guard.ts` for the authoritative version.
+
 Create `app/packages/domain/src/scheduler/same-day-guard.ts`:
 
 ```ts
