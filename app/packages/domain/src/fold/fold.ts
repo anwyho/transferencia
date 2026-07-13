@@ -2,8 +2,7 @@ import { BOTH_DIRECTION } from '../ports/repository';
 import type { ItemExposureRow, RuleStateRow, SessionRow } from '../ports/repository';
 import type { ReviewLogEvent, ReviewLogRow } from '../ports/review-log';
 import type { Scheduler } from '../ports/scheduler';
-import { applyMastery, instrumentKey } from '../mastery/mastery';
-import type { MasteryState } from '../mastery/mastery';
+import { applyMastery, instrumentKey, rowToMasteryState } from '../mastery/mastery';
 
 /** Applied fold-time to each tested rule key to collapse a rename's history (design v2 m7/M8). */
 export type KeyRemap = (ruleKey: string) => string;
@@ -27,7 +26,9 @@ const byCodeUnit = (a: string, b: string): number => (a < b ? -1 : a > b ? 1 : 0
  * with the incremental projection holds under monotonic time (contract A); under a backward
  * clock the cache may lag and this fold is authoritative. Never inspects the scheduler blob
  * (opaque) and performs no I/O. `rule_state` is keyed by rule with the `'both'` direction
- * sentinel (C.1/C.2a do not schedule by direction — M7).
+ * sentinel (C.1/C.2a do not schedule by direction — M7). Each attempt also folds the advisory
+ * mastery meter (EWMA + coverage + spacing) onto its rule_state via the shared `applyMastery`
+ * — every rep, independent of timing (C.2c; mastery never affects `due`).
  * Assumes a single-user event stream (as returned by ReviewRepository.events(userId)) —
  * rule/item maps are keyed without userId.
  */
@@ -56,11 +57,8 @@ export function fold(events: ReviewLogEvent[], opts: { scheduler: Scheduler; key
           const ruleKey = keyRemap(raw);
           const prev = ruleStates.get(ruleKey);
           const { blob, due } = scheduler.apply(prev ? prev.blob : null, ev.rating, ev.at);
-          const prevMastery: MasteryState | null = prev
-            ? { ewma: prev.mastery, instruments: prev.seenInstruments, successDays: prev.successDays }
-            : null;
           const m = applyMastery(
-            prevMastery,
+            prev ? rowToMasteryState(prev) : null,
             ev.rating,
             instrumentKey(ev.itemId, ev.exerciseTypeKey, ev.paramKey, ev.direction),
             ev.at

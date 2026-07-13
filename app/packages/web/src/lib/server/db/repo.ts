@@ -5,6 +5,7 @@ import {
 	fold,
 	instrumentKey,
 	rowToEvent,
+	rowToMasteryState,
 	type AttemptInput,
 	type Clock,
 	type ItemExposureRow,
@@ -23,7 +24,8 @@ import { itemExposure, reviewLog, ruleState, sessions, users } from './schema';
 /**
  * Drizzle/SQLite ReviewRepository (C.1 design §Ports / §DB schema). Incremental
  * apply-on-write: each attempt is ONE transaction — append the frozen log row,
- * upsert rule_state (due via the injected Scheduler) per tested rule, bump exposure,
+ * upsert rule_state (due via the injected Scheduler; the advisory mastery meter via the
+ * shared applyMastery — every rep, never affecting due) per tested rule, bump exposure,
  * bump the session's realized_count. `at` is stamped from the injected Clock, once
  * per attempt, so log + rule_state + exposure agree. Every query filters user_id.
  */
@@ -106,13 +108,7 @@ export class DrizzleReviewRepository implements ReviewRepository {
 				);
 				const firstExposedAt = existing ? existing.firstExposedAt : at;
 				const m = applyMastery(
-					existing
-						? {
-								ewma: existing.mastery,
-								instruments: existing.seenInstruments,
-								successDays: existing.successDays
-							}
-						: null,
+					existing ? rowToMasteryState(existing) : null,
 					i.rating,
 					instrumentKey(i.itemId, i.exerciseTypeKey, i.paramKey, i.direction),
 					at

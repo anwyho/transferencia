@@ -87,6 +87,19 @@ export function applyMastery(
 }
 
 /**
+ * Reconstruct the mastery accumulator from a persisted rule_state row. Shared by BOTH `fold`
+ * and the write-path so the row→accumulator adaptation can't drift between them (the same
+ * anti-drift reason `applyMastery` itself is shared).
+ */
+export function rowToMasteryState(row: {
+  mastery: number;
+  seenInstruments: string[];
+  successDays: number[];
+}): MasteryState {
+  return { ewma: row.mastery, instruments: row.seenInstruments, successDays: row.successDays };
+}
+
+/**
  * Read-time advisory predicate. NEVER stored — retuning K/mReady/S must not force a re-fold.
  * All three signals must clear their threshold ("mastered" is coverage AND accuracy AND spacing).
  */
