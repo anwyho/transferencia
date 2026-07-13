@@ -31,3 +31,6 @@ export * from './fold/index';
 
 // Slice C.2b: real schedulers (FSRS + SM-2) behind the apply seam, and the M3 same-day guard.
 export * from './scheduler/index';
+
+// Slice C.2c: advisory mastery meter (EWMA + coverage + spacing) — a fold of the log, never `due`.
+export * from './mastery/index';
