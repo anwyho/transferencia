@@ -310,3 +310,72 @@ describe('C.2b rebuild — re-fold rule_state (replay, not migration)', () => {
 		}
 	});
 });
+
+describe('C.2b FSRS same-day guard + fold parity through the real write path', () => {
+	const fsrs = sameDayGuard(fsrsCore);
+
+	it('same-day drills collapse to one worst-of-day tick; exposure still counts every rep', () => {
+		const env2 = createTestDb(clock, fsrs);
+		try {
+			const { sessionId } = env2.repo.startSession({
+				userId: 'u1',
+				mode: 'practice',
+				targetAttempts: 10,
+				at: t
+			});
+			// Rule R drilled 3x same day: good, again, good -> worst = again.
+			env2.repo.appendAttempt(
+				attempt({ sessionId, itemId: 'al-annual', ruleKeys: ['R'], rating: 'good' })
+			);
+			env2.repo.appendAttempt(
+				attempt({ sessionId, itemId: 'al-normal', ruleKeys: ['R'], rating: 'again' })
+			);
+			env2.repo.appendAttempt(
+				attempt({ sessionId, itemId: 'al-legal', ruleKeys: ['R'], rating: 'good' })
+			);
+			// Rule S drilled once same day with 'again' — the day's worst for R.
+			env2.repo.appendAttempt(
+				attempt({ sessionId, itemId: 'al-total', ruleKeys: ['S'], rating: 'again' })
+			);
+
+			const rs = env2.repo.ruleStates('u1');
+			const R = rs.find((r) => r.ruleKey === 'R')!;
+			const S = rs.find((r) => r.ruleKey === 'S')!;
+			expect(R.due).toBe(S.due); // R's 3 same-day attempts collapsed to a single 'again' tick == S
+		} finally {
+			env2.cleanup();
+		}
+	});
+
+	it('fold reproduces the incremental FSRS projection (divergence guard under the real scheduler)', () => {
+		const env2 = createTestDb(clock, fsrs);
+		try {
+			const { sessionId } = env2.repo.startSession({
+				userId: 'u1',
+				mode: 'practice',
+				targetAttempts: 10,
+				at: t
+			});
+			env2.repo.appendAttempt(
+				attempt({ sessionId, itemId: 'al-annual', ruleKeys: ['L2#conv-al'], rating: 'good' })
+			);
+			env2.repo.appendAttempt(
+				attempt({ sessionId, itemId: 'al-normal', ruleKeys: ['L2#conv-al'], rating: 'again' })
+			);
+			t += DAY_MS;
+			env2.repo.appendAttempt(
+				attempt({ sessionId, itemId: 'mente-lento', ruleKeys: ['L3#conv-mente'], rating: 'good' })
+			);
+
+			const state = fold(env2.repo.events('u1').map(rowToEvent), { scheduler: fsrs });
+			const byRule = (a: { ruleKey: string }, b: { ruleKey: string }) =>
+				a.ruleKey.localeCompare(b.ruleKey);
+			expect([...state.ruleStates].sort(byRule)).toEqual(
+				[...env2.repo.ruleStates('u1')].sort(byRule)
+			);
+			expect(state.itemExposures).toEqual(env2.repo.itemExposures('u1'));
+		} finally {
+			env2.cleanup();
+		}
+	});
+});
