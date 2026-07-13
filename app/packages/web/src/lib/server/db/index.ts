@@ -2,7 +2,7 @@ import Database from 'better-sqlite3';
 import { drizzle, type BetterSQLite3Database } from 'drizzle-orm/better-sqlite3';
 import { migrate } from 'drizzle-orm/better-sqlite3/migrator';
 import { resolve } from 'node:path';
-import { trivialScheduler } from '@lt/domain';
+import { fsrsScheduler } from '@lt/domain';
 import { webClock } from '../clock';
 import { DrizzleReviewRepository } from './repo';
 import * as schema from './schema';
@@ -48,7 +48,7 @@ export function getDb(): Db {
 
 export function getRepo(): DrizzleReviewRepository {
 	if (!_repo) {
-		_repo = new DrizzleReviewRepository(getDb(), { clock: webClock, scheduler: trivialScheduler });
+		_repo = new DrizzleReviewRepository(getDb(), { clock: webClock, scheduler: fsrsScheduler });
 	}
 	return _repo;
 }

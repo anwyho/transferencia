@@ -38,8 +38,9 @@ test('attempt persists, survives reload, and comes due after advancing the clock
 	await page.goto('/inspector');
 	await expect(page.locator(ROW)).toHaveCount(1);
 
-	// 4) advance one day -> the rule is due now
-	await clock(page, { action: 'advance', ms: 86400000 });
+	// 4) advance PAST the FSRS-computed due (first interval is multi-day, not 1) -> rule due now
+	const dueAt = Number(await page.locator(ROW).getByTestId('rule-due-at').textContent());
+	await clock(page, { action: 'set', epoch: dueAt + 1000 });
 	await page.goto('/inspector');
 	await expect(page.locator(ROW).getByTestId('rule-due-now')).toHaveText('true');
 });
