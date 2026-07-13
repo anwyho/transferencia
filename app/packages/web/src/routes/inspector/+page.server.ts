@@ -1,5 +1,5 @@
 import type { Actions, PageServerLoad } from './$types';
-import { eligibleItems, eligibleRules } from '@lt/domain';
+import { eligibleItems, eligibleRules, masteryReady } from '@lt/domain';
 import { contentStore, maxLesson } from '$lib/server/content-loader';
 import { getRepo } from '$lib/server/db';
 import { clockNow } from '$lib/server/clock';
@@ -24,12 +24,19 @@ export const load: PageServerLoad = ({ locals }) => {
 			key: r.key,
 			homeLesson: r.homeLesson
 		})),
-		// Durable scheduled-rules panel (C.1): one row per rule_state, ordered (due, rule_key).
+		// Durable scheduled-rules panel (C.1); C.2c adds the advisory mastery meter (never affects due).
 		scheduledRules: repo.ruleStates(locals.user.id).map((r) => ({
 			ruleKey: r.ruleKey,
 			direction: r.direction,
 			dueAt: r.due,
-			dueNow: r.due <= now
+			dueNow: r.due <= now,
+			mastery: r.mastery,
+			coverage: r.coverage,
+			mastered: masteryReady({
+				ewma: r.mastery,
+				instruments: r.seenInstruments,
+				successDays: r.successDays
+			})
 		}))
 	};
 };

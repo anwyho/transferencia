@@ -54,6 +54,9 @@
 					<span data-testid="rule-direction">{r.direction}</span>
 					<span data-testid="rule-due-at">{r.dueAt}</span>
 					<span data-testid="rule-due-now">{r.dueNow}</span>
+					<span data-testid="rule-mastery">{r.mastery.toFixed(2)}</span>
+					<span data-testid="rule-coverage">{r.coverage}</span>
+					<span data-testid="rule-mastered">{r.mastered}</span>
 				</li>
 			{/each}
 		</ol>
