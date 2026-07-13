@@ -3,9 +3,18 @@ import { sameDayGuard } from './same-day-guard';
 import type { Scheduler } from '../ports/scheduler';
 import type { SrsRating } from '../exercise/types';
 
-// Monte-Carlo-owned — placeholder defaults, tuned by the scheduler-sim experiment (ledger).
-// enable_fuzz MUST stay false: the fold + rebuild/replay proofs require deterministic output.
-const PARAMS = generatorParameters({ request_retention: 0.9, enable_fuzz: false });
+// request_retention + the trained weights are Monte-Carlo-owned — placeholder defaults, tuned
+// by the scheduler-sim experiment (ledger). Two flags are STRUCTURAL, not tuning knobs:
+//   enable_fuzz: false  — the fold + rebuild/replay proofs require deterministic output.
+//   enable_short_term: false — this app schedules at DAY grain (design v2: "intervals grow over
+//     days; known rules leave the daily queue"). ts-fsrs's default sub-day learning steps
+//     (1m/10m) can't progress under the M3 one-tick-per-day guard — a drilled rule would sit
+//     `due` all day instead of leaving the queue — so short-term steps are disabled here.
+const PARAMS = generatorParameters({
+  request_retention: 0.9,
+  enable_fuzz: false,
+  enable_short_term: false
+});
 const F = fsrs(PARAMS);
 
 const GRADE: Record<SrsRating, Grade> = {

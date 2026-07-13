@@ -70,7 +70,7 @@ function sameDayGuard(core: Scheduler): Scheduler // returns a Scheduler whose b
   - `card = prev ? hydrate(prev) : createEmptyCard(new Date(at))`.
   - `{ card: next } = f.next(card, new Date(at), fsrsRating(rating))` where `f = fsrs(params)`.
   - return `{ blob: serialize(next), due: next.due.getTime() }`.
-- `params` = ts-fsrs defaults with `request_retention: 0.9` and `enable_fuzz: false` (deterministic tests). A `// Monte-Carlo-owned — placeholder defaults, tuned in the MC experiment` marker. **Fuzz off** so the fold is deterministic and the rebuild proof's equality holds.
+- `params` = ts-fsrs defaults with `request_retention: 0.9` (Monte-Carlo-owned placeholder) plus two **structural** flags that are NOT tuning knobs: `enable_fuzz: false` (fold + rebuild/replay require deterministic output) and **`enable_short_term: false`**. The latter matters: ts-fsrs defaults to sub-day learning steps (`1m`/`10m`), but this app schedules at **day** grain, and under the M3 one-tick-per-day guard those sub-day steps can't progress — a drilled rule would sit `due` all day instead of leaving the daily queue (contradicting "intervals grow over days"). With short-term off, a first `good` schedules ~3 days out and the rule leaves the queue immediately. (Empirically confirmed against ts-fsrs 5.4.1: default first-`good` = +10 min; short-term-off = +3 d.)
 - The app scheduler = `sameDayGuard(fsrsCore)`.
 
 ## SM-2-on-rule core (`@lt/domain`, test-only)
