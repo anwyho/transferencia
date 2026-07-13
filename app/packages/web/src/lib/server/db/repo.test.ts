@@ -2,7 +2,7 @@ import { afterEach, beforeEach, describe, expect, it } from 'vitest';
 import {
 	DAY_MS,
 	fold,
-	fsrsCore,
+	fsrsScheduler,
 	rowToEvent,
 	sameDayGuard,
 	sm2Core,
@@ -255,67 +255,73 @@ describe('C.2a rebuild proof — fold reproduces the incremental projection', ()
 	});
 });
 
-describe('C.2b rebuild — re-fold rule_state (replay, not migration)', () => {
-	const fsrs = sameDayGuard(fsrsCore);
+describe('C.2b/C.2c rebuild — replay changes due, leaves mastery invariant', () => {
 	const sm2 = sameDayGuard(sm2Core);
+	let renv: ReturnType<typeof createTestDb>;
 
-	function seed() {
-		const env2 = createTestDb(clock, fsrs);
-		const { sessionId } = env2.repo.startSession({
+	beforeEach(() => {
+		t = 1_700_000_000_000;
+		renv = createTestDb(clock, fsrsScheduler);
+		const { sessionId } = renv.repo.startSession({
 			userId: 'u1',
 			mode: 'practice',
 			targetAttempts: 10,
 			at: t
 		});
-		env2.repo.appendAttempt(
+		renv.repo.appendAttempt(
 			attempt({ sessionId, itemId: 'al-annual', ruleKeys: ['L2#conv-al'], rating: 'good' })
 		);
 		t += DAY_MS;
-		env2.repo.appendAttempt(
+		renv.repo.appendAttempt(
 			attempt({ sessionId, itemId: 'mente-lento', ruleKeys: ['L3#conv-mente'], rating: 'good' })
 		);
-		return env2;
-	}
+	});
+	afterEach(() => renv.cleanup());
 
-	it('rebuild only rewrites rule_state; exposure/sessions untouched; swap changes due', () => {
-		const env2 = seed();
-		try {
-			const liveFsrs = env2.repo.ruleStates('u1');
-			const expBefore = env2.repo.itemExposures('u1');
-			const sessBefore = env2.repo.sessions('u1');
+	it('swap FSRS->SM-2 changes every rule’s due but leaves mastery/coverage/sets identical', () => {
+		const liveFsrs = renv.repo.ruleStates('u1');
+		const expBefore = renv.repo.itemExposures('u1');
+		const sessBefore = renv.repo.sessions('u1');
 
-			env2.repo.rebuild('u1', { scheduler: sm2 });
-			const afterSm2 = env2.repo.ruleStates('u1');
+		renv.repo.rebuild('u1', { scheduler: sm2 });
+		const afterSm2 = renv.repo.ruleStates('u1');
 
-			expect(afterSm2.map((r) => r.ruleKey).sort()).toEqual(liveFsrs.map((r) => r.ruleKey).sort());
-			expect(
-				afterSm2.some((r) => r.due !== liveFsrs.find((l) => l.ruleKey === r.ruleKey)!.due)
-			).toBe(true);
-			expect(env2.repo.itemExposures('u1')).toEqual(expBefore);
-			expect(env2.repo.sessions('u1')).toEqual(sessBefore);
-		} finally {
-			env2.cleanup();
+		expect(afterSm2.map((r) => r.ruleKey).sort()).toEqual(liveFsrs.map((r) => r.ruleKey).sort());
+		for (const r of afterSm2) {
+			const live = liveFsrs.find((l) => l.ruleKey === r.ruleKey)!;
+			expect(r.due).not.toBe(live.due); // .every row's due differs (FSRS ~+3d vs SM-2 +1d)
+			expect(r.mastery).toBe(live.mastery); // scheduler-independent
+			expect(r.coverage).toBe(live.coverage);
+			expect(r.seenInstruments).toEqual(live.seenInstruments);
+			expect(r.successDays).toEqual(live.successDays);
 		}
+		expect(renv.repo.itemExposures('u1')).toEqual(expBefore); // untouched
+		expect(renv.repo.sessions('u1')).toEqual(sessBefore); // untouched
 	});
 
 	it('rebuild through the same scheduler is idempotent (== live incremental projection)', () => {
-		const env2 = seed();
-		try {
-			const liveFsrs = env2.repo.ruleStates('u1');
-			env2.repo.rebuild('u1', { scheduler: sm2 }); // perturb
-			env2.repo.rebuild('u1', { scheduler: fsrs }); // replay back
-			expect(env2.repo.ruleStates('u1')).toEqual(liveFsrs);
-		} finally {
-			env2.cleanup();
-		}
+		const liveFsrs = renv.repo.ruleStates('u1');
+		renv.repo.rebuild('u1', { scheduler: sm2 }); // perturb
+		renv.repo.rebuild('u1', { scheduler: fsrsScheduler }); // replay back
+		expect(renv.repo.ruleStates('u1')).toEqual(liveFsrs);
+	});
+
+	it('rebuild with a keyRemap merges renamed rules (coverage = union)', () => {
+		// Rename L3#conv-mente -> L2#conv-al: the two rules collapse into one merged row.
+		renv.repo.rebuild('u1', {
+			scheduler: fsrsScheduler,
+			keyRemap: (k) => (k === 'L3#conv-mente' ? 'L2#conv-al' : k)
+		});
+		const rs = renv.repo.ruleStates('u1');
+		expect(rs).toHaveLength(1);
+		expect(rs[0].ruleKey).toBe('L2#conv-al');
+		expect(rs[0].coverage).toBe(2); // union of al-annual + mente-lento instruments
 	});
 });
 
-describe('C.2b FSRS same-day guard + fold parity through the real write path', () => {
-	const fsrs = sameDayGuard(fsrsCore);
-
-	it('same-day drills collapse to one worst-of-day tick; exposure still counts every rep', () => {
-		const env2 = createTestDb(clock, fsrs);
+describe('C.2c divergence + fold parity through the real write path', () => {
+	it('same-day drills: due collapses to one tick, but mastery eats every rep (coverage climbs)', () => {
+		const env2 = createTestDb(clock, fsrsScheduler);
 		try {
 			const { sessionId } = env2.repo.startSession({
 				userId: 'u1',
@@ -323,7 +329,7 @@ describe('C.2b FSRS same-day guard + fold parity through the real write path', (
 				targetAttempts: 10,
 				at: t
 			});
-			// Rule R drilled 3x same day: good, again, good -> worst = again.
+			// Rule R, 3 DISTINCT instruments same day: good, again, good -> worst = again (one tick).
 			env2.repo.appendAttempt(
 				attempt({ sessionId, itemId: 'al-annual', ruleKeys: ['R'], rating: 'good' })
 			);
@@ -333,7 +339,7 @@ describe('C.2b FSRS same-day guard + fold parity through the real write path', (
 			env2.repo.appendAttempt(
 				attempt({ sessionId, itemId: 'al-legal', ruleKeys: ['R'], rating: 'good' })
 			);
-			// Rule S drilled once same day with 'again' — the day's worst for R.
+			// Rule S once same day with 'again' — the day's worst for R.
 			env2.repo.appendAttempt(
 				attempt({ sessionId, itemId: 'al-total', ruleKeys: ['S'], rating: 'again' })
 			);
@@ -341,14 +347,17 @@ describe('C.2b FSRS same-day guard + fold parity through the real write path', (
 			const rs = env2.repo.ruleStates('u1');
 			const R = rs.find((r) => r.ruleKey === 'R')!;
 			const S = rs.find((r) => r.ruleKey === 'S')!;
-			expect(R.due).toBe(S.due); // R's 3 same-day attempts collapsed to a single 'again' tick == S
+			expect(R.due).toBe(S.due); // timing: R's 3 same-day attempts collapsed to a single 'again' tick == S
+			expect(R.coverage).toBe(3); // mastery: ate all 3 distinct instruments
+			expect(S.coverage).toBe(1);
+			expect(R.seenInstruments).toHaveLength(3);
 		} finally {
 			env2.cleanup();
 		}
 	});
 
-	it('fold reproduces the incremental FSRS projection (divergence guard under the real scheduler)', () => {
-		const env2 = createTestDb(clock, fsrs);
+	it('fold reproduces the incremental FSRS projection incl. mastery columns', () => {
+		const env2 = createTestDb(clock, fsrsScheduler);
 		try {
 			const { sessionId } = env2.repo.startSession({
 				userId: 'u1',
@@ -367,7 +376,7 @@ describe('C.2b FSRS same-day guard + fold parity through the real write path', (
 				attempt({ sessionId, itemId: 'mente-lento', ruleKeys: ['L3#conv-mente'], rating: 'good' })
 			);
 
-			const state = fold(env2.repo.events('u1').map(rowToEvent), { scheduler: fsrs });
+			const state = fold(env2.repo.events('u1').map(rowToEvent), { scheduler: fsrsScheduler });
 			const byRule = (a: { ruleKey: string }, b: { ruleKey: string }) =>
 				a.ruleKey.localeCompare(b.ruleKey);
 			expect([...state.ruleStates].sort(byRule)).toEqual(
