@@ -14,6 +14,9 @@
     "build": "tsc -p tsconfig.build.json",
     "lint": "eslint ."
   },
+  "dependencies": {
+    "ts-fsrs": "5.4.1"
+  },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "eslint": "^10.4.1",
