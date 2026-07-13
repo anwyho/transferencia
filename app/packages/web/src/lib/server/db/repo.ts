@@ -1,6 +1,8 @@
 import { and, asc, eq, lte, sql } from 'drizzle-orm';
 import {
 	BOTH_DIRECTION,
+	fold,
+	rowToEvent,
 	type AttemptInput,
 	type Clock,
 	type ItemExposureRow,
@@ -138,7 +140,7 @@ export class DrizzleReviewRepository implements ReviewRepository {
 
 			tx.update(sessions)
 				.set({ realizedCount: sql`${sessions.realizedCount} + 1` })
-				.where(eq(sessions.id, i.sessionId))
+				.where(and(eq(sessions.userId, i.userId), eq(sessions.id, i.sessionId)))
 				.run();
 		});
 	}
@@ -212,5 +214,27 @@ export class DrizzleReviewRepository implements ReviewRepository {
 			.where(eq(itemExposure.userId, userId))
 			.orderBy(asc(itemExposure.itemId))
 			.all();
+	}
+
+	rebuild(
+		userId: string,
+		opts: { scheduler: Scheduler; keyRemap?: (ruleKey: string) => string }
+	): void {
+		const state = fold(this.events(userId).map(rowToEvent), opts);
+		this.db.transaction((tx) => {
+			tx.delete(ruleState).where(eq(ruleState.userId, userId)).run();
+			for (const rs of state.ruleStates) {
+				tx.insert(ruleState)
+					.values({
+						userId: rs.userId,
+						ruleKey: rs.ruleKey,
+						direction: rs.direction,
+						blob: rs.blob,
+						due: rs.due,
+						firstExposedAt: rs.firstExposedAt
+					})
+					.run();
+			}
+		});
 	}
 }

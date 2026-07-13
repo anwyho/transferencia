@@ -2,7 +2,10 @@ import { afterEach, beforeEach, describe, expect, it } from 'vitest';
 import {
 	DAY_MS,
 	fold,
+	fsrsCore,
 	rowToEvent,
+	sameDayGuard,
+	sm2Core,
 	trivialScheduler,
 	type AttemptInput,
 	type Clock
@@ -249,5 +252,61 @@ describe('C.2a rebuild proof — fold reproduces the incremental projection', ()
 
 		const u1 = fold(env.repo.events('u1').map(rowToEvent), { scheduler: trivialScheduler });
 		expect(u1.ruleStates.map((r) => r.ruleKey)).toEqual(['L2#conv-al']);
+	});
+});
+
+describe('C.2b rebuild — re-fold rule_state (replay, not migration)', () => {
+	const fsrs = sameDayGuard(fsrsCore);
+	const sm2 = sameDayGuard(sm2Core);
+
+	function seed() {
+		const env2 = createTestDb(clock, fsrs);
+		const { sessionId } = env2.repo.startSession({
+			userId: 'u1',
+			mode: 'practice',
+			targetAttempts: 10,
+			at: t
+		});
+		env2.repo.appendAttempt(
+			attempt({ sessionId, itemId: 'al-annual', ruleKeys: ['L2#conv-al'], rating: 'good' })
+		);
+		t += DAY_MS;
+		env2.repo.appendAttempt(
+			attempt({ sessionId, itemId: 'mente-lento', ruleKeys: ['L3#conv-mente'], rating: 'good' })
+		);
+		return env2;
+	}
+
+	it('rebuild only rewrites rule_state; exposure/sessions untouched; swap changes due', () => {
+		const env2 = seed();
+		try {
+			const liveFsrs = env2.repo.ruleStates('u1');
+			const expBefore = env2.repo.itemExposures('u1');
+			const sessBefore = env2.repo.sessions('u1');
+
+			env2.repo.rebuild('u1', { scheduler: sm2 });
+			const afterSm2 = env2.repo.ruleStates('u1');
+
+			expect(afterSm2.map((r) => r.ruleKey).sort()).toEqual(liveFsrs.map((r) => r.ruleKey).sort());
+			expect(
+				afterSm2.some((r) => r.due !== liveFsrs.find((l) => l.ruleKey === r.ruleKey)!.due)
+			).toBe(true);
+			expect(env2.repo.itemExposures('u1')).toEqual(expBefore);
+			expect(env2.repo.sessions('u1')).toEqual(sessBefore);
+		} finally {
+			env2.cleanup();
+		}
+	});
+
+	it('rebuild through the same scheduler is idempotent (== live incremental projection)', () => {
+		const env2 = seed();
+		try {
+			const liveFsrs = env2.repo.ruleStates('u1');
+			env2.repo.rebuild('u1', { scheduler: sm2 }); // perturb
+			env2.repo.rebuild('u1', { scheduler: fsrs }); // replay back
+			expect(env2.repo.ruleStates('u1')).toEqual(liveFsrs);
+		} finally {
+			env2.cleanup();
+		}
 	});
 });

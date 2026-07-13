@@ -1,5 +1,5 @@
 import type { Direction, Grade, SrsRating } from '../exercise/types';
-import type { SchedulerState } from './scheduler';
+import type { Scheduler, SchedulerState } from './scheduler';
 import type { ReviewLogRow } from './review-log';
 
 /**
@@ -105,4 +105,6 @@ export interface ReviewRepository {
   sessions(userId: string): SessionRow[];
   /** All item exposures for the user, ordered by item_id — for the rebuild comparison. */
   itemExposures(userId: string): ItemExposureRow[];
+  /** Re-fold the log + re-materialize rule_state only (scheduler swap / rename = replay, not migration). */
+  rebuild(userId: string, opts: { scheduler: Scheduler; keyRemap?: (ruleKey: string) => string }): void;
 }
