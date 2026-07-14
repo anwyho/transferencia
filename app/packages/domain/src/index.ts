@@ -34,3 +34,6 @@ export * from './scheduler/index';
 
 // Slice C.2c: advisory mastery meter (EWMA + coverage + spacing) — a fold of the log, never `due`.
 export * from './mastery/index';
+
+// Slice D.1: the 2-stage SessionPlanner (consumes the meter advisorily) + seeded PRNG.
+export * from './planner/index';
