@@ -118,6 +118,11 @@ export interface ReviewRepository {
   currentLesson(userId: string): number;
   /** All sessions for the user, ordered by id — for the rebuild comparison + future use. */
   sessions(userId: string): SessionRow[];
+  /**
+   * The user's current (latest) practice session, or undefined. D.1 has no session-ending; this
+   * reuses the latest so the planner seed is stable across loads.
+   */
+  currentSession(userId: string): SessionRow | undefined;
   /** All item exposures for the user, ordered by item_id — for the rebuild comparison. */
   itemExposures(userId: string): ItemExposureRow[];
   /**

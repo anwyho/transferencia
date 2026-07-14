@@ -1,4 +1,4 @@
-import { and, asc, eq, lte, sql } from 'drizzle-orm';
+import { and, asc, desc, eq, lte, sql } from 'drizzle-orm';
 import {
 	applyMastery,
 	BOTH_DIRECTION,
@@ -227,6 +227,18 @@ export class DrizzleReviewRepository implements ReviewRepository {
 			.where(eq(sessions.userId, userId))
 			.orderBy(asc(sessions.id))
 			.all();
+	}
+
+	/** The user's latest practice session (highest id), or undefined — D.1 reuses it for a stable
+	 *  planner seed across loads. Shapes the row exactly like `sessions()` (same select). */
+	currentSession(userId: string): SessionRow | undefined {
+		return this.db
+			.select()
+			.from(sessions)
+			.where(and(eq(sessions.userId, userId), eq(sessions.mode, 'practice')))
+			.orderBy(desc(sessions.id))
+			.limit(1)
+			.get();
 	}
 
 	itemExposures(userId: string): ItemExposureRow[] {

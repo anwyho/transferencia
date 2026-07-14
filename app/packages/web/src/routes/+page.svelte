@@ -28,7 +28,7 @@
 			</div>
 		{/if}
 
-		<form method="POST" data-testid="answer-form">
+		<form method="POST" action="?/submit" data-testid="answer-form">
 			<input type="hidden" name="sessionId" value={data.sessionId} />
 			<input type="hidden" name="itemId" value={data.itemId} />
 			<input type="hidden" name="direction" value={data.direction} />
@@ -46,6 +46,13 @@
 				/>
 			</label>
 			<button type="submit" data-testid="submit">Submit</button>
+		</form>
+
+		<form method="POST" action={data.starred ? '?/unstar' : '?/star'} data-testid="star-form">
+			<input type="hidden" name="itemId" value={data.itemId} />
+			<button type="submit" data-testid="star-toggle" aria-pressed={data.starred}>
+				{data.starred ? '★ starred' : '☆ star'}
+			</button>
 		</form>
 	{:else}
 		<p data-testid="no-item">Nothing to practice — dial up a lesson in the inspector.</p>

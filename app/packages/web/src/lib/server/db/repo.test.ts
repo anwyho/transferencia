@@ -201,6 +201,26 @@ describe('DrizzleReviewRepository (C.1 integration)', () => {
 		expect(env.repo.itemExposures('u1').map((e) => e.itemId)).toEqual(['al-annual']);
 	});
 
+	it('currentSession is undefined with no sessions, then the latest, and is per-user', () => {
+		expect(env.repo.currentSession('u1')).toBeUndefined();
+
+		const s1 = env.repo.startSession({ userId: 'u1', mode: 'practice', targetAttempts: 10, at: t });
+		const s2 = env.repo.startSession({
+			userId: 'u1',
+			mode: 'practice',
+			targetAttempts: 10,
+			at: t + 1
+		});
+		const cur = env.repo.currentSession('u1');
+		expect(cur?.id).toBe(s2.sessionId); // the LATEST (highest id), not s1
+		expect(cur!.id).toBeGreaterThan(s1.sessionId);
+
+		env.db.insert(users).values({ id: 'u2' }).run();
+		const s3 = env.repo.startSession({ userId: 'u2', mode: 'practice', targetAttempts: 10, at: t });
+		expect(env.repo.currentSession('u1')?.id).toBe(s2.sessionId); // u2's session never leaks
+		expect(env.repo.currentSession('u2')?.id).toBe(s3.sessionId);
+	});
+
 	it('star/unstar writes the event and folds identically to item_exposure', () => {
 		env.repo.star({ userId: 'u1', itemId: 'al-annual', at: t });
 		expect(env.repo.itemExposure('u1', 'al-annual')?.starred).toBe(true);
