@@ -1,8 +1,16 @@
 import type { Actions, PageServerLoad } from './$types';
-import { eligibleItems, eligibleRules, masteryReady } from '@lt/domain';
+import {
+	eligibleItems,
+	eligibleRules,
+	masteryReady,
+	planSession,
+	PLANNER_KNOBS,
+	seededRng
+} from '@lt/domain';
 import { contentStore, maxLesson } from '$lib/server/content-loader';
 import { getRepo } from '$lib/server/db';
 import { clockNow } from '$lib/server/clock';
+import { buildPlannerCtx } from '$lib/server/planner-ctx';
 
 export const load: PageServerLoad = ({ locals }) => {
 	const store = contentStore();
@@ -37,7 +45,17 @@ export const load: PageServerLoad = ({ locals }) => {
 				instruments: r.seenInstruments,
 				successDays: r.successDays
 			})
-		}))
+		})),
+		// Deterministic planner preview (fixed seed) — the planned session at the current state.
+		plannedQueue: planSession(
+			buildPlannerCtx(store, repo, locals.user.id, now, seededRng(1)),
+			PLANNER_KNOBS.targetAttempts
+		).map((inst) => ({ ruleKey: inst.ruleKey, itemId: inst.itemId, direction: inst.direction })),
+		// Starred items (deterministic star-persistence surface for e2e + observability).
+		starredItems: repo
+			.itemExposures(locals.user.id)
+			.filter((e) => e.starred)
+			.map((e) => e.itemId)
 	};
 };
 

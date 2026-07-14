@@ -61,4 +61,29 @@
 			{/each}
 		</ol>
 	</section>
+
+	<section data-testid="planned-queue" aria-label="planned session">
+		<p data-testid="planned-note">
+			Deterministic preview (fixed seed) — the live session's picks vary by session.
+		</p>
+		<p>planned attempts: <span data-testid="planned-count">{data.plannedQueue.length}</span></p>
+		<ol data-testid="planned-list">
+			{#each data.plannedQueue as p, i (i)}
+				<li data-testid="planned-item" data-rule-key={p.ruleKey} data-item-id={p.itemId}>
+					<span data-testid="plan-rule">{p.ruleKey}</span>
+					<span data-testid="plan-item">{p.itemId}</span>
+					<span data-testid="plan-direction">{p.direction}</span>
+				</li>
+			{/each}
+		</ol>
+	</section>
+
+	<section data-testid="starred" aria-label="starred items">
+		<p>starred: <span data-testid="starred-count">{data.starredItems.length}</span></p>
+		<ul data-testid="starred-list">
+			{#each data.starredItems as id (id)}
+				<li data-testid="starred-item" data-item-id={id}>{id}</li>
+			{/each}
+		</ul>
+	</section>
 </main>

@@ -40,7 +40,9 @@ test('dialing up grows the eligible queue L2 -> L5', async ({ page }) => {
 test('dialing down re-hides higher-lesson content (reversible)', async ({ page }) => {
 	await setLesson(page, 5);
 	await expect(page.getByTestId('queue-count')).toHaveText('32');
-	await expect(page.locator('[data-item-id="cion-opinion"]')).toBeVisible();
+	await expect(
+		page.locator('[data-testid="queue-item"][data-item-id="cion-opinion"]')
+	).toBeVisible();
 
 	await page.getByTestId('lesson-down').click(); // 4
 	await expect(page.getByTestId('queue-count')).toHaveText('28');
@@ -49,8 +51,10 @@ test('dialing down re-hides higher-lesson content (reversible)', async ({ page }
 	await page.getByTestId('lesson-down').click(); // 2
 	await expect(page.getByTestId('current-lesson')).toHaveText('2');
 	await expect(page.getByTestId('queue-count')).toHaveText('6');
-	await expect(page.locator('[data-item-id="al-normal"]')).toBeVisible();
-	await expect(page.locator('[data-item-id="cion-opinion"]')).toHaveCount(0);
+	await expect(page.locator('[data-testid="queue-item"][data-item-id="al-normal"]')).toBeVisible();
+	await expect(page.locator('[data-testid="queue-item"][data-item-id="cion-opinion"]')).toHaveCount(
+		0
+	);
 });
 
 test('lesson dial persists across reload (DB-backed per-user, C.2a)', async ({ page }) => {
