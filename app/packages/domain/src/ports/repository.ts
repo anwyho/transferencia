@@ -89,6 +89,13 @@ export interface SetLessonInput {
   at: number;
 }
 
+/** Payload for star/unstar (item-level). `at` from the caller's Clock. */
+export interface StarInput {
+  userId: string;
+  itemId: string;
+  at: number;
+}
+
 /**
  * Persistence seam (design v2). Types-only in the domain; the Drizzle impl lives in
  * @lt/web server. Every method takes/filters user_id. One impl now (SQLite);
@@ -119,4 +126,7 @@ export interface ReviewRepository {
    * import cycle — ports is a leaf the fold depends on, never the reverse.
    */
   rebuild(userId: string, opts: { scheduler: Scheduler; keyRemap?: (ruleKey: string) => string }): void;
+  /** Star/unstar an item: append the event + upsert item_exposure.starred (exposure-only, no due). */
+  star(i: StarInput): void;
+  unstar(i: StarInput): void;
 }

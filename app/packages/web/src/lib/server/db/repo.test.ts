@@ -200,6 +200,44 @@ describe('DrizzleReviewRepository (C.1 integration)', () => {
 		});
 		expect(env.repo.itemExposures('u1').map((e) => e.itemId)).toEqual(['al-annual']);
 	});
+
+	it('star/unstar writes the event and folds identically to item_exposure', () => {
+		env.repo.star({ userId: 'u1', itemId: 'al-annual', at: t });
+		expect(env.repo.itemExposure('u1', 'al-annual')?.starred).toBe(true);
+		expect(env.repo.events('u1').find((e) => e.kind === 'star')?.itemId).toBe('al-annual');
+		const st = fold(env.repo.events('u1').map(rowToEvent), { scheduler: trivialScheduler });
+		expect(st.itemExposures).toEqual(env.repo.itemExposures('u1'));
+
+		env.repo.unstar({ userId: 'u1', itemId: 'al-annual', at: t + 1 });
+		expect(env.repo.itemExposure('u1', 'al-annual')?.starred).toBe(false);
+		const st2 = fold(env.repo.events('u1').map(rowToEvent), { scheduler: trivialScheduler });
+		expect(st2.itemExposures).toEqual(env.repo.itemExposures('u1'));
+	});
+
+	it('star on a drilled item flips only starred — never clobbers timesSeen/lastSeenAt/lastRating/known', () => {
+		const { sessionId } = env.repo.startSession({
+			userId: 'u1',
+			mode: 'practice',
+			targetAttempts: 10,
+			at: t
+		});
+		env.repo.appendAttempt(attempt({ sessionId, itemId: 'al-annual', rating: 'good' }));
+		const before = env.repo.itemExposure('u1', 'al-annual')!;
+		expect(before.timesSeen).toBe(1); // real exposure exists before the star
+
+		t += 5000; // star at a LATER time than the attempt — proves lastSeenAt isn't bumped
+		env.repo.star({ userId: 'u1', itemId: 'al-annual', at: t });
+
+		const after = env.repo.itemExposure('u1', 'al-annual')!;
+		expect(after.timesSeen).toBe(before.timesSeen); // not reset to 0
+		expect(after.lastSeenAt).toBe(before.lastSeenAt); // not bumped to the star's `at`
+		expect(after.lastRating).toBe(before.lastRating);
+		expect(after.known).toBe(before.known);
+		expect(after.starred).toBe(true);
+
+		const st = fold(env.repo.events('u1').map(rowToEvent), { scheduler: trivialScheduler });
+		expect(st.itemExposures).toEqual(env.repo.itemExposures('u1'));
+	});
 });
 
 describe('C.2a rebuild proof — fold reproduces the incremental projection', () => {

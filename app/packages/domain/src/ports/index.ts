@@ -22,5 +22,6 @@ export type {
   SessionEndInput,
   SessionRow,
   SessionStartInput,
-  SetLessonInput
+  SetLessonInput,
+  StarInput
 } from './repository';

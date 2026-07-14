@@ -16,7 +16,8 @@ import {
 	type SessionEndInput,
 	type SessionRow,
 	type SessionStartInput,
-	type SetLessonInput
+	type SetLessonInput,
+	type StarInput
 } from '@lt/domain';
 import type { Db } from './index';
 import { itemExposure, reviewLog, ruleState, sessions, users } from './schema';
@@ -268,6 +269,40 @@ export class DrizzleReviewRepository implements ReviewRepository {
 					})
 					.run();
 			}
+		});
+	}
+
+	star(i: StarInput): void {
+		this.setStarred(i, 'star');
+	}
+
+	unstar(i: StarInput): void {
+		this.setStarred(i, 'unstar');
+	}
+
+	/** One txn: append the star/unstar event + upsert item_exposure.starred. Create-if-missing uses
+	 *  literal defaults matching the fold's exposureFor (timesSeen 0, lastSeenAt = at, lastRating null,
+	 *  known false) so the write path folds identically. On an existing row onConflictDoUpdate flips
+	 *  only `starred`; SQLite preserves timesSeen/lastSeenAt/lastRating/known. */
+	private setStarred(i: StarInput, kind: 'star' | 'unstar'): void {
+		const starred = kind === 'star';
+		this.db.transaction((tx) => {
+			tx.insert(reviewLog).values({ userId: i.userId, at: i.at, kind, itemId: i.itemId }).run();
+			tx.insert(itemExposure)
+				.values({
+					userId: i.userId,
+					itemId: i.itemId,
+					timesSeen: 0,
+					lastSeenAt: i.at,
+					lastRating: null,
+					known: false,
+					starred
+				})
+				.onConflictDoUpdate({
+					target: [itemExposure.userId, itemExposure.itemId],
+					set: { starred }
+				})
+				.run();
 		});
 	}
 }
