@@ -8,6 +8,11 @@ import tseslint from 'typescript-eslint';
  * not import node built-ins, persistence drivers, or Svelte(Kit) modules, so the
  * same code runs client-side in the offline PWA (P3) without a rewrite. A leaked
  * `node:fs` / `better-sqlite3` / `$app/*` import fails lint = fails CI.
+ *
+ * The companion rule is determinism: the domain must not read ambient
+ * nondeterminism (`Math.random`, `Date.now`, `performance.now`) — callers inject a
+ * seeded rng / clock instead, so the fold/replay/distribution proofs stay
+ * reproducible. `no-restricted-properties` (below) gives that invariant teeth.
  */
 export default tseslint.config(
   { ignores: ['dist/'] },
@@ -38,6 +43,27 @@ export default tseslint.config(
                 'domain must not depend on Svelte(Kit) — keep UI/framework out of the domain (report M9).',
             },
           ],
+        },
+      ],
+      'no-restricted-properties': [
+        'error',
+        {
+          object: 'Math',
+          property: 'random',
+          message:
+            '@lt/domain must be deterministic + isomorphic — inject a seeded rng / clock instead (M9 determinism).',
+        },
+        {
+          object: 'Date',
+          property: 'now',
+          message:
+            '@lt/domain must be deterministic + isomorphic — inject a seeded rng / clock instead (M9 determinism).',
+        },
+        {
+          object: 'performance',
+          property: 'now',
+          message:
+            '@lt/domain must be deterministic + isomorphic — inject a seeded rng / clock instead (M9 determinism).',
         },
       ],
     },
