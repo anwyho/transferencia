@@ -16,6 +16,20 @@ import { buildPlannerCtx } from './planner-ctx';
 import type { DrizzleReviewRepository } from './db/repo';
 
 /**
+ * Predicate: the item exists in the store AND is visible at `currentLesson`. Shared by
+ * `computePhase` (the route) and the inspector's re-drill panel so their eligibility can't drift.
+ */
+export function isItemEligible(
+	store: ItemStore,
+	currentLesson: number
+): (itemId: string) => boolean {
+	return (itemId) => {
+		const it = store.get(itemId);
+		return !!it && isVisible(it, currentLesson);
+	};
+}
+
+/**
  * Map this session's attempt log rows to the pure re-drill/summary projection via the domain's
  * `rowToEvent` narrowing, which THROWS on a null in a kind-required column — surfacing corruption
  * loudly instead of folding a type-lying value into the completion decision. (The population
@@ -47,10 +61,7 @@ export function computePhase(
 	const currentLesson = repo.currentLesson(userId);
 	const head =
 		planSession(buildPlannerCtx(store, repo, userId, now, seededRng(open.id)), 1)[0] ?? null;
-	const isEligible = (itemId: string) => {
-		const it = store.get(itemId);
-		return !!it && isVisible(it, currentLesson);
-	};
+	const isEligible = isItemEligible(store, currentLesson);
 	const attempts = repo.sessionAttempts(userId, open.id);
 	const redrill = redrillQueue(toRedrillAttempts(attempts), isEligible, {
 		redrillMaxMissesPerInstrument: PLANNER_KNOBS.redrillMaxMissesPerInstrument

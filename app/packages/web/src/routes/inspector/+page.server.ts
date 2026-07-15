@@ -2,7 +2,6 @@ import type { Actions, PageServerLoad } from './$types';
 import {
 	eligibleItems,
 	eligibleRules,
-	isVisible,
 	masteryReady,
 	planSession,
 	PLANNER_KNOBS,
@@ -13,7 +12,7 @@ import { contentStore, maxLesson } from '$lib/server/content-loader';
 import { getRepo } from '$lib/server/db';
 import { clockNow } from '$lib/server/clock';
 import { buildPlannerCtx } from '$lib/server/planner-ctx';
-import { toRedrillAttempts } from '$lib/server/session-ctx';
+import { isItemEligible, toRedrillAttempts } from '$lib/server/session-ctx';
 
 export const load: PageServerLoad = ({ locals }) => {
 	const store = contentStore();
@@ -27,13 +26,12 @@ export const load: PageServerLoad = ({ locals }) => {
 		.sessions(locals.user.id)
 		.filter((s) => s.mode === 'practice')
 		.at(-1);
+	// For an ENDED session this queue is historical/observability only — those misses resurface via
+	// the next session's normal due/weak flow, they are not re-drilled inside the closed session.
 	const sessionRedrill = lastSession
 		? redrillQueue(
 				toRedrillAttempts(repo.sessionAttempts(locals.user.id, lastSession.id)),
-				(itemId) => {
-					const it = store.get(itemId);
-					return !!it && isVisible(it, currentLesson);
-				},
+				isItemEligible(store, currentLesson),
 				{ redrillMaxMissesPerInstrument: PLANNER_KNOBS.redrillMaxMissesPerInstrument }
 			).map((i) => ({ itemId: i.itemId, direction: i.direction }))
 		: [];
