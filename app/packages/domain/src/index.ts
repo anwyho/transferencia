@@ -37,3 +37,6 @@ export * from './mastery/index';
 
 // Slice D.1: the 2-stage SessionPlanner (consumes the meter advisorily) + seeded PRNG.
 export * from './planner/index';
+
+// Slice D.2: bounded-session lifecycle — pure phase machine + stateless re-drill + summary.
+export * from './session/index';
