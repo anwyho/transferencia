@@ -111,7 +111,7 @@ export interface RedrillAttempt {
 }
 
 export interface RedrillKnobs {
-  redrillMaxAttemptsPerInstrument: number; // bounds the tail; a stubborn miss re-drills at most (cap-1) times
+  redrillMaxMissesPerInstrument: number; // bounds the tail; a stubborn miss re-drills at most (cap-1) times
 }
 
 /**
@@ -126,7 +126,7 @@ export function redrillQueue(
 ```
 
 - **Miss** = an attempt rated `again` — the only "incorrect" rating (a hint-revealed-but-correct answer caps at `hard`, which is **not** a miss).
-- Group attempts by instrument identity `(itemId, exerciseTypeKey, paramKey, direction)`. A group is an **unresolved-miss candidate** iff: its **latest** attempt this session is `again`, **and** `group.length < redrillMaxAttemptsPerInstrument` (bounds the tail — an instrument re-drills at most `cap - 1` times, then waits for a future session's normal due/weak flow), **and** `isEligible(itemId)`.
+- Group attempts by instrument identity `(itemId, exerciseTypeKey, paramKey, direction)`. A group is an **unresolved-miss candidate** iff: its **latest** attempt this session is `again`, **and** its **miss-count** this session `< redrillMaxMissesPerInstrument` (bounds the tail — counts **misses (`again`), not total attempts**, so a correct rep never burns the budget; a stubborn miss re-drills at most `cap - 1` times, then waits for a future session's normal due/weak flow), **and** `isEligible(itemId)`.
 - **Ordered earliest-miss-first** (by the `at` of the group's first `again`) — deterministic; re-drill is a fixed set, not a sampled one, so it needs no RNG.
 - `Instrument.ruleKey` on a re-drill pick is set to the missed attempt's first logged `ruleKey` (**observability only**; the re-drill submit re-credits the item's full tested `ruleKeys` in the route, exactly as a normal attempt).
 - **M3 firewall:** a same-day re-drill is reinforcement-only (no second FSRS tick) — already enforced by the same-day-guard `Scheduler` wrapper (C.2b). Re-drill still updates mastery + exposure. D.2 adds nothing here.
@@ -164,7 +164,7 @@ export function sessionSummary(attempts: readonly RedrillAttempt[]): {
 `PLANNER_KNOBS` gains one **placeholder, Monte-Carlo-owned** knob; `targetAttempts` (already present, =10) becomes the *enforced* budget:
 ```ts
 // added to PlannerKnobs + PLANNER_KNOBS — Monte-Carlo-owned placeholder, NOT tuned
-redrillMaxAttemptsPerInstrument: 2, // Monte-Carlo-owned — a missed instrument re-drills at most once
+redrillMaxMissesPerInstrument: 2, // Monte-Carlo-owned — a missed instrument re-drills at most once
 ```
 Kept in `PLANNER_KNOBS` alongside `targetAttempts` (the existing session-budget knob) rather than a new config surface. `redrillQueue` reads only the fields it needs (`RedrillKnobs`), so its unit tests inject a focused knobs object.
 
@@ -185,7 +185,7 @@ Kept in `PLANNER_KNOBS` alongside `targetAttempts` (the existing session-budget 
 - **`@lt/domain` stays isomorphic + deterministic** (M9 lint; `sessionPhase`/`redrillQueue`/`sessionSummary` pure; no `Date.now`/`Math.random`; time/rng injected at the route).
 - **Every per-user read filters `user_id`** — including the new `sessionAttempts`.
 - **No plan / session-plan persistence, no process-global** — phase + re-drill are re-derived from persisted state each load.
-- **MC-owned values are placeholders** — `redrillMaxAttemptsPerInstrument` marked, not tuned.
+- **MC-owned values are placeholders** — `redrillMaxMissesPerInstrument` marked, not tuned.
 
 ## Tests
 - **Domain unit** (`phase.test.ts`, `redrill.test.ts`, `summary.test.ts`): every `sessionPhase` transition (main; head-null-before-budget → redrill/complete; budget-spent → redrill vs complete); `redrillQueue` miss-detection, resolution-drops-a-group, cap-bounding (stubborn miss drops), eligibility filter, earliest-miss ordering, determinism; `sessionSummary` counts (correct = non-`again`, redrilled = served-more-than-once).
@@ -203,3 +203,10 @@ Kept in `PLANNER_KNOBS` alongside `targetAttempts` (the existing session-budget 
 - The lifecycle's whole risk is the **load/submit agreement** on completion; making it one pure `sessionPhase` shared by both (rather than duplicated route conditionals) is what keeps that correct and exhaustively testable — the same discipline that made the D.1 planner a pure `planSession`.
 - Re-drill deliberately re-derives from the log rather than holding an in-memory queue: it inherits the log's ground-truth (a mid-session reload / dial-drop is handled for free) and keeps the no-plan-persistence property that lets the shared e2e server stay stateless.
 - Moving session creation into an explicit action is the quiet structural win: it turns "sessions never end + a first-load race + GET-mutation" into "sessions are bounded in the ground-truth log + no race + pure load," for the cost of one cold-start click.
+
+## Shipped refinements (adversarial review during implementation)
+The shipped code refines a few of the sketches above; these were adopted via review and are authoritative over the earlier prose:
+- **Tail bound counts misses, not attempts** (with Anthony, mid-build). The knob is `redrillMaxMissesPerInstrument` (renamed from `…Attempts…`) and gates on the group's `again`-count, so an instrument answered correctly then later missed in the same session is still re-drilled (a correct rep never burns the budget). `redrillQueue` fails loud on a degenerate cap (non-integer/`<1`) to prevent an unbounded tail, and sorts its input by `at` (order-independent, not trusting caller order).
+- **`RedrillAttempt` / `RedrillKnobs` are `Pick<>` projections** of `AttemptEvent` / `PlannerKnobs` (machine-checked, drift-proof), not hand-rolled interfaces. The web `toRedrillAttempts` maps log rows via the domain's loud `rowToEvent` narrowing (throws on a null in a kind-required column) rather than silent `!` coercions.
+- **`computePhase` uses the LIVE attempt count** (`sessionAttempts(...).length`), not the passed `open.realizedCount` snapshot, so `load` and `submit` cannot diverge on a stale row; it also guards `open.userId === userId`. `submit` resolves the open session server-side and `fail(409)`s on a stale/mismatched form `sessionId` (no silent misattribution).
+- **The inspector panel** sources its session via the latest *practice* session (`sessions(...).filter(mode='practice').at(-1)`), not `currentSession` (unended-only), so it keeps showing the just-ended session for observability.

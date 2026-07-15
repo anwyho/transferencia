@@ -22,6 +22,13 @@
 
 ---
 
+## Implementation deltas (shipped code is authoritative)
+During the build, adversarial review + one Anthony decision refined several literals below. The **shipped code on `d2-session-lifecycle` is authoritative**; the task code blocks are retained as the original drafts. Key deltas:
+- **Re-drill tail bounds by MISSES, not attempts** (Anthony's call): the knob is `redrillMaxMissesPerInstrument` (renamed) and `redrillQueue` gates on the group's `again`-count (`misses >= cap`), not `group.length`. It also fails loud on a degenerate cap and sorts its input by `at` (order-independent).
+- **`RedrillAttempt`/`RedrillKnobs` ship as `Pick<>` projections** of `AttemptEvent`/`PlannerKnobs`; `toRedrillAttempts` narrows via the domain's loud `rowToEvent` (not silent `!`).
+- **`computePhase` uses the live `sessionAttempts(...).length`** (not the `open.realizedCount` snapshot) + guards `open.userId`; `submit` `fail(409)`s on a stale/mismatched form `sessionId`.
+- **The inspector panel** (Task 7) sources its session via the latest *practice* session, not `currentSession` (unended-only), so it shows the just-ended session.
+
 ## File Structure
 
 **Create (domain):**
