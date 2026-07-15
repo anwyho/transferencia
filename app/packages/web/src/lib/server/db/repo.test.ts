@@ -264,13 +264,28 @@ describe('DrizzleReviewRepository (C.1 integration)', () => {
 		expect(env.repo.currentSession('u1')?.id).toBe(s1.sessionId);
 		env.repo.endSession({ userId: 'u1', sessionId: s1.sessionId, at: t + 1 });
 		expect(env.repo.currentSession('u1')).toBeUndefined(); // ended -> no open session
-		const s2 = env.repo.startSession({ userId: 'u1', mode: 'practice', targetAttempts: 10, at: t + 2 });
+		const s2 = env.repo.startSession({
+			userId: 'u1',
+			mode: 'practice',
+			targetAttempts: 10,
+			at: t + 2
+		});
 		expect(env.repo.currentSession('u1')?.id).toBe(s2.sessionId);
 	});
 
-	it('sessionAttempts returns only this session\'s attempts, ordered', () => {
-		const { sessionId } = env.repo.startSession({ userId: 'u1', mode: 'practice', targetAttempts: 10, at: t });
-		const other = env.repo.startSession({ userId: 'u1', mode: 'practice', targetAttempts: 10, at: t + 1 });
+	it("sessionAttempts returns only this session's attempts, ordered", () => {
+		const { sessionId } = env.repo.startSession({
+			userId: 'u1',
+			mode: 'practice',
+			targetAttempts: 10,
+			at: t
+		});
+		const other = env.repo.startSession({
+			userId: 'u1',
+			mode: 'practice',
+			targetAttempts: 10,
+			at: t + 1
+		});
 		env.repo.appendAttempt(attempt({ sessionId, direction: 'en>es' }));
 		env.repo.appendAttempt(attempt({ sessionId: other.sessionId, direction: 'es>en' }));
 		const rows = env.repo.sessionAttempts('u1', sessionId);
@@ -280,7 +295,12 @@ describe('DrizzleReviewRepository (C.1 integration)', () => {
 	});
 
 	it('endSession appends session_end and folds identically (ended + realized_count)', () => {
-		const { sessionId } = env.repo.startSession({ userId: 'u1', mode: 'practice', targetAttempts: 10, at: t });
+		const { sessionId } = env.repo.startSession({
+			userId: 'u1',
+			mode: 'practice',
+			targetAttempts: 10,
+			at: t
+		});
 		env.repo.appendAttempt(attempt({ sessionId }));
 		env.repo.appendAttempt(attempt({ sessionId }));
 		env.repo.endSession({ userId: 'u1', sessionId, at: t + 100 });
