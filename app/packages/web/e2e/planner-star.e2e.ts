@@ -15,6 +15,10 @@ async function setLesson(page: Page, n: number) {
 	await page.getByTestId('set-lesson').click();
 	await expect(page.getByTestId('current-lesson')).toHaveText(String(n));
 }
+async function start(page: Page) {
+	const btn = page.getByTestId('start-session');
+	if (await btn.isVisible()) await btn.click();
+}
 
 test('inspector planned-queue lists a spread of planned instruments (deterministic)', async ({
 	page
@@ -36,6 +40,7 @@ test('starring the practice item shows it in the inspector starred list (persist
 	await reset(page);
 	await setLesson(page, 5);
 	await page.goto('/');
+	await start(page);
 	const itemId = await page.getByTestId('star-form').locator('input[name="itemId"]').inputValue();
 	await page.getByTestId('star-toggle').click();
 	await page.goto('/inspector');

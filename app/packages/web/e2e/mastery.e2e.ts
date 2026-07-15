@@ -18,8 +18,13 @@ async function setLesson(page: Page, n: number) {
 	await page.getByTestId('set-lesson').click();
 	await expect(page.getByTestId('current-lesson')).toHaveText(String(n));
 }
+async function start(page: Page) {
+	const btn = page.getByTestId('start-session');
+	if (await btn.isVisible()) await btn.click();
+}
 async function attempt(page: Page): Promise<string> {
 	await page.goto('/');
+	await start(page);
 	await page.getByTestId('answer-input').fill('anual');
 	await page.getByTestId('submit').click();
 	await expect(page.getByTestId('verdict')).toBeVisible();

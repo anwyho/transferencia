@@ -12,6 +12,9 @@
 	<h1 data-testid="app-title">Language Transfer — practice</h1>
 
 	{#if data.prompt && data.itemId}
+		{#if data.phase === 'redrill'}
+			<p data-testid="redrill-badge" role="status">Reviewing a miss</p>
+		{/if}
 		<section data-testid="prompt">
 			<p data-testid="instruction">{data.prompt.instruction}</p>
 			<p data-testid="given">{data.prompt.given}</p>
@@ -55,7 +58,27 @@
 			</button>
 		</form>
 	{:else}
-		<p data-testid="no-item">Nothing to practice — dial up a lesson in the inspector.</p>
+		<section data-testid="idle">
+			{#if data.summary}
+				<div data-testid="session-summary">
+					<p>Session done.</p>
+					<p>attempts: <span data-testid="summary-attempts">{data.summary.attempts}</span></p>
+					<p>correct: <span data-testid="summary-correct">{data.summary.correct}</span></p>
+					<p>re-drilled: <span data-testid="summary-redrilled">{data.summary.redrilled}</span></p>
+				</div>
+			{/if}
+			{#if data.canStart}
+				<form method="POST" action="?/start" data-testid="start-form">
+					<button type="submit" data-testid="start-session">
+						{data.summary ? 'Start another session' : 'Start practicing'}
+					</button>
+				</form>
+			{:else}
+				<p data-testid="caught-up">
+					All caught up — nothing to practice. Dial up a lesson in the inspector.
+				</p>
+			{/if}
+		</section>
 	{/if}
 
 	{#if form && 'verdict' in form}

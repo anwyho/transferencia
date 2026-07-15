@@ -11,6 +11,10 @@ async function setLesson(page: Page, n: number) {
 	await page.getByTestId('set-lesson').click();
 	await expect(page.getByTestId('current-lesson')).toHaveText(String(n));
 }
+async function start(page: Page) {
+	const btn = page.getByTestId('start-session');
+	if (await btn.isVisible()) await btn.click();
+}
 async function clock(page: Page, body: Record<string, unknown>) {
 	const res = await page.request.post('/__test__/clock', { data: body });
 	expect(res.ok()).toBeTruthy();
@@ -28,6 +32,7 @@ test('an attempt persists, survives reload, and comes due after advancing the cl
 	await setLesson(page, 2);
 
 	await page.goto('/');
+	await start(page);
 	await page.getByTestId('answer-input').fill('anual');
 	await page.getByTestId('submit').click();
 	await expect(page.getByTestId('verdict')).toBeVisible(); // graded (correct or not)
