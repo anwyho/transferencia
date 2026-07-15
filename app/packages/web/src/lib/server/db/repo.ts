@@ -1,4 +1,4 @@
-import { and, asc, desc, eq, lte, sql } from 'drizzle-orm';
+import { and, asc, desc, eq, isNull, lte, sql } from 'drizzle-orm';
 import {
 	applyMastery,
 	BOTH_DIRECTION,
@@ -229,16 +229,36 @@ export class DrizzleReviewRepository implements ReviewRepository {
 			.all();
 	}
 
-	/** The user's latest practice session (highest id), or undefined — D.1 reuses it for a stable
-	 *  planner seed across loads. Shapes the row exactly like `sessions()` (same select). */
+	/** The user's latest UNENDED practice session (highest id among endedAt IS NULL), or undefined —
+	 *  D.2 ends sessions, so there is at most one open session per user. Shapes the row exactly like
+	 *  `sessions()` (same select). */
 	currentSession(userId: string): SessionRow | undefined {
 		return this.db
 			.select()
 			.from(sessions)
-			.where(and(eq(sessions.userId, userId), eq(sessions.mode, 'practice')))
+			.where(
+				and(eq(sessions.userId, userId), eq(sessions.mode, 'practice'), isNull(sessions.endedAt))
+			)
 			.orderBy(desc(sessions.id))
 			.limit(1)
 			.get();
+	}
+
+	/** This session's `attempt` rows ordered (at, id) — the re-drill + summary input. Filters
+	 *  user_id (defense-in-depth alongside session_id, matching every other query in this repo). */
+	sessionAttempts(userId: string, sessionId: number): ReviewLogRow[] {
+		return this.db
+			.select()
+			.from(reviewLog)
+			.where(
+				and(
+					eq(reviewLog.userId, userId),
+					eq(reviewLog.sessionId, sessionId),
+					eq(reviewLog.kind, 'attempt')
+				)
+			)
+			.orderBy(asc(reviewLog.at), asc(reviewLog.id))
+			.all() as ReviewLogRow[];
 	}
 
 	itemExposures(userId: string): ItemExposureRow[] {

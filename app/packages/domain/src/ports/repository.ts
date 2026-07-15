@@ -119,10 +119,12 @@ export interface ReviewRepository {
   /** All sessions for the user, ordered by id — for the rebuild comparison + future use. */
   sessions(userId: string): SessionRow[];
   /**
-   * The user's current (latest) practice session, or undefined. D.1 has no session-ending; this
-   * reuses the latest so the planner seed is stable across loads.
+   * The user's latest UNENDED (`endedAt` null) practice session, or undefined. D.2 ends sessions,
+   * so "current" means the one open session (there is at most one) — a fresh `?/start` follows an end.
    */
   currentSession(userId: string): SessionRow | undefined;
+  /** This session's `attempt` rows ordered (at, id) — the re-drill + summary input (filters user_id). */
+  sessionAttempts(userId: string, sessionId: number): ReviewLogRow[];
   /** All item exposures for the user, ordered by item_id — for the rebuild comparison. */
   itemExposures(userId: string): ItemExposureRow[];
   /**

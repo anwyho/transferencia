@@ -258,6 +258,39 @@ describe('DrizzleReviewRepository (C.1 integration)', () => {
 		const st = fold(env.repo.events('u1').map(rowToEvent), { scheduler: trivialScheduler });
 		expect(st.itemExposures).toEqual(env.repo.itemExposures('u1'));
 	});
+
+	it('currentSession returns the latest UNENDED practice session', () => {
+		const s1 = env.repo.startSession({ userId: 'u1', mode: 'practice', targetAttempts: 10, at: t });
+		expect(env.repo.currentSession('u1')?.id).toBe(s1.sessionId);
+		env.repo.endSession({ userId: 'u1', sessionId: s1.sessionId, at: t + 1 });
+		expect(env.repo.currentSession('u1')).toBeUndefined(); // ended -> no open session
+		const s2 = env.repo.startSession({ userId: 'u1', mode: 'practice', targetAttempts: 10, at: t + 2 });
+		expect(env.repo.currentSession('u1')?.id).toBe(s2.sessionId);
+	});
+
+	it('sessionAttempts returns only this session\'s attempts, ordered', () => {
+		const { sessionId } = env.repo.startSession({ userId: 'u1', mode: 'practice', targetAttempts: 10, at: t });
+		const other = env.repo.startSession({ userId: 'u1', mode: 'practice', targetAttempts: 10, at: t + 1 });
+		env.repo.appendAttempt(attempt({ sessionId, direction: 'en>es' }));
+		env.repo.appendAttempt(attempt({ sessionId: other.sessionId, direction: 'es>en' }));
+		const rows = env.repo.sessionAttempts('u1', sessionId);
+		expect(rows).toHaveLength(1);
+		expect(rows[0].direction).toBe('en>es');
+		expect(rows.every((r) => r.kind === 'attempt' && r.sessionId === sessionId)).toBe(true);
+	});
+
+	it('endSession appends session_end and folds identically (ended + realized_count)', () => {
+		const { sessionId } = env.repo.startSession({ userId: 'u1', mode: 'practice', targetAttempts: 10, at: t });
+		env.repo.appendAttempt(attempt({ sessionId }));
+		env.repo.appendAttempt(attempt({ sessionId }));
+		env.repo.endSession({ userId: 'u1', sessionId, at: t + 100 });
+
+		const folded = fold(env.repo.events('u1').map(rowToEvent), { scheduler: trivialScheduler });
+		expect(folded.sessions).toEqual(env.repo.sessions('u1'));
+		const s = folded.sessions.find((x) => x.id === sessionId)!;
+		expect(s.endedAt).toBe(t + 100);
+		expect(s.realizedCount).toBe(2);
+	});
 });
 
 describe('C.2a rebuild proof — fold reproduces the incremental projection', () => {
