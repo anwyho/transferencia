@@ -45,6 +45,7 @@ export interface PlannerKnobs {
   newRuleCapPerSession: number;
   cooldownMs: number;
   targetAttempts: number;
+  redrillMaxMissesPerInstrument: number; // D.2 re-drill tail bound; a missed instrument re-drills at most (cap-1) times
 }
 
 // Monte-Carlo-owned placeholders — NOT tuned (scheduler-sim owns the values; ledger). Terms are
@@ -55,7 +56,8 @@ export const PLANNER_KNOBS: PlannerKnobs = {
   perRuleCap: 2, // Monte-Carlo-owned
   newRuleCapPerSession: 3, // Monte-Carlo-owned
   cooldownMs: 43_200_000, // 12h — Monte-Carlo-owned
-  targetAttempts: 10 // ~10-min budget — Monte-Carlo-owned
+  targetAttempts: 10, // ~10-min budget — Monte-Carlo-owned
+  redrillMaxMissesPerInstrument: 2 // Monte-Carlo-owned — D.2 re-drill tail bound (max misses per instrument before it waits for next session)
 };
 
 export interface SessionPlanner {
