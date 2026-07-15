@@ -86,4 +86,25 @@
 			{/each}
 		</ul>
 	</section>
+
+	<section data-testid="session-panel" aria-label="current session">
+		{#if data.session}
+			<p>session: <span data-testid="session-id">{data.session.id}</span></p>
+			<p>
+				realized: <span data-testid="session-realized">{data.session.realizedCount}</span>
+				/ <span data-testid="session-target">{data.session.targetAttempts}</span>
+			</p>
+			<p>ended: <span data-testid="session-ended">{String(data.session.ended)}</span></p>
+			<ol data-testid="session-redrill-list">
+				{#each data.sessionRedrill as r, i (i)}
+					<li data-testid="session-redrill-item" data-item-id={r.itemId}>
+						{r.itemId}
+						{r.direction}
+					</li>
+				{/each}
+			</ol>
+		{:else}
+			<p data-testid="session-none">no active session</p>
+		{/if}
+	</section>
 </main>

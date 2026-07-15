@@ -2,21 +2,41 @@ import type { Actions, PageServerLoad } from './$types';
 import {
 	eligibleItems,
 	eligibleRules,
+	isVisible,
 	masteryReady,
 	planSession,
 	PLANNER_KNOBS,
+	redrillQueue,
 	seededRng
 } from '@lt/domain';
 import { contentStore, maxLesson } from '$lib/server/content-loader';
 import { getRepo } from '$lib/server/db';
 import { clockNow } from '$lib/server/clock';
 import { buildPlannerCtx } from '$lib/server/planner-ctx';
+import { toRedrillAttempts } from '$lib/server/session-ctx';
 
 export const load: PageServerLoad = ({ locals }) => {
 	const store = contentStore();
 	const repo = getRepo();
 	const currentLesson = repo.currentLesson(locals.user.id);
 	const now = clockNow();
+	// Current-session panel (D.2 lifecycle observability): the latest practice session + its re-drill
+	// queue. Deliberately NOT `repo.currentSession` (unended-only): the panel must keep showing the
+	// just-ended session until the next ?/start, mirroring the root route's `idle()` last-session read.
+	const lastSession = repo
+		.sessions(locals.user.id)
+		.filter((s) => s.mode === 'practice')
+		.at(-1);
+	const sessionRedrill = lastSession
+		? redrillQueue(
+				toRedrillAttempts(repo.sessionAttempts(locals.user.id, lastSession.id)),
+				(itemId) => {
+					const it = store.get(itemId);
+					return !!it && isVisible(it, currentLesson);
+				},
+				{ redrillMaxMissesPerInstrument: PLANNER_KNOBS.redrillMaxMissesPerInstrument }
+			).map((i) => ({ itemId: i.itemId, direction: i.direction }))
+		: [];
 	return {
 		currentLesson,
 		maxLesson: maxLesson(),
@@ -55,7 +75,16 @@ export const load: PageServerLoad = ({ locals }) => {
 		starredItems: repo
 			.itemExposures(locals.user.id)
 			.filter((e) => e.starred)
-			.map((e) => e.itemId)
+			.map((e) => e.itemId),
+		session: lastSession
+			? {
+					id: lastSession.id,
+					realizedCount: lastSession.realizedCount,
+					targetAttempts: lastSession.targetAttempts,
+					ended: lastSession.endedAt != null
+				}
+			: null,
+		sessionRedrill
 	};
 };
 
