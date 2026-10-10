@@ -1,0 +1,25 @@
+- main [ref=f1e3]:
+  - heading "Queue inspector" [level=1] [ref=f1e4]
+  - region "lesson dial" [ref=f1e5]:
+    - button "lesson down" [ref=f1e7]: −
+    - strong [ref=f1e8]: "1"
+    - text: / 5
+    - button "lesson up" [ref=f1e10]: +
+    - generic [ref=f1e11]:
+      - spinbutton [ref=f1e12]: "1"
+      - button "set" [ref=f1e13]
+  - region "eligible queue" [ref=f1e14]:
+    - paragraph [ref=f1e15]: "eligible items: 0 · schedulable rules: 0"
+    - list
+  - region "scheduled rules" [ref=f1e16]:
+    - paragraph [ref=f1e17]: "scheduled rules: 0"
+    - list
+  - region "planned session" [ref=f1e18]:
+    - paragraph [ref=f1e19]: Deterministic preview (fixed seed) — the live session's picks vary by session.
+    - paragraph [ref=f1e20]: "planned attempts: 0"
+    - list
+  - region "starred items" [ref=f1e21]:
+    - paragraph [ref=f1e22]: "starred: 0"
+    - list
+  - region "current session" [ref=f1e23]:
+    - paragraph [ref=f1e24]: no active session
